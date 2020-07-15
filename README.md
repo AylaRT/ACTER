@@ -27,7 +27,7 @@ and 4 domains (corruption, dressage, heart failure, and wind energy).
 * **Shared Task**: see https://termeval.ugent.be; workshop proceedings with overview paper at 
                     https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/COMPUTERM2020book.pdf)
 * **Annotation Guidelines**: http://hdl.handle.net/1854/LU-8503113
-* **Source**: https://github.ugent.be/arigouts/ACTER.git 
+* **Source**: https://github.com/AylaRT/ACTER.git 
 * **License**: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
                     (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 * **Reference**: Please cite the following Open Access paper if you use this dataset 
@@ -225,7 +225,7 @@ Domain  Language    # term annotations  # term + Named Entity annotations   # Sp
 
 The ACTER dataset is an ongoing project, so we are always looking to improve the data.
 Any questions or issues regarding this dataset may be reported via the Github repository at:
-https://github.ugent.be/arigouts/ACTER/issues and will be addressed asap.
+https://github.com/AylaRT/ACTER.git and will be addressed asap.
 
 
 
