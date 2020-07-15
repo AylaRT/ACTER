@@ -64,7 +64,7 @@ Dwergmeeuwen komen zeer verspreid voor over de Belgische zeegebieden. De hele Be
 
 Af en toe worden groepen zwarte zee-eenden waargenomen op de Wenduinebank. Dit kan duiden op het gebruik van het gebied door deze vogels tijdens migraties van en naar meer zuidwestelijk gelegen overwinteringsgebieden. Aan de westkust zijn de aantallen waargenomen zwarte zee-eenden echter vele malen hoger (Stroombank, Nieuwpoortbank, Trapegeer).
 
-Er komen aan onze kust verschillende soorten duikers voor. Ze zijn op zee moeilijk te identificeren tot op soortniveau. Volgens Seys (2001) behoort meer dan 90 % van de duikers in onze wateren tot de roodkeelduiker. Verder in deze beoordeling wordt de verzamelnaam ‘ duikers’ gebruikt. De Wenduinebank is niet belangrijk als habitat voor duikers; niettemin werden er niet te verwaarlozen dichtheden waargenomen (Stienen, 2002).
+Er komen aan onze kust verschillende soorten duikers voor. Ze zijn op zee moeilijk te identificeren tot op soortniveau. Volgens Seys (2001) behoort meer dan 90 % van de duikers in onze wateren tot de roodkeelduiker. Verder in deze beoordeling wordt de verzamelnaam ' duikers' gebruikt. De Wenduinebank is niet belangrijk als habitat voor duikers; niettemin werden er niet te verwaarlozen dichtheden waargenomen (Stienen, 2002).
 
 Er zijn niet veel gegevens voorhanden in verband met migraties doorheen het gebied. Er bestaan wel veel gegevens over trekbewegingen langs de kust (tot enkele km uit de kust; waarnemingen vanop strand, havenhoofden en strandhoofden), maar zeer weinig gegevens over migraties op meer dan enkele km uit de kust. De afstand die de trekkende vogels van de kust aanhouden is afhankelijk van de soort en van de weersomstandigheden. Er bestaat, vooral tijdens slechte weersomstandigheden, een gestuwde trek (trek geconcentreerd in een bepaald gebied) langs de kust. De meeste soorten blijven waarschijnlijk relatief dicht bij de kust (vb. zangvogels, zwarte zee-eend, fuut,...), terwijl andere soorten niet speciaal de kuststrook opzoeken (vb. dwergmeeuw).
 
@@ -141,7 +141,7 @@ Natuurlijke ontwikkeling
 Er kan gesteld worden dat een natuurlijke ontwikkeling van het zeelandschap inhoudt dat er geen ontwikkelingen boven zeeniveau zullen plaatsvinden die het landschap zouden wijzigen. Bij een natuurlijke ontwikkeling blijft de weidsheid en openheid van het zeelandschap ongewijzigd.
 
 Geïntegreerd kustzonebeheer
-In het kader van een geïntegreerd kustzonebeheer wordt hierna een kort overzicht gegeven van de natuurlijke en natuurtechnische eigenschappen van het gebied (open plaatsen en bebouwde zones in het desbetreffende deel van de kust). Het belangrijkste natuurgebied in zee is het NATURA 2000 gebied dat zich uitstrekt van de kust tot 3 NM in zee van Oostende tot de Franse grens. Het geplande windmolenpark situeert zich op zo’n 2NM van dit natuurgebied. Op land zijn er waardevolle kuststrookgebieden te vinden tussen Oostende en Wenduine: met name de duinengordel ter hoogte van Bredene en de kustlijn van de gemeente De Haan waar hoogbouw op de dijk tot nu toe gemeden werd.
+In het kader van een geïntegreerd kustzonebeheer wordt hierna een kort overzicht gegeven van de natuurlijke en natuurtechnische eigenschappen van het gebied (open plaatsen en bebouwde zones in het desbetreffende deel van de kust). Het belangrijkste natuurgebied in zee is het NATURA 2000 gebied dat zich uitstrekt van de kust tot 3 NM in zee van Oostende tot de Franse grens. Het geplande windmolenpark situeert zich op zo'n 2NM van dit natuurgebied. Op land zijn er waardevolle kuststrookgebieden te vinden tussen Oostende en Wenduine: met name de duinengordel ter hoogte van Bredene en de kustlijn van de gemeente De Haan waar hoogbouw op de dijk tot nu toe gemeden werd.
 
 Beweging in het landschap
 
@@ -149,7 +149,7 @@ Het meeste verkeer in de zone is afkomstig van recreatievaart vanuit de havens v
 
 Studies
 
-Onderzoekers van het West-Vlaams Economisch studiebureau (WES) werden geraadpleegd. Uit de studie van de landschapsbeleving, uitgevoerd door het WES in opdracht van de BMM, blijkt dat 28 tot 35% van de respondenten het zeelandschap (zonder windmolens) beschreef als “natuurlijk”, “open”, “oneindig” en “weids”. Het zeelandschap werd eveneens door de meeste bevraagden als “rustig” en ”stil” beschreven.
+Onderzoekers van het West-Vlaams Economisch studiebureau (WES) werden geraadpleegd. Uit de studie van de landschapsbeleving, uitgevoerd door het WES in opdracht van de BMM, blijkt dat 28 tot 35% van de respondenten het zeelandschap (zonder windmolens) beschreef als "natuurlijk", "open", "oneindig" en "weids". Het zeelandschap werd eveneens door de meeste bevraagden als "rustig" en "stil" beschreven.
 
 Besluit
 
@@ -171,7 +171,7 @@ Bijkomende studies
 
 Literatuur, raadpleging experten en aanvullingen BMM
 
-Er werden bijkomende gegevens over de visserij gehaald uit de Belgische zeevisserij aanvoer en besommingen 2000 opgesteld door de Dienst voor Zeevisserij (Welvaert, 2000) en het rapport ‘West-Vlaanderen in feiten en cijfers 2000’ , opgesteld door de GOM West-Vlaanderen geraadpleegd (GOM West Vlaanderen, 2001).
+Er werden bijkomende gegevens over de visserij gehaald uit de Belgische zeevisserij aanvoer en besommingen 2000 opgesteld door de Dienst voor Zeevisserij (Welvaert, 2000) en het rapport 'West-Vlaanderen in feiten en cijfers 2000' , opgesteld door de GOM West-Vlaanderen geraadpleegd (GOM West Vlaanderen, 2001).
 
 Uit contacten met mensen uit de visserijsector – vissers en ambtenaren – blijkt dat het gebied van de Wenduinebank belangrijk is voor de kustvissers.
 
@@ -241,9 +241,9 @@ De aanvrager dient alle nodige voorzieningen te treffen om risico's waaraan het 
 
 Er zijn factoren die objectief het huidige niveau van risico in de zone zullen wijzigen : extra verkeer voor personenvervoer en voor de bevoorrading tussen een haven (de aanvrager aarzelt tussen Oostende en Zeebrugge) en de werf aanwezigheid van een grote groep personen op de werf, aanwezigheid van werktuigen, stoffen en materialen, aanwezigheid van stilliggende schepen in de vaargeulen tijdens het leggen van de onderzeese hoogspanningskabel naar de kust, de geleidelijke verstoring van het radarsysteem en het VHF-positioneringssysteem.
 
-De BMM is van mening dat het bijkomende verkeer tot geen significante verhoging van een “conflicterende beweging” zal leiden.
+De BMM is van mening dat het bijkomende verkeer tot geen significante verhoging van een "conflicterende beweging" zal leiden.
 
-De effecten op het radarsysteem en het VHF–systeem zullen geleidelijk tot uiting komen naarmate de masten, de transformatorpost en de meetmasten worden gebouwd en de windturbines in werking worden gesteld. Deze aspecten en de andere risico’s te wijten aan de aanwezigheid van het windmolenpark komen ter sprake in het hoofdstuk over de exploitatiefase.
+De effecten op het radarsysteem en het VHF–systeem zullen geleidelijk tot uiting komen naarmate de masten, de transformatorpost en de meetmasten worden gebouwd en de windturbines in werking worden gesteld. Deze aspecten en de andere risico's te wijten aan de aanwezigheid van het windmolenpark komen ter sprake in het hoofdstuk over de exploitatiefase.
 
 Zonder gedetailleerde informatie over de aan te wenden werkwijzen en de gebruikte materialen kan de BMM geen schatting doen van de mogelijke gevolgen voor het milieu van onvoorziene gebeurtenissen tijdens de constructiefase.
 
@@ -255,7 +255,7 @@ Er werden geen bijkomende studies uitgevoerd voor dit deel van het MER.
 
 Besluit
 
-De risico’s en de gevolgen van mogelijke onvoorziene gebeurtenissen tijdens de bouwfase werden niet voldoende uitgewerkt. De informatie om een gepaste beoordeling te kunnen doen ligt vooral in de handen van de aanvrager. Zijn verklaring dat “de werkzaamheden toevertrouwd [worden] aan gereputeerde ondernemingen met internationale ervaring” is onvoldoende om de BMM toe te laten de aan te wenden werkwijzen en materialen te beoordelen. Het is ook niet duidelijk of de aanvrager de veiligheidsaspecten op zich neemt (er wordt soms van een “partner” gesproken, soms van “ondernemingen”).
+De risico's en de gevolgen van mogelijke onvoorziene gebeurtenissen tijdens de bouwfase werden niet voldoende uitgewerkt. De informatie om een gepaste beoordeling te kunnen doen ligt vooral in de handen van de aanvrager. Zijn verklaring dat "de werkzaamheden toevertrouwd [worden] aan gereputeerde ondernemingen met internationale ervaring" is onvoldoende om de BMM toe te laten de aan te wenden werkwijzen en materialen te beoordelen. Het is ook niet duidelijk of de aanvrager de veiligheidsaspecten op zich neemt (er wordt soms van een "partner" gesproken, soms van "ondernemingen").
 
 Benthos, vissen en biodiversiteit
 
@@ -385,7 +385,7 @@ Effecten beschreven in het MER
 
 Het belangrijkste effect dat in het MER wordt verwacht tijdens de werken, is de verhoging van de turbiditeit. Er wordt echter gesteld dat de toename van de turbiditeit zeer tijdelijk en lokaal is. Door de geringe oppervlakte van het werkterrein en de sterke temporale spreiding, zal de geïnduceerde resuspensie echter niet opwegen tegenover de natuurlijk voorkomende resuspensie.
 
-Een tweede mogelijk effect is de aanrijking van de waterkolom met verontreiniging door de resuspensie van de bovenste sedimentlagen. Er wordt echter gesteld dat de achtergrondconcentraties in de waterkolom in slechts twee van de zeven bodemstalen werden overschreden en dat er bovendien nergens polluentenconcentraties werden aangetroffen “die van een bodemsaneringsconcentratie-grootteorde waren”. Tot slot is ook deze aanrijking lokaal en zeer tijdelijk.
+Een tweede mogelijk effect is de aanrijking van de waterkolom met verontreiniging door de resuspensie van de bovenste sedimentlagen. Er wordt echter gesteld dat de achtergrondconcentraties in de waterkolom in slechts twee van de zeven bodemstalen werden overschreden en dat er bovendien nergens polluentenconcentraties werden aangetroffen "die van een bodemsaneringsconcentratie-grootteorde waren". Tot slot is ook deze aanrijking lokaal en zeer tijdelijk.
 
 Er wordt in het MER geconcludeerd dat er een verhoging van de turbiditeit en eventueel van de polluentenconcentraties kan worden verwacht, maar dat deze lokaal en tijdelijk zijn.
 
@@ -451,7 +451,7 @@ Volgens de algemene geluiddempingsregel neemt het geluidsvermogen met 6 dB af bi
 
 sferische verspreiding van de geluidsgolf en is van toepassing in een landelijke omgeving met een halfronde vorm, waar de geluidsabsorptie en geluidsreflectie elkaar volgens een eerste benadering opheffen. De BMM heeft twee berekeningen uitgevoerd, resp. met een geluiddemping van 6 dB en van 5 dB per verdubbeling van afstand tot de geluidsbron (zie Figuur 1 en Figuur 2, volgende pagina). Verschillende studies tonen inderdaad dat de zeeoppervlakte niet zo absorberend is. Bovendien kunnen de weersomstandigheden leiden tot een toename van het geluid dat in een specifieke richting ten opzichte van een bron wordt waargenomen. Bij krachtige wind of bij een «tunneleffect» inducerende temperatuurinversie kan deze geluidsniveautoename significant oplopen.
 
-Voor menselijke receptoren wordt het geluidsvermogen uitgedrukt in dB(A). Deze maateenheid houdt rekening met de dynamiek waarmee frequenties door het menselijk oor worden waargenomen. Dit maakt het mogelijk de bereikte niveaus te vergelijken met de referentiewaarden van standaardnormen. Deze metingen en resultaten bieden echter niet de mogelijkheid de psychologische impact van de geluidsbeleving in te schatten. Het geluid van een scheepsmotor in zeemilieu bijvoorbeeld zal bij een gelijk geluidsniveau doorgaans beter worden geaccepteerd dan het geluid van de transistorradio van een onbekende, die muziek speelt die niet in de smaak van de “receptor” valt.
+Voor menselijke receptoren wordt het geluidsvermogen uitgedrukt in dB(A). Deze maateenheid houdt rekening met de dynamiek waarmee frequenties door het menselijk oor worden waargenomen. Dit maakt het mogelijk de bereikte niveaus te vergelijken met de referentiewaarden van standaardnormen. Deze metingen en resultaten bieden echter niet de mogelijkheid de psychologische impact van de geluidsbeleving in te schatten. Het geluid van een scheepsmotor in zeemilieu bijvoorbeeld zal bij een gelijk geluidsniveau doorgaans beter worden geaccepteerd dan het geluid van de transistorradio van een onbekende, die muziek speelt die niet in de smaak van de "receptor" valt.
 
 Deze psychologische impact komt ook tot uiting in een verschillende waarneming van continu geluid en discontinu of puntgeluid. Hiermee rekening houdend beoordeelt de BMM enkel het geluidsniveau dat aan de kust wordt voortgebracht door het inheien van de funderingen.
 
@@ -463,11 +463,11 @@ Studies (Modellen, berekeningen, enquête, onderaanneming ed)
 
 Er werden geen bijkomende studies uitgevoerd.
 
-3 De “algemeen aanvaarde norm” voor nachtelijk achtergrondgeluid in woongebieden bedragen 35 tot 40 dB(A). Het achtergrondgeluid aan de kust is hoofdzakelijk van natuurlijke oorsprong (wind, golven, branding...), onafhankelijk van het circadiaanse ritme [24-uurs ritme] en naar schatting 50 dB(A) bedraagt.
+3 De "algemeen aanvaarde norm" voor nachtelijk achtergrondgeluid in woongebieden bedragen 35 tot 40 dB(A). Het achtergrondgeluid aan de kust is hoofdzakelijk van natuurlijke oorsprong (wind, golven, branding...), onafhankelijk van het circadiaanse ritme [24-uurs ritme] en naar schatting 50 dB(A) bedraagt.
 
 Figuur 1 Geluidsniveaus bij het heien van een paal in de meest dichtbije rij t.o.v. de kust, met een geluidsdemping van 6 dB per verdubbeling van de afstand tot de bron.
 
-Figuur 2 Geluidsniveaus bij het heien van een paal in de meest dichtbije rij t.o.v. de kust, met een geluidsdemping van 5 dB per verdubbeling van de afstand tot de bron (toepasbaar in geval van “krachtige” wind of bij “tunneleffect”)
+Figuur 2 Geluidsniveaus bij het heien van een paal in de meest dichtbije rij t.o.v. de kust, met een geluidsdemping van 5 dB per verdubbeling van de afstand tot de bron (toepasbaar in geval van "krachtige" wind of bij "tunneleffect")
 
 Besluit
 
@@ -475,17 +475,17 @@ Wat de fauna betreft valt geen belangrijke en duurzame negatieve impact te vreze
 
 De werkzaamheden hebben, qua geluid, effecten die in tijd en ruimte beperkt zullen blijven. Onder bepaalde (weers)omstandigheden zullen de geluidsniveau aan de kust hoorbaar zijn, tenminste tijdens het heien van de rijen die het dichtst bij de kust staan. Het risico bestaat dus dat sommige personen dit geluid op negatieve wijze waarnemen en beleven.
 
-Risico’s en gevolgen van mogelijke rampen
+Risico's en gevolgen van mogelijke rampen
 
 Effecten beschreven in het MER
 
-De aanvrager merkt op dat “bij werken op zee, bovendien op grote hoogte, zijn ongevallen niet uit te sluiten”.
+De aanvrager merkt op dat "bij werken op zee, bovendien op grote hoogte, zijn ongevallen niet uit te sluiten".
 
-Betreffende de werkzaamheden op zee, wijst de aanvrager op het feit dat “de mariene activiteiten tijdens bouw en exploitatie van het park aan Dredging International zullen toevertrouwd worden, een bedrijf met een ruime nationale en internationale ervaring in het uitvoeren van waterbouwkundige werken op zee”. Verder schrijft hij “Bij de constructie en de uitbating van het W.E.P. (Wind Energie Park) zijn drie werkdisciplines betrokken : mariene werken en activiteiten, montage van de turbines, aanbrengen van de elektrische infrastructuur. C–Power heeft deze drie werkzaamheden toevertrouwd aan gereputeerde ondernemingen met internationale ervaring : ABB, Bonus, Energy A/S en Dredging International. Allen werken volgens en gedetailleerd veiligheidsplan.”
+Betreffende de werkzaamheden op zee, wijst de aanvrager op het feit dat "de mariene activiteiten tijdens bouw en exploitatie van het park aan Dredging International zullen toevertrouwd worden, een bedrijf met een ruime nationale en internationale ervaring in het uitvoeren van waterbouwkundige werken op zee". Verder schrijft hij "Bij de constructie en de uitbating van het W.E.P. (Wind Energie Park) zijn drie werkdisciplines betrokken : mariene werken en activiteiten, montage van de turbines, aanbrengen van de elektrische infrastructuur. C–Power heeft deze drie werkzaamheden toevertrouwd aan gereputeerde ondernemingen met internationale ervaring : ABB, Bonus, Energy A/S en Dredging International. Allen werken volgens en gedetailleerd veiligheidsplan."
 
-Buiten deze beschouwingen is er weinig of geen informatie omtrent de risico’s en de mogelijke gevolgen van ongevallen tijdens de bouwfase in het MER terug te vinden, noch voor de windmolens zelf, noch voor de transformatorpost en de meetmasten.
+Buiten deze beschouwingen is er weinig of geen informatie omtrent de risico's en de mogelijke gevolgen van ongevallen tijdens de bouwfase in het MER terug te vinden, noch voor de windmolens zelf, noch voor de transformatorpost en de meetmasten.
 
-De aanvrager verklaart ook dat “bepaalde aspecten, zoals markering en signalisatie tijdens bouw en exploitatie en de te nemen maatregelen bij ongevallen nog verder dienen te worden uitgewerkt in samenwerking met de relevante overheden”. Het MER bevat dus geen voorstel hieromtrent.
+De aanvrager verklaart ook dat "bepaalde aspecten, zoals markering en signalisatie tijdens bouw en exploitatie en de te nemen maatregelen bij ongevallen nog verder dienen te worden uitgewerkt in samenwerking met de relevante overheden". Het MER bevat dus geen voorstel hieromtrent.
 
 Literatuur en aanvullingen BMM
 
@@ -493,7 +493,7 @@ Scheepvaartverkeer
 
 De aanwezigheid van een windmolenpark vormt een fysiek obstakel voor de scheepvaart, en zal de radargolven en het VHF-positioneringssysteem misschien verstoren. De grootste schepen die in het noorden van het gebied varen zullen geen ander fysisch obstakel (zandbank) onderweg ontmoeten indien ze zich, om welke reden ook, naar het projectgebied begeven. De korte afstand tussen de kust en de geplande zone is een reden voor bezorgdheid over de naleving van de ontoegankelijkheid van de zone.
 
-Alhoewel geen onbetwistbare cijfers en statistieken bestaan, toont het “Heinrich Behrmann”–incident aan dat een aanvaring tussen een geladen schip en een windmolen niet uit te sluiten is.
+Alhoewel geen onbetwistbare cijfers en statistieken bestaan, toont het "Heinrich Behrmann"–incident aan dat een aanvaring tussen een geladen schip en een windmolen niet uit te sluiten is.
 
 De invloed van het windmolenpark op de radargolven (die vanaf vaste radarstations en vanaf schepen worden uitgestraald) is a priori moeilijk in te schatten. Afhankelijk van het materiaal waarmee de windturbines bekleed zijn, zouden de effecten zoals enkele of dubbele valse echo's en spookecho's in meer of mindere mate kunnen voorkomen worden.
 
@@ -541,11 +541,11 @@ accidentele lozing van vloeistoffen tijdens het onderhoud
 
 Het eerste risico kan als onwaarschijnlijk beschouwd worden indien de noodzakelijke voorzorgmaatregelen getroffen werden: signalisatie, minimale vlieghoogte en vermelding van het park op relevante kaarten en documenten.
 
-Scenario’s 2, 3, 4 en 5 kunnen tot schade aan een schip leiden door impact van fragmenten afkomstig van de windturbines. Bij het vijfde scenario zal, naast inerte materialen, vloeistof in het mariene milieu ingebracht worden.
+Scenario's 2, 3, 4 en 5 kunnen tot schade aan een schip leiden door impact van fragmenten afkomstig van de windturbines. Bij het vijfde scenario zal, naast inerte materialen, vloeistof in het mariene milieu ingebracht worden.
 
-Er zijn normaal verschillende soorten olie in de windturbines : hydraulische olie, smeerolie in de tandwielkast, minerale olie, enz. De totale hoeveelheid per windturbine bedraagt naar schatting 1 m³. De olie kan schadelijk zijn voor het milieu. Bij gebrek aan gedetailleerde technische specificaties is het onmogelijk een beoordeling van het risico te maken. Het MER bevat ook geen informatie over de zekerheidsfactoren die bij de berekeningen van de masten worden weerhouden. De BMM heeft dus de risico’s op een structurele faling niet kunnen inschatten.
+Er zijn normaal verschillende soorten olie in de windturbines : hydraulische olie, smeerolie in de tandwielkast, minerale olie, enz. De totale hoeveelheid per windturbine bedraagt naar schatting 1 m³. De olie kan schadelijk zijn voor het milieu. Bij gebrek aan gedetailleerde technische specificaties is het onmogelijk een beoordeling van het risico te maken. Het MER bevat ook geen informatie over de zekerheidsfactoren die bij de berekeningen van de masten worden weerhouden. De BMM heeft dus de risico's op een structurele faling niet kunnen inschatten.
 
-Uit de technische schema’s die in het MER te vinden zijn, blijkt dat in elk van de masten een generator voorzien zal worden. Er is geen informatie beschikbaar over de te gebruiken brandstof en de tank.
+Uit de technische schema's die in het MER te vinden zijn, blijkt dat in elk van de masten een generator voorzien zal worden. Er is geen informatie beschikbaar over de te gebruiken brandstof en de tank.
 
 De BMM heeft ook geen gedetailleerde informatie over de transformatorpost kunnen bestuderen. De vloeistof die als koelmiddel zal worden gebruikt is niet beschreven.
 
@@ -583,7 +583,7 @@ In het MER is geen sprake van leemtes in de kennis zoals mogelijke effecten van 
 
 De aanvragers verwachten dat zich op en rond de erosiebescherming nieuwe soorten – snotolf, botervis, zeepaling, noordzeekrab, zeekrab (sic!) en zeekreeft zouden vestigen. In het MER gaat men niet dieper in op de implicaties van deze veranderingen noch op de reële kans dat bepaalde van de genoemde soorten zich inderdaad zouden vestigen.
 
-Onder de hoofding “invloed van het project op het milieu” worden verder een aantal algemene effecten besproken Een aantal daarvan zijn hier niet op hun plaats en/of
+Onder de hoofding "invloed van het project op het milieu" worden verder een aantal algemene effecten besproken Een aantal daarvan zijn hier niet op hun plaats en/of
 
 misleidend, zoals de verwijzing naar ICES en de verwijzing naar o.a. Laminaria. Hetzelfde kan gezegd worden van de verwijzing naar Zostera en de vegetatie van macrowieren vergelijkbaar met de Noordfranse kust die zou ontstaan. De suggestie wordt gewekt dat hier een geschikt substraat zal gecreëerd worden voor de vermelde soorten. Er wordt echter ook hier geen vergelijking gemaakt in het rapport met de soorten die voorkomen in het sublitoraal van de golfbrekers of de havenmuur van Zeebrugge, of de fauna en flora van wrakken of met andere subtidale structuren bvb het kunstrif in Nederland (Leewis et al. 1997). Dergelijke vergelijking zou realistischer zijn dan mel ding te maken van soorten die er (hoogstwaarschijnlijk) niet zullen komen. De stromingen in dit gebied zijn te sterk, en de lichtintensiteit op de bodem is waarschijnlijk te gering voor het ontstaan van uitgebreide vegetaties met macrowieren.
 
@@ -635,7 +635,7 @@ Daarnaast komt een nieuw biotoop in de plaats, namelijk kunstmatige harde substr
 
 Kunstmatige riffen kunnen worden gebruikt om de habitatdiversiteit in een gebied te vergroten. De biomassa en de diversiteit zijn groter op een rif dan in zandslib substraten.
 
-Een hoge (bio)diversitieit en biomassa worden algemeen gezien als een positief aspect van een bepaald biotoop. Uiteraard kan de aldus ontstane “antropogene” diversiteit van kunstmatige riffen anders gewaardeerd worden dan de van nature aanwezige diversiteit. De impact – verhoging biomassa, verhoging biodiversiteit – zal voornamelijk afhangen van de architectuur. Deze hangt op zijn beurt af van de algemene appreciatie van deze nieuwe habitat als gunstig of ongunstig. Dit moet a priori bepaald worden. Het verhogen van de biodiversiteit is echter geen doel van dit windmolenpark. Over het algemeen is het zelfs beter om de bestaande biodiversiteit te behouden en de natuurlijke ontwikkeling ervan te bevorderen. Bij dit windmolenpark zijn de harde substraten weinig omvangrijk en nemen ze slechts een beperkte oppervlakte in. Het effect zal klein en zeer lokaal zijn. Anderzijds zullen zij toch een vreemd element in het gebied vormen. Daarom wordt gepleit om hun algehele omvang tot het strikte minimum te beperken.
+Een hoge (bio)diversitieit en biomassa worden algemeen gezien als een positief aspect van een bepaald biotoop. Uiteraard kan de aldus ontstane "antropogene" diversiteit van kunstmatige riffen anders gewaardeerd worden dan de van nature aanwezige diversiteit. De impact – verhoging biomassa, verhoging biodiversiteit – zal voornamelijk afhangen van de architectuur. Deze hangt op zijn beurt af van de algemene appreciatie van deze nieuwe habitat als gunstig of ongunstig. Dit moet a priori bepaald worden. Het verhogen van de biodiversiteit is echter geen doel van dit windmolenpark. Over het algemeen is het zelfs beter om de bestaande biodiversiteit te behouden en de natuurlijke ontwikkeling ervan te bevorderen. Bij dit windmolenpark zijn de harde substraten weinig omvangrijk en nemen ze slechts een beperkte oppervlakte in. Het effect zal klein en zeer lokaal zijn. Anderzijds zullen zij toch een vreemd element in het gebied vormen. Daarom wordt gepleit om hun algehele omvang tot het strikte minimum te beperken.
 
 Kolonisatie met grote macro algen valt uit te sluiten gezien de sterke stromingen en de turbulentie in het gebied.
 
@@ -645,7 +645,7 @@ Avifauna
 
 Effecten beschreven in het MER
 
-Het MER verwijst naar een aantal studies die uitgevoerd werden in windmolenparken in het buitenland (met enkel een referentie naar een Nederlandse studie). Er worden drie risico’s vermeld: aanvaringsrisico’s, barrièrewerking en verstoring van foerageer- en rustplaatsen.
+Het MER verwijst naar een aantal studies die uitgevoerd werden in windmolenparken in het buitenland (met enkel een referentie naar een Nederlandse studie). Er worden drie risico's vermeld: aanvaringsrisico's, barrièrewerking en verstoring van foerageer- en rustplaatsen.
 
 Het gevaar voor aanvaringen is het grootst bij slecht zicht: nacht en mist (bij mist is er weinig wind, waardoor dit gevaar kleiner wordt). Een sterfte bij het windmolenpark Oosterbierum (nvdr: niet offshore) werd geschat op 0,02 – 0,09 vogels per dag per molen. Bij een ander niet-offshore park lag de geschatte sterfte 10 keer lager. Het MER stelt dat de extrapolatie naar andere parken met de nodige omzichtigheid dient te gebeuren. Het aantal vogels dat door aanvaringen zal omkomen, zal veel kleiner zijn dan het aantal dat jaarlijks door hoogspanningsleidingen, autosnelwegen, antennes, jacht en pesticiden omkomt. De kennis over de vliegroutes, zeker verder uit de kust, is beperkt. Vogelzwermen konden een Deens windmolenpark vanop een aantal km afstand waarnemen, en ontwijken.
 
@@ -681,7 +681,7 @@ Effecten beschreven in het MER
 
 Onder de waterspiegel
 
-De aanvrager vermeldt hoe de trillingen van de rotorbladen worden gedempt en meldt dat hij niet op de hoogte is van “trillingsrisico’s”.
+De aanvrager vermeldt hoe de trillingen van de rotorbladen worden gedempt en meldt dat hij niet op de hoogte is van "trillingsrisico's".
 
 Boven de waterspiegel
 
@@ -711,7 +711,7 @@ Het geluidsvermogen van een windturbine is afhankelijk van het model en van de w
 
 Aangezien een windturbine zijn volle vermogen bereikt bij een windsnelheid van 10 m/s en dat het geluid door de wind wordt verspreid, heeft de BMM twee berekeningen uitgevoerd, resp. met een geluiddemping van 6 dB en van 5 dB per verdubbeling van afstand tot de geluidsbron (zie beschouwingen over het geluid voor de bouwfase). De resultaten (zie Figuur 3 en Figuur 4) komen overeen met maximale geluidsvermogenverspreiding. Ter referentie, de norm ISO9613 neemt slechts gemiddelde situaties in aanmerking.
 
-Volgens deze resultaten zullen de gelui dsniveaus aan de kust, onder bepaalde omstandigheden, boven de “algemene aanvaardbare waarden” kunnen liggen. Dit zal zeker het geval zijn bij een wind waaiende van de park naar de kust. Er dient opgemerkt te wor den dat het achtergrondsgeluid van de zee zelfs meestal op een hoger niveau dan de “algemene aanvaardbare waarden” ligt. Om een betere idee van de geluidstoestand te kunnen hebben zou een meer gedetailleerde studie moeten worden uitgevoerd (rekening houdend met o.a. het frequentiespectrum, de statistische verspreiding van de verschillende meteorologische toestanden en de achtergrondniveaus).
+Volgens deze resultaten zullen de gelui dsniveaus aan de kust, onder bepaalde omstandigheden, boven de "algemene aanvaardbare waarden" kunnen liggen. Dit zal zeker het geval zijn bij een wind waaiende van de park naar de kust. Er dient opgemerkt te wor den dat het achtergrondsgeluid van de zee zelfs meestal op een hoger niveau dan de "algemene aanvaardbare waarden" ligt. Om een betere idee van de geluidstoestand te kunnen hebben zou een meer gedetailleerde studie moeten worden uitgevoerd (rekening houdend met o.a. het frequentiespectrum, de statistische verspreiding van de verschillende meteorologische toestanden en de achtergrondniveaus).
 
 Besluit
 
@@ -725,15 +725,15 @@ Figuur 3 Geluidsniveaus bij het werken van de vijftig windturbines, met een gelu
 
 Figuur 4 Geluidsniveaus bij het werken van de vijftig windturbines, met een geluiddemping van 5 dB per verdubbeling van de afstand tot de bron.
 
-Risico’s en gevolgen van mogelijke rampen
+Risico's en gevolgen van mogelijke rampen
 
 Effecten beschreven in het MER
 
 De aanvrager heeft de veiligheidsaspecten van het project met de afdelingen Scheepvaartbegeleiding en Vloot van de Administratie Waterwegen en Zeewegen van het Vlaams Gewest besproken.
 
-Hij gaat uit van het feit dat het windmolenpark, inclusief een 500 m veiligheidszone, ontoegankelijk zal zijn voor andere activiteiten dan bouw, uitbating en onderhoud van de installaties. Toch merkt de aanvrager (in het onderdeel “Invloed op socio– economische factoren”) op dat hij “quasi zeker” is “dat van bij de start van de bouw, de installatiezones een aantrekkingspool zullen vormen voor de nieuwsgierige toerist” en dat zowel “een beveiligingsplan als een interventieplan zullen moeten opgemaakt worden”.
+Hij gaat uit van het feit dat het windmolenpark, inclusief een 500 m veiligheidszone, ontoegankelijk zal zijn voor andere activiteiten dan bouw, uitbating en onderhoud van de installaties. Toch merkt de aanvrager (in het onderdeel "Invloed op socio– economische factoren") op dat hij "quasi zeker" is "dat van bij de start van de bouw, de installatiezones een aantrekkingspool zullen vormen voor de nieuwsgierige toerist" en dat zowel "een beveiligingsplan als een interventieplan zullen moeten opgemaakt worden".
 
-Er zijn twee scenario’s geïdentificeerd :
+Er zijn twee scenario's geïdentificeerd :
 
 aanvaring tussen een schip op kruissnelheid en de vaste installaties,
 
@@ -741,9 +741,9 @@ aanvaring tussen een schip op lage snelheid en de vaste installaties.
 
 Beide kunnen veroorzaakt worden door menselijke of technische fouten, uitvallen van de machines, storingen van het radar systeem en/of van het VHF-positioneringssysteem.
 
-De effecten van scheepsongevallen op mens en milieu zijn afhankelijk van de omstandigheden, van de karakteristieken van het schip en van de aard van de lading. Het inschatten van de mogelijke schade die bij zo’n ongeval wordt aangebracht is beschreven als een “quasi onmogelijke taak”. Toch geeft de aanvrager toe dat “bij een ongeval, zelfs met een niet al te groot schip, ernstige schade kan worden aangebracht aan zowel de windturbine als het schip zelf”.
+De effecten van scheepsongevallen op mens en milieu zijn afhankelijk van de omstandigheden, van de karakteristieken van het schip en van de aard van de lading. Het inschatten van de mogelijke schade die bij zo'n ongeval wordt aangebracht is beschreven als een "quasi onmogelijke taak". Toch geeft de aanvrager toe dat "bij een ongeval, zelfs met een niet al te groot schip, ernstige schade kan worden aangebracht aan zowel de windturbine als het schip zelf".
 
-De aanvrager heeft de “lay–out” van het windmolenpark geconcipieerd om de mogelijke storingen van de signalen afkomstig van de vaste radarposten van Zeebrugge en Oostende te minimaliseren. Om een dubbele dekking over de hoofdvaarroutes te kunnen verzekeren, stelt hij voor een bijkomende sensor te (laten) plaatsen.
+De aanvrager heeft de "lay–out" van het windmolenpark geconcipieerd om de mogelijke storingen van de signalen afkomstig van de vaste radarposten van Zeebrugge en Oostende te minimaliseren. Om een dubbele dekking over de hoofdvaarroutes te kunnen verzekeren, stelt hij voor een bijkomende sensor te (laten) plaatsen.
 
 De erosiebescherming – een 2–meter dikke steenlaag rondom de palen– zou volgens het MER als een risicobeperkende factor qua aanvaringen moeten werken.
 
@@ -757,7 +757,7 @@ het onderhoudspersoneel kunnen vormen.
 
 Naast het ontoegankelijk verklaren van het park, samen met de inrichting van een veiligheidszone van 500 m rond het park, stelt de aanvrager de volgende risicobeperkende maatregelen voor :
 
-markering en signalisatie van de vier “hoekpalen” met een radarbaken, een misthoorn en een knipperend licht
+markering en signalisatie van de vier "hoekpalen" met een radarbaken, een misthoorn en een knipperend licht
 beboeiing van de veiligheidszone
 
 berichten aan zeevarenden en de aanduiding van het park op de zeekaarten
@@ -825,7 +825,7 @@ Dit aspect komt niet aan bod in het MER.
 Literatuur, raadpleging van experten en aanvullingen BMM
 
 Werkvaart
-De exploitatie noch de exploratie van de zandwinningsgebieden zullen hinder ondervinden tijdens de bouw van dit windmolenpark. De onlangs meer oostwaarts verplaatste baggerstortplaats “Bruggen en Wegen Oostende” blijft bereikbaar.
+De exploitatie noch de exploratie van de zandwinningsgebieden zullen hinder ondervinden tijdens de bouw van dit windmolenpark. De onlangs meer oostwaarts verplaatste baggerstortplaats "Bruggen en Wegen Oostende" blijft bereikbaar.
 
 Toerisme en economie
 
@@ -959,7 +959,7 @@ Aanvaardbaarheid
 
 Voor het onderdeel geluid en trillingen zijn er duidelijke aanwijzigingen voor nadelige effecten.
 
-Risico’s en gevolgen van mogelijke rampen
+Risico's en gevolgen van mogelijke rampen
 
 Besluit
 
@@ -973,7 +973,7 @@ Het risico voor personen en goederen kan a priori moeilijk in cijfers worden ver
 
 Aanvaardbaarheid
 
-De milieu-effectenbeoordeling uitgevoerd door het Bestuur wijst uit dat er onaanvaardbare effecten kunnen worden aangetoond voor dit onderdeel. Het bestaan en de aard van de risico’s, samen met de ligging van de domeinconcessie dicht bij de kust, die de bedreiging op de kustbelangen verhoogt en de (vele) ontbrekende of onbekende factoren over bepaalde technische aspecten van het project, staven het besluit van de BMM.
+De milieu-effectenbeoordeling uitgevoerd door het Bestuur wijst uit dat er onaanvaardbare effecten kunnen worden aangetoond voor dit onderdeel. Het bestaan en de aard van de risico's, samen met de ligging van de domeinconcessie dicht bij de kust, die de bedreiging op de kustbelangen verhoogt en de (vele) ontbrekende of onbekende factoren over bepaalde technische aspecten van het project, staven het besluit van de BMM.
 
 Benthos
 
@@ -1037,7 +1037,7 @@ Aanvaardbaarheid
 
 Gezien geen noemenswaardige effecten worden verwacht is het project aanvaardbaar voor het onderdeel materiele goederen en menselijke activiteiten.KONINKLIJK BELGISCH INSTITUUT VOOR NATUURWETENSCHAPPEN BEHEERSEENHEID MATHEMATISCH MODEL VAN DE NOORDZEE AFDELING BEHEER VAN HET MARIENE ECOSYSTEEM
 
-Bouw en exploitatie van een windmolenpark op de Wenduinebank in de Noordzee: Milieu-effectenbeoordeling van het project ingediend door de n.v. “C-Power”
+Bouw en exploitatie van een windmolenpark op de Wenduinebank in de Noordzee: Milieu-effectenbeoordeling van het project ingediend door de n.v. "C-Power"
 April 2000) i.v.m. de zeereservaten
 
 Lijst van afkortingen
@@ -1086,7 +1086,7 @@ Hz Hertz
 
 IALA International Association of Marine Aids to Navigatio and Lighthouse Authorities
 
-IBA’s Important Bird Areas
+IBA's Important Bird Areas
 
 ICAO International Civil Aviation Organization
 
@@ -1156,7 +1156,7 @@ Inleiding
 
 C-Power diende op 7 augustus 2001 bij de Minister van Consumentenzaken, Volksgezondheid en Leefmilieu een aanvraag in tot vergunning voor de exploitatie en machtiging voor de bouw van een windmolenpark. Deze vergunning en machtiging zijn vereist op basis van de Wet ter bescherming van het mariene milieu en zijn een voorwaar de bij de toekenning van een domeinconcessie door het Ministerie van Economische Zaken.
 
-Het gebied waarvoor door het Ministerie van Economische Zaken een concessie werd toegekend, situeert zich ter hoogte van de zandbank ‘Wenduinebank’ en de zuidelijke flank van de Wielingen Pas. De minimale afstand tot het strand bedraagt 5 km en de verst windturbine bevindt zich op 11 km. Het project omvat een park van 50 windmolens, met een totale capaciteit van 115 MW.
+Het gebied waarvoor door het Ministerie van Economische Zaken een concessie werd toegekend, situeert zich ter hoogte van de zandbank 'Wenduinebank' en de zuidelijke flank van de Wielingen Pas. De minimale afstand tot het strand bedraagt 5 km en de verst windturbine bevindt zich op 11 km. Het project omvat een park van 50 windmolens, met een totale capaciteit van 115 MW.
 
 Een officieel bericht met alle praktische modaliteiten van de procedure voor de publieke consultatie werd gepubliceerd in het Belgisch Staatsblad van 17 oktober 2001.
 
@@ -1202,7 +1202,7 @@ Besluit
 
 De effecten van de ontmanteling zullen vergelijkbaar zijn met de effecten tijdens de bouwfase. De ontmanteling zal ongetwijfeld effecten hebben op de turbiditeit in de omgeving en eventueel aanleiding geven tot dumping van sedimenten. De effecten zullen echter lokaal en tijdelijk zijn. Zoals in 4.1.3 gesteld moet bovendien worden opgemerkt dat de zone van nature reeds een zone is met een hoge natuurlijke turbiditeit en een grote variatie van de materie in suspensie en met belangrijke bagger- en dumpingactiviteiten. Er kan dan ook worden verwacht dat de effecten vergelijkbaar zullen zijn met de natuurlijke ontwikkelingen.
 
-Toch moet worden opgemerkt dat in het MER wordt vermeld dat het verwijderen van de kabels “veel milieuschade zou berokkenen”. Dit is in tegenstelling tot de beschreven milieueffecten bij het leggen van de kabels, waar geen significante milieueffecten worden verwacht. In overeenstemming met de vorige paragraaf kan worden gesteld dat ook bij het verwijderen van de kabels geen onomkeerbare milieueffecten zullen optreden. Ook hier zullen de effecten lokaal en tijdelijk zijn en vergelijkbaar met de natuurlijke ontwikkelingen. Er is daarom geen reden om, vanuit milieuaspecten, de kabels niet terug te verwijderen.
+Toch moet worden opgemerkt dat in het MER wordt vermeld dat het verwijderen van de kabels "veel milieuschade zou berokkenen". Dit is in tegenstelling tot de beschreven milieueffecten bij het leggen van de kabels, waar geen significante milieueffecten worden verwacht. In overeenstemming met de vorige paragraaf kan worden gesteld dat ook bij het verwijderen van de kabels geen onomkeerbare milieueffecten zullen optreden. Ook hier zullen de effecten lokaal en tijdelijk zijn en vergelijkbaar met de natuurlijke ontwikkelingen. Er is daarom geen reden om, vanuit milieuaspecten, de kabels niet terug te verwijderen.
 
 Geluiden trillingen
 
@@ -1224,7 +1224,7 @@ Besluit
 
 Voorgesteld wordt de impact van het zaagwerk van de funderingen op voorhand te evalueren in termen van geluidsemissie, op het moment dat de ontmanteling wordt gepland en als definitief vaststaat welke technieken gebruikt zullen worden.
 
-Risico’s en gevolgen van mogelijke rampen
+Risico's en gevolgen van mogelijke rampen
 
 Effecten beschreven in het MER
 
@@ -1333,7 +1333,7 @@ De erosiebescherming zou gedeeltelijk worden weggegraven en na stockage terug wo
 Bijkomende studies
 
 Literatuur en aanvullingen BMM
-De blijvende aanwezigheid van steenmassa’s op de zeebodem van het windmolenpark, zoals voorgesteld in het MER, maakt het gebied definitief onbevisbaar voor bepaalde visserijtechnieken.
+De blijvende aanwezigheid van steenmassa's op de zeebodem van het windmolenpark, zoals voorgesteld in het MER, maakt het gebied definitief onbevisbaar voor bepaalde visserijtechnieken.
 
 Studies
 
@@ -1415,7 +1415,7 @@ Opstelling van de turbines
 
 Binnen het concessiegebied dat werd toegekend, worden 50 afzonderlijke windturbines ingeplant. Bij het maken van deze keuze werd enerzijds gestreefd naar een zo intens mogelijk gebruikmaking van de ruimte en werd anderzijds rekening gehouden met een minimum afstand tussen de turbines onderling, nodig voor een optimale windenergetische opbrengst. Tevens werd bij de locatiekeuze rekening gehouden met de mogelijke invloed op de radarinstallaties van Oostende en Zeebrugge. Verschillende configuraties zijn onderzocht geworden, ondermeer in functie van hun windenergetische opbrengst. Deze opbrengst varieert in functie van de tussenafstand van de windturbines en de oriëntatie van het park ten opzichte van de dominerende windrichtingen. Een meer getailleerde motivatie omtrent de gekozen lay-out vindt men in het MER. Elke rij ligt op een radiaal van de radars van Zeebrugge en Oostende,
 
-teneinde de “schaduwwerking” van de turbines op de radar te minimaliseren.
+teneinde de "schaduwwerking" van de turbines op de radar te minimaliseren.
 
 De uiteindelijke configuratie is, wat betreft de afstand tot het aansluitingspunt met het net, de energieopbrenst en de zichtbaarheid vanuit de kust, gemiddelde de beste oplossing.
 
@@ -1431,9 +1431,9 @@ Internationaal kader
 
 Factuele gegevens uit het MER
 
-Een wereldwijde klimaatstrategie is overeengekomen in het kader van “The 1992 United Nations Climate Change Convention and its 1997 Kyoto Protocol”. Dit internationaal wettelijk kader stelt doelstellingen en een tijdstabel voorop voor emissiereductie voor de ontwikkelde landen. Globaal dienen de ontwikkelde landen een emissiereductie van 5 % t.o.v. de emissieniveaus van 1990 te bereiken tijdens de periode 2008-2012. De versterking van de huidige maatregelen is onvermijdbaar als de vereiste reductie van 8 % (ontwikkelde landen in Europa) vergeleken met 1990 moet bereikt worden. Een communicatie van maart 2000 (Communication from the Commission to the Council and the European parliament on EU policies and measures to reduce greenhouse gas emissions and the European Climate change programme (ECCP)), toont dat de huidige prestatie van België vergeleken met de niveaus die zouden moeten bereikt zijn, ruim onvoldoende is.
+Een wereldwijde klimaatstrategie is overeengekomen in het kader van "The 1992 United Nations Climate Change Convention and its 1997 Kyoto Protocol". Dit internationaal wettelijk kader stelt doelstellingen en een tijdstabel voorop voor emissiereductie voor de ontwikkelde landen. Globaal dienen de ontwikkelde landen een emissiereductie van 5 % t.o.v. de emissieniveaus van 1990 te bereiken tijdens de periode 2008-2012. De versterking van de huidige maatregelen is onvermijdbaar als de vereiste reductie van 8 % (ontwikkelde landen in Europa) vergeleken met 1990 moet bereikt worden. Een communicatie van maart 2000 (Communication from the Commission to the Council and the European parliament on EU policies and measures to reduce greenhouse gas emissions and the European Climate change programme (ECCP)), toont dat de huidige prestatie van België vergeleken met de niveaus die zouden moeten bereikt zijn, ruim onvoldoende is.
 
-Hernieuwbare energie is erkend als een essentiële component in het klimaatbeleid, en heeft hierdoor bijzondere aandacht gekregen in het Europees energiebeleid. In het Witboek “Energy for the Future: Renewable Sources of Energy” wordt een doelstelling vooropgesteld van 12% bijdrage aan hernieuwbare bronnen aan het bruto bi nnenlands verbruik van alle landen van Europa in 2010. Dit betekent voor België een verdubbeling t.o.v. 1997. In 1997 bedroeg de bijdrage van hernieuwbare energie van België aan het bruto binnenlands verbruik in de EU amper 1%.
+Hernieuwbare energie is erkend als een essentiële component in het klimaatbeleid, en heeft hierdoor bijzondere aandacht gekregen in het Europees energiebeleid. In het Witboek "Energy for the Future: Renewable Sources of Energy" wordt een doelstelling vooropgesteld van 12% bijdrage aan hernieuwbare bronnen aan het bruto bi nnenlands verbruik van alle landen van Europa in 2010. Dit betekent voor België een verdubbeling t.o.v. 1997. In 1997 bedroeg de bijdrage van hernieuwbare energie van België aan het bruto binnenlands verbruik in de EU amper 1%.
 
 Nationaal kader
 
@@ -1447,7 +1447,7 @@ België: 3% tegen 2004 en 6% tegen 2010 (Ministerraad van april 2000, Europese r
 
 Vlaams Gewest: 3% tegen 2004 (Vlaams decreet)
 
-Waals gewest: 12 % hernieuwbare bronnen tegen 2010 (décret wallon + projet d’arrêté du Gouvernement Wallon)
+Waals gewest: 12 % hernieuwbare bronnen tegen 2010 (décret wallon + projet d'arrêté du Gouvernement Wallon)
 
 Windenergie is vandaag zeker de meest rendabele van de hernieuwbare energievormen. Met het huidig geïnstalleerd vermogen van 15 MW sluit België, ver achter de andere EU-landen, de rij. In België wordt nauwelijks 0.045 % van de elektriciteit opgewekt met windturbines. Landen zoals Duitsland, Denemarken of Nederland halen nu reeds 5 tot 7 %. Recente studies wijzen uit dat het Belgisch realiseerbaar on-shore potentieel, een geïnstalleerd vermogen van 600 MW heeft. Vanzelfsprekend is het offshore potentieel omwille van de grotere beschikbare ruimte en het grotere windaanbod vele malen groter.
 
@@ -1475,13 +1475,13 @@ De presentatie opgesteld door Stadsland n.a.v. een inspraakproject stelt dat een
 
 Indien deze elektrische energie geleverd moet worden door een klassieke centrale is een aanzienlijke hoeveelheid brandstof nodig. De vermeden CO 2 uitstoot door klassieke centrales tengevolge van de installatie van onderhavig windmolenpark, kan eenvoudig worden becijferd. C-Power vermeldt in zijn MER dat met een jaarproductie van 380.000 MWh/jaar, het park een CO2 –emissie van 301.261 ton voor een kolencentrale elimineert. De bijdra ge vertegenwoordigt een extra reductie van 1.15% van de totaal te reduceren hoeveelheid broeikasgasemissies tegen 2008-2012.
 
-Een volledige analyse van de bijdrage van de windmolens tot een reductie van de CO2-uitstoot zou echter rekening moeten houden met de hele cyclus, van constructie tot vernietiging (Life Cycle Analysis), met inbegrip van de energiebronnen noodzakelijk voor de synthese van windmolencomponenten en materialen, en het energieverbruik bij bediening door schepen in de 3 fasen van het project. Het uitvoeren van een Life Cycle Analysis zou waarschijnlijk aantonen dat het project een beperkte bijdrage levert tot de productie van “schone energie”.
+Een volledige analyse van de bijdrage van de windmolens tot een reductie van de CO2-uitstoot zou echter rekening moeten houden met de hele cyclus, van constructie tot vernietiging (Life Cycle Analysis), met inbegrip van de energiebronnen noodzakelijk voor de synthese van windmolencomponenten en materialen, en het energieverbruik bij bediening door schepen in de 3 fasen van het project. Het uitvoeren van een Life Cycle Analysis zou waarschijnlijk aantonen dat het project een beperkte bijdrage levert tot de productie van "schone energie".
 
 De BMM stelt dat windenergie het gebruik van fossiele brandstoffen reduceert en daarmee de uitstoot van CO2. Ondanks de eventueel beperkte bijdrage, sluit windenergie goed aan bij het internationale energiebeleid.
 
 Besluit
 
-België heeft een engagement aangegaan inzake reductie van broeikasgassen in de atmosfeer. Om tegen 2004 de doelstelling van 3% van de geleverde elektriciteit afkomstig uit hernieuwbare bronnen te halen wil België investeren in windenergie. Maatregelen zoals rationeel energieverbruik en het aansporen tot vermindering van de primaire energieconsumptie moeten deze investering ondersteunen wil men een duurzaam energiebeleid voeren. Als het energieverbruik met 4% stijgt in de periode dat de windmolens in activiteit komen, wordt het milieuvoordeel van de windenergie veel minder geloofwaardig. Hoewel een volledige analyse van de Life Cycle van een offshore windmolenpark tot nu toe ontbreekt, is het toch redelijk te oordelen dat zo’n park een netto beperkte bijdrage zal leveren tot de productie van “schone energie”.
+België heeft een engagement aangegaan inzake reductie van broeikasgassen in de atmosfeer. Om tegen 2004 de doelstelling van 3% van de geleverde elektriciteit afkomstig uit hernieuwbare bronnen te halen wil België investeren in windenergie. Maatregelen zoals rationeel energieverbruik en het aansporen tot vermindering van de primaire energieconsumptie moeten deze investering ondersteunen wil men een duurzaam energiebeleid voeren. Als het energieverbruik met 4% stijgt in de periode dat de windmolens in activiteit komen, wordt het milieuvoordeel van de windenergie veel minder geloofwaardig. Hoewel een volledige analyse van de Life Cycle van een offshore windmolenpark tot nu toe ontbreekt, is het toch redelijk te oordelen dat zo'n park een netto beperkte bijdrage zal leveren tot de productie van "schone energie".
 
 Internationale en nationale verplichtingen inzake het gebruik van de zee door de mens
 
@@ -1559,7 +1559,7 @@ Toerisme en economie
 
 De aanvragers zijn van mening dat het windmolenpark zou kunnen fungeren als een toeristische attractie en dat er bvb bootexcursies zouden kunnen ingericht worden naar het park.
 
-C-Power denkt bovendien aan de mogelijkheid om, in samenwerking met gemeentelijke en andere overheden, een educatief centrum op te zetten waar allerlei aspecten van energie zouden kunnen aanbod komen (cfr “Flanders Fields” en “Technopolis”) Een degelijk centrum zou tevens gecombineerd kunnen worden met een congrescentrum waar internationale evenementen in het kader van Windenergie en andere hernieuwbare energiebronnen kunnen plaats vinden.
+C-Power denkt bovendien aan de mogelijkheid om, in samenwerking met gemeentelijke en andere overheden, een educatief centrum op te zetten waar allerlei aspecten van energie zouden kunnen aanbod komen (cfr "Flanders Fields" en "Technopolis") Een degelijk centrum zou tevens gecombineerd kunnen worden met een congrescentrum waar internationale evenementen in het kader van Windenergie en andere hernieuwbare energiebronnen kunnen plaats vinden.
 
 Volgens de aanvragers dient er bij de inplanting van de windmolenparken met het esthetische aspect rekening gehouden te worden en moet ervoor gezorgd worden om wildgroei te vermijden.
 
@@ -1609,7 +1609,7 @@ Hydrodynamica en sedimentologie
 
 Effecten beschreven in het MER
 
-In het MER wordt de ontmanteling van het windmolenpark kort beschreven. De funderingspalen zullen op een zekere diepte onder de zeebodem worden afgebrand, waarbij het onderste deel van de palen in de bodem zal blijven zitten. Vooraleer de paal wordt afgebrand zal de paal tot op een gewenste diepte aan de binnenzijde worden vrijgemaakt. Er wordt verder gesteld dat het verwijderen van de kabels technisch en economisch nauwelijks haalbaar zou zijn en “veel milieuschade zou berokkenen”.
+In het MER wordt de ontmanteling van het windmolenpark kort beschreven. De funderingspalen zullen op een zekere diepte onder de zeebodem worden afgebrand, waarbij het onderste deel van de palen in de bodem zal blijven zitten. Vooraleer de paal wordt afgebrand zal de paal tot op een gewenste diepte aan de binnenzijde worden vrijgemaakt. Er wordt verder gesteld dat het verwijderen van de kabels technisch en economisch nauwelijks haalbaar zou zijn en "veel milieuschade zou berokkenen".
 
 De milieueffecten tijdens de ontmanteling worden niet beschreven.
 
@@ -1653,7 +1653,7 @@ Boven de waterspiegel wordt het achtergrondgeluidsniveau vooral door de windkrac
 
 Om een duidelijke beeld van het geluidsklimaat te krijgen zouden gedetailleerde in situ metingcampagnes moeten gebeuren.
 
-Risico’s en gevolgen van mogelijke rampen
+Risico's en gevolgen van mogelijke rampen
 
 Factuele gegevens uit het MER
 
@@ -1665,13 +1665,13 @@ Tabel 3 Vaarwegen gelegen rond de domeinconcessie
 
 De niet route gebonden scheepvaart bestaat hoofdzakelijk uit visserij-, recreatie- en baggervaart.
 
-De ankerplaatsen situeren zich ten opzichte van de domeinconcessie resp. op 11,1 NM (“Westhinder”) en 2,8 NM (Grote en Kleine Rede, Oostende).
+De ankerplaatsen situeren zich ten opzichte van de domeinconcessie resp. op 11,1 NM ("Westhinder") en 2,8 NM (Grote en Kleine Rede, Oostende).
 
 De luchthaven van Oostende bevindt zich op 11 km afstand van de meest Zuidwestelijk gesitueerde windturbine.
 
 Milieurisico's te wijten aan de scheepvaart
 
-Hierover wordt weinig specifieke informatie gegeven. De aanvrager vermeldt dat “het steeds drukker verkeer het risico voor scheepsongevallen verhoogt, en daarmee het risico van verontreiniging van de zee (door stookolie en andere schadelijke stoffen)”.
+Hierover wordt weinig specifieke informatie gegeven. De aanvrager vermeldt dat "het steeds drukker verkeer het risico voor scheepsongevallen verhoogt, en daarmee het risico van verontreiniging van de zee (door stookolie en andere schadelijke stoffen)".
 
 Gegevens over het bestaande industriële risico
 
@@ -1691,9 +1691,9 @@ Het scheepvaartverkeer in de Belgische territoriale wateren en in de monding van
 
 Het route– gebonden scheepvaartverkeer betreft schepen met als bestemming- of herkomsthaven : ten Noorden van het concessiegebied: Zeebrugge, Antwerpen, Gent, Vlissingen of Terneuzen, ten Westen van het concessiegebied: Oostende ten Zuiden van het concessiegebied: Duinkerke, Oostende en Zeebrugge.
 
-In de aanloop “Scheur”, en soms in de aanloop “Wielingen”, worden de schepen beloodst.
+In de aanloop "Scheur", en soms in de aanloop "Wielingen", worden de schepen beloodst.
 
-Op basis van statistieken van de bewegingen in de kusthavens kan het scheepsverkeer in de zone op ca. 50.000 schepen per jaar geraamd worden. Gegevens van het Nederlandse Ministerie van Verkeer en Waterstaat (kaart “Shipping in its Environment”, 1995) tonen een maximale dichtheid van meer dan 45 schepen per 1000 km² (aanloop Scheur). Oudere gegevens voor een gelijkaardige zone (zuidelijk deel van de Nederlandse wateren) geven 36 schepen per 100 NM².
+Op basis van statistieken van de bewegingen in de kusthavens kan het scheepsverkeer in de zone op ca. 50.000 schepen per jaar geraamd worden. Gegevens van het Nederlandse Ministerie van Verkeer en Waterstaat (kaart "Shipping in its Environment", 1995) tonen een maximale dichtheid van meer dan 45 schepen per 1000 km² (aanloop Scheur). Oudere gegevens voor een gelijkaardige zone (zuidelijk deel van de Nederlandse wateren) geven 36 schepen per 100 NM².
 
 Het niet route–gebonden verkeer betreft vooral kustvisserij en recreatievaart. Daarover is er inderdaad nog minder relevante informatie beschikbaar. De hierboven vermelde bronnen geven een cijfer van 34 schepen per 100 NM².
 
@@ -1709,7 +1709,7 @@ stranding
 brand/explosie
 schipbreuk
 
-In de archieven van de BMM wordt gewag gemaakt van dertien potentieel milieugevaarlijke aanvaringen in de periode van 1992 tot 2001 in de zone tussen 1°30’–3°30’ E / 51°–52° N. Bij 77% van deze aanvaringen was er daadwerkelijk sprake van de lozing van koolwaterstoffen. Door de BMM wordt de frequentie van lozingen in de zone tengevolge van aanvaringen op ~3,1.10-2 per jaar geraamd.
+In de archieven van de BMM wordt gewag gemaakt van dertien potentieel milieugevaarlijke aanvaringen in de periode van 1992 tot 2001 in de zone tussen 1°30'–3°30' E / 51°–52° N. Bij 77% van deze aanvaringen was er daadwerkelijk sprake van de lozing van koolwaterstoffen. Door de BMM wordt de frequentie van lozingen in de zone tengevolge van aanvaringen op ~3,1.10-2 per jaar geraamd.
 
 Buiten deze kans op aanvaringen moet er ook gedacht worden aan de mogelijkheid van ongevallen waarbij slechts één schip betrokken is en die, tot nu toe, door de afwezigheid van vaste obstakels, enkel tot strandingen leiden. Als voorbeeld kan hier het 84 m lange containerschip Heinrich Behrmann genoemd worden, een schip dat in november 2001 stuurloos op het strand van Blankenberge strandde.
 
@@ -1757,7 +1757,7 @@ Wat betreft de harde substraten werden vooral literatuurgegevens geraadpleegd. E
 
 Het eventuele voorkomen van natuurlijke harde substraten is vrijwel onbekend. Het planten- en dierenleven is in het algemeen talrijker en diverser voor harde substraten dan voor zachte substraten.
 
-De biota in de nabije kustzone vertonen de invloed van eeuwenlange antropogene invloeden: vooral visserij en eutrofiëring. Vandaar het verdwijnen van lang levende, zich traag voortplantende soorten. Daarnaast zijn er een aantal exotische soorten met een opportunistische levenswijze die zowel in zachte substraten (Amerikaanse zwaardschede, muiltje) als op de harde (Japanse oester) dominant worden. Het is dus de vraag in hoeverre we in het beschouwde gebied nog van een ‘natuurlijke’ situatie kunnen spreken.
+De biota in de nabije kustzone vertonen de invloed van eeuwenlange antropogene invloeden: vooral visserij en eutrofiëring. Vandaar het verdwijnen van lang levende, zich traag voortplantende soorten. Daarnaast zijn er een aantal exotische soorten met een opportunistische levenswijze die zowel in zachte substraten (Amerikaanse zwaardschede, muiltje) als op de harde (Japanse oester) dominant worden. Het is dus de vraag in hoeverre we in het beschouwde gebied nog van een 'natuurlijke' situatie kunnen spreken.
 
 Bijkomende studies
 
@@ -1769,28 +1769,28 @@ De harde substraten die zullen ontstaan door het aanleggen van het park kunnen a
 
 Aanpassing migraties
 
-Het blijkt dat een aantal vogelsoorten overdag, en zelfs ’s nachts actief windmolenparken (kunnen) vermijden. Dat heeft tot gevolg dat de migraties verstoord kunnen wor den, en dat het park een barrièrewerking uitoefent. Hoe groter het park tegenover de migratiecorridor, hoe belangrijker deze barrièrewerking kan zijn. De afstand tussen de turbines kan eveneens een belangrijke rol spelen. De grootste problemen kunnen zich voordoen waar veel vogels in het donker op geringe hoogte langskomen. Roodkeelduikers, futen en sternen (buiten de zwarte stern) vertonen ‘s nachts geen geconcentreerde trek, en het aanvaringsrisico voor deze soorten is niet gekend (Everaert et al, 2002; Van der Winden, 1999). Toppereend, eidereend, zwarte zee-eend, meeuwen en steltlopers vertonen wel een geconcentreerde trek ‘s nachts, waardoor er zeker een aanvaringsrisico aanwezig is.
+Het blijkt dat een aantal vogelsoorten overdag, en zelfs 's nachts actief windmolenparken (kunnen) vermijden. Dat heeft tot gevolg dat de migraties verstoord kunnen wor den, en dat het park een barrièrewerking uitoefent. Hoe groter het park tegenover de migratiecorridor, hoe belangrijker deze barrièrewerking kan zijn. De afstand tussen de turbines kan eveneens een belangrijke rol spelen. De grootste problemen kunnen zich voordoen waar veel vogels in het donker op geringe hoogte langskomen. Roodkeelduikers, futen en sternen (buiten de zwarte stern) vertonen 's nachts geen geconcentreerde trek, en het aanvaringsrisico voor deze soorten is niet gekend (Everaert et al, 2002; Van der Winden, 1999). Toppereend, eidereend, zwarte zee-eend, meeuwen en steltlopers vertonen wel een geconcentreerde trek 's nachts, waardoor er zeker een aanvaringsrisico aanwezig is.
 
 Aanvaringen, vlieghoogte
 
 Over vlieghoogtes is weinig gekend. De meest voorkomende vlieghoogtes zijn soortafhankelijk, en afhankelijk van de soort migratie (foerageren, dag/nacht-migratie, seizoenale migratie). Deze hoogte is bovendien afhankelijk van de weersomstandigheden. In Noer (2000) wordt een beschrijving gegeven van de meest voorkomende vlieghoo gtes van verschillende vogelsoorten. Tijdens migraties zouden zwarte zee-eenden, duikers en futen vooral laag boven het zeeoppervlak (0 – 5 m) vliegen, buiten het bereik van de rotorbladen. Lokale vliegbewegingen zouden volgens Everaert et al. (2002) vrijwel geheel op windturbinehoogte plaatsvinden Uit waarnemingen van de BMM blijkt dat duikers en zwarte zee-eenden boven de 5 m vliegen indien ze verstoord worden.
 
-Het windmolenpark heeft belang als foerageergebie d voor grote sternen. Sternen zouden tijdens foerageervluchten tot 15 m hoog vliegen, wat buiten het bereik van de rotorbladen zou zijn (Noer, 2000). Volgens Everaert et al. (2001) zouden sternen echter op minder dan 50 m hoogte vliegen, dus potentieel binnen het bereik van de wieken. Er werden in Zeebrugge, waar zich in de onmiddellijke nabijheid van de 23 windturbines belangrijke sternenkolonies bevinden, relatief zeer weinig sternen gevonden als aanvaringsslachtoffer. Meer dan 90% van de naar schatting enkele tientallen vogels die per jaar en per turbine gedood werden, waren meeuwen (Everaert et al., 1999). In 2001 werden onder de slachtoffers te Zeebrugge onder meer 2 dwergsternen en 3 visdieven geteld, bedreigde soorten (Seys, 2002). In 2001 kwamen 184 koppels dwergsternen en 2.260 koppels visdieven in het havengebied van Zeebrugge tot broeden (IN, persoonlijke mededeling). Er werden geen grote sternen als aanvaringsslachtoffer aangetroffen. Opmerkelijk was tevens dat er grote verschillen waren tussen het aantal slachtoffers per individuele turbine (Everaert et al, 2002). Sternen (vooral de dwergstern) lijkt weinig verstoord te worden door de turbines. Als we de grootte van het gebied waar de molens gepland worden beschouwen, en de afstand tussen de turbines, lijkt het niet te verwachten dat sternen – dagactieve jagers – hinder zouden onvervinden van de geplande windmolens op de Wenduinebank. Onbekende gegevens zijn de vlieghoogte en het migratiegebied van de dwergstern, een soort die vooral ‘s nachts trekt
+Het windmolenpark heeft belang als foerageergebie d voor grote sternen. Sternen zouden tijdens foerageervluchten tot 15 m hoog vliegen, wat buiten het bereik van de rotorbladen zou zijn (Noer, 2000). Volgens Everaert et al. (2001) zouden sternen echter op minder dan 50 m hoogte vliegen, dus potentieel binnen het bereik van de wieken. Er werden in Zeebrugge, waar zich in de onmiddellijke nabijheid van de 23 windturbines belangrijke sternenkolonies bevinden, relatief zeer weinig sternen gevonden als aanvaringsslachtoffer. Meer dan 90% van de naar schatting enkele tientallen vogels die per jaar en per turbine gedood werden, waren meeuwen (Everaert et al., 1999). In 2001 werden onder de slachtoffers te Zeebrugge onder meer 2 dwergsternen en 3 visdieven geteld, bedreigde soorten (Seys, 2002). In 2001 kwamen 184 koppels dwergsternen en 2.260 koppels visdieven in het havengebied van Zeebrugge tot broeden (IN, persoonlijke mededeling). Er werden geen grote sternen als aanvaringsslachtoffer aangetroffen. Opmerkelijk was tevens dat er grote verschillen waren tussen het aantal slachtoffers per individuele turbine (Everaert et al, 2002). Sternen (vooral de dwergstern) lijkt weinig verstoord te worden door de turbines. Als we de grootte van het gebied waar de molens gepland worden beschouwen, en de afstand tussen de turbines, lijkt het niet te verwachten dat sternen – dagactieve jagers – hinder zouden onvervinden van de geplande windmolens op de Wenduinebank. Onbekende gegevens zijn de vlieghoogte en het migratiegebied van de dwergstern, een soort die vooral 's nachts trekt
 
 Falls van migrerende (land-)vogels
 
-Een mogelijke impact waar in het MER geen aandacht aan gegeven wordt, zijn zgn. falls van migrerende (land)vogels, zoals lijsters, spreeuwen, vinken,…. Falls kunnen gedefinieerd worden als de plotselinge aankomst van een buitengewoon groot aantal migrerende vogels (10.000 tot 100.000-den) op een bepaalde plaats (Lensink,et al., 1999). Er bestaan wel degelijk migraties van landvogels over zee (Stienen et al., 2002). Het geplande windmolenpark ligt bovendien ta melijk dicht bij een belangrijke migratieroute van landvogels langs de kust. De afstand van de migratieroute tot de kust is niet goed gekend en afhankelijk van meteorologische omstandigheden en de soort. Het valt dus niet uit te sluiten dat grote groepen vogels bij snel verslechterende slechte weersomstandigheden (mist, lage bewolking, neerslag, harde tegenwind) nabij het windmolenpark terechtkomen. Ze kunnen ’s nachts aangetrokken worden door de verlichting op de turbines. Dat vogels tot verlichte objecten aangetrokken worden, werd aangetoond bij observaties vanaf vuurtorens, lichtschepen en platformen (Lensink et al., 1999). Veranderende weersomstandigheden kunnen desoriëntatie veroorzaken, en grootschalige bewegingen van vogels rond het verlichte obj ect. Rond windmolens brengt dit natuurlijk aanvaringsrisico’s met zich mee, en ook door uitputting kunnen slachtoffers vallen. Bij mist is er meestal zeer weinig wind, waardoor de kans op botsingen met de rotorbladen beperkt wordt. Het is niet bekend tot welk licht (kleur, intensiteit, frequentie,…) en vanop welke afstand vogels aangetrokken worden. De periodes met de grootste migratie-intensiteit zijn maart tot mei en augustus tot november. Falls komen niet frequent voor, maar met de mogelijkheid moet rekening gehouden worden.
+Een mogelijke impact waar in het MER geen aandacht aan gegeven wordt, zijn zgn. falls van migrerende (land)vogels, zoals lijsters, spreeuwen, vinken,…. Falls kunnen gedefinieerd worden als de plotselinge aankomst van een buitengewoon groot aantal migrerende vogels (10.000 tot 100.000-den) op een bepaalde plaats (Lensink,et al., 1999). Er bestaan wel degelijk migraties van landvogels over zee (Stienen et al., 2002). Het geplande windmolenpark ligt bovendien ta melijk dicht bij een belangrijke migratieroute van landvogels langs de kust. De afstand van de migratieroute tot de kust is niet goed gekend en afhankelijk van meteorologische omstandigheden en de soort. Het valt dus niet uit te sluiten dat grote groepen vogels bij snel verslechterende slechte weersomstandigheden (mist, lage bewolking, neerslag, harde tegenwind) nabij het windmolenpark terechtkomen. Ze kunnen 's nachts aangetrokken worden door de verlichting op de turbines. Dat vogels tot verlichte objecten aangetrokken worden, werd aangetoond bij observaties vanaf vuurtorens, lichtschepen en platformen (Lensink et al., 1999). Veranderende weersomstandigheden kunnen desoriëntatie veroorzaken, en grootschalige bewegingen van vogels rond het verlichte obj ect. Rond windmolens brengt dit natuurlijk aanvaringsrisico's met zich mee, en ook door uitputting kunnen slachtoffers vallen. Bij mist is er meestal zeer weinig wind, waardoor de kans op botsingen met de rotorbladen beperkt wordt. Het is niet bekend tot welk licht (kleur, intensiteit, frequentie,…) en vanop welke afstand vogels aangetrokken worden. De periodes met de grootste migratie-intensiteit zijn maart tot mei en augustus tot november. Falls komen niet frequent voor, maar met de mogelijkheid moet rekening gehouden worden.
 
 Impact op aangrenzende beschermde gebieden
 
-Het dichtst bijgelegen (voorgestelde) mariene NATURA 2000 gebied, is het gebied Trapegeer-Stroombank. Dit gebied werd door België voorgesteld als Habitatrichtlijngebied. Het overlapt met een bestaand Ramsar-gebied ‘De Vlaamse Banken’. Dit gebied werd oorspronkelijk aangeduid als Ramsar-gebied omwille van het internationale belang als overwinteringsgebied voor de zwarte zee-eend (1%-norm). Binnen het Ramsar-gebied kunnen enkele zones aangeduid worden waar zich vaak zeer veel overwinterende zee-eenden bevinden: Stroombank, Trapegeer, Broersbank, Nieuwpoortbank. Het is waarschijnlijk, gezien de afstand tot de kust van de Wenduinebank, dat ten minste een gedeelte van deze overwinterende vogels tijdens hun trek de Wenduinebank overvliegen, of gebruiken als rustplaats (zoals occasioneel waargenomen tijdens tellingen door het IN, en waarnemingen van de BMM).
+Het dichtst bijgelegen (voorgestelde) mariene NATURA 2000 gebied, is het gebied Trapegeer-Stroombank. Dit gebied werd door België voorgesteld als Habitatrichtlijngebied. Het overlapt met een bestaand Ramsar-gebied 'De Vlaamse Banken'. Dit gebied werd oorspronkelijk aangeduid als Ramsar-gebied omwille van het internationale belang als overwinteringsgebied voor de zwarte zee-eend (1%-norm). Binnen het Ramsar-gebied kunnen enkele zones aangeduid worden waar zich vaak zeer veel overwinterende zee-eenden bevinden: Stroombank, Trapegeer, Broersbank, Nieuwpoortbank. Het is waarschijnlijk, gezien de afstand tot de kust van de Wenduinebank, dat ten minste een gedeelte van deze overwinterende vogels tijdens hun trek de Wenduinebank overvliegen, of gebruiken als rustplaats (zoals occasioneel waargenomen tijdens tellingen door het IN, en waarnemingen van de BMM).
 
 Studies (Modellen, berekeningen, enquête, onderaanneming ed)
 
 Er werd een schatting gemaakt van het potentiële verlies aan habitat en migratieroute voor verschillende vogelsoorten. Deze schatting werd gemaakt op basis van de best beschikbare informatie m.b.t. de verspreiding van zeevogels en ecologische gegevens. De benadering houdt geen rekening met de effectieve reacties van de vogels op de aanwezigheid van de molens, die grotendeels onbekend zijn.
 
 Habitatverlies: algemeen
-Het gebruik van de Belgische wateren als habitat werd voor de belangrijkste soorten geschat aan de hand van de verspreidingskaartjes in Offringa et al (1996), Seys (2002), Seys et al. (1999 a) en vooral aan de hand van de studie die in het kader van deze beoordeling uitgevoerd werd door Stienen et al. (2002). Voor het inschatten van het potentiële habitatverlies werd ver ondersteld dat: het volledige projectgebied als habitat voor de soort gebruikt wordt (indien dat projectgebied binnen de verspreiding van de soort valt); het gebied, inclusief een ruime bufferzone van 1 km verloren gaat als habitat voor de soort bij het realiseren van het project; Alle ‘uurhokken’ (cfr. Stienen et al., 2002) die positief zijn in het belangrijkste verspreidingsgebied binnen Belgische mariene wateren, worden beschouwd als habitat voor de soort, ongeacht de waargenomen dichtheid in het uurhok.
+Het gebruik van de Belgische wateren als habitat werd voor de belangrijkste soorten geschat aan de hand van de verspreidingskaartjes in Offringa et al (1996), Seys (2002), Seys et al. (1999 a) en vooral aan de hand van de studie die in het kader van deze beoordeling uitgevoerd werd door Stienen et al. (2002). Voor het inschatten van het potentiële habitatverlies werd ver ondersteld dat: het volledige projectgebied als habitat voor de soort gebruikt wordt (indien dat projectgebied binnen de verspreiding van de soort valt); het gebied, inclusief een ruime bufferzone van 1 km verloren gaat als habitat voor de soort bij het realiseren van het project; Alle 'uurhokken' (cfr. Stienen et al., 2002) die positief zijn in het belangrijkste verspreidingsgebied binnen Belgische mariene wateren, worden beschouwd als habitat voor de soort, ongeacht de waargenomen dichtheid in het uurhok.
 
 Een overzicht van het zo berekende potentiële habitatverlies in Belgische wateren wordt in Tabel 5 gegeven.
 
@@ -1804,7 +1804,7 @@ Bij het bepalen van de belangrijkste migratiecorridor werd geen rekening gehoude
 
 Migratieroutes / habitat: detail per soort
 
-Duikers worden volgens de verspreidingskaarten meestal tussen 1 en 24 NM (zeemijl) uit de kust aangetroffen. Er zijn vooral ‘minuuthokken’ (zie Stienen et al., 2002) positief voor de aanwezigheid van duikers tussen de 1 en 14 NM uit de kust. In deze zone werden in 1/3 van de minuuthokken waar tellingen uitgevoerd werden (cfr. Stienen et al., 2002) duikers waargenomen.
+Duikers worden volgens de verspreidingskaarten meestal tussen 1 en 24 NM (zeemijl) uit de kust aangetroffen. Er zijn vooral 'minuuthokken' (zie Stienen et al., 2002) positief voor de aanwezigheid van duikers tussen de 1 en 14 NM uit de kust. In deze zone werden in 1/3 van de minuuthokken waar tellingen uitgevoerd werden (cfr. Stienen et al., 2002) duikers waargenomen.
 
 De Fuut komt vooral voor van de kust tot 8 NM in zee, maar het belangrijkste gebied situeert zich van de kust tot 6 NM in zee (Figuur 5 ). Waarschijnlijk zijn er gedurende de wintermaanden ook belangrijke migraties vanuit het land, de Spuikom te Oostende en de havens naar deze zeegebieden, maar er is vooral trek in de NO-ZW richting binnen dit gebied (IN, persoonlijke mededeling). In het gebied waar de fuut voorkomt werden ze in ongeveer 50 % van de minuuthokken geteld (Stienen et al., 2002).
 
@@ -1853,7 +1853,7 @@ In tegenstelling tot wat het MER stelt, werd de laatste jaren zeer veel onderzoe
 
 Het werk van Vella et al. (2001) stelt dat zeezoogdieren in eerste instantie waarschijnlijk een windmolenpark zullen vermijden, maar dat er een gewenning kan optreden, en een uiteindelijk aantrekken van zeezoogdieren als voedselgebieden (onder meer door het veranderde substraat). In het MER voor het Rødsand offshore windmolenpark (SEAS Distribution A.m.b.a., 2000) schat men dat het onderwatergeluid in de operationele fase hoorbaar zal zijn voor bruinvissen tot ten hoogste enkele meters van de turbines, en voor zeehonden tot hoogstens 20 m. De schattingen en metingen van onder watergeluid bevestigen dat het niveau veel lager ligt dan andere menselijke geluidsbronnen op zee (zoals afkomstig van scheepvaart) of van achtergrondgeluid (Vella et al., 2001).
 
-Het effect op zeezoogdieren van het geluid van een gesimuleerde 2 MW windturbine werd experimenteel nagegaan door Koschinski et al. (2002). Daaruit bleek dat er veel minder effect was dan van een zgn. pinger (gebruikt om bijvangst tegen te gaan). Zeehonden (Phoca vitulina) en bruinvissen (Phocoena phocoena) vertoonden een licht vermijdingsgedrag (hoewel de dieren vaak nog vlak bij de geluidsbron kwamen). Bruinvissen vertoonden na een eerste fase van lichte vermijding van de geluidsbron een ‘onderzoeksgedrag’ (“exploratory behaviour instead of fear”).
+Het effect op zeezoogdieren van het geluid van een gesimuleerde 2 MW windturbine werd experimenteel nagegaan door Koschinski et al. (2002). Daaruit bleek dat er veel minder effect was dan van een zgn. pinger (gebruikt om bijvangst tegen te gaan). Zeehonden (Phoca vitulina) en bruinvissen (Phocoena phocoena) vertoonden een licht vermijdingsgedrag (hoewel de dieren vaak nog vlak bij de geluidsbron kwamen). Bruinvissen vertoonden na een eerste fase van lichte vermijding van de geluidsbron een 'onderzoeksgedrag' ("exploratory behaviour instead of fear").
 
 
 
@@ -1903,7 +1903,7 @@ Geïntegreerd kustzonebeheer
 Zee en kust dienen in het kader van geïntegreerd kustzonebeheer samen bekeken te worden. Er dient nagegaan te worden wat het effect is van de exploitatie op de beleving van het landschap gezien vanuit het kustzoneperspectief.
 
 Theoretische uitwerking zichtbaarheid
-Het MER geeft geen theoretische uitwerking van de zichtbaarheid. Door kromming van de aarde en de zogenaamde ‘kim’ is een voorwerp op een bepaalde afstand in de horizon niet meer zichtbaar. Bovendien is de zichtbaarheid afhankelijk van de heersende weersomstandigheden en de hoogte waarop men zich bevindt t.o.v. het zeeniveau. Het MER stelt een aantal alternatieven voor, voor configuratie van de palen, de afstand tot de kus t en de oppervlakte die ingenomen wordt. Voor wat betreft het aspect landschap worden deze alternatieven niet verder uitgewerkt, hoewel de impact telkens verschillend is.
+Het MER geeft geen theoretische uitwerking van de zichtbaarheid. Door kromming van de aarde en de zogenaamde 'kim' is een voorwerp op een bepaalde afstand in de horizon niet meer zichtbaar. Bovendien is de zichtbaarheid afhankelijk van de heersende weersomstandigheden en de hoogte waarop men zich bevindt t.o.v. het zeeniveau. Het MER stelt een aantal alternatieven voor, voor configuratie van de palen, de afstand tot de kus t en de oppervlakte die ingenomen wordt. Voor wat betreft het aspect landschap worden deze alternatieven niet verder uitgewerkt, hoewel de impact telkens verschillend is.
 
 Sociaal landschap
 Het sociale landschap wordt niet bestudeerd. De vraag hoe de bevolking reageert op de plaatsing van een windmolenpark wordt niet gesteld.
@@ -2075,13 +2075,13 @@ In verband met occasionele vervuilingen zullen alle in te zetten vaartuigen en i
 
 Ontbrekende facetten in dit deel van het MER
 
-Er wordt niet verwezen naar de London Convention. In verband met het OSPAR verdrag, wordt het ‘Voorzorgsprincipe’ niet uitgelegd.
+Er wordt niet verwezen naar de London Convention. In verband met het OSPAR verdrag, wordt het 'Voorzorgsprincipe' niet uitgelegd.
 
 Bijkomende Literatuur en aanvullingen door BMM
 
 De London Convention reguleert enkel stortingsactiviteiten. Dit betekent dat het ingraven van de kabel met jettechnieken buiten deze conventie valt. Het baggeren van een sleuf is echter wel onderworpen aan deze conventie omdat het gebaggerde materiaal terug moet gestort worden. Voor zover geen sedimenten op andere plaatsen gestort worden zal de London Conventie echter niet van toepassing zijn.
 
-Het OSPAR Verdrag heeft betrekking op de bescherming en het behoud van de ecosystemen en de biologische diversiteit in het noordelijk deel van de Atlantische Oceaan. In artikel 2, lid 2a, is het ‘voorzorgsprincipe’ opgenomen. Dit principe houdt in dat een Staat preventieve maatregelen moet treffen als het vermoeden bestaat dat een activiteit nadelige gevolgen voor de mariene omgeving zal hebben. De verontreiniging door menselijke activiteiten, waartoe ook het bouwen van constructies op zee behoort, valt onder dit verdrag.
+Het OSPAR Verdrag heeft betrekking op de bescherming en het behoud van de ecosystemen en de biologische diversiteit in het noordelijk deel van de Atlantische Oceaan. In artikel 2, lid 2a, is het 'voorzorgsprincipe' opgenomen. Dit principe houdt in dat een Staat preventieve maatregelen moet treffen als het vermoeden bestaat dat een activiteit nadelige gevolgen voor de mariene omgeving zal hebben. De verontreiniging door menselijke activiteiten, waartoe ook het bouwen van constructies op zee behoort, valt onder dit verdrag.
 
 Nationaal kader
 
@@ -2089,16 +2089,16 @@ Factuele gegevens uit het MER
 
 In verband met het inzetten van werkmaterieel, worden volgende wetten m.b.t. het bekomen van de machtiging tot uitvoering van de werken geciteerd:
 
-Wet inzake het “Verdrag tot voorkoming van de verontreining van de zee en ten gevolge van het storten vanaf schepen en luchtvaartuigen” 15-02-1972 Art. 16 van de wet van 20-01-1999 ter bescherming van het mariene milieu in de zeegebieden onder de rechtsbevoegdheid van België.
+Wet inzake het "Verdrag tot voorkoming van de verontreining van de zee en ten gevolge van het storten vanaf schepen en luchtvaartuigen" 15-02-1972 Art. 16 van de wet van 20-01-1999 ter bescherming van het mariene milieu in de zeegebieden onder de rechtsbevoegdheid van België.
 
 Onder de recreatieve activiteiten op zee vallen de diverse watersporten. Al deze activiteiten vallen onder het KB van 4 augustus 1981, houdende politie- en scheepvaartreglementen voor de Belgische territoriale zee, de havens en de stranden van de Vlaamse kust. Dit KB verplicht, met uitzondering van de sportvisserij, de duiksport en de pleziervaart, de activiteiten binnen een afstand van maximaal 926m, gemeten vanaf de laagwaterlijn, te beoefenen. De sportvisserij, de duiksport en de pleziervaart moeten zich aan de bepalingen inzake verboden zones houden. Volgens het MER is het dan ook onwaarschijnlijk dat de installatie enige negatieve invloed zou hebben op deze activiteiten. De aanvragers zijn overtuigd dat het eerder in de richting van een attractie moet worden gedacht. Er zal zowel een beveiligingsplan als een interventieplan moeten opgemaakt worden. In de eerste plaats moet een veiligheidszone ingesteld en bewaakt worden, en ten tweede is een interventieplan noodzakelijk om met de diverse hulpdiensten aan de kust de nodige hulpverlening te verzekeren. De BMM betwist de interpretatie van de aanvrager van het KB van 4 augustus 1981 (zie 2.3.2.2 ).
 
-De veiligheidsaspecten van het project werden besproken met de afdelingen Scheepvaartbegeleiding en Vloot van de Administratie Waterwegen en Zeewegen. Bepaalde aspecten, zoals markering en signalisatie tijdens bouw en exploitatie en de te nemen maatregelen bij ongevallen dienen nog verder te worden uitgewerkt in samenwerking met de relevante overheden. Een essentieel gegeven in het beoordelen van de risico’s is het feit dat het wenduinepark, inclusief een 400m veiligheidszone, in principe ontoegankelijk zal zijn voor andere activiteiten dan de bouw, uitbating en onderhoud van de installaties.
+De veiligheidsaspecten van het project werden besproken met de afdelingen Scheepvaartbegeleiding en Vloot van de Administratie Waterwegen en Zeewegen. Bepaalde aspecten, zoals markering en signalisatie tijdens bouw en exploitatie en de te nemen maatregelen bij ongevallen dienen nog verder te worden uitgewerkt in samenwerking met de relevante overheden. Een essentieel gegeven in het beoordelen van de risico's is het feit dat het wenduinepark, inclusief een 400m veiligheidszone, in principe ontoegankelijk zal zijn voor andere activiteiten dan de bouw, uitbating en onderhoud van de installaties.
 
 Op basis van het voorlopig advies van de Afdeling Vloot van de AWZ stelt C-Power
-n.v. de volgende markering en signalisatie voor: Op de 4 hoekpalen: een radarbaken RACON, een misthoorn en een “flash yellow” licht; beboeiing: op 400 m vanuit het park zullen boeienlijnen worden gerealiseerd.
+n.v. de volgende markering en signalisatie voor: Op de 4 hoekpalen: een radarbaken RACON, een misthoorn en een "flash yellow" licht; beboeiing: op 400 m vanuit het park zullen boeienlijnen worden gerealiseerd.
 
-Navraag bij de luchtvaartauthoriteiten te Oostende leerde de aanvragers dat het wenduinepark geen extra veiligheidsrisico’s inhoudt voor de luchtvaart. De geldende beperkingen m.b.t. minimale vlieghoogtes moeten natuurlijk gerespecteerd worden en de berichtgeving dienaangaande moet adequaat zijn.
+Navraag bij de luchtvaartauthoriteiten te Oostende leerde de aanvragers dat het wenduinepark geen extra veiligheidsrisico's inhoudt voor de luchtvaart. De geldende beperkingen m.b.t. minimale vlieghoogtes moeten natuurlijk gerespecteerd worden en de berichtgeving dienaangaande moet adequaat zijn.
 
 Bijkomende Literatuur en aanvullingen door BMM
 
@@ -2132,7 +2132,7 @@ Sommige belangrijke bronnen zijn niet terug te vinden: de Europese Richtlijn 85/
 
 Bijkomende Literatuur en aanvullingen door BMM
 
-De meeste concrete en uitgebreide verplichtingen inzake het behoud van de beschermde gebieden volgen uit het Ramsarverdrag en de Vogel- en Habitatrichtlijnen. Voor de soorten van de bijlagen van het Verdrag van Bern zijn er vrij algemene verplichtingen inzake de instandhouding van het leefmilieu van deze soorten voorzien. Voor de soorten die in Bijlage I bij de Vogelrichtlijn worden genoemd, dienen Lidstaten waar relevant speciale beschermingszones (SPA’s) aan te wijzen. In uitvoering van de Habitatrichtlijn wordt een Europees ecologisch netwerk van speciale beschermingszones opgericht dat tevens de Vogelrichtlijngebieden zal omvatten. Vooruitlopend op de definitieve aanduiding van de speciale beschermingszones, wordt reeds in een bescherming van deze gebieden voorzien. De beschermingsmaatregelen van art. 6 § 2, 3 en 4 van de Habitatrichtlijn gelden van zodra een gebied op de ontwerplijst van de commissie is geplaatst. De lidstaten mogen geen activiteiten ondernemen die ertoe kunnen leiden dat de kwaliteit van een op de nationale lijst geplaatst gebied afneemt. Hetzelfde geldt voor de gebieden die nog niet op de nationale lijst werden geplaatst, maar waarvan het volgens de Commissie duidelijk is dat zij op
+De meeste concrete en uitgebreide verplichtingen inzake het behoud van de beschermde gebieden volgen uit het Ramsarverdrag en de Vogel- en Habitatrichtlijnen. Voor de soorten van de bijlagen van het Verdrag van Bern zijn er vrij algemene verplichtingen inzake de instandhouding van het leefmilieu van deze soorten voorzien. Voor de soorten die in Bijlage I bij de Vogelrichtlijn worden genoemd, dienen Lidstaten waar relevant speciale beschermingszones (SPA's) aan te wijzen. In uitvoering van de Habitatrichtlijn wordt een Europees ecologisch netwerk van speciale beschermingszones opgericht dat tevens de Vogelrichtlijngebieden zal omvatten. Vooruitlopend op de definitieve aanduiding van de speciale beschermingszones, wordt reeds in een bescherming van deze gebieden voorzien. De beschermingsmaatregelen van art. 6 § 2, 3 en 4 van de Habitatrichtlijn gelden van zodra een gebied op de ontwerplijst van de commissie is geplaatst. De lidstaten mogen geen activiteiten ondernemen die ertoe kunnen leiden dat de kwaliteit van een op de nationale lijst geplaatst gebied afneemt. Hetzelfde geldt voor de gebieden die nog niet op de nationale lijst werden geplaatst, maar waarvan het volgens de Commissie duidelijk is dat zij op
 
 grond van wetenschappelijke criteria op de nationale lijst zouden moeten geplaatst worden.
 
@@ -2140,7 +2140,7 @@ De volgende afspraken stellen ook belangrijke regels en verplichtingen:
 
 De Richtlijn 85/337/EG van de Raad van 27 juni 1985 betreffende de milieu-effectenbeoordeling van bepaalde openbare en particuliere projecten, zoals gewijzigd bij Richtlijn 97/11/EG van de Raad van 3 maart 1997, stelt regels vast ten aanzien van de beoordeling van projecten die aanzienlijke effecten op het milieu kunnen hebben (het opwekken van energie door gebruik van wind, wordt vermeld in Bijlage II van Richtlijn 97/11/EG).
 De Guidelines on Artificial Reefs (OSPAR 1999) van het OSPAR Verdrag stellen belangrijke voorwaarden die in dit dossier relevant zijn voor de erosiebescherming aangebracht op de zeebodem. De Guidelines zijn echter niet bindend.
-De lijst van IBA’s (Important Bird Areas) is een inventaris van gebieden die van belang zijn voor het behoud van vogelsoorten in de Europese Unie. Alhoewel deze lijst geen bindend instrument is, baseert het Europees Hof zich in recente uitspraken hierop om te besluiten dat bepaalde lidstaten niet voldoen aan de Vogelrichtlijn.
+De lijst van IBA's (Important Bird Areas) is een inventaris van gebieden die van belang zijn voor het behoud van vogelsoorten in de Europese Unie. Alhoewel deze lijst geen bindend instrument is, baseert het Europees Hof zich in recente uitspraken hierop om te besluiten dat bepaalde lidstaten niet voldoen aan de Vogelrichtlijn.
 
 3.Doel
 
@@ -2246,7 +2246,7 @@ De publieke acceptatie verhoogt evenredig met de verkregen informatie en economi
 
 Damborg S. & Krohn S. (www.windpower.dk ) die een Deense studie uitvoerden, bevestigen de eerste twee stellingen.
 
-Willemsen F. (1999) voerde een studie uit in Nederland met als onderwerp “een windmolenpark in zee” en komt tot de volgende conclusies: Nagenoeg alle ondervraagden, ongeacht leeftijd, geslacht of opleidingsniveau vindt dat strand, zee en duinen synoniem zijn aan fantastisch, oneindig, puur natuur en rustgevend. Aantasting van strand, zee en duinen wordt in eerste instantie gezien als heiligschennis.
+Willemsen F. (1999) voerde een studie uit in Nederland met als onderwerp "een windmolenpark in zee" en komt tot de volgende conclusies: Nagenoeg alle ondervraagden, ongeacht leeftijd, geslacht of opleidingsniveau vindt dat strand, zee en duinen synoniem zijn aan fantastisch, oneindig, puur natuur en rustgevend. Aantasting van strand, zee en duinen wordt in eerste instantie gezien als heiligschennis.
 
 Een groot deel van de bewoners en recreanten vindt het vervelend om vanaf het strand uit te kijken op een rij windmolens.
 Meer dan helft van de ondervraagden denkt dat een windmolenpark de natuur in zee aantast.
@@ -2280,11 +2280,11 @@ Voor elke derde turbine aan de buitenzijde:
 
 op de top van de gondel een rood medium intensiteit obstakel licht (type C) zichtbaar over een veld van 360°
 
-een rood medium intensiteit licht obstakellicht (type C) om de 45m of indien de mast lager is dan 90m ,1 set van lichten in het midden van de mast. De lichten dienen ’s nachts te branden en zichtbaar te zijn over een veld van 360°.
+een rood medium intensiteit licht obstakellicht (type C) om de 45m of indien de mast lager is dan 90m ,1 set van lichten in het midden van de mast. De lichten dienen 's nachts te branden en zichtbaar te zijn over een veld van 360°.
 
 Voor elke turbine aan de binnenzijde van het park en op de overige in bovenstaande paragraaf niet vermelde turbines van de buitenzijde:
 
-op de top van de gondel een rood lage intensiteit obstakel licht (type A) zichtbaar over een veld van 360°. ’
+op de top van de gondel een rood lage intensiteit obstakel licht (type A) zichtbaar over een veld van 360°. '
 
 Dagbebakening
 
@@ -2307,7 +2307,7 @@ Studies
 Landschappeljke beleving van windmolenparken in zee (studie uitgevoerd door het WES) Het WES voerde in opdracht van de BMM een socio-landschapelijke studie uit aan de kust. 405 personen werden geïnterviewd. Men kwam tot de volgende bevindingen:
 Uit de studie van het WES blijkt dat 47% van de bevraagden vindt dat de zee een geschikte plaats is om windmolenparken op te richten. Voor meer dan 6% van de bevraagden maakt het niet uit waar windmolenparken gelokaliseerd worden, bijna 18% vermeldt het platteland als geschikte locatie, en ongeveer 4% vermeldt nog andere plaatsen.
 
-Met de stelling “ik vind het leuk dat ik een windmolenpark op zee zie” gaat minder dan de helft (47.5%) van de bevraagden akkoord of helemaal akkoord. Meer dan 41% van de bevraagden vindt het niet leuk om op een windmolenpark te kijken. Bij de kustbewoners stijgt dit percentage tot 51%, 6% van de ondervraagde personen hebben geen mening.
+Met de stelling "ik vind het leuk dat ik een windmolenpark op zee zie" gaat minder dan de helft (47.5%) van de bevraagden akkoord of helemaal akkoord. Meer dan 41% van de bevraagden vindt het niet leuk om op een windmolenpark te kijken. Bij de kustbewoners stijgt dit percentage tot 51%, 6% van de ondervraagde personen hebben geen mening.
 Een vergelijkbare, maar meer algemeen geformuleerde stelling, levert dan weer andere resultaten op: bijna 57% gaat (helemaal) niet akkoord met de stelling dat een windmolenpark op zee de beleving van de zee teveel zou aantasten, en minder dan 35% is het hier (helemaal) mee eens. Dat een zichtbaar windmolenpark op zee meer toeristen zou aantrekken, gelooft de overgrote meerderheid niet, slechts 21.2% is het (helemaal) eens met deze stelling.
 Slechts 31% van de bevraagden vindt het windmolenpark op 6 km van de kust aanvaardbaar, iets meer dan 23% vindt deze afstand enigszins aanvaardbaar en 44% vindt deze afstand onaanvaardbaar (57% voor de kustbewoners) in vergelijking met een windmolenpark op 12 km. Een windmolenpark op 12 km kan daarentegen op heel wat meer aanvaarding rekenen: meer dan 66% vindt een windmolenpark op die afstand aanvaardbaar; slechts 20% accepteert een windmolenpark op dergelijke afstand niet. Tegenstrijdig met deze gegevens vindt 62.2% van de bevraagden het windmolenpark op 6 km afstand aanvaardbaar tot zeer aanvaardbaar als het park vóór hun eigen strand zou worden aangelegd. De acceptatie van het windmolenpark vergroot aanzienlijk indien het park minder zichtbaar zou zijn. Zulke tegenstrijdigheden tonen aan hoe gevoelig de enquête is voor de wijze waarop de vragen gesteld worden.
 
@@ -2315,7 +2315,7 @@ In zijn conclusies benadrukt het WES het feit dat de beleving van het zeegezicht
 
 Hoewel de meeste respondenten niet geloven dat het windmolenpark grote gevolgen zal hebben voor de bezoekersaantallen aan de kust, geven enkel toeristen aan hun bezoekgedrag te zullen wijzigen als de windmolens er komen. Dit kan een inkomstenverlies betekenen voor de kust. Uit een eerste (voorzichtige) berekening schat het WES dat een verlies aan omzet van circa 35 miljoen EURO wordt opgetekend indien dag-en ver blijfstoeristen, in de verhoudigingen zoals geregistreerd in de enquête, zeker niet of waarschijnlijk niet als dag-of verblijfstoerist terugkeren naar de kust. Volgens WES houdt dit verlies aan omzet een risico in op verlies van circa 600 voltijdse arbeidsplaatsen aan de kust.
 
-Omdat uit de belevingsoordelen blijkt dat de visuele hinder een belangrijke factor is, is vanuit belevingswaarde een geringer en zichtbaarheid gewenst. Dit betekent, volgens de consulent, dat als milderende maatregel kan aanbevolen worden dat windmolenparken “bij voorkeur verder van de kust worden geplaatst (en bijvoorbeeld niet op de voorgestelde locatie ter hoogte van Wenduine)”.
+Omdat uit de belevingsoordelen blijkt dat de visuele hinder een belangrijke factor is, is vanuit belevingswaarde een geringer en zichtbaarheid gewenst. Dit betekent, volgens de consulent, dat als milderende maatregel kan aanbevolen worden dat windmolenparken "bij voorkeur verder van de kust worden geplaatst (en bijvoorbeeld niet op de voorgestelde locatie ter hoogte van Wenduine)".
 
 Bijkomende studie ter bepaling van de zichthoeken
 
@@ -2325,13 +2325,13 @@ Gezien het gebrek aan kwantitatieve criteria voor de beoordeling van het ingrijp
 
 2.Benaderingsprincipe
 
-Het meest bijzonder en aantrekkelijk karakter van het zeegezicht aan de Belgische kust is de openheid van de horizon. Voor veel Belgen maakt de Noordzee, met dit bijzonder zeegezicht, deel uit van het cultureel erfgoed van het land. Het is dus evident dat een bezetting van de hele horizon door kunstmatige structuren in zo’n context als totaal onaanvaardbaar zou worden beschouwd. Aan de andere hand zou het incorrect zijn te denken dat geen kunstmatige structuren aan de horizon aanvaardbaar zijn: meetpalen en vaste boeien bestaan en brengen geen protest mee. Tussen die twee extremen moet er dus logischerwijze een graad van bezetting van de horizon bestaan vanaf dewelke een algemene persoon oordeelt dat het culturele erfgoed onaanvaardbaar wordt aangetast. Uit het oogpunt van redelijkheid wordt vastgelegd dat maximaal 1/5 van het volledig horizongezichtsveld cumulatief door bouwstrucutren mag ingenomen worden, vanaf om het even welk punt aan de kust (inclusief de kust van de buurlanden). Om te vermijden dat één project alleen het geheel van de toelaatbare ruimte inneemt is het redelijk per project een bezetting van maximaal 1/9 van de volledige horizongezichtsveld toe te staan. Als horizon die aan onze kust zichtbaar is, wordt 180° genomen, ongeacht kustlijnen zoals Walcheren of obstructies zoals havens. Referentiepunten die gelegen zijn op de havenmuren worden niet in rekening genomen bij de bepaling van de zichthoeken. Indien de afstand van de windmolens vanaf de kust zo groot wordt dat ze nog nauwelijks zichtbaar zijn - theoretisch op 38 km uit de kust - wordt in dit geval met de zichthoek die ingenomen wordt geen rekening meer gehouden. Bovenvermelde criteria van 1/9 en 1/5 zijn dus enkel van toepassing in de Territoriale zee.
+Het meest bijzonder en aantrekkelijk karakter van het zeegezicht aan de Belgische kust is de openheid van de horizon. Voor veel Belgen maakt de Noordzee, met dit bijzonder zeegezicht, deel uit van het cultureel erfgoed van het land. Het is dus evident dat een bezetting van de hele horizon door kunstmatige structuren in zo'n context als totaal onaanvaardbaar zou worden beschouwd. Aan de andere hand zou het incorrect zijn te denken dat geen kunstmatige structuren aan de horizon aanvaardbaar zijn: meetpalen en vaste boeien bestaan en brengen geen protest mee. Tussen die twee extremen moet er dus logischerwijze een graad van bezetting van de horizon bestaan vanaf dewelke een algemene persoon oordeelt dat het culturele erfgoed onaanvaardbaar wordt aangetast. Uit het oogpunt van redelijkheid wordt vastgelegd dat maximaal 1/5 van het volledig horizongezichtsveld cumulatief door bouwstrucutren mag ingenomen worden, vanaf om het even welk punt aan de kust (inclusief de kust van de buurlanden). Om te vermijden dat één project alleen het geheel van de toelaatbare ruimte inneemt is het redelijk per project een bezetting van maximaal 1/9 van de volledige horizongezichtsveld toe te staan. Als horizon die aan onze kust zichtbaar is, wordt 180° genomen, ongeacht kustlijnen zoals Walcheren of obstructies zoals havens. Referentiepunten die gelegen zijn op de havenmuren worden niet in rekening genomen bij de bepaling van de zichthoeken. Indien de afstand van de windmolens vanaf de kust zo groot wordt dat ze nog nauwelijks zichtbaar zijn - theoretisch op 38 km uit de kust - wordt in dit geval met de zichthoek die ingenomen wordt geen rekening meer gehouden. Bovenvermelde criteria van 1/9 en 1/5 zijn dus enkel van toepassing in de Territoriale zee.
 
 Nationaal kader
 
 Factuele gegevens uit het MER
 
-De projectaanvragers stellen in het MER dat bij de bouw en exploitatie van het “windenergiepark Belgische Kust” rekening zal gehouden worden met de volgende ontwikkelingen inzake milieubehoud:
+De projectaanvragers stellen in het MER dat bij de bouw en exploitatie van het "windenergiepark Belgische Kust" rekening zal gehouden worden met de volgende ontwikkelingen inzake milieubehoud:
 
 Het toekomstig NATURA 2000 gebied : met het oog op de selectie van een locatie voor het offshore windmolenpark werden door de aanvragers de Belgische Kustwateren in een viertal zones opgedeeld. In zones 1 en 2, respectievelijk de zones van de Belgisch-Franse grens tot Nieuwpoort en van Nieuwpoort tot Oostende, werd het gebied van de laagwaterlijn tot 3 mijl uit de kust door België voorgesteld om deel uit te maken van het NATURA 2000 netwerk, omwille van de grote densiteit en diversiteit van het dierenleven onder water en het belang van het vogelbestand in het Ramsar-gebied. In verband met de bescherming van vogels, bedreigde dier- en plantensoorten en hun leefgebieden, zijn de Vogel- en Habitatrichtlijn van de Europese Commissie van kracht. Met betrekking tot de Habitatrichtlijn beweren de aanvragers dat het plaatsen van breuksteenstortingen op de site van het windmolenpark, waardoor een habitat met rotsen onstaat, een uitvoering is van de aanbevelingen van de Europese commissie. De BMM betwist dit.
 
@@ -2347,7 +2347,7 @@ Ontbrekende facetten in dit deel van het MER
 
 De Europese richtlijnen zijn op een onnauwkeurige manier weergegeven.
 
-De projectaanvragers geven geen duidelijke milieuverantwoording voor wat betreft de gebiedskeuze. Sommige zones werden niet voor de realisatie van het park in aanmerking genomen. Onder anderen de belangrijke vogelgebieden die door het IN op kaart werden aangeduid. De omschrijving van “belangrijke vogelgebieden” van het IN wordt niet door de BMM gehanteerd.
+De projectaanvragers geven geen duidelijke milieuverantwoording voor wat betreft de gebiedskeuze. Sommige zones werden niet voor de realisatie van het park in aanmerking genomen. Onder anderen de belangrijke vogelgebieden die door het IN op kaart werden aangeduid. De omschrijving van "belangrijke vogelgebieden" van het IN wordt niet door de BMM gehanteerd.
 
 Volgens de projectaanvragers moet bij de keuze van het projectgebied rekening gehouden met mariene gebieden waar zeer specifieke beschermingszones afgebakend worden, maar dit punt wordt niet verder in detail uitgelegd.
 
@@ -2357,13 +2357,13 @@ In uitvoering van de Europese Habitatrichtlijn werd door België in 1996 het geb
 
 Door de bouw van windmolens introduceert men artificiële harde substraten in het gebied. In het MER verwacht men in dit nieuwe habitat een sterke toename van de biodiversiteit en van de biomassa. De waardering van een dergelijke gemeenschap kan positief of negatief zijn, de aanvragers beschouwen ze als positief. Men stelt zelfs dat het creëren en onderhouden van een rotshabitat in de richting zou gaan van de aanbevelingen van de Europese Commissie, omdat deze de biodiversiteit verhogen. De BMM stelt hier dat het verhogen van de biodiversiteit geen doel van dit windmolenpark is. Over het algemeen is het zelfs beter om de bestaande biodiversiteit te behouden en de natuurlijke ontwikkeling ervan te bevorderen (zie 5.4.2)
 
-De BMM bevestigt dat tot heden geen bijzondere beschermingsmaatregelen voor het Ramsar-gebied moesten uitgevaardigd worden. Het projectgebied ligt op zo’n 2 NM van dit Ramsar-gebied.
+De BMM bevestigt dat tot heden geen bijzondere beschermingsmaatregelen voor het Ramsar-gebied moesten uitgevaardigd worden. Het projectgebied ligt op zo'n 2 NM van dit Ramsar-gebied.
 
 De projectaanvragers vermelden dat het gebied niet in een zone ligt die door de overheid in aanmerking genomen wordt voor het instellen van zeereservaten. De BMM wijst erop dat de Wet van 20 januari 1999 ter bescherming van het mariene milieu in de zeegebieden onder de rechtsbevoeg dheid van België (BS 12-03-1999) een weergave is van internationale verdragen waaraan België zich moet houden, en die in de nationale wetgeving moeten opgenomen worden. Het betreft onder meer de Europese
 
 Vogelrichtlijn en Habitatrichtlijn, het verdrag Van Ramsar, het Marpol -verdrag, het Ospar-verdrag, het Verdrag van Rio en de verdragen van Bonn en Bern. Hoofdstuk III van deze Wet verwijst naar de mogelijke bescherming van bepaalde mariene gebieden en soorten. Momenteel werden nog geen mariene beschermde gebieden aangeduid. De BMM bevestigt dat het gekozen projectgebied tot op heden geen beschermingsstatus heeft.
 
-De BMM baseert zich op de definitie van “belangrijke vogelgebieden” (vertaling van IBAs: Important Bird Areas) zoals gedefineerd door Birdlife International (zie ook 1.4.1.2).
+De BMM baseert zich op de definitie van "belangrijke vogelgebieden" (vertaling van IBAs: Important Bird Areas) zoals gedefineerd door Birdlife International (zie ook 1.4.1.2).
 
 Besluit
 
@@ -2371,7 +2371,7 @@ De site van het geplande windmolenpark komt niet onmiddellijk in aanmerking voor
 
 Evenmin komt het gebied voorlopig in aanmerking om aangeduid te worden als Habitatrichtlijngebied. Bovendien zou een aanduiding als Habitatrichtlijngebied de inplanting van windmolens niet noodzakelijk uitsluiten.
 
-Uitwerking van het procedureel kader ‘Milieu’ procedure (Ministerie van Sociale Zaken, Volksgezondheid en Leefmilieu) en Energie-procedure (Ministerie van Economische Zaken)
+Uitwerking van het procedureel kader 'Milieu' procedure (Ministerie van Sociale Zaken, Volksgezondheid en Leefmilieu) en Energie-procedure (Ministerie van Economische Zaken)
 
 Inleiding
 
@@ -2383,13 +2383,13 @@ Daarom wordt in 2.5.2 en 2.5.3 een overzicht op een meer georganiseerde manier w
 
 Energie-procedure: Ministerie van Economische Zaken
 
-Naast de ‘milieu’procedure dient de projectaanvrager eveneens een domeinconcessie aan te vragen. De bouw en exploitatie van installaties voor productie van elektriciteit zijn onderworpen aan een concessie.
+Naast de 'milieu'procedure dient de projectaanvrager eveneens een domeinconcessie aan te vragen. De bouw en exploitatie van installaties voor productie van elektriciteit zijn onderworpen aan een concessie.
 
 In uitvoering van de Wet betreffende de organisatie van de elektriciteitsmarkt van 29 april 1999 (BS 11 mei 1999) werd het Koninklijk besluit van 20 december 2000 (BS 30.12.2000) opgesteld betreffende de voorwaarden en de procedures voor de toekenning van domeinconcessies voor de bouw en de exploitatie van installaties voor de productie van elektriciteit uit water, stromen of winden, in de zeegebieden waarin België rechtsmacht kan uitvoeren, overeenkomstig het internationaal zeerecht. De aanvraag voor een domeinconcessie werd ingediend bij de Commissie voor Regularisatie van Elektriciteit en Gas (CREG) die een advies vraagt aan 10 administraties. De CREG brengt advies uit aan de Staatssecretaris voor Energie, Mr. Deleuze, die uiteindelijk beslist tot het al dan niet toekennen van de domeinconcessie. De verleende concessie is niet geldig zolang niet alle vergunningen en/of vereiste machtigingen, vereist op grond van andere wetten waaronder de Wet ter bescherming van het mariene milieu, werden verleend.
 
 Voor het leggen van kabels in de territoriale zee en op het Belgisch continentaal Plat (BCP) is tevens een vergunning vereist conform het KB van 12 maart 2002 betreffende de nadere regels voor het leggen van elektriciteitskabels die in de territoriale zee of het nationaal grondgebied doorkruisen of die geïnstalleerd zijn of gebruikt worden in het raam van de exploratie van het Continentaal Plat, van de ontginning van minerale rijkdommen en andere niet-levende rijkdommen of exploitatie van kunstmatige eilanden, installatie of werken die vallen onder de Belgische rechtsbevoegdheid. Deze vergunning wordt eveneens verleend door het Staatssecretariaat voor Energie waarbij het Ministerie van Economische zaken belast is met het uitvoeren van de vergunningsprocedure.
 
-‘Milieu’ procedure: Ministerie van Sociale Zaken, Volksgezondheid en Leefmilieu
+'Milieu' procedure: Ministerie van Sociale Zaken, Volksgezondheid en Leefmilieu
 
 De Wet van 20 januari 1999 ter bescherming van het mariene milieu in de zeegebieden onder de rechtsbevoegdheid van België (BS 12-03-1999) stelt dat bepaalde activiteiten aan een vergunning, afgeleverd door de minister, onderworpen worden (hoofdstuk VI). In de Wet werden bepalingen opgenomen in verband met de milieu-effectenbeoordeling van vergunningsplichtige activiteiten (hoofdstuk VII: art. 28-30). In het kader van een windmolenparkproject zijn de volgende activiteiten vergunningsplichtig krachtens art. 25: de burgerlijke bouwkunde; onder de bouwkunde vallen bouwactiviteiten, zoals bijvoorbeeld de aanleg van kunstmatige eilanden en de aanleg van windmolens in zee; het graven van sleuven en het ophopen van de zeebodem; industriële activiteiten.
 
@@ -2415,5 +2415,5 @@ vergunning of machtiging te verlenen wanneer de betrokken activiteit een onaanva
 
 Artikel 4 § 5 van de Wet ter bescherming van het mariene milieu voorziet dat de overheid compenserende maatregelen kan opleggen. Deze kunnen deel uitmaken van de gebruiksvoorwaarden, waarvoor een grondslag wordt voorzien in het uitvoeringsbesluit. In het besluit inzake de milieu-effectenbeoordeling wordt wel expliciet voorzien dat het bestuur zich in de milieu-effectenbeoordeling uitspreekt over de compensatie in milieuvoordelen die aangewezen is voor de nadelige effecten van de activiteit (art. 16 van het KB MEB).
 
-Een schematische voorstelling van de ‘milieu’ procedure, de historiek en de planning van de termijnen van toepassing voor dit project wordt hieronder weergegeven samen met meer gedetailleerde informatie.
+Een schematische voorstelling van de 'milieu' procedure, de historiek en de planning van de termijnen van toepassing voor dit project wordt hieronder weergegeven samen met meer gedetailleerde informatie.
 

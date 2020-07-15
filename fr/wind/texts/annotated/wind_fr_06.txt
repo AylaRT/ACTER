@@ -468,16 +468,16 @@ Pm MS
 Figure 10. Principe simplifié d'un alternateur
 
 Dans la grande majorité des situations, la production d'électricité est obtenue par un alternateur entraîné par une turbine. L'ensemble est raccordé électriquement au réseau. La définition même du principe d'un alternateur fait que la vitesse de rotation de celui-ci est directement liée à la pulsation du réseau. Une variation de la consommation se traduit par une modification du couple électromagnétique Te. La différence entre le couple Te et Tm crée un couple d'accélération Ta qui va modifier la vitesse de rotation ȍr. En effet, l'équation des masses tournantes est donnée par :
-J dΩ r = Tm - Te = Ta dt
+J dΩ r = Tm - Te = Ta dt
 
 (1)
 
 Avec : Ta : couple d'accélération (N.m) ȍr : vitesse de rotation du rotor (rad/s) J : moment d'inertie équivalent (Kg.m²)
 
 Si Tm=Te , il en résulte une situation d'équilibre avec Si Tm ≠ Te il y a une accélération
-dΩ r Tm - Te = dt J
+dΩ r Tm - Te = dt J
 
-dΩ r =0 dt
+dΩ r =0 dt
 
 La Figure 11 représente de façon schématique le principe énoncé précédemment.
 
@@ -531,7 +531,7 @@ Pente K' Pente K
 
 ω0 = f 0
 ω FL
-Pente K'' Réserve primaire P (MW)
+Pente K" Réserve primaire P (MW)
 
 Pc
 
@@ -2574,7 +2574,7 @@ Régulateur flou
 
 -
 
-PWG Ωt
+PWG Ωt
 
 Figure 178 Implantation du superviseurIV)
 
@@ -2660,7 +2660,7 @@ avec :
 
 λ=
 
-RΩ v
+RΩ v
 
 (11)
 
@@ -2936,7 +2936,7 @@ la réserve primaire pour des vitesses de vent moyennes et faibles. Sa valeur es
 
 β ref 1
 
-β ref 0 Ω1 Ω2 Ωt
+β ref 0 Ω1 Ω2 Ωt
 Figure 130. Evolution de l'angle de calage en fonction de la vitesse de rotation de la turbine
 
 ȕref2 et ȕref3 sont déterminés au moyen de correcteurs flous.
@@ -3110,11 +3110,11 @@ Popt
 
 Pref 1
 
-Ω1
+Ω1
 
-Ω2
+Ω2
 
-Ωt
+Ωt
 
 Figure 134. Puissance en fonction de la vitesse de rotation de la turbine
 
@@ -3389,7 +3389,7 @@ P Pn
 
 L ieu d es m a x im a 1 4 m /s C o u r b e d e ré g la g e 1 2 m /s
 
-1 0 m /s 6 m /s 1 5 8 m /s 8 R t .Ω t v
+1 0 m /s 6 m /s 1 5 8 m /s 8 R t .Ω t v
 
 λ =
 
@@ -3409,8 +3409,8 @@ Onduleur MLI
 
 Figure 35. Eolienne à vitesse variable basée sur une machine asynchrone à double alimentation
 
-Pour les générateurs à base de machine asynchrone, la différence entre la vitesse mécanique, Ω, et la vitesse dite synchrone (imposée par la fréquence du réseau), Ωs, est définie par le glissement g :
-g= Ωs - Ω Ωs
+Pour les générateurs à base de machine asynchrone, la différence entre la vitesse mécanique, Ω, et la vitesse dite synchrone (imposée par la fréquence du réseau), Ωs, est définie par le glissement g :
+g= Ωs - Ω Ωs
 
 Transformateur de raccordement
 
@@ -3418,7 +3418,7 @@ Transformateur de raccordement
 
 Le glissement est fonction de la résistance que présente le circuit rotorique. Ainsi, pour les machines à circuit rotorique bobiné, une façon de rendre variable la vitesse mécanique de ce générateur est de 57
 
-rendre variable le glissement en modifiant la résistance du circuit rotorique. Plutôt que de dissiper cette puissance, il est beaucoup plus intéressant de la renvoyer sur le réseau au moyen de deux convertisseurs électroniques de puissance reliés par un bus continu (Figure 35). Le circuit rotorique est rendu accessible grâce à un système de balais-bagues. En conséquence, la puissance transitant à travers le circuit rotorique est rendue variable et deux fonctionnements peuvent être distingués. Si la vitesse mécanique est supérieure à la vitesse synchrone (g < 0, Ω >Ωs), un fonctionnement hypersynchrone est obtenu pour lequel la puissance est extraite du circuit rotorique et est envoyée sur le réseau à travers les convertisseurs de puissance. Sinon (g > 0, Ω <Ωs), un fonctionnement hyposynchrone est obtenu et la puissance circule alors du réseau vers le circuit rotorique. Seule une variation de la vitesse de +/-30 % (correspondant à la valeur du glissement g) autour de la vitesse de synchronisme est acceptable; ceci va engendrer une limitation de la puissance circulant dans le circuit rotorique (|g.P|). Comme, seule une fraction de la puissance est rendue variable, la chaîne de conversion électronique est dimensionnée pour une moindre puissance et présente donc un coût réduit. Le facteur de puissance peut être réglé car la génératrice peut être contrôlée pour fonctionner de façon similaire à celui d'un alternateur synchrone. En effet, la puissance active et la puissance réactive peuvent être contrôlées de façon indépendante grâce au convertisseur connecté sur le circuit électrique du rotor [ELA 04] et [ELA 03]. La Figure 36 montre les zones de fonctionnement caractéristiques mesurées sur une éolienne de 1,5 MW [FRA 05] : - La zone 2 est la zone pour laquelle une extraction maximale de la puissance est réalisée en adaptant la vitesse de la génératrice. La vitesse mécanique est très variable et correspond à une grande plage de variation de la puissance électrique produite. L'angle de calage des pales est maintenu constant, et seul le contrôle du couple électromagnétique de la génératrice est mis en oeuvre dans cette zone. - La zone 3 correspond à une vitesse mécanique quasiment constante de la génératrice. Dans cette zone, la puissance générée est proportionnelle au couple (d'origine éolien) appliqué. La vitesse moyenne de la turbine est réglée par action sur l'orientation des pales, la puissance débitée au réseau est « lissée » impliquant un stockage inertiel dans les masses en rotation. - Pour la zone 4, la puissance est limitée à sa valeur maximale (1550 kW) grâce au système d'orientation des pales.
+rendre variable le glissement en modifiant la résistance du circuit rotorique. Plutôt que de dissiper cette puissance, il est beaucoup plus intéressant de la renvoyer sur le réseau au moyen de deux convertisseurs électroniques de puissance reliés par un bus continu (Figure 35). Le circuit rotorique est rendu accessible grâce à un système de balais-bagues. En conséquence, la puissance transitant à travers le circuit rotorique est rendue variable et deux fonctionnements peuvent être distingués. Si la vitesse mécanique est supérieure à la vitesse synchrone (g < 0, Ω >Ωs), un fonctionnement hypersynchrone est obtenu pour lequel la puissance est extraite du circuit rotorique et est envoyée sur le réseau à travers les convertisseurs de puissance. Sinon (g > 0, Ω <Ωs), un fonctionnement hyposynchrone est obtenu et la puissance circule alors du réseau vers le circuit rotorique. Seule une variation de la vitesse de +/-30 % (correspondant à la valeur du glissement g) autour de la vitesse de synchronisme est acceptable; ceci va engendrer une limitation de la puissance circulant dans le circuit rotorique (|g.P|). Comme, seule une fraction de la puissance est rendue variable, la chaîne de conversion électronique est dimensionnée pour une moindre puissance et présente donc un coût réduit. Le facteur de puissance peut être réglé car la génératrice peut être contrôlée pour fonctionner de façon similaire à celui d'un alternateur synchrone. En effet, la puissance active et la puissance réactive peuvent être contrôlées de façon indépendante grâce au convertisseur connecté sur le circuit électrique du rotor [ELA 04] et [ELA 03]. La Figure 36 montre les zones de fonctionnement caractéristiques mesurées sur une éolienne de 1,5 MW [FRA 05] : - La zone 2 est la zone pour laquelle une extraction maximale de la puissance est réalisée en adaptant la vitesse de la génératrice. La vitesse mécanique est très variable et correspond à une grande plage de variation de la puissance électrique produite. L'angle de calage des pales est maintenu constant, et seul le contrôle du couple électromagnétique de la génératrice est mis en oeuvre dans cette zone. - La zone 3 correspond à une vitesse mécanique quasiment constante de la génératrice. Dans cette zone, la puissance générée est proportionnelle au couple (d'origine éolien) appliqué. La vitesse moyenne de la turbine est réglée par action sur l'orientation des pales, la puissance débitée au réseau est « lissée » impliquant un stockage inertiel dans les masses en rotation. - Pour la zone 4, la puissance est limitée à sa valeur maximale (1550 kW) grâce au système d'orientation des pales.
 
 58
 
@@ -3475,7 +3475,7 @@ IV)
 Stratégie de maximisation de la puissance
 
 La commande d'un générateur éolien à vitesse variable se divise en deux parties : la commande mécanique par l'intermédiaire de l'angle de calage des pales et la commande de la machine électrique via l'électronique de puissance. Actuellement, les stratégies adoptées visent à extraire le maximum de puissance du vent. Cette puissance est extraite lorsque la turbine fonctionne au coefficient de puissance maximale. L'équation (45) donne l'expression de la puissance maximale obtenue en utilisant la stratégie MPPT (Maximum Power Point Tracking) qui permet de régler automatiquement la vitesse spécifique à sa valeur optimale (Ȝopt), de manière à obtenir le coefficient de puissance maximale (Cpmax) :
-5 1 ρ π Rt C p max 3 = Ωt 2 λ3 opt
+5 1 ρ π Rt C p max 3 = Ωt 2 λ3 opt
 
 Réseau
 
@@ -3502,7 +3502,7 @@ Machine synchrone à aimants permanents
 
 β
 
-Ωt
+Ωt
 
 Is
 Commande du générateur
@@ -3533,11 +3533,11 @@ Limitation de puissance
 
 Connaissant la vitesse de rotation, la puissance générée par le générateur éolien peut être fixée à sa valeur nominale en adaptant le couple de référence : si Pn < PMPPT, alors on peut fournir Pref et la puissance générée sera alors inférieure à la valeur maximale en fixant Tref = -
 
-Pn . Ωt
+Pn . Ωt
 
 si Pn > PMPPT, on ne peut pas fournir Pn et donc le maximum de puissance est extrait en fixant Tref =
 
-PMPPT = Tref max . Ωt
+PMPPT = Tref max . Ωt
 
 Réseau
 
@@ -3893,7 +3893,7 @@ Machine synchrone à aimants permanents
 
 β
 
-Ωt
+Ωt
 
 Is
 Commande du générateur
@@ -4268,7 +4268,7 @@ Avec : Pw : Puissance extraite du vent [w]
 ȇ : Densité de l'air [kg.m-3]
 
 St : Surface balayée par le rotor [m2] St = ʌ.Rt2
-Ω t .Rt v
+Ω t .Rt v
 
 Rt : Rayon de la turbine [m]
 
@@ -4284,7 +4284,7 @@ Le couple de la turbine (Tt) se déduit directement de (17) soit :
 
 81
 
-Pw ρ .s.v 3 1 Tt = = Cp. . Ωt 2 Ωt
+Pw ρ .s.v 3 1 Tt = = Cp. . Ωt 2 Ωt
 
 (18)
 
@@ -4310,14 +4310,14 @@ J
 
 D
 
-Ωt
+Ωt
 
-Ωt
+Ωt
 
 Figure 60. Modèle à masse unique
 
 Ce fonctionnement se traduit par l'équation suivante :
-Tt J dΩ D - Tem = ( t2 + J m ). m + ( T2 + Dm ).Ω m N dt N N
+Tt J dΩ D - Tem = ( t2 + J m ). m + ( T2 + Dm ).Ω m N dt N N
 
 (19)
 
@@ -4328,12 +4328,12 @@ Tt Tem Jt JG Dt DG N
 Avec N = 1 pour un générateur à attaque directe soit :
 Tt - Tem J .s + D
 
-Ωt =
+Ωt =
 
 (20)
 
 Avec : J = Jt + JG et D = Dt + DG Soit :
-Ωt =
+Ωt =
 K .(T - T ) τ .s + 1 t em
 
 (21)
@@ -4368,7 +4368,7 @@ U d ms = Rsms ⋅ i d ms + Ld ms
 
 did ms dt
 
-- p ms ⋅ Ω t ⋅ Lqms ⋅ i qms
+- p ms ⋅ Ω t ⋅ Lqms ⋅ i qms
 
 (50)
 
@@ -4378,7 +4378,7 @@ U qms = Rs ms ⋅ i qms + Lqms
 
 di qms dt
 
-+ p ms ⋅ Ω t ⋅ Ld ms ⋅ i d ms + Ω t ⋅ k tms
++ p ms ⋅ Ω t ⋅ Ld ms ⋅ i d ms + Ω t ⋅ k tms
 
 (51) (52)
 
@@ -4397,7 +4397,7 @@ C emms = k tms ⋅ iqms
 
 Le couple de référence de la commande de la machine synchrone est élaboré à partir de (47), considérant un fonctionnement au maximum de puissance :
 
-C em msref = k ⋅ Ω t2
+C em msref = k ⋅ Ω t2
 avec :
 k=
 
@@ -4630,15 +4630,15 @@ III)
 L'émulateur éolien
 a. Modèle
 
-Afin de simuler le comportement de la turbine éolienne, il est nécessaire de déterminer le couple que cette dernière exerce sur l'arbre mécanique. Le couple de la turbine peut alors être obtenu en divisant l'expression de la puissance (17) par la vitesse de rotation de l'arbre mécanique Ωt :
+Afin de simuler le comportement de la turbine éolienne, il est nécessaire de déterminer le couple que cette dernière exerce sur l'arbre mécanique. Le couple de la turbine peut alors être obtenu en divisant l'expression de la puissance (17) par la vitesse de rotation de l'arbre mécanique Ωt :
 C emmcc
-3 P ρ ⋅ S ⋅Cp ⋅ v = = 2 ⋅ Ωt Ωt
+3 P ρ ⋅ S ⋅Cp ⋅ v = = 2 ⋅ Ωt Ωt
 
 (46)
 
 105
 
-L'expression (46) n'est pas satisfaisante dans la mesure où une indétermination du couple C emmcc au démarrage existe : en ce point de fonctionnement, la vitesse Ωt est nulle, ainsi que le coefficient Cp. L'introduction du ratio de vitesse λ dans l'équation (46) mène à l'écriture (47):
+L'expression (46) n'est pas satisfaisante dans la mesure où une indétermination du couple C emmcc au démarrage existe : en ce point de fonctionnement, la vitesse Ωt est nulle, ainsi que le coefficient Cp. L'introduction du ratio de vitesse λ dans l'équation (46) mène à l'écriture (47):
 
 C emmcc
 
@@ -4673,7 +4673,7 @@ La MCC et la MSAP sont accouplées mécaniquement. Le couple électromagnétique
 106
 
 Le schéma bloc de la Figure 100 est introduit afin d'élaborer la consigne du couple électromagnétique permettant de reproduire sur l'arbre mécanique de la MCC le couple d'une turbine éolienne. L'expression du couple est obtenue à partir de (49) et de la courbe du coefficient de couple représentée à la Figure 99. Le bloc v=f(t) est un tableau numérique reprenant des valeurs de vents faible, moyen ou fort mesurées sur un site réel. Dans notre cas, il s'agit du site éolien de Dunkerque.
-Ωt mes
+Ωt mes
 Rt
 
 ÷
@@ -4719,7 +4719,7 @@ Linéarisation
 iin mes
 + iex ref
 
-Ω t mes
+Ω t mes
 P ³
 
 θ2
@@ -4731,7 +4731,7 @@ Linéarisation dynamique
 
 PI
 
-k Ω 2mes t Cem
+k Ω 2mes t Cem
 mc
 
 id
@@ -5080,7 +5080,7 @@ Machine synchrone à aimants permanents
 
 β
 
-Ωt
+Ωt
 
 Is
 Commande du générateur
@@ -5129,20 +5129,20 @@ Pn
 τ Pn
 
 Peol
-Ωt
+Ωt
 
 Réserve primaire
 ( 1 - τ ) Pn
 
-Ω1
+Ω1
 
-Ω2
+Ω2
 
-Ω1
+Ω1
 
-Ω2
+Ω2
 
-Ωt
+Ωt
 
 Figure 122. Puissance éolienne en fonction de la vitesse de la turbine
 
@@ -5154,7 +5154,7 @@ Tref 1 =
 
 Pref
 
-Ωt
+Ωt
 
 (57)
 
@@ -5168,11 +5168,11 @@ Tref 2 = K reg ( f0 - f ) avec K reg =
 
 (58)
 
-Dans (58), f0 est la fréquence pour un fonctionnement normal, Kreg est le coefficient de puissance réglante et k le coefficient de statisme. La commande proposée est illustrée à la Figure 123. Dans la zone de fonctionnement en MPPT, si Pref est plus grand que la puissance maximale extractible, le couple de référence est alors fixé par : Pmax (Ω t )
+Dans (58), f0 est la fréquence pour un fonctionnement normal, Kreg est le coefficient de puissance réglante et k le coefficient de statisme. La commande proposée est illustrée à la Figure 123. Dans la zone de fonctionnement en MPPT, si Pref est plus grand que la puissance maximale extractible, le couple de référence est alors fixé par : Pmax (Ω t )
 
 Tref 1 =
 
-Ωt
+Ωt
 
 (59)
 
@@ -5185,14 +5185,14 @@ Tref 2 = 0
 βref
 Limitation en vitesse
 
-Ωt
+Ωt
 
 f
 
 Τref
 Commande en couple
 
-Ωt
+Ωt
 
 Contrôle de la fréquence
 
@@ -5253,7 +5253,7 @@ Machine synchrone à aimants permanents
 
 β
 
-Ωt
+Ωt
 
 Is
 Commande du générateur
@@ -5311,7 +5311,7 @@ Pn
 Popt Peol
 1 2 3
 
-Ωt
+Ωt
 La Figure 128 nous montre le principe du superviseur à logique floue avec :
 e p = Pref - Pmes
 Figure 127. Puissance en fonction de la vitesse de rotation
@@ -5325,7 +5325,7 @@ e f = f 0 - f mes
 
 136
 
-Ωt
+Ωt
 f0
 ef
 ∆e f

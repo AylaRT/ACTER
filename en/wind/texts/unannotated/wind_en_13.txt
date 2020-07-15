@@ -22,7 +22,7 @@ B-034 (O)
 
 The 2nd Joint International Conference on "Sustainable Energy and Environment (SEE 2006)" 21-23 November 2006, Bangkok, Thailand
 
-The observer then sees the relative velocity, U r = U − (ω × r ) , where Ur is relative velocity, U is absolute velocity, ω is the angular velocity of the rotating frame, and r is the position vector in the rotating frame. The momentum equation in terms of relative velocity becomes,
+The observer then sees the relative velocity, U r = U - (ω × r ) , where Ur is relative velocity, U is absolute velocity, ω is the angular velocity of the rotating frame, and r is the position vector in the rotating frame. The momentum equation in terms of relative velocity becomes,
 
 turbine [4]; it needs high computational time and large computer memory. The method of rotating reference frame [5, 6, 7] is easier to implement and it is appropriate for the steady state simulation. In this method, the blade is fixed while the reference axis is rotating.
 
@@ -38,7 +38,7 @@ where 2 ρω × U is the Coriolis force and ρω × (ω × r ) is centrifugal fo
 
 where σ is stress tensor of Newtonion fluid. Apply the method of eddy viscosity for turbulence modeling, the σ can be written as :
 
-σ = − P +
+σ = - P +
 where
 
  
@@ -70,7 +70,7 @@ k
 
 and ε are calculated from its transport equations [10].
 
-In this study, steady state, incompressible flow is assumed. The numerical solution is carried out by solving the conservation equations for mass and momenta in three dimensions using the unstructured-grid finite volume methodology (Fluent code). The sequential algorithm, Semi-Implicit Method for Pressure-Linked Equation (SIMPLE) [11], is used in solving all scalar variables. For the convective terms of momentum equations, the QUICK interpolating scheme [12] is applied. For turbulence equations, in order to prevent the unbounded problems often associated with the QUICK scheme [9], 1st order upwind scheme is applied. The computational conditions are as shown in Table 1. The computational grid is shown in Fig. 3. The solution is carried out for only one blade domain instead of the full three blades because of symmetry. Grid around the blade section is shown in Fig. 4. Hexahedral grid is used in the blade near field for higher accuracy of computation in the boundary layer; moreover, the hexahedral grid is more efficient for the local grid refinement. In this study y+ value is varied in the boundary layer to check for grid dependency. Table 1 Computational conditions density 0.976 kg/m3 operating pressure 80,592 Pa wind velocity 10.6 and 7.2 m/s rotational speed 72.0 RPM blade pitch 1,3,5,7 and 12 degree pressure correction interpolating scheme viscous model near wall treatment residual error SIMPLE QUICK (momentum) 1st order Upwind (turbulence) standard k − ε and inviscid standard wall function (Log- law) 5x10-5
+In this study, steady state, incompressible flow is assumed. The numerical solution is carried out by solving the conservation equations for mass and momenta in three dimensions using the unstructured-grid finite volume methodology (Fluent code). The sequential algorithm, Semi-Implicit Method for Pressure-Linked Equation (SIMPLE) [11], is used in solving all scalar variables. For the convective terms of momentum equations, the QUICK interpolating scheme [12] is applied. For turbulence equations, in order to prevent the unbounded problems often associated with the QUICK scheme [9], 1st order upwind scheme is applied. The computational conditions are as shown in Table 1. The computational grid is shown in Fig. 3. The solution is carried out for only one blade domain instead of the full three blades because of symmetry. Grid around the blade section is shown in Fig. 4. Hexahedral grid is used in the blade near field for higher accuracy of computation in the boundary layer; moreover, the hexahedral grid is more efficient for the local grid refinement. In this study y+ value is varied in the boundary layer to check for grid dependency. Table 1 Computational conditions density 0.976 kg/m3 operating pressure 80,592 Pa wind velocity 10.6 and 7.2 m/s rotational speed 72.0 RPM blade pitch 1,3,5,7 and 12 degree pressure correction interpolating scheme viscous model near wall treatment residual error SIMPLE QUICK (momentum) 1st order Upwind (turbulence) standard k - ε and inviscid standard wall function (Log- law) 5x10-5
 
 2.2 Experimental Data Correlation Experimental data was measured as power from generator. To compare with CFD, it is needed to be converted to mechanical power. According to the ANNEX XIV report, mechanical power can be calculated easily by:
 
@@ -80,7 +80,7 @@ PGenerator = 0.78PMechanical
 
 Duque N. P., et. al. [13] found that this equation is not perfectly correct. They proposed a new correlation from curve fitting,
 
-PGenerator = 0.9036 PMechanical − 0.847
+PGenerator = 0.9036 PMechanical - 0.847
 
 (5)
 
@@ -94,12 +94,12 @@ The 2nd Joint International Conference on "Sustainable Energy and Environment (S
 
 CP =
 
-( P − P∞ )
+( P - P∞ )
 2 0.5ρ ∞ [U ∞ + (ωr ) 2 ]
 
 (6)
 
-where P − P∞ is static pressure on blade and U ∞ is wind speed.
+where P - P∞ is static pressure on blade and U ∞ is wind speed.
 
 Fig. 3 Domain of computational grid
 
@@ -189,7 +189,7 @@ The 2nd Joint International Conference on "Sustainable Energy and Environment (S
 
 U∞  ωr
 
-  −θP 
+  -θP 
 
 (8)
 

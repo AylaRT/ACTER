@@ -32,7 +32,7 @@ Uitvoering, wijziging en aanpassing van overheidsopdrachten
 
 Alle contracten die worden toegekend op grond van een aanbestedingsprocedure, moeten worden uitgevoerd in volledige overeenstemming met de vereisten die zijn vastgelegd in de oproep tot inschrijving en de technische specificaties. Tevens dient dit te gebeuren binnen de in de oproep vermelde tijdslimiet. Alleen als kan worden aangetoond dat de wijziging in eerste instantie niet te voorzien was en er gezorgd wordt voor een redelijke ondersteuning en financieel evenwicht, kunnen partijen bevoegd zijn het contract licht te wijzigen.
 
-Risico’s met betrekking tot belangenconflicten
+Risico's met betrekking tot belangenconflicten
 
 Het contract is niet opgesteld overeenkomstig de regels en/of de technische specificaties en de aanbestedingsdocumenten.
 
@@ -92,11 +92,11 @@ Referentie: (Uitnodiging tot inschrijving nr.):
 
 Hierbij verklaar ik, ondergetekende, .............................., die ben aangesteld door de openingscommissie / aangesteld door de beoordelingscommissie / belast met de beoordeling van de (uitsluitings-) en (selectie-) criteria / aangesteld om de activiteiten te controleren / bevoegd om een deel van het contract voor voornoemde overheidsopdracht te wijzigen, dat ik mij bewust ben van de bepalingen van artikel 57 van de financiële verordening, die als volgt luiden:
 
-“1. Financiële actoren en andere personen die bij de uitvoering en het beheer, met inbegrip van voorbereidende handelingen op dit gebied, de audit of de controle van de begroting betrokken zijn, verrichten geen handeling waarbij hun eigen belangen in conflict kunnen komen met die van de Unie.
+"1. Financiële actoren en andere personen die bij de uitvoering en het beheer, met inbegrip van voorbereidende handelingen op dit gebied, de audit of de controle van de begroting betrokken zijn, verrichten geen handeling waarbij hun eigen belangen in conflict kunnen komen met die van de Unie.
 
 Indien een dergelijk risico bestaat, ziet de betrokkene van deze handeling af en wendt zich tot de gedelegeerde ordonnateur, die schriftelijk meedeelt of er sprake is van een belangenconflict. De betrokkene stelt ook zijn hiërarchieke meerdere op de hoogte. De betrokkene stelt ook zijn hiërarchieke meerdere op de hoogte. Indien er sprake blijkt te zijn van een belangenconflict beëindigt de betrokkene zijn activiteiten in verband met de zaak. De gedelegeerde ordonnateur neemt persoonlijk de nodige verdere maatregelen.
 
-Voor de toepassing van lid 1 doet een belangenconflict zich voor wanneer de onpartijdige en objectieve uitoefening van de functies van de in lid 1 bedoelde financiële actor of andere persoon in gevaar wordt gebracht als gevolg van familiebanden, vriendschap, politieke gezindheid of nationaliteit, economische belangen of elke andere eventuele belangengemeenschap met de ontvanger.”
+Voor de toepassing van lid 1 doet een belangenconflict zich voor wanneer de onpartijdige en objectieve uitoefening van de functies van de in lid 1 bedoelde financiële actor of andere persoon in gevaar wordt gebracht als gevolg van familiebanden, vriendschap, politieke gezindheid of nationaliteit, economische belangen of elke andere eventuele belangengemeenschap met de ontvanger."
 
 [Nationale voorschriften invoegen] ……….die als volgt luiden: …….. (indien/voor zover van toepassing)
 
@@ -147,9 +147,9 @@ Dit was in strijd met diverse bepalingen in de praktische gids, de aanvragersgid
 
 Zaak nr. 3
 
-De Roemeense DLAF werd door het ministerie van Regionale Ontwikkeling van Toerisme geïnformeerd over mogelijke aanwijzingen van fraude in een project dat werd gefinancierd door het regionale operationele programma “Prioritaire as 2”, met als doel een deel van de wegen in het graafschap te moderniseren. De begunstigde was het graafschapbestuur.
+De Roemeense DLAF werd door het ministerie van Regionale Ontwikkeling van Toerisme geïnformeerd over mogelijke aanwijzingen van fraude in een project dat werd gefinancierd door het regionale operationele programma "Prioritaire as 2", met als doel een deel van de wegen in het graafschap te moderniseren. De begunstigde was het graafschapbestuur.
 
-Het contract voor de ontwerpdiensten werd toegekend door middel van een aanbestedingsprocedure op grond van de nationale wetgeving inzake de toekenning van contracten voor overheidsopdrachten, concessieovereenkomsten voor openbare werken en concessieovereenkomsten voor diensten. Het toekenningscriterium was de “financieel gunstigste inschrijving”.
+Het contract voor de ontwerpdiensten werd toegekend door middel van een aanbestedingsprocedure op grond van de nationale wetgeving inzake de toekenning van contracten voor overheidsopdrachten, concessieovereenkomsten voor openbare werken en concessieovereenkomsten voor diensten. Het toekenningscriterium was de "financieel gunstigste inschrijving".
 
 De winnende inschrijver, P., verklaarde geen enkel deel van het contract uit te besteden, maar al snel werd besloten dat er delen van het contract werden uitbesteed aan A.
 
@@ -161,7 +161,7 @@ De DLAF was van oordeel dat hier sprake was van een belangenconflict op grond va
 
 Zaak nr. 4
 
-De Roemeense DLAF werd door een bemiddelingsorgaan voor het sectoriële operationele programma “Ontwikkeling van de menselijke hulpbronnen” geïnformeerd over een mogelijk belangenconflict in een project dat werd gefinancierd uit hoofde van Prioriteit as 3. Het project was erop gericht een reeks innovatieve technieken en methoden ter verbetering van de ondernemingscapaciteit te introduceren onder ondernemers en om ondersteuning te bieden aan kleine en middelgrote ondernemingen uit twee regio’s.
+De Roemeense DLAF werd door een bemiddelingsorgaan voor het sectoriële operationele programma "Ontwikkeling van de menselijke hulpbronnen" geïnformeerd over een mogelijk belangenconflict in een project dat werd gefinancierd uit hoofde van Prioriteit as 3. Het project was erop gericht een reeks innovatieve technieken en methoden ter verbetering van de ondernemingscapaciteit te introduceren onder ondernemers en om ondersteuning te bieden aan kleine en middelgrote ondernemingen uit twee regio's.
 
 De begunstigde was een universiteit, die wettelijk werd vertegenwoordigd door de rector magnificus, de heer C.
 
@@ -177,17 +177,17 @@ Belangenconflicten kunnen van invloed zijn op elke fase van het besluitvormingsp
 
 De aanbestedende dienst dient de volgende twee soorten controles te overwegen: controles ten behoeve van preventie: om schijnbare/mogelijke/feitelijke belangenconflicten te ontdekken; controles ten behoeve van sancties/herstel: om belangenconflicten te ontdekken, de desbetreffende persoon een sanctie op te leggen en het eventuele onrecht als gevolg van het belangenconflict te herstellen.
 
-Hiervoor dienen interne mechanismen te worden opgezet op basis waarvan permanente en periodieke beoordelingen van de situaties waarin medewerkers verkeren gedurende het besluitvormingsproces, mogelijk zijn. Organisaties dienen ingebouwde mechanismen te hebben, zoals: het periodiek invullen van vragenlijsten om te beoordelen of medewerkers alert zijn op situaties van schijnbare/mogelijke/feitelijke belangenconflicten en deze ook kunnen herkennen, en om zo het bewustzijn te vergroten en te zorgen dat het systeem ‘foutloos’ werkt; checklists die personeelsleden die bij het besluitvormingsproces zijn betrokken, moeten invullen voordat zij een besluit nemen; op basis van deze lijsten kunnen zij beter een situatie van schijnbare/mogelijke/feitelijke belangenconflicten beoordelen.
+Hiervoor dienen interne mechanismen te worden opgezet op basis waarvan permanente en periodieke beoordelingen van de situaties waarin medewerkers verkeren gedurende het besluitvormingsproces, mogelijk zijn. Organisaties dienen ingebouwde mechanismen te hebben, zoals: het periodiek invullen van vragenlijsten om te beoordelen of medewerkers alert zijn op situaties van schijnbare/mogelijke/feitelijke belangenconflicten en deze ook kunnen herkennen, en om zo het bewustzijn te vergroten en te zorgen dat het systeem 'foutloos' werkt; checklists die personeelsleden die bij het besluitvormingsproces zijn betrokken, moeten invullen voordat zij een besluit nemen; op basis van deze lijsten kunnen zij beter een situatie van schijnbare/mogelijke/feitelijke belangenconflicten beoordelen.
 
-Deze mechanismen moeten worden aangevuld met ‘controles achteraf’ om te verifiëren of zich ook echt belangenconflicten hebben voorgedaan.
+Deze mechanismen moeten worden aangevuld met 'controles achteraf' om te verifiëren of zich ook echt belangenconflicten hebben voorgedaan.
 
-Deze controles achteraf moeten gericht zijn op de verklaring omtrent de afwezigheid van belangenconflicten, die moet worden onderzocht in het licht van overige informatie: informatie van buiten (d.w.z. informatie over een mogelijk belangenconflict die afkomstig is van buitenstaanders die zelf niets te maken hebben met de situatie die het belangenconflict heeft veroorzaakt); controles die worden verricht ten aanzien van bepaalde situaties met een verhoogd risico op een belangenconflict, uitgaande van een interne risicoanalyse of de zogenaamde fraude-indicatoren (“rode vlaggen”) (zie hoofdstuk 4); steekproefsgewijze controles.
+Deze controles achteraf moeten gericht zijn op de verklaring omtrent de afwezigheid van belangenconflicten, die moet worden onderzocht in het licht van overige informatie: informatie van buiten (d.w.z. informatie over een mogelijk belangenconflict die afkomstig is van buitenstaanders die zelf niets te maken hebben met de situatie die het belangenconflict heeft veroorzaakt); controles die worden verricht ten aanzien van bepaalde situaties met een verhoogd risico op een belangenconflict, uitgaande van een interne risicoanalyse of de zogenaamde fraude-indicatoren ("rode vlaggen") (zie hoofdstuk 4); steekproefsgewijze controles.
 
 Hoe?
 
 Om te bepalen voor welke personen er mogelijk sprake kan zijn van een belangenconflict, moeten de volgende categorieën worden overwogen: personeelsleden van de aanbestedende dienst en personeelsleden van aanbieders van aanbestedingsdiensten en van overige dienstverleners die direct betrokken zijn bij het verrichten van de aanbestedingsprocedure; de voorzitter van de aanbestedende dienst en leden van de besluitvormingsorganen van de aanbestedende dienst die de uitkomst van een aanbestedingsprocedure kunnen beïnvloeden, zelfs al zijn zij er formeel niet bij betrokken.
 
-Soorten van controles achteraf op belangenconflictsituaties zijn onder meer: controles door de beheersinstantie/het betaalorgaan: standaard-/periodieke controles die worden verricht bij de beoordeling van het verzoek om betaling van de begunstigde (hetgeen ook bewijzen van de aanbestedingsprocedure omvat) door middel van checklists (die afzonderlijk alle belangenconflictsituaties moeten opsommen die worden genoemd in de EU- en de nationale wetgeving); specifieke controles naar aanleiding van informatie van buiten over een mogelijk belangenconflict of fraude-indicatoren (“rode vlaggen”); specifieke controles naar aanleiding van specifieke informatie of aspecten die zijn aangetroffen tijdens overige incidentele/indirecte controles; geplande controles, zoals opgenomen in het jaarlijks controleprogramma op basis van een risicoanalyse; steekproefsgewijze controles; 
+Soorten van controles achteraf op belangenconflictsituaties zijn onder meer: controles door de beheersinstantie/het betaalorgaan: standaard-/periodieke controles die worden verricht bij de beoordeling van het verzoek om betaling van de begunstigde (hetgeen ook bewijzen van de aanbestedingsprocedure omvat) door middel van checklists (die afzonderlijk alle belangenconflictsituaties moeten opsommen die worden genoemd in de EU- en de nationale wetgeving); specifieke controles naar aanleiding van informatie van buiten over een mogelijk belangenconflict of fraude-indicatoren ("rode vlaggen"); specifieke controles naar aanleiding van specifieke informatie of aspecten die zijn aangetroffen tijdens overige incidentele/indirecte controles; geplande controles, zoals opgenomen in het jaarlijks controleprogramma op basis van een risicoanalyse; steekproefsgewijze controles; 
 
 Risicoscores met behulp van Arachne
 
@@ -209,7 +209,7 @@ Interne gegevensbestanden die worden bijgehouden om informatie te verzamelen ove
 
 Gepubliceerde media-informatie
 
-Elke beheerder die te maken krijgt met een mogelijk belangenconflict waarbij een personeelslid betrokken is, dient waar van toepassing de voorkeur te geven aan een ‘zachte’ benadering en de kwestie openlijk te bespreken met de desbetreffende persoon. Het doel van dit gesprek is erachter te komen of er een risico bestaat op een belangenconflict dat een bedreiging kan vormen voor de procedure en/of de situatie van het desbetreffende personeelslid. Indien dat laatste het geval is, is het aan de beheerder om een besluit te nemen over passende maatregelen om zowel de belangen van de organisatie als die van het personeelslid te beschermen.
+Elke beheerder die te maken krijgt met een mogelijk belangenconflict waarbij een personeelslid betrokken is, dient waar van toepassing de voorkeur te geven aan een 'zachte' benadering en de kwestie openlijk te bespreken met de desbetreffende persoon. Het doel van dit gesprek is erachter te komen of er een risico bestaat op een belangenconflict dat een bedreiging kan vormen voor de procedure en/of de situatie van het desbetreffende personeelslid. Indien dat laatste het geval is, is het aan de beheerder om een besluit te nemen over passende maatregelen om zowel de belangen van de organisatie als die van het personeelslid te beschermen.
 
 In het geval een beheerder over voldoende aanwijzingen beschikt van moedwillig wangedrag van de kant van het personeelslid, kan hij/zij de zaak direct rapporteren aan de relevante autoriteiten en passende maatregelen nemen om de aanbestedingsprocedure veilig te stellen (zie paragraaf 3.4 voor vervolgstappen).
 
@@ -234,12 +234,12 @@ Indien de resultaten van de controles de oorspronkelijke informatie bevestigen e
 
 Indien het belangenconflict een strafrechtelijk karakter heeft, dient de autoriteit behalve voornoemde stappen, in overeenstemming met de nationale wetgeving ook het volgende te ondernemen: de openbaar aanklager informeren, zodat een strafrechtelijke procedure kan worden ingesteld; de administratieve aspecten van de zaak controleren; de bevindingen correleren aan overige gegevens en deze gebruiken om een interne risicoanalyse te verrichten;
 
-4- Fraude-indicatoren (“rode vlaggen”)
+4- Fraude-indicatoren ("rode vlaggen")
 
 
 Wat zijn rode vlaggen en hoe worden ze gebruikt?
 
-Een “rode vlag” is een indicator van mogelijke fraude of corruptie. Daarbij gaat het om een aspect of een aantal aspecten dat ongebruikelijk van aard is of afwijkt van de gangbare activiteit. Het is een signaal dat er iets bijzonders aan de hand is, dat misschien nader moet worden onderzocht.
+Een "rode vlag" is een indicator van mogelijke fraude of corruptie. Daarbij gaat het om een aspect of een aantal aspecten dat ongebruikelijk van aard is of afwijkt van de gangbare activiteit. Het is een signaal dat er iets bijzonders aan de hand is, dat misschien nader moet worden onderzocht.
 
 Binnen aanbestedingen zijn er meerdere rode vlaggen die zich kunnen voordoen. Het kan gaan om onregelmatigheden in: aanbestedingsdocumenten, bijvoorbeeld inschrijvingen van schijnbaar verschillende inschrijvers, die worden doorgefaxt met hetzelfde faxnummer; de administratie, bijvoorbeeld facturen waarvan de bedragen de contractwaarde te boven gaan; de gedragingen van het projectpersoneel, bijvoorbeeld wanneer iemand druk probeert uit te oefenen op de beoordelingscommissie om een bepaalde aannemer te selecteren.
 
@@ -259,7 +259,7 @@ De kwestie van belangenconflicten moet direct vanaf de voorbereidingsfase van de
 
 De aanbestedende dienst moet daarom de nodige maatregelen nemen om direct vanaf de allereerste fase van het opstellen van de documenten belangenconflicten te vermijden.
 
-Risico’s met betrekking tot belangenconflicten
+Risico's met betrekking tot belangenconflicten
 
 Iemand die deelneemt aan het opstellen van de documenten, probeert direct of indirect de aanbestedingsprocedure te beïnvloeden, bijvoorbeeld om te zorgen dat een familielid, vriend of zakelijk of financieel partner deel kan nemen.
 
@@ -285,7 +285,7 @@ Een medewerker van de aanbestedende dienst heeft kort voordat hij/zij in dienst 
 
 Voorbeeld: Een van de inschrijvers neemt deel aan de voorbereidingsprocedures en beschikt zo over aanvullende informatie voordat de procedure is gelanceerd. Hierdoor wordt overige inschrijvers een eerlijke kans om de aanbesteding te winnen ontzegd. Hier is dus sprake van een belangenconflict.
 
-Risico’s met betrekking tot belangenconflicten
+Risico's met betrekking tot belangenconflicten
 
 Er wordt informatie over de aanbestedingsprocedure naar buiten doorgespeeld.
 
@@ -309,7 +309,7 @@ De oproepprocedure, de beoordeling van de inschrijvers en het uiteindelijke besl
 
 Nadat de uiterste datum voor de ontvangst van inschrijvingen is verstreken, worden de ingediende inschrijvingen door de aanbestedende dienst op naleving van de regels gecontroleerd en geëvalueerd. Waar van toepassing vraagt de aanbestedende dienst de inschrijvers om eventuele tekortkomingen te herstellen of ter verduidelijking bepaalde informatie te verstrekken. De aanbestedende dienst bepaalt op basis van de criteria in de kennisgeving welke inschrijvingen geldig zijn. De beoordelingscommissie verricht een schriftelijke beoordeling en geeft een aanbeveling. De beslissing om het contract toe te kennen wordt genomen door de verantwoordelijke die daartoe binnen de aanbestedende dienst is aangesteld.
 
-Risico’s met betrekking tot belangenconflicten
+Risico's met betrekking tot belangenconflicten
 
 Er is geknoeid met de ontvangen inschrijvingen teneinde te verdoezelen dat de inschrijver heeft verzuimd om te voldoen aan de uiterste datum of om alle vereiste documenten te verstrekken.
 
@@ -385,7 +385,7 @@ Het wordt ten zeerste aanbevolen om mensen te vragen een verklaring omtrent de a
 
 Een verklaring omtrent belangenconflicten is van nature vrijwillig, waardoor het een zeer onzekere factor kan vormen. In het geval van frauduleus gedrag is het in een latere fase echter veel moeilijker om de opzettelijkheid van iets aan te tonen.
 
-Daarom wordt in de volgende alinea’s enkel ingegaan op de verklaring omtrent de afwezigheid van belangenconflicten.
+Daarom wordt in de volgende alinea's enkel ingegaan op de verklaring omtrent de afwezigheid van belangenconflicten.
 
 De verklaring omtrent de afwezigheid van belangenconflicten dient de definitie van belangenconflicten te bevatten die is opgenomen in het Financieel Reglement, alsmede alle vereisten van alle gedragscodes die van toepassing zijn op het proces en verband houden met belangenconflicten.
 
@@ -445,7 +445,7 @@ opgesteld door een groep deskundigen van de lidstaten en gecoördineerd door een
 
 VERKLARING VAN AFWIJZING VAN AANSPRAKELIJKHEID:
 
-Dit werkdocument is met steun van OLAF opgesteld door een groep deskundigen van de lidstaten. Het is bedoeld om de uitvoering van operationele programma’s te vergemakkelijken en goede praktijken aan te moedigen. Het document is niet wettelijk bindend voor de lidstaten, maar voorziet in algemene richtsnoeren en daarmee samenhangende aanbevelingen en geeft goede praktijken ter overweging mee.
+Dit werkdocument is met steun van OLAF opgesteld door een groep deskundigen van de lidstaten. Het is bedoeld om de uitvoering van operationele programma's te vergemakkelijken en goede praktijken aan te moedigen. Het document is niet wettelijk bindend voor de lidstaten, maar voorziet in algemene richtsnoeren en daarmee samenhangende aanbevelingen en geeft goede praktijken ter overweging mee.
 
 Deze algemene richtsnoeren doen niet af aan nationale wetgeving en moeten gelezen worden in het licht van, en aangepast worden aan, het nationale rechtskader.
 
@@ -454,50 +454,50 @@ Deze gids doet geen afbreuk aan interpretaties door het Hof van Justitie en het 
 Samenvatting
 
 
-Deze gids is opgesteld op basis van een nieuwe samenwerkingsprocedure met inbreng van deskundigen van de lidstaten, OLAF en de DG’s van de Commissie die belast zijn met de structurele acties. Het is de bedoeling om de kwaliteit van de output van de ad-hocbijeenkomsten van COCOLAF te verbeteren door praktische documentatie op te stellen die de lidstaten en de Commissie kunnen gebruiken als referentie, administratief hulpmiddel en richtsnoer ter ondersteuning en versterking van hun maatregelen/strategieën ter bestrijding van fraude.
+Deze gids is opgesteld op basis van een nieuwe samenwerkingsprocedure met inbreng van deskundigen van de lidstaten, OLAF en de DG's van de Commissie die belast zijn met de structurele acties. Het is de bedoeling om de kwaliteit van de output van de ad-hocbijeenkomsten van COCOLAF te verbeteren door praktische documentatie op te stellen die de lidstaten en de Commissie kunnen gebruiken als referentie, administratief hulpmiddel en richtsnoer ter ondersteuning en versterking van hun maatregelen/strategieën ter bestrijding van fraude.
 
 Een andere reden achter de gids was dat de wetsvoorstellen inzake het cohesiebeleid voor de periode 2014-2020 van de lidstaten vereisen dat zij in het kader van het beheer van de structurele acties van de EU maatregelen treffen om fraude tegen te gaan.
 
-Belangenconflicten bij aanbestedingen werden aangemerkt als een van de centrale thema’s voor de lidstaten op een workshop waarbij deskundigen uit tien verschillende lidstaten aanwezig waren, is gewezen op de behoefte aan een gids voor het vaststellen van mogelijke belangenconflicten en het inperken van de risico’s daarop. Deze gids is het eindproduct van die gezamenlijke inspanningen.
+Belangenconflicten bij aanbestedingen werden aangemerkt als een van de centrale thema's voor de lidstaten op een workshop waarbij deskundigen uit tien verschillende lidstaten aanwezig waren, is gewezen op de behoefte aan een gids voor het vaststellen van mogelijke belangenconflicten en het inperken van de risico's daarop. Deze gids is het eindproduct van die gezamenlijke inspanningen.
 
 De gids bevat aanbevelingen voor beheerders en personeelsleden van de beheersinstanties en aanbestedende diensten ten aanzien van het vaststellen en afhandelen van belangenconflicten bij aanbestedingen die uit hoofde van structurele acties en cohesiebeleidprogramma's worden gefinancierd met EU-middelen. De gids heeft betrekking op alle vormen van aanbesteding, ongeacht het bedrag dat ermee gemoeid is.
 
 Deze gids is niet bindend voor de lidstaten, maar heeft tot doel te voorzien in een gemeenschappelijke aanpak van belangenconflicten door beheersinstanties en aanbestedende diensten, onverminderd de nationale wetgeving.
 
-De gids is bedoeld als nuttig en praktisch hulpmiddel voor de ambtenaren en spitst zich toe op de punten die tijdens de workshop aan bod kwamen: definitie van ”belangenconflict”; de behoeft aan verklaringen met betrekking tot belangenconflicten: aanbevolen wordt alle personen die deelnemen aan een aanbestedingsprocedure een verklaring omtrent de afwezigheid van belangenconflicten te laten ondertekenen; procedures en hulpmiddelen voor het controleren van deze verklaringen; een lijst met fraude-indicatoren (“rode vlaggen”) waardoor situaties waarin belangenconflicten zich voordoen, eerder kunnen worden ontdekt.
+De gids is bedoeld als nuttig en praktisch hulpmiddel voor de ambtenaren en spitst zich toe op de punten die tijdens de workshop aan bod kwamen: definitie van "belangenconflict"; de behoeft aan verklaringen met betrekking tot belangenconflicten: aanbevolen wordt alle personen die deelnemen aan een aanbestedingsprocedure een verklaring omtrent de afwezigheid van belangenconflicten te laten ondertekenen; procedures en hulpmiddelen voor het controleren van deze verklaringen; een lijst met fraude-indicatoren ("rode vlaggen") waardoor situaties waarin belangenconflicten zich voordoen, eerder kunnen worden ontdekt.
 
 De gids bevat vier voorbeelden van echte voorvallen. Deze zijn bedoeld om te verhelderen wat een belangenconflictsituatie inhoudt en om het bewustzijn onder het personeel te vergroten.
 
 Inleiding
 
 
-Deze gids is opgesteld op basis van een nieuwe collaboratieve werkprocedure met inbreng van deskundigen van de lidstaten, OLAF en de DG’s van de Commissie die belast zijn met de structurele acties. De bedoeling is om goede praktijken en praktische conceptdocumenten uit te wisselen. Deze kunnen door de lidstaten en de Commissie worden gebruikt als administratieve hulpmiddelen, richtsnoeren en ter ondersteuning van maatregelen/strategieën voor fraudebestrijding.
+Deze gids is opgesteld op basis van een nieuwe collaboratieve werkprocedure met inbreng van deskundigen van de lidstaten, OLAF en de DG's van de Commissie die belast zijn met de structurele acties. De bedoeling is om goede praktijken en praktische conceptdocumenten uit te wisselen. Deze kunnen door de lidstaten en de Commissie worden gebruikt als administratieve hulpmiddelen, richtsnoeren en ter ondersteuning van maatregelen/strategieën voor fraudebestrijding.
 
 Belangenconflicten zijn een terugkerend punt van zorg, met name bij aanbestedingen met betrekking tot structurele acties, aangezien zij de overheidsbegroting en de reputatie van de EU en het desbetreffende land aanzienlijke schade kunnen berokkenen.
 
 OLAF heeft in samenwerking met de lidstaten een workshop georganiseerd waarop tien deskundigen uit tien verschillende lidstaten zijn bijeengekomen. Al deze deskundigen hadden praktische ervaring met het omgaan met dergelijke situaties. Op basis van hun kennis hebben zij een lijst samengesteld met de belangrijkste punten waarvoor er behoefte bestaat aan uitwisseling van goede praktijken.
 
-Bij dit proces waren ook de DG’s REGIO, EMPL, MARE en HOME betrokken. De werkzaamheden werden gecoördineerd door de eenheid Fraudepreventie (D2) van OLAF.
+Bij dit proces waren ook de DG's REGIO, EMPL, MARE en HOME betrokken. De werkzaamheden werden gecoördineerd door de eenheid Fraudepreventie (D2) van OLAF.
 
-De uitkomst hiervan is deze praktische gids voor het omgaan met belangenconflicten, bestemd voor beheerders die te maken hebben met aanbestedingen voor structurele acties en cohesiebeleidprogramma’s die door de EU worden gefinancierd.
+De uitkomst hiervan is deze praktische gids voor het omgaan met belangenconflicten, bestemd voor beheerders die te maken hebben met aanbestedingen voor structurele acties en cohesiebeleidprogramma's die door de EU worden gefinancierd.
 
 De gids is bedoeld voor beheerders en personeel van zowel a) de beheersinstanties als b) de begunstigde instanties die optreden als aanbestedende diensten voor de aanbestedingsprocedures. De gids heeft betrekking op alle operationele activiteiten die cofinanciering ontvangen uit hoofde van de Structuurfondsen of het Cohesiefonds, evenals op alle vormen van aanbesteding, ongeacht het bedrag. Om te bepalen hoe ver de verplichtingen reiken en wat de draagwijdte is van de verificatie, moet echter een goed evenwicht worden gevonden tussen: de verplichting om te controleren; de waarde van de aanbesteding; de vraag of de aanbesteding onderworpen is aan de regels voor het plaatsen van overheidsopdrachten; en vereenvoudiging en vermindering van de administratieve last voor begunstigden. Deze praktische gids is de uitkomst van een vruchtbare uitwisseling tussen de deskundigen. De gids is beschikbaar voor alle lidstaten en andere belanghebbenden, onder andere via het platform voor fraudebestrijding SFC2007, evenals voor alle diensten van de Commissie via de website van OLAF.
 
-De gids speelt ook in op de wetgevingsvoorstellen voor het cohesiebeleid 2014-2020, op grond waarvan de lidstaten, rekening houdende met alle vastgestelde risico’s, verplicht zijn effectieve en evenredige fraudebestrijdingsmaatregelen door te voeren.
+De gids speelt ook in op de wetgevingsvoorstellen voor het cohesiebeleid 2014-2020, op grond waarvan de lidstaten, rekening houdende met alle vastgestelde risico's, verplicht zijn effectieve en evenredige fraudebestrijdingsmaatregelen door te voeren.
 
 
 1- Definities
 
 
-Het begrip ”belangenconflict” is niet geharmoniseerd binnen de Europese Unie. Sommige lidstaten (zoals Roemenië) hebben in hun strafrecht een definitie opgenomen, maar andere (bijvoorbeeld Frankrijk en het Verenigd Koninkrijk) hebben dat niet. Dit betekent echter niet dat er in die landen geen strafvervolging kan worden ingesteld om dit probleem aan te pakken. In het Verenigd Koninkrijk bestaat er bijvoorbeeld wel wetgeving hiervoor, maar deze betreft “misbruik van openbaar ambt”, een strafbaar feit dat meer omvat dan enkel belangenconflict en dat kan worden ingeroepen als het conflict resulteert in corrupt gedrag.
+Het begrip "belangenconflict" is niet geharmoniseerd binnen de Europese Unie. Sommige lidstaten (zoals Roemenië) hebben in hun strafrecht een definitie opgenomen, maar andere (bijvoorbeeld Frankrijk en het Verenigd Koninkrijk) hebben dat niet. Dit betekent echter niet dat er in die landen geen strafvervolging kan worden ingesteld om dit probleem aan te pakken. In het Verenigd Koninkrijk bestaat er bijvoorbeeld wel wetgeving hiervoor, maar deze betreft "misbruik van openbaar ambt", een strafbaar feit dat meer omvat dan enkel belangenconflict en dat kan worden ingeroepen als het conflict resulteert in corrupt gedrag.
 
-De Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) stelt de volgende definitie voor: “Een ‘belangenconflict’ betreft een conflict tussen de openbare taak en de privébelangen van de ambtenaar, waarbij deze op persoonlijke titel belangen heeft die een nadelige invloed zouden kunnen hebben op de wijze waarop hij zich van zijn verplichtingen en verantwoordelijkheden kwijt.”
+De Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) stelt de volgende definitie voor: "Een 'belangenconflict' betreft een conflict tussen de openbare taak en de privébelangen van de ambtenaar, waarbij deze op persoonlijke titel belangen heeft die een nadelige invloed zouden kunnen hebben op de wijze waarop hij zich van zijn verplichtingen en verantwoordelijkheden kwijt."
 
 De EU-wetgeving bevat een definitie van het concept in het kader van de uitvoering van de algemene begroting van de EU.
 
 De definitie is van toepassing op alle soorten aanbestedingen die worden gefinancierd met de EU-fondsen voor structurele acties en cohesiebeleid, ongeacht het bedrag.
 
-Artikel 57, lid 2 van het Financieel Reglement dat van toepassing is op de algemene begroting van de Europese Unie (Verordening (EU, Euratom) nr. 966/2012) voorziet in een definitie van belangenconflicten waar het gaat om de uitgaven en het beheer van de EU-begroting. De definitie luidt als volgt: “1. Financiële actoren en andere personen die bij de uitvoering en het beheer, met inbegrip van voorbereidende handelingen op dit gebied, de audit of de controle van de begroting betrokken zijn, verrichten geen handeling waarbij hun eigen belangen in conflict kunnen komen met die van de Unie.
+Artikel 57, lid 2 van het Financieel Reglement dat van toepassing is op de algemene begroting van de Europese Unie (Verordening (EU, Euratom) nr. 966/2012) voorziet in een definitie van belangenconflicten waar het gaat om de uitgaven en het beheer van de EU-begroting. De definitie luidt als volgt: "1. Financiële actoren en andere personen die bij de uitvoering en het beheer, met inbegrip van voorbereidende handelingen op dit gebied, de audit of de controle van de begroting betrokken zijn, verrichten geen handeling waarbij hun eigen belangen in conflict kunnen komen met die van de Unie.
 
 (…)
 
@@ -529,7 +529,7 @@ De beheersinstanties moeten toezicht houden op hoe de begunstigden de aanbestedi
 
 Belangenconflictsituaties kunnen ertoe leiden dat marktdeelnemers hun vertrouwen verliezen in aanbestedingen voor structurele acties en dat eerlijke deelnemers ontmoedigd worden om een bieding te doen.
 
-Beheersinstanties wordt derhalve aanbevolen een belangenconflictenbeleid te ontwikkelen om de risico’s te beperken en mogelijke gevallen aan te pakken.
+Beheersinstanties wordt derhalve aanbevolen een belangenconflictenbeleid te ontwikkelen om de risico's te beperken en mogelijke gevallen aan te pakken.
 
 Een dergelijk beleid moet gericht zijn op de preventie, de opsporing en het beheer van belangenconflicten en op de sancties die daarmee gepaard gaan. Het beleid moet worden doorgevoerd binnen elk orgaan dat deel uitmaakt van het beheers- en controlesysteem van een operationeel programma en moet worden aanbevolen aan de begunstigden die aanbestedingsprocedures organiseren, ongeacht hun rechtsvorm.
 

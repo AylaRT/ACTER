@@ -233,7 +233,7 @@ where Fl: lift force (N) Fd: drag force (N) bl: blade length (m) Cl: lift coeffi
 
 16
 
- 90π   α actual π Fl ,hlep = Fl cos  −  180   180  90π   α actual π Fl ,circ = Fl sin  −  180   180 Fd ,hurt
+ 90π   α actual π Fl ,hlep = Fl cos  -  180   180  90π   α actual π Fl ,circ = Fl sin  -  180   180 Fd ,hurt
 
      
 
@@ -248,7 +248,7 @@ Fl ,help : Force in direction of travel (N) Fl ,circ : Force contributing to cen
 α actual : Angle of attack with added pitching (rad)
 Finally, parallel forces are added, and perpendicular forces are added to obtain expressions for F1 and F2, as given by equations [8] and [9].
 
-F1 = Fl ,help − Fd , hurt F2 = Fl ,circ + Fd ,circ
+F1 = Fl ,help - Fd , hurt F2 = Fl ,circ + Fd ,circ
 
 [13, 14]
 

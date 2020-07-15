@@ -339,7 +339,7 @@ funderingstypes	Common_Term
 gasturbines	Specific_Term
 gaswet	Specific_Term
 gbf	Specific_Term
-gbf’s	Specific_Term
+gbf's	Specific_Term
 gelderland	Named_Entity
 geleverde vermogen	Specific_Term
 gelijkrichter	Specific_Term
@@ -544,7 +544,7 @@ lagerschade	Specific_Term
 lagertemperatuur	Specific_Term
 lake vanern	Named_Entity
 lam	Named_Entity
-landbouwbarema’s	OOD_Term
+landbouwbarema's	OOD_Term
 landschapsvervuiling	Specific_Term
 landturbines	Specific_Term
 laveyne	Named_Entity

@@ -5,8 +5,8 @@ facteur d'efficacité du système :
 E A f V C V V
 Vf
 Vi
-ap e ´ ´ D
-´
+ap e ' ' D
+'
 = å ( ) ( )
 2
 8.760 r

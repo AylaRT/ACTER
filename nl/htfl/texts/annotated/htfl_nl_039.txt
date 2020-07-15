@@ -5,7 +5,7 @@ Diagnostische en prognostische waarde van B-type-natriuretische peptiden bij har
 
 - Zowel in groepen patiënten met hartfalen als in de algemene bevolking is er een verband tussen BNP- en NT-proBNP-plasmaspiegels en het risico op cardiovasculaire sterfte, na correctie voor traditionele risicofactoren.
 
-- Bevolkingsonderzoek middels BNP- of NT-proBNP-bepalingen om patiënten met hartfalen vroegtijdig op te sporen kan niet worden aangeraden wegens de te lage specificiteit: de plasmaspiegel van BNP of NT-proBNP wordt behalve door hartfalen beïnvloed door leeftijd, geslacht, ‘body-mass index’, nierfunctie en longcapaciteit.
+- Bevolkingsonderzoek middels BNP- of NT-proBNP-bepalingen om patiënten met hartfalen vroegtijdig op te sporen kan niet worden aangeraden wegens de te lage specificiteit: de plasmaspiegel van BNP of NT-proBNP wordt behalve door hartfalen beïnvloed door leeftijd, geslacht, 'body-mass index', nierfunctie en longcapaciteit.
 
 - Er zijn aanwijzingen dat introductie van een snelle BNP-bepaling op de eerstehulpafdeling voor patiënten die zich melden met acute dyspnoe, leidt tot een doelmatigere diagnostiek en behandeling.
 

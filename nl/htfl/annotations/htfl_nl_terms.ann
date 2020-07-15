@@ -88,6 +88,7 @@ angiotensine ii	Specific_Term
 angiotensine ii-receptorblokkers	Specific_Term
 angiotensine receptor neprilysine inhibitors	Specific_Term
 angiotensine receptorblokkers	Specific_Term
+angiotensine-'converting'-enzymremmers	Specific_Term
 angiotensine-2-receptorblokker	Specific_Term
 angiotensine-converterend-enzym	Specific_Term
 angiotensine-converterend-enzymremmers	Specific_Term
@@ -103,7 +104,6 @@ angiotensine-ii-receptorblokker	Specific_Term
 angiotensine-ii-receptorblokkers	Specific_Term
 angiotensine-receptor-blokkers	Specific_Term
 angiotensine-receptorantagonisten	Specific_Term
-angiotensine-‘converting’-enzymremmers	Specific_Term
 angiotensineconverterend enzym	Specific_Term
 angiotensineconverterend-enzym	Specific_Term
 angiotensineconverterendenzymremmers	Specific_Term
@@ -147,14 +147,13 @@ apoptotische	Specific_Term
 apoptotische cellen	Specific_Term
 arb's	Specific_Term
 arbs	Specific_Term
-arb’s	Specific_Term
 arg389	Specific_Term
 arg389-variant	Specific_Term
 arg389-variantcellen	Specific_Term
 arginine	Specific_Term
 aritmie	Specific_Term
 aritmieën	Specific_Term
-arni’s	Specific_Term
+arni's	Specific_Term
 arterieel	Specific_Term
 arteriole	Specific_Term
 arterioveneuze	Specific_Term
@@ -263,7 +262,7 @@ bloedige meting	Specific_Term
 bloedige metingen	Specific_Term
 bloeding	Common_Term
 bloedingen	Common_Term
-bloedingsrisico’s	Specific_Term
+bloedingsrisico's	Specific_Term
 bloedingstijd	Specific_Term
 bloedonderzoek	Common_Term
 bloedplaatjes	Common_Term
@@ -483,8 +482,8 @@ coumarines	Specific_Term
 cox	Specific_Term
 cox 1-remmers	Specific_Term
 cox 2-remmers	Specific_Term
+cox' regressieanalyse	OOD_Term
 cox-2-remmers	Specific_Term
-cox’ regressieanalyse	OOD_Term
 creatineklaring	Specific_Term
 creatinine	Specific_Term
 creatinineconcentratie	Specific_Term
@@ -507,9 +506,9 @@ cv	Specific_Term
 cv aandoeningen	Specific_Term
 cv events	Specific_Term
 cva	Specific_Term
-cva’s	Specific_Term
+cva's	Specific_Term
 cvd	Specific_Term
-cvd’s	Specific_Term
+cvd's	Specific_Term
 cvz	Specific_Term
 cyclo-oxygenase	Specific_Term
 cyp2c9	Specific_Term
@@ -540,7 +539,7 @@ diabetes mellitus type 2	Specific_Term
 diabetes type-2	Specific_Term
 diabetesbehandeling	Common_Term
 diabetespatiënten	Common_Term
-diabeteszorgprogamma’s	Common_Term
+diabeteszorgprogamma's	Common_Term
 diabetische	Common_Term
 diabetische cardiomyopathie	Specific_Term
 diabetische maculopathie	Specific_Term
@@ -693,7 +692,7 @@ enkelvoudige nucleotidepolymorfisme	Specific_Term
 enzym	Specific_Term
 enzymwerking	Specific_Term
 eosine	Specific_Term
-epd’s	Specific_Term
+epd's	Specific_Term
 epicardiale vene	Specific_Term
 epidemiologie	Specific_Term
 epidemiologisch	Specific_Term
@@ -751,7 +750,7 @@ follow-up	Common_Term
 follow-upduur	Common_Term
 follow-uponderzoek	Common_Term
 follow-upperiode	Common_Term
-follow-upprogramma’s	Common_Term
+follow-upprogramma's	Common_Term
 forward failure	Specific_Term
 functionele capaciteit	Specific_Term
 functionele klasse	Specific_Term
@@ -874,15 +873,15 @@ hartfalenonderzoek	Common_Term
 hartfalenonderzoeken	Common_Term
 hartfalenpatiënt	Common_Term
 hartfalenpatiënten	Common_Term
+hartfalenpoli's	Common_Term
 hartfalenpolikliniek	Common_Term
-hartfalenpoli’s	Common_Term
-hartfalenprogramma’s	Common_Term
+hartfalenprogramma's	Common_Term
 hartfalenspreekuur	Common_Term
 hartfalensymptomen	Common_Term
 hartfalenteam	Common_Term
 hartfalenverpleegkundige	Common_Term
 hartfalenverpleegkundigen	Common_Term
-hartfalenzorgprogramma’s	Common_Term
+hartfalenzorgprogramma's	Common_Term
 hartfalers	Common_Term
 hartfrequentie	Specific_Term
 hartfunctie	Common_Term
@@ -1388,7 +1387,6 @@ non-steroïde anti-inflammatoire geneesmiddelen	Specific_Term
 npv	OOD_Term
 nsaid	Specific_Term
 nsaid's	Specific_Term
-nsaid’s	Specific_Term
 nt-anp	Specific_Term
 nt-pro-bnp	Specific_Term
 nt-probnp	Specific_Term
@@ -1502,7 +1500,6 @@ pathologisch	Specific_Term
 pathologische	Specific_Term
 pathologische q-toppen	Specific_Term
 patienten	Common_Term
-patiënten	Common_Term
 patiënt	Common_Term
 patiënte	Common_Term
 patiënten	Common_Term
@@ -1514,7 +1511,7 @@ patiëntenvoorlichting	Common_Term
 patiëntenzorg	Common_Term
 pci	Specific_Term
 pco2	Specific_Term
-pearson’s product moment correlatiecoëfficiënt	OOD_Term
+pearson's product moment correlatiecoëfficiënt	OOD_Term
 peptide	Specific_Term
 peptiden	Specific_Term
 percutane	Specific_Term
@@ -1655,7 +1652,7 @@ randomiseerden	OOD_Term
 range	OOD_Term
 rattencardiomyocyten	Specific_Term
 rct	OOD_Term
-rct’s	OOD_Term
+rct's	OOD_Term
 re-entry-mechanismen	Specific_Term
 reanimatierichtlijnen	Specific_Term
 reanimeren	Common_Term
@@ -1699,7 +1696,7 @@ retentie van water	Specific_Term
 retrospectief statusonderzoek	OOD_Term
 reumatoïde	Specific_Term
 reumatoïde artritis	Specific_Term
-revalidatieprogramma’s	Common_Term
+revalidatieprogramma's	Common_Term
 revascularisatie	Specific_Term
 revascularisatie-ingreep	Specific_Term
 reversibele luchtwegobstructie	Specific_Term
@@ -1769,7 +1766,7 @@ spironolactongroep	Specific_Term
 spoedeisende hulp	Common_Term
 spoedeisendehulpafdeling	Common_Term
 spoedopvang	Common_Term
-ssri’s	Specific_Term
+ssri's	Specific_Term
 st-elevaties	Specific_Term
 st-segmentdepressie	Specific_Term
 st-segmentelevatie	Specific_Term

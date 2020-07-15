@@ -167,16 +167,15 @@ changement de main	Specific_Term
 changement de pied	Specific_Term
 changement de pied au temps	Specific_Term
 changement de pied en l'air	Specific_Term
-changement de pied en l’air	Specific_Term
 changement en deux temps	Specific_Term
 changements	Specific_Term
 changements de pied	Specific_Term
-changements de pied en l’air	Specific_Term
+changements de pied en l'air	Specific_Term
 changements de pieds	Specific_Term
 changements en deux temps	Specific_Term
 changer	Specific_Term
 changer de pied	Specific_Term
-changer de pied en l’air	Specific_Term
+changer de pied en l'air	Specific_Term
 changez	Specific_Term
 changez de pied	Specific_Term
 changé	Specific_Term
@@ -541,8 +540,8 @@ latéraux	Common_Term
 lettre	Specific_Term
 levade	Specific_Term
 leçon de la jambe	Specific_Term
-liberté d’épaule	Specific_Term
-liberté d’épaules	Specific_Term
+liberté d'épaule	Specific_Term
+liberté d'épaules	Specific_Term
 lice	Specific_Term
 licol	Specific_Term
 ligne droite	Specific_Term
@@ -674,7 +673,7 @@ pli interne	Specific_Term
 pli intérieur	Specific_Term
 pli à droite	Specific_Term
 pli à gauche	Specific_Term
-pli à l’intérieur	Specific_Term
+pli à l'intérieur	Specific_Term
 pliant	Specific_Term
 ploiement	Specific_Term
 ployer	Specific_Term
@@ -776,10 +775,10 @@ rééquilibrer	Common_Term
 rêne	Common_Term
 rêne contraire	Specific_Term
 rêne d'appui	Specific_Term
+rêne d'ouverture	Specific_Term
 rêne direct	Specific_Term
 rêne directe	Specific_Term
 rêne droite	Common_Term
-rêne d’ouverture	Specific_Term
 rêne extérieure	Specific_Term
 rêne gauche	Common_Term
 rêne intérieure	Specific_Term
@@ -802,8 +801,7 @@ saut d'obstacles	Common_Term
 saute	Common_Term
 sauts	Common_Term
 sauts d'école	Specific_Term
-sauts d’école	Specific_Term
-sauts d’écoles	Specific_Term
+sauts d'écoles	Specific_Term
 se contracte	Specific_Term
 se contracter	Specific_Term
 se creuser	Specific_Term
@@ -864,7 +862,7 @@ travail monté	Specific_Term
 travail sur 2 pistes	Specific_Term
 travail sur 3 pistes	Specific_Term
 travail sur 4 pistes	Specific_Term
-travail à l’épaule	Specific_Term
+travail à l'épaule	Specific_Term
 travers	Specific_Term
 traversant	Specific_Term
 traverser	Specific_Term
@@ -905,8 +903,8 @@ x	Specific_Term
 yeux	Common_Term
 zig zag	Specific_Term
 zig-zag	Specific_Term
+à l'appui	Specific_Term
 à la sangle	Specific_Term
-à l’appui	Specific_Term
 école d'équitation	Specific_Term
 école d'équitation classique	Specific_Term
 écurie	Common_Term

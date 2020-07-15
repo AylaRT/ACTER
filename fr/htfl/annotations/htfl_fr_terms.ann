@@ -8,11 +8,9 @@ abdominales	Common_Term
 ablation	Specific_Term
 ac/fa	Specific_Term
 accident embolique	Specific_Term
-accident vasculaire cérébral	Specific_Term
 accident vasculaire cérébral	Specific_Term
 accident vasculaire ischémique	Specific_Term
 accidents ischémiques cérébraux	Specific_Term
-accidents vasculaires cérébraux	Specific_Term
 accidents vasculaires cérébraux	Specific_Term
 acide tout-trans-rétinoïque	Specific_Term
 activation sympathique	Specific_Term
@@ -108,7 +106,7 @@ antagoniste	Specific_Term
 antagoniste du récepteur minéralocorticoïde	Specific_Term
 antagoniste sélectif des récepteurs at1 de l'angiotensine ii	Specific_Term
 antagonistes	Specific_Term
-antagonistes de l’aldostérone	Specific_Term
+antagonistes de l'aldostérone	Specific_Term
 antagonistes des récepteurs at1 de l'angiotensine ii	Specific_Term
 antagonistes des récepteurs de l'aldostérone	Specific_Term
 antagonistes des récepteurs de l'angiotensine ii	Specific_Term
@@ -171,7 +169,6 @@ arn	Specific_Term
 arn 16s	Specific_Term
 arn messager	Specific_Term
 arrêt cardiaque	Common_Term
-artérielle	Common_Term
 arthralgies	Specific_Term
 arthrite	Common_Term
 arthrite chronique	Common_Term
@@ -339,12 +336,10 @@ cardiomyocyte	Specific_Term
 cardiomyocytes	Specific_Term
 cardiomyopathie	Specific_Term
 cardiomyopathie diabétique	Specific_Term
-cardiomyopathie dilatée	Specific_Term
-cardiomyopathie dilatée péripartum	Specific_Term
 cardiomyopathie dilaté	Specific_Term
 cardiomyopathie dilatée	Specific_Term
 cardiomyopathie dilatée hypokinétique	Specific_Term
-cardiomyopathie du péripartum	Specific_Term
+cardiomyopathie dilatée péripartum	Specific_Term
 cardiomyopathie du post-partum	Specific_Term
 cardiomyopathie du péripartum	Specific_Term
 cardiomyopathie du ventricule droit	Specific_Term
@@ -356,8 +351,8 @@ cardiomyopathies	Specific_Term
 cardiomyopathies arythmogènes	Specific_Term
 cardiomyopathies arythmogènes dilatées	Specific_Term
 cardiomyopathies arythmogènes du ventricule droit	Specific_Term
-cardiomyopathies dilatées	Specific_Term
-cardiomyopathies dilatées hypokinétiques	Specific_Term
+cardiomyopathies dilatées	Specific_Term
+cardiomyopathies dilatées hypokinétiques	Specific_Term
 cardiomyopathies hypertensives	Specific_Term
 cardiomyoplastie	Specific_Term
 cardiomyoplastie cellulaire	Specific_Term
@@ -409,8 +404,6 @@ centres hospitaliers généraux	Common_Term
 centres hospitaliers universitaires	Common_Term
 cerebrovasculaire	Specific_Term
 cerveau	Common_Term
-cérébral	Common_Term
-cérébraux	Common_Term
 chambre	Common_Term
 chf	Specific_Term
 chg	Common_Term
@@ -567,10 +560,6 @@ cœur pulmonaire chronique	Specific_Term
 dai	Specific_Term
 dermatoarthrite lipoïdique	Specific_Term
 desmosomes	Specific_Term
-défibrillateur	Common_Term
-défibrillateur automatique implantable	Specific_Term
-défibrillateur automatique implantable ventriculaire	Specific_Term
-défibrillateur implantable automatique	Specific_Term
 diabete	Common_Term
 diabète	Common_Term
 diabète de type 2	Specific_Term
@@ -598,8 +587,6 @@ digitalodiurétique	Specific_Term
 dilatation	Common_Term
 dilatation ventriculaire droite	Specific_Term
 dilatation ventriculaire gauche	Specific_Term
-dilatée	Common_Term
-dilatées	Common_Term
 dilaté	Common_Term
 dilatée	Common_Term
 dilatées	Common_Term
@@ -609,7 +596,7 @@ distribution binomiale	OOD_Term
 diurne	Specific_Term
 diurèse	Specific_Term
 diurétique	Specific_Term
-diurétique de l’anse	Specific_Term
+diurétique de l'anse	Specific_Term
 diurétiques	Specific_Term
 diurétiques anti-aldostérone	Specific_Term
 diurétiques de l'anse	Specific_Term
@@ -659,7 +646,6 @@ dysplasie ventriculaire droite arythmogène	Specific_Term
 dyspnée	Specific_Term
 dyspnée aiguë	Specific_Term
 dyspnée d'effort	Specific_Term
-dyspnée d’effort	Specific_Term
 dysthyroïdie	Specific_Term
 dysthyroïdies	Specific_Term
 débit cardiaque	Specific_Term
@@ -687,9 +673,11 @@ défaillances viscérales	Specific_Term
 défibrillateur	Common_Term
 défibrillateur automatique	Specific_Term
 défibrillateur automatique implantable	Specific_Term
+défibrillateur automatique implantable ventriculaire	Specific_Term
 défibrillateur biventriculaire	Specific_Term
 défibrillateur cardiaque automatique implantable	Specific_Term
 défibrillateur cardiaque implantable	Specific_Term
+défibrillateur implantable automatique	Specific_Term
 défibrillateurs	Common_Term
 défibrillateurs automatiques	Specific_Term
 défibrillateurs automatiques implantés	Specific_Term
@@ -759,7 +747,6 @@ entérocolite ulcéronécrosante	Specific_Term
 enzyme	Specific_Term
 enzyme de conversion de l'angiotensine	Specific_Term
 enzyme de conversion de l'angiotensine ii	Specific_Term
-enzyme de conversion de l’angiotensine	Specific_Term
 enzymes	Specific_Term
 enzymes cardiaques	Specific_Term
 enzymes musculaires cardiaques	Specific_Term
@@ -769,7 +756,7 @@ espérance de vie	Common_Term
 eto	Specific_Term
 exacerbations	Specific_Term
 examen clinique	Common_Term
-excursion systolique de l’anneau tricuspide	Specific_Term
+excursion systolique de l'anneau tricuspide	Specific_Term
 expansion volémique	Specific_Term
 explanter	Common_Term
 exploration hémodynamique	Specific_Term
@@ -784,14 +771,6 @@ extrasystole ventriculaire	Specific_Term
 exégèse	OOD_Term
 exérèse	Specific_Term
 exérèse chirurgicale	Specific_Term
-échocardiographiques	Specific_Term
-électrocardiographiques	Specific_Term
-épidémiologique	Specific_Term
-étiologies	Specific_Term
-étiologique	Specific_Term
-étiologiques	Specific_Term
-étude rétrospective	OOD_Term
-étude rétrospective transversale	OOD_Term
 f. e.	Specific_Term
 fa	Specific_Term
 fa non valvulaire	Specific_Term
@@ -857,15 +836,11 @@ fraction d'éjection	Specific_Term
 fraction d'éjection du ventricule gauche	Specific_Term
 fraction d'éjection isotopique	Specific_Term
 fraction d'éjection préservée	Specific_Term
+fraction d'éjection réduite	Specific_Term
 fraction d'éjection ventriculaire gauche	Specific_Term
 fraction d'éjection ventriculaire gauche isotopique	Specific_Term
+fraction d'éjection vg	Specific_Term
 fraction de raccourcissement du ventricule gauche	Specific_Term
-fraction d’éjection	Specific_Term
-fraction d’éjection du ventricule gauche	Specific_Term
-fraction d’éjection préservée	Specific_Term
-fraction d’éjection réduite	Specific_Term
-fraction d’éjection ventriculaire gauche	Specific_Term
-fraction d’éjection vg	Specific_Term
 fractions d'éjection	Specific_Term
 fréquence cardiaque	Specific_Term
 fuite valvulaire	Specific_Term
@@ -928,10 +903,8 @@ hormones thyroïdiennes	Specific_Term
 hormonothérapie	Common_Term
 hospitalier	Common_Term
 hospitaliers	Common_Term
-hospitalière	Common_Term
 hospitalisation	Common_Term
 hospitalisations	Common_Term
-hospitalisés	Common_Term
 hospitalisé	Common_Term
 hospitalisée	Common_Term
 hospitalisées	Common_Term
@@ -957,7 +930,6 @@ hypertendu	Specific_Term
 hypertendus	Specific_Term
 hypertensif	Specific_Term
 hypertension	Specific_Term
-hypertension artérielle	Specific_Term
 hypertension artérielle	Specific_Term
 hypertension artérielle pulmonaire	Specific_Term
 hypertension artériellle	Specific_Term
@@ -986,9 +958,9 @@ hypo-albuminémie	Specific_Term
 hypo-oncocitémie	Specific_Term
 hypo-osmolarité plasmatique	Specific_Term
 hypocalcémie	Specific_Term
-hypokinétiques	Specific_Term
 hypokinésie ventriculaire gauche	Specific_Term
 hypokinétique	Specific_Term
+hypokinétiques	Specific_Term
 hyponatrémie	Specific_Term
 hyponatrémie chronique	Specific_Term
 hyponatrémies	Specific_Term
@@ -1108,18 +1080,16 @@ inhibiteur de l'enzyme de conversion	Specific_Term
 inhibiteur de l'enzyme de conversion de l'angiotensine	Specific_Term
 inhibiteur de la calcineurine	Specific_Term
 inhibiteur de la néprilysine	Specific_Term
-inhibiteur des récepteurs de l’angiotensine	Specific_Term
+inhibiteur des récepteurs de l'angiotensine	Specific_Term
 inhibiteurs calciques	Specific_Term
 inhibiteurs calciques bradycardisants	Specific_Term
 inhibiteurs d'enzyme de conversion	Specific_Term
 inhibiteurs d'enzyme de conversion de l'angiotensine	Specific_Term
+inhibiteurs de l'angiotensine ii	Specific_Term
 inhibiteurs de l'enzyme de conversion	Specific_Term
 inhibiteurs de l'enzyme de conversion de l'angiotensine	Specific_Term
 inhibiteurs de l'enzyme de conversion de l'angiotensine ii	Specific_Term
 inhibiteurs de la synthèse des prostaglandines	Specific_Term
-inhibiteurs de l’angiotensine ii	Specific_Term
-inhibiteurs de l’enzyme de conversion	Specific_Term
-inhibiteurs de l’enzyme de conversion de l’angiotensine	Specific_Term
 inhibiteurs de tyrosine kinase	Specific_Term
 inhibiteurs du mtor	Specific_Term
 inhibiteurs du système rénine-angiotensine-aldostérone	Specific_Term
@@ -1153,8 +1123,8 @@ insuffisance cardiaque droite	Specific_Term
 insuffisance cardiaque fœtale	Specific_Term
 insuffisance cardiaque gauche	Specific_Term
 insuffisance cardiaque globale	Specific_Term
-insuffisance cardiaque péripartum	Specific_Term
 insuffisance cardiaque post-ischémique	Specific_Term
+insuffisance cardiaque péripartum	Specific_Term
 insuffisance cardiaque réfractaire	Specific_Term
 insuffisance cardiaque réfractoire	Specific_Term
 insuffisance cardiaque stable	Specific_Term
@@ -1167,8 +1137,7 @@ insuffisance cardiaque à fonction systolique conservée	Specific_Term
 insuffisance cardiaque à fonction systolique d'éjection conservée	Specific_Term
 insuffisance cardiaque à fonction systolique préservée	Specific_Term
 insuffisance cardiaque à fraction d'éjection préservée	Specific_Term
-insuffisance cardiaque à fraction d’éjection préservée	Specific_Term
-insuffisance cardiaque à fraction d’éjection réduite	Specific_Term
+insuffisance cardiaque à fraction d'éjection réduite	Specific_Term
 insuffisance cardiaque à haut débit	Specific_Term
 insuffisance cardique	Common_Term
 insuffisance coronaire	Specific_Term
@@ -1237,8 +1206,6 @@ ira	Specific_Term
 irm	Specific_Term
 irradiation	Common_Term
 irt	Specific_Term
-ischémique	Specific_Term
-ischémiques	Specific_Term
 ischémie	Specific_Term
 ischémie coronarienne	Specific_Term
 ischémie myocardique	Specific_Term
@@ -1260,7 +1227,6 @@ kpm	OOD_Term
 la/ss-b	Specific_Term
 leptine	Specific_Term
 leucémies	Common_Term
-létalité	Common_Term
 ligature	Specific_Term
 lipidique	Specific_Term
 lipomes	Specific_Term
@@ -1329,10 +1295,6 @@ mcd fulminante	Specific_Term
 mcdi	Specific_Term
 medicaux	Common_Term
 metformine	Specific_Term
-médical	Common_Term
-médicales	Common_Term
-médicaments	Common_Term
-médicaux	Common_Term
 micro-angiopathie	Specific_Term
 micro-immunofluorescence	Specific_Term
 microcirculatoire	Specific_Term
@@ -1349,7 +1311,6 @@ molécules aquarétiques	Specific_Term
 morbi-mortalité	Specific_Term
 morbide	Specific_Term
 morbides	Specific_Term
-morbidité	Specific_Term
 morbidité	Specific_Term
 morbidité cardiaque	Specific_Term
 morbidité cardiaque périopératoire	Specific_Term
@@ -1361,7 +1322,6 @@ mort cellulaire	Specific_Term
 mort cellulaire programmée	Specific_Term
 mort non subite	Common_Term
 mort subite	Common_Term
-mortalité	Common_Term
 mortalité	Common_Term
 mortalité cardiovasculaire	Specific_Term
 mortalité opératoire	Common_Term
@@ -1403,7 +1363,6 @@ myopathie	Specific_Term
 myopotentlels	Specific_Term
 myxome	Specific_Term
 myxome de l'oreillette droite	Specific_Term
-myxome de l’oreillette droite	Specific_Term
 myxomes	Specific_Term
 myélinolyse centropontine	Specific_Term
 mé	Specific_Term
@@ -1576,7 +1535,6 @@ perfusion	Specific_Term
 peripartum	Specific_Term
 peropératoire	Specific_Term
 peropératoires	Specific_Term
-péripartum	Specific_Term
 pharmaciens	Common_Term
 pharmacies	Common_Term
 pharmacocinétique	Specific_Term
@@ -1650,7 +1608,6 @@ pression systolique	Specific_Term
 pressions de remplissage	Specific_Term
 pressions de remplissage du ventricule gauche	Specific_Term
 pressions pulmonaires	Specific_Term
-prévalence	Common_Term
 pris en charge	Common_Term
 prise en charge	Common_Term
 probnp	Specific_Term
@@ -1759,7 +1716,6 @@ revascularisation	Specific_Term
 revascularisation coronaire	Specific_Term
 revascularisation myocardique	Specific_Term
 reverse remodelling effect	OOD_Term
-rétrospective	OOD_Term
 rfc	Specific_Term
 rhabdomyomes	Specific_Term
 rhm	Specific_Term
@@ -1785,19 +1741,18 @@ réadmission	Common_Term
 réanimateur	Common_Term
 réanimateurs	Common_Term
 récepteur	Specific_Term
-récepteur à l’angiotensine	Specific_Term
-récepteur à l’angiotensine 2	Specific_Term
+récepteur à l'angiotensine	Specific_Term
+récepteur à l'angiotensine 2	Specific_Term
 récepteurs	Specific_Term
 récepteurs at1 de l'angiotensine ii	Specific_Term
 récepteurs bêta du myocarde	Specific_Term
 récepteurs de l'aldostérone	Specific_Term
+récepteurs de l'angiotensine	Specific_Term
 récepteurs de l'angiotensine ii	Specific_Term
 récepteurs de l'endothéline	Specific_Term
-récepteurs de l’angiotensine	Specific_Term
-récepteurs de l’angiotensine ii	Specific_Term
 récepteurs v2	Specific_Term
-récepteurs à l’angiotensine	Specific_Term
-récepteurs à l’angiotensine ii	Specific_Term
+récepteurs à l'angiotensine	Specific_Term
+récepteurs à l'angiotensine ii	Specific_Term
 réentraînement	Common_Term
 régression logistique	OOD_Term
 régression logistique multivariée	OOD_Term
@@ -1817,6 +1772,7 @@ rétablissement de la fréquence cardiaque	Specific_Term
 rétention hydrique	Specific_Term
 rétention hydrosodée	Specific_Term
 réticulohistiocytose multicentrique	Specific_Term
+rétrospective	OOD_Term
 rétrécissement aortique	Specific_Term
 sa	Specific_Term
 sahos	Specific_Term
@@ -1826,7 +1782,6 @@ sang	Common_Term
 sang périphérique	Specific_Term
 sanguin	Common_Term
 sanguines	Common_Term
-santé	Common_Term
 santé	Common_Term
 sarcome	Specific_Term
 sarcomes	Specific_Term
@@ -1842,7 +1797,6 @@ septal	Specific_Term
 septale	Specific_Term
 septum interatrial	Specific_Term
 septum ventriculaire	Specific_Term
-sérologique	Specific_Term
 shunt	Specific_Term
 shunts	Specific_Term
 sida	Common_Term
@@ -1931,6 +1885,7 @@ syndrome cardiorénal	Specific_Term
 syndrome coronaire aigu	Specific_Term
 syndrome coronarien aigu	Specific_Term
 syndrome d'apnées du sommeil	Specific_Term
+syndrome d'apnées-hypopnées obstructives	Specific_Term
 syndrome d'épuisement vital	Specific_Term
 syndrome de churg-strauss	Specific_Term
 syndrome de claude bernard horner	Specific_Term
@@ -1939,12 +1894,10 @@ syndrome de meadows	Specific_Term
 syndrome de takotsubo	Specific_Term
 syndrome des brugada	Specific_Term
 syndrome du tako-tsubo	Specific_Term
-syndrome d’apnées du sommeil	Specific_Term
-syndrome d’apnées-hypopnées obstructives	Specific_Term
 syndromes	Common_Term
 syndromes coronaires aigus	Specific_Term
 syndromes coronariens aigus	Specific_Term
-syndromes d’apnées du sommeil	Specific_Term
+syndromes d'apnées du sommeil	Specific_Term
 systole	Specific_Term
 systole auriculaire	Specific_Term
 systolique	Specific_Term
@@ -1966,6 +1919,7 @@ séquestration extralobaire	Specific_Term
 séquestrationextralobaire	Specific_Term
 séro-positive	Common_Term
 sérologie	Specific_Term
+sérologique	Specific_Term
 séronégative	Common_Term
 séronégatives	Common_Term
 séropositives	Common_Term
@@ -1998,7 +1952,6 @@ test de marche progressive	Specific_Term
 testostérone	Common_Term
 testt de student	OOD_Term
 thallium	Specific_Term
-thérapeutiques	Common_Term
 thiamine	Specific_Term
 thiaminémie	Specific_Term
 thiazide	Specific_Term
@@ -2033,7 +1986,7 @@ thyrotoxicose	Specific_Term
 thyroïdectomie	Specific_Term
 thyroïdienne	Specific_Term
 thyroïdiennes	Specific_Term
-théorie de l’autodétermination	OOD_Term
+théorie de l'autodétermination	OOD_Term
 thérapeutique	Common_Term
 thérapeutiques	Common_Term
 thérapie	Common_Term
@@ -2049,7 +2002,6 @@ tissu musculaire squelettique	Specific_Term
 tissu nerveux autonome	Specific_Term
 tissus sous-cutanés	Specific_Term
 tolérance à l'effort	Specific_Term
-tolérance à l’effort	Specific_Term
 tonus parasympathique	Specific_Term
 tonus sympathique	Specific_Term
 torsades à couplage court	Specific_Term
@@ -2082,7 +2034,7 @@ traumatisme	Common_Term
 traumatismes	Common_Term
 trichrome masson	Specific_Term
 tricuspidien	Specific_Term
-trioxyde d’arsenic	Specific_Term
+trioxyde d'arsenic	Specific_Term
 tropheryma whipplei	Specific_Term
 troponine	Specific_Term
 troponine i	Specific_Term
@@ -2190,7 +2142,7 @@ virale	Common_Term
 virales	Common_Term
 viraux	Common_Term
 virus	Common_Term
-virus de l’immunodéficience humaine	Common_Term
+virus de l'immunodéficience humaine	Common_Term
 viscérales	Specific_Term
 vitamine b1	Common_Term
 vitamine d	Common_Term
@@ -2198,10 +2150,10 @@ vitesse systolique	Specific_Term
 vo2	Specific_Term
 vo2 de pointe	Specific_Term
 vo2 max	Specific_Term
-voie d’abord	Specific_Term
+voie d'abord	Specific_Term
 voies aériennes supérieures	Common_Term
 volumes télédiastoliques	Specific_Term
-volumineux myxome de l’oreillette droite	Specific_Term
+volumineux myxome de l'oreillette droite	Specific_Term
 volémie	Specific_Term
 volémique	Specific_Term
 vp	Specific_Term
@@ -2248,8 +2200,7 @@ vérapamil	Specific_Term
 épidémiologiques	Specific_Term
 épigastrique	Specific_Term
 épreuve d'effort	Specific_Term
-épreuve d’effort	Specific_Term
-épreuves d’effort	Specific_Term
+épreuves d'effort	Specific_Term
 érythropoïétine	Specific_Term
 étiologie	Specific_Term
 étiologies	Specific_Term
@@ -2260,6 +2211,7 @@ vérapamil	Specific_Term
 étude prospective	Specific_Term
 étude randomisée	OOD_Term
 étude rétrospective	OOD_Term
+étude rétrospective transversale	OOD_Term
 étude rétrospective transversale descriptive	OOD_Term
 études propectives	OOD_Term
 études prospectives	Specific_Term

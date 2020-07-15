@@ -198,7 +198,7 @@ Figuur 4.3 Grootste vermindering van de relatieve windsnelheid (maximaal snelhei
 
 Turbulentie in het zog
 
-De turbulentie-intensiteit, die is gemeten in de sector van -135º tot +135º, is uitgezet tegen de windrichting in Figuur 4.4. De turbulentie-intensiteit is het quotiënt van de windsnelheidsdeviatie σ(ut) (gemeten met MM3) en de omgevingswindsnelheid V’, die weer is bepaald uit het anemometersignaal op de gondel van T5.
+De turbulentie-intensiteit, die is gemeten in de sector van -135º tot +135º, is uitgezet tegen de windrichting in Figuur 4.4. De turbulentie-intensiteit is het quotiënt van de windsnelheidsdeviatie σ(ut) (gemeten met MM3) en de omgevingswindsnelheid V', die weer is bepaald uit het anemometersignaal op de gondel van T5.
 
 
 Figuur 4.4 Turbulentie-intensiteit: de deviatie van de windsnelheid op ashoogte gedeeld door de omgevingswindsnelheid, σ(ut)/V'. Het gemiddelde en de standaard deviatie per bin zijn weergegeven. Alle windsnelheden en stabiliteitsklassen inbegrepen.
@@ -228,7 +228,7 @@ Figuur 4.8 Gemiddelde en minimum waarde van de relatieve parkproductie bij versc
 Turbineprestaties
 
 Figuur 4.9 geeft het minimum van de relatieve prestaties van de individuele turbines voor verschillende windsnelheden en turbulentie-intensiteiten.
-De minima nemen toe met toenemende windsnelheid en turbulentie-intensiteit. De laagste waarde treedt op bij de 2e turbine in de rij en bij lage waarden voor windsnelheid en turbulentie-intensiteit. Bij hogere windsnelheden - wanneer de voorste turbine zijn bladen versteld en meer “doorlatend” wordt voor de stroming - profiteert vooral 2e turbine daar het meeste van en gaat beter presteren dan de volgende turbines.
+De minima nemen toe met toenemende windsnelheid en turbulentie-intensiteit. De laagste waarde treedt op bij de 2e turbine in de rij en bij lage waarden voor windsnelheid en turbulentie-intensiteit. Bij hogere windsnelheden - wanneer de voorste turbine zijn bladen versteld en meer "doorlatend" wordt voor de stroming - profiteert vooral 2e turbine daar het meeste van en gaat beter presteren dan de volgende turbines.
 
 
 Figuur 4.9 Minima van de relatieve prestaties van de individuele turbines in de rij. Links de invloed van de omgevingswindsnelheid, rechts die van de turbulentie-intensiteit.

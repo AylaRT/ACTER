@@ -72,7 +72,7 @@ Het gebruik van real-time processimulatie bij het ontwerpen en modificeren van g
 
 Rendementsverhoging wordt bereikt doordat een kwalitatief verbeterd besturingssysteem met inbegrip van optimalisaties (op basis van inzichten verkregen met processimulaties), zich consistenter gedraagt (minder onterechte uitbedrijfnames) en een hogere efficiëntie tot gevolg heeft (meer productie-uren).
 
-Kostprijsverlaging is eveneens een gevolg van kwalitatief verbeterde besturingssystemen door processimulaties. Het resulteert in minder (niet voorzien) onderhoud (bijvoorbeeld tandwielkast, lagers) vanwege lagere belastingen van windturbinesystemen en -componenten (minder overschrijdingen ontwerpgebied, minder vaak hoogbelastende ‘emergency stops’).
+Kostprijsverlaging is eveneens een gevolg van kwalitatief verbeterde besturingssystemen door processimulaties. Het resulteert in minder (niet voorzien) onderhoud (bijvoorbeeld tandwielkast, lagers) vanwege lagere belastingen van windturbinesystemen en -componenten (minder overschrijdingen ontwerpgebied, minder vaak hoogbelastende 'emergency stops').
 
 Indirecte energieverdienste
 Voorafgaand aan het project is de bijdrage ten aanzien van vermeden primaire energie en emissies bepaald volgens een binnen ECN Windenergie geharmoniseerde methodiek.

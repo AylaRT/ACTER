@@ -348,7 +348,7 @@ Dans le but de déterminer les limites de fonctionnement du système, nous avons
 des essais avec trois valeurs différentes de capacités d'excitation ( 28 µF, 32 µF et 36 µF).
 Dans un cas (Tableau 2-1), nous avons connecté la machine à une charge purement résistive
 dont nous avons fait varier la valeur jusqu'à l'écroulement de la tension. Dans le deuxième cas
-(Tableau 2-2) nous avons considéré une charge R-L dont la partie résistive est fixe (800 Ω) et
+(Tableau 2-2) nous avons considéré une charge R-L dont la partie résistive est fixe (800 Ω) et
 la partie inductive augmente de 0 jusqu'à la valeur limite pour laquelle la tension est
 maintenue. Dans chaque cas, les variations de tension et de fréquence par rapport à un
 fonctionnement à vide sont présentées.
@@ -511,7 +511,7 @@ directement les variations du vent. La vitesse réelle de la machine à courant 
 également représentée en trait noir sur le même graphe que la référence. Ces deux courbes
 sont pratiquement confondues ce qui montre l'efficacité du régulateur en terme de poursuite
 de trajectoire.
-Un zoom sur les caractéristiques de Ωref et Ω (Figure 3-13) permet de d'observer la faible erreur entre la référence et la mesure. Nous n'avons pas représenté le signal représentant la reconstruction de la vitesse par l'observateur de Kalman car celle-ci est confondue avec la vitesse mesurée.
+Un zoom sur les caractéristiques de Ωref et Ω (Figure 3-13) permet de d'observer la faible erreur entre la référence et la mesure. Nous n'avons pas représenté le signal représentant la reconstruction de la vitesse par l'observateur de Kalman car celle-ci est confondue avec la vitesse mesurée.
 
 Figure 3-12 : Vitesse du vent, vitesse de rotation de référence et vitesse effective de la MCC
 Figure 3-13 : Consigne de vitesse et vitesse réelle mesurée.
@@ -1187,7 +1187,7 @@ IV - Différentes méthodes description et intérêt de commande de la MADA
 
 L'utilisation de la machine asynchrone à double alimentation a fait l'objet de
 nombreuses investigations en recherche autant en fonctionnement moteur qu'en
-fonctionnement génératrice. Le but de ces dispositifs est dans la plupart des cas d'amener le glissement à la valeur désirée avec le meilleur rendement possible en alimentant les enroulements rotoriques par un cycloconvertisseur ou plus récemment par un dispositif redresseur-onduleur. Les grandeurs de commande sont, dans le cas d'une commande vectorielle classique, le plus souvent la vitesse et le flux (entraînant le classique problème de l'estimation du flux) mais certains modes de fonctionnement spécifiques amènent à choisir d'autres grandeurs. C'est le cas du dispositif de la Figure 4-7 où la vitesse Ω, la tension du bus
+fonctionnement génératrice. Le but de ces dispositifs est dans la plupart des cas d'amener le glissement à la valeur désirée avec le meilleur rendement possible en alimentant les enroulements rotoriques par un cycloconvertisseur ou plus récemment par un dispositif redresseur-onduleur. Les grandeurs de commande sont, dans le cas d'une commande vectorielle classique, le plus souvent la vitesse et le flux (entraînant le classique problème de l'estimation du flux) mais certains modes de fonctionnement spécifiques amènent à choisir d'autres grandeurs. C'est le cas du dispositif de la Figure 4-7 où la vitesse Ω, la tension du bus
 DC UDC, le facteur de puissance côté stator ks et côté ligne kl sont contrôlés [54][55]. La
 vitesse est directement contrôlée de façon à suive la caractéristique de production d'énergie
 optimale (Figure 4-6). Cette structure permet de contrôler le facteur de puissance de
@@ -2200,7 +2200,7 @@ pulsation de ces grandeurs. La valeur de M est donnée par :
 Couple de frottements visqueux :
 Le coefficient de frottements visqueux f mesuré est dans notre essai est celui de la
 machine asynchrone accouplée à une machine à courant continu. Cette dernière entraînant
-l'ensemble, elle est alimentée sous tension variable. La puissance Pmcc et le courant Imcc qu'elle absorbe sont mesurés ainsi que sa vitesse de rotation Ωmcc. On peut alors écrire :
+l'ensemble, elle est alimentée sous tension variable. La puissance Pmcc et le courant Imcc qu'elle absorbe sont mesurés ainsi que sa vitesse de rotation Ωmcc. On peut alors écrire :
 Avec P0 : puissance due aux pertes par frottements visqueux et Γs : couple de frottements secs
 et Ra : résistance de l'induit de la machine à courant continu. On obtient alors la
 caractéristique qui est une droite de pente f.

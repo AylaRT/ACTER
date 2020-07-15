@@ -84,7 +84,7 @@ australia	Named_Entity
 austria	Named_Entity
 automatic stirrup release	Specific_Term
 ayscha	Named_Entity
-ayscha’s angels	Named_Entity
+ayscha's angels	Named_Entity
 b	Specific_Term
 b.f. skinner	Named_Entity
 back	Common_Term
@@ -324,12 +324,12 @@ curb bit	Specific_Term
 curb chain	Specific_Term
 cutting	OOD_Term
 d	Specific_Term
-daffy’s son shine	Named_Entity
+daffy's son shine	Named_Entity
 daisy cutter	OOD_Term
 dalina dg	Named_Entity
 dam	Common_Term
 dawn	Named_Entity
-dawn white-o’connor	Named_Entity
+dawn white-o'connor	Named_Entity
 de la broue	Named_Entity
 de la guérinière	Named_Entity
 de pluvinel	Named_Entity
@@ -937,7 +937,7 @@ marian	Named_Entity
 marian mendez	Named_Entity
 martingales	Specific_Term
 maryland	Named_Entity
-maryland’s first choice farm	Named_Entity
+maryland's first choice farm	Named_Entity
 massachusetts	Named_Entity
 master of horse	Specific_Term
 maximilian	Named_Entity
@@ -962,7 +962,7 @@ military	Specific_Term
 miller	Named_Entity
 modern dressage	Specific_Term
 molly	Named_Entity
-molly o’brien	Named_Entity
+molly o'brien	Named_Entity
 moment of suspension	Specific_Term
 monsieur	Named_Entity
 morgans	Specific_Term
@@ -1006,6 +1006,7 @@ noseband	Specific_Term
 nosebands	Specific_Term
 nuno	Named_Entity
 nuno oliveira	Named_Entity
+o'brien	Named_Entity
 o-mok-see	OOD_Term
 o-mok-sees	OOD_Term
 obedience	Common_Term
@@ -1044,7 +1045,6 @@ over fences	OOD_Term
 overstep	Specific_Term
 overtrack	Specific_Term
 overtracks	Specific_Term
-o’brien	Named_Entity
 p	Specific_Term
 pacing	Specific_Term
 pad	Specific_Term
@@ -1546,7 +1546,7 @@ western world	Named_Entity
 weyrother	Named_Entity
 whip	Common_Term
 whips	Common_Term
-white-o’connor	Named_Entity
+white-o'connor	Named_Entity
 william	Named_Entity
 william cavendish	Named_Entity
 wintersnow	Named_Entity

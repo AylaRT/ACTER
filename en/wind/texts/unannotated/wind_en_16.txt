@@ -40,7 +40,7 @@ VAWT is presented here. The equations of motion for a small displacement (q) fro
 Xo
 Zl
 
-/,,.,.(-)
+/".,.(-)
 z/"
 
 Z'2

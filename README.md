@@ -1,4 +1,4 @@
-# ACTER Annotated Corpora for Term Extraction Research, version 1.3
+# ACTER Annotated Corpora for Term Extraction Research, version 1.4
 
 ACTER is a manually annotated dataset for term extraction, covering 3 languages (English, French, and Dutch), 
 and 4 domains (corruption, dressage, heart failure, and wind energy).
@@ -20,14 +20,14 @@ and 4 domains (corruption, dressage, heart failure, and wind energy).
 * **Creator**: Ayla Rigouts Terryn 
 * **Association**: LT3 Language and Translation Technology Team, Ghent University
 * **Date of creation version 1.0**: 17/12/2019
-* **Date of creation current version 1.3**: 13/05/2020 
+* **Date of creation current version 1.4**: 15/07/2020 
 * **Last updated**: 13/05/2020
 * **Contact**: ayla.rigoutsterryn@ugent.be
 * **Context**: Ayla Rigouts Terryn's PhD project + first TermEval shared task (CompuTerm2020)
 * **Shared Task**: see https://termeval.ugent.be; workshop proceedings with overview paper at 
                     https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/COMPUTERM2020book.pdf)
 * **Annotation Guidelines**: http://hdl.handle.net/1854/LU-8503113
-* **Source**: https://github.com/AylaRT/ACTER.git 
+* **Source**: https://github.com/AylaRT/ACTER
 * **License**: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
                     (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 * **Reference**: Please cite the following Open Access paper if you use this dataset 
@@ -161,22 +161,28 @@ The dataset has been updated since the publication of the former two papers.
 These papers also discuss aspects of the data which have not been made available yet,
 such as cross-lingual annotations and information on the span of the annotations.
 
-** Number of annotations per corpus**: 
+**Number of annotations per corpus**: 
 
 Domain  Language    # term annotations  # term + Named Entity annotations   # Specific Terms    # Common Terms  # OOD Terms # Named Entities:
-* corp	en	927	    1174    278 642 6   248
+* corp	en	927	    1173    278 642 6   247
 * equi	en	1155	1575    777 309 69  420
-* hf	en	2361	2585    1883    319 157 226
+* htfl	en	2361	2585    1883    319 157 226
 * wind	en	1091	1534    781 296 14  443
-* corp	fr	982	    1217    300 676 5   236
-* equi	fr	963	    1183    703 234 26  220
-* hf	fr	2276	2423    1714    504 58  147
+* corp	fr	979	    1207    298 675 5   229
+* equi	fr	961	    1181    701 234 26  220
+* htfl	fr	2228	2374    1684    487 57  146
 * wind	fr	773	    968 444 308 21  195
 * corp	nl	1047	1295    310 730 6   249
-* equi	nl	1395	1546    1023    331 41  151
-* hf	nl	2077	2257    1561    450 66  180
+* equi	nl	1393	1544    1022    330 41  151
+* htfl	nl	2074	2254    1559    449 66  180
 * wind	nl	940	    1245    577 342 21  305
 
+
+**Normalisation**:
+
+The following normalisation procedures are applied to both the original text files and the annotations:
+* unicodedata.normalize("NFC", text)
+* normalising all dashes to "-", all single quotes to "'" and all double quotes to '"'
 
 
 ## 6. Updates
@@ -220,12 +226,19 @@ Domain  Language    # term annotations  # term + Named Entity annotations   # Sp
 * created Github repository for data + submitted it to CLARIN
 
 
+**Changes version 1.3 > version 1.4**
+
+* applied limited normalisation on both texts and annotations:
+    * unicodedata.normalize("NFC", text)
+    * normalising all dashes to "-", all single quotes to "'" and all double quotes to '"'
+
+
 
 ## 7. Error Reporting
 
 The ACTER dataset is an ongoing project, so we are always looking to improve the data.
 Any questions or issues regarding this dataset may be reported via the Github repository at:
-https://github.com/AylaRT/ACTER.git and will be addressed asap.
+https://github.com/AylaRT/ACTER and will be addressed asap.
 
 
 

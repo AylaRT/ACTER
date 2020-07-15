@@ -863,7 +863,7 @@ effets des conditions aux frontières soient négligeables (voir section 6.1.2).
 Figure 5.2 Topologie du maillage près de la nacelle.
 54
 5.3 Modélisation du rotor
-La modélisation du rotor a été mise en application en utilisant l'option ``fan model'' de
+La modélisation du rotor a été mise en application en utilisant l'option ''fan model" de
 FLUENT, qui détermine l'impact d'un ventilateur avec des caractéristiques connues. Le
 modèle tient compte de l'introduction d'un saut de pression constant ou variable le long de la
 pale.
@@ -899,7 +899,7 @@ Sortie
 La frontière de sortie est située à 3D en aval de la turbine. Ici les propriétés de l'écoulement
 (vitesse et k-B) sont calculées en utilisant la condition de la sortie proposée par Patankar qui
 transforme les équations elliptiques en équations paraboliques [23]. Cette hypothèse est
-implantée dans FLUENT par l'option des conditions aux limites '' Outflow''.
+implantée dans FLUENT par l'option des conditions aux limites " Outflow".
 Axe
 C'est l'axe de symétrie qui, dans ce cas d'étude, coïncide avec l'axe de l'éolienne.
 Nacelle

@@ -242,7 +242,7 @@ i (t ) = I m ⋅ sin( 2π f t - ϕ )
 
 (4.17)
 
-Le transistor supérieur du bras considéré est conducteur périodiquement (à la fréquence de découpage) avec un rapport cyclique D variable, uniquement lorsque le courant i est positif, c'est-à-dire pour 2π·f·t compris entre φ et φ + π. La diode inférieure du même bras est conductrice avec un rapport cyclique 1 - D, uniquement lorsque le courant i est négatif. Par intégration entre les bornes φ et φ + π pour le transistor supérieur, entre les bornes φ + π et φ + 2π pour la diode inférieure, il est possible de déterminer les
+Le transistor supérieur du bras considéré est conducteur périodiquement (à la fréquence de découpage) avec un rapport cyclique D variable, uniquement lorsque le courant i est positif, c'est-à-dire pour 2π·f·t compris entre φ et φ + π. La diode inférieure du même bras est conductrice avec un rapport cyclique 1 - D, uniquement lorsque le courant i est négatif. Par intégration entre les bornes φ et φ + π pour le transistor supérieur, entre les bornes φ + π et φ + 2π pour la diode inférieure, il est possible de déterminer les
 
 Chapitre 4 - Méthode Analytique d'Evaluation de Pertes
 
@@ -532,7 +532,7 @@ Tableau 3.1. Paramètres du système de génération éolien
 Paramètre Rayon de pale de la turbine éolienne Rapport de vitesses λ optimal de la turbine éolienne Résistance, inductance, flux des aimants et nombre de paires de pôles du générateur à aimants permanents Valeur R = 1.8 m
 
 λ* = 6.8
-Rs = 0.9585 Ω, Ls = 5 mH, Ψr = 0.1827 Wb, p=4 M = 30/7 L = 5 mH ; C=6 F L = 6 mH ; C = 33 F Ubatt = 72 V KP = 0.2 ;
+Rs = 0.9585 Ω, Ls = 5 mH, Ψr = 0.1827 Wb, p=4 M = 30/7 L = 5 mH ; C=6 F L = 6 mH ; C = 33 F Ubatt = 72 V KP = 0.2 ;
 
 Rapport de transformation de la boite de vitesses Convertisseur Boost Convertisseur Buck Tension de batterie Commande Proportionnelle et Intégrale
 
@@ -544,7 +544,7 @@ Chapitre 3 - Commande du Système de Conversion Eolien
 
 100 90 80 70 60
 
-Ω [rad/s]
+Ω [rad/s]
 
 50 40 30 20 10 0 0.1 Speed Ref Speed 0.15 0.2 0.25 Time [s] 0.3 0.35 0.4
 
@@ -612,7 +612,7 @@ Un système de conversion avec un redresseur à diode et un convertisseur DC/DC 
 Méthode Analytique d'Evaluation des Pertes dans les Convertisseurs de Puissance
 
 Nomenclature
-rD VD ID iD RMS pD rT VT IT iT RMS pT pR D ton toff IL iL RMS pdc/dc Im M Résistance interne de la diode à l'état conducteur (Ω) Tension de seuil de la diode (V) Courant moyen dans la diode (A) Courant efficace dans la diode (A) Pertes par conduction dans la diode (W) Résistance interne du transistor à l'état conducteur (Ω) Tension de seuil du transistor (V) Courant moyen dans le transistor (A) Courant efficace dans le transistor (A) Pertes par conduction dans le transistor (W) Pertes par conduction dans le redresseur (W) Rapport cyclique du convertisseur DC/DC (hacheur) (-) Durée de la conduction du transistor (s) Durée du blocage du transistor (s) Courant moyen en sortie du hacheur (A) Courant efficace en sortie du hacheur (A) Pertes par conduction dans le hacheur (W) Courant maximal en régime permanent en sortie du convertisseur (A) Profondeur de modulation imposée à l'onduleur (-) Déphasage introduit par la charge de l'onduleur (rad) Pertes par conduction dans l'onduleur (W) Pertes par commutation dans le hacheur (W)
+rD VD ID iD RMS pD rT VT IT iT RMS pT pR D ton toff IL iL RMS pdc/dc Im M Résistance interne de la diode à l'état conducteur (Ω) Tension de seuil de la diode (V) Courant moyen dans la diode (A) Courant efficace dans la diode (A) Pertes par conduction dans la diode (W) Résistance interne du transistor à l'état conducteur (Ω) Tension de seuil du transistor (V) Courant moyen dans le transistor (A) Courant efficace dans le transistor (A) Pertes par conduction dans le transistor (W) Pertes par conduction dans le redresseur (W) Rapport cyclique du convertisseur DC/DC (hacheur) (-) Durée de la conduction du transistor (s) Durée du blocage du transistor (s) Courant moyen en sortie du hacheur (A) Courant efficace en sortie du hacheur (A) Pertes par conduction dans le hacheur (W) Courant maximal en régime permanent en sortie du convertisseur (A) Profondeur de modulation imposée à l'onduleur (-) Déphasage introduit par la charge de l'onduleur (rad) Pertes par conduction dans l'onduleur (W) Pertes par commutation dans le hacheur (W)
 
 ϕ
 pdc/ac psw
@@ -744,7 +744,7 @@ Contribution à l'Optimisation d'un Système de  ...
 Le redresseur est composé de six diodes connectées en pont triphasé. Le calcul des pertes et du rendement est détaillé dans ce qui suit pour deux cas de diodes de puissance (Standard Recovery (rectifier) Diode) : la diode 6F(R) et la diode 10ETS08 du fabricant INTERNATIONAL RECTIFIER (IR). Les paramètres les plus importants sont résumés dans le tableau 4.1.
 
 Tableau 4.1. Principaux paramètres des diodes du redresseur
-Paramètre Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (IFSM) Tension de blocage maximale (VRRM) Diode Standard 6F(R) 10ETS08 20 mΩ 15.7 mΩ 0.86 V 0.82 V 6A 10 A 800 V 800 V
+Paramètre Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (IFSM) Tension de blocage maximale (VRRM) Diode Standard 6F(R) 10ETS08 20 mΩ 15.7 mΩ 0.86 V 0.82 V 6A 10 A 800 V 800 V
 
 Pour ce cas étudié ici, l'équation utilisée est la (4.5), pour estimer uniquement les pertes par conduction dans le redresseur, car sur la plage des fréquences de fonctionnement et de puissances utilisées, les autres pertes restent négligeables par rapport à celles-ci. La tension de sortie est fixée à 50 V ; le courant du redresseur prend des valeurs sur toute sa plage de variation. Le courant alternatif maximal est de 13 A car pour ce niveau de courant nominal, le courant direct maximal est atteint dans les diodes. Les figures 4.6 et 4.7 montrent les résultats de simulation, pour chaque cas.
 
@@ -820,7 +820,7 @@ Contribution à l'Optimisation d'un Système de  ...
 
 En gardant la même hypothèse sur la nature des pertes, il est possible de connaître le rendement des convertisseurs pour différents composants et de les comparer, comme il est proposé dans la figure 4.8.
 
-Pour le cas des diodes 10ETS08 on voit que le rendement du convertisseur est plus élevé que celui utilisant les diodes 6F(R) car les premières sont conçues pour des courants plus forts (10 A contre 6 A). Néanmoins, au fur et à mesure que la charge augmente, la différence entre les deux rendements est moins importante. Ceci est lié à l'augmentation de la composante des pertes quadratiques des diodes qui permet aux diodes 6F(R) (rD = 15.7 mΩ et VD = 0.86 V) de présenter des pertes totales semblables à celles des diodes 10ETS08 (rD = 20 mΩ et VD = 0.82 V).
+Pour le cas des diodes 10ETS08 on voit que le rendement du convertisseur est plus élevé que celui utilisant les diodes 6F(R) car les premières sont conçues pour des courants plus forts (10 A contre 6 A). Néanmoins, au fur et à mesure que la charge augmente, la différence entre les deux rendements est moins importante. Ceci est lié à l'augmentation de la composante des pertes quadratiques des diodes qui permet aux diodes 6F(R) (rD = 15.7 mΩ et VD = 0.86 V) de présenter des pertes totales semblables à celles des diodes 10ETS08 (rD = 20 mΩ et VD = 0.82 V).
 
 40 Power Losses [W] 30 20 10 0
 
@@ -857,7 +857,7 @@ La puissance, tension et courant transférés (600 W, 50 V, 12 A) par les conver
 La première analyse réalisée fut la vérification des équations de pertes par conduction d'une paire transistor-diode utilisée dans un circuit de puissance. Cette simple analyse fut réalisée pour la paire constituée du transistor MOSFET IRL3615 avec la diode Schottky 12CWQ10FN, en fonction du rapport cyclique, pour un courant de sortie constant. La figure 4.9 montre les pertes de conduction du transistor, de la diode et pour l'ensemble des deux.
 
 Tableau 4.2. Principaux paramètres du transistor et de la diode du hacheur
-Paramètre Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (IFSM) Tension de blocage maximale (VRRM) MOSFET IRLI3615 85 mΩ 0V 14 A 150 V Diode Schottky 12CWQ10FN 20.7 mΩ 0.65 V 12 A 100 V
+Paramètre Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (IFSM) Tension de blocage maximale (VRRM) MOSFET IRLI3615 85 mΩ 0V 14 A 150 V Diode Schottky 12CWQ10FN 20.7 mΩ 0.65 V 12 A 100 V
 
 130
 
@@ -1355,9 +1355,9 @@ En raison des pertes plus élevées du convertisseur Buck-Boost, le rendement es
 Pour appliquer les équations (4.18) - (4.20), nous choisissons un onduleur triphasé pont complet source de tension. Les semi-conducteurs utilisés sont le CoolMOS Power Transistor SPP11N80C3 avec diode en antiparallèle interne (800V, 11 A). L'objectif est alors d'obtenir une puissance de 5 kW, sous une tension AC fixe de 220 V, 50 Hz. La charge est supposée linéaire et avec une composante inductive (cosϕ de 0.75). La fréquence de découpage utilisée pour les commutations est de 15 kHz. Les résultats sont résumés ci-après, ils ont été obtenus en fonction de la puissance demandée au convertisseur. Dans le tableau 4.3 se trouvent les paramètres utilisés pour utiliser les équations des pertes dans les semi-conducteurs de l'onduleur.
 
 Tableau 4.3. Principaux paramètres de l'interrupteur MOSFET-diode de l'onduleur
-Paramètre Conditions de conduction Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (ID) Tension de blocage maximale (VDS) Conditions de commutation Temps d'Amorçage du transistor (trN) Temps d'Extinction du transistor (tfN) Temps de Recouvrement (trrN) Charge de Recouvrement (QrrN) Courant Maximal de Recouvrement (Irrm) MOSFET SPP11N80C3 0.45 Ω 0V 11 A 800 V 15 ns 7 ns 550 ns 10 C 33 A Diode (interne)
+Paramètre Conditions de conduction Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (ID) Tension de blocage maximale (VDS) Conditions de commutation Temps d'Amorçage du transistor (trN) Temps d'Extinction du transistor (tfN) Temps de Recouvrement (trrN) Charge de Recouvrement (QrrN) Courant Maximal de Recouvrement (Irrm) MOSFET SPP11N80C3 0.45 Ω 0V 11 A 800 V 15 ns 7 ns 550 ns 10 C 33 A Diode (interne)
 
-40 mΩ 0.8 V 11 A 800 V
+40 mΩ 0.8 V 11 A 800 V
 
 Chapitre 4 - Méthode Analytique d'Evaluation de Pertes
 
@@ -1732,9 +1732,9 @@ Chapitre 4 - Méthode Analytique d'Evaluation de Pertes
 139
 
 Tableau 4.4. Principaux paramètres de l'interrupteur IGBT-diode de l'onduleur
-Paramètre Conditions de conduction Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (IC, IF) Tension de blocage maximale (VCE) Conditions de commutation Temps d'Amorçage du transistor (trN) Temps d'Extinction du transistor (tfN) Temps de Recouvrement (trrN) Charge de Recouvrement (QrrN) Courant Maximal de Recouvrement (Irrm) IGBT SKW15N120 75 mΩ 2.0 V 15 A 1200 V 30 ns 31 ns 200 ns 2 C 23 A Diode (interne)
+Paramètre Conditions de conduction Resistance en conduction (rD) Tension seuil (VD) Courant moyen maximal (IC, IF) Tension de blocage maximale (VCE) Conditions de commutation Temps d'Amorçage du transistor (trN) Temps d'Extinction du transistor (tfN) Temps de Recouvrement (trrN) Charge de Recouvrement (QrrN) Courant Maximal de Recouvrement (Irrm) IGBT SKW15N120 75 mΩ 2.0 V 15 A 1200 V 30 ns 31 ns 200 ns 2 C 23 A Diode (interne)
 
-40 mΩ 0.8 V 11 A 800 V
+40 mΩ 0.8 V 11 A 800 V
 
 150 Conduction Losses [W] IGBT 100 Internal Diode IGBT Inverter MOS Inverter 50
 
@@ -1934,15 +1934,15 @@ Chapitre 4 - Méthode Analytique d'Evaluation de Pertes
 145
 
 Tableau 4.6. Résumé des Paramètres du des Convertisseurs du Système de Génération Hybride Renouvelable
-Convertisseur Diodes des Redresseurs Tension nominale Courant nominal Tension seuil Résistance de conduction MOSFET des Convertisseurs MLI (Hacheur et Onduleur) Tension nominale Courant moyen Tension seuil Résistance de conduction trN,, tfN trrN, QrrN Diode de Recouvrement Rapide des Convertisseurs MLI Tension nominale Courant moyen Tension seuil Résistance de conduction Transformateurs Puissance nominale Résistance équivalente Valeurs
+Convertisseur Diodes des Redresseurs Tension nominale Courant nominal Tension seuil Résistance de conduction MOSFET des Convertisseurs MLI (Hacheur et Onduleur) Tension nominale Courant moyen Tension seuil Résistance de conduction trN" tfN trrN, QrrN Diode de Recouvrement Rapide des Convertisseurs MLI Tension nominale Courant moyen Tension seuil Résistance de conduction Transformateurs Puissance nominale Résistance équivalente Valeurs
 
-800 V 10 A 1.1 V 20 mΩ
+800 V 10 A 1.1 V 20 mΩ
 
-150 V 60 A 0V 0.04 Ω 40 ns, 40 ns 150 ns, 2.0 C
+150 V 60 A 0V 0.04 Ω 40 ns, 40 ns 150 ns, 2.0 C
 
-200 V 20 A 1.3 V 12.5 mΩ
+200 V 20 A 1.3 V 12.5 mΩ
 
-6000 W 0.05 Ω
+6000 W 0.05 Ω
 
 Les rendements inférieurs retrouvés avec la méthodologie développée font que le manque d'énergie journalière est de 34.5 kWh. Ceci implique une valeur pour l'ENS plus élevée de 40% que dans le cas à rendement constant.
 
@@ -2233,7 +2233,7 @@ l'Industrie
 
 Ce secteur - qui consomme 25% de l'énergie dans le monde - présente le bilan le plus équilibré. Le charbon est, néanmoins, une nouvelle fois en tête. Cette ressource est très largement utilisée dans les régions industrielles des pays émergents, en particulier en Chine et en Inde. Le pétrole intéresse l'industrie pour produire une partie de l'énergie nécessaire mais aussi en tant que matière première des plastiques et autres produits dérivés : environ 15% du pétrole consommé par l'industrie sert de matière première.
 
-Figure 3.13. (a) Courbe caractéristique de la turbine éolienne, (b) Puissance délivrée par l'éolienne en fonction de la vitesse de rotation du générateur et courbe de puissance maximale (ligne en tirets) Le coefficient de puissance est maximal pour une certaine valeur de λ. Pour chaque vitesse du vent v, il y a donc une vitesse de rotation Ω de la machine qui maximise l'utilisation de la turbine éolienne au point optimal du coefficient de puissance. L'ensemble de ces points (la ligne en tirets sur la figure 3.13b) correspond à la relation (3.2) mentionnée précédemment.
+Figure 3.13. (a) Courbe caractéristique de la turbine éolienne, (b) Puissance délivrée par l'éolienne en fonction de la vitesse de rotation du générateur et courbe de puissance maximale (ligne en tirets) Le coefficient de puissance est maximal pour une certaine valeur de λ. Pour chaque vitesse du vent v, il y a donc une vitesse de rotation Ω de la machine qui maximise l'utilisation de la turbine éolienne au point optimal du coefficient de puissance. L'ensemble de ces points (la ligne en tirets sur la figure 3.13b) correspond à la relation (3.2) mentionnée précédemment.
 
 Le réglage de la tension aux bornes du générateur sera le seul moyen pour commander la vitesse de rotation de système car le générateur PMSG n'a pas d'excitation variable. La commande de la tension aux bornes du générateur est fait avec le convertisseur DC/DC, qui ajuste sa tension d'entrée (la tension de sortie du redresseur) pour une tension de sortie fixée par les batteries. Il agit indirectement comme une commande à vitesse variable pour le générateur.
 
@@ -2244,17 +2244,17 @@ Chapitre 3 - Commande du Système de Conversion Eolien
 101
 
 n'utilise pas de mesure de la vitesse du vent, mais des oscillations peuvent avoir lieu autour du point de fonctionnement et peuvent limiter la détection des changements (Knight et Peters, 2005). D'autres approches proposent une commande basée sur un rapport prédéterminé entre la fréquence électrique du générateur et la puissance délivrée par la machine (3.4) (DeBroe et. al., 1999) ou entre la fréquence et la tension DC (Knight et Peters, 2005). De cette manière, la mesure de la vitesse du vent n'est pas nécessaire non plus pour l'asservissement ; cependant, la fréquence électrique ou la vitesse de rotation, la puissance dans un cas ou la tension DC dans l'autre cas doivent être mesurées. Pour le cas avec mesure de la tension, des modèles de la machine et du convertisseur doivent être inclus dans le système de commande. En général, les commandes ont besoin de la mesure de la vitesse de rotation ou de la fréquence électrique pour la commande en boucle fermée.
-R ⋅ Ω* λ* ⇒ Ω* = v v R
+R ⋅ Ω* λ* ⇒ Ω* = v v R
 
 λ* =
 
 (3.3)
 
-Une fois connue la mesure de la puissance délivrée P, la référence de vitesse Ω*, peut s'obtenir simplement de la relation (3.2) :
+Une fois connue la mesure de la puissance délivrée P, la référence de vitesse Ω*, peut s'obtenir simplement de la relation (3.2) :
 
-P (Ω ) =
+P (Ω ) =
 
-1  R P ρ ⋅ A ⋅ C pM ⋅  *  Ω 3 = k ⋅ Ω 3 ⇒ Ω * =   2 k λ 
+1  R P ρ ⋅ A ⋅ C pM ⋅  *  Ω 3 = k ⋅ Ω 3 ⇒ Ω * =   2 k λ 
 
 3
 
@@ -2283,9 +2283,9 @@ v
 λ*
 R
 
-Ω REF
+Ω REF
 
-PI Controller Ω
+PI Controller Ω
 
 VDC REF
 
@@ -2296,7 +2296,7 @@ Figure 3.14. Schéma bloc du système de commande de vitesse proposé.
 Un bloc d'aide à la commande (FF Speed Control) est ajouté à la commande linéaire à régulateur PI pour améliorer la commande. Celle-ci prend en compte le modèle pour calculer la tension aux bornes de la machine correspondant approximativement à la vitesse de rotation désirée pour le système (3.5).
 * ˆ* U DC = G ⋅ u s
 
-  * e = ω ⋅ Ψr = p ⋅ Ω G ⋅ Ψr  ⇒ U DC ≈ G R ⋅ p ⋅ Ω * ⋅ Ψr G  * ˆ s ≈ e, u 
+  * e = ω ⋅ Ψr = p ⋅ Ω G ⋅ Ψr  ⇒ U DC ≈ G R ⋅ p ⋅ Ω * ⋅ Ψr G  * ˆ s ≈ e, u 
 
 (3.5)
 
@@ -2399,7 +2399,7 @@ La vitesse du vent est variable afin de passer d'un vent faible (3 m/s) à des v
 
 100
 
-Ω [rad/s]
+Ω [rad/s]
 
 80
 
@@ -2775,7 +2775,7 @@ Contribution à l'Optimisation d'un Système de  ...
 
 λ
 
-Ω [rpm]
+Ω [rpm]
 
 (a)
 
@@ -2785,24 +2785,24 @@ Cette dernière équation (2.29) nous permet d'évaluer simplement la surface so
 
 Les restrictions physiques du système et les contraintes mathématiques de l'équation de la machine permettent de définir les limites d'intégration. La limite supérieure est obtenue soit par la valeur nominale de la vitesse de rotation de l'éolienne, soit par la valeur de la vitesse où la puissance électrique de la machine est supérieure à la puissance mécanique idéale ou à la puissance nominale (2.30). La limite inférieure est obtenue soit de la valeur minimale de fonctionnement du système, soit de la condition de positivité pour l'équation de la puissance, soit de la condition de puissance non imaginaire (2.31) :
 
-Ωmax = min{Ω < ΩN ; Pm(M, u, Ω) < Pi ; Pm(M, u, Ω) < PN }
-ˆ (RS Ψ )2 + L2S ⋅ [ ( p M Ψ Ω)2 - u S2 ] - RS u s > 0 ;
+Ωmax = min{Ω < ΩN ; Pm(M, u, Ω) < Pi ; Pm(M, u, Ω) < PN }
+ˆ (RS Ψ )2 + L2S ⋅ [ ( p M Ψ Ω)2 - u S2 ] - RS u s > 0 ;
 
 (2.30)
 
-Ωmin = max{Ω > Ωmin, sys ; p M Ω ⋅
+Ωmin = max{Ω > Ωmin, sys ; p M Ω ⋅
 
-(RS Ψ )2 + L2S ⋅ [ ( p M Ψ Ω)2 - u S2 ] > 0 }
+(RS Ψ )2 + L2S ⋅ [ ( p M Ψ Ω)2 - u S2 ] > 0 }
 
 (2.31)
 
 Les limites pour la tension du système et du rapport de transformation sont les mêmes que pour le problème précédent :
 
- Ω Gen , N  M ∈ 1,   ΩN 
+ Ω Gen , N  M ∈ 1,   ΩN 
 
 u S ∈ [0, u N ]
 
-Une dernière contrainte utilisée est de limiter la puissance de la machine à Pi pour éviter un surdimensionnement de la machine. Ceci a été fait pour toute la plage de vitesses de fonctionnement du système (2.32). Pm(M, us, Ω) ≤ Pi(Ω) ∀Ω∈[Ωmin, ΩN]
+Une dernière contrainte utilisée est de limiter la puissance de la machine à Pi pour éviter un surdimensionnement de la machine. Ceci a été fait pour toute la plage de vitesses de fonctionnement du système (2.32). Pm(M, us, Ω) ≤ Pi(Ω) ∀Ω∈[Ωmin, ΩN]
 
 (2.32)
 
@@ -3003,7 +3003,7 @@ P=
 
 (3.1)
 
-Dans l'équation (3.1), ρ est la densité de l'air, A est la surface de balayage des pales, CP est le coefficient de puissance et v est la vitesse du vent. Pour réaliser une commande de la puissance de l'éolienne, le coefficient de puissance CP est utile car, à part v, c'est le seul paramètre variable et, à la différence de v, il est réglable. Sa valeur dépend de la vitesse du vent et de la vitesse de rotation du rotor. Le CP a un comportement non linéaire par rapport au coefficient de vitesses (tip-speed ratio) (λ = ΩR/v) et il est caractéristique de chaque type de turbine éolienne. L'évolution de CP en fonction de λ pour plusieurs éoliennes est montrée sur la figure 3.2.
+Dans l'équation (3.1), ρ est la densité de l'air, A est la surface de balayage des pales, CP est le coefficient de puissance et v est la vitesse du vent. Pour réaliser une commande de la puissance de l'éolienne, le coefficient de puissance CP est utile car, à part v, c'est le seul paramètre variable et, à la différence de v, il est réglable. Sa valeur dépend de la vitesse du vent et de la vitesse de rotation du rotor. Le CP a un comportement non linéaire par rapport au coefficient de vitesses (tip-speed ratio) (λ = ΩR/v) et il est caractéristique de chaque type de turbine éolienne. L'évolution de CP en fonction de λ pour plusieurs éoliennes est montrée sur la figure 3.2.
 
 Sur cette figure on peut remarquer que, en général, la turbine à axe horizontal (HAWT) a un coefficient de puissance plus élevé. Celles à rotor vertical et celles de plus de trois pales (multi-pales) présentent des valeurs plus faibles de CP : CPmax ≈ 0.15 pour la Savonius, CPmax ≈ 0.4 pour la Darrieus (valeur la plus haute des machines à axe vertical), CPmax ≈ 0.3 pour l'éolienne américaine et CPmax ≈ 0.25 pour la forme hollandaise bien connue. La plus performante des éoliennes de la figure est la turbine tripale (CPmax ≈ 0.5).
 
@@ -3050,12 +3050,12 @@ Annexe C. Le Coefficient de Puissance
 
 Le coefficient de puissance Cp est caractéristique de chaque type d'éolienne et il n'est pas constant pour toutes les valeurs de la vitesse du vent ; spécialement si le système de conversion n'a pas de commande pour suivre le Cp maximal, comme est le cas pour la plupart des petites éoliennes.
 
-L'étude aérodynamique des turbines éoliennes détermine que le Cp est dépendant du rapport de vitesses ou « tip speed ratio » λ. Cette variable est définie par le rapport entre la vitesse linéaire à la pointe de la pale Ω R et la vitesse du vent v :
-ΩR v
+L'étude aérodynamique des turbines éoliennes détermine que le Cp est dépendant du rapport de vitesses ou « tip speed ratio » λ. Cette variable est définie par le rapport entre la vitesse linéaire à la pointe de la pale Ω R et la vitesse du vent v :
+ΩR v
 
 λ=
 
-Ω est la vitesse de rotation, R est le rayon de pale de la turbine et v la vitesse du vent.
+Ω est la vitesse de rotation, R est le rayon de pale de la turbine et v la vitesse du vent.
 
 Approximation par polynôme
 
@@ -3268,7 +3268,7 @@ La plupart de ces méthodes utilisent plusieurs étapes, la première pour défi
 
 Plusieurs systèmes évitent de faire la mesure de la vitesse du vent pour se dispenser des anémomètres coûteux. En conséquence, ils utilisent la relation optimale (3.2) entre la vitesse de rotation du système et la puissance à produire, de façon à faire la comparaison et corriger la différence.
 
-1  R Pi (Ω) = Pt = ρ ⋅ A ⋅ C pM ⋅  *  Ω 3 2 λ 
+1  R Pi (Ω) = Pt = ρ ⋅ A ⋅ C pM ⋅  *  Ω 3 2 λ 
 *
 
 3
@@ -3326,10 +3326,10 @@ Dans ce chapitre, un bilan des principales formes d'énergies disponibles dans l
 Optimisation d'un Système de Conversion Eolien
 
 Nomenclature
-Pt A R Cp Puissance mécanique de la turbine éolienne (W) Surface de balayage des pales de l'éolienne (m²) Radius des pales de la turbine éolienne (m) Coefficient de puissance de l'éolienne (-) Rapport de vitesses (Tip-Speed Ratio TSR) (-) Vitesse de rotation de l'éolienne (tr/mn) Vitesse du vent [m/s] Rapport de transmission de la boite de vitesses (-) Puissance électrique du générateur (W) Force électromotrice du générateur (V) Tension aux bornes du générateur (V) Courant alternatif de stator du générateur (A) Vitesse de rotation du générateur (tr/mn) Pulsation (fréquence) électrique du générateur (rad/s) Flux induit pars les aimants du générateur (Wb) Nombre de paires de pôles du générateur (-) Impédance du générateur (Ω) Résistance du bobinage de stator du générateur (Ω) Inductance de fuite du bobinage de stator du générateur (H) Coefficient de Gain de la fonction du Cp (-)
+Pt A R Cp Puissance mécanique de la turbine éolienne (W) Surface de balayage des pales de l'éolienne (m²) Radius des pales de la turbine éolienne (m) Coefficient de puissance de l'éolienne (-) Rapport de vitesses (Tip-Speed Ratio TSR) (-) Vitesse de rotation de l'éolienne (tr/mn) Vitesse du vent [m/s] Rapport de transmission de la boite de vitesses (-) Puissance électrique du générateur (W) Force électromotrice du générateur (V) Tension aux bornes du générateur (V) Courant alternatif de stator du générateur (A) Vitesse de rotation du générateur (tr/mn) Pulsation (fréquence) électrique du générateur (rad/s) Flux induit pars les aimants du générateur (Wb) Nombre de paires de pôles du générateur (-) Impédance du générateur (Ω) Résistance du bobinage de stator du générateur (Ω) Inductance de fuite du bobinage de stator du générateur (H) Coefficient de Gain de la fonction du Cp (-)
 
 λ
-Ω v M Pm e us is ΩG
+Ω v M Pm e us is ΩG
 
 ω ψr
 p Zs Rs Ls G
@@ -3400,7 +3400,7 @@ Pt =
 
 ρ est la densité de l'air (Kg/m3), A est la surface balayée par de rotor de l'éolienne (m²),
 v est la vitesse du vent et Cp est le coefficient de puissance de la turbine. Ce dernier dépend du rapport de vitesses λ (ou TSR, tip speed ratio) (Mathew, 2006 ; Hau, 2006), et il est caractérisé par les propriétés de la turbine éolienne (axe horizontal ou vertical, nombre et forme des pales, etc.)
-ΩR v
+ΩR v
 
 TSR = λ =
 
@@ -3418,12 +3418,12 @@ G ⋅ λ (λ0 - λ ) a 2 + (λ0 - λ ) 2
 
 (2.3)
 
-Pour adapter la vitesse de rotation relativement lente de la turbine éolienne à celle du générateur, une boite d'engrenage (boite de vitesses) peut s'utiliser. Pour des raisons de simplicité, l'équation (2.4) est utilisée comme modèle de ce système de transmission mécanique dans laquelle M représente le rapport de transformation (ou transmission) de la boite, Ω est la vitesse de rotation de l'arbre lent de la turbine éolienne et ΩG celle de la machine électrique (arbre rapide).
-ΩG = M ⋅ Ω
+Pour adapter la vitesse de rotation relativement lente de la turbine éolienne à celle du générateur, une boite d'engrenage (boite de vitesses) peut s'utiliser. Pour des raisons de simplicité, l'équation (2.4) est utilisée comme modèle de ce système de transmission mécanique dans laquelle M représente le rapport de transformation (ou transmission) de la boite, Ω est la vitesse de rotation de l'arbre lent de la turbine éolienne et ΩG celle de la machine électrique (arbre rapide).
+ΩG = M ⋅ Ω
 
 (2.4)
 
-La vitesse de rotation de l'arbre du générateur et la vitesse du champ électromagnétique ω (fréquence ou pulsation électrique) sont liées par une relation faisant intervenir le nombre de paires de pôles de la machine p (ω = p·ΩG). La puissance mécanique de l'éolienne peut alors s'exprimer en fonction du rapport de transmission M, de la pulsation électrique ω et de la vitesse du vent v :
+La vitesse de rotation de l'arbre du générateur et la vitesse du champ électromagnétique ω (fréquence ou pulsation électrique) sont liées par une relation faisant intervenir le nombre de paires de pôles de la machine p (ω = p·ΩG). La puissance mécanique de l'éolienne peut alors s'exprimer en fonction du rapport de transmission M, de la pulsation électrique ω et de la vitesse du vent v :
 
 Pt =
 
@@ -3436,7 +3436,7 @@ Pt =
 
 (2.5)
 
-Si on souhaite faire intervenir la vitesse de rotation de la turbine Ω, (2.5) permet aussi d'écrire la relation suivante :
+Si on souhaite faire intervenir la vitesse de rotation de la turbine Ω, (2.5) permet aussi d'écrire la relation suivante :
 
 Pt =
 
@@ -3445,9 +3445,9 @@ Pt =
 
 ⋅
 
-(a v )2 + (λ0 v - R Ω) 2
+(a v )2 + (λ0 v - R Ω) 2
 
-Ω (λ 0 v - R Ω )
+Ω (λ 0 v - R Ω )
 
 ⋅ v3
 
@@ -3508,14 +3508,14 @@ e 2
 
 2 ψ r ⋅ω 2
 
-ω = p ΩG,
+ω = p ΩG,
 E=
 
-ΩG = M Ω,
+ΩG = M Ω,
 
 ⇒
 
-2 ⋅ p ⋅ M ⋅ψ r ⋅ Ω 2
+2 ⋅ p ⋅ M ⋅ψ r ⋅ Ω 2
 
 (2.7)
 
@@ -3532,12 +3532,12 @@ Chapitre 2 - Optimisation d'un Système de Conversion Eolien
 55
 
 ω
-p ΩG Ω M
+p ΩG Ω M
 
 : vitesse de rotation du champ magnétique (pulsation électrique ;
 
 ω = 2π f)
-: nombre de paires de pôles de la machine : vitesse de rotation de l'arbre du générateur (ω = p ΩG) : vitesse de rotation de l'arbre de la turbine (ΩG = M Ω) : rapport de la boite de vitesses (multiplicatrice ou élévatrice)
+: nombre de paires de pôles de la machine : vitesse de rotation de l'arbre du générateur (ω = p ΩG) : vitesse de rotation de l'arbre de la turbine (ΩG = M Ω) : rapport de la boite de vitesses (multiplicatrice ou élévatrice)
 
 ea
 
@@ -3777,7 +3777,7 @@ En plus des applications en chauffage et pompage déjà en utilisation, l'explor
 
 Cette expression n'est valable qu'à partir du moment où les valeurs de la force électromotrice e deviennent supérieures à la tension du réseau alternatif us. La valeur de la puissance délivrée par la machine peut alors s'exprimer en fonction des valeurs efficaces ou des valeurs maximales :
 
-ΩG = M ⋅ Ω Pm = 3 ⋅ U S ⋅ I S =
+ΩG = M ⋅ Ω Pm = 3 ⋅ U S ⋅ I S =
 
 3 u S ⋅ iS 2
 
@@ -3824,11 +3824,11 @@ u 3 2 2 2 2 ⋅ 2 S 2 2 ⋅  ω RS ⋅ψ r + L2 ⋅ ψ r ω 2 - u S - RS ⋅ 
 
 Cette expression peut s'écrire aussi de la manière suivante, en fonction de la vitesse de rotation de l'éolienne au lieu de celle du générateur en tenant compte du nombre de paires de pôles de la machine et du multiplicateur de vitesse du système (2.18) :
 
-uS 3 ⋅ pM Ω⋅ P = ⋅ 2 m 2 R + ( p L M Ω )2 S S
+uS 3 ⋅ pM Ω⋅ P = ⋅ 2 m 2 R + ( p L M Ω )2 S S
 
 {
 
-(RS ψ r )2 + L2S ⋅ [ ( p M ψ r Ω)2 - u S2 ]
+(RS ψ r )2 + L2S ⋅ [ ( p M ψ r Ω)2 - u S2 ]
 
 - RS u S
 
@@ -3843,7 +3843,7 @@ Paramètres du Système
 Les caractéristiques mécaniques de la turbine éolienne, les paramètres de la fonction d'approximation du coefficient de puissance et les valeurs nominales et les paramètres caractéristiques du générateur à aimants permanents sont résumés dans les tableaux 2.1, 2.2 et 2.3 respectivement :
 
 Tableau 2.1. Paramètres de la turbine éolienne
-Paramètre Rayon (R) Surface de balayage (A) Coefficient de puissance maximal (CpMax) TSR optimal (λ∗) Vitesse du vent nominale (vN) Vitesse de rotation nominale (ΩN)
+Paramètre Rayon (R) Surface de balayage (A) Coefficient de puissance maximal (CpMax) TSR optimal (λ∗) Vitesse du vent nominale (vN) Vitesse de rotation nominale (ΩN)
 Valeur 1.8 m 10.18 m² 0.42 6.8 12 m/s 700 tr/mn
 
 Tableau 2.2. Coefficients de la fonction d'approximation du Cp
@@ -3855,8 +3855,8 @@ Valeur 0.19 1.56 8.08
 Contribution à l'Optimisation d'un Système de  ...
 
 Tableau 2.3. Générateur à aimants permanents
-Paramètre Couple nominal (TN) Vitesse de rotation nominale (ΩN) Puissance nominale(PN) Tension nominale (vN) Résistance du bobinage de stator (RS) Inductance de bobinage de stator (LS) Flux induit par les aimants (Ψr) Nombre de pairs de poles (p)
-Valeur 8 Nm 2000 tr/mn (210 rad/s) 1680 W (2.25 HP) 110 V(AC) 0.9585 Ω 5.25 mH 0.1827 Wb 4
+Paramètre Couple nominal (TN) Vitesse de rotation nominale (ΩN) Puissance nominale(PN) Tension nominale (vN) Résistance du bobinage de stator (RS) Inductance de bobinage de stator (LS) Flux induit par les aimants (Ψr) Nombre de pairs de poles (p)
+Valeur 8 Nm 2000 tr/mn (210 rad/s) 1680 W (2.25 HP) 110 V(AC) 0.9585 Ω 5.25 mH 0.1827 Wb 4
 
 6000 v= v= v= v= v= v= v= 1 m/s 3 m/s 5 m/s 7 m/s 9 m/s 11 m/s 13 m/s
 
@@ -3890,7 +3890,7 @@ P [W]
 
 700
 
-Ω [rpm]
+Ω [rpm]
 
 Figure 2.5. Puissance de sortie de la turbine éolienne en fonction de sa vitesse de rotation ; paramètre vitesse du vent v = 1 m/s jusqu'à 13 m/s, avec un pas de 2 m/s.
 
@@ -3916,7 +3916,7 @@ P [W] 500 0
 
 1500
 
-Ω [rpm]
+Ω [rpm]
 
 Figure 2.6. Puissance de sortie de la machine en fonction de sa vitesse de rotation ; paramètre ûs = 12 V jusqu'à 60 V, avec un pas de 12 V (M = 2). On peut observer sur la figure 2.6 qu'avec des tensions de batterie faibles, la machine peut commencer à fournir de la puissance à une vitesse de rotation basse. Cependant, avec une tension de batterie réduite, la valeur maximale de puissance produite par le système est aussi plus faible.
 
@@ -3954,7 +3954,7 @@ P [W] 500 0
 
 2000
 
-Ω [rpm]
+Ω [rpm]
 
 Figure 2.7. Puissance de sortie de la machine en fonction de sa vitesse de rotation ; paramètre M = 1.75 jusqu'à 2.75, avec un pas de 0.25 V (ûs = 36 V). On peut voir à partir de la figure 2.7 que l'effet plus important relié à M est qu'avec un rapport plus élevé, la machine commence à fournir de la puissance à une vitesse de rotation inférieure. Ceci est intéressant pour profiter d'une vitesse de vent de démarrage plus faible, pour élargir la plage de vitesses de vents du système. Cependant, en même temps, la vitesse à laquelle le système décroche à cause de la surcharge (P > Pnom) est aussi plus faible, ce qui diminue la plage de vitesses du côté des valeurs supérieures. En conséquence, il est important de bien choisir la valeur de M de façon à maximiser la plage de vitesses du système : il doit être assez élevé pour faire démarrer le système à des vitesses faibles, mais assez réduit pour permettre au générateur d'atteindre les vitesses supérieures.
 
@@ -3985,13 +3985,13 @@ Pour respecter les conditions de fonctionnement nominales et les propriétés ph
 Contribution à l'Optimisation d'un Système de  ...
 
 2.3.1 Contraintes
-Les boites d'engrenages parallèles à un étage ont des rapports de transformation maximaux de 1:5 (Hau, 2006) ou 1:6 (Mathew, 2006). Les boites épicycloïdales de taille équivalente ont des rapports allant jusqu'à 1:12, mais elles sont plus coûteuses. Pour les structures de génération éolienne de petites tailles, la solution parallèle est couramment préférée et les rapports de transmission élevés sont obtenus en associant plusieurs étages. Ce rapport doit respecter une contrainte imposée par les valeurs nominales des vitesses de rotation de la turbine et du générateur ΩGen,N et ΩN.
+Les boites d'engrenages parallèles à un étage ont des rapports de transformation maximaux de 1:5 (Hau, 2006) ou 1:6 (Mathew, 2006). Les boites épicycloïdales de taille équivalente ont des rapports allant jusqu'à 1:12, mais elles sont plus coûteuses. Pour les structures de génération éolienne de petites tailles, la solution parallèle est couramment préférée et les rapports de transmission élevés sont obtenus en associant plusieurs étages. Ce rapport doit respecter une contrainte imposée par les valeurs nominales des vitesses de rotation de la turbine et du générateur ΩGen,N et ΩN.
 
-Un système de faible taille utilise une éolienne qui tourne relativement vite, la vitesse maximale d'un générateur électrique de faible puissance est de 3600 t/m. Le rapport entre la vitesse du générateur et celle de la turbine ΩGen,N /ΩN risque donc d'être plus faible que le rapport maximal envisageable. Cette valeur devient une borne supérieure pour M :
+Un système de faible taille utilise une éolienne qui tourne relativement vite, la vitesse maximale d'un générateur électrique de faible puissance est de 3600 t/m. Le rapport entre la vitesse du générateur et celle de la turbine ΩGen,N /ΩN risque donc d'être plus faible que le rapport maximal envisageable. Cette valeur devient une borne supérieure pour M :
 
 M max =
 
-ΩG,N ΩN
+ΩG,N ΩN
 
 (2.19)
 
@@ -4012,7 +4012,7 @@ uS
 λ0 =
 ⇒ vcut -in =
 
-Ω min R ω min R = vcut -in p ⋅ M ⋅ vcut -in
+Ω min R ω min R = vcut -in p ⋅ M ⋅ vcut -in
 
 ψr
 
@@ -4033,7 +4033,7 @@ max Pt
 us ]
 
 avec les contraintes : Pt (M, ω, v) M uS iS Pm (ûS, ω)
- Ω Gen, N   1,  ΩN 
+ Ω Gen, N   1,  ΩN 
 
 = ∈ ∈ ∈ ∈ ∈
 
@@ -4054,8 +4054,8 @@ Contribution à l'Optimisation d'un Système de  ...
 2.3.2 Résultats de l'Optimisation
 La recherche analytique de la solution du problème ainsi défini pose néanmoins quelques difficultés. 1) La réduction à une seule équation n'est pas possible. L'exploitation de l'équation d'égalité des puissances ne permet pas d'extraire la seule variable indépendante qu'elles ont en commun, la fréquence de fonctionnement (ω). De ce fait, il n'est pas possible d'obtenir une expression de la puissance à maximiser à partir des seuls paramètres d'optimisation.
 
-2) La paramétrisation avec la seule variable indépendante non contrôlable (v) ne mène pas à une solution unique. Pour une valeur de la vitesse de vent donnée, il y a une vitesse de la turbine qui correspond à une production maximale de puissance éolienne, cette vitesse est notée Ω*. Pour chaque valeur du rapport de transformation de vitesse, M, il y correspondra une fréquence de fonctionnement du générateur électrique notée ω* donnée par (2.22).
-Ω * = M ⋅ Ω*  * * * G ⇒ω = p⋅Ω ⋅M ω * = p ⋅ Ω* 
+2) La paramétrisation avec la seule variable indépendante non contrôlable (v) ne mène pas à une solution unique. Pour une valeur de la vitesse de vent donnée, il y a une vitesse de la turbine qui correspond à une production maximale de puissance éolienne, cette vitesse est notée Ω*. Pour chaque valeur du rapport de transformation de vitesse, M, il y correspondra une fréquence de fonctionnement du générateur électrique notée ω* donnée par (2.22).
+Ω * = M ⋅ Ω*  * * * G ⇒ω = p⋅Ω ⋅M ω * = p ⋅ Ω* 
 
 (
 
@@ -4074,7 +4074,7 @@ Chapitre 2 - Optimisation d'un Système de Conversion Eolien
 Pour une recherche méthodique des solutions sur l'espace de variation des paramètres il est possible de figer l'un d'eux et de faire varier régulièrement le second. Soit le rapport de transformation de la boite d'engrenages, soit la tension de batterie peuvent varier régulièrement. Comme les batteries sont modulaires et peuvent être facilement associées pour un fonctionnement électrique en série et/ou en parallèle, c'est la tension de batterie qui est choisie. Avec cette méthode, un ensemble de problèmes d'optimisation monovariable sont résolus, pour chaque valeur de tension ûs et de vitesse de vent v. Avec la fréquence électrique ω et la vitesse du vent v pour variables indépendantes et pour paramètres le rapport de transformation de la boite de vitesses M et la tension de batterie ramenée du coté AC du redresseur ûS, les différentes étapes de la procédure d'optimisation sont les suivantes.
 1) Recherche de la puissance mécanique maximale.
 
-Pour une valeur de vitesse de vent donnée, les valeurs optimales de Pt* et Ω* se trouvent avec une routine de MATHEMATICA©.
+Pour une valeur de vitesse de vent donnée, les valeurs optimales de Pt* et Ω* se trouvent avec une routine de MATHEMATICA©.
 2) Paramétrisation de la tension de batterie.
 
 Pour chacune des valeurs de v sélectionnées en 1), un ensemble de tensions alternatives ûS est aussi choisi.
@@ -4086,7 +4086,7 @@ De l'égalité Pm = Pt*, la valeur correspondante à la fréquence électrique o
 de puissance électrique.
 4) Calcul du rapport de transformation de la boite d'engrenages.
 
-Utilisant les valeurs optimales ω* et Ω*, le rapport de transformation de la boite de vitesse M est calculé avec (22).
+Utilisant les valeurs optimales ω* et Ω*, le rapport de transformation de la boite de vitesse M est calculé avec (22).
 
 Les points 2, 3 et 4 de la procédure sont répétés pour toutes les valeurs de vitesse de vent choisies.
 
@@ -4099,7 +4099,7 @@ Contribution à l'Optimisation d'un Système de  ...
 La figure 2.8 montre les courbes de la puissance maximale et la vitesse de rotation correspondante en fonction de la vitesse de vent choisie.
 
 Tableau 2.4. Optimisation de la puissance mécanique de la turbine éolienne pour les valeurs de vitesse de vent sélectionnées.
-v [m/s] 3 4 5 6 7 8 9 Ω [rad/s] 11,3 15,1 18,9 22,6 26,4 30,2 34,0 Pt [W] 67,0 158,8 310,1 535,8 850,8 1270 1808
+v [m/s] 3 4 5 6 7 8 9 Ω [rad/s] 11,3 15,1 18,9 22,6 26,4 30,2 34,0 Pt [W] 67,0 158,8 310,1 535,8 850,8 1270 1808
 
 2000 1800
 
@@ -4126,7 +4126,7 @@ Chapitre 2 - Optimisation d'un Système de Conversion Eolien
 69
 
 maximal qui se produit pour le rapport de vitesses optimal λ*. De ce fait, la vitesse de rotation varie linéairement avec la vitesse du vent (2.23) :
-ΩR λ* ⇒ Ω* = ⋅ v v R
+ΩR λ* ⇒ Ω* = ⋅ v v R
 
 λ=
 
@@ -4179,7 +4179,7 @@ Il y a différentes méthodes pour définir une paire unique pour le rapport de
 
 transformation de la boite de vitesses M et la tension de batterie, représentée par la tension du système ûS. Une méthode pourrait consister à maximiser la production d'énergie sur le site du système éolien. Cependant, ceci nécessite de connaître les conditions locales de vent, par l'intermédiaire de la distribution de probabilité du vent par exemple. Si cette information ou le lieu d'emplacement du système sont inconnus, une autre méthode de détermination doit être utilisée.
 
-Pour tenir compte de ces contraintes, nous proposons d'utiliser les expressions analytiques des puissances, et de chercher à minimiser la distance entre la courbe idéale de la puissance en fonction de la vitesse de rotation (Pt (Ω), figure 2.4) et la courbe de puissance du générateur Pm. Pour réaliser cette tâche, une méthode de moindres carrés semble à priori pouvoir convenir. Il s'avère cependant que la caractéristique non linéaire de l'équation de puissance électrique pose des inconvénients qui empêchent l'application directe de la méthode de régression de Gauss.
+Pour tenir compte de ces contraintes, nous proposons d'utiliser les expressions analytiques des puissances, et de chercher à minimiser la distance entre la courbe idéale de la puissance en fonction de la vitesse de rotation (Pt (Ω), figure 2.4) et la courbe de puissance du générateur Pm. Pour réaliser cette tâche, une méthode de moindres carrés semble à priori pouvoir convenir. Il s'avère cependant que la caractéristique non linéaire de l'équation de puissance électrique pose des inconvénients qui empêchent l'application directe de la méthode de régression de Gauss.
 
 Nous avons suivi une autre méthode consistant à minimiser la surface entre les courbes des équations de puissance mécanique (cible) et électrique (modifiable).
 
@@ -4211,18 +4211,18 @@ Pt* =
 (2.24)
 
 D'autre part, si de l'équation du rapport de vitesses supposé maintenu à la valeur optimale on isole la vitesse de vent (2.25) pour la remplacer dans l'équation de la puissance mécanique maximale (2.24), on obtient l'équation (2.26).
-ΩR ΩR R ⇒v= * = *Ω v λ λ
+ΩR ΩR R ⇒v= * = *Ω v λ λ
 
 λ* =
 
 (2.25)
 3
 
-Pi (Ω) = Pt * =
+Pi (Ω) = Pt * =
 
 1 ρ ⋅ A ⋅ C pM 2
 
- R ⋅  *  Ω3 λ 
+ R ⋅  *  Ω3 λ 
 
 (2.26)
 
@@ -4230,15 +4230,15 @@ Chapitre 2 - Optimisation d'un Système de Conversion Eolien
 
 73
 
-On obtient donc une forme analytique de la puissance mécanique maximale de la turbine éolienne en fonction de sa vitesse de rotation Ω uniquement.
+On obtient donc une forme analytique de la puissance mécanique maximale de la turbine éolienne en fonction de sa vitesse de rotation Ω uniquement.
 
 L'équation électrique qu'on utilisera dans cette partie est l'expression (2.18) :
 
-uS 3 P = ⋅ 2 ⋅ pM Ω⋅ m 2 R + ( p L M Ω )2 S S
+uS 3 P = ⋅ 2 ⋅ pM Ω⋅ m 2 R + ( p L M Ω )2 S S
 
 {
 
-(RS ψ r )2 + L2S ⋅ [ ( p M ψ r Ω)2 - u S2 ]
+(RS ψ r )2 + L2S ⋅ [ ( p M ψ r Ω)2 - u S2 ]
 
 - RS u S
 
@@ -4246,44 +4246,44 @@ uS 3 P = ⋅ 2 ⋅ pM Ω⋅ m 2 R + ( p L M Ω )2 S S
 
 La surface entre les courbes de puissance mécanique idéale et la puissance produite par la machine est :
 A = Ai - Am =
-Ω max
+Ω max
 
-Ω min
+Ω min
 
-∫ {P (Ω) - P (u, M , Ω)}dΩ
+∫ {P (Ω) - P (u, M , Ω)}dΩ
 i m
 
 L'objectif du nouveau problème d'optimisation est de rapprocher les deux courbes ; donc de minimiser la différence entre ses aires :
-Ω max
+Ω max
 
 [M ,u]
 
 min A =
 
-Ω min
+Ω min
 
-∫ {P (Ω) - P (u, M , Ω)}dΩ
+∫ {P (Ω) - P (u, M , Ω)}dΩ
 i m
 
 (2.27)
 
 Les variables d'optimisation sont toujours la tension du système et le rapport de transformation de la boite de vitesses. La propriété linéaire de l'intégrale permet une séparation des termes :
-Ω max
+Ω max
 
 Ai =
 
-Ω min
+Ω min
 
-∫ {P (Ω)}dΩ ,
+∫ {P (Ω)}dΩ ,
 i
 
 Am =
 
-Ω max
+Ω max
 
-Ω min
+Ω min
 
-∫ {P (u, M , Ω)}dΩ
+∫ {P (u, M , Ω)}dΩ
 m
 
 La puissance mécanique idéale de la turbine éolienne Pi varie selon la vitesse et atteint sa valeur nominale PN à la vitesse de vent nominale vN . Il y a cependant un rang de vitesses de vent entre vN et la valeur maximale (cut-off), où la puissance de la turbine éolienne doit être régulée de façon à ne pas dépasser PN. Pour les petites éoliennes, ceci est fait par le système de régulation aérodynamique de type stall (plus de détail dans le
@@ -4292,11 +4292,11 @@ La puissance mécanique idéale de la turbine éolienne Pi varie selon la vitess
 
 Contribution à l'Optimisation d'un Système de  ...
 
-chapitre 3). Pour tenir compte de ces séquences, l'expression de la puissance mécanique idéale (2.24) et sa courbe caractéristique (figure 2.11) sont données par la suite. ΩC est la vitesse de rotation de la turbine à laquelle la puissance arrive à PN. Il est important de noter que les vitesses ΩC et ΩN (vitesse nominale de rotation de l'éolienne) ne sont généralement pas égales (ΩC < ΩN).
+chapitre 3). Pour tenir compte de ces séquences, l'expression de la puissance mécanique idéale (2.24) et sa courbe caractéristique (figure 2.11) sont données par la suite. ΩC est la vitesse de rotation de la turbine à laquelle la puissance arrive à PN. Il est important de noter que les vitesses ΩC et ΩN (vitesse nominale de rotation de l'éolienne) ne sont généralement pas égales (ΩC < ΩN).
 
-3 1 R 3  ⋅ A⋅ ρ ⋅Cp ⋅  ⋅Ω Pi =  2 λ  P  N
+3 1 R 3  ⋅ A⋅ ρ ⋅Cp ⋅  ⋅Ω Pi =  2 λ  P  N
 
-, Ω min ≤ Ω ≤ Ω C , Ω C ≤ Ω ≤ Ω max
+, Ω min ≤ Ω ≤ Ω C , Ω C ≤ Ω ≤ Ω max
 
 (2.28)
 
@@ -4306,40 +4306,40 @@ P
 
 PN
 
-Ωmin
+Ωmin
 
-ΩC
+ΩC
 
-Ωmax
+Ωmax
 
-Ω
+Ω
 
 Figure 2.11. Courbe de puissance idéale de la turbine éolienne.
-ΩC Ω
+ΩC Ω
 
-N 1  R Ai = ∫ {Pi (Ω)}dΩ = ∫ ρ ⋅ A ⋅ C pM ⋅  *  Ω 3 dΩ + ∫ PN dΩ 2 λ  Ω min Ω min ΩC
+N 1  R Ai = ∫ {Pi (Ω)}dΩ = ∫ ρ ⋅ A ⋅ C pM ⋅  *  Ω 3 dΩ + ∫ PN dΩ 2 λ  Ω min Ω min ΩC
 
-Ω max
+Ω max
 
 3
 
 1  R ⇒ Ai = ρ ⋅ A ⋅ C pM ⋅  *  2 λ  ⇒ Ai = 1 ρ ⋅ A ⋅ C pM 8
 3
 
-3 ΩC
+3 ΩC
 
-Ω min
+Ω min
 
-∫ Ω dΩ + P ∫
+∫ Ω dΩ + P ∫
 3 N
 
-ΩN
+ΩN
 
-dΩ
+dΩ
 
-ΩC
+ΩC
 
- R 4 ⋅  *  Ω C - Ω 4 + PN ⋅ (Ω N - Ω C ) min λ 
+ R 4 ⋅  *  Ω C - Ω 4 + PN ⋅ (Ω N - Ω C ) min λ 
 
 (
 

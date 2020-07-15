@@ -45,7 +45,7 @@ Windenergie heeft zijn nut in het verleden maar al te goed bewezen. Al eeuwen wo
 De eerste windmolens werden gebruikt in Perzië (het huidige Iran) in de 5e eeuw na Christus, voor het vermalen van graan. Vanaf daar verspreidde het gebruik van windmolens zich door de Islamitische wereld. In de 11e eeuw na Chr. werden windmolens intensief gebruikt in het hele Midden Oosten en in de 13e eeuw werden ze ook geïntroduceerd in Europa. Tijdens de Middeleeuwen hebben ze een belangrijke rol gespeeld bij het malen van graan, het zagen van hout en natuurlijk…het voor Nederland zo kenmerkende droogmalen van land. Maar in het begin van de 19e eeuw, na de uitvinding van de stoommachine en de opkomst van fossiele brandstoffen, ging de populariteit en de ontwikkeling van windmolens met rasse schreden achteruit. Ondanks dat zijn eind 19e eeuw in Amerika veel windmolens in gebruik genomen voor de irrigatie van landbouwgrond en de watervoorziening voor vee. De oliecrisis van 1973 zorgde echter voor een hernieuwde interesse in windenergie omdat de ooit zo goedkope fossiele brandstoffen enorm duur werden.
 
 Traditionele toepassing van een windmolen op een boerderij
-Tegenwoordig heeft windenergie door de toenemende bezorgdheid over het milieu een plek verworven in veel overheidsprogramma’s. Waterpompende windmolens worden nog steeds wereldwijd veel gebruikt. Verkoopcijfers wijzen op een wereldwijde verkoop van 5.000 tot 10.000 waterpompende windmolens per jaar. De markt voor elektriciteitsgenerende windmolens is snel groeiend, vooral in Europa, waar momenteel enorme turbines van enkele megaWatts elektriciteit per molen aan het net leveren. De installatie van kleinere windmolens in ontwikkelingslanden neemt ook aanzienlijk toe. Op afgelegen plaatsen bijvoorbeeld, waar geen elektriciteitsaansluiting is of de prijs ervan onacceptabel hoog is, doen kleinschalige windgeneratoren het goed. Vooral de kleine (50W) stand-alone batterij-opladende windmolens nemen aanzienlijk in aantal toe.
+Tegenwoordig heeft windenergie door de toenemende bezorgdheid over het milieu een plek verworven in veel overheidsprogramma's. Waterpompende windmolens worden nog steeds wereldwijd veel gebruikt. Verkoopcijfers wijzen op een wereldwijde verkoop van 5.000 tot 10.000 waterpompende windmolens per jaar. De markt voor elektriciteitsgenerende windmolens is snel groeiend, vooral in Europa, waar momenteel enorme turbines van enkele megaWatts elektriciteit per molen aan het net leveren. De installatie van kleinere windmolens in ontwikkelingslanden neemt ook aanzienlijk toe. Op afgelegen plaatsen bijvoorbeeld, waar geen elektriciteitsaansluiting is of de prijs ervan onacceptabel hoog is, doen kleinschalige windgeneratoren het goed. Vooral de kleine (50W) stand-alone batterij-opladende windmolens nemen aanzienlijk in aantal toe.
 
 Voor- en nadelen van windenergie
 De voornaamste voordelen van windenergie zijn: de meeste technologie op het gebied van windenergie is oud en goed ontwikkeld; windturbines opereren automatisch, vragen weinig onderhoud en kunnen daardoor voor lange tijd zonder nieuwe investeringen; er is geen brandstof nodig, waardoor de gebruikskosten erg laag zijn; de technologie is eenvoudig en robuust; windmolens kunnen in ontwikkelingslanden zowel geheel als gedeeltelijk worden geproduceerd (bijvoorbeeld de kop geïmporteerd en de toren lokaal geproduceerd); er wordt geen CO2 of andere schadelijke bij-producten geproduceerd.
@@ -107,7 +107,7 @@ Invloed van obstakels op de stroming van de wind
 Windmolens
 
 Inleiding
-In een windmolen wordt kinetische energie van de lucht omgezet in mechanische energie. Deze mechanische energie kan gebruikt worden om een werktuig aan te drijven, bijvoorbeeld een generator, een pomp of een graanmolen. Dit geschiedt doormiddel van één of meer wieken. Deze worden door de wind in beweging gezet. Meestal bewegen de wieken zich in een ronddraaiende beweging. In dit geval wordt de ronddraaiende constructie van de wieken de rotor genoemd. Een uitzondering vormt de zgn. flapping vane windpomp. Deze ‘molen’ heeft geen rotor maar een arm met een scharnierende vaan, die door de wind op en neer wordt bewogen.
+In een windmolen wordt kinetische energie van de lucht omgezet in mechanische energie. Deze mechanische energie kan gebruikt worden om een werktuig aan te drijven, bijvoorbeeld een generator, een pomp of een graanmolen. Dit geschiedt doormiddel van één of meer wieken. Deze worden door de wind in beweging gezet. Meestal bewegen de wieken zich in een ronddraaiende beweging. In dit geval wordt de ronddraaiende constructie van de wieken de rotor genoemd. Een uitzondering vormt de zgn. flapping vane windpomp. Deze 'molen' heeft geen rotor maar een arm met een scharnierende vaan, die door de wind op en neer wordt bewogen.
 
 Onderdelen van een windmolen
 De belangrijkste onderdelen van een windmolen zijn:
@@ -180,7 +180,7 @@ In dit gedeelte worden enkele termen uitgelegd, die veel worden gebruikt bij win
 Vermogens coëfficiënt Cp
 
 
-De windmolen zet niet alle bewegingsenergie van de wind om in mechanische energie. Anders zou de lucht achter de windmolen geen bewegingsenergie meer hebben en dus stilstaan. Er zou dan geen lucht langs de rotor stromen. Het gedeelte van de windenergie dat wordt ‘onttrokken’ door de rotor wordt uitgedrukt in de vermogenscoëfficiënt Cp. Het vermogen van een windmolen kan op deze manier worden uitgedrukt in de formule:
+De windmolen zet niet alle bewegingsenergie van de wind om in mechanische energie. Anders zou de lucht achter de windmolen geen bewegingsenergie meer hebben en dus stilstaan. Er zou dan geen lucht langs de rotor stromen. Het gedeelte van de windenergie dat wordt 'onttrokken' door de rotor wordt uitgedrukt in de vermogenscoëfficiënt Cp. Het vermogen van een windmolen kan op deze manier worden uitgedrukt in de formule:
 
 Protor = Cp . ½ . ρ . A . v3 (W)
 
@@ -233,7 +233,7 @@ Survival windspeed: Dit is de hoogste windsnelheid waarbij de molen nog heel bli
 De vermogenscurve
 
 
-In sommige gevallen wordt ook een vermogenscurve gegeven. Deze curve geeft bij iedere windsnelheid het vermogen. Hieronder staat een voorbeeld van zo’n curve. Aan de hand van deze curve kan een schatting gemaakt worden van de jaaropbrengst. Hiervoor is wel een windverdeling nodig. Als alleen de gemiddelde windsnelheid bekend is, kan een schatting worden gemaakt van de windverdeling met behulp van een Rayleigh-verdeling. De meeste windverdelingen lijken hier op. Deze verdeling is getoond onder de vermogenscurve.
+In sommige gevallen wordt ook een vermogenscurve gegeven. Deze curve geeft bij iedere windsnelheid het vermogen. Hieronder staat een voorbeeld van zo'n curve. Aan de hand van deze curve kan een schatting gemaakt worden van de jaaropbrengst. Hiervoor is wel een windverdeling nodig. Als alleen de gemiddelde windsnelheid bekend is, kan een schatting worden gemaakt van de windverdeling met behulp van een Rayleigh-verdeling. De meeste windverdelingen lijken hier op. Deze verdeling is getoond onder de vermogenscurve.
 
 Een vermogenscurve
 
@@ -247,7 +247,7 @@ De verwachte jaaropbrengst kan berekend worden door een aantal windintervallen (
 Windpompen
 
 Inleiding
-Een windmolen kan gebruikt worden om water op te pompen. Een waterpompende windmolen wordt ook wel ‘windpomp’ genoemd. In ontwikkelingslanden is dit de meest gebruikte toepassing van windenergie. De figuur hiernaast geeft een beeld van de meest gebruikelijke vorm van windpompen: een windmolen met horizontale rotoras en een windvaan om het in de wind te richten. Het aantal bladen van de rotor van een windpomp varieert van 4 tot 24. De rotor is via een overbrenging gekoppeld aan een pomp, waardoor de draaiende beweging wordt omgezet in een pompende beweging. In deze paragraaf zullen eerst de meest gebruikte pompen worden besproken. Daarna wordt achtereenvolgens ingegaan op de opbrengst, de opslag, de overbrenging, haalbaarheid en de toepassingen van windpompen.
+Een windmolen kan gebruikt worden om water op te pompen. Een waterpompende windmolen wordt ook wel 'windpomp' genoemd. In ontwikkelingslanden is dit de meest gebruikte toepassing van windenergie. De figuur hiernaast geeft een beeld van de meest gebruikelijke vorm van windpompen: een windmolen met horizontale rotoras en een windvaan om het in de wind te richten. Het aantal bladen van de rotor van een windpomp varieert van 4 tot 24. De rotor is via een overbrenging gekoppeld aan een pomp, waardoor de draaiende beweging wordt omgezet in een pompende beweging. In deze paragraaf zullen eerst de meest gebruikte pompen worden besproken. Daarna wordt achtereenvolgens ingegaan op de opbrengst, de opslag, de overbrenging, haalbaarheid en de toepassingen van windpompen.
 
 Pompen
 
@@ -348,7 +348,7 @@ Een handige formule om de dagopbrengst te berekenen is: Φdag = 0,69. vgem .D
 
 Waterbronnen
 
-Voor de opbrengst van de molen is ook de capaciteit van de waterbron van belang. De bron kan een rivier zijn, een meer, een irrigatiekanaal, een put of een boorgat (grondwater). De capaciteit van de bron moet groter zijn dan die van de windpomp, om te voorkomen dat de bron droog komt te staan. Een pomp die regelmatig ‘droog’ pompt slijt snel en levert bovendien niks op.
+Voor de opbrengst van de molen is ook de capaciteit van de waterbron van belang. De bron kan een rivier zijn, een meer, een irrigatiekanaal, een put of een boorgat (grondwater). De capaciteit van de bron moet groter zijn dan die van de windpomp, om te voorkomen dat de bron droog komt te staan. Een pomp die regelmatig 'droog' pompt slijt snel en levert bovendien niks op.
 
 De windmolen wordt over het algemeen direct boven de bron geplaatst. De hoeveelheid water die kan worden opgepompt per tijdseenheid hangt onder andere af van de diepte van het waterpeil in de bron. Hoe dieper geboord moet worden voor de bron, des te kleiner de diameter van het boorgat kan zijn. Deze diameter is bepalend voor de grootte van de pomp en de hoeveelheid water die opgepompt kan worden. Bronnen kunnen volgens onderstaande tabel op diepte worden ingedeeld:
 
@@ -417,8 +417,8 @@ Overbrenging
 
 Toepassingen
 De meest gebruikte toepassing voor windpompen is drinkwater voor mensen en vee. Andere toepassingen zijn irrigatie, drainage en viskwekerijen. Drinkwater voor vee is een traditionele toepassing die in het begin van de 20e eeuw de reden is geweest dat er door heel Amerika en Australië duizenden windpompen zijn gebouwd. Ze zijn zo populair geworden doordat vee van water kan worden voorzien zonder dat er ook maar iemand voor nodig is, gedurende een lange periode. Een kleine windpomp kan een kudde van 100 koeien van water voorzien.
-De mogelijkheid om windpompen te gebruiken voor irrigatie van landbouwgrond hangt af van de ‘match’ tussen gewas en windseizoen. Gewassen hebben water nodig op bepaalde voorspelbare tijdstippen in het jaar. Op die tijdstippen moet er genoeg wind zijn om de gewassen van water te voorzien met een windpomp. Het gewassenpatroon kan eventueel enigszins worden aangepast om beter op het windseizoen aan te sluiten. Irrigatie kan plaatsvinden door sprinkler-installaties of door open kanalen die het water van de pomp of opslagtank over het land verspreiden.
-Drinkwater met windpompen voor mensen heeft veel voordelen. Er hoeft weinig omgezien te worden naar de pomp zelf, terwijl een bescheiden pomp al een groot aantal mensen van water kan voorzien. Een goed ontworpen windpomp van 5 meter hoog, kan met een gemiddelde windsnelheid van 3,8 m/s en een opvoerhoogte van 25m wel 1200 mensen van water voorzien. De investeringskosten van de molen zijn dan zo’n $2 per persoon, terwijl een goed onderhouden windmolen wel 20 jaar mee kan gaan. Ondanks dat worden windpompen in ontwikkelingslanden nog relatief weinig gebruikt voor menselijk drinkwater. Het is duidelijk dat op dit gebied nog goede groeimogelijkheden zijn.
+De mogelijkheid om windpompen te gebruiken voor irrigatie van landbouwgrond hangt af van de 'match' tussen gewas en windseizoen. Gewassen hebben water nodig op bepaalde voorspelbare tijdstippen in het jaar. Op die tijdstippen moet er genoeg wind zijn om de gewassen van water te voorzien met een windpomp. Het gewassenpatroon kan eventueel enigszins worden aangepast om beter op het windseizoen aan te sluiten. Irrigatie kan plaatsvinden door sprinkler-installaties of door open kanalen die het water van de pomp of opslagtank over het land verspreiden.
+Drinkwater met windpompen voor mensen heeft veel voordelen. Er hoeft weinig omgezien te worden naar de pomp zelf, terwijl een bescheiden pomp al een groot aantal mensen van water kan voorzien. Een goed ontworpen windpomp van 5 meter hoog, kan met een gemiddelde windsnelheid van 3,8 m/s en een opvoerhoogte van 25m wel 1200 mensen van water voorzien. De investeringskosten van de molen zijn dan zo'n $2 per persoon, terwijl een goed onderhouden windmolen wel 20 jaar mee kan gaan. Ondanks dat worden windpompen in ontwikkelingslanden nog relatief weinig gebruikt voor menselijk drinkwater. Het is duidelijk dat op dit gebied nog goede groeimogelijkheden zijn.
 Windgeneratoren
 
 Inleiding
@@ -431,7 +431,7 @@ Zeker als de elektriciteitsbehoefte een regelmatig karakter heeft, zoals bijvoor
 Generatoren
 Bij een windgenerator drijft de rotor een stroomgenerator aan. De rotor zet windenergie om in rotatie- energie. De generator op zijn beurt zet de rotatie-energie uit het rotoroppervlak om in elektrische energie. Om dit voor elkaar te krijgen heeft een stroomgenerator een magnetisch veld nodig. Dit veld kan op verschillende manieren worden opgewekt, elk met hun eigen voor- en nadelen.
 
-Autodynamo’s
+Autodynamo's
 
 
 Toepassing: kleine windgeneratoren tot + 500 W Stand - alone molens.
@@ -456,7 +456,7 @@ Vrijwel onderhoudsvrij (geen koolborstels)
 Matig rendement
 Netkoppeling nodig
 
-Permanent magneet generatoren (PMG‘s)
+Permanent magneet generatoren (PMG's)
 
 
 Toepassing: generatoren van 500 W tot boven 1 kW, stand-alone molens.
@@ -490,21 +490,21 @@ Als de Cp waarde van de molen niet bekend is, kan m.b.v onderstaande vuistregel 
 
 
 Opslag
-De elektriciteit die wordt opgewekt door windgeneratoren hoeft niet direct te worden gebruikt, het kan worden opgeslagen. Elektrische energie kan op verschillende manieren worden opgeslagen, die veelal afhangen van wat in de omgeving mogelijk is. Als er een elektriciteitsnet aanwezig is, ligt teruglevering van de opgewekte stroom aan het net voor de hand. Men maakt gebruik van bestaande faciliteiten en de leveringszekerheid is groot. Dit is dé toepassing in de westerse wereld. Als er geen net ligt, maar er wel een waterreservoir mét debietmogelijkheden in de buurt is, kan water worden opgepompt met een elektromotor en teruggewonnen via een waterturbine. De beschreven kleinere windgeneratoren worden vaak geplaatst in afgelegen gebieden, waar geen elektriciteitsnet is. Dan ligt opslag in accu’s voor de hand.
+De elektriciteit die wordt opgewekt door windgeneratoren hoeft niet direct te worden gebruikt, het kan worden opgeslagen. Elektrische energie kan op verschillende manieren worden opgeslagen, die veelal afhangen van wat in de omgeving mogelijk is. Als er een elektriciteitsnet aanwezig is, ligt teruglevering van de opgewekte stroom aan het net voor de hand. Men maakt gebruik van bestaande faciliteiten en de leveringszekerheid is groot. Dit is dé toepassing in de westerse wereld. Als er geen net ligt, maar er wel een waterreservoir mét debietmogelijkheden in de buurt is, kan water worden opgepompt met een elektromotor en teruggewonnen via een waterturbine. De beschreven kleinere windgeneratoren worden vaak geplaatst in afgelegen gebieden, waar geen elektriciteitsnet is. Dan ligt opslag in accu's voor de hand.
 
-Men maakt onderscheid tussen start-accu’s en halftractie-accu‘s.
+Men maakt onderscheid tussen start-accu's en halftractie-accu's.
 
 Accu
 Het tractie type is voor een hoge aanvangsstroom, bijvoorbeeld voor een motor of een zuigerpomp. Het halftractietype is beter voor langdurige levering van continue stroomafname, bijvoorbeeld verlichting, radio of licht machinewerk. Het verschil zit in de dikte van de loodplaten. De extra dikke platen in een halftractie-accu verhogen het rendement voor stationaire toepassing tot 20%.
 
-De capaciteit van een accu wordt uitgedrukt in Ampère-uur (Ah). Als een halftractie-accu bijvoorbeeld 10 Ampère uur wordt geladen, kan er zo’n 8 uur worden gewerkt met een stroomvraag van 1 Ampère. Het aanbod van fabrikanten varieert van zeer klein tot boven 20 Ah.
+De capaciteit van een accu wordt uitgedrukt in Ampère-uur (Ah). Als een halftractie-accu bijvoorbeeld 10 Ampère uur wordt geladen, kan er zo'n 8 uur worden gewerkt met een stroomvraag van 1 Ampère. Het aanbod van fabrikanten varieert van zeer klein tot boven 20 Ah.
 
-Er zijn verschillende typen accu‘s, waarvan de loodzuuraccu de meest voorkomende is, vanwege zijn lage prijs. De lood-calciumaccu rukt op, omdat het onderhoud minimaal is en de levensduur veel beter. De levensduur wordt vaak uitgedrukt in het aantal malen, dat de accu geladen en ontladen kan worden (het aantal cycli).
+Er zijn verschillende typen accu's, waarvan de loodzuuraccu de meest voorkomende is, vanwege zijn lage prijs. De lood-calciumaccu rukt op, omdat het onderhoud minimaal is en de levensduur veel beter. De levensduur wordt vaak uitgedrukt in het aantal malen, dat de accu geladen en ontladen kan worden (het aantal cycli).
 Voor de levensduur van de gewone loodzuuraccu is het gebruik en onderhoud van groot belang: De accu mag niet teveel worden doorgeladen en niet te diep ontladen. De zuurconcentratie van het elektrolyt (zwavelzuur) mag niet te hoog zijn Het elektrolytniveau moet altijd hoger dan de platen staan.
 
 Aandachtspunten voor accu's in het algemeen
 Om teveel opladen en ontladen te voorkomen is een accubewaking nodig, die de verbinding tussen de generator en de accu op tijd in- en uitschakelt.
-Accu's uit bedrijf worden altijd volgeladen opgeslagen en tijdig bijgeladen. Ontladen loodaccu’s zijn snel afval.
+Accu's uit bedrijf worden altijd volgeladen opgeslagen en tijdig bijgeladen. Ontladen loodaccu's zijn snel afval.
 De keuze voor onderhoudsvrije accu's heeft de voorkeur, vanwege de stroomleverings- betrouwbaarheid.
 Bij de aanschaf van een bepaald merk accu dient men te letten op het optimale temperatuurtraject.
 De leveringscapciteit loopt beneden en boven bepaalde kritische waarden snel terug.

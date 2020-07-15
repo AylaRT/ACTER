@@ -109,7 +109,6 @@ blanchiment de l'argent	Common_Term
 blanchiment des produits	Common_Term
 blanchiment des produits du crime	Common_Term
 blanchiment du produit du crime	Common_Term
-blanchiment d’argent	Common_Term
 bonne gouvernance	Specific_Term
 bourse	Common_Term
 budget	Common_Term
@@ -211,9 +210,9 @@ conflit d'intérêts	Common_Term
 conflits d'intérêt	Common_Term
 conflits d'intérêts	Common_Term
 conformité	Common_Term
+conseil d'administration	Common_Term
 conseil de surveillance prudentielle	Specific_Term
 conseil des gouverneurs	Specific_Term
-conseil d’administration	Common_Term
 conseil général	Specific_Term
 conseillers fiscaux	Common_Term
 conseils d'administration	Common_Term
@@ -238,7 +237,7 @@ contrôleur légal des comptes	Specific_Term
 contrôleurs	Common_Term
 contrôleurs légaux	Specific_Term
 convention anticorruption	Specific_Term
-convention de l’ocde	Specific_Term
+convention de l'ocde	Specific_Term
 coopération juridique	Common_Term
 corrompez	Common_Term
 corrompre	Common_Term
@@ -613,7 +612,7 @@ mesures de répression	Common_Term
 mesures législatives	Common_Term
 meubles	Specific_Term
 ministère public	Common_Term
-missions d’évaluation	Specific_Term
+missions d'évaluation	Specific_Term
 modus operandi	Specific_Term
 monde des affaires	Common_Term
 monopoles	Common_Term
@@ -630,7 +629,7 @@ mécanisme de surveillance	Common_Term
 mécanisme de surveillance unique	Specific_Term
 mécanisme de vérification et de coopération	Specific_Term
 mécanismes de surveillance	Common_Term
-mémorandum d’accord	Specific_Term
+mémorandum d'accord	Specific_Term
 niveaux d'investissement	Specific_Term
 normes anticorruption	Common_Term
 normes comptables	Specific_Term
@@ -664,7 +663,7 @@ payer	Common_Term
 payez	Common_Term
 payées	Common_Term
 peine	Common_Term
-peine d’emprisonnement	Common_Term
+peine d'emprisonnement	Common_Term
 peines	Common_Term
 peines privatives de liberté	Common_Term
 penal	Common_Term
@@ -679,7 +678,6 @@ petites et moyennes entreprises	Common_Term
 pib	Common_Term
 plainte	Common_Term
 plan d'action	Specific_Term
-plan d’action	Specific_Term
 plan pénal	Common_Term
 pme	Common_Term
 police	Common_Term
@@ -691,9 +689,9 @@ politique	Common_Term
 politique anticorruption	Common_Term
 politique antifraude	Common_Term
 politique commerciale	Common_Term
+politique d'intégrité	Specific_Term
 politique de cohésion	Specific_Term
 politique de voisinage	Specific_Term
-politique d’intégrité	Specific_Term
 politique monétaire	Specific_Term
 politique publique	Common_Term
 politiques	Common_Term
@@ -711,11 +709,11 @@ poursuites pénales	Common_Term
 poursuivi	Common_Term
 poursuivis	Common_Term
 poursuivre	Common_Term
-pouvoir d’interprétation	Specific_Term
+pouvoir d'interprétation	Specific_Term
 pouvoir public	Common_Term
 pouvoirs publics	Common_Term
+pratiques d'entreprises	Common_Term
 pratiques de corruption	Common_Term
-pratiques d’entreprises	Common_Term
 prestataire de services publics	Common_Term
 preuve	Common_Term
 preuves	Common_Term
@@ -789,7 +787,6 @@ recouvrement	Common_Term
 recouvrement d'avoirs	Specific_Term
 recouvrement des avoirs	Specific_Term
 recouvrement direct de biens	Specific_Term
-recouvrement d’avoirs	Specific_Term
 regles	Common_Term
 regles disciplinaires	Common_Term
 relations commerciales	Common_Term
@@ -897,7 +894,7 @@ stratégies anticorruption	Common_Term
 subsides	Common_Term
 subvention	Common_Term
 subventions	Common_Term
-subventions d’actions	Specific_Term
+subventions d'actions	Specific_Term
 suffrage	Common_Term
 suffrage universel direct	Specific_Term
 surcoûts	Common_Term
@@ -916,7 +913,7 @@ tierce	Common_Term
 tierces parties	Common_Term
 tiers	Common_Term
 tiers de bonne foi	Specific_Term
-trafic d’influence	Specific_Term
+trafic d'influence	Specific_Term
 transactions	Common_Term
 transactions commerciales	Common_Term
 transactions financières	Common_Term

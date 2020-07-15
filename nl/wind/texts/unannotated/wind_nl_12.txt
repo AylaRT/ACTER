@@ -1,5 +1,5 @@
 Inleiding
-Op plaatsen waar veel wind is, zie je ze vaak staan: windmolens. Op de voorpagina van dit hoofdstuk zie je twee varianten afgebeeld. De bovenste is een windmolen is een type uit de 18e eeuw. De ander is er één uit 2006.  Vroeger werden windmolens gebruik om goederen te malen. Zo kan je bij een nog werkende ‘oude’ molen vaak heel lekkere bloem kopen. Voor dat malen worden 2 grote stenen schrijven over elkaar heen bewogen (een gemaal genaamd). De windmolens van tegenwoordig hebben een ander doel: elektriciteit opwekken. Hiervoor wordt gebruik gemaakt van een turbine. Dat is een grote dynamo. Deze nieuwe typen windmolens worden windturbines genoemd. 
+Op plaatsen waar veel wind is, zie je ze vaak staan: windmolens. Op de voorpagina van dit hoofdstuk zie je twee varianten afgebeeld. De bovenste is een windmolen is een type uit de 18e eeuw. De ander is er één uit 2006.  Vroeger werden windmolens gebruik om goederen te malen. Zo kan je bij een nog werkende 'oude' molen vaak heel lekkere bloem kopen. Voor dat malen worden 2 grote stenen schrijven over elkaar heen bewogen (een gemaal genaamd). De windmolens van tegenwoordig hebben een ander doel: elektriciteit opwekken. Hiervoor wordt gebruik gemaakt van een turbine. Dat is een grote dynamo. Deze nieuwe typen windmolens worden windturbines genoemd. 
 
 Algemene opbouw windmolen
 In dit hoofdstuk wordt uitgegaan van onderstaande algemene benamingen voor de aangewezen onderdelen van de windmolen.
@@ -13,12 +13,12 @@ Wanneer je naar een windturbine kijkt, lijkt het een heel simpel product: een ma
 Figuur 2 Een stuk mast op een dieplader
 Een Nederlands bedrijf heeft een oplossing bedacht. Die ronde stukken worden in gedeeltes gemaakt en op plaats van bestemming in elkaar gezet. Dit is een ingewikkeld en nauwkeurig proces. Het is dan ook nog niet zo dat deze methode op grote schaal toegepast wordt.
 
-Zelfs voor de kleur van de turbine heeft er veel onderzoek plaats gevonden. Om te zorgen dat de windturbine zo min mogelijk opvalt wordt er een kleur gekozen die “niet-opvallend grijs” wordt genoemd. Het effect van deze kleur is te zien op de voorpagina: de achterste windturbine valt maar weinig op.
+Zelfs voor de kleur van de turbine heeft er veel onderzoek plaats gevonden. Om te zorgen dat de windturbine zo min mogelijk opvalt wordt er een kleur gekozen die "niet-opvallend grijs" wordt genoemd. Het effect van deze kleur is te zien op de voorpagina: de achterste windturbine valt maar weinig op.
 
 Al dit onderzoek heeft er voor gezorgd dat het rendement van een moderne 3-wiek turbine stukken meer is dan die van de oude 4-wiek.
 
 Vraag
-Verzamel informatie over de opbouw van “oude” en de “nieuwe” windmolens. Beschrijf hiermee de technische opbouw.
+Verzamel informatie over de opbouw van "oude" en de "nieuwe" windmolens. Beschrijf hiermee de technische opbouw.
 
 Het onderzoek
 Het moet je nu wel duidelijk zijn dat er behoorlijk wat onderzoek gedaan is om tot het ontwerp te komen dat op het moment veel gebruikt wordt.
@@ -79,9 +79,9 @@ Op een aantal plaatsen in Nederland zie je ze nog staan:
 de oude Hollandse windmolen. Een werkplaats met op de kop 4 wieken. De kop is draaibaar zodat de wieken in de juiste stand t.o.v. de wind gezet kunnen worden. Het draaien van de kop gebeurt handmatig. Een best zwaar en intensief karwij. De wieken bestaan uit twee delen. Een vaste plaat met daaraan een hekwerk. Aan dit hekwerk worden wanneer nodig doeken gemaakt om meer wind te vangen. Het remmen van de wieken gebeurt via een remschijf die iets weg heeft van een trommelrem op een fiets. Het remmen gebeurt handmatig.
 In open gebieden komen de wieken bijna tot aan de grond. In een dorp is er een extra stal onder het bouwwerk geplaatst om zo boven de andere gebouwen uit te komen. Op deze manier vangt de molen ook op deze gebieden voldoende wind. 
 
-De oude Hollandse molen is tegenwoordig een monument. Tot voor kort heeft dit type molen echter een lange tijd hard werk gedaan. Van graan malen tot het maken van oliën uit olie houdende zaden en van het maken van papier tot aan het droogpompen van grote meren. Een stukje Hollands glorie dus. Hoe ‘goed’ is deze molen eigenlijk?
+De oude Hollandse molen is tegenwoordig een monument. Tot voor kort heeft dit type molen echter een lange tijd hard werk gedaan. Van graan malen tot het maken van oliën uit olie houdende zaden en van het maken van papier tot aan het droogpompen van grote meren. Een stukje Hollands glorie dus. Hoe 'goed' is deze molen eigenlijk?
 
-Met ‘goed’ wordt in dit stukje het rendement van de molen bedoeld. Om deze vraag te kunnen beantwoorden, wordt in deze lesmodule een “gemaal” gesimuleerd met een zware turbine. Doordat het elektrisch vermogen makkelijk te meten is kan het rendement van dit type molen makkelijk bepaald worden.  
+Met 'goed' wordt in dit stukje het rendement van de molen bedoeld. Om deze vraag te kunnen beantwoorden, wordt in deze lesmodule een "gemaal" gesimuleerd met een zware turbine. Doordat het elektrisch vermogen makkelijk te meten is kan het rendement van dit type molen makkelijk bepaald worden.  
 
 Vraag
 
@@ -105,7 +105,7 @@ hoogte bouwwerk: 10 meter,
 gemiddelde windsnelheid:  zie jullie omgeving (vorige opdracht)
 
 3 Snellopendheid
-Het elektrische vermogen dat de generator (in de windturbine) levert, hangt onder andere af van de draaisnelheid van de wieken. Een 4 wiek turbine reageert anders op een windsnelheid dan een 3 wiek turbine. Je kan daarom de twee turbines niet zo maar met elkaar vergelijken. Om alle turbines toch met elkaar te kunnen vergelijken, heeft men de grootheid snellopendheid (λ) geïntroduceerd. Deze grootheid is een samenvoeging van onder andere de windsnelheid, het type rotor en de diameter van de rotor. Omdat in dit onderzoek alleen de vorm van de wieken anders is, mogen we de snellopendheid definiëren als het (rotor) toerental gedeeld door de windsnelheid (). Het toerental van de rotor is af te leiden uit een spanning geleverd door de “tachogenerator” op de windturbine. De relatie tussen spanning en toerental is in onderstaande grafiek weergegeven.
+Het elektrische vermogen dat de generator (in de windturbine) levert, hangt onder andere af van de draaisnelheid van de wieken. Een 4 wiek turbine reageert anders op een windsnelheid dan een 3 wiek turbine. Je kan daarom de twee turbines niet zo maar met elkaar vergelijken. Om alle turbines toch met elkaar te kunnen vergelijken, heeft men de grootheid snellopendheid (λ) geïntroduceerd. Deze grootheid is een samenvoeging van onder andere de windsnelheid, het type rotor en de diameter van de rotor. Omdat in dit onderzoek alleen de vorm van de wieken anders is, mogen we de snellopendheid definiëren als het (rotor) toerental gedeeld door de windsnelheid (). Het toerental van de rotor is af te leiden uit een spanning geleverd door de "tachogenerator" op de windturbine. De relatie tussen spanning en toerental is in onderstaande grafiek weergegeven.
 
 
 Figuur 4 toerental van de rotor
@@ -125,7 +125,7 @@ Voer de metingen uit en noteer de resultaten;
 Maak de karakteristiek.
 
 4 Stand van de gondel
-Een windturbine kan op twee manieren  in de wind staan. Met de gondel in de wind, of, zoals van een watermolen bekend is, onder een hoek van 90o t.o.v. de stromingsrichting. Wanneer de gondel in de wind staat, wordt de turbine bestempeld als windturbine werkend op het “liftprincipe”. Staat de turbine onder een hoek van 90o, dan werkt de turbine op het “weerstandprincipe”. Beiden principes zijn afgebeeld in Figuur 5.
+Een windturbine kan op twee manieren  in de wind staan. Met de gondel in de wind, of, zoals van een watermolen bekend is, onder een hoek van 90o t.o.v. de stromingsrichting. Wanneer de gondel in de wind staat, wordt de turbine bestempeld als windturbine werkend op het "liftprincipe". Staat de turbine onder een hoek van 90o, dan werkt de turbine op het "weerstandprincipe". Beiden principes zijn afgebeeld in Figuur 5.
 
   
       			
@@ -173,7 +173,7 @@ Om antwoord te kunnen geven heb je rendementskarakteristieken nodig.
 Werkwijze
 Stel een meetplan op. Gebruik hiervoor de handleiding ….
 Voer de metingen uit en noteer de resultaten;
-Maak ‘slimme’ grafieken (met de te vergelijken karakteristieken in 1 grafiek) en trek de conclusies.
+Maak 'slimme' grafieken (met de te vergelijken karakteristieken in 1 grafiek) en trek de conclusies.
 6 De moderne windturbine
 Hiervoor heb je een aantal onderzoeken gedaan die ook gedaan worden bij het ontwikkelen van de moderne windturbine. 
 
@@ -199,7 +199,7 @@ hoogte mast: 100 meter,
 gemiddelde windsnelheid: de genomen windsnelheid bij de proef. 
 Vergelijk de uitkomst van de moderne windturbine met die van de oude windturbine. Komt dit overeen met de resultaten in Figuur 6? Probeer eventuele afwijkingen te verklaren. Ter info: er is gekozen voor 2 verschillinde weerstanden. Dit is om de werkelijkheid meer na te bootsen. Leg dit uit.
 7 Savonius windturbine
-De Savonius windturbine wordt vaak in bijzondere ontwerpen gemaakt en is dan tevens een kunstwerk of reclame. Ook zie je de Savonius vaak staan als ‘doe het zelf’ projecten. 
+De Savonius windturbine wordt vaak in bijzondere ontwerpen gemaakt en is dan tevens een kunstwerk of reclame. Ook zie je de Savonius vaak staan als 'doe het zelf' projecten. 
 
           
 
@@ -209,7 +209,7 @@ Onderzoek van de Savonius turbine:
 de werking;
 het aandrijf principe;
 het rendement t.o.v. de moderne 3-wiek;
-de reden dat deze twee typen (kunst en ‘doe het zelf’) gebouwd worden.
+de reden dat deze twee typen (kunst en 'doe het zelf') gebouwd worden.
 
 werkwijze
 Voor het oplossen van deze vragen zul je weer een meetonderzoek moeten uitvoeren en tevens het internet raadplegen.

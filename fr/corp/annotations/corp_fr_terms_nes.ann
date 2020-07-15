@@ -52,7 +52,7 @@ affaires intérieures	Common_Term
 affaires publiques	Common_Term
 afrique	Named_Entity
 afrique du nord	Named_Entity
-agence des droits fondamentaux de l’ue	Named_Entity
+agence des droits fondamentaux de l'ue	Named_Entity
 agent public	Common_Term
 agents des services répressifs	Common_Term
 agents publics	Common_Term
@@ -133,7 +133,6 @@ blanchiment de l'argent	Common_Term
 blanchiment des produits	Common_Term
 blanchiment des produits du crime	Common_Term
 blanchiment du produit du crime	Common_Term
-blanchiment d’argent	Common_Term
 bonne gouvernance	Specific_Term
 bourse	Common_Term
 bruxelles	Named_Entity
@@ -144,7 +143,7 @@ budgétaires	Common_Term
 bulgarie	Named_Entity
 bulletin officiel fédéral	Named_Entity
 bundesgesetzblatt	Named_Entity
-bureau d’éthique et de déontologie administrative	Named_Entity
+bureau d'éthique et de déontologie administrative	Named_Entity
 bureaucratisation	Common_Term
 cadeau	Common_Term
 cadeaux	Common_Term
@@ -268,14 +267,12 @@ conflits d'intérêt	Common_Term
 conflits d'intérêts	Common_Term
 conformité	Common_Term
 conseil	Named_Entity
+conseil d'administration	Common_Term
 conseil de l'europe	Named_Entity
 conseil de l'ue	Named_Entity
 conseil de l'union européenne	Named_Entity
-conseil de l’europe	Named_Entity
-conseil de l’union européenne	Named_Entity
 conseil de surveillance prudentielle	Specific_Term
 conseil des gouverneurs	Specific_Term
-conseil d’administration	Common_Term
 conseil européen	Named_Entity
 conseil général	Specific_Term
 conseillers fiscaux	Common_Term
@@ -304,8 +301,8 @@ convention anticorruption	Specific_Term
 convention civile sur la corruption	Named_Entity
 convention contre la corruption impliquant des fonctionnaires	Named_Entity
 convention d'application de l'accord de schengen	Named_Entity
+convention de l'ocde	Specific_Term
 convention de l'ocde sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales	Named_Entity
-convention de l’ocde	Specific_Term
 convention des nations unies contre la corruption	Named_Entity
 convention pif	Named_Entity
 convention pénale sur la corruption	Named_Entity
@@ -342,7 +339,7 @@ cotonou	Named_Entity
 coupables	Common_Term
 cour	Common_Term
 cour de justice	Specific_Term
-cour de justice de l’union européenne	Named_Entity
+cour de justice de l'union européenne	Named_Entity
 cour des comptes	Named_Entity
 cour européenne de justice	Named_Entity
 coût	Common_Term
@@ -555,7 +552,6 @@ gratification	Common_Term
 greco	Named_Entity
 groupe d'états contre la corruption	Named_Entity
 groupe de travail de l'ocde sur la corruption	Named_Entity
-groupe d’états contre la corruption	Named_Entity
 groupes criminels	Common_Term
 groupes criminels organisés	Common_Term
 groupes de criminalité organisée	Common_Term
@@ -751,7 +747,7 @@ mesures législatives	Common_Term
 meubles	Specific_Term
 mexique	Named_Entity
 ministère public	Common_Term
-missions d’évaluation	Specific_Term
+missions d'évaluation	Specific_Term
 modus operandi	Specific_Term
 moldova	Named_Entity
 monde des affaires	Common_Term
@@ -771,7 +767,7 @@ mécanisme de surveillance	Common_Term
 mécanisme de surveillance unique	Specific_Term
 mécanisme de vérification et de coopération	Specific_Term
 mécanismes de surveillance	Common_Term
-mémorandum d’accord	Specific_Term
+mémorandum d'accord	Specific_Term
 mérida	Named_Entity
 nations unies	Named_Entity
 nei	Named_Entity
@@ -790,7 +786,7 @@ népotisme	Common_Term
 obligations juridiques	Common_Term
 obligations légales	Common_Term
 obligations éthiques fondamentales	Specific_Term
-observatoire européen de l’audiovisuel	Named_Entity
+observatoire européen de l'audiovisuel	Named_Entity
 occultes	Specific_Term
 ocde	Named_Entity
 ocrc	Named_Entity
@@ -829,7 +825,7 @@ payer	Common_Term
 payez	Common_Term
 payées	Common_Term
 peine	Common_Term
-peine d’emprisonnement	Common_Term
+peine d'emprisonnement	Common_Term
 peines	Common_Term
 peines privatives de liberté	Common_Term
 penal	Common_Term
@@ -847,7 +843,6 @@ pib	Common_Term
 plainte	Common_Term
 plan d'action	Specific_Term
 plan d'action pour les services financiers	Named_Entity
-plan d’action	Specific_Term
 plan national de sécurité 2008-2011	Named_Entity
 plan pénal	Common_Term
 pme	Common_Term
@@ -862,9 +857,9 @@ politique	Common_Term
 politique anticorruption	Common_Term
 politique antifraude	Common_Term
 politique commerciale	Common_Term
+politique d'intégrité	Specific_Term
 politique de cohésion	Specific_Term
 politique de voisinage	Specific_Term
-politique d’intégrité	Specific_Term
 politique monétaire	Specific_Term
 politique publique	Common_Term
 politiques	Common_Term
@@ -883,11 +878,11 @@ poursuites pénales	Common_Term
 poursuivi	Common_Term
 poursuivis	Common_Term
 poursuivre	Common_Term
-pouvoir d’interprétation	Specific_Term
+pouvoir d'interprétation	Specific_Term
 pouvoir public	Common_Term
 pouvoirs publics	Common_Term
+pratiques d'entreprises	Common_Term
 pratiques de corruption	Common_Term
-pratiques d’entreprises	Common_Term
 prestataire de services publics	Common_Term
 preuve	Common_Term
 preuves	Common_Term
@@ -950,8 +945,7 @@ pénaux	Common_Term
 questions préjudicielles	Specific_Term
 rapport anticorruption	Specific_Term
 rapport anticorruption de l'ue	Named_Entity
-rapport anticorruption de l’ue	Named_Entity
-rapport anticorruption de l’union	Named_Entity
+rapport anticorruption de l'union	Named_Entity
 rapporteur	Specific_Term
 rapporteurs	Specific_Term
 rapports anticorruption	Specific_Term
@@ -967,7 +961,6 @@ recouvrement	Common_Term
 recouvrement d'avoirs	Specific_Term
 recouvrement des avoirs	Specific_Term
 recouvrement direct de biens	Specific_Term
-recouvrement d’avoirs	Specific_Term
 regles	Common_Term
 regles disciplinaires	Common_Term
 relations commerciales	Common_Term
@@ -1027,11 +1020,10 @@ répression judiciaire	Common_Term
 réprime	Common_Term
 répréhensibles	Common_Term
 république fédérale d'allemagne	Named_Entity
-république fédérale d’allemagne	Named_Entity
 république tchèque	Named_Entity
+réseau d'expertise corruption	Named_Entity
+réseau d'expertise délinquance économique, financière et fiscale	Named_Entity
 réseau de lutte contre la corruption	Specific_Term
-réseau d’expertise corruption	Named_Entity
-réseau d’expertise délinquance économique, financière et fiscale	Named_Entity
 réseau européen de lutte contre la corruption	Named_Entity
 résolution	Specific_Term
 résolution statutaire	Specific_Term
@@ -1089,7 +1081,7 @@ sous-traitance	Common_Term
 soustraction	Specific_Term
 soustraction de biens	Specific_Term
 spf	Specific_Term
-spf budget, bureau d’éthique et de déontologie administratives	Named_Entity
+spf budget, bureau d'éthique et de déontologie administratives	Named_Entity
 spf finances	Named_Entity
 spf justice	Named_Entity
 statut	Specific_Term
@@ -1102,7 +1094,7 @@ stratégies anticorruption	Common_Term
 subsides	Common_Term
 subvention	Common_Term
 subventions	Common_Term
-subventions d’actions	Specific_Term
+subventions d'actions	Specific_Term
 suffrage	Common_Term
 suffrage universel direct	Specific_Term
 surcoûts	Common_Term
@@ -1126,15 +1118,13 @@ tierce	Common_Term
 tierces parties	Common_Term
 tiers	Common_Term
 tiers de bonne foi	Specific_Term
-trafic d’influence	Specific_Term
+trafic d'influence	Specific_Term
 traité d'amsterdam	Named_Entity
 traité de l'union européenne	Named_Entity
 traité de lisbonne	Named_Entity
 traité instituant la communauté européenne	Named_Entity
 traité sur l'union européenne	Named_Entity
 traité sur le fonctionnement de l'union européenne	Named_Entity
-traité sur le fonctionnement de l’union européenne	Named_Entity
-traité sur l’union européenne	Named_Entity
 transactions	Common_Term
 transactions commerciales	Common_Term
 transactions financières	Common_Term
@@ -1211,7 +1201,7 @@ zones grises	Common_Term
 états financiers	Common_Term
 états financiers consolidés	Specific_Term
 états-unis	Named_Entity
-états-unis d’amérique	Named_Entity
+états-unis d'amérique	Named_Entity
 éthique	Common_Term
 éthique professionnelle	Common_Term
 éthiques	Common_Term

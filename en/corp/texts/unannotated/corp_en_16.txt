@@ -62,7 +62,7 @@ Article 6 Liability of legal persons
 
 3. Liability of a legal person under paragraphs 1 and 2 shall not exclude criminal proceedings against natural persons who are perpetrators of the criminal offences referred to in Title II or criminally liable under Article 5.
 
-4. For the purpose of this Directive, ‘legal person’ shall mean any entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations.
+4. For the purpose of this Directive, 'legal person' shall mean any entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations.
 
 Article 7 Penalties for natural persons
 
@@ -314,7 +314,7 @@ This proposal has no immediate budgetary implications for the Union. Its aim is,
 
 (16) In order to ensure the coherence of Union law and safeguard the principle that no-one is punished twice for the same cause of action, there is a need to clarify the relation between penalties under this Directive and other relevant administrative measures under Union law. The Directive should be without prejudice to the application of specific administrative measures, penalties and fines under Union law.
 
-(17) Without prejudice to other obligations under Union law, there is a need for appropriate provision to be made for cooperation between Member States and the Commission to ensure effective action against the criminal offences defined in this Directive affecting the Union’s financial interests, including exchange of information between the Member States and the Commission.
+(17) Without prejudice to other obligations under Union law, there is a need for appropriate provision to be made for cooperation between Member States and the Commission to ensure effective action against the criminal offences defined in this Directive affecting the Union's financial interests, including exchange of information between the Member States and the Commission.
 
 (18) The Convention for the protection of the European Communities' financial interests of 26 July 1995 and the Protocols thereto of 27 September 1996 and 29 November 1996 should be repealed and replaced by this Directive.
 
@@ -338,7 +338,7 @@ This Directive establishes necessary measures in the field of prevention of and 
 
 Article 2 Definition of the Union's financial interest
 
-For the purposes of this Directive, ‘the Union's financial interests’ means all revenues and expenditures covered by, acquired through, or due to:
+For the purposes of this Directive, 'the Union's financial interests' means all revenues and expenditures covered by, acquired through, or due to:
 
 (a) the Union budget;
 

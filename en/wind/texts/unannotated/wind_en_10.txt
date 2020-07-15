@@ -262,7 +262,7 @@ Fig. 6 Rotor geometry used to study the effects of rime ice accretion on wind tu
 
 If If
 
-/'''
+/"'
 
 where the blade is largely unstalled, the performance
 

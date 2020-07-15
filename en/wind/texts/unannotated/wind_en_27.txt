@@ -12,7 +12,7 @@ To make an initial estimate of the energy that could be achieved from offshore w
 estimated using Equation 1 which states the relationship between mean wind speed (Vavg), rated power (Prated) and rotor diameter (D) [Masters, 2004]. Given this equation, the capacity factor based on the overall average wind speed for each turbine tower technology was calculated. Prated kW  D m
 2
 
-Capacity Factor=0.087∗V avg m/ s −
+Capacity Factor=0.087∗V avg m/ s -
 
 (1)
 

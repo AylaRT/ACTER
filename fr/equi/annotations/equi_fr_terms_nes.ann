@@ -58,7 +58,7 @@ anne	Named_Entity
 anne d'autriche	Named_Entity
 anneaux du mors	Specific_Term
 antoine	Named_Entity
-antoine cartier d’aure	Named_Entity
+antoine cartier d'aure	Named_Entity
 antoine de pluvinel	Named_Entity
 antérieur	Specific_Term
 antérieur droit	Specific_Term
@@ -208,16 +208,15 @@ changement de main	Specific_Term
 changement de pied	Specific_Term
 changement de pied au temps	Specific_Term
 changement de pied en l'air	Specific_Term
-changement de pied en l’air	Specific_Term
 changement en deux temps	Specific_Term
 changements	Specific_Term
 changements de pied	Specific_Term
-changements de pied en l’air	Specific_Term
+changements de pied en l'air	Specific_Term
 changements de pieds	Specific_Term
 changements en deux temps	Specific_Term
 changer	Specific_Term
 changer de pied	Specific_Term
-changer de pied en l’air	Specific_Term
+changer de pied en l'air	Specific_Term
 changez	Specific_Term
 changez de pied	Specific_Term
 changé	Specific_Term
@@ -346,7 +345,7 @@ diagonales	Specific_Term
 diagonalisation	Specific_Term
 diagonalisé	Specific_Term
 diagonalisés	Specific_Term
-dictionnaire d’équitation	Named_Entity
+dictionnaire d'équitation	Named_Entity
 direction du mouvement	Common_Term
 discipline équestre	Common_Term
 disciplines équestres	Common_Term
@@ -661,6 +660,7 @@ kür	Specific_Term
 kür grand prix	Specific_Term
 kürs	Specific_Term
 l'affaire géricault	Named_Entity
+l'hotte	Named_Entity
 la broue	Named_Entity
 la guérinière	Named_Entity
 lacrosse	OOD_Term
@@ -682,8 +682,8 @@ lettre	Specific_Term
 levade	Specific_Term
 lexington	Named_Entity
 leçon de la jambe	Specific_Term
-liberté d’épaule	Specific_Term
-liberté d’épaules	Specific_Term
+liberté d'épaule	Specific_Term
+liberté d'épaules	Specific_Term
 lice	Specific_Term
 licol	Specific_Term
 ligne droite	Specific_Term
@@ -717,7 +717,6 @@ léger à la main	Specific_Term
 légère	Specific_Term
 légères	Specific_Term
 légèreté	Specific_Term
-l’hotte	Named_Entity
 m	Specific_Term
 m. de la guérinière	Named_Entity
 m. de sourdis	Named_Entity
@@ -853,7 +852,7 @@ pli interne	Specific_Term
 pli intérieur	Specific_Term
 pli à droite	Specific_Term
 pli à gauche	Specific_Term
-pli à l’intérieur	Specific_Term
+pli à l'intérieur	Specific_Term
 pliant	Specific_Term
 ploiement	Specific_Term
 ployer	Specific_Term
@@ -962,10 +961,10 @@ rééquilibrer	Common_Term
 rêne	Common_Term
 rêne contraire	Specific_Term
 rêne d'appui	Specific_Term
+rêne d'ouverture	Specific_Term
 rêne direct	Specific_Term
 rêne directe	Specific_Term
 rêne droite	Common_Term
-rêne d’ouverture	Specific_Term
 rêne extérieure	Specific_Term
 rêne gauche	Common_Term
 rêne intérieure	Specific_Term
@@ -993,8 +992,7 @@ saut d'obstacles	Common_Term
 saute	Common_Term
 sauts	Common_Term
 sauts d'école	Specific_Term
-sauts d’école	Specific_Term
-sauts d’écoles	Specific_Term
+sauts d'écoles	Specific_Term
 saxe	Named_Entity
 se contracte	Specific_Term
 se contracter	Specific_Term
@@ -1059,7 +1057,7 @@ travail monté	Specific_Term
 travail sur 2 pistes	Specific_Term
 travail sur 3 pistes	Specific_Term
 travail sur 4 pistes	Specific_Term
-travail à l’épaule	Specific_Term
+travail à l'épaule	Specific_Term
 travers	Specific_Term
 traversant	Specific_Term
 traverser	Specific_Term
@@ -1113,8 +1111,8 @@ yeux	Common_Term
 youtube	Named_Entity
 zig zag	Specific_Term
 zig-zag	Specific_Term
+à l'appui	Specific_Term
 à la sangle	Specific_Term
-à l’appui	Specific_Term
 école d'équitation	Specific_Term
 école d'équitation classique	Specific_Term
 école de cavalerie	Named_Entity
@@ -1122,7 +1120,7 @@ zig-zag	Specific_Term
 école de vienne	Named_Entity
 école espagnole	Named_Entity
 école espagnole d'équitation	Named_Entity
-école nationale d’équitation	Named_Entity
+école nationale d'équitation	Named_Entity
 école portugaise d'art équestre	Named_Entity
 école royale andalouse d'art équestre	Named_Entity
 écurie	Common_Term

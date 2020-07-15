@@ -6,7 +6,7 @@ Article 1
 Guiding principles
 
 
-In exercising their duties, Members of the European Parliament: are guided by and observe the following general principles of conduct: disinterest, integrity, openness, diligence, honesty, accountability and respect for Parliament’s reputation, act solely in the public interest and refrain from obtaining or seeking to obtain any direct or indirect financial benefit or other reward.
+In exercising their duties, Members of the European Parliament: are guided by and observe the following general principles of conduct: disinterest, integrity, openness, diligence, honesty, accountability and respect for Parliament's reputation, act solely in the public interest and refrain from obtaining or seeking to obtain any direct or indirect financial benefit or other reward.
 
 Article 2
 
@@ -24,7 +24,7 @@ A conflict of interest exists where a Member of the European Parliament has a pe
 
 Any Member who finds that he or she has a conflict of interest shall immediately take the necessary steps to address it, in accordance with the principles and provisions of this Code of Conduct. If the Member is unable to resolve the conflict of interest, he or she shall report this to the President in writing. In cases of ambiguity, the Member may seek advice in confidence from the Advisory Committee on the Conduct of Members, established under Article 7.
 
-Without prejudice to paragraph 2, Members shall disclose, before speaking or voting in plenary or in one of Parliament’s bodies, or if proposed as a rapporteur, any actual or potential conflict of interest in relation to the matter under consideration, where such conflict is not evident from the information declared pursuant to Article 4. Such disclosure shall be made in writing or orally to the chair during the parliamentary proceedings in question.
+Without prejudice to paragraph 2, Members shall disclose, before speaking or voting in plenary or in one of Parliament's bodies, or if proposed as a rapporteur, any actual or potential conflict of interest in relation to the matter under consideration, where such conflict is not evident from the information declared pursuant to Article 4. Such disclosure shall be made in writing or orally to the chair during the parliamentary proceedings in question.
 
 Article 4
 
@@ -34,13 +34,13 @@ Declaration by Members
 
 For reasons of transparency, Members of the European Parliament shall be personally responsible for submitting a declaration of financial interests to the President by the end of the first part-session after elections to the European Parliament (or within 30 days of taking up office with the Parliament in the course of a parliamentary term), in accordance with a form to be adopted by the Bureau pursuant to Article 9. They shall notify the President of any changes that have an influence on their declaration within 30 days of each change occurring.
 
-The declaration of financial interests shall contain the following information, which shall be provided in a precise manner: the Member’s occupation(s) during the three-year period before he or she took up office with the Parliament, and his or her membership during that period of any boards or committees of companies, non- governmental organisations, associations or other bodies established in law, any salary which the Member receives for the exercise of a mandate in another parliament, any regular remunerated activity which the Member undertakes alongside the exercise of his or her office, whether as an employee or as a self-employed person, membership of any boards or committees of any companies, non- governmental organisations, associations or other bodies established in law, or any other relevant outside activity that the Member undertakes, whether the membership or activity in question is remunerated or unremunerated, any occasional remunerated outside activity (including writing, lecturing or the provision of expert advice), if the total remuneration exceeds EUR 5 000 in a calendar year, any holding in any company or partnership, where there are potential public policy implications or where that holding gives the Member significant influence over the affairs of the body in question, any support, whether financial or in terms of staff or material, additional to that provided by Parliament and granted to the Member in connection with his or her political activities by third parties, whose identity shall be disclosed, any other financial interests which might influence the performance of the Member’s duties.
+The declaration of financial interests shall contain the following information, which shall be provided in a precise manner: the Member's occupation(s) during the three-year period before he or she took up office with the Parliament, and his or her membership during that period of any boards or committees of companies, non- governmental organisations, associations or other bodies established in law, any salary which the Member receives for the exercise of a mandate in another parliament, any regular remunerated activity which the Member undertakes alongside the exercise of his or her office, whether as an employee or as a self-employed person, membership of any boards or committees of any companies, non- governmental organisations, associations or other bodies established in law, or any other relevant outside activity that the Member undertakes, whether the membership or activity in question is remunerated or unremunerated, any occasional remunerated outside activity (including writing, lecturing or the provision of expert advice), if the total remuneration exceeds EUR 5 000 in a calendar year, any holding in any company or partnership, where there are potential public policy implications or where that holding gives the Member significant influence over the affairs of the body in question, any support, whether financial or in terms of staff or material, additional to that provided by Parliament and granted to the Member in connection with his or her political activities by third parties, whose identity shall be disclosed, any other financial interests which might influence the performance of the Member's duties.
 
 Any regular income Members receive in respect of each item declared in accordance with the first subparagraph shall be placed in one of the following categories: EUR 500 to EUR 1 000 a month; EUR 1 001 to EUR 5 000 a month; EUR 5 001 to EUR 10 000 a month; more than EUR 10 000 a month.
 
 Any other income Members receive in respect of each item declared in accordance with the first subparagraph shall be calculated on an annual basis, divided by twelve and placed in one of the categories set out in the second subparagraph.
 
-The information provided to the President in line with this Article shall be published on Parliament’s website in an easily accessible manner.
+The information provided to the President in line with this Article shall be published on Parliament's website in an easily accessible manner.
 
 Members may not be elected as office-holders of Parliament or of one of its bodies, be appointed as a rapporteur or participate in an official delegation, if they have not submitted their declaration of financial interests.
 
@@ -72,9 +72,9 @@ Article 7
 Advisory Committee on the Conduct of Members
 
 
-An Advisory Committee on the Conduct of Members (‘the Advisory Committee’) is hereby established.
+An Advisory Committee on the Conduct of Members ('the Advisory Committee') is hereby established.
 
-The Advisory Committee shall be composed of five members, appointed by the President at the beginning of his or her term of office from amongst the members of the bureaux and the coordinators of the Committee on Constitutional Affairs and the Committee on Legal Affairs, taking due account of the Members’ experience and of political balance.
+The Advisory Committee shall be composed of five members, appointed by the President at the beginning of his or her term of office from amongst the members of the bureaux and the coordinators of the Committee on Constitutional Affairs and the Committee on Legal Affairs, taking due account of the Members' experience and of political balance.
 
 Each member of the Advisory Committee shall serve as chair for six months on a rotating basis.
 
@@ -106,7 +106,7 @@ The penalty may consist of one or more of the measures listed in Rule 153(3) of 
 
 The internal appeal procedures defined in Rule 154 of the Rules of Procedure shall be open to the Member concerned.
 
-After the expiry of the time-limits laid down in Rule 154 of the Rules of the Procedure, any penalty imposed on a Member shall be announced by the President in plenary and prominently published on Parliament’s website for the remainder of the parliamentary term.
+After the expiry of the time-limits laid down in Rule 154 of the Rules of the Procedure, any penalty imposed on a Member shall be announced by the President in plenary and prominently published on Parliament's website for the remainder of the parliamentary term.
 
 Article 9
 

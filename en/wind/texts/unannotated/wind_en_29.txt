@@ -2,7 +2,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 
@@ -22,7 +22,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 turbines technology is a fairly recent invention. The first simple windmills were used in Persia as early as the 7 century for irrigation purposes and for milling grains. The aerodynamic research for wind turbines has contributed significantly to the success of modern way of harnessing wind energy. For most unsolved problems engineering rules have been developed and verified. All of these rules have limited applicability, and the need to replace these rules by physical understanding and modeling is increasing. Simplified analyses of horizontal-axis wind turbine flows aimed at overall aerodynamic performance prediction developed for modern rotor theories are available in literature. There have, however, been few thorough tests of the adequacy of such analyses by direct comparison with actual measurements over a wide range of configurations and conditions. The conversion of wind energy to useful energy involves two processes: the primary process of extracting kinetic energy at the rotor axis, and the secondary process of the conversion of such mechanical energy into useful electrical energy depicted in Figure 1.
@@ -85,7 +85,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 
@@ -120,7 +120,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 wind turbines rely solely on the torque produced by the wind acting on the blades. Furthermore, small wind turbines are often located where the generated power is required, which is not necessarily where the wind resource is best. In low or unsteady wind conditions slow starting potentially reduces the total energy generated. Also, a stationary wind turbine fuels the perception of wind energy as an unreliable energy source. The main technical challenge in the design of a small wind turbine is to come up with a system configuration and control algorithm that maximizes wind energy production from the turbine and also provide favourable charging conditions for batteries. This task is complex because of the variability of the wind, which results in varying wind turbine power output. Ideally, the system configuration and its control should optimize the match between the wind turbine rotor and load, thereby allowing the maximum available power from the wind to be used, while at the same time charging the batteries with an optimum charge profile (Corbus et al., 1999). The generators of small turbines often cause a significant resistive torque that must be overcome aerodynamically before the blades will start turning. Furthermore, pitch control is rarely used on small wind turbine because of cost. Thus, it is not possible to adjust the turbine blade's angle of attack to the prevailing wind conditions. This problem is particularly acute during starting. A further major difference is that small turbines usually operate with varying shaft speed in an attempt to maintain maximum performance as the wind speed varies. Many large turbines run at constant speed as this allows the generator to maintain synchronicity with the utility grid. 2.1 Wind Turbine Blades
@@ -138,7 +138,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 aerodynamic performance include blade pitch (angle of attack), taper, and twist distribution. For a given blade, its geometric shape is usually fixed, i.e. the aerodynamic shape, taper and twist distribution do not change. The torque produced by the rotor can be controlled in two ways: changing the geometry by varying the blade pitch angle, or by changing the rotor's rotational speed so that the rotor operates at the optimal blade tip speed ratio. In the beginning most wind turbine blades were adaptations of airfoil developed for aircraft and were optimized for wind turbine uses. In recent years development of improved airfoil sections for wind turbines has been on going. The prevailing tendency is to use NACA 63 (National Advisory Council on Aeronautics) and NREL S809 (National Renewable Energy Laboratory) (Ajao, 2008) airfoil cross-section that may have modifications in order to improve performance for special applications and wind conditions. 3. Aerodynamic theory of wind turbines Accurate models of the aerodynamic aspects of wind turbines are essential to successfully design and analyze wind energy systems. Wind turbine aerodynamic models are used to relate wind inflow 2.2 The Gearbox conditions to loads applied to the turbine (Jonkman, 2003). The true fluid flow passing around and through a wind turbine is governed by the Navier-Stokes equations. Unfortunately, these equations are so complex that analytical solutions have been found for only a few simple cases. The subsequent analysis develops the most common aerodynamic theory employed in the wind turbine design and analysis environment, the blade element and momentum theory (BEM). To aid the understanding of combined blade element and 2.3 Turbine generator momentum theory it is useful initially to consider the rotor as an actuator disc. Although this model is very The generator used in geared wind turbines are more or less standard off-the-shelf electrical machines, so The gearbox is required to speed up the slow rotational speed of the low speed shaft before connection to the generator. The speed of the blade is limited by efficiency and also by limitations in the mechanical properties of the turbine and supporting structure. The gearbox ratio depends on the number of poles and the type of generator. A direct driven generator 50Hz. (without gearbox) would require a generator with 600 poles to generate electricity at that major development steps were not necessary. There are different types of generators depending on their configuration and areas of application. The wind turbine generator converts mechanical energy to electrical energy. The efficiency of an electrical generator usually falls off rapidly below its rated output. The phenomenon of inducing a current by changing the magnetic field in a coil of wire is known as electromagnetic induction which underpins the design of most electric generators (Cotrell, 2002). With the important exception of electrostatic generators such as the Van de Graf machine, all important schemes for converting mechanical motion into electrical energy depends on Faraday's Law of electromagnetic induction .
@@ -150,7 +150,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 simple, it does provide valuable insight into the aerodynamics of the rotor (Bossanyi, 2001).
@@ -184,28 +184,28 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 
-T = ρA0V02 − ρA3V32
+T = ρA0V02 - ρA3V32
 Substituting equation (3.1) into equation (3.2) gives
 
 (6)
 
-V = V0 (1 − a )
+V = V0 (1 - a )
 Using equation (3.8)
 
 (14)
 (15)
 
-T = ρAV (V0 − V3 )
+T = ρAV (V0 - V3 )
 
 (7 )
 
-V3 = V0 (1 − 2a )
+V3 = V0 (1 - 2a )
 
-The velocity lost at the rotor plane, V0 − V is known as the induced velocity.
+The velocity lost at the rotor plane, V0 - V is known as the induced velocity.
 
 ρ is the density of the air. The thrust at the rotor
 disc T is also the differential pressure between station 1 and 2 multiplied by the disc area.
@@ -215,7 +215,7 @@ rotor has completely stopped and the simple theory is no longer applicable. By s
 
 As
 
-T = (P1 − P2 )A
+T = (P1 - P2 )A
 
 (8)
 
@@ -231,7 +231,7 @@ and,
 
 T=
 
-1 ρAV02 4a (1 − a ) 2
+1 ρAV02 4a (1 - a ) 2
 
 (16)
 
@@ -247,14 +247,14 @@ P1 and P2 can be eliminated from
 
 P=
 
-1 ρAV03 4a(1 − a )2 2
+1 ρAV03 4a(1 - a )2 2
 non-dimensional power
 
 (17 )
 coefficient C p
 
 equation (3.4) with the help of equations (3.5) and (3.6) to obtain,
-T = 1 ρA V 0 2 − V3 2 2
+T = 1 ρA V 0 2 - V3 2 2
 
 The
 
@@ -283,7 +283,7 @@ Substituting equation (3.13) into equation (3.14) yields;
 
 An axial induction (sometimes called interference)
 
-C P = 4a(1 − a )
+C P = 4a(1 - a )
 
 2
 
@@ -295,14 +295,14 @@ The dimensionless thrust coefficient CT is therefore given as,
 
 velocity between the freestream (upwind) and the rotor plane:
 
-V −V a= 0 V0
+V -V a= 0 V0
 or,
 
 (13)
 
 CT =
 
-T = 4a (1 − a ) 1 2 ρAV0 2
+T = 4a (1 - a ) 1 2 ρAV0 2
 
 (20)
 
@@ -313,7 +313,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 The maximum power coefficient C p occurs when the rated wind speed of 10 m/s and operating time
@@ -361,7 +361,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 5. The Test Turbine
@@ -385,7 +385,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 (1.225 kg/m3). Normalization to sea level air density is done by multiplying measured power by the ratio of sea level air density to site average air density. Measured wind speed is also binned and normalized. The IEC standard requires at least three one-minute points per bin. This condition was met except for normalized wind speed of 18 m/s, 19 m/s and 20 m/s.
@@ -415,7 +415,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 8.
@@ -440,7 +440,7 @@ Marsland Press  
 
  
 
-Journal of American Science 2009;5(4):79‐90 
+Journal of American Science 2009;5(4):79-90 
 
  
 Chamlers University of Technology, Finland March, pp. 1-12. 9. Golding E.W (1976). The generation of electricity by wind power. E&F.N SPON Ltd, London 10. Jonkman J.M (2003). AD. Modelling of the National Golden 12. UAE wind turbine for refinement of FASTNREL/TP-500-34755, Energy Laboratory, Renewable 11. Lasode O.A (2004). An Improved Solar Cabinet Dryer with Convective heat Transfer. Journal of Applied pp.32-39 www.wind.newcastle.edu.au/notes.html. Introduction to Wind Turbine Technology, Accessed on 12th February, 2007 Science,

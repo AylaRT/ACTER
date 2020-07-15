@@ -731,7 +731,7 @@ rapport à la tension d'un angle φ à cause de la charge :
 i(t) = I × sin(2p f t -j ) m (4.17)
 Le transistor supérieur du bras considéré est conducteur périodiquement (à la fréquence
 de découpage) avec un rapport cyclique D variable, uniquement lorsque le courant i est
-positif, c'est-à-dire pour 2π·f·t compris entre φ et φ + π. La diode inférieure du même
+positif, c'est-à-dire pour 2π·f·t compris entre φ et φ + π. La diode inférieure du même
 bras est conductrice avec un rapport cyclique 1 - D, uniquement lorsque le courant i est
 négatif. Par intégration entre les bornes φ et φ + π pour le transistor supérieur, entre les
 bornes φ + π et φ + 2π pour la diode inférieure, il est possible de déterminer les
@@ -1839,7 +1839,7 @@ Tension nominale 150 V
 Courant moyen 60 A
 Tension seuil 0 V
 Résistance de conduction 0.04 W
-trN,, tfN 40 ns, 40 ns
+trN" tfN 40 ns, 40 ns
 trrN, QrrN 150 ns, 2.0 YC
 Diode de Recouvrement Rapide des
 Convertisseurs MLI

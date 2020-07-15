@@ -88,7 +88,6 @@ b+1 winstpunt	Specific_Term
 b-dressuur	Specific_Term
 b-pony	Specific_Term
 b-pony's	Specific_Term
-b-pony’s	Specific_Term
 b-proef	Specific_Term
 b-proeven	Specific_Term
 bakstukken	Specific_Term
@@ -232,7 +231,7 @@ capriole	Specific_Term
 carrouselrijden	Specific_Term
 carré	Specific_Term
 cavalerie	Common_Term
-cavaletti’s	Specific_Term
+cavaletti's	Specific_Term
 changement	Specific_Term
 changementen	Specific_Term
 changeren	Specific_Term
@@ -545,12 +544,12 @@ juiste galop	Specific_Term
 jumping	Common_Term
 jurering	Common_Term
 jury	Common_Term
+jury's	Common_Term
 jurybeoordeling	Common_Term
 juryleden	Common_Term
 jurylid	Common_Term
 jurysport	Common_Term
 jurytafels	Common_Term
-jury’s	Common_Term
 k	Specific_Term
 kaak	Common_Term
 kaakgewricht	Common_Term
@@ -874,7 +873,6 @@ pony's	Common_Term
 ponycategorieën	Specific_Term
 ponyproeven	Specific_Term
 ponyteams	Specific_Term
-pony’s	Common_Term
 por	OOD_Term
 prix saint georges	Specific_Term
 proef	Specific_Term
@@ -1096,7 +1094,7 @@ steigert	Common_Term
 stelling	Specific_Term
 stelt	Specific_Term
 stemcommando	Specific_Term
-stemcommando’s	Specific_Term
+stemcommando's	Specific_Term
 stemhulp	Specific_Term
 stemhulpen	Specific_Term
 stijgbeugel	Specific_Term

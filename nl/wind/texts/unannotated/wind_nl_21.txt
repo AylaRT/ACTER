@@ -1,4 +1,4 @@
-Bij hogere golffrequentie blijkt dat de ‘onderwaterinvloed’ zich het sterkst doet gelden. Het stochastische karakter van golven wordt beschreven door het hiervoor vaak gebruikte Pierson-Moskowitz golfspectrum voor golfelevatie. In dit (enkelzijdige) spectrum is de (gemiddelde) windsnelheidsafhankelijkheid opgenomen, die bovendien een vaste relatie blijkt te hebben met de significante golfhoogte via de gravitatieconstante.
+Bij hogere golffrequentie blijkt dat de 'onderwaterinvloed' zich het sterkst doet gelden. Het stochastische karakter van golven wordt beschreven door het hiervoor vaak gebruikte Pierson-Moskowitz golfspectrum voor golfelevatie. In dit (enkelzijdige) spectrum is de (gemiddelde) windsnelheidsafhankelijkheid opgenomen, die bovendien een vaste relatie blijkt te hebben met de significante golfhoogte via de gravitatieconstante.
 Een tijdrealisatie van het spectrum voor golfelevatie resulteert in een reeks van reële harmonische elevatiecomponenten met random fasehoeken vanwege het stochastische karakter. Voor de elevatie afhankelijke uitdrukkingen van waterversnelling en watersnelheid uit de lineaire golftheorie kunnen nu reële harmonische reeksen (tijdrealisaties) worden afgeleid en de daarbij behorende spectrale beschrijvingen. Het spectrum voor watersnelheid en -versnelling worden dan uiteindelijk beschreven volgens onderstaande uitdrukkingen die in Figuur 5-5 worden getoond: (5.1). 
 
 Figuur 5-5: enkelzijdig spectrum voor de amplitude van de horizontale golfsnelheid bij Pierson-Moskowitz golfspectrum voor windsnelheden van 12m/s (golfhoogte 3.1m) en 16m/s (gestippeld, golfhoogte 5.4m) bij verschillende afstanden tot het wateroppervlak (1,3,5,7 en 9m) en een totale waterdiepte van 20m.
@@ -8,9 +8,9 @@ De hierboven spectraal beschreven golven zullen de turbinetoren treffen (diffrac
 Voor de, met de met massakrachten samenhangende, golfversnelling treedt er echter door de aanwezigheid van de toren golfverstoring op. De mate van verstoring wordt met name bepaald door de verhouding tussen torendiameter en golflengte en hangt dus via de dispersierelatie ook samen met de golffrequentie.
 De diffractie effecten in de spectrale beschrijving van golfversnelling kunnen met een frequentieafhankelijke massacoëfficiënt in rekening worden gebracht: (5.2).
 
-Voor deze correctie wordt de relatie van MacCamy en Fuchs gebruikt. Deze niet lineaire relatie geeft voor golven die groter zijn dan tien keer de torendiameter een massacoëfficiënt ter grootte van ongeveer twee. De massacoëfficiënt neemt af tot circa 0.4 bij golflengtes ter grootte van de torendiameter. Het voor diffractie gecorrigeerde spectrum voor waterversnelling wordt de krachteffectieve golfversnelling genoemd. De krachteffectieve golfversnelling wordt samen met de ‘ongestoorde’ golfversnelling weergegeven in Figuur 5-6.
+Voor deze correctie wordt de relatie van MacCamy en Fuchs gebruikt. Deze niet lineaire relatie geeft voor golven die groter zijn dan tien keer de torendiameter een massacoëfficiënt ter grootte van ongeveer twee. De massacoëfficiënt neemt af tot circa 0.4 bij golflengtes ter grootte van de torendiameter. Het voor diffractie gecorrigeerde spectrum voor waterversnelling wordt de krachteffectieve golfversnelling genoemd. De krachteffectieve golfversnelling wordt samen met de 'ongestoorde' golfversnelling weergegeven in Figuur 5-6.
 
-Figuur 5-6: enkelzijdig spectrum voor de amplitude van ‘ongestoorde’ en krachteffectieve horizontale golfversnelling voor een windsnelheid van 12m/s (golfhoogte 3.1m) bij verschillende afstanden tot het wateroppervlak (1,3,5,7 en 9m) en een totale waterdiepte van 20m.
+Figuur 5-6: enkelzijdig spectrum voor de amplitude van 'ongestoorde' en krachteffectieve horizontale golfversnelling voor een windsnelheid van 12m/s (golfhoogte 3.1m) bij verschillende afstanden tot het wateroppervlak (1,3,5,7 en 9m) en een totale waterdiepte van 20m.
 
 Vanuit het golfsnelheidsspectrum en krachteffectieve golfversnellingsspectrum worden de tijdrealisaties voor 12 m/s windsnelheid voor vijf afstanden tot aan het wateroppervlak in Figuur 5-7 weergegeven.
 
@@ -31,7 +31,7 @@ Voor grond worden voor processimulatie de volgende constante eigenschappen onder
 fenomenen
 Bij processimulatie van grond worden alleen die dynamische verschijnselen betrokken die van invloed zijn op het bewegen van de toren. Het enige fenomeen dat dan een rol speelt betreft de inklemming van de toren in zowel voor-/achterwaartse als zijwaartse richting.
 Een eenvoudig benadering om deze dynamica te verdisconteren is het toevoegen van een lengtedeel ter grootte van een torendiameter.
-Een nauwkeurigere benadering kan in combinatie met een ‘lumped parameter torenmodel’ worden bereikt. De inklemming van de toren wordt dan voorgesteld door een of meerdere extra puntmassa’s, die met elkaar verbonden zijn door representatieve (fundatie)veren en (fundatie)dempers.
+Een nauwkeurigere benadering kan in combinatie met een 'lumped parameter torenmodel' worden bereikt. De inklemming van de toren wordt dan voorgesteld door een of meerdere extra puntmassa's, die met elkaar verbonden zijn door representatieve (fundatie)veren en (fundatie)dempers.
 
 events
 Voor grond wordt er geen discreet gedrag voorzien. Het optreden van aardbevingen of aardtrillingen wordt vooralsnog niet opgenomen.
@@ -40,7 +40,7 @@ externe interacties: Toren- en fundatiesysteem.
 
 Elektriciteitsnet
 
-Het elektriciteitsnet ‘als medium’ betreft de elektrische interactie die door het net heeft op de windturbine. Voor het continue en discrete gedrag van het elektriciteitsnet zullen aankomende (IEC) neteisen of netcodes worden meegenomen om het besturingssysteem ook ten aanzien hiervan te kunnen testen.
+Het elektriciteitsnet 'als medium' betreft de elektrische interactie die door het net heeft op de windturbine. Voor het continue en discrete gedrag van het elektriciteitsnet zullen aankomende (IEC) neteisen of netcodes worden meegenomen om het besturingssysteem ook ten aanzien hiervan te kunnen testen.
 
 samenstelling
 Voor het elektriciteitsnet worden voor processimulatie de volgende constante eigenschappen onderscheiden: netfrequentie en variatie hierop; netspanning en variatie hierop; voorkomende netspanningsdip; complexe net-impedantie (kabel, transformator); afschakeltijd en –stroom onderstationschakelaar.
@@ -75,7 +75,7 @@ Bladverstelling;
 elektrische onafhankelijkebladverstelling naar vaanstand;
 hydraulische mechanisch gekoppeldebladverstelling naar overtrek;
 
-De gevolgde werkwijze, in overeenstemming met Volume I: Probleemanalyse,, blijkt, na deze twee verschillende systeemanalyses te hebben uitgevoerd, geschikt te zijn om op gestructureerde wijze de voor processimulatie benodigde aspecten ten behoeve van systeem- en componentmodellering te onderscheiden en te beschrijven.
+De gevolgde werkwijze, in overeenstemming met Volume I: Probleemanalyse" blijkt, na deze twee verschillende systeemanalyses te hebben uitgevoerd, geschikt te zijn om op gestructureerde wijze de voor processimulatie benodigde aspecten ten behoeve van systeem- en componentmodellering te onderscheiden en te beschrijven.
 
 De resultaten uit fase I (probleemanalyse, inventarisatie[A4] en in dit rapport gepresenteerde definitie) bieden een goede basis om de modellerings- en implementatietaak in fase II aan te vangen. Een nauwe samenwerking met windturbinefabrikanten is tijdens uitvoering van fase I noodzakelijk gebleken om inzage te krijgen in de veelal vertrouwelijke turbinegegevens.
 
@@ -177,7 +177,7 @@ In het krui- en retwistsysteem wordt voor processimulatie het volgende discrete 
 
 hardware in the loop
 Het hardwarematig opnemen van één of meerdere krui-aandrijvingen, inclusief hoofdstroom, schakel en beveiligingsinrichting is mogelijk. Voor een realistische simulatie vereist dit extra hardware in de vorm van het aanbrengen van een belasting op de krui-units. Het mechanisch koppelen van de kruimotoren is mogelijk door de assen onderling te koppelen (twee aseinden). De thermische beveiligingen kunnen nu rechtstreeks van de motoren naar de PLC.
-Voor de twistmeting is er als ‘hardware in the loop’ ook een mogelijkheid. Als dit in combinatie is met een kruimotoren, dan moet worden voorzien in een extra benodigde overbrenging van kruimotortoerental naar twistsensor-rotatie (hulpactuator). Zonder kruimotor dient de simulator een representatief toerental uit te geven t.b.v. een extra benodigde twistsensoraandrijving (bijvoorbeeld een dc-motortje als hulpactuator). De laatste optie beschikt over weinig toegevoegde waarde.
+Voor de twistmeting is er als 'hardware in the loop' ook een mogelijkheid. Als dit in combinatie is met een kruimotoren, dan moet worden voorzien in een extra benodigde overbrenging van kruimotortoerental naar twistsensor-rotatie (hulpactuator). Zonder kruimotor dient de simulator een representatief toerental uit te geven t.b.v. een extra benodigde twistsensoraandrijving (bijvoorbeeld een dc-motortje als hulpactuator). De laatste optie beschikt over weinig toegevoegde waarde.
 
 Bedienings- en beveiligingsysteem
 
@@ -218,7 +218,7 @@ events
 In het bedienings- en beveiligingssysteem wordt voor processimulatie het volgende discrete gedrag onderscheiden: falen van het bladverstelsysteem bij noodverstelling (4.2.3); falen mechanische rem bij noodremactie(4.2.4); onderbreking van voedingveiligheidscircuit door noodstopbediening; voedingsvoorwaarde (aanwezigheid voedingsspanning); veiligheidscircuit gesloten (turbine operationeel onder beheer PLC); veiligheidscircuit onderbroken door PLC (turbine blijft onder beheer PLC).
 
 hardware in the loop
-Het bedienings- en beveiligingssysteem biedt geen perspectieven voor ‘hardware in the loop’.
+Het bedienings- en beveiligingssysteem biedt geen perspectieven voor 'hardware in the loop'.
 
 Voedingssysteem
 
@@ -259,7 +259,7 @@ events
 In het voedingssysteem wordt voor processimulatie het volgende discrete gedrag onderscheiden: aanspreken van iedere willekeurige beveiligingsschakelaar (effectuering via voedingsvoorwaarde); uitvallen van één, twee willekeurige voedingsfase(n); uitvallen van een driefasenvoeding (hoofdschakelaar, breuk, sleepring); het wegvallen (veiligheid, gelijkrichter) van een stuurstroomspanning (24Vdc circuit); uitval van een transformator.
 
 hardware in the loop
-Het voedingssysteem is niet relevant voor opname als ‘hardware in the loop’.
+Het voedingssysteem is niet relevant voor opname als 'hardware in the loop'.
 
 MEDIA-ANALYSE
 
@@ -308,7 +308,7 @@ Een windsnelheidsmeting meet windsnelheid in een vast punt, bijvoorbeeld op de g
 
 Figuur 5-4: windsnelheidsrealisaties in een vaste positie met daaronder twee realisaties waaruit duidelijk de middelende invloed van de rotor blijkt.
 
-Een realistischere benadering voor een positie op de gondel achter de rotor is het wellicht nodig om voor dit windpunt-signaal uit te gaan van een nog hogere turbulentie-intensiteit en een ‘filtering’ om tegemoet te komen aan de effecten van het rotorzog (periodieke bladpassage).
+Een realistischere benadering voor een positie op de gondel achter de rotor is het wellicht nodig om voor dit windpunt-signaal uit te gaan van een nog hogere turbulentie-intensiteit en een 'filtering' om tegemoet te komen aan de effecten van het rotorzog (periodieke bladpassage).
 
 events
 In de veiligheidsstandaard IEC61400-1 [A3] worden een aantal windsnelheidssignalen gedefinieerd die voor processimulatie waardevolle gebeurtenissen zijn om mee te simuleren: extreme wind speed model (EWM), de 1-jaars en 50-jaars extreme windvlaag; extreme operating gust (EOG), de zogenaamde 'mexicaanse hoed'; extreme coherent gust (ECG), de toenemende extreme windvaalg;
@@ -350,7 +350,7 @@ fenomenen
 Voor processimulatie zijn horizontale golfbewegingen relevant voor verschillende waterdieptes en windsnelheden. Hierbij wordt uitgegaan van zogenaamde lage golven, de golfhoogte hiervan is relatief klein is ten opzichte van de golflengte en waterdiepte.
 
 Horizontale golfsnelheid en -versnelling:
-In geval van lage golven is de lineaire golftheorie van toepassing (Airy’s theorie). Hierin worden twee belangrijke uitgangspunten beschreven: in deze theorie zijn de waterversnelling en watersnelheid op willekeurige afstanden tot het wateroppervlak volledig bepaald door de oppervlaktegolving (waterverheffing, elevatie) onder een schalingsfactor welke afhangt van die afstand tot het wateroppervlak en de golflengte en –frequentie; de zogeheten dispersierelatie, die het eenduidige verband tussen golflengte, waterdiept e en golffrequentie vastlegt.
+In geval van lage golven is de lineaire golftheorie van toepassing (Airy's theorie). Hierin worden twee belangrijke uitgangspunten beschreven: in deze theorie zijn de waterversnelling en watersnelheid op willekeurige afstanden tot het wateroppervlak volledig bepaald door de oppervlaktegolving (waterverheffing, elevatie) onder een schalingsfactor welke afhangt van die afstand tot het wateroppervlak en de golflengte en –frequentie; de zogeheten dispersierelatie, die het eenduidige verband tussen golflengte, waterdiept e en golffrequentie vastlegt.
 
 fenomenen
 In het toren- en fundatiesysteem wordt voor processimulatie het volgende continue gedrag onderscheiden: Eerste buigmode torendynamica: De eerste zijwaartse en voor-/achterwaartse buigmode van de toren kunnen als een massa-veer-equivalent axi-symmetrisch worden gemodelleerd. De belastingsinvloeden worden dan vertaald naar zogenaamde torentop equivalente krachten.
@@ -405,7 +405,7 @@ Het hardwarematig opnemen van een of meerdere kruimotoren inclusief de hoofdstro
 
 De simulator moet dan per kruimotor wel voorzien in een aan de scheefstand gerelateerd belastingskoppel (inclusief lager en remfrictie) dat middels een extra benodigde mechanische rem op de motoras (hulpactuatoren) wordt geëffectueerd.
 
-Ook voor de twistmeting is er als ‘hardware in the loop’ een goede mogelijkheid. Als dit in combinatie is met een kruimotor, dan moet worden voorzien in een extra benodigde overbrenging van kruimotortoerental naar twistsensor-rotatie (hulpactuator). Zonder kruimotor dient de simulator een representatief toerental uit te geven t.b.v. een extra benodigde twistsensoraandrijving (bijvoorbeeld een dc-motortje als hulpactuator).
+Ook voor de twistmeting is er als 'hardware in the loop' een goede mogelijkheid. Als dit in combinatie is met een kruimotor, dan moet worden voorzien in een extra benodigde overbrenging van kruimotortoerental naar twistsensor-rotatie (hulpactuator). Zonder kruimotor dient de simulator een representatief toerental uit te geven t.b.v. een extra benodigde twistsensoraandrijving (bijvoorbeeld een dc-motortje als hulpactuator).
 
 Beveiligingssysteem
 
@@ -433,9 +433,9 @@ Het opnemen van het emergency circuit als 'hardware in the loop' is vanwege het 
 Om de noodverstelling toe te voegen als 'hardware in the loop' zijn de volgende uitbreidingen nodig: toepassing van de emergency functionaliteit; accucellen (eventueel hulpvoedingen); omschakelaar die de verstelmotor aan de accu koppelt of aan de servoregelaar.
 
 De watchdog vanaf de R-PLC zal het emergency circuit direct activeren bij een gesimuleerde ETS. De accu kan eventueel door de acculader (bij)geladen worden, er is dan wel een extra hulpvoeding nodig, maar het acculadercircuit wordt dan ook meteen getest.
-Als tevens de blad-eindstandschakelaars (werkelijke of kleinere) worden opgenomen, ontstaat er een ‘hardware in the loop’ configuratie dat een aanzienlijke toegevoegde waarde heeft om vooraf: het bladverstelalgoritme tijdens normaal bedrijf te testen (toerenregelen, NTS); de noodverstelling te testen (periodiek test, ETS); de accuspannings-test uit te voeren (bladverstelsnelheid, accuspanning); de bladhoekmetingen te testen (afwijking bij vaanstand);
+Als tevens de blad-eindstandschakelaars (werkelijke of kleinere) worden opgenomen, ontstaat er een 'hardware in the loop' configuratie dat een aanzienlijke toegevoegde waarde heeft om vooraf: het bladverstelalgoritme tijdens normaal bedrijf te testen (toerenregelen, NTS); de noodverstelling te testen (periodiek test, ETS); de accuspannings-test uit te voeren (bladverstelsnelheid, accuspanning); de bladhoekmetingen te testen (afwijking bij vaanstand);
 
-Het toevoegen van de overspeedschakelaars als ‘hardware in the loop’ voegt weinig toe (eenvoudig te creëren door dit fail-safe circuit te onderbreken).
+Het toevoegen van de overspeedschakelaars als 'hardware in the loop' voegt weinig toe (eenvoudig te creëren door dit fail-safe circuit te onderbreken).
 
 Voedingssysteem
 
@@ -688,7 +688,7 @@ events
 In het transmissiesysteem wordt voor processimulatie het volgende discrete gedrag onderscheiden: voedingsvoorwaarde (metingen, koelcircuit, verwarmingscircuit, oliepomp); temperatuur smeerolie te hoog/laag; temperatuur lager te hoog; gemeten temperatuur lager/smeerolie is afwijkend/te hoog/niet aanwezig; druk smeeroliesysteem te laag; vervuiling oliefilter, drukverschil over oliefilter te hoog; ontbreken oliestroom (pomp faalt, afsluiter gesloten); koeling bij hoog/laag toerental bedrijf.
 
 hardware in the loop
-Gezien de gering toegevoegde waarde en de enorme complexiteit, biedt dit systeem geen mogelijkheden voor ‘hardware in the loop’.
+Gezien de gering toegevoegde waarde en de enorme complexiteit, biedt dit systeem geen mogelijkheden voor 'hardware in the loop'.
 Toren- en fundatiesysteem
 
 componenten
@@ -1192,7 +1192,7 @@ INLEIDING
 
 Windturbinefabrikanten onderkennen steeds meer het belang van een goede processimulator voor het veilig en betrouwbaar testen van turbinebesturingssystemen. Met name in het geval dat windturbines geplaatst gaan worden op moeilijk bereikbare locaties zoals offshore. Cruciaal hierbij is dat een simulator juist de storings- en uitzonderingstoestanden in componenten, systemen en omgevingscondities moet kunnen omvatten, en met name ook de samenhang in de tijd tussen verschillende van deze toestanden.
 
-Om deze redenen is bij ECN het processimulatie-gereedschap WINDCONTEST in ontwikkeling, waarmee een specifieke turbine-outline snel kan worden vertaald naar een operationele real-time processimulator, met inbegrip van mogelijke fout en uitzonderingscondities. Het in het gesimuleerde proces opnemen van fysieke ‘hardware in the loop’ apparatuur zal hierbij tot de mogelijkheden behoren.
+Om deze redenen is bij ECN het processimulatie-gereedschap WINDCONTEST in ontwikkeling, waarmee een specifieke turbine-outline snel kan worden vertaald naar een operationele real-time processimulator, met inbegrip van mogelijke fout en uitzonderingscondities. Het in het gesimuleerde proces opnemen van fysieke 'hardware in the loop' apparatuur zal hierbij tot de mogelijkheden behoren.
 
 Projectfase I is afgerond door het uitvoeren van systeemanalyses voor twee verschillende windturbines en vormt het uitgangspunt voor de op modellering en implementatie gerichte projectfase II. De systeemanalyses zijn uitgevoerd voor twee bestaande maar conceptueel verschillende windturbines: LW50-750/B2a van Lagerwey the Windmaster (variabel toerental, elektrische bladverstelling naar vaanstand) en de NW62/3/1000 van NEWINCO (constant toerental, hydraulische bladverstelling naar overtrek).
 

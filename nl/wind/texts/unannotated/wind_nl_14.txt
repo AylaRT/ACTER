@@ -9,7 +9,7 @@ Een Ferrari met een massa van 1200 kg rijdt met een snelheid van 170 km/h over d
 Reken de snelheid om van kilometer per uur naar meter per seconde.
 Bereken de energie van de Ferrari in joule [J].
 Bereken de energie van de Ferrari in megajoule [MJ]. Opdracht 6
-De trein van ‘s-Hertogenbosch naar Boxtel rijdt met een snelheid van 25 meter per seconde. De massa van de trein is 44,8 ton.
+De trein van 's-Hertogenbosch naar Boxtel rijdt met een snelheid van 25 meter per seconde. De massa van de trein is 44,8 ton.
 Bereken hoe snel de trein rijdt in kilometer per uur [km/h].
 Reken de massa van de trein om in kilogram [kg].
 Bereken de energie van de trein in joule [J]
@@ -175,7 +175,7 @@ Opdracht 15
 
 Je gaat nu de windverdeling maken voor Boxtel. Omdat Boxtel niet voorkomt als meetstation, kijk je naar de windverdeling van omliggende meetstations. Gebruik hiervoor Eindhoven, Gilze-Rijen en Volkel.
 
-Ga naar de website met de meetgegevens van het KNMI (zie hiervoor de link vermeld bij figuur 10). Kies als station: Gilze-Rijen. Kies als verdeling ‘cumulatief absoluut’.
+Ga naar de website met de meetgegevens van het KNMI (zie hiervoor de link vermeld bij figuur 10). Kies als station: Gilze-Rijen. Kies als verdeling 'cumulatief absoluut'.
 Doe hetzelfde voor Eindhoven en Volkel. Opdracht 16
 Zoek op de website van het CBS hoeveel procent van de Nederlandse energie in 2010 werd opgewekt uit hernieuwbare energiebronnen.
 Geef de hernieuwbare energiemix van Nederland weer in een taartdiagram.
@@ -208,7 +208,7 @@ De eerste stap is het bepalen van de windsnelheden op jouw locatie. Dit doe je m
 
 Onderzoek welke meetstations er in de omgeving van jouw locatie liggen.
 Bekijk met behulp van de windroos uit welke richting de wind komt bij deze meetstations.
-Wijzig rechtsboven het verdelingstype in ‘Distributief Absoluut’ en bekijk deze gegevens voor de meetstations in de buurt van jouw locatie. Deze data geven aan hoeveel uren per jaar er welke windsnelheid uit welke windrichting is.
+Wijzig rechtsboven het verdelingstype in 'Distributief Absoluut' en bekijk deze gegevens voor de meetstations in de buurt van jouw locatie. Deze data geven aan hoeveel uren per jaar er welke windsnelheid uit welke windrichting is.
 Verwerk de informatie over de meetstations in Excel en maak hiermee een verwachting van
 de windsnelheden over het hele jaar voor je eigen locatie.
 
@@ -307,7 +307,7 @@ Inleiding
 
 Windenergie is een van de oudste vormen van duurzame energie. Lang geleden werden al molens gebruikt om energie op te wekken. De energie die een molen opwekte, werd direct gebruikt om bijvoorbeeld graan te malen of water op te pompen. In Nederland zijn nog steeds een aantal windmolens die op deze manier werken.
 
-Pas veel later zijn de elektrische windturbines ontwikkeld. De energie die hiermee werd opgewekt, kon als elektriciteit aan het net worden geleverd. De eerste werkzame windturbines werden begin negentiger jaren geplaatst in Nederland. Inmiddels staan er verspreid over Nederland zo’n 2000 windturbines op land en 96 windturbines in zee.
+Pas veel later zijn de elektrische windturbines ontwikkeld. De energie die hiermee werd opgewekt, kon als elektriciteit aan het net worden geleverd. De eerste werkzame windturbines werden begin negentiger jaren geplaatst in Nederland. Inmiddels staan er verspreid over Nederland zo'n 2000 windturbines op land en 96 windturbines in zee.
 
 In dit thema kom je meer te weten over de werking van windturbines. Vragen die aan de orde komen zijn: Uit welke onderdelen bestaat een windturbine? Welke soorten windturbines zijn er? Hoe bereken je het vermogen van een windturbine? Ook leer je wat je moet onderzoeken om te bepalen waar je een windturbine kunt plaatsen.
 
@@ -363,7 +363,7 @@ Wat is het grootste verschil tussen de klassieke windturbine en de direct drive 
 Urban Wind Turbine, UWT (horizontale as windturbine)
 
 
-Een steeds meer voorkomende vorm van windenergie is de Urban Wind Turbine. Dit zijn kleine windturbines die in een stedelijke omgeving geplaatst kunnen worden. Op het terrein van De Kleine Aarde in Boxtel zijn een aantal UWT’s geplaatst waarvan de gegevens beschikbaar zijn.
+Een steeds meer voorkomende vorm van windenergie is de Urban Wind Turbine. Dit zijn kleine windturbines die in een stedelijke omgeving geplaatst kunnen worden. Op het terrein van De Kleine Aarde in Boxtel zijn een aantal UWT's geplaatst waarvan de gegevens beschikbaar zijn.
 Darrieus windturbine (verticale as windturbine)
 
 
@@ -398,7 +398,7 @@ Een turbineblad maakt gebruik van het lift principe, dit is gebaseerd op de wet 
 
 Figuur 7: Lucht stroming langs een turbine blad
 
-Moderne windturbines zijn in staat om de hoek van het blad te verstellen. Dit noem je de bladshoekverstelling, ook wel de “pitch” verstelling. Door de hoek van het blad te verstellen, wordt de wind zo optimaal mogelijk langs het blad geleid.
+Moderne windturbines zijn in staat om de hoek van het blad te verstellen. Dit noem je de bladshoekverstelling, ook wel de "pitch" verstelling. Door de hoek van het blad te verstellen, wordt de wind zo optimaal mogelijk langs het blad geleid.
 
 Opdracht 2
 

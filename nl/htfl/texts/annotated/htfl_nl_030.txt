@@ -6,7 +6,7 @@ Onderzoeksvraag
 Is warfarine een betere behandeling dan aspirine voor patiënten met chronisch systolisch hartfalen en een sinusritme?
 
 Hoe werd dit onderzocht?
-In de ‘Warfarin versus aspirin in reduced cardiac ejection fraction’(WARCEF)-studie randomiseerden de onderzoekers 2305 patiënten met chronisch systolisch hartfalen en een sinusritme tussen behandeling met aspirine 325 mg 1 dd of warfarine (INR-streefwaarde: 2,0-3,5). De primaire uitkomstmaat was de tijd tot het optreden van een ischemische beroerte, een hersenbloeding of vroegtijdig overlijden.
+In de 'Warfarin versus aspirin in reduced cardiac ejection fraction'(WARCEF)-studie randomiseerden de onderzoekers 2305 patiënten met chronisch systolisch hartfalen en een sinusritme tussen behandeling met aspirine 325 mg 1 dd of warfarine (INR-streefwaarde: 2,0-3,5). De primaire uitkomstmaat was de tijd tot het optreden van een ischemische beroerte, een hersenbloeding of vroegtijdig overlijden.
 
 Belangrijkste resultaten
 Na 6 jaar was het risico op een ischemische beroerte, een hersenbloeding of vroegtijdig overlijden 7% lager voor de patiënten die met warfarine waren behandeld, maar dit verschil was niet statistisch significant (p = 0,40). Patiënten in de coumarinegroep hadden wel een significant lager risico op een ischemische beroerte (afname van 48%), maar het risico op een ernstige bloeding was 2 keer zo groot.

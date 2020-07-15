@@ -7,7 +7,7 @@ blade, the force on the whole blade can be derived by adding the contributions o
 
 Figure 3.7 Schematic of blade elements
 
-A diagram showing the developed blade element at radius r and the velocities and forces acting on this element is given in Figure 3.8. The relative wind velocity U rel is the vector sum of the wind velocity at the rotor U ∞ (1 − a ) (the vector sum of the free-stream wind velocity, U ∞ and the induced axial velocity −aU ∞ ) and the wind velocity due to rotation of the blade. And this rotational component is the vector sum of the blade section velocity, Ω r and the induced angular velocity a′ Ω r . Hence the relative wind velocity will be as shown on the velocity diagram in Figure 3.8. The minus sign in the term U ∞ (1 − a) is due to the retardation of flow while the air approaching the rotor and the plus sign in the term Ωr (1 + a′ ) as shown in Figure 3.8 is due to the flow of air in the reverse direction of blade rotation after air particles hit the blades and so give torque. In the mean time let the existence of the axial and angular induction factors assumed, their evaluation will be given in the subsequent section. 45
+A diagram showing the developed blade element at radius r and the velocities and forces acting on this element is given in Figure 3.8. The relative wind velocity U rel is the vector sum of the wind velocity at the rotor U ∞ (1 - a ) (the vector sum of the free-stream wind velocity, U ∞ and the induced axial velocity -aU ∞ ) and the wind velocity due to rotation of the blade. And this rotational component is the vector sum of the blade section velocity, Ω r and the induced angular velocity a′ Ω r . Hence the relative wind velocity will be as shown on the velocity diagram in Figure 3.8. The minus sign in the term U ∞ (1 - a) is due to the retardation of flow while the air approaching the rotor and the plus sign in the term Ωr (1 + a′ ) as shown in Figure 3.8 is due to the flow of air in the reverse direction of blade rotation after air particles hit the blades and so give torque. In the mean time let the existence of the axial and angular induction factors assumed, their evaluation will be given in the subsequent section. 45
 
 Figure 3.8 Blade Geometry for analysis of a HAWT
 
@@ -15,13 +15,13 @@ From Figure 3.8 the following relationships can be determined;
 
 U rel =
 
-U ∞ (1 − a ) sin(ϕ )
+U ∞ (1 - a ) sin(ϕ )
 
 (3.3.1)
 
 tan(ϕ ) =
 
-U ∞ (1 − a ) (1 − a ) = Ω r (1 + a′) (1 + a′)λr 1 2 ρU rel cdr 2
+U ∞ (1 - a ) (1 - a ) = Ω r (1 + a′) (1 + a′)λr 1 2 ρU rel cdr 2
 
 (3.3.2)
 
@@ -39,7 +39,7 @@ dT = dFL cos ϕ + dFD sin ϕ
 
 (3.3.5)
 
-dL = dFL sin ϕ − dFD cos ϕ
+dL = dFL sin ϕ - dFD cos ϕ
 
 (3.3.6)
 
@@ -49,7 +49,7 @@ If the rotor has B number of blades, the total normal and tangential force on th
 
 (3.3.7)
 
-1 2 dL = B ρU rel (CL sin ϕ − CD cos ϕ )cdr 2
+1 2 dL = B ρU rel (CL sin ϕ - CD cos ϕ )cdr 2
 
 (3.3.8)
 
@@ -61,7 +61,7 @@ dQ = rdL
 
 hence the elemental torque by inserting equation 3.3.8 into equation 3.3.9;
 
-1 2 dQ = B ρU rel (CL sin ϕ − CD cos ϕ )crdr 2
+1 2 dQ = B ρU rel (CL sin ϕ - CD cos ϕ )crdr 2
 
 (3.3.10)
 
@@ -71,7 +71,7 @@ From the velocity diagram in Figure 3.8, relative wind velocity can be written a
 
 U rel =
 
-U ∞ (1 − a ) sin ϕ
+U ∞ (1 - a ) sin ϕ
 
 (3.3.11)
 
@@ -84,13 +84,13 @@ Bc 2π r
 (3.3.12)
 
 and inserting equations 3.3.11 and 3.3.12 into equations 3.3.7 and 3.3.10, the general form of elemental thrust and torque equations become;
-2 U ∞ (1 − a) 2 dT = σπρ (CL cos ϕ − CD sin ϕ )rdr sin 2 ϕ
+2 U ∞ (1 - a) 2 dT = σπρ (CL cos ϕ - CD sin ϕ )rdr sin 2 ϕ
 
 (3.3.13)
 
 dQ = σπρ
 
-2 U ∞ (1 − a ) 2 (CL sin ϕ − CD cos ϕ )r 2 dr 2 sin ϕ
+2 U ∞ (1 - a ) 2 (CL sin ϕ - CD cos ϕ )r 2 dr 2 sin ϕ
 
 (3.3.14)
 
@@ -103,7 +103,7 @@ adjacent elements of the same blade
 
 48
 
-The independence of blade elements, assumed in the blade element theory and also in all later developments of theory, is analogous to the assumption adopted in the general momentum theory that the thrust on an elementary annulus of a rotor may be expressed as dT = 2 ρ u (u − U ∞ )dA (equation 3.2.15). In the discussion of general momentum theory it was pointed out that this equation could not be established rigorously. Similarly, in the blade element theory, it is not possible to give a rigorous proof of the independence of the blade elements and the validity of the assumption must be justified by an appeal to suitable experimental results. If the assumption valid, the thrust on the blade element at radial distance r with the blade angle θ should be independent of the variation of the blade angle along the remainder of the blade. A check of the assumption can therefore be obtained by taking two propellers of different pitch with blades of the same plan form and section and by rotating the blades of one rotor so that the blade angles of the two rotors have the same value at a chosen radial distance r . The thrust distribution along the blades should then show the same element of thrust on the blade elements under examination. By means of a series of experiments [12] has been established the independence of the blade elements over the principal part of the blades. The second assumption states that two-dimensional airfoil characteristics can be used for the blade elements. Airfoil two-dimensional characteristics are usually determined from tests of a rectangular airfoil of different aspect ratio. Hence the lift and drag characteristics are dependent on aspect ratio. But in the fully-attached regime, airfoil section characteristics are not generally affected by aspect ratio, and since HAWT rotors operate in the fully-attached regime of the flow while extracting maximum energy from the wind, two-dimensional (i.e. infinite aspect ratio) can be used in predicting performance. However, when two-dimensional data are used, a tip-loss factor must be added as will be described in the next chapter.49
+The independence of blade elements, assumed in the blade element theory and also in all later developments of theory, is analogous to the assumption adopted in the general momentum theory that the thrust on an elementary annulus of a rotor may be expressed as dT = 2 ρ u (u - U ∞ )dA (equation 3.2.15). In the discussion of general momentum theory it was pointed out that this equation could not be established rigorously. Similarly, in the blade element theory, it is not possible to give a rigorous proof of the independence of the blade elements and the validity of the assumption must be justified by an appeal to suitable experimental results. If the assumption valid, the thrust on the blade element at radial distance r with the blade angle θ should be independent of the variation of the blade angle along the remainder of the blade. A check of the assumption can therefore be obtained by taking two propellers of different pitch with blades of the same plan form and section and by rotating the blades of one rotor so that the blade angles of the two rotors have the same value at a chosen radial distance r . The thrust distribution along the blades should then show the same element of thrust on the blade elements under examination. By means of a series of experiments [12] has been established the independence of the blade elements over the principal part of the blades. The second assumption states that two-dimensional airfoil characteristics can be used for the blade elements. Airfoil two-dimensional characteristics are usually determined from tests of a rectangular airfoil of different aspect ratio. Hence the lift and drag characteristics are dependent on aspect ratio. But in the fully-attached regime, airfoil section characteristics are not generally affected by aspect ratio, and since HAWT rotors operate in the fully-attached regime of the flow while extracting maximum energy from the wind, two-dimensional (i.e. infinite aspect ratio) can be used in predicting performance. However, when two-dimensional data are used, a tip-loss factor must be added as will be described in the next chapter.49
 
 3.5 BLADE ELEMENT-MOMENTUM (BEM) THEORY
 In the general momentum theory attention was directed to the motion of the fluid and the forces acting on the blades were determined. The defect of the general momentum theory was that it gave no indication of the shape of blade required to produce the reactions considered. The principle of the blade element theory was to consider the forces experienced by the blades of the rotor in their motion through the air and this theory was therefore intimately concerned with the geometrical shape of the blade. In order to bridge the gap between these two theories, the blade element momentum theory (BEM) which is also known as strip theory has been developed. BEM theory relates rotor performance to rotor geometry and particularly important prediction of this theory is the effect of finite blade number. The assumptions for BEM theory are obviously the combination of those which were made for general momentum and blade element theory. The foremost assumption in BEM theory is that individual streamtubes (the intersection of a streamtube and the surface swept by the blades) can be analyzed independently of the rest of the flow as assumed before for the blade element theory. A second assumption associated with the development of BEM theory is that
@@ -115,13 +115,13 @@ section tests are acceptable as assumed before in again blade element theory. A 
 
 theory. In this case by equating the elemental thrust force equations from general momentum theory and blade element theory (equations 3.2.15 and 3.3.13 respectively) the following relationship is obtained;
 
-a cos ϕ = (σ CL ) [1 + (CD CL ) tan ϕ ] (1 − a ) 4sin 2 ϕ
+a cos ϕ = (σ CL ) [1 + (CD CL ) tan ϕ ] (1 - a ) 4sin 2 ϕ
 
 (3.4.1)
 
 and equating the elemental torque derived in both general momentum theory and blade element theory (equations 3.2.18 and 3.3.14 respectively);
 
-a′ (σ CL ) = [1 − (CD CL )cot ϕ ] (1 − a ) 4λr sin ϕ
+a′ (σ CL ) = [1 - (CD CL )cot ϕ ] (1 - a ) 4λr sin ϕ
 
 (3.4.2)
 
@@ -129,19 +129,19 @@ Equation 3.4.2 can be rearranged by using equation 3.3.2, which relates
 
 a, a′ , ϕ and λr based on the geometric considerations;
 
-a′ (σ CL ) = [1 − (CD CL )cot ϕ ] (1 + a′) 4cos ϕ
+a′ (σ CL ) = [1 - (CD CL )cot ϕ ] (1 + a′) 4cos ϕ
 
 (3.4.3)
 
 In the calculation of induction factors a and a′ , accepted practice is to set CD zero for the purpose of determining induction factors independently from airfoil characteristics. For airfoils with low drag coefficient, this simplification introduces negligible errors [13]. So equation 3.4.1, 3.4.2 and 3.4.3 can be rewritten considering CD ≈ 0
 
-a cos ϕ = (σ CL ) (1 − a ) 4sin 2 ϕ
+a cos ϕ = (σ CL ) (1 - a ) 4sin 2 ϕ
 
 (3.4.4)
 
 51
 
-a′ (σ CL ) = (1 − a ) 4λr sin ϕ a′ (σ CL ) = (1 + a′) 4cos ϕ
+a′ (σ CL ) = (1 - a ) 4λr sin ϕ a′ (σ CL ) = (1 + a′) 4cos ϕ
 
 (3.4.5)
 
@@ -151,7 +151,7 @@ By using these three equations the following useful relationships result after s
 
 CL =
 
-4sin ϕ (cos ϕ − λr sin ϕ ) σ (sin ϕ + λr cos ϕ )
+4sin ϕ (cos ϕ - λr sin ϕ ) σ (sin ϕ + λr cos ϕ )
 
 (3.4.7)
 
@@ -164,7 +164,7 @@ a=
 
 a′ =
 
-1 [[4cosϕ (σ CL )] − 1]
+1 [[4cosϕ (σ CL )] - 1]
 
 (3.4.9)
 
@@ -174,7 +174,7 @@ a a′ = λr tan ϕ
 
 To determine the power coefficient of a wind turbine, the power contribution from each annulus is found firstly, then integrated along the blade length and finally using the equation 2.5.1, power coefficient C p can be obtained. The elemental power from each blade element was defined in equation 3.2.19 as;
 
-dP = Ω dQ
+dP = Ω dQ
 
 (3.2.19)
 
@@ -182,7 +182,7 @@ dP = Ω dQ
 
 And the total power from the rotor is;
 
-P = ∫ dP = ∫ Ω dQ
+P = ∫ dP = ∫ Ω dQ
 rh rh
 
 R
@@ -193,7 +193,7 @@ R
 
 Hence the power coefficient C p becomes by rewriting equation 2.5.1 here,
 
-∫ Ω dQ P rh Cp = = 3 3 1/ 2 ρU ∞ A 1/ 2 ρU ∞π R 2
+∫ Ω dQ P rh Cp = = 3 3 1/ 2 ρU ∞ A 1/ 2 ρU ∞π R 2
 
 R
 
@@ -201,7 +201,7 @@ R
 
 Using the expression for the elemental torque from equation 3.3.14, the power coefficient can be expressed as below,
 
-(1 − a ) 2 C p = 2 ∫ σ CL [1 − (CD CL )cot ϕ ] λr2d λr sin ϕ λ 2
+(1 - a ) 2 C p = 2 ∫ σ CL [1 - (CD CL )cot ϕ ] λr2d λr sin ϕ λ 2
 
 (3.4.12)
 
@@ -215,7 +215,7 @@ Cp =
 
 2
 
-∫ λ a′(1 − a)[1 − (C λ
+∫ λ a′(1 - a)[1 - (C λ
 3 r
 h
 
@@ -240,7 +240,7 @@ h
 
 λ
 
-sin 2 ϕ ( cos ϕ − λr sin ϕ )( sin ϕ + λr cos ϕ ) 1 − ( CD CL ) cot ϕ  ...   (3.4.14)
+sin 2 ϕ ( cos ϕ - λr sin ϕ )( sin ϕ + λr cos ϕ ) 1 - ( CD CL ) cot ϕ  ...   (3.4.14)
 
 Note that even though the axial and angular induction factors were determined assuming the CD = 0 , the drag is included in the power coefficient calculation. By the same token, the thrust coefficient CT can be found beginning from the definition of thrust coefficient in the equation 2.5.3 as following;
 
@@ -253,7 +253,7 @@ h
 
 λ
 
-sin 2ϕ ( cos ϕ − λr sin ϕ )( sin ϕ + λr cos ϕ ) 1 + ( CD CL ) tan ϕ  ...   (3.4.15)
+sin 2ϕ ( cos ϕ - λr sin ϕ )( sin ϕ + λr cos ϕ ) 1 + ( CD CL ) tan ϕ  ...   (3.4.15)
 
 3.6 VORTEX THEORY
 In addition to BEM theory which will be used for rotor performance analysis and blade design of HAWT in this thesis; vortex theory is an alternative theory which provides a method of analyzing the rotor performance. Even though vortex theory is not the scope of this thesis there is a necessity of discussing of this theory briefly without going into its detail. Because the vortex theory explains the origin of axial and angular induction factors which have been already introduced in both general momentum theory and blade element theory without giving any physical meaning about their existence. The vortex theory depends fundamentally on the conception that the lift of an airfoil section is associated with a circulation of the flow around its contour. According to modern airfoil theory the lift L per unit length of an airfoil section in two-dimensional motion is related to the circulation Γ around its contour by the following equation;
@@ -275,7 +275,7 @@ Up to this point the vortex system of a rotor or propeller has been based for si
 Figure 3.10 Variation of bound circulation along blade length
 
 If δΓ is the increase of circulation between the points r and (r + δ r ) of the blade, then the strength of the helical vortex springing from this element will be
-−δΓ . The vortex line springing from one blade form a vortex sheet in the form of
+-δΓ . The vortex line springing from one blade form a vortex sheet in the form of
 
 a screw surface and there will be one such surface for each blade. The slipstream of the rotor consists of these vortex sheets and of the fluid contained between them.Referring to the Figure 3.5, let r be the radial distance of any annular element of the rotor plane, and let u and v be respectively the inflow (the flow immediately in front of the rotor plane) axial and radial components of the fluid velocity. Let pu be the inflow pressure and let p' be the decrease of outflow (the flow immediately behind the rotor plane) pressure associated with an angular velocity w. In the final wake let pw be the pressure, uw be the axial velocity and ww be the angular velocity at a radial distance rw from the axis of the slipstream. By applying the condition of continuity of flow for the annular element is;
 
@@ -302,33 +302,33 @@ For constructing the energy equation, Bernoulli's equation can be used separatel
 1 2 H o = po + ρU ∞ 2 1 = pu + ρ ( u 2 + v 2 ) 2 1 H1 = pd + ρ ( u 2 + v 2 + w2 r 2 ) 2 1 2 2 2 = pw + ρ ( uw + wwrw ) 2
 Hence
 
-1 H o − H1 = p′ − ρ ( w2 r 2 ) 2
+1 H o - H1 = p′ - ρ ( w2 r 2 ) 2
 
 (3.2.4)
 
 Equation 3.2.4 shows that the decrease of total pressure head passing through the blade element is below the thrust per unit area p′ by a term representing the kinetic energy of the rotational motion imparted to the fluid by the torque of the blade. The expressions for the total pressure head also give;
 
-po − pw =
+po - pw =
 
-1 1 2 2 2 ρ ( uw − U ∞ ) + ρ wwrw2 + ( H 0 − H1 ) 2 2 1 1 2 2 2 2 = ρ ( uw − U ∞ ) + ρ ( ww rw − w2 r 2 ) + p′ 2 2
+1 1 2 2 2 ρ ( uw - U ∞ ) + ρ wwrw2 + ( H 0 - H1 ) 2 2 1 1 2 2 2 2 = ρ ( uw - U ∞ ) + ρ ( ww rw - w2 r 2 ) + p′ 2 2
 
 (3.2.5)
 
 To find the pressure drop, p′ Bernoulli's equation can be applied between inflow and outflow relative to the blades which are rotating with an angular 36
 
-velocity Ω . Note that the flow behind the rotor rotates in the opposite direction to the rotor, in reaction to the torque exerted by the flow on the rotor. Hence the angular velocity of the air relative to the blade increases from Ω to ( Ω + w ) , while the axial component of the velocity remains constant. The result is;
+velocity Ω . Note that the flow behind the rotor rotates in the opposite direction to the rotor, in reaction to the torque exerted by the flow on the rotor. Hence the angular velocity of the air relative to the blade increases from Ω to ( Ω + w ) , while the axial component of the velocity remains constant. The result is;
 
 p′ =
 
-1  2 ρ ( Ω + w) − Ω 2  r 2  2  = ρ ( Ω + w / 2 ) wr 2
+1  2 ρ ( Ω + w) - Ω 2  r 2  2  = ρ ( Ω + w / 2 ) wr 2
 
 (3.2.6)
 
 Finally, combining this result (equation 3.2.6) with the previous equations 3.2.2 and 3.2.5, the drop of pressure in the wake becomes;
 
-po − pw =
+po - pw =
 
-1 2 2 2 ρ ( uw − U ∞ ) + ρ ( Ω + w / 2 ) wwrw 2
+1 2 2 2 ρ ( uw - U ∞ ) + ρ ( Ω + w / 2 ) wwrw 2
 
 (3.2.7)
 
@@ -340,19 +340,19 @@ dpw 2 = ρ ww rw drw
 
 And then differentiating equation 3.2.7 relative to rw and equating to equation 3.2.8, a differential equation is obtained connecting the axial and rotational velocities in the wake,
 
-1 d d 2 2 U ∞ − uw  = ( ww + Ω ) ( wwrw2 )   2 drw drw
+1 d d 2 2 U ∞ - uw  = ( ww + Ω ) ( wwrw2 )   2 drw drw
 
 (3.2.9)
 
 The equation of axial momentum for the blade element, which can be established rigorously by a simple extension of the analysis of the previous section,
 
-T = ∫ ρ uw (U ∞ − uw ) dAw + ∫ ( po − pw ) dAw
+T = ∫ ρ uw (U ∞ - uw ) dAw + ∫ ( po - pw ) dAw
 
 37
 
 and in the differential form;
 
-dT = ρ uw (U ∞ − uw ) dAw + ( po − pw ) dAw
+dT = ρ uw (U ∞ - uw ) dAw + ( po - pw ) dAw
 
 (3.2.10)
 
@@ -363,16 +363,16 @@ By inserting equation 3.2.6 into its place in equation 3.2.11,
 
 (3.2.11)
 
-dT = ρ ( Ω + w / 2 ) wr 2 dA
+dT = ρ ( Ω + w / 2 ) wr 2 dA
 Finally, combining equation 3.2.1, 3.2.5, 3.2.10 and 3.2.12,
 
 (3.2.12)
 
- Ω + ww / 2 Ω + w / 2  1 2 2 − [U ∞ − uw ] =   uw ww rw 2 uw U∞  
+ Ω + ww / 2 Ω + w / 2  1 2 2 - [U ∞ - uw ] =   uw ww rw 2 uw U∞  
 
 (3.2.13)
 
-It should be emphasized that the equation of axial momentum is based on the assumption that the axial force due to the pressure on the lateral boundary of the streamline is equal to the pressure force, ( po Ao − pw Aw ) over its ends. This assumption implies that the mutual interference between various annular elements has been neglected but the actual deviations from the conditions represented by equation 3.2.12 are believed to be extremely small in general. The other assumptions made for deriving the general momentum equations so far are that the rotor was treated as having very large number of very narrow blades (infinite number of blades) resulting in negligible radial component of the velocity of the fluid and the air is incompressible and inviscid, i.e., fluid drag is zero [10]. Equations 3.2.1, 3.2.2, 3.2.9 and 3.2.13, though rather complex in form, suffice to determine the relationship between the thrust and torque of the blade and the flow in the slipstream. If, for example, the angular velocity ww is known as a
+It should be emphasized that the equation of axial momentum is based on the assumption that the axial force due to the pressure on the lateral boundary of the streamline is equal to the pressure force, ( po Ao - pw Aw ) over its ends. This assumption implies that the mutual interference between various annular elements has been neglected but the actual deviations from the conditions represented by equation 3.2.12 are believed to be extremely small in general. The other assumptions made for deriving the general momentum equations so far are that the rotor was treated as having very large number of very narrow blades (infinite number of blades) resulting in negligible radial component of the velocity of the fluid and the air is incompressible and inviscid, i.e., fluid drag is zero [10]. Equations 3.2.1, 3.2.2, 3.2.9 and 3.2.13, though rather complex in form, suffice to determine the relationship between the thrust and torque of the blade and the flow in the slipstream. If, for example, the angular velocity ww is known as a
 
 38
 
@@ -381,47 +381,47 @@ function of the radius r in the wake, equation 3.2.9 determines the axial veloci
 uw and then equation 3.2.13, taken in conjunction with equation 3.2.1 and equation
 3.2, determines the axial and rotational velocities at the rotor plane. The thrust and torque of the rotor are then obtained from equation 3.2.12 and equation 3.2.3 respectively. Owing to the complexity of these equations, however, it is customary to adopt certain approximations based on the fact that the rotational velocity in the slipstream is generally very small. An exact solution of the general momentum equations can be obtained when the flow in the slipstream is irrotational except along the axis. This condition implies that the rotational momentum wr 2 has the same value for all radial elements. Then by virtue of equation 3.2.11, the axial velocity, uw is constant along a radius because this equation's right-hand side is zero. Defining the axial velocities u and uw as
 
-u = U ∞ (1 − a ) uw = U ∞ (1 − b )
+u = U ∞ (1 - a ) uw = U ∞ (1 - b )
 After some algebraic manipulations, it can be obtained from equation 3.2.13,
 
-b (1 − a ) b 2  a = 1 − 2  2  4λ (b − a ) 
+b (1 - a ) b 2  a = 1 - 2  2  4λ (b - a ) 
 
 (3.2.14)
 
-Examination of equation 3.2.14 shows that the axial velocity reduction of the rotor disk is always approximately one-half the reduction in the far-wake for the tip-speed ratio above 2, which is the same result reached in the previous section when the wake rotation was neglected. For the approximate solution, the following assumption is made. The angular velocity w imparted to the slipstream is very small compared with the angular velocity Ω of the blades and it is therefore possible to simplify the general
+Examination of equation 3.2.14 shows that the axial velocity reduction of the rotor disk is always approximately one-half the reduction in the far-wake for the tip-speed ratio above 2, which is the same result reached in the previous section when the wake rotation was neglected. For the approximate solution, the following assumption is made. The angular velocity w imparted to the slipstream is very small compared with the angular velocity Ω of the blades and it is therefore possible to simplify the general
 
 39
 
-equations by neglecting certain terms involving w2 [10]. On this basis of approximation the pressure pw in the wake is equal to the initial pressure po of the air and the decrease of pressure p′ across the rotor disk is equal to the decrease of total pressure head ( H o − H1 ) . The relationships connecting the thrust and axial velocity are then the same as in the simple momentum theory, the axial velocity u at the rotor disk is the arithmetic mean of the axial velocity U ∞ and the slipstream velocity uw , and the element of thrust is
+equations by neglecting certain terms involving w2 [10]. On this basis of approximation the pressure pw in the wake is equal to the initial pressure po of the air and the decrease of pressure p′ across the rotor disk is equal to the decrease of total pressure head ( H o - H1 ) . The relationships connecting the thrust and axial velocity are then the same as in the simple momentum theory, the axial velocity u at the rotor disk is the arithmetic mean of the axial velocity U ∞ and the slipstream velocity uw , and the element of thrust is
 
-dT = 2 ρ u (u − U ∞ )dA
-2 = 4πρU ∞ a (1 − a )rdr
+dT = 2 ρ u (u - U ∞ )dA
+2 = 4πρU ∞ a (1 - a )rdr
 
 (3.2.15)
 
 Alternatively, from equation 3.2.6,
 
-dT = p′dA = 2πρ (Ω + w / 2) wr 3dr
-And defining angular induction factor, a′ = w / 2Ω
+dT = p′dA = 2πρ (Ω + w / 2) wr 3dr
+And defining angular induction factor, a′ = w / 2Ω
 
-dT = 4πρΩ 2 a′(1 + a′)r 3dr
+dT = 4πρΩ 2 a′(1 + a′)r 3dr
 
 (3.2.16)
 
 Equating the two expressions for the thrust given in equation 3.2.15 and equation 3.2.16, a relationship is obtained between axial induction factor, a and angular induction factor a′ ,
 
-a (1 − a ) Ω 2 r 2 = = λr2 2 a′(1 + a′) U ∞
+a (1 - a ) Ω 2 r 2 = = λr2 2 a′(1 + a′) U ∞
 The element of torque is obtained from equation 3.2.3 as following;
 
 (3.2.17)
 
 40
 
-dQ = ρ uwr 2 dA = 4πρU ∞ Ω a′(1 − a )r 3dr (3.2.18)
+dQ = ρ uwr 2 dA = 4πρU ∞ Ω a′(1 - a )r 3dr (3.2.18)
 
 The power generated at each radial element, dP is given by the following equation;
 
-dP = Ω dQ
+dP = Ω dQ
 
 (3.2.19)
 
@@ -429,7 +429,7 @@ By substituting dQ from equation 3.2.18 into equation 3.2.19 and using the defin
 
 dP =
 
-1  3  8 ρ AU ∞  2 a′(1 − a)λr3d λr  2 λ 
+1  3  8 ρ AU ∞  2 a′(1 - a)λr3d λr  2 λ 
 
 (3.2.20)
 
@@ -451,7 +451,7 @@ Cp =
 
 2
 
-∫ a′(1 − a)λ d λ λ
+∫ a′(1 - a)λ d λ λ
 3 r
 h
 
@@ -467,26 +467,26 @@ a, a′ and λr . By solving equation 3.2.17, a′ in terms of a ,
 
 41
 
-1 1 4 1 + 2 a (1 − a ) a′ = − + λr 2 2
+1 1 4 1 + 2 a (1 - a ) a′ = - + λr 2 2
 
 (3.2.23)
 
-The aerodynamic conditions for the maximum possible power production occur when the term a′(1 − a ) in equation 3.2.22 is at its greatest value. Substituting the value for a′ from equation 3.2.23 into the term a′(1 − a ) and setting the derivative with respect to a and equating to zero yields;
+The aerodynamic conditions for the maximum possible power production occur when the term a′(1 - a ) in equation 3.2.22 is at its greatest value. Substituting the value for a′ from equation 3.2.23 into the term a′(1 - a ) and setting the derivative with respect to a and equating to zero yields;
 
-(1 − a )(4a − 1) 2 λ = (1 − 3a )
+(1 - a )(4a - 1) 2 λ = (1 - 3a )
 2 r
 
 (3.2.24)
 
 And substituting equation 3.2.24 into equation 3.2.17, it is found that for maximum power in each annular ring,
 
-a′ = (1 − 3a ) /(4a − 1)
+a′ = (1 - 3a ) /(4a - 1)
 
 (3.2.25)
 
 If equation 3.2.24 is differentiated with respect to a , a relationship between d λr and da at those conditions is obtained;
 
-2λr d λr = 6(4a − 1)(1 − 2a ) 2 /(1 − 3a ) 2  da  
+2λr d λr = 6(4a - 1)(1 - 2a ) 2 /(1 - 3a ) 2  da  
 
 (3.2.26)
 
@@ -495,7 +495,7 @@ Now, substituting the equations 3.2.24, 3.2.25 and 3.2.26 into the equation 3.2.
 C p ,max
 Where
 
-24 2  (1 − a )(1 − 2a )(1 − 4a )  = 2 ∫  da (1 − 3a ) λ a1  
+24 2  (1 - a )(1 - 2a )(1 - 4a )  = 2 ∫  da (1 - 3a ) λ a1  
 
 a
 
@@ -510,7 +510,7 @@ Also from equation 3.2.24;
 
 42
 
-λ 2 = (1 − a2 )(1 − 4a2 ) /(1 − 3a2 )
+λ 2 = (1 - a2 )(1 - 4a2 ) /(1 - 3a2 )
 
 (3.2.28)
 
@@ -589,7 +589,7 @@ i
 
 Applying the conservation of linear momentum to the control volume enclosing the whole system, the net force can be found on the contents of the control volume. That force is equal and opposite to the thrust, T which is the force of the wind on the wind turbine. Hence from the conservation of linear momentum for a one-dimensional, incompressible, time-invariant flow the thrust is equal and opposite to the change in momentum of air stream;
 
-T = m (U ∞ − U w )
+T = m (U ∞ - U w )
 
 i
 
@@ -608,7 +608,7 @@ Where
 
 (3.1.5)
 
-p′ = ( pu − pd )
+p′ = ( pu - pd )
 
 ( 3.1.6)
 
@@ -618,7 +618,7 @@ By using equations 3.1.3 and 3.1.4, the pressure decrease, p′ can be found as;
 
 p′ =
 
-1 2 2 ρ (U ∞ − U w ) 2
+1 2 2 ρ (U ∞ - U w ) 2
 
 (3.1.7)
 
@@ -626,7 +626,7 @@ And by substituting equation 3.1.7 into equation 3.1.5;
 
 T=
 
-1 2 2 ρ A (U ∞ − U w ) 2
+1 2 2 ρ A (U ∞ - U w ) 2
 i
 
 (3.1.8)
@@ -643,9 +643,9 @@ Thus, the wind velocity at the rotor plane, using this simple model, is the aver
 
 a=
 
-U R = U ∞ (1 − a ) U w = U ∞ (1 − 2a )
+U R = U ∞ (1 - a ) U w = U ∞ (1 - 2a )
 
-U∞ − U R U∞
+U∞ - U R U∞
 
 (3.1.10) (3.1.11) (3.1.12)
 
@@ -662,10 +662,10 @@ Using equation 3.1.8,
 
 P=
 
-1 2 2 ρ A (U ∞ − U w )U R 2
+1 2 2 ρ A (U ∞ - U w )U R 2
 
 And substituting for U R and U w from equations 3.1.11 and 3.1.12,
-3 P = 2 ρ Aa (1 − a ) U ∞ 2
+3 P = 2 ρ Aa (1 - a ) U ∞ 2
 
 (3.1.12)
 
@@ -673,7 +673,7 @@ Using equation 2.5.1, the power coefficient C p becomes;
 
 31
 
-C p = 4a (1 − a )
+C p = 4a (1 - a )
 
 2
 
@@ -683,13 +683,13 @@ The maximum C p is determined by taking the derivative of equation 3.1.13 with r
 
 (C p ) max = 16 / 27 = 0.5926
 When a = 1/ 3 This result indicates that if an ideal rotor were designed and operated such that the wind speed at the rotor were 2/3 of the free stream wind speed, then it would be operating at the point of maximum power production. This is known as the Betz limit. From equations 3.1.8, 3.1.11 and 3.1.12 the axial thrust on the disk can be written in the following form;
-2 T = 2 ρ Aa (1 − a ) )U ∞
+2 T = 2 ρ Aa (1 - a ) )U ∞
 
 (3.1.14)
 
 Similarly to the power coefficient, thrust coefficient can be found as by use of equation 2.5.3;
 
-CT = 4a(1 − a)
+CT = 4a(1 - a)
 
 (3.1.15)
 
@@ -757,9 +757,9 @@ In place of the helical vortex lines covering the surface, the vorticity of the 
 
 57
 
-lines LL whose vorticity represents the rotation of the slipstream. The vortex system is completed by the axial vortex AA. More generally, with circulation varying along the blades of the propeller, the whole slipstream must be considered as full of vortex systems of this simpler type. The induced velocity of the vortex system in the ultimate wake far behind the rotor plane will be an axial velocity (U ∞ − uw ) and an angular velocity ww , which will be function of the radial coordinate rw . In this wake the induced velocity of the bound vortices of the blades is negligibly small. At the disc also the bound vortices can not give any component to the axial velocity owing to the symmetrical distribution of this vorticity relative to any arbitrary point of the disc and hence the axial induced velocity (u − U ∞ ) will be due wholly to the trailing vortex system. Also if the expansion of the slipstream can be ignored in calculating these induced velocities, it can easily be seen that the axial induced velocity at the rotor disk is half that in the ultimate wake; for the vortex system is then simply a long cylinder extending indefinitely in one direction from the rotor disk and the induced axial velocity at a point of the wake, where the cylinder extends indefinitely in both directions, must clearly be double that at the corresponding point of the rotor disk. Thus
+lines LL whose vorticity represents the rotation of the slipstream. The vortex system is completed by the axial vortex AA. More generally, with circulation varying along the blades of the propeller, the whole slipstream must be considered as full of vortex systems of this simpler type. The induced velocity of the vortex system in the ultimate wake far behind the rotor plane will be an axial velocity (U ∞ - uw ) and an angular velocity ww , which will be function of the radial coordinate rw . In this wake the induced velocity of the bound vortices of the blades is negligibly small. At the disc also the bound vortices can not give any component to the axial velocity owing to the symmetrical distribution of this vorticity relative to any arbitrary point of the disc and hence the axial induced velocity (u - U ∞ ) will be due wholly to the trailing vortex system. Also if the expansion of the slipstream can be ignored in calculating these induced velocities, it can easily be seen that the axial induced velocity at the rotor disk is half that in the ultimate wake; for the vortex system is then simply a long cylinder extending indefinitely in one direction from the rotor disk and the induced axial velocity at a point of the wake, where the cylinder extends indefinitely in both directions, must clearly be double that at the corresponding point of the rotor disk. Thus
 
-1 (U ∞ − u ) = (U ∞ − uw ) 2
+1 (U ∞ - u ) = (U ∞ - uw ) 2
 Or
 
 1 u = (U ∞ + uw ) 2
@@ -827,18 +827,18 @@ with calculations made with vortex theory,
 • The Prandtl model is easier to program and use
 The expression obtained by Prandtl for tip-loss factor is given by the following equation [22];
 
-  − ( B / 2 ) 1 − ( r R )       F = ( 2 π ) cos −1 exp   ( r R ) sin ϕ       
+  - ( B / 2 ) 1 - ( r R )       F = ( 2 π ) cos -1 exp   ( r R ) sin ϕ       
 
 (4.2.1)
 
-The application of this equation for the losses at the blade tips is to provide an approximate correction to the system of equations summarized in section 3.4.2 for predicting rotor performance and blade design. The physical fact represented by the tip correction is virtually that the maximum decrease of axial velocity (U ∞ − uw ) or 2aU ∞ in the slipstream occurs only on the vortex sheets and that the average decrease of axial velocity in the slipstream is only a fraction F of this velocity. Thus, to order of approximation of the analysis the correct form of the axial momentum equation (equation 3.2.15) will be taken to be [2];
-2 dT = 4 FπρU ∞ a(1 − a)rdr
+The application of this equation for the losses at the blade tips is to provide an approximate correction to the system of equations summarized in section 3.4.2 for predicting rotor performance and blade design. The physical fact represented by the tip correction is virtually that the maximum decrease of axial velocity (U ∞ - uw ) or 2aU ∞ in the slipstream occurs only on the vortex sheets and that the average decrease of axial velocity in the slipstream is only a fraction F of this velocity. Thus, to order of approximation of the analysis the correct form of the axial momentum equation (equation 3.2.15) will be taken to be [2];
+2 dT = 4 FπρU ∞ a(1 - a)rdr
 
 (4.2.2)
 
 Similarly, also the angular momentum equation (equation 3.2.18) will be assumed to be [2];
 
-dQ = 4 FπρU ∞ Ω a′(1 − a )r 3dr
+dQ = 4 FπρU ∞ Ω a′(1 - a )r 3dr
 
 (4.2.3)
 
@@ -848,7 +848,7 @@ Thus the effect of the tip-loss is to reduce slightly the thrust and torque cont
 
 general momentum theory are set equal using the method of BEM theory as performed before, the derivation of the flow condition is changed. Carrying the tip-loss factor through the calculations, the changes (through equations 3.4.4 to 3.4.9 and 3.4.14) will be as following;
 
-a cos ϕ = (σ CL ) (1 − a) 4 F sin 2 ϕ a′ (σ CL ) = (1 − a) 4λr F sin ϕ a′ (σ CL ) = (1 + a′) 4 F cos ϕ 4 F sin ϕ (cos ϕ − λr sin ϕ ) σ (sin ϕ + λr cos ϕ ) 1  1 + [4 F sin ϕ (σ CL )cos ϕ ] 
+a cos ϕ = (σ CL ) (1 - a) 4 F sin 2 ϕ a′ (σ CL ) = (1 - a) 4λr F sin ϕ a′ (σ CL ) = (1 + a′) 4 F cos ϕ 4 F sin ϕ (cos ϕ - λr sin ϕ ) σ (sin ϕ + λr cos ϕ ) 1  1 + [4 F sin ϕ (σ CL )cos ϕ ] 
 2
 
 (4.2.4)
@@ -867,7 +867,7 @@ a=
 
 a′ =
 
-1 [[4 F cosϕ (σ Cl )] − 1]
+1 [[4 F cosϕ (σ Cl )] - 1]
 
 (4.2.9)
 
@@ -880,7 +880,7 @@ h
 
 λ
 
-F sin 2 ϕ ( cos ϕ − λr sin ϕ )( sin ϕ + λr cos ϕ ) 1 − ( CD CL ) cot ϕ  ...   (4.2.10)
+F sin 2 ϕ ( cos ϕ - λr sin ϕ )( sin ϕ + λr cos ϕ ) 1 - ( CD CL ) cot ϕ  ...   (4.2.10)
 
 65
 
@@ -905,7 +905,7 @@ rotor thrust increases up to 2 with increasing induction factor in the
 
 turbulent wake state, instead of decreasing as predicted by the equation 3.1.14. While general momentum theory no longer describes the turbine behavior, Glauert's empirical formula for axial induction factor from 0.4 to 1.0 are often used in HAWT rotor design for predicting wind turbine flow states.
 
-C =4a(1−a) T
+C =4a(1-a) T
 
 Windmill state
 
@@ -917,7 +917,7 @@ Figure 4.1 Relationship between the axial induction factor, flow state and thrus
 
 When the induction somewhat over unity, the flow regime is called the vortex ring state and when a >2.0 the rotor reverses the direction of flow which is termed propeller brake state with power being added to flow to create downwind thrust on the rotor. In the turbulent wake state, as stated before, a solution can be found by using the Glauert empirical relationship between the axial induction factor, a and the thrust coefficient, CT in conjunction with the blade element theory. The empirical relationship developed by Glauert, including tip losses is [2];
 
-a = (1 F ) 0.143 + 0.0203 − 0.6427 ( 0.889 − CT )   
+a = (1 F ) 0.143 + 0.0203 - 0.6427 ( 0.889 - CT )   
 This equation is valid for a > 0.4 or equivalently for CT > 0.96
 
 (4.3.1)
@@ -932,7 +932,7 @@ dT 2 1/ 2 ρU ∞ 2π rdr
 
 From the equation 3.3.13 for the elemental thrust force from blade element theory, the local thrust coefficient becomes;
 
-CTr = σ (1 − a ) ( CL cos ϕ + CD sin ϕ ) sin 2 ϕ
+CTr = σ (1 - a ) ( CL cos ϕ + CD sin ϕ ) sin 2 ϕ
 2
 
 (4.3.3)
@@ -1044,7 +1044,7 @@ depends also on these two variables for an assumed blade number as it can be see
 
 ϕopt
 
- F sin 2 ϕ ( cos ϕ − λr sin ϕ )( sin ϕ + λr cos ϕ ) ...   → MAX    1 − ( CD CL ) cot ϕ      
+ F sin 2 ϕ ( cos ϕ - λr sin ϕ )( sin ϕ + λr cos ϕ ) ...   → MAX    1 - ( CD CL ) cot ϕ      
 
 A computer program on MATLAB was written to determine the maximum power coefficient for each blade element (elemental power coefficient) for any set of values of local tip-speed ratio. The result is given graphically in Figure 4.2 for an airfoil having glide ratio 0.036
 
@@ -1058,18 +1058,18 @@ Figure 4.3 Variation of optimum relative wind angle with respect to local tip-sp
 
 Hence the condition given before can be rearranged as following;
 
-ϕopt ≈ MAX {sin 2 ϕ ( cos ϕ − λr sin ϕ )( sin ϕ + λr cos ϕ )}
+ϕopt ≈ MAX {sin 2 ϕ ( cos ϕ - λr sin ϕ )( sin ϕ + λr cos ϕ )}
 
 73
 
 Therefore a general relationship can be found between optimum relative wind angle and local tip-speed ratio which will be applicable for any airfoil type by taking the partial derivative of the term above, i.e.;
 
-∂ {sin 2 ϕ ( cosϕ − λr sin ϕ )( sin ϕ + λr cosϕ )} = 0 ∂ϕ
+∂ {sin 2 ϕ ( cosϕ - λr sin ϕ )( sin ϕ + λr cosϕ )} = 0 ∂ϕ
 Equation 4.5.1 reveals after some algebra [2];
 
 (4.5.1)
 
-ϕopt = ( 2 3) tan −1 (1 λr )
+ϕopt = ( 2 3) tan -1 (1 λr )
 
 (4.5.2)
 
@@ -1087,12 +1087,12 @@ Having found the solution of determining the optimum relative wind angle for a c
 
 Then according to equation 4.5.2 the optimum relative wind angle for each blade element is determined;
 
-ϕopt ,i = ( 2 3) tan −1 (1 λr ,i )
+ϕopt ,i = ( 2 3) tan -1 (1 λr ,i )
 From the equation 4.2.1 the tip loss factor for each blade element is found;
 
 (4.5.4)
 
-  − ( B / 2 ) 1 − ( ri R )       Fi = ( 2 π ) cos −1 exp   ( ri R ) sin ϕopt ,i       
+  - ( B / 2 ) 1 - ( ri R )       Fi = ( 2 π ) cos -1 exp   ( ri R ) sin ϕopt ,i       
 
 (4.5.5)
 
@@ -1100,7 +1100,7 @@ The chord-length distribution can then be calculated for each blade element by u
 
 ci =
 
-8π ri Fi sin ϕopt ,i (cos ϕopt ,i − λr ,i sin ϕopt ,i )
+8π ri Fi sin ϕopt ,i (cos ϕopt ,i - λr ,i sin ϕopt ,i )
 
 BCL ,design
 
@@ -1114,13 +1114,13 @@ where CL ,design is chosen such that the glide ratio is minimum at each blade el
 
 The twist distribution can be determined from the following equation which can be easily derived from the velocity diagram shown in Figure 3.8;
 
-θi = ϕopt ,i − α design
+θi = ϕopt ,i - α design
 
 (4.5.7)
 
 Where α design is again the design angle of attack at which CL ,design is obtained. Finally, the power coefficient is determined using a sum approximating the integral in equation 4.2.10;
 
- 8∆λr   2  2  Fi sin ϕopt ,i ( cos ϕopt ,i − λr ,i sin ϕopt ,i )...   C p = ∑  λ   i =1 ( sin ϕopt ,i + λr ,i cos ϕopt ,i ) 1 − ( CD CL ) cot ϕopt ,i  λr2,i     
+ 8∆λr   2  2  Fi sin ϕopt ,i ( cos ϕopt ,i - λr ,i sin ϕopt ,i )...   C p = ∑  λ   i =1 ( sin ϕopt ,i + λr ,i cos ϕopt ,i ) 1 - ( CD CL ) cot ϕopt ,i  λr2,i     
 N
 
 (4.5.8)
@@ -1253,7 +1253,7 @@ c
 ci
 
 ρ
-Ω
+Ω
 α
 
 α design
@@ -1453,7 +1453,7 @@ As it was stated before, the main objective of this thesis is to develop a useri
 for the output of chord-length distribution, which is normalized with R, with respect to again normalized blade length (r/R) graphically. These figures can be analyzed visually to compare the performance and blade geometry of designed and modified blade by making both of the outputs visible. • If it is desired to change the input values for another design, the command 'change inputs' in the input part stands for this purpose. By pressing this button, all the outputs will become vanished and the program gets ready for the new input values. • Blade geometry output (chord-length and setting angle values for each station) can be saved to a file in the working directory with the command 'save
 blade geometries' or can be print out with the command 'print' and the program
 
-closes with the command 'exit'' under the file menu option.
+closes with the command 'exit" under the file menu option.
 
 107
 
@@ -1735,7 +1735,7 @@ Figure 4.32 Three-dimensional solid model of the modified blade
 
 99
 
-Table 4.2 Power Production of a fixed rotational three-bladed HAWT (Airfoil: NACA-4412, Designed at P=50 kW, U∞=8 m/s) U∞(m/s) 6 8 10 12 14 16 18 Power Production (kW) Designed Blade Modified Blade (Ω=76 rpm) (Ω=59 rpm) 21 50 97 166 260 381 532 10 50 78 105 136 163 195
+Table 4.2 Power Production of a fixed rotational three-bladed HAWT (Airfoil: NACA-4412, Designed at P=50 kW, U∞=8 m/s) U∞(m/s) 6 8 10 12 14 16 18 Power Production (kW) Designed Blade Modified Blade (Ω=76 rpm) (Ω=59 rpm) 21 50 97 166 260 381 532 10 50 78 105 136 163 195
 
 100
 
@@ -1748,13 +1748,13 @@ The computer programs XFOILP4 and MATLAB are utilized during the study of thi
 corresponding outputs are illustrated in tabulated form and also compared with CP & λ, c/R & r/R and θ & r/R figures for both designed and modified blades.
 
 1.2 XFOILP4
-XFOIL is an interactive program for the design and analysis of subsonic isolated airfoils. It consists of a collection of menu-driven routines which perform various useful functions such as: − Viscous (or incviscid) analysis of an existing airfoil, allowing • Forced or free transition • Transitional separation bubbles • Limited trailing edge separation • Lift and drag predictions just beyond maximum lift coefficient • Karman-Tsien compressibility correction − Airfoil design and redesign by interactive specification of a surface speed
+XFOIL is an interactive program for the design and analysis of subsonic isolated airfoils. It consists of a collection of menu-driven routines which perform various useful functions such as: - Viscous (or incviscid) analysis of an existing airfoil, allowing • Forced or free transition • Transitional separation bubbles • Limited trailing edge separation • Lift and drag predictions just beyond maximum lift coefficient • Karman-Tsien compressibility correction - Airfoil design and redesign by interactive specification of a surface speed
 
-distribution via screen cursor or mouse. Two such facilities are implemented: • Full-Inverse, based on a complex-mapping formulation • Mixed-Inverse, allowing relatively − as: • New max. thickness and/or camber • New LE (leading edge) radius • New TE (trailing edge) thickness Airfoil redesign by interactive specification of new geometric parameters such
+distribution via screen cursor or mouse. Two such facilities are implemented: • Full-Inverse, based on a complex-mapping formulation • Mixed-Inverse, allowing relatively - as: • New max. thickness and/or camber • New LE (leading edge) radius • New TE (trailing edge) thickness Airfoil redesign by interactive specification of new geometric parameters such
 
 102
 
-• New camberline via geometry specification • New camberline via loading change specification • Explicit contour geometry (via screen cursor) − − − Drag polar calculation with fixed or varying Reynolds and/or Mach number Writing and reading of airfoil geometry and polar save files Plotting of geometry, pressure distribution and polars XFOIL was written by Mark Drela in 1986 with the name XFOIL 1.0 and after undergoing numerous revisions, upgrades and enhancements it becomes now strongly geared to practical airfoil development with its final revision name XFOILP4. Further explanation about the use of XFOIL program can be found in reference [26], here only the part of XFOIL program which was extensively used for the development of blade design program will be described. If it is remembered from the airfoil selection criteria in section 4.4, the design angle of attack should be selected such that the glide ratio is minimum at that value of angle of attack. Therefore the variation of lift coefficients and drag coefficients of an airfoil with respect to angle of attack in the fully-attached regime are required. XFOIL gives these data in a considerably excellent agreement with published polars as shown in Figure 5.1 and Figure 5.2 for the airfoil NACA 4412 as an example. The results of XFOIL has been compared with the reference polar data performed by Abbott and Von Doenhoff [27] and also from the reference Riegels [28] to see the validity of XFOIL results.
+• New camberline via geometry specification • New camberline via loading change specification • Explicit contour geometry (via screen cursor) - - - Drag polar calculation with fixed or varying Reynolds and/or Mach number Writing and reading of airfoil geometry and polar save files Plotting of geometry, pressure distribution and polars XFOIL was written by Mark Drela in 1986 with the name XFOIL 1.0 and after undergoing numerous revisions, upgrades and enhancements it becomes now strongly geared to practical airfoil development with its final revision name XFOILP4. Further explanation about the use of XFOIL program can be found in reference [26], here only the part of XFOIL program which was extensively used for the development of blade design program will be described. If it is remembered from the airfoil selection criteria in section 4.4, the design angle of attack should be selected such that the glide ratio is minimum at that value of angle of attack. Therefore the variation of lift coefficients and drag coefficients of an airfoil with respect to angle of attack in the fully-attached regime are required. XFOIL gives these data in a considerably excellent agreement with published polars as shown in Figure 5.1 and Figure 5.2 for the airfoil NACA 4412 as an example. The results of XFOIL has been compared with the reference polar data performed by Abbott and Von Doenhoff [27] and also from the reference Riegels [28] to see the validity of XFOIL results.
 
 103
 
@@ -1805,7 +1805,7 @@ P 3 1/ 2 ρU ∞π R 2
 
 λ=
 
-ΩR U∞
+ΩR U∞
 
 (2.5.2)
 
