@@ -1,0 +1,9 @@
+Cardiac-resynchronization therapy in heart failure with a narrow QRS complex.
+BACKGROUND:
+Cardiac-resynchronization therapy (CRT) reduces morbidity and mortality in chronic systolic heart failure with a wide QRS complex. Mechanical dyssynchrony also occurs in patients with a narrow QRS complex, which suggests the potential usefulness of CRT in such patients.
+METHODS:
+We conducted a randomized trial involving 115 centers to evaluate the effect of CRT in patients with New York Heart Association class III or IV heart failure, a left ventricular ejection fraction of 35% or less, a QRS duration of less than 130 msec, and echocardiographic evidence of left ventricular dyssynchrony. All patients underwent device implantation and were randomly assigned to have CRT capability turned on or off. The primary efficacy outcome was the composite of death from any cause or first hospitalization for worsening heart failure.
+RESULTS:
+On March 13, 2013, the study was stopped for futility on the recommendation of the data and safety monitoring board. At study closure, the 809 patients who had undergone randomization had been followed for a mean of 19.4 months. The primary outcome occurred in 116 of 404 patients in the CRT group, as compared with 102 of 405 in the control group (28.7% vs. 25.2%; hazard ratio, 1.20; 95% confidence interval [CI], 0.92 to 1.57; P=0.15). There were 45 deaths in the CRT group and 26 in the control group (11.1% vs. 6.4%; hazard ratio, 1.81; 95% CI, 1.11 to 2.93; P=0.02).
+CONCLUSIONS:
+In patients with systolic heart failure and a QRS duration of less than 130 msec, CRT does not reduce the rate of death or hospitalization for heart failure and may increase mortality. 

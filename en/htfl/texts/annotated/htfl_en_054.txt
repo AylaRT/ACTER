@@ -1,0 +1,17 @@
+Within-day test-retest reliability of the Timed Up & Go test in patients with advanced chronic organ failure.
+OBJECTIVE:
+To investigate the within-day test-retest reliability of the Timed Up & Go (TUG) test in patients with advanced chronic obstructive pulmonary disease (COPD), chronic heart failure (CHF), and chronic renal failure (CRF).
+DESIGN:
+Cross-sectional.
+SETTING:
+Patients' home environment.
+PARTICIPANTS:
+Subjects (N=235, 64% men; median age, 70y [interquartile range, 61-77y]; median body mass index, 25.6kg/m(2) [interquartile range, 22.8-29.4kg/m(2)]) with advanced COPD (n=95), CHF (n=68), or CRF (n=72).
+INTERVENTIONS:
+Not applicable.
+MAIN OUTCOME MEASURE:
+Time to complete the TUG test. Three trials were performed on the same day and by the same assessors. The intraclass correlation coefficient (ICC), kappa coefficient, standard error of measurement, and absolute and relative minimal detectable change (MDC) values were calculated.
+RESULTS:
+Good agreement was observed, in general, for both the total sample and subgroups (COPD, CHF, CRF), with ICC values ranging from .85 to .98, and kappa coefficients from .49 to 1.00. However, statistical improvement occurred in the total sample from the first to the second trial with large limits of agreement (mean difference, -.97s; 95% confidence interval, 3.00 to -4.94s; P<.01). The third trial added little or no information to the first 2 trials. For the total sample, a standard error of measurement value of approximately 1.6 seconds, an absolute value of MDC at the 95% confidence level (MDC95%) of approximately 4.5 seconds, and a relative value of MDC at the 95% confidence level (MDC95%%) of approximately 35% were found between the first 2 trials, with similar values found for the subgroups.
+CONCLUSIONS:
+The TUG test is reliable in patients with advanced COPD, CHF, or CRF after 2 trials. Values of standard error of measurement and MDC may be used in daily clinical practice with these populations to define what is expected and what represents true change in repeated measures.

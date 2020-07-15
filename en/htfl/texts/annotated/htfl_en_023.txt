@@ -1,0 +1,14 @@
+Rates of ED visits and of intubations for congestive heart failure declined from  1996 to 2008.
+OBJECTIVE:
+Many advances have been made recently in the treatment of congestive heart failure (CHF). We hypothesize that this should have resulted in fewer CHF patients presenting to the emergency department (ED) and fewer being intubated.
+DESIGN:
+Retrospective cohort.
+SETTING:
+consecutive patients seen by ED physicians in 4 suburban hospitals in New Jersey and New York from 1996 to 2008.
+OBJECTIVE:
+PROTOCOL:
+We classified patients as having CHF based on International Classification of Diseases, Ninth Revision, codes. For each year of the study, we determined CHF visit rates (as a percentage of total ED visits) and calculated the percentage of CHF patients intubated. We used the Student t test, calculated 95% confidence intervals (CIs), and performed regression analyses.
+RESULTS:
+Of the 2,374,428 ED visits, 32,036 (1.3%) were for CHF. The mean age of the CHF patients was 76 ± 14 years, and 57% were female. Congestive heart failure visits declined from 1.6% of all ED visits in 1996 to 1.2% in 2008, a 26% relative decrease (95% CI: 21%-30%, P < .001, correlation coefficient R(2) = 0.94, P < .001). Of the CHF patients, 778 (2.4%) were intubated. Intubation rates declined from 3.6% in 1996 to 1.7% in 2008, a 53% (95% CI: 31%-68%, P < .001, R(2) = 0.83, P < .001) relative decrease.
+CONCLUSION:
+The rates of annual ED visits for CHF and intubation rates declined from 1996 to 2008. These decreases are most likely due to better CHF treatments.

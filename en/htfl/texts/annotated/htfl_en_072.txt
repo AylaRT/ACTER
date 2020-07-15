@@ -1,0 +1,15 @@
+Global left ventricular longitudinal systolic strain as a major predictor of cardiovascular events in patients with atrial fibrillation.
+OBJECTIVE:
+Although global left ventricular longitudinal systolic strain (GLS) is a sensitive measure of left ventricular mechanics, its relationship with adverse cardiovascular (CV) events in atrial fibrillation (AF) has not been evaluated. This study sought to examine the ability of GLS in predicting CV events in AF.
+DESIGN:
+Observational cohort study.
+SETTING:
+Department of cardiology in a university hospital.
+PATIENTS:
+196 persistent AF patients referred for echocardiographic examination.
+MAIN OUTCOME MEASURES:
+The risk of GLS measured by index beat method for CV events was assessed by Cox proportional hazards analyses. CV events were defined as CV death, non-fatal stroke and hospitalisation for heart failure.
+RESULTS:
+There were 19 CV deaths, 12 non-fatal stroke and 28 hospitalisations for heart failure during an average follow-up of 21 ± 10 months. Multivariate analysis showed worsening GLS (HR 1.121; 95% CI 1.023 to 1.228, p=0.014) was independently associated with increased CV events. In direct comparison, GLS outperformed left ventricular ejection fraction (LVEF) and systolic mitral annulus velocity (Sa) in predicting adverse CV events both in univariate and multivariate models (p ≤ 0.043). Besides, the addition of GLS to a Cox model containing chronic heart failure, hypertension, age ≥ 75 years, diabetes, prior stroke score, estimated glomerular filtration rate, LVEF and Sa provided an additional benefit in the prediction of adverse CV events (p=0.022).
+CONCLUSIONS:
+GLS was a major parameter and stronger than LVEF and Sa in predicting adverse CV events and could offer an additional prognostic benefit over conventional clinical and echocardiographic systolic parameters in AF.

@@ -1,0 +1,11 @@
+Phosphodiesterase-2 is up-regulated in human failing hearts and blunts beta-adrenergic responses in cardiomyocytes.
+OBJECTIVES:
+This study investigated whether myocardial phosphodiesterase-2 (PDE2) is altered in heart failure (HF) and determined PDE2-mediated effects on beta-adrenergic receptor (β-AR) signaling in healthy and diseased cardiomyocytes.
+BACKGROUND:
+Diminished cyclic adenosine monophosphate (cAMP) and augmented cyclic guanosine monophosphate (cGMP) signaling is characteristic for failing hearts. Among the PDE superfamily, PDE2 has the unique property of being able to be stimulated by cGMP, thus leading to a remarkable increase in cAMP hydrolysis mediating a negative cross talk between cGMP and cAMP signaling. However, the role of PDE2 in HF is poorly understood.
+METHODS:
+Immunoblotting, radioenzymatic- and fluorescence resonance energy transfer-based assays, video edge detection, epifluorescence microscopy, and L-type Ca2(+) current measurements were performed in myocardial tissues and/or isolated cardiomyocytes from human and/or experimental HF, respectively.
+RESULTS:
+Myocardial PDE2 expression and activity were ~2-fold higher in advanced human HF. Chronic β-AR stimulation via catecholamine infusions in rats enhanced PDE2 expression ~2-fold and cAMP hydrolytic activity ~4-fold, which correlated with blunted cardiac β-AR responsiveness. In diseased cardiomyocytes, higher PDE2 activity could be further enhanced by stimulation of cGMP synthesis via nitric oxide donors, whereas specific PDE2 inhibition partially restored β-AR responsiveness. Accordingly, PDE2 overexpression in healthy cardiomyocytes reduced the rise in cAMP levels and L-type Ca2(+) current amplitude, and abolished the inotropic effect following acute β-AR stimulation, without affecting basal contractility. Importantly, PDE2-overexpressing cardiomyocytes showed marked protection from norepinephrine-induced hypertrophic responses.
+CONCLUSIONS:
+PDE2 is markedly up-regulated in failing hearts and desensitizes against acute β-AR stimulation. This may constitute an important defense mechanism during cardiac stress, for example, by antagonizing excessive β-AR drive. Thus, activating myocardial PDE2 may represent a novel intracellular antiadrenergic therapeutic strategy in HF.

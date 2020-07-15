@@ -1,0 +1,9 @@
+Relationship between sex, ejection fraction, and B-type natriuretic peptide levels in patients hospitalized with heart failure and associations with inhospital outcomes: findings from the Get With The Guideline-Heart Failure Registry.
+BACKGROUND:
+In heart failure (HF), there are known differences in plasma B-type natriuretic peptide (BNP) levels between reduced and preserved ejection fraction (EF), but few HF studies have explored sex differences. We sought to evaluate the relationship between sex, EF, and BNP in HF patients and determine prognostic significance of BNP as it relates to sex and EF.
+METHODS:
+We included hospitals in Get With The Guidelines-Heart Failure that admitted 99,930 HF patients with reduced (EF <40%), borderline (EF 40%-49%), or preserved (EF ≥50%) EF. The primary end point was inhospital mortality. Multivariate models were used to compute odds ratios while accounting for hospital clustering.
+RESULTS:
+There were 47,025 patients with reduced (37% female), 13,950 with borderline (48% female), and 38,955 with preserved (65% female) EF. Women compared with men had higher admission median BNP levels with the greatest difference among reduced EF and smallest difference among preserved EF (median BNP in women vs men: EF reduced 1,259 vs 1,113 pg/mL, borderline 821 vs 732 pg/mL, and preserved 559 vs 540 pg/mL; P < .001 all comparisons). Ejection fraction and sex were independently associated with BNP. Inhospital mortality was 2.7%, and patients above the median BNP level had higher mortality than those below. After adjusting for over 20 clinical variables, the ability of BNP to predict inhospital mortality was similar among all subgroups (P for heterogeneity = .47).
+CONCLUSIONS:
+In a large registry, we found that despite sex/EF differences in BNP values, there was no significant difference in the ability of BNP to predict inhospital mortality among these subgroups.

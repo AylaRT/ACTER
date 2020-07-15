@@ -1,0 +1,1147 @@
+#############################################################################################
+ACTER Annotated Corpora for Term Extraction Research version 1.0 (only training data): SOURCE
+#############################################################################################
+
+Information about the corpora sources per domain/language. Always mentions the file ID, the annotation status, the source, the title and the number of tokens (tab-separated).
+More information can also be found in:
+Rigouts Terryn, A., Hoste, V., & Lefever, E. (2019). In No Uncertain Terms: A Dataset for Monolingual and Multilingual Automatic Term Extraction from Comparable Corpora. Language Resources and Evaluation, 1–34. https://doi.org/10.1007/s10579-019-09453-9
+
+
+==========
+CORRUPTION
+==========
+Corpus manually created with the help of the Dutch DGT of the European Commission. This is the only parallel corpus of aligned translations.
+
+-------
+ENGLISH
+-------
+corp_en_01	annotated   http://www.dsb-spc.be/doc/pdf/BROCHURE_CORRUPTION_EN_LowRes.pdf	Brochure corruptie	3488
+corp_en_02	annotated   http://www.europarl.europa.eu/pdf/meps/201305_Code_of_conduct_EN.pdf	Code of Conduct for Members of the European Parliament with respect to financial interests and conflicts of interest	1700
+corp_en_03	unannotated   http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2002:0348:FIN:EN:PDF	Bescherming van de financiële belangen van de Gemeenschappen en fraudebestrijding - Jaarverslag 2001	34275
+corp_en_04	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1456819174894&uri=CELEX:32008D0852	Besluit 2008/852/JBZ van de Raad inzake een netwerk van contactpunten ter bestrijding van corruptie	831
+corp_en_05	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=URISERV%3Al33019	Bescherming van de financiële belangen van de EU - fraudebestrijding	923
+corp_en_06	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52011DC0308	"COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL AND THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE Fighting Corruption in the EU /* COM/2011/0308 final */"	10229
+corp_en_07	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52003DC0317	Communication from the Commission to the Council, the European Parliament and the European Economic and Social Committee - On a comprehensive EU policy against corruption	7477
+corp_en_08	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1463555829778&uri=CELEX:32016D0003	BESLUIT (EU) 2016/456 VAN DE EUROPESE CENTRALE BANK	4153
+corp_en_09	annotated   http://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:32003F0568	Council Framework Decision 2003/568/JHA of 22 July 2003 on combating corruption in the private sector	1949
+corp_en_10	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1463555829778&uri=CELEX:32016D0063	BESLUIT (EU) 2016/63 VAN DE RAAD	366
+corp_en_11	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1456494029358&uri=CELEX:51999XG0331	Explanatory Report on the Second Protocol to the Convention on the protection of the European Communities' financial interests	6950
+corp_en_12	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52011DC0307	REPORT FROM THE COMMISSION TO THE COUNCIL on the modalities of European Union participation in the Council of Europe Group of States against Corruption (GRECO)	5786
+corp_en_13	unannotated   http://europa.eu/rapid/press-release_IP-12-135_nl.htm	Eurobarometer: Neemt corruptie toe?	646
+corp_en_14	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1457090061040&uri=CELEX:52011DC0595	REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL Protection of the European Union's financial interests-Fight against fraud-Annual Report 2010	7311
+corp_en_15	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1456569105020&uri=CELEX:52010DC0401	SUPPORTING DOCUMENT Accompanying the REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL On Progress in Romania under the Co-operation and Verification Mechanism ROMANIA: Technical Update	3875
+corp_en_16	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52012PC0363	Voorstel voor een richtlijn van het Europees Parlement en de Raad betreffende de strafrechtelijke bestrijding van fraude die de financiële belangen van de Unie schaadt	8875
+corp_en_17	unannotated   http://www.coe.int/t/dghl/monitoring/greco/evaluations/round3/GrecoEval3%282008%298_Belgium_One_EN.pdf	Evaluatierapport over België inzake strafbaarstellingen (ETS 173 en 191, PDC 2)	16752
+corp_en_18	unannotated   http://www.coe.int/t/dghl/monitoring/greco/evaluations/round3/GrecoEval3%282008%298_Belgium_Two_EN.pdf	Evaluatierapport over België; transparantie in de financiering van politieke partijen	14780
+corp_en_19	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=URISERV%3Al33300	VN-verdrag Corruptie	1382
+corp_en_20	unannotated   http://wetten.overheid.nl/BWBV0001532/2002-08-01#Verdrag_1	Verdrag inzake de strafrechtelijke bestrijding van corruptie	5688
+corp_en_21	unannotated   http://www.esfondi.lv/upload/02-kohezijas_fonds/Lielie_projekti/EK_vadl_par_interesu_konflikta_identif_publ_iepirk_EN.pdf	OLAF-gids belangenconflicten in aanbestedingsprocedures	8965
+corp_en_22	unannotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A52011DC0309&qid=1403034427589 	Verslag Commissie artikel 9 kaderbesluit inzake bestrijding corruptie privésector	3370
+corp_en_23	unannotated   http://ec.europa.eu/dgs/home-affairs/e-library/documents/policies/organized-crime-and-human-trafficking/corruption/docs/acr_2014_nl.pdf	EU ANTI-CORRUPTION REPORT	19328
+corp_en_24	unannotated   http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+RULES-EP+20150909+ANN-01+DOC+XML+V0//EN&navigationBar=YES	Explanatory Report on the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union - nl	7215
+
+------
+FRENCH
+------
+corp_fr_01	annotated   http://www.dsb-spc.be/doc/pdf/BROCHURE_CORRUPTION_FR_LowRes.pdf	Brochure corruptie	3840
+corp_fr_02	annotated   http://www.europarl.europa.eu/pdf/meps/201305_Code_of_conduct_FR.pdf	Code of Conduct for Members of the European Parliament with respect to financial interests and conflicts of interest	1631
+corp_fr_03	unannotated   http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2002:0348:FIN:FR:PDF	Bescherming van de financiële belangen van de Gemeenschappen en fraudebestrijding - Jaarverslag 2001	36806
+corp_fr_04	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1456819174894&uri=CELEX:32008D0852	Besluit 2008/852/JBZ van de Raad inzake een netwerk van contactpunten ter bestrijding van corruptie	946
+corp_fr_05	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=URISERV%3Al33019	Bescherming van de financiële belangen van de EU - fraudebestrijding	993
+corp_fr_06	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52011DC0308	"COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL AND THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE Fighting Corruption in the EU /* COM/2011/0308 final */"	11834
+corp_fr_07	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52003DC0317	Communication from the Commission to the Council, the European Parliament and the European Economic and Social Committee - On a comprehensive EU policy against corruption	8669
+corp_fr_08	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1463555829778&uri=CELEX:32016D0003	BESLUIT (EU) 2016/456 VAN DE EUROPESE CENTRALE BANK	4528
+corp_fr_09	annotated   http://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:32003F0568	Council Framework Decision 2003/568/JHA of 22 July 2003 on combating corruption in the private sector	2065
+corp_fr_10	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1463555829778&uri=CELEX:32016D0063	BESLUIT (EU) 2016/63 VAN DE RAAD	364
+corp_fr_11	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1456494029358&uri=CELEX:51999XG0331	Explanatory Report on the Second Protocol to the Convention on the protection of the European Communities' financial interests	7511
+corp_fr_12	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52011DC0307	REPORT FROM THE COMMISSION TO THE COUNCIL on the modalities of European Union participation in the Council of Europe Group of States against Corruption (GRECO)	6520
+corp_fr_13	unannotated   http://europa.eu/rapid/press-release_IP-12-135_nl.htm	Eurobarometer: Neemt corruptie toe?	766
+corp_fr_14	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1457090061040&uri=CELEX:52011DC0595	REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL Protection of the European Union's financial interests-Fight against fraud-Annual Report 2010	8321
+corp_fr_15	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1456569105020&uri=CELEX:52010DC0401	SUPPORTING DOCUMENT Accompanying the REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL On Progress in Romania under the Co-operation and Verification Mechanism ROMANIA: Technical Update	4503
+corp_fr_16	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52012PC0363	Voorstel voor een richtlijn van het Europees Parlement en de Raad betreffende de strafrechtelijke bestrijding van fraude die de financiële belangen van de Unie schaadt	9728
+corp_fr_17	unannotated   http://www.coe.int/t/dghl/monitoring/greco/evaluations/round3/GrecoEval3%282008%298_Belgium_One_FR.pdf	Evaluatierapport over België inzake strafbaarstellingen (ETS 173 en 191, PDC 2)	18587
+corp_fr_18	unannotated   http://www.coe.int/t/dghl/monitoring/greco/evaluations/round3/GrecoEval3%282008%298_Belgium_Two_FR.pdf	Evaluatierapport over België; transparantie in de financiering van politieke partijen	16767
+corp_fr_19	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=URISERV%3Al33300	VN-verdrag Corruptie	1528
+corp_fr_20	unannotated   https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168007f3f8	Verdrag inzake de strafrechtelijke bestrijding van corruptie	5698
+corp_fr_21	unannotated   http://ec.europa.eu/sfc/sites/sfc2014/files/sfc-files/guide-conflict-of-interests-FR.pdf	OLAF-gids belangenconflicten in aanbestedingsprocedures	10175
+corp_fr_22	unannotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A52011DC0309&qid=1403034427589 	Verslag Commissie artikel 9 kaderbesluit inzake bestrijding corruptie privésector	3922
+corp_fr_23	unannotated   http://ec.europa.eu/dgs/home-affairs/e-library/documents/policies/organized-crime-and-human-trafficking/corruption/docs/acr_2014_fr.pdf	EU ANTI-CORRUPTION REPORT	23116
+corp_fr_24	unannotated   http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:51998XG1215:FR:HTML	Explanatory Report on the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union - nl	7509
+
+-----
+DUTCH
+-----
+corp_nl_01	annotated   http://www.dsb-spc.be/doc/pdf/BROCHURE_CORRUPTION_NL_LowRes.pdf	Brochure corruptie	3558
+corp_nl_02	annotated   http://www.europarl.europa.eu/pdf/meps/201305_Code_of_conduct_NL.pdf	Code of Conduct for Members of the European Parliament with respect to financial interests and conflicts of interest	1693
+corp_nl_03	unannotated   http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2002:0348:FIN:Nl:PDF	Bescherming van de financiële belangen van de Gemeenschappen en fraudebestrijding - Jaarverslag 2001	34793
+corp_nl_04	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1456819174894&uri=CELEX:32008D0852	Besluit 2008/852/JBZ van de Raad inzake een netwerk van contactpunten ter bestrijding van corruptie	870
+corp_nl_05	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=URISERV%3Al33019	Bescherming van de financiële belangen van de EU - fraudebestrijding	984
+corp_nl_06	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52003DC0317	Communication from the Commission to the Council, the European Parliament and the European Economic and Social Committee - On a comprehensive EU policy against corruption	10876
+corp_nl_07	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52011DC0308	"COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL AND THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE Fighting Corruption in the EU /* COM/2011/0308 final */"	8036
+corp_nl_08	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1463555829778&uri=CELEX:32016D0003	BESLUIT (EU) 2016/456 VAN DE EUROPESE CENTRALE BANK	4151
+corp_nl_09	annotated   http://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:32003F0568	Council Framework Decision 2003/568/JHA of 22 July 2003 on combating corruption in the private sector	1962
+corp_nl_10	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1463555829778&uri=CELEX:32016D0063	BESLUIT (EU) 2016/63 VAN DE RAAD	377
+corp_nl_11	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1456494029358&uri=CELEX:51999XG0331	Explanatory Report on the Second Protocol to the Convention on the protection of the European Communities' financial interests	6237
+corp_nl_12	annotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52011DC0307	REPORT FROM THE COMMISSION TO THE COUNCIL on the modalities of European Union participation in the Council of Europe Group of States against Corruption (GRECO)	7076
+corp_nl_13	unannotated   http://europa.eu/rapid/press-release_IP-12-135_nl.htm	Eurobarometer: Neemt corruptie toe?	670
+corp_nl_14	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1457090061040&uri=CELEX:52011DC0595	REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL Protection of the European Union's financial interests-Fight against fraud-Annual Report 2010	7497
+corp_nl_15	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1456569105020&uri=CELEX:52010DC0401	SUPPORTING DOCUMENT Accompanying the REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL On Progress in Romania under the Co-operation and Verification Mechanism ROMANIA: Technical Update	4269
+corp_nl_16	unannotated   http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52012PC0363	Voorstel voor een richtlijn van het Europees Parlement en de Raad betreffende de strafrechtelijke bestrijding van fraude die de financiële belangen van de Unie schaadt	8980
+corp_nl_17	unannotated   http://www.coe.int/t/dghl/monitoring/greco/evaluations/round3/GrecoEval3%282008%298_Belgium_One_NL.pdf	Evaluatierapport over België inzake strafbaarstellingen (ETS 173 en 191, PDC 2)	18021
+corp_nl_18	unannotated   http://www.coe.int/t/dghl/monitoring/greco/evaluations/round3/GrecoEval3%282008%298_Belgium_Two_NL.pdf	Evaluatierapport over België; transparantie in de financiering van politieke partijen	16073
+corp_nl_19	annotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=URISERV%3Al33300	VN-verdrag Corruptie	1485
+corp_nl_20	unannotated   http://wetten.overheid.nl/BWBV0001532/geldigheidsdatum_05-09-2013#VertalingNL	Verdrag inzake de strafrechtelijke bestrijding van corruptie	5958
+corp_nl_21	unannotated   http://ec.europa.eu/sfc/sites/sfc2014/files/sfc-files/guide-conflict-of-interests-NL.pdf	OLAF-gids belangenconflicten in aanbestedingsprocedures	9649
+corp_nl_22	unannotated   http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A52011DC0309&qid=1403034427589 	Verslag Commissie artikel 9 kaderbesluit inzake bestrijding corruptie privésector	3570
+corp_nl_23	unannotated   http://ec.europa.eu/dgs/home-affairs/e-library/documents/policies/organized-crime-and-human-trafficking/corruption/docs/acr_2014_nl.pdf	EU ANTI-CORRUPTION REPORT	20553
+corp_nl_24	unannotated   http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+RULES-EP+20150909+ANN-01+DOC+XML+V0//EN&navigationBar=YES	Explanatory Report on the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union - nl	7203
+
+=====================
+EQUITATION - DRESSAGE
+=====================
+Comparable corpus manually created for this project.
+
+-------
+ENGLISH
+-------
+equi_en_001	annotated   https://en.wikipedia.org/wiki/Equestrianism	equestrianism	5485
+equi_en_002	annotated   https://en.wikipedia.org/wiki/Dressage	dressage	4977
+equi_en_003	annotated   https://en.wikipedia.org/wiki/Classical_dressage	classical dressage	1580
+equi_en_004	annotated   https://en.wikipedia.org/wiki/Airs_above_the_ground#Ballotade	ballotade	880
+equi_en_005	annotated   https://en.wikipedia.org/wiki/Piaffe	piaffe	439
+equi_en_006	annotated   https://en.wikipedia.org/wiki/Passage_(dressage)	passage	155
+equi_en_007	annotated   https://en.wikipedia.org/wiki/Half-pass	half-pass	503
+equi_en_008	annotated   https://en.wikipedia.org/wiki/Trot	trot	1887
+equi_en_009	annotated   https://en.wikipedia.org/wiki/Pirouette_(dressage)	pirouette	422
+equi_en_010	annotated   https://dressagetoday.com/instruction/easy-canter-pirouettes-with-morten-thomsen-12545	easy canter pirouettes	1867
+equi_en_011	annotated   https://dressagetoday.com/instruction/understand-your-center-of-dynamics-in-the-saddle	center of dynamics in the saddle	764
+equi_en_012	annotated   https://dressagetoday.com/instruction/improve-shoulder-position-by-creating-positive-tension	improve shoulder position by creating positive tension	775
+equi_en_013	annotated   https://dressagetoday.com/instruction/how-to-organize-plan-and-structure-your-ride	how to organize, plan, and structure your ride	1219
+equi_en_014	annotated   https://dressagetoday.com/instruction/how-can-i-improve-my-balance-in-posting-trot	how can I improve my balance in posting trot	965
+equi_en_015	annotated   https://dressagetoday.com/instruction/focus-on-the-spine-to-correct-shoulder-position	focus on the spine to correct shoulder position	759
+equi_en_016	annotated   https://dressagetoday.com/instruction/finding-the-ideal-free-walk	finding the ideal free walk	1539
+equi_en_017	annotated   https://dressagetoday.com/instruction/are-there-different-versions-of-turn-on-the-forehand	are there different version of turn on the forehand	917
+equi_en_018	annotated   https://dressagetoday.com/theory/dressage-solutions-prevent-your-horses-shoulders-from-falling-in-or-out	dressage solutions: prevent your horse's shoulders from falling in or out	99
+equi_en_019	annotated   https://dressagetoday.com/instruction/uncover-the-mystery-of-on-the-bit	uncover the mystery of the bit	1178
+equi_en_020	annotated   https://dressagetoday.com/instruction/polish-your-dressage-freestyle	polish your dressage free-style	520
+equi_en_021	annotated   https://dressagetoday.com/instruction/teaching-travers-with-belinda-nairn-wertman	travers	2619
+equi_en_022	annotated   https://dressagetoday.com/instruction/create-more-jump-in-the-canter	create more jump in the canter	407
+equi_en_023	annotated   https://dressagetoday.com/instruction/the-secret-to-free-forward-collection	the secret to free forward collection	1630
+equi_en_024	annotated   https://dressagetoday.com/instruction/connect-your-horse-in-shoulder-fore	connect your horse in shoulder fore	254
+equi_en_025	annotated   https://dressagetoday.com/learn-by-levels/hilda-gurney-begin-developing-piaffe	begin developing piaffe	1713
+equi_en_026	annotated   https://dressagetoday.com/instruction/how-to-ride-and-utilize-shoulder-in-with-ernst-hoyos	how to ride and utilize shoulder-in	2599
+equi_en_027	annotated   https://dressagetoday.com/instruction/transitions-for-throughness	transitions for throughness	706
+equi_en_028	annotated   https://dressagetoday.com/learn-by-levels/horse-bending-walk-pirouette-55092	horse bending walk pirouette	1336
+equi_en_029	annotated   https://dressagetoday.com/instruction/71-training-tips-from-four-dressage-olympians	71 training tips from four dressage olympians	3515
+equi_en_030	annotated   https://dressagetoday.com/instruction/improve-dressage-basics-55132	improve dressage basics	3093
+equi_en_031	annotated   https://dressagetoday.com/instruction/10-tips-for-better-dressage-trot-lengthenings	10 tips for better dressage trot lengthenings	399
+equi_en_032	annotated   https://dressagetoday.com/instruction/leg-yield-work-55119	leg yield work	908
+equi_en_033	annotated   https://dressagetoday.com/theory/preparing-the-young-dressage-horse-for-success-54542	preparing the young dressage horse for success	3048
+equi_en_034	annotated   https://dressagetoday.com/theory/systematic-dressage-training-with-cindy-ishoy-30539	systematic dressage training	2313
+equi_en_035	unannotated   https://dressagetoday.com/instruction/dressage-training-tips-from-kyra-kyrklund-20542	dressage training tips	841
+equi_en_036	unannotated   https://dressagetoday.com/instruction/how-to-fine-tune-your-dressage-aids-with-steffen-peters	how to fine-tune your dressage aids	2980
+equi_en_037	unannotated   https://dressagetoday.com/instruction/riders-guide-accuracy-balance-54524	accuracy & baance	1091
+equi_en_038	unannotated   https://dressagetoday.com/instruction/reviewing-level-skills-54522	reviewing level skills	1264
+equi_en_039	unannotated   https://dressagetoday.com/instruction/improve-your-dressage-seat-and-with-isabelle-von-neumann-cosel-part-2	improve your dressage seat	1986
+equi_en_040	unannotated   https://dressagetoday.com/instruction/calming-nervous-horse-lateral-movements-54517	calming nervous horse lateral movements	669
+equi_en_041	unannotated   https://dressagetoday.com/instruction/a-first-look-at-counter-canter-54618	a first look at counter canter	1595
+equi_en_042	unannotated   https://dressagetoday.com/instruction/christine-traurig-pushing-away-from-the-bit-54659	pushing away from the bit	2028
+equi_en_043	unannotated   https://dressagetoday.com/instruction/ride-canter-lengthening-55138	ride canter lengthening	1411
+equi_en_044	unannotated   https://dressagetoday.com/instruction/stay-horse-medium-trot-55137	medium trot	578
+equi_en_045	unannotated   https://dressagetoday.com/learn-by-levels/improve-reaction-time-in-the-circle-of-aids-53069	improve reaction time in the circle of aids	695
+equi_en_046	unannotated   http://www.dressage-academy.com/training/dressage/	dressage	462
+equi_en_047	unannotated   http://www.dressage-academy.com/training/dressage-training-pyramid/	dressage training pyramid	366
+equi_en_048	unannotated   http://www.dressage-academy.com/training/rhythm/	rhythm	589
+equi_en_049	unannotated   http://www.dressage-academy.com/training/relaxation/	relaxation	546
+equi_en_050	unannotated   http://www.dressage-academy.com/training/contact/	contact	424
+equi_en_051	unannotated   http://www.dressage-academy.com/training/impulsion/	impulsion	395
+equi_en_052	unannotated   http://www.dressage-academy.com/training/straightness/	straightness	705
+equi_en_053	unannotated   http://www.dressage-academy.com/training/collection/	collection	736
+equi_en_054	unannotated   http://www.dressage-academy.com/training/dressage-scores-meaning/	meaning of dressage scores	504
+equi_en_055	unannotated   http://www.dressage-academy.com/training/dressage-terminology/	dressage terminology	1397
+equi_en_056	unannotated   http://www.dressage-academy.com/training/introductory-level-dressage/	introductory level dressage	337
+equi_en_057	unannotated   http://www.dressage-academy.com/training/training-level-dressage/	training level dressage	320
+equi_en_058	unannotated   http://www.dressage-academy.com/training/first-level-dressage/	first level dressage	389
+equi_en_059	unannotated   http://www.dressage-academy.com/training/second-level-dressage/	second level dressage	287
+equi_en_060	unannotated   http://www.dressage-academy.com/training/third-level-dressage/	third level dressage	234
+equi_en_061	unannotated   http://www.dressage-academy.com/training/fourth-level-dressage/	fourth level dressage	272
+equi_en_062	unannotated   http://www.dressage-academy.com/training/prix-st-georges/	prix st-georges	235
+equi_en_063	unannotated   http://www.dressage-academy.com/training/intermediate-i-level-dressage/	intermediate I level dressage	163
+equi_en_064	unannotated   http://www.dressage-academy.com/training/intermediate-ii-level-dressage/	intermediate II level dressage	144
+equi_en_065	unannotated   http://www.dressage-academy.com/training/grand-prix-level-dressage/	grand prix level dressage	179
+equi_en_066	unannotated   http://www.dressage-academy.com/training/the-half-pass/	the half pass	257
+equi_en_067	unannotated   http://www.dressage-academy.com/training/rein-back/	rein back	275
+equi_en_068	unannotated   http://www.dressage-academy.com/training/the-dressage-arena/	the dressage arena	406
+equi_en_069	unannotated   http://www.dressage-academy.com/training/dressage-riders-seat/	dressage rider's seat	1004
+equi_en_070	unannotated   http://www.dressage-academy.com/training/long-and-low-dressage-foundation/	long and low	795
+equi_en_071	unannotated   http://www.dressage-academy.com/training/3-loop-serpentine/	3-loop serpentine	345
+equi_en_072	unannotated   http://dressagefundamentals.com/a-one-eyed-thoroughbred-takes-his-ammy-to-grand-prix/	a one-eyed thoroughbred takes his Ammy to grand-prix	1797
+equi_en_073	unannotated   http://dressagefundamentals.com/conformation-transformation-remy/	conformation transformation	602
+equi_en_074	unannotated   http://dressagefundamentals.com/getting-control-of-your-horses-shoulders-with-the-leg-yield-hexagon/	getting control of your horse's shoulder with the leg yield	1103
+equi_en_075	unannotated   http://www.meredithmanor.edu/about/courses/riding_dressage.asp	riding dressage	576
+equi_en_076	unannotated   https://en.wikipedia.org/wiki/On_the_bit	on the bit	779
+equi_en_077	unannotated   https://en.wikipedia.org/wiki/Riding_aids	riding aids	3088
+equi_en_078	unannotated   https://en.wikipedia.org/wiki/Impulsion	impulsion	850
+equi_en_079	unannotated   https://en.wikipedia.org/wiki/Throughness	throughness	235
+equi_en_080	unannotated   https://en.wikipedia.org/wiki/Collection_(horse)	collectoin	820
+equi_en_081	unannotated   https://dressagetoday.com/uncategorized/horse-heavy-forehand-exercises-18264	exercises for a heavy forehand	1220
+equi_en_082	unannotated   https://dressagetoday.com/instruction/id-simple-turn-forehand-benefits-16498	benefits of simple turn on the forehand	475
+equi_en_083	unannotated   https://practicalhorsemanmag.com/training/turnonforehand_102105	turn on the forehand	607
+equi_en_084	unannotated   https://practicalhorsemanmag.com/training/exercises-and-advice-from-robert-dover	Robert Dover exercises and advice	2109
+equi_en_085	unannotated   https://practicalhorsemanmag.com/training/14-training-tips-olympian-carl-hester	14 training tips from olympian Carl Hester	2757
+equi_en_086	unannotated   https://practicalhorsemanmag.com/training/leslie-webb-gymnastic-exercise-shoulder-in-30945	gymnastic exercises: shoulder-in	3053
+equi_en_087	unannotated   https://practicalhorsemanmag.com/training/scribing-for-a-dressage-judge-29572	scribing for a dressage-judge	778
+equi_en_088	unannotated   https://practicalhorsemanmag.com/training/whats-2015-dressage-tests-27817	2015 dressage tests	2606
+equi_en_089	unannotated   https://practicalhorsemanmag.com/training/how-do-i-teach-my-horse-to-bend-30521	how do I teach my horse to bend?	825
+
+------
+FRENCH
+------
+equi_fr_001	annotated	https://fr.wikipedia.org/wiki/Sport_%C3%A9questre	sport équestre	1158
+equi_fr_002	annotated	https://fr.wikipedia.org/wiki/Dressage_(%C3%A9quitation)	dressage	463
+equi_fr_003	annotated	https://fr.wikipedia.org/wiki/%C3%89quitation_classique	équitation classique	3796
+equi_fr_004	annotated	https://fr.wikipedia.org/wiki/Airs_relev%C3%A9s	airs relevés	535
+equi_fr_005	annotated	http://www.cheval-savoir.com/2142-beaupere-dressage-cheval-les-arrets-test	Les arrêts et le test de « l’étape 1 »	437
+equi_fr_006	annotated	http://www.ifce.fr/cadre-noir/ecole-nationale-dequitation/le-cadre-noir/sauts-decole/	Les sauts d’école	284
+equi_fr_007	annotated	http://www.cheval-haute-ecole.com/index30602.html	épaule en-dedans	3447
+equi_fr_008	annotated	http://www.le-site-cheval.com/figures/epaule_dedans.php	épaule dedans	355
+equi_fr_009	annotated	http://www.le-site-cheval.com/figures/cession_jambe.php	cession-jambe	310
+equi_fr_010	annotated	http://www.le-site-cheval.com/figures/demi_tour.php	demi-tour	110
+equi_fr_011	annotated	http://www.le-site-cheval.com/figures/appuyer.php	appuyer	73
+equi_fr_012	annotated	http://www.le-site-cheval.com/figures/tete_mur.php	tête au mur ou travers	181
+equi_fr_013	annotated	http://www.le-site-cheval.com/figures/changement_pied.php	changement de pied	159
+equi_fr_014	annotated	http://www.le-site-cheval.com/figures/pirouette.php	pirouette	110
+equi_fr_015	annotated	http://www.le-site-cheval.com/figures/passage.php	passage	55
+equi_fr_016	annotated	http://www.le-site-cheval.com/figures/piaffer.php	piaffer	55
+equi_fr_017	annotated	http://www.le-site-cheval.com/figures/pas_espagnol.php	pas espagnol	77
+equi_fr_018	annotated	http://www.conseilartequestre.com/articles.php	épaule en dedans	1345
+equi_fr_019	annotated	http://www.conseilartequestre.com/articles.php?numero=22	changement de pied	1291
+equi_fr_020	annotated	http://www.cheval-haute-ecole.com/index30802.html	galop	2969
+equi_fr_021	annotated	http://www.pamfou-dressage.com/fr/technique-dressage-le-changement-de-pied/	changement de pied	1702
+equi_fr_022	annotated	http://www.pamfou-dressage.com/fr/conseil-de-juge-n65-larret/	arrêt	576
+equi_fr_023	annotated	http://www.pamfou-dressage.com/fr/conseil-de-juge-n63-le-renouveau-du-dressage-moderne/	le renouveau du dressage moderne	205
+equi_fr_024	annotated	http://www.pamfou-dressage.com/fr/conseildejuge62/	ÊTRE À LA LETTRE	521
+equi_fr_025	annotated	http://www.pamfou-dressage.com/fr/conseildejuge61/	DES NOTES DE 0 À 10	544
+equi_fr_026	annotated	http://www.pamfou-dressage.com/fr/conseildejuge60/	NOTES D’ENSEMBLE – LA POSITION	336
+equi_fr_027	annotated	http://www.pamfou-dressage.com/fr/conseildejuge59/	NOTES D’ENSEMBLE – SOUMISSION	176
+equi_fr_028	annotated	http://www.pamfou-dressage.com/fr/conseildejuge58/	NOTES D’ENSEMBLE – L’IMPULSION	242
+equi_fr_029	annotated	http://www.pamfou-dressage.com/fr/conseildejuge57/	NOTES D’ENSEMBLE – LES ALLURES	358
+equi_fr_030	annotated	http://www.pamfou-dressage.com/fr/conseildejuge54/	LA SERPENTINE	295
+equi_fr_031	annotated	http://www.pamfou-dressage.com/fr/conseildejuge53/	CONCOURS D’ENTRAINEMENT	349
+equi_fr_032	annotated	http://www.pamfou-dressage.com/fr/conseildejuge50/	RLM – MUSIQUE ET CHORÉGRAPHIE	901
+equi_fr_033	annotated	http://www.pamfou-dressage.com/fr/conseildejuge49/	RLM – LE CONTRÔLE	374
+equi_fr_034	annotated	http://www.pamfou-dressage.com/fr/conseildejuge48/	ÉPAULES DEVANT	432
+equi_fr_035	annotated	http://www.pamfou-dressage.com/fr/conseildejuge45/	LES TRANSITIONS	624
+equi_fr_036	annotated	http://www.pamfou-dressage.com/fr/conseildejuge44/	L’ENTRÉE	445
+equi_fr_037	annotated	http://www.pamfou-dressage.com/fr/conseildejuge38/	LE MODÈLE BRITANNIQUE	296
+equi_fr_038	annotated	http://www.pamfou-dressage.com/fr/conseildejuge34/	CONTACT VERSUS LÉGÈRETÉ	526
+equi_fr_039	annotated	http://www.pamfou-dressage.com/fr/conseildejuge32/	AVEC OU SANS MORS ?	392
+equi_fr_040	annotated	http://www.pamfou-dressage.com/fr/conseildejuge31/	LE PAS RASSEMBLÉ	545
+equi_fr_041	annotated	http://www.pamfou-dressage.com/fr/conseildejuge26/	FILET OU BRIDE	359
+equi_fr_042	annotated	http://www.pamfou-dressage.com/fr/conseildejuge14/	JUGER LA REPRISE LIBRE	496
+equi_fr_043	annotated	http://www.pamfou-dressage.com/fr/la-revanche-des-patates-2-2-2-2-3/	LE RECULER	361
+equi_fr_044	annotated	http://www.pamfou-dressage.com/fr/la-revanche-des-patates-2-2-2-2/	LE TRACÉ DES DIAGONALES	209
+equi_fr_045	annotated	http://www.pamfou-dressage.com/fr/la-revanche-des-patates-2-2-2/	LA RECTITUDE	253
+equi_fr_046	annotated	http://www.pamfou-dressage.com/fr/la-revanche-des-patates-2-2/	LE PASSAGE DE COIN	155
+equi_fr_047	annotated	http://www.pamfou-dressage.com/fr/conseildejuge55/	LA PIROUETTE AU PAS	317
+equi_fr_048	annotated	http://www.pamfou-dressage.com/fr/conseildejuge46/	LE PAS ALLONGÉ	372
+equi_fr_049	annotated	http://www.pamfou-dressage.com/fr/conseildejuge39/	LA PRÉPARATION DU PIAFFER	233
+equi_fr_050	annotated	http://www.pamfou-dressage.com/fr/conseildejuge8/	LA PIROUETTE AU PAS	457
+equi_fr_051	annotated	http://www.pamfou-dressage.com/fr/conseildejuge7/	LA HANCHE EN DEDANS AU PAS	342
+equi_fr_052	annotated	http://www.pamfou-dressage.com/fr/conseildejuge52/	CERCLE AU TROT	318
+equi_fr_053	annotated	http://www.pamfou-dressage.com/fr/conseildejuge47/	PIAFFER & PASSAGE	345
+equi_fr_054	annotated	http://www.pamfou-dressage.com/fr/conseildejuge42/	LE TROT RASSEMBLÉ	403
+equi_fr_055	annotated	http://www.pamfou-dressage.com/fr/conseildejuge11/	LE BON TROT	360
+equi_fr_056	annotated	http://www.pamfou-dressage.com/fr/conseildejuge56/	LA PIROUETTE AU GALOP	388
+equi_fr_057	annotated	http://www.pamfou-dressage.com/fr/conseildejuge51/	ZIG ZAG	411
+equi_fr_058	annotated	http://www.pamfou-dressage.com/fr/conseildejuge40/	TRANSITION GALOP PAS	473
+equi_fr_059	annotated	http://www.pamfou-dressage.com/fr/conseildejuge30/	LE CHANGEMENT DE PIED EN L’AIR	399
+equi_fr_060	annotated	http://www.pamfou-dressage.com/fr/conseildejuge28/	L’APPRENTISSAGE DU CHANGEMENT DE PIED	338
+equi_fr_061	annotated	http://www.pamfou-dressage.com/fr/conseildejuge12/	LE BON GALOP	323
+equi_fr_062	annotated	http://www.pamfou-dressage.com/fr/conseildejuge10/	LES LIGNES DE CHANGEMENTS DE PIED	376
+equi_fr_063	annotated	http://www.pamfou-dressage.com/fr/conseildejuge9/	LA PIROUETTE AU GALOP	359
+equi_fr_064	annotated	https://www.fouganza.fr/conseils/apprentissage-du-changement-de-pied-tp_34569	changement de pied	815
+equi_fr_065	annotated	https://www.fouganza.fr/conseils/comment-lui-apprendre-le-depart-au-galop-tp_34504	comment lui apprendre le départ au galop	604
+equi_fr_066	annotated	http://www.cheval-haute-ecole.com/index31302.html	pas espagnol	991
+equi_fr_067	annotated	http://cours-equitation.com/2009/01/18/la-tete-au-mur/	tête au mur	881
+equi_fr_068	annotated	http://www.cheval-haute-ecole.com/index30702.html	appuyer	4093
+equi_fr_069	annotated	http://www.cheval-haute-ecole.com/index315.html	débourrage	1178
+equi_fr_070	annotated	http://allege-ideal.fr/archives/dossiers-ai/10659	Pour une bonne compréhension de la légèreté par JM Bertrand	330
+equi_fr_071	annotated	https://eduquer-son-cheval.com/le-tact-equestre-qualite-indispensable/	Le tact équestre, qualité indispensable d’homme de cheval	972
+equi_fr_072	annotated	https://eduquer-son-cheval.com/lequitation-de-tradition-francaise-une-alternative-a-lequitation-moderne/	L’équitation de tradition française, une alternative à l’équitation moderne	735
+equi_fr_073	annotated	https://eduquer-son-cheval.com/le-rassembler-le-comprendre-et-sy-preparer/	Le rassembler : le comprendre et s’y préparer…	1293
+equi_fr_074	annotated	https://eduquer-son-cheval.com/la-decontraction-de-la-machoire/?relatedposts_hit=1&relatedposts_origin=2170&relatedposts_position=1	La décontraction de la mâchoire	1116
+equi_fr_075	annotated	https://eduquer-son-cheval.com/quand-il-sappuie-sur-la-main/	Quand il s’appuie sur la main…	1357
+equi_fr_076	annotated	https://eduquer-son-cheval.com/comment-arreter-son-cheval-sans-les-mains/	Comment arrêter son cheval sans les mains ?	1738
+equi_fr_077	annotated	https://eduquer-son-cheval.com/la-lecon-de-la-jambe/	La leçon de la jambe	969
+equi_fr_078	annotated	https://eduquer-son-cheval.com/dressage-illusion-complicite/	Quand le dressage donne l’illusion de la complicité	1148
+equi_fr_079	unannotated	https://eduquer-son-cheval.com/exercices-assouplissement-cheval/	Quels sont les exercices d’assouplissement du cheval ?	1566
+equi_fr_080	unannotated	https://eduquer-son-cheval.com/lequilibre-du-cheval-une-base-de-lequitation/	L’équilibre du cheval, une base de l’équitation	981
+equi_fr_081	unannotated	https://eduquer-son-cheval.com/adl6-de-la-cession-a-la-jambe-a-lappuyer/	De la cession à la jambe à l’appuyer	636
+equi_fr_082	unannotated	http://eduquer-son-cheval.com/adl3-deplacer-les-epaules-et-premieres-cessions-a-la-jambe/	Déplacer les épaules et premières cessions à la jambe	777
+equi_fr_083	unannotated	http://eduquer-son-cheval.com/assouplir-et-muscler-son-cheval-dans-les-deplacements-lateraux/	Assouplir et muscler son cheval dans les déplacements latéraux	983
+equi_fr_084	unannotated	https://eduquer-son-cheval.com/adl2-pirouette-renversee-et-deplacer-les-hanches-au-pas/	Pirouette renversée et déplacer les hanches au pas	1018
+equi_fr_085	unannotated	https://eduquer-son-cheval.com/lextension-dencolure-les-bonnes-pratiques/	L’extension d’encolure : les bonnes pratiques	1062
+equi_fr_086	unannotated	https://eduquer-son-cheval.com/les-eperons-savoir-sen-servir/	Les éperons, savoir s’en servir	871
+equi_fr_087	unannotated	https://eduquer-son-cheval.com/descente-de-main-descente-de-jambe/	Descente de main, descente de jambe…	856
+equi_fr_088	unannotated	https://eduquer-son-cheval.com/adl5-lepaule-en-dedans/	L’épaule en dedans	616
+equi_fr_089	unannotated	https://eduquer-son-cheval.com/adl4-cessions-a-la-jambe-et-preparation-a-leed/	Cession à la jambe et préparation à l’EED	832
+equi_fr_090	unannotated	https://eduquer-son-cheval.com/jambe-isolee-et-demi-tour-autour-des-epaules/	Apprendre les déplacements latéraux : la jambe isolée	820
+equi_fr_091	unannotated	https://eduquer-son-cheval.com/savoir-lacher-les-renes/	Savoir lacher les rênes	744
+equi_fr_092	unannotated	https://eduquer-son-cheval.com/partir-au-galop-en-equilibre/	Partir au galop en équilibre	952
+equi_fr_093	unannotated	https://eduquer-son-cheval.com/assouplir-et-muscler-son-cheval-avec-le-reculer/	Assouplir et muscler son cheval avec le reculer	659
+equi_fr_094	unannotated	https://eduquer-son-cheval.com/assouplir-et-muscler-son-cheval-dans-les-transitions/	Assouplir et muscler son cheval dans les transitions	747
+equi_fr_095	unannotated	https://eduquer-son-cheval.com/assouplir-et-muscler-son-cheval-definitions/	Assouplir et muscler son cheval – Définitions	726
+equi_fr_096	unannotated	https://eduquer-son-cheval.com/bien-detendre-son-cheval/	Bien détendre son cheval	821
+equi_fr_097	unannotated	http://www.cheval-partage.net/cheval-sur-les-epaules-comment-y-remedier/	Cheval sur les épaules : comment y remédier ?	1037
+equi_fr_098	unannotated	http://www.cheval-partage.net/assouplir-son-cheval-pourquoi-et-comment-faire/	Assouplir son cheval : pourquoi et comment faire ?	2854
+equi_fr_099	unannotated	http://www.cheval-partage.net/dressage-exterieur-bienfaits-exercices/	Dressage en extérieur : bienfaits et exercices	1320
+equi_fr_100	unannotated	http://www.cheval-partage.net/ameliorer-la-qualite-du-galop-de-son-cheval/	Améliorer la qualité du galop de son cheval	789
+equi_fr_101	unannotated	http://www.cheval-partage.net/probleme-reactivite-du-cheval-exercices/	Mon cheval ne répond pas à la jambe… Que faire ?	1446
+equi_fr_102	unannotated	http://www.lydie-k-dressage.com/pages/videos-de-travail/le-cheval-froid-aux-jambes.html	Le cheval "froid" aux jambes	1801
+equi_fr_103	unannotated	https://www.fouganza.be/conseils/monter-un-cheval-froid-aux-jambes-a_26199	monter un cheval froid aux jambes	688
+equi_fr_104	unannotated	http://www.cheval-haute-ecole.com/index206.html	CHEVAL FLEGMATIQUE A REVEILLER 	519
+equi_fr_105	unannotated	http://reflexionsequestres.unblog.fr/2014/11/15/le-changement-de-pied-au-galop/	Le changement de pied au galop	671
+equi_fr_106	unannotated	https://www.ffe.com/Disciplines/General/Dressage/Presentation-du-Dressage	PRÉSENTATION DU DRESSAGE	245
+equi_fr_107	unannotated	http://mag.monchval.com/le-dressage-en-competition/	le dressage en compétition	1817
+equi_fr_108	unannotated	http://mag.monchval.com/une-journee-en-concours-de-dressage/	une journée en concours de dressage	1924
+equi_fr_109	unannotated	http://mag.monchval.com/quatre-exercices-de-dressage/	Quatre exercises de dressage	1943
+equi_fr_110	unannotated	http://mag.monchval.com/fei-world-cup-de-dressage/	FEI world cup dressage	1326
+equi_fr_111	unannotated	http://mag.monchval.com/lexique-equitation-pour-les-nuls/	lexique équitation pour les nuls	1716
+equi_fr_112	unannotated	http://www.cavalnature.info/Stock/Le%20dressauge%20du%20cheval%20d%27endurance...htm	dressage du cheval d'endurance	1432
+equi_fr_113	unannotated	http://www.cheval-haute-ecole.com/index802.html	lexique cheval haute-école	4976
+equi_fr_114	unannotated	http://www.atelier-equitation-classique.com/index.php/definition-diagramme-de-ven	Diagramme de Ven : qualités des allures	920
+equi_fr_115	unannotated	http://www.mecaniqueequestre.com/generalitessurle/	Mécanique Équestre Stages & Compétitions	1203
+equi_fr_116	unannotated	http://eroschevauxpassion.over-blog.com/article-augmenter-engagement-posterieur-cheval-102844893.html	augmenter engagement postérieur cheval	999
+equi_fr_117	unannotated	http://www.cheval-savoir.com/114-report-poids-sur-posterieurs	Le report du poids sur les postérieurs	1091
+equi_fr_118	unannotated	http://www.cheval-savoir.com/122-position-dressage-cheval	Travail de la position du buste et de l'assiette	1191
+equi_fr_119	unannotated	http://www.cheval-savoir.com/130-roll-kur	roll kür	1543
+equi_fr_120	unannotated	http://www.monchevalmedit.com/2014/01/la-suisse-interdit-le-rollkur-le-rasage.html	La Suisse interdit le rollkür, le rasage des vibrisses et toute une liste de maltraitances	514
+equi_fr_121	unannotated	http://www.lydie-k-dressage.com/pages/articles-techniques-et-methodes/ldr-ou-rollkur.html	LDR ou rollkur ?	1397
+equi_fr_122	unannotated	http://www.atelier-equitation-classique.com/index.php/les-hyperflexions-la-polemique	Les hyperflexions : la polémique	1881
+equi_fr_123	unannotated	http://www.cheval-partage.net/les-trois-equilibres-fondamentaux/	Les trois équilibres fondamentaux	1069
+equi_fr_124	unannotated	https://www.fnch.ch/fr/Cheval/Actualites/Toutes-les-news-1/La-gymnastique-du-cheval-Les-origines-oubliees-des-figures-de-manege.html	LA GYMNASTIQUE DU CHEVAL: LES ORIGINES OUBLIÉES DES FIGURES DE MANÈGE	1927
+equi_fr_125	unannotated	https://www.fnch.ch/fr/Disciplines/Dressage.html	DISCIPLINE DRESSAGE	350
+
+-----
+DUTCH
+-----
+equi_nl_001	annotated	https://nl.wikipedia.org/wiki/Paardensport	paardensport	699
+equi_nl_002	annotated	https://nl.wikipedia.org/wiki/Dressuur	dressuur	1182
+equi_nl_003	annotated	https://nl.wikipedia.org/wiki/K%C3%BCr_op_muziek	kür op muziek	155
+equi_nl_004	annotated	https://nl.wikipedia.org/wiki/Galopwissel	galopwissel	545
+equi_nl_005	annotated	https://nl.wikipedia.org/wiki/Galop	galop	193
+equi_nl_006	annotated	https://nl.wikipedia.org/wiki/Draf	draf	231
+equi_nl_007	annotated	https://nl.wikipedia.org/wiki/Ruiter_(persoon)	ruiter	499
+equi_nl_008	annotated	https://nl.wikipedia.org/wiki/Paardentuig	paardentuig	478
+equi_nl_009	annotated	http://www.paardenbegrijpen.nl/oefeningen/pirouette/	pirouette	627
+equi_nl_010	annotated	http://www.paardenbegrijpen.nl/wp-content/uploads/2013/02/EBRR-free-eBook-NL.pdf	Een introductie tot rechtrichten	1874
+equi_nl_011	annotated	http://www.paardenbegrijpen.nl/wp-content/uploads/2013/02/EBRR-free-eBook-NL.pdf	Zes sleutels van het rechtrichten	2574
+equi_nl_012	annotated	http://www.klassiekpaardrijden.nl/53/de-volte.html	de volte	818
+equi_nl_013	annotated	http://www.klassiekpaardrijden.nl/54/rechtuit-met-buiging.html	rechtuit met buiging	243
+equi_nl_014	annotated	http://www.klassiekpaardrijden.nl/55/schouderbinnenwaarts.html	schouder binnenwaarts	731
+equi_nl_015	annotated	http://www.klassiekpaardrijden.nl/56/travers.html	travers	840
+equi_nl_016	annotated	http://www.klassiekpaardrijden.nl/57/renvers.html	revers	484
+equi_nl_017	annotated	http://www.klassiekpaardrijden.nl/58/appuyeren.html	appuyeren	526
+equi_nl_018	annotated	http://www.klassiekpaardrijden.nl/59/zijgangen-op-de-volte.html	zijgangen op de volte	204
+equi_nl_019	annotated	http://www.klassiekpaardrijden.nl/60/pirouette.html	pirouette	1001
+equi_nl_020	annotated	http://www.klassiekpaardrijden.nl/61/galopwissel.html	galopwissel	588
+equi_nl_021	annotated	http://www.klassiekpaardrijden.nl/62/piaf.html	piaf	603
+equi_nl_022	annotated	http://www.klassiekpaardrijden.nl/63/passage.html	passage	378
+equi_nl_023	annotated	https://www.bokt.nl/wiki/Klasse_(dressuur)	dressuurklasses	1984
+equi_nl_024	annotated	https://www.bokt.nl/wiki/Lichtrijden	lichtrijden	465
+equi_nl_025	annotated	https://www.bokt.nl/wiki/Hogeschool#courbette	hogeschool: courbette	1256
+equi_nl_026	annotated	https://www.bokt.nl/wiki/Zijgang	zijgang	763
+equi_nl_027	annotated	http://www.rosmagazine.nl/ros-online/beter_rijden/lichtrijden.html	lichtrijden	1377
+equi_nl_028	annotated	http://www.rosmagazine.nl/ros-online/beter_rijden/stelling.html	stelling	1561
+equi_nl_029	annotated	http://www.rosmagazine.nl/ros-online/beter_rijden/beenhulp.html	beenhulp	912
+equi_nl_030	annotated	http://www.rosmagazine.nl/ros-online/beter_rijden/hulpen-gewicht.html	gewichthulpen	1619
+equi_nl_031	annotated	http://www.rosmagazine.nl/ros-online/beter_rijden/aanleuning-balans.html	aanleuning en balans	1957
+equi_nl_032	annotated	http://www.rosmagazine.nl/ros-online/beter_rijden/doorzitten-lisanne.html	doorzitten	1368
+equi_nl_033	annotated	http://www.rosmagazine.nl/ros-online/beter_rijden/schuim.html	schuim	768
+equi_nl_034	annotated	http://www.dressuur.nl/berichten/waarom-lichtrijden-geen-sta-zitten-moet-zijn/969/	waarom lichtrijden geen sta-zitten moet zijn	366
+equi_nl_035	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/stapsgewijs-naar-betere-galop/11786/	stapsgewijs naar betere galop	468
+equi_nl_036	annotated	http://www.dressuur.nl/artikelen/algemeen-artikelen/slangenvolte-als-balansoefening/11673/	slangenvolte als balansoefening	438
+equi_nl_037	annotated	http://www.dressuur.nl/artikelen/algemeen-artikelen/de-waarde-van-voltes/11504/	de waarde van voltes	639
+equi_nl_038	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/oefening-betere-zit/11492/	oefeningen voor een betere zit	465
+equi_nl_039	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/rechtuit-goede-galop-aanspringen/11475/	rechtuit in de goede gelop aanspringen	515
+equi_nl_040	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/kom-beter-balans-lichtrijden/11454/	kom beter in balans met lichtrijden	605
+equi_nl_041	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/nog-paar-trainingstips/11471/	nog een paar trainingstips	421
+equi_nl_042	annotated	http://www.roosberg.nl/documents/2015/08/theorie-aan-teugel-en-nageeflijkheid.pdf	theorie: aan de teugel en nageeflijkheid	414
+equi_nl_043	annotated	http://www.roosberg.nl/documents/2015/08/theorie-aanleuning-en-constante-verbinding.pdf	aanleuning en constante verbinding	177
+equi_nl_044	annotated	http://www.roosberg.nl/documents/2015/08/theorie-contragalop.pdf	theorie: contragalop	410
+equi_nl_045	annotated	http://www.roosberg.nl/documents/2015/08/theorie-impuls.pdf	theorie: impuls	147
+equi_nl_046	annotated	http://www.horses.nl/opinie/09-09-25-moderne-dressuur-draait-alleen-om-spektakel/	moderne dressuur draait alleen om spektakel	710
+equi_nl_047	annotated	https://www.spaanserijschool.nl/over/oefeningen	oefeningen	434
+equi_nl_048	annotated	https://www.bokt.nl/wiki/Keertwending_om_de_achterhand	keertwending om de achterhand	490
+equi_nl_049	annotated	https://www.bokt.nl/wiki/Takt	takt	484
+equi_nl_050	annotated	https://www.bokt.nl/wiki/Skala_der_Ausbildung	skala der ausbildung	1405
+equi_nl_051	annotated	http://ruitergevoel.com/2015/05/21/doorzitten-alsof-het-makkelijk-is-7-tips/	doorzitten alsof het makkelijk is	1195
+equi_nl_052	annotated	https://www.knhs.nl/nieuws/2016/nieuwe-dressuurproeven-2016-wat-verandert-er-in-de-klasse-m/	wat verandert er in de klasse m	842
+equi_nl_053	annotated	https://www.knhs.nl/nieuws/2016/nieuwe-dressuurproeven-2016-vijf-vragen-over-de-klasse-bb-en-b/	vijf vragen over de klasse bb en b	1594
+equi_nl_054	annotated	https://www.knhs.nl/nieuws/2016/nieuwe-dressuurproeven-2016-wat-verandert-er-in-de-l1-en-l2/	wat verandert er in de l1 en l2	905
+equi_nl_055	annotated	https://www.knhs.nl/nieuws/2016/nieuwe-dressuurproeven-2016-de-klasse-z1-z2-zz-licht-en-zz-zwaar/	de klasse z1 z2 zz licht en zz zwaar	1097
+equi_nl_056	annotated	https://www.knhs.nl/nieuws/2016/nieuwe-dressuurproeven-2016-drie-vragen-over-afdelingsdressuur/	drie vragen over afdelingsdressuur	663
+equi_nl_057	annotated	http://www.dressuur.nl/berichten/waar-vraag-je-om/3891/	waar vraag je om	820
+equi_nl_058	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/verzamelen-zonder-weerstand/11852/	verzamelen zonder weerstand	665
+equi_nl_059	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/robert-doverje-kunt-uitvoeren-kunt-voorstellen/11833/	je kunt niet uitvoeren wat je je niet kunt voorstellen	624
+equi_nl_060	annotated	http://www.dressuur.nl/artikelen/rijtechnisch/uitdaging-ronde-volte/11784/	de uitdaging van een ronde volte	525
+equi_nl_061	annotated	https://www.dehoefslag.nl/laatste-nieuws/bastiaan-recht-legt-6-stapje.html	Bastiaan de Recht legt uit (6): Hoe verbeter je de stap?	696
+equi_nl_062	annotated	https://www.dehoefslag.nl/laatste-nieuws/bastiaan-recht-legt-3-hoe-krijg-paard-aan-been.html	Bastiaan de Recht legt uit (3): Aan het been zijn	660
+equi_nl_063	annotated	https://www.dehoefslag.nl/laatste-nieuws/bastian-recht-legt-1-hoe-stap-correct-op.html	Bastiaan de Recht legt uit (1): ‘Hoe stap ik correct op?’	813
+equi_nl_064	annotated	https://www.dehoefslag.nl/laatste-nieuws/bastiaan-recht-legt-2-teugelvoering.html	Bastiaan de Recht legt uit (2): Teugelvoering	831
+equi_nl_065	unannotated	https://www.dehoefslag.nl/laatste-nieuws/bastiaan-recht-legt-4-overgangen-rijden.html	Bastiaan de Recht legt uit (4): Overgangen rijden	773
+equi_nl_066	unannotated	https://www.dehoefslag.nl/laatste-nieuws/bastiaan-recht-legt-5-horizontaal-evenwicht-ontwikkelen.html	Bastiaan de Recht legt uit (5): Horizontaal evenwicht ontwikkelen	1194
+equi_nl_067	unannotated	https://www.dehoefslag.nl/laatste-nieuws/bastiaan-recht-legt-7-draf-balans.html	Bastiaan de Recht legt uit (7): Draf in balans	886
+equi_nl_068	unannotated	https://www.dehoefslag.nl/laatste-nieuws/travers-werken-aan-buiging.html	Travers: werken aan de buiging	281
+equi_nl_069	unannotated	https://www.dehoefslag.nl/laatste-nieuws/appuyeren-buiging-en-opzij.html	Appuyeren: buiging én opzij	242
+equi_nl_070	unannotated	https://www.dehoefslag.nl/laatste-nieuws/middengangen.html	middengangen	325
+equi_nl_071	unannotated	https://www.dehoefslag.nl/laatste-nieuws/keertwendingen.html	keertwendingen	427
+equi_nl_072	unannotated	https://www.dehoefslag.nl/laatste-nieuws/dressuur/johan-hamminga-voorwaartse-drang-is-alles.html	voorwaartse drang is alles	634
+equi_nl_073	unannotated	https://www.dehoefslag.nl/laatste-nieuws/dressuur/rijden-verruimingen-blijf-ritme.html	Het rijden van verruimingen: ‘Blijf in je ritme’	451
+equi_nl_074	unannotated	https://www.dehoefslag.nl/laatste-nieuws/dressuur/opzij-opzij-opzij-wijken.html	Opzij, opzij, opzij: wijken	263
+equi_nl_075	unannotated	https://www.dehoefslag.nl/academy-instructie/losrijden-maikel-van-vleuten.html	losrijden	1095
+equi_nl_076	unannotated	https://www.dehoefslag.nl/academy-instructie/aanleuning-en-verbinding-imke-schellekens.html	aanleuning en verbinding	2138
+equi_nl_077	unannotated	https://www.dehoefslag.nl/academy-instructie/appuyeren-edward-gal.html	appuyeren	1998
+equi_nl_078	unannotated	https://www.dehoefslag.nl/academy-instructie/competities-rijden-hans-peter-minderhoud.html	competities rijden	1277
+equi_nl_079	unannotated	https://www.dehoefslag.nl/academy-instructie/contragalop-edward-gal.html	contragalop	1407
+equi_nl_080	unannotated	https://www.dehoefslag.nl/academy-instructie/controle-maikel-van-vleuten.html	controle	1255
+equi_nl_081	unannotated	https://www.dehoefslag.nl/academy-instructie/jonge-dressuurpaard.html	het jonge dressuurpaard	1869
+equi_nl_082	unannotated	https://www.dehoefslag.nl/academy-instructie/pirouettes-edward-gal.html	pirouettes	1490
+equi_nl_083	unannotated	https://www.dehoefslag.nl/academy-instructie/tempocontrole-imke-schellekens.html	tempocontrole	2476
+equi_nl_084	unannotated	https://www.dehoefslag.nl/academy-instructie/wijken-kuit-edward-gal.html	wijken voor de kuit	1718
+equi_nl_085	unannotated	https://www.bitmagazine.nl/instructie/keertwending-om-de-voorhand/29738/	keertwending om de voorhand	1011
+equi_nl_086	unannotated	https://www.bitmagazine.nl/blog/blog-de-perfecte-volte-rijden/	de perfecte volte rijden	675
+equi_nl_087	unannotated	http://ruitergevoel.com/2014/12/11/stelling-buiging-en-rechtrichten/	stelling, buiging en rechtrichten	1211
+equi_nl_088	unannotated	http://ruitergevoel.com/2017/11/15/aanleuning-hoe-verbeter-ik-dit/	aanleuning: hoe verbeter ik dit?	712
+equi_nl_089	unannotated	http://ruitergevoel.com/2017/08/23/halsstrekken-voor-een-9/	halsstrekken voor een 9	1627
+equi_nl_090	unannotated	http://ruitergevoel.com/2017/06/30/2-oefeningen-voor-als-je-paard-strak-is-op-rechts/	oefeningen voor als je paard strak is op rechts	1161
+equi_nl_091	unannotated	http://ruitergevoel.com/2017/01/09/wendingen-rijden-dit-is-de-beste-oefening-om-te-checken-of-je-het-goed-doet/	wendingen rijden	714
+equi_nl_092	unannotated	http://ruitergevoel.com/2016/12/13/3-oefeningen-om-je-paard-fijner-op-twee-teugels-te-krijgen/	oefeningen om je paard fijner op twee teugels te krijgen	696
+equi_nl_093	unannotated	http://ruitergevoel.com/2016/10/26/3-stappen-om-je-paard-wel-de-wending-goed-door-te-krijgen/	3 stapen om je paard wel de wending goed door te krijgen	1263
+equi_nl_094	unannotated	http://ruitergevoel.com/2016/10/07/verbeter-direct-de-galop-van-je-paard-bonus-4-audio-oefeningen/	verbeter direct de galop van je paard	392
+equi_nl_095	unannotated	https://www.bitmagazine.nl/instructie/betere-stelling-en-buiging-door-echt-ronde-voltes/24655/	betere stelling en buiging door echt ronde voltes	379
+equi_nl_096	unannotated	https://www.bitmagazine.nl/instructie/zo-houd-jij-je-paard-op-een-rechte-lijn-2/87514/	zo houd jij je paard op een rechte lijn	1110
+equi_nl_097	unannotated	https://www.bitmagazine.nl/instructie/oefeningen-om-je-dressuurtraining-op-te-frissen/87083/	oefeningen om je dressuurtraining op te frissen	1259
+equi_nl_098	unannotated	https://www.bitmagazine.nl/instructie/10-tips-hoe-jury-blij/85288/	10 tips om de jury blij te maken	734
+equi_nl_099	unannotated	https://www.bitmagazine.nl/instructie/verbetertips-voor-jouw-dressuurproef/85115/	verbetertips voor je dressuurproef	1180
+equi_nl_100	unannotated	https://www.bitmagazine.nl/instructie/controleoefening-uberstreichen/83514/	controleoefening: überstreichen	1012
+equi_nl_101	unannotated	https://www.bitmagazine.nl/instructie/beter-stappen-met-jean-bemelmans/83432/	beter stappen	1251
+equi_nl_102	unannotated	https://www.bitmagazine.nl/instructie/zonder-sporen-tips-monique-peutz/83256/	zonder sporen	682
+equi_nl_103	unannotated	https://www.bitmagazine.nl/instructie/welk-cijfer-effect-hulpen/81371/	Welk cijfer voor het effect van de hulpen?	598
+equi_nl_104	unannotated	https://www.bitmagazine.nl/instructie/waarom-zou-iedereen-eens-viertal-moeten-rijden/81539/	waarom zou iedereen eens viertal moeten rijden	526
+equi_nl_105	unannotated	https://www.bitmagazine.nl/instructie/correct-bergopwaarts-rijden-zo-pak-aan/81985/	correct bergopwaarts rijden	695
+equi_nl_106	unannotated	https://www.bitmagazine.nl/instructie/klaar-eerste-z2-proef/81840/	klaar voor de eerste zz proef	799
+equi_nl_107	unannotated	https://www.bitmagazine.nl/fun/zo-maak-zelf-kur-op-muziek/82516/	Zo maak je zelf een Kür op muziek	515
+equi_nl_108	unannotated	https://www.bitmagazine.nl/instructie/het-mooie-van-dressuurtraining/82610/	het mooie van dressuurtraining	564
+equi_nl_109	unannotated	https://www.bitmagazine.nl/instructie/vijf-tips-halthouden/83027/	vijf tips voor halthouden	444
+equi_nl_110	unannotated	https://www.bitmagazine.nl/instructie/klaar-eerste-zz-lichtproef/83060/	Ben jij klaar voor je eerste ZZ-Lichtproef?	818
+equi_nl_111	unannotated	https://www.bitmagazine.nl/instructie/oefeningen-onafhankelijke-zit/83253/	Oefeningen voor een onafhankelijke zit	299
+equi_nl_112	unannotated	https://www.bitmagazine.nl/instructie/verkeerde-galop-zo-los-op/74419/	Verkeerde galop? Dit kun je doen!	737
+equi_nl_113	unannotated	https://www.bitmagazine.nl/instructie/klaar-eerste-l2-proef/74477/	Ben jij klaar voor je eerste L2-proef?	805
+equi_nl_114	unannotated	https://www.bitmagazine.nl/instructie/hoe-beste-haalt-clinic/75383/	Hoe je het beste haalt uit een clinic	438
+equi_nl_115	unannotated	https://www.bitmagazine.nl/instructie/klaar-eerste-m1-proef/75416/	Ben jij klaar voor je eerste M1-proef?	767
+equi_nl_116	unannotated	https://www.bitmagazine.nl/instructie/rechtrichten-paard-hoe-en-waarom/80091/	Rechtrichten te paard: Hoe en waarom?	1047
+equi_nl_117	unannotated	https://www.bitmagazine.nl/bit-print/bit-246/zoektocht-naar-evenwicht/80154/	De zoektocht naar evenwicht	315
+equi_nl_118	unannotated	https://www.bitmagazine.nl/instructie/klaar-eerste-m2-proef/80248/	Ben jij klaar voor je eerste M2-proef?	768
+equi_nl_119	unannotated	https://www.bitmagazine.nl/instructie/hoe-voorkom-je-dat-je-paard-gaat-hangen-aan-de-teugels/71070/	Hoe voorkom je dat je paard gaat ‘hangen’ aan de teugels?	516
+equi_nl_120	unannotated	https://www.bitmagazine.nl/instructie/carrouselrijden-heb-jij-het-in-je/73045/	Carrouselrijden; heb jij het in je?	400
+equi_nl_121	unannotated	https://equnews.be/overig-nieuws/lifestyle/de-rollkur/	De rollkur	509
+equi_nl_122	unannotated	http://www.correctedressuur.nl/page/achter-de-teugel-kruipen	achter de teugel kruipen	434
+equi_nl_123	unannotated	http://www.correctedressuur.nl/page/rollkur-uitleg	rollkur uitleg	1383
+equi_nl_124	unannotated	https://www.dehoefslag.nl/uncategorized/rollkur-feiten-fictie-en-gezondheidsproblemen.html	rollkur: feiten, fictie en gezondheidsproblemen	324
+equi_nl_125	unannotated	http://ruitergevoel.com/2016/06/27/wat-je-moet-doen-als-je-paard-achter-de-teugel-loopt/	wat je moet doen als je paard achter de teugel loopt	861
+
+
+=============
+HEART FAILURE
+=============
+Corpus was manually collected based on a corpus of titles created during previous research:
+Hoste, V., Vanopstal, K., Rigouts Terryn, A., & Lefever, E. (2019). The trade-off between quantity and quality. Comparing a large web corpus and a small focused corpus for medical terminology extraction. Across Languages and Cultures, 20(2).
+
+-------
+ENGLISH
+-------
+htfl_en_001	annotated	https://www.nejm.org/doi/full/10.1056/NEJMsa1300991	National trends in patient safety for four common conditions, 2005-2011.
+htfl_en_002	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24140097	Cross-talk between the heart and adipose tissue in cachectic heart failure patients with respect to alterations in body composition: a prospective study.
+htfl_en_003	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23543282	Diagnosis of heart failure with preserved ejection fraction: role of clinical Doppler echocardiography.
+htfl_en_004	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24297193	Treatment of anemia in patients with heart disease: a clinical practice guideline from the American College of Physicians.
+htfl_en_005	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24297191	Treatment of anemia in patients with heart disease: a systematic review.
+htfl_en_006	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24286621	Remote ischemic conditioning for patients with heart failure?
+htfl_en_007	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24268223	Comments on "the role of the emergency department in acute heart failure clinical trials-Enriching patient identification and enrollment" by Collins et al.
+htfl_en_008	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24267811	Predictors of mortality in patients with an implantable cardiac defibrillator: a systematic review and meta-analysis.
+htfl_en_009	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24247300	Low-dose dopamine or low-dose nesiritide in acute heart failure with renal dysfunction: the ROSE acute heart failure randomized trial.
+htfl_en_010	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24232240	Participating in a multihospital study to promote adoption of heart failure guidelines: lessons for nurse leaders.
+htfl_en_011	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24077883	Systems proteomics of cardiac chromatin identifies nucleolin as a regulator of growth and cellular plasticity in cardiomyocytes.
+htfl_en_012	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24075282	Risk factors and outcomes associated with the development of myocardial ischemic events in patients who receive cardiac resynchronization therapy.
+htfl_en_013	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24063837	Age-dependent effect of left ventricular ejection fraction on long-term mortality in patients with heart failure (from the Heart Failure Survey in ISrael).
+htfl_en_014	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24054922	Changes in circulating progenitor cells are associated with outcome in heart failure patients: a longitudinal study.
+htfl_en_015	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3876390/	Implications of metric choice for common applications of readmission metrics.
+htfl_en_016	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23680885	Remote monitoring after recent hospital discharge in patients with heart failure: a systematic review and network meta-analysis.
+htfl_en_017	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24317349	Investigation of apoptosis in a canine model of chronic heart failure induced by  tachycardia.
+htfl_en_018	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24296208	Safe, effective off-pump sternal sparing approach for HeartMate II exchange.
+htfl_en_019	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24286620	Uptitration of renin-angiotensin system blocker and beta-blocker therapy in patients hospitalized for heart failure with reduced versus preserved left ventricular ejection fractions.
+htfl_en_020	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24268222	Relationship between sex, ejection fraction, and B-type natriuretic peptide levels in patients hospitalized with heart failure and associations with inhospital outcomes: findings from the Get With The Guideline-Heart Failure Registry.
+htfl_en_021	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24267800	Presentation, diagnosis, and medical management of heart failure in children: Canadian Cardiovascular Society guidelines.
+htfl_en_022	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24262731	Heart failure and cognitive impairment: relationships with mortality.
+htfl_en_023	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24135461	Rates of ED visits and of intubations for congestive heart failure declined from  1996 to 2008.
+htfl_en_024	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24075283	Hemodynamic phenotype of the failing Fontan in an adult population.
+htfl_en_025	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24063842	Comparison of predictors of heart failure-related hospitalization or death in patients with versus without preserved left ventricular ejection fraction.
+htfl_en_026	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24055733	Exercise training in patients with chronic heart failure promotes restoration of  high-density lipoprotein functional properties.
+htfl_en_027	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24055249	Determination of a predictive cutoff value of NT-proBNP testing for long-term survival in ED patients with acute heart failure.
+htfl_en_028	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24043257	A novel heart failure mice model of hypertensive heart disease by angiotensin II  infusion, nephrectomy, and salt loading.
+htfl_en_029	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24036936	Troponin T and N-terminal pro-B-type natriuretic peptide: a biomarker approach to predict heart failure risk--the atherosclerosis risk in communities study.
+htfl_en_030	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24035303	Survival after left ventricular assist device with and without temporary right ventricular support.
+htfl_en_031	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23978595	Should eligibility for heart transplantation be a requirement for left ventricular assist device use? Recommendations based on a systematic review.
+htfl_en_032	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23890399	Effects of biventricular pacing on left heart twist and strain in a porcine model of right heart failure.
+htfl_en_033	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281521/	Mitral stenosis reversed by medical treatment for heart failure.
+htfl_en_034	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24176446	Risk stratification for death and all-cause hospitalization in heart failure clinic outpatients.
+htfl_en_035	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24141097	Incidence and predictors of end-stage renal disease in outpatients with systolic  heart failure.
+htfl_en_036	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24130003	Comparable performance of the Kansas City Cardiomyopathy Questionnaire in patients with heart failure with preserved and reduced ejection fraction.
+htfl_en_037	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24114865	Soluble concentrations of the interleukin receptor family member ST2 and beta-blocker therapy in chronic heart failure.
+htfl_en_038	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24107588	Nitroxyl (HNO): A novel approach for the acute treatment of heart failure.
+htfl_en_039	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24084489	Echocardiographic predictors of reverse remodeling after cardiac resynchronization therapy and subsequent events.
+htfl_en_040	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675712/	Effectiveness and safety of spironolactone for systolic heart failure.
+htfl_en_041	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24029661	Vascular endothelial growth factor blockade prevents the beneficial effects of beta-blocker therapy on cardiac function, angiogenesis, and remodeling in heart failure.
+htfl_en_042	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24014827	Do outcomes for patients with heart failure vary by emergency department volume?
+htfl_en_043	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24014679	Xanthine oxidase inhibition preserves left ventricular systolic but not diastolic function in cardiac volume overload.
+htfl_en_044	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24012031	Usefulness of tissue Doppler imaging for assessing left ventricular filling pressure in patients with stable severe systolic heart failure.
+htfl_en_045	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23997100	Tricuspid annular plane systolic excursion and pulmonary arterial systolic pressure relationship in heart failure: an index of right ventricular contractile function and prognosis.
+htfl_en_046	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23997096	The bottleneck stent model for chronic myocardial ischemia and heart failure in pigs.
+htfl_en_047	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23933545	Selective heart rate reduction with ivabradine unloads the left ventricle in heart failure patients.
+htfl_en_048	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23891248	Relation of preoperative serum albumin levels to survival in patients undergoing  left ventricular assist device implantation.
+htfl_en_049	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23870154	Surgical correction of aortic valve insufficiency after left ventricular assist device implantation.
+htfl_en_050	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23850914	Clinical characteristics and outcomes of young and very young adults with heart failure: The CHARM programme (Candesartan in Heart Failure Assessment of Reduction in Mortality and Morbidity).
+htfl_en_051	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23773895	Randomized trial of Nordic walking in patients with moderate to severe heart failure.
+htfl_en_052	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23670726	Left ventricular ejection time in acute heart failure complicating precapillary pulmonary hypertension.
+htfl_en_053	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23643612	Right atrial myxoma complicated by pulmonary embolism and revealed by right heart failure.
+htfl_en_054	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23583345	Within-day test-retest reliability of the Timed Up & Go test in patients with advanced chronic organ failure.
+htfl_en_055	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23155221	Heart failure risk among patients with rheumatoid arthritis starting a TNF antagonist.
+htfl_en_056	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24280925	Using exercise to improve quality of life for people with heart failure.
+htfl_en_057	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24176445	Frailty and risk for heart failure in older adults: the health, aging, and body composition study.
+htfl_en_058	annotated	https://www.ncbi.nlm.nih.gov/pubmed/16970149	The role of vasopressin in congestive heart failure.
+htfl_en_059	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24161931	Nfat and miR-25 cooperate to reactivate the transcription factor Hand2 in heart failure.
+htfl_en_060	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24161596	Epidemiology and treatment of chronic heart failure; use of bisoprolol.
+htfl_en_061	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24159000	Myocardial loss of IRS1 and IRS2 causes heart failure and is controlled by p38alpha MAPK during insulin resistance.
+htfl_en_062	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24130004	Practice-level variation in use of recommended medications among outpatients with heart failure: Insights from the NCDR PINNACLE program.
+htfl_en_063	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821011/	Trastuzumab-related cardiotoxicity among older patients with breast cancer.
+htfl_en_064	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24107587	Mediterranean and DASH diet scores and mortality in women with heart failure: The Women's Health Initiative.
+htfl_en_065	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24103327	Soluble ST2 in ambulatory patients with heart failure: Association with functional capacity and long-term outcomes.
+htfl_en_066	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618320/	Ten-year experience with extended criteria cardiac transplantation.
+htfl_en_067	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24054174	Change in readmissions and follow-up visits as part of a heart failure readmission quality improvement initiative.
+htfl_en_068	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24036385	Cardiac magnetic resonance postcontrast T1 time is associated with outcome in patients with heart failure and preserved ejection fraction.
+htfl_en_069	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24033185	Impact of heart magnetic resonance imaging on chelation choices, compliance with  treatment and risk of heart disease in patients with thalassaemia major.
+htfl_en_070	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24014828	Impact of ejection fraction on the clinical response to cardiac resynchronization therapy in mild heart failure.
+htfl_en_071	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24014826	Myocardial titin hypophosphorylation importantly contributes to heart failure with preserved ejection fraction in a rat metabolic risk model.
+htfl_en_072	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24014280	Global left ventricular longitudinal systolic strain as a major predictor of cardiovascular events in patients with atrial fibrillation.
+htfl_en_073	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23995437	Impact of QRS morphology and duration on outcomes after cardiac resynchronization therapy: Results from the Resynchronization-Defibrillation for Ambulatory Heart Failure Trial (RAFT).
+htfl_en_074	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23993167	Reduced hospitalizations in severe, refractory congestive heart failure with peritoneal dialysis: a consecutive case series.
+htfl_en_075	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23993121	Usefulness and consequences of cardiac resynchronization therapy in dialysis-dependent patients with heart failure.
+htfl_en_076	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23985432	Low-sodium DASH diet improves diastolic function and ventricular-arterial coupling in hypertensive heart failure with preserved ejection fraction.
+htfl_en_077	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23981771	Human resistin in chemotherapy-induced heart failure in humanized male mice and in women treated for breast cancer.
+htfl_en_078	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23916940	Efficacy, safety, and outcomes of catheter ablation of atrial fibrillation in patients with heart failure with preserved ejection fraction.
+htfl_en_079	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23872193	Nicorandil ameliorates mitochondrial dysfunction in doxorubicin-induced heart failure in rats: possible mechanism of cardioprotection.
+htfl_en_080	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23870631	Relation between preoperative renal dysfunction and cardiovascular events (stroke, myocardial infarction, or heart failure or death) within three months of isolated coronary artery bypass grafting.
+htfl_en_081	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1767239/	Heart failure in the young.
+htfl_en_082	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23532408	Key role of ERK1/2 molecular scaffolds in heart pathology.
+htfl_en_083	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24298723	Cardiac amyloidosis, about an atypical case.
+htfl_en_084	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24093859	Measuring frailty in heart failure: a community perspective.
+htfl_en_085	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24093841	Learning from recent trials and shaping the future of acute heart failure trials.
+htfl_en_086	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24093839	Measurement of natriuretic peptides at the point of care in the emergency and ambulatory setting: current status and future perspectives.
+htfl_en_087	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24093837	Measuring heart failure care by 30-day readmission: Rethinking the quality of outcome measures.
+htfl_en_088	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24080694	Cardiology: Bromodomain inhibition halts heart failure.
+htfl_en_089	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24059393	Multiacquisition T1-mapping MRI during tidal respiration for quantification of myocardial T1 in swine with heart failure.
+htfl_en_090	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24056689	Assessment and prognostic relevance of right ventricular contractile reserve in patients with severe pulmonary hypertension.
+htfl_en_091	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24048237	Contemporary use of devices in heart failure.
+htfl_en_092	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24048232	Heart failure: a disease complex with challenging therapeutics.
+htfl_en_093	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24036084	Unfolded protein response regulates cardiac sodium current in systolic human heart failure.
+htfl_en_094	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24019102	Acute right heart failure in pulmonary hypertension.
+htfl_en_095	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23997209	Contemporary trends in heart failure with reduced and preserved ejection fraction after myocardial infarction: a community study.
+htfl_en_096	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23970363	Differential effects of nonselective versus selective beta-blockers on cardiac sympathetic activity and hemostasis in patients with heart failure.
+htfl_en_097	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23969589	Reasons for not prescribing guideline-recommended medications to adults with heart failure.
+htfl_en_098	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23948774	Increase in parasympathetic tone by pyridostigmine prevents ventricular dysfunction during the onset of heart failure.
+htfl_en_099	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23934857	Mechanistic insight into prolonged electromechanical delay in dyssynchronous heart failure: a computational study.
+htfl_en_100	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23916933	Relationships between right ventricular function, body composition, and prognosis in advanced heart failure.
+htfl_en_101	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23916925	Effect of If-channel inhibition on hemodynamic status and exercise tolerance in heart failure with preserved ejection fraction: a randomized trial.
+htfl_en_102	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23891428	A simple validated clinical tool to predict the absence of coronary artery disease in patients with systolic heart failure of unclear etiology.
+htfl_en_103	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23872863	Experience of a vasopressin receptor antagonist, tolvaptan, under the unique indication in Japanese heart failure patients.
+htfl_en_104	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23852396	Diuretic use in heart failure and outcomes.
+htfl_en_105	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23852394	The high-risk patient with heart failure with reduced ejection fraction: treatment options and challenges.
+htfl_en_106	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23810893	Phosphodiesterase-2 is up-regulated in human failing hearts and blunts beta-adrenergic responses in cardiomyocytes.
+htfl_en_107	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23810881	Safety and efficacy of eplerenone in patients at high risk for hyperkalemia and/or worsening renal function: analyses of the EMPHASIS-htfl study subgroups (Eplerenone in Mild Patients Hospitalization And SurvIval Study in Heart Failure).
+htfl_en_108	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23809621	Hemoglobin, exercise training, and health status in patients with chronic heart failure (from the htfl-ACTION randomized controlled trial).
+htfl_en_109	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23751149	Atrial fibrillation and congestive heart failure: a cost analysis of rhythm-control vs. rate-control strategies.
+htfl_en_110	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23642227	Perturbations in skeletal muscle sarcomere structure in patients with heart failure and type 2 diabetes: restorative effects of (-)-epicatechin-rich cocoa.
+htfl_en_111	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23445211	Effectiveness of Chinese herbal medicine as an adjunctive treatment for dilated cardiomyopathy in patients with heart failure.
+htfl_en_112	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23000600	Baseline and 6-Week follow-up levels of PAF and activity of its metabolic enzymes in patients with heart failure and healthy volunteers--a pilot study.
+htfl_en_113	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24283111	Exercise intolerance in heart failure: update on exercise parameters for diagnosis, prognosis and therapeutic interventions.
+htfl_en_114	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24160781	Acute care surgery in heart transplant recipients.
+htfl_en_115	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24150700	Extracorporeal membrane oxygenation as bridge to recovery in infarction-related  refractory right heart failure.
+htfl_en_116	annotated	https://www.ncbi.nlm.nih.gov/pubmed/29782283	Heart failure with preserved left ventricular ejection fraction.
+htfl_en_117	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24103569	Trends from 1996 to 2007 in incidence and mortality outcomes of heart failure after acute myocardial infarction: a population-based study of 20,812 patients with first acute myocardial infarction in Western Australia.
+htfl_en_118	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23194490	Testosterone therapy during exercise rehabilitation in male patients with chronic heart failure who have low testosterone status: a double-blind randomized controlled feasibility study.
+htfl_en_119	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24093858	Functional electrical stimulation of peripheral muscles improves endothelial function and clinical and emotional status in heart failure patients with preserved left ventricular ejection fraction.
+htfl_en_120	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24088507	Chronic heart failure is associated with transforming growth factor beta-dependent yield and functional decline in atrial explant-derived c-Kit+ cells.
+htfl_en_121	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24081350	Periodic breathing with no heart beat.
+htfl_en_122	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24048238	Do anticoagulants or antiplatelet drugs have a role in treating heart failure in  the absence of atrial fibrillation?
+htfl_en_123	annotated	https://www.ncbi.nlm.nih.gov/pubmed/19474718	Nutrition in heart failure: an update.
+htfl_en_124	annotated	https://www.ncbi.nlm.nih.gov/pubmed/18651043	B-type natriuretic peptide and N-terminal pro-B-type natriuretic peptide – Diagnostic role in stable coronary artery disease
+htfl_en_125	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24005248	Unilateral renal denervation improves autonomic balance in conscious rabbits with chronic heart failure.
+htfl_en_126	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23998714	Cardiac-resynchronization therapy in heart failure with a narrow QRS complex.
+htfl_en_127	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23987896	Comparative effects of ventricular assist device and extracorporeal membrane oxygenation on renal function in pediatric heart failure.
+htfl_en_128	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23971534	Nursing-sensitive outcome change scores for hospitalized older adults with heart  failure: a preliminary descriptive study.
+htfl_en_129	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23969695	beta1-adrenergic receptor and sphingosine-1-phosphate receptor 1 (S1PR1) reciprocal downregulation influences cardiac hypertrophic response and progression to heart failure: protective role of S1PR1 cardiac gene therapy.
+htfl_en_130	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23959284	Impact of physician continuity on death or urgent readmission after discharge among patients with heart failure.
+htfl_en_131	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23942052	Human heart failure is accompanied by altered protein kinase A subunit expression and post-translational state.
+htfl_en_132	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23934852	Autonomic modulation of repolarization instability in patients with heart failure prone to ventricular tachycardia.
+htfl_en_133	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23927520	Genetic susceptibility to anthracycline-related congestive heart failure in survivors of haematopoietic cell transplantation.
+htfl_en_134	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23916932	Fat, cachexia, and the right ventricle in heart failure: a web of complicity.
+htfl_en_135	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23872864	First-in-class angiotensin receptor neprilysin inhibitor in heart failure.
+htfl_en_136	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23863875	Pharmacological treatment of acute heart failure: current treatment and new targets.
+htfl_en_137	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23856627	Therapeutic implications of biomarkers in chronic heart failure.
+htfl_en_138	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23852395	MicroRNAs in heart failure: new targets in disease management.
+htfl_en_139	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23852393	Renin-angiotensin-aldosterone system inhibitors in heart failure.
+htfl_en_140	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23846614	Skeletal muscle abnormalities and exercise capacity in adults with a Fontan circulation.
+htfl_en_141	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23832431	Psychometric testing of the Self-Care of Heart Failure Index Version 6.2.
+htfl_en_142	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23820130	Circulating fragments of N-terminal pro-B-type natriuretic peptides in plasma of  heart failure patients.
+htfl_en_143	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23810323	Prevalence, clinical characteristics, and outcomes associated with eccentric versus concentric left ventricular hypertrophy in heart failure with preserved ejection fraction.
+htfl_en_144	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23770172	Impact of carvedilol and metoprolol on inappropriate implantable cardioverter-defibrillator therapy: the MADIT-CRT trial (Multicenter Automatic Defibrillator Implantation With Cardiac Resynchronization Therapy).
+htfl_en_145	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23679231	Heart failure in patients treated with bisphosphonates.
+htfl_en_146	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23553674	Reversal of cardiac dysfunction and subcellular alterations by metoprolol in heart failure due to myocardial infarction.
+htfl_en_147	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23492918	Psoriasis is not associated with atherosclerosis and incident cardiovascular events: the Rotterdam Study.
+htfl_en_148	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23401627	Presence of diastolic dysfunction in patients with peripheral artery disease.
+htfl_en_149	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24279113	Hospital-to-Home: a hospital readmission reduction program for congestive heart failure.
+htfl_en_150	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24215747	Heart rate variability in risk stratification of cardiac patients.
+htfl_en_151	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24113662	Renal artery stenosis - an update.
+htfl_en_152	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24089221	Bioinformatic analysis of microarray data reveals several key genes related to heart failure.
+htfl_en_153	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24028359	Effects of care management and telehealth: a longitudinal analysis using medicare data.
+htfl_en_154	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24016498	Race, exercise training, and outcomes in chronic heart failure: findings from Heart Failure - a Controlled Trial Investigating Outcomes in Exercise TraiNing (htfl-ACTION).
+htfl_en_155	annotated	https://www.ncbi.nlm.nih.gov/pubmed/24016492	Improving outcomes in patients with atrial fibrillation: rationale and design of  the Early treatment of Atrial fibrillation for Stroke prevention Trial.
+htfl_en_156	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23996942	Gastrointestinal bleeding in patients with ventricular assist devices: what every cardiac nurse should know.
+htfl_en_157	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955535/	Management of end stage heart failure
+htfl_en_158	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23973784	Potent inhibition of L-type Ca2+ currents by a Rad variant associated with congestive heart failure.
+htfl_en_159	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23958767	A young adult Jehovah's Witness with severe anemia.
+htfl_en_160	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23942222	Composite quality measures for common inpatient medical conditions.
+htfl_en_161	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23940307	Race influences the safety and efficacy of spironolactone in severe heart failure.
+htfl_en_162	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23935006	Global proteomics and pathway analysis of pressure-overload-induced heart failure and its attenuation by mitochondrial-targeted peptides.
+htfl_en_163	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23926902	Does reducing length of stay increase rehospitalization of medicare fee-for-service beneficiaries discharged to skilled nursing facilities?
+htfl_en_164	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23926203	Physician volume, specialty, and outcomes of care for patients with heart failure.
+htfl_en_165	annotated	https://www.ncbi.nlm.nih.gov/pubmed/16373465	Aldosterone antagonism in heart failure
+htfl_en_166	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23888044	Improving survival rates of patients with idiopathic dilated cardiomyopathy in Tuscany over 3 decades: impact of evidence-based management.
+htfl_en_167	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23881847	Prognostic value of indeterminable anaerobic threshold in heart failure.
+htfl_en_168	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23873472	Cardiorespiratory fitness, body mass index, and heart failure mortality in men: Cooper Center Longitudinal Study.
+htfl_en_169	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23861485	Cardiac insulin-resistance and decreased mitochondrial energy production precede  the development of systolic heart failure after pressure-overload hypertrophy.
+htfl_en_170	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23850910	The reality of heart failure in Latin America.
+htfl_en_171	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23850580	A CLCNKA polymorphism (rs10927887; p.Arg83Gly) previously linked to heart failure is associated with the estimated glomerular filtration rate in the RENASTUR cohort.
+htfl_en_172	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809511/	Assessing the link between air pollution and heart failure.
+htfl_en_173	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23832697	Cardiac overexpression of Mammalian enabled (Mena) exacerbates heart failure in mice.
+htfl_en_174	annotated	https://www.ncbi.nlm.nih.gov/pubmed/27111324	Future of advanced heart failure and mechanical support devices: A Cardiology-Cardiovascular Surgery Consensus Report
+htfl_en_175	annotated	https://www.ncbi.nlm.nih.gov/pubmed/27110660	Risk for Hospitalized Heart Failure Among New Users of Saxagliptin, Sitagliptin, and Other Antihyperglycemic Drugs: A Retrospective Cohort Study.
+htfl_en_176	annotated	https://www.ncbi.nlm.nih.gov/pubmed/27033956	Effectiveness of implementation strategies in improving physician adherence to guideline recommendations in heart failure: a systematic review protocol
+htfl_en_177	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4830094/	Patient perceptions of implantable cardioverter-defibrillator deactivation discussions: A qualitative study.
+htfl_en_178	annotated	https://www.ncbi.nlm.nih.gov/pubmed/27099884	Comment on "Baroreflex Activation Therapy for the Treatment of Heart Failure With a Reduced Ejection Fraction"
+htfl_en_179	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26775514	Preliminary report of using cardiopulmonary exercise testing guide exercise rehabilitation in patients with chronic heart failure
+htfl_en_180	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26738248	Management of heart failure with preserved ejection fraction.
+htfl_en_181	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26738247	Playing it safe: exercise and cardiovascular health.
+htfl_en_182	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26717214	Robot-assisted training for heart failure patients - a small pilot study.
+htfl_en_183	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26578668	Psychosocial Factors, Exercise Adherence, and Outcomes in Heart Failure Patients: Insights From Heart Failure: A Controlled Trial Investigating Outcomes of Exercise Training (htfl-ACTION).
+htfl_en_184	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26567816	Heart rate reduction and exercise performance in recent onset heart failure with reduced ejection fraction: arguments for beta-blocker hypo-response.
+htfl_en_185	annotated	https://www.ncbi.nlm.nih.gov/pubmed/27025435	Unidirectional left-to-right interatrial shunting for treatment of patients with heart failure with reduced ejection fraction: a safety and proof-of-principle cohort study.
+htfl_en_186	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26750622	Study PARADIGM-htfl - a paradigm shift in the treatment of chronic heart failure
+htfl_en_187	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26746456	Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen Consumption and Quality of Life in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial.
+htfl_en_188	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26670056	Fully Magnetically Levitated Left Ventricular Assist System for Treating Advanced htfl: A Multicenter Study.
+htfl_en_189	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26542504	Tools for Economic Analysis of Patient Management Interventions in Heart Failure Cost-Effectiveness Model: A Web-based program designed to evaluate the cost-effectiveness of disease management programs in heart failure.
+htfl_en_190	annotated	https://www.ncbi.nlm.nih.gov/pubmed/26596665	Heart Failure: Pathophysiology, Diagnosis, Medical Treatment Guidelines, and Nursing Management.
+
+------
+FRENCH
+------
+htfl_fr_001	annotated	https://bdsp-ehesp.inist.fr/vibad/index.php?action=getRecordDetail&idt=180872	Épidémiologie et impact économique de l'insuffisance cardiaque en France
+htfl_fr_002	annotated	https://www.em-consulte.com/en/article/37221	Prévalence et prise en charge de l'insuffisance cardiaque en France : enquête nationale auprès des médecins généralistes du réseau Sentinelles
+htfl_fr_003	annotated	http://www.lissa.fr/rep/articles/9587437	Mesure de l'incapacité fonctionnelle et de la qualité de vie dans l'insuffisance cardiaque. Adaptation transculturelle et validation des questionnaires de Goldman, du Minnesota et de Duke
+htfl_fr_004	annotated	http://www.pathexo.fr/documents/articles-bull/T96-3-DK77.pdf	"Insuffisance cardiaque en milieu cardiologique africain.
+"
+htfl_fr_005	annotated	https://www.em-consulte.com/en/article/38960	Importance de l'éducation thérapeutique dans la prise en charge multidisciplinaire de l'insuffisance cardiaque
+htfl_fr_006	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X06702379	Recommandations de la Conférence consensuelle de la Société canadienne de cardiologie 2006 sur l’insuffisance cardiaque : Diagnostic et prise en charge
+htfl_fr_007	annotated	https://www.researchgate.net/publication/15021106_Rehabilitation_of_patients_with_chronic_cardiac_insufficiency_Immediate_and_midterm_effects	"Réadaptation des malades en insuffisance cardiaque chronique : effets immédiats et à moyen terme
+"
+htfl_fr_008	annotated	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque/documents/article/taux-de-patients-hospitalises-pour-insuffisance-cardiaque-en-2008-et-evolutions-en-2002-2008-france	Taux de patients hospitalisés pour insuffisance cardiaque en 2008 et évolutions en 2002-2008, France
+htfl_fr_009	annotated	https://www.em-consulte.com/en/article/236213	"Éducation thérapeutique des patients insuffisants cardiaques : le programme I-care.
+"
+htfl_fr_010	annotated	https://www.em-consulte.com/en/article/36557	Nouveau regard sur l'insuffisance cardiaque chronique de l'adulte en Afrique à l'ère de l'échocardiographie Doppler : expérience du service de médecine de l'Hôpital Général de Yaoundé
+htfl_fr_011	annotated	https://bdsp-ehesp.inist.fr/vibad/index.php?action=getRecordDetail&idt=378013	INSUFFISANCE CARDIAQUE D’ORIGINE NON INFECTIEUSE EN ZONE TROPICALE : APPROCHE ÉTIOLOGIQUE ET PRINCIPES THÉRAPEUTIQUES 
+htfl_fr_012	annotated	https://www.em-consulte.com/en/article/12352	Peptide natriurétique de type B (BNP) et troponine. Intérêt du dosage au cours de l’insuffisance cardiaque et des syndromes coronaires aigus
+htfl_fr_013	annotated	https://www.ncbi.nlm.nih.gov/pubmed/8215787	Classification fonctionelle de l'insuffisance cardiaque
+htfl_fr_014	annotated	https://www.em-consulte.com/en/article/103343	Éducation et prise en charge multidisciplinaire dans l'insuffisance cardiaque chronique
+htfl_fr_015	annotated	https://www.jle.com/fr/MedSanteTrop/2008/68.3/257-260%20Insuffisance%20cardiaque%20du%20sujet%20âgé%20à%20Brazzaville%20(Ikama).pdf	INSUFFISANCE CARDIAQUE DU SUJET ÂGÉ À BRAZZAVILLE : ASPECTS CLINIQUES, ÉTIOLOGIQUES ET ÉVOLUTIFS 
+htfl_fr_016	annotated	https://www.ncbi.nlm.nih.gov/pubmed/15671918	Renin-angiotensin system inhibition prevents type 2 diabetes mellitus: Part 1. A meta-analysis of randomised clinical trials
+htfl_fr_017	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9137730	Effets of de la stimulation cardiaque double chambre temporaire dans l'insuffisance cardiaque réfractoire
+htfl_fr_018	annotated	https://www.onlinecjc.ca/article/S0828-282X(06)70290-2/abstract	Traiter le bon patient au bon moment : L’accès aux soins pour l’insuffisance cardiaque
+htfl_fr_019	annotated	https://www.em-consulte.com/en/article/695125	Rôle des peptides natriurétiques pour guider le traitement de l’insuffisance cardiaque chronique : revue des données disponibles et recommandations
+htfl_fr_020	annotated	https://www.onlinecjc.ca/article/S0828-282X(09)70477-5/abstract	Mise à jour 2009 des Lignes directrices de la Conférence consensuelle de la Société canadienne de cardiologie sur l’insuffisance cardiaque : Diagnostic et prise en charge de l’insuffisance cardiaque droite, la myocardite, dispositifs thérapeutiques et récentes études cliniques importantes
+htfl_fr_021	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X10703676	Mise à jour 2010 des Lignes directrices de la Société canadienne de cardiologie sur le diagnostic et la prise en charge de l’insuffisance cardiaque : Insuffisance cardiaque dans les populations des minorités ethniques, insuffisance cardiaque et grossesse, prise en charge de la maladie et programmes d’amélioration et d’assurance de la qualité
+htfl_fr_022	annotated	https://bdsp-ehesp.inist.fr/vibad/index.php?action=getRecordDetail&idt=279926	Répercussion économique de l'insuffisance cardiaque en France
+htfl_fr_023	annotated	https://www.ncbi.nlm.nih.gov/pubmed/1449335	Étude clinique et échocardiographique en double insu de l'enoximone oral contre placebo dans l'insuffisance cardiaque sévère
+htfl_fr_024	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X08710274	Le syndrome cardiorénal en cas d’insuffisance cardiaque : La perspective d’un cardiologue
+htfl_fr_025	annotated	https://www.jle.com/fr/revues/abc/e-docs/proposition_dun_seuil_de_bnp_discriminant_dans_la_population_tres_agee_presentant_une_insuffisance_cardiaque__263274/article.phtml	Proposition d’un seuil de BNP discriminant dans la population très âgée présentant une insuffisance cardiaque
+htfl_fr_026	annotated	http://www.chu-rouen.fr/page/mesh-descripteur/non-compaction-isolee-du-ventricule-myocardique	Non-compaction isolée du ventricule gauche
+htfl_fr_027	annotated	https://www.em-consulte.com/en/article/12457	Unités d’insuffisance cardiaque. Concept, organisation, résultats
+htfl_fr_028	annotated	https://www.em-consulte.com/article/31068/figures/hypertension-arterielle-pulmonaire	Hypertension artérielle pulmonaire
+htfl_fr_029	annotated	https://www.ncbi.nlm.nih.gov/pubmed/2404426	Perioperative cardiac morbidity
+htfl_fr_030	annotated	https://www.semanticscholar.org/paper/Bases-physiopathologiques-du-traitement-de-Vinsonneau-Su/b27cf6aacf42ca97588007f9e78af9fa186f439c	Bases physiopathologiques du traitement de l'insuffisance cardiaque
+htfl_fr_031	annotated	https://www.sciencedirect.com/science/article/pii/S162406930400009X	Traitement médical de l’insuffisance cardiaque aiguë décompensée
+htfl_fr_032	annotated	https://www.lissa.fr/rep/articles/11828925	Épidémiologie et pronostic l'insuffisance cardiaque
+htfl_fr_033	annotated	https://www.semanticscholar.org/paper/Cardiomyopathie-du-post-partum-de-la-femme-noire-%3A-Niakara-Belemwire/cdd9811231a83fc2d8495a01dd0fa1370758cd9d	Cardiomyopathie du post-partum de la femme noire africaine : aspects épidémiologiques, cliniques et évolutifs de 32 cas
+htfl_fr_034	annotated	https://www.ncbi.nlm.nih.gov/pubmed/10665335	Utilisation simultanée d'un défibrillateur automatique implantable chez un patient préalablement appareillé avec un stimulateur cardiaque biventriculaire pour une insuffisance cardiaque terminale
+htfl_fr_035	annotated	https://www.onlinecjc.ca/article/S0828-282X(08)70545-2/abstract	Mise à jour 2008 des lignes directrices de la conférence consensuelle sur l’insuffisance cardiaque de la Société canadienne de cardiologie : Meilleures pratiques pour la transition des soins des insuffisants cardiaques et le dépistage, l’exploration et le traitement des myocardiopathies
+htfl_fr_036	annotated	https://pdf.sciencedirectassets.com/272290/1-s2.0-S0003392800X00054/1-s2.0-S0003392801000385/main.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjEIH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCnuhDmASWAvxf%2Ft%2FSnqrwYm4bCPvnBFW5qTNF02ucTDQIgUnEbdglkmu4qcQIrBWI5yy%2BzEhqnZrvaqN9fqkaNP6sq2gMIWhACGgwwNTkwMDM1NDY4NjUiDK8LA%2BL4m5CBpr9jjSq3AzDWCu9db0QQZ5uiwBPc2UwWl%2BwBInRa89Szq6p%2FKIgrP4eBJzEvaQJb%2BpFeTzFCO5XJhGtz87zcKWuwI7sBR%2FXYqumCCgOaKS%2F4ahD2OWkGuKPthOkH5%2FPjLc8ypYtK2Q3mTxu6tC5T6Ky3g8IdP8Y3Epaz2aneblUiiPvcepL2oxzL5YC%2FZWWzUF9DW3g5rbQvfdPw1J178%2FNTSv5z5eLTHAVvp6PRDBZ1Th4hHOBS5ajApvDi7oq0UcIBqncxMz0quAr66H6EszhH0ZF3TrhuTlwy9GTyuFE%2FbyCFPecjj4SsojguKyH0sBbt1r3o2nijopL3Me7htfl53QTIRjxks4r7Qrwof416BCxi0B8qoq9lHO4rBxbJZpTzytr%2B16QRTbUkY62JGfRFhqrqQTfJXZHkgYzPjndL38TkLYArVVpquYPfl%2BPmqJTjiJRfI3nW5vFeAxXLxPAJlAEag6hksWWrSYymgP9AtvCIRAdzdKCGqKpjYHECIdqdmWkQ%2FjfJC07p7z8%2BkoSJKFZeVZj0QECFlpO3tjvU4Dti8drqC8td4XL0t939AgfL1L1a9ZBhWHvT9thb8w2P2x7AU6tAEqmEtt%2FV%2BGWqO4k2%2FHak0OoTx5CxxLXDJnQwb%2B3jLlHM7wwjw78UVTpmO9WVss84iy46C%2BQoGcoqpxO8I9guxvK%2BMpBCLEvppslmzgr05WnygdE3azOHO1zsahd4%2FDN7jwxEn%2BSUwm%2B7MGmn%2F3Y7bLtQn7GsxMVDjCDc6IX0P0Oe58ABmgzekHj2Hl0fPh4mdRF1lD6C%2B%2BMKGQ6xkpHhNKP2CZBfLrb88%2B5sqS%2BP7YVjIQVjg%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190926T094243Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYR4FLFPPO%2F20190926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=46107ddf5f48c3b47765d3373cd5128bfeb9ea28f1d1fb07ce162cbbd4876d32&hash=f0196ff523bf718b4b491e6221b936f9bedb3dc9a422f6da3f368ac86b167190&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0003392801000385&tid=spdf-a3226fcd-7ebb-4fb3-af54-95406350a90b&sid=f8165d29979b224a9f983f245683942916b2gxrqa&type=client	Péricardite chronique constrictive à propos de trois cas révélés par une insuffisance cardiaque réfractaire
+htfl_fr_037	annotated	https://www.em-consulte.com/en/article/18294	Facteurs aggravants associés à l’insuffisance cardiaque à fonction systolique conservée chez le sujet âgé
+htfl_fr_038	annotated	https://www.sciencedirect.com/science/article/pii/S0755498207002813	Syndrome d'apnées du sommeil et insuffisance cardiaque
+htfl_fr_039	annotated	https://www.em-consulte.com/en/article/209091	Prévalence des syndromes d’apnées du sommeil dans une cohorte française de 316 patients insuffisant cardiaques
+htfl_fr_040	annotated	https://www.em-consulte.com/en/article/231479	Bénéfices du réentraînement physique dans l’insuffisance cardiaque chronique
+htfl_fr_041	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X06703154	Le remodelage myofibrillaire dans l’hypertrophie cardiaque, l’insuffisance cardiaque et les myocardiopathies
+htfl_fr_042	annotated	https://www.who.int/bulletin/volumes/84/9/06-031286ab/fr/	Evolution de la mortalité par insuffisance cardiaque en Australie. Une analyse des données officielles de mortalité de 1997 à 2003
+htfl_fr_043	annotated	https://www.em-consulte.com/en/article/91184	Insuffisance cardiaque droite due à un déficit en thiamine (béribéri cardiaque)
+htfl_fr_044	annotated	https://www.em-consulte.com/en/article/188046	Ballonisation apicale transitoire du ventricule gauche ou syndrome du tako-tsubo : À propos de 10 nouveaux cas
+htfl_fr_045	annotated	https://www.cardiocases.com/fr/ecg/traces/troubles-du-rythme-tachycardies-jonctionnelles/tachycardie-jonctionnelle-permanente-par	Les tachycardies jonctionnelles permanentes par rythme réciproque chez l'enfant et l'adolescent : efficacité du traitement médicamenteux
+htfl_fr_046	annotated	https://www.ncbi.nlm.nih.gov/pubmed/28623036	Signification des infiltrats lymphoplasmocytaires dans la dysplasie ventriculaire droite arythmogène : à propos de 3 cas personnels et d'une revue de la littérature
+htfl_fr_047	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9539825	Epidémiologie de l'infarctus du myocarde en France: Spécificités régionales
+htfl_fr_048	annotated	https://www.sciencedirect.com/science/article/pii/S0985056216301595	Association entre le statut nutritionnel et la sévérité de la maladie chez des patients ambulatoires atteints d’insuffisance cardiaque chronique avec fonction systolique diminuée
+htfl_fr_049	annotated	https://www.em-consulte.com/en/article/1058995	Nouvelle ère thérapeutique dans l’insuffisance cardiaque à fraction d’éjection réduite : quelle population de patients français cela concerne-t-il ?
+htfl_fr_050	annotated	https://www.em-consulte.com/en/article/245122	Les tumeurs cardiaques
+htfl_fr_051	annotated	https://www.em-consulte.com/article/109787/algorithme-d-utilisation-du-peptide-natriuretique-	Apports du peptide natriurétique de type B dans la prise en charge aux urgences des patients suspects d'insuffisance cardiaque : À propos de 125 patients
+htfl_fr_052	annotated	https://www.researchgate.net/publication/11644942_Diastolic_heart_failure_Signs_and_diagnosis	Insuffisance cardiaque diastolique : Signes et diagnostic : Insuffisance cardiaque diastolique
+htfl_fr_053	annotated	https://www.em-consulte.com/en/article/5359	Épidémiologie de l'insuffisance cardiaque
+htfl_fr_054	annotated	https://www.sciencedirect.com/science/article/pii/0248866396807582	Insuffisance cardiaque congestive à fonction systolique conservée
+htfl_fr_055	annotated	https://www.ncbi.nlm.nih.gov/pubmed/8060210	Le traitement de l'insuffisance cardiaque
+htfl_fr_056	annotated	https://www.ncbi.nlm.nih.gov/pubmed/8060210	Insuffisance cardiaque néonatale secondaire à une hypocalcémie par carence maternelle en vitamine D
+htfl_fr_057	annotated	https://www.lissa.fr/rep/articles/12555377	Brain natriuretic peptide (BNP) dans l'insuffisance cardiaque : Relations avec le remplissage ventriculaire gauche et la tolérance à l'effort
+htfl_fr_058	annotated	https://www.ncbi.nlm.nih.gov/pubmed/7646235	Variabilité de la fréquence cardiaque dans l'insuffisance cardiaque chronique : influence de la gravité et de l'étiologie
+htfl_fr_059	annotated	https://www.ncbi.nlm.nih.gov/pubmed/8338397	L'insuffisance cardiaque droite pré- et postopératoire des mitraux et mitro-aortiques
+htfl_fr_060	annotated	https://www.em-consulte.com/en/article/104526	Insuffisance cardiaque aiguë chez une patiente traitée par mitoxantrone pour sclérose en plaques
+htfl_fr_061	annotated	https://www.semanticscholar.org/paper/%5BSequestration-of-the-posterobasal-segment-of-the-Kabiri-Atoini/91ba7462a414d44cd02f9d3647da39fac2a7b24f	SÉQUESTRATION EXTRALOBAIRE AVEC INSUFFISANCE CARDIAQUE
+htfl_fr_062	annotated	https://www.sciencedirect.com/science/article/pii/S0003392809000857	Un volumineux myxome de l’oreillette droite révélé par une insuffisance cardiaque droite
+htfl_fr_063	annotated	https://www.ncbi.nlm.nih.gov/pubmed/10816808	Béribéri cardiaque
+htfl_fr_064	annotated	https://www.semanticscholar.org/paper/Le-BNP-%3A-aspects-physiologiques%2C-biologiques-et-Cauliez-Berthe/ce0d327c53bbdbe956a08577aaf1b8852068f104	Le BNP : aspects physiologiques, biologiques et cliniques
+htfl_fr_065	annotated	https://www.em-consulte.com/en/article/75048	La pharmacologie de l'endothéline et de son antagoniste bosentan
+htfl_fr_066	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9864611	Éducation des patients insuffisants cardiaques
+htfl_fr_067	annotated	https://www.sciencedirect.com/science/article/pii/S0929693X01005942	Insuffisance cardiaque chronique chez l’enfant : données physiopathologiques récentes et implications thérapeutiques
+htfl_fr_068	annotated	https://www.ncbi.nlm.nih.gov/pubmed/10087590	Coûts et bénéfices du traitement de l’insuffisance cardiaque 
+htfl_fr_069	annotated	https://www.researchgate.net/publication/14124765_Terminal_cardiac_failure_Circulatory_assist_devices	Insuffisance cardiaque terminale : Les moyens d'assistance circulatoire
+htfl_fr_070	annotated	https://www.sfcardio.fr/sites/default/files/pdf/reco99_02.pdf	Indications du défibrillateur automatique implantable ventriculaire. Mise à jour de la version française
+htfl_fr_071	annotated	https://www.em-consulte.com/en/article/37225	Données physiopathologiques et implications thérapeutiques au cours de l'insuffisance cardiaque gauche
+htfl_fr_072	annotated	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3996443/	Insuffisance cardiaque à fraction d’éjection préservée
+htfl_fr_073	annotated	https://www.em-consulte.com/en/article/675011	Les concentrations de cystatine C sont un facteur pronostique dans l’insuffisance cardiaque
+htfl_fr_074	annotated	https://www.em-consulte.com/en/article/18631	Intérêt du dosage du peptide natriurétique de type-B en médecine d’urgence
+htfl_fr_075	annotated	https://www.em-consulte.com/en/article/698984	La testostérone améliore la fonction cardiaque et altère les récepteurs à l’angiotensine II dans l’insuffisance cardiaque induite par l’isoprotérénol
+htfl_fr_076	annotated	https://www.ncbi.nlm.nih.gov/pubmed/8869242	Réadaptation segmentaire chez les insuffisants cardiaques : résultats à court et à long terme
+htfl_fr_077	annotated	https://www.ncbi.nlm.nih.gov/pubmed/19143161	Seasonal variation in admission for heart failure, hypertension and stroke in Uyo, South-Eastern Nigeria
+htfl_fr_078	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X06709655	La myocardite à éosinophiles : Série de cas et analyse bibliographique
+htfl_fr_079	annotated	https://www.onlinecjc.ca/article/S0828-282X(09)70497-0/abstract	La récupération et la récurrence de la dysfonction systolique ventriculaire chez les patients atteints d’une myocardiopathie dilatée idiopathique
+htfl_fr_080	annotated	https://www.ncbi.nlm.nih.gov/pubmed/11794985	L'insuffisance mitrale fonctionnelle : une valvulopathie négligée ?
+htfl_fr_081	annotated	https://www.em-consulte.com/en/article/226748	Apnée du sommeil et insuffisance cardiaque
+htfl_fr_082	annotated	https://www.researchgate.net/publication/11999401_Loffler%27s_Fibroblastic_Endocarditis_A_Report_of_a_Case_Complicating_Toxocarosis	Endocardite fibroblastique de Löffler: A propos d'un cas compliquant une toxocarose
+htfl_fr_083	annotated	https://www.researchgate.net/publication/21007862_Medical_strategy_in_patients_awaiting_emergency_heart_transplantation	Stratégie médicale chez les patients en attente de greffe cardiaque en urgence
+htfl_fr_084	annotated	https://www.ncbi.nlm.nih.gov/pubmed/25532421	The 2014 Canadian Cardiovascular Society Heart Failure Management Guidelines Focus Update: Anemia, Biomarkers, and Recent Therapeutic Trial Implications
+htfl_fr_085	annotated	https://www.em-consulte.com/en/article/130254	Diabète et insuffisance cardiaque, une association morbide
+htfl_fr_086	annotated	https://www.ncbi.nlm.nih.gov/pubmed/21601770	Diastolic Heart Failure: Progress, Treatment Challenges, and Prevention
+htfl_fr_087	annotated	https://www.semanticscholar.org/paper/%5BDiagnosis-of-systolic-heart-failure%5D.-André-Fouët-Ginon/721c466c1d24c15d0c095b8fbf169527db1df5f0	Diagnostic de l'insuffisance cardiaque systolique : Insuffisances cardiaques
+htfl_fr_088	annotated	https://www.ncbi.nlm.nih.gov/pubmed/7574363	Evaluation de trois classifications fonctionnelles de l'insuffisance cardiaque: étude multicentrique nationale
+htfl_fr_089	annotated	https://www.ncbi.nlm.nih.gov/pubmed/10533665	Évaluation d'une échelle d'activité spécifique française de l'insuffisance cardiaque chronique : Étude multicentrique nationale
+htfl_fr_090	annotated	https://www.ncbi.nlm.nih.gov/pubmed/15032410	Épidémiologie et causes de l'insuffisance cardiaque dans la Somme: Résultats de l'étude ETICS
+htfl_fr_091	annotated	https://www.researchgate.net/publication/289589830_Diagnosis_of_chronic_heart_failure_in_older_adults_in_2005	Le diagnostic de l'insuffisance cardiaque chez le sujet âgé en 2005
+htfl_fr_092	annotated	https://www.rmlg.ulg.ac.be/index.php?page=listeArt?date=2005%20May&langue=FR	Insuffisance cardiaque et diabete
+htfl_fr_093	annotated	https://www.researchgate.net/publication/267967088_STIMULATION_BIVENTRICULAIRE_ET_INSUFFISANCE_CARDIAQUE	Stimulation biventriculaire et insuffisance cardiaque
+htfl_fr_094	annotated	https://www.semanticscholar.org/paper/Accuracy-of-a-Prescription-Claims-Database-for-for-Shalansky-Jang/d5da8c20ef99e6e238fee510537fc60ff5e208c4	Accuracy of a Prescription Claims Database for Medication Reconciliation for Outpatients with Heart Failure
+htfl_fr_095	annotated	https://www.sciencedirect.com/science/article/pii/S0001407919343791	La resynchronisation cardiaque par stimulation biventriculaire : nouveau traitement de l'insuffisance cardiaque réfractaire. Discussion : L'insuffisance cardiaque au début du XXIe siècle
+htfl_fr_096	annotated	https://www.ncbi.nlm.nih.gov/pubmed/15724418	Obésité et insuffisance cardiaque
+htfl_fr_097	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9864605	Insuffisance cardiaque diastolique : Modalités thérapeutiques 
+htfl_fr_098	annotated	https://www.ncbi.nlm.nih.gov/pubmed/16618023	Valeur pronostique du BNP pour la mortalité hospitalière chez le sujet âgé hospitalisé pour insuffisance cardiaque diastolique aiguë
+htfl_fr_099	annotated	https://bdsp-ehesp.inist.fr/vibad/index.php?action=getRecordDetail&idt=231428	Prise en charge et coût de l'insuffisance cardiaque sévère dans l'étude EPICAL en lorraine
+htfl_fr_100	annotated	https://www.ncbi.nlm.nih.gov/pubmed/16618022	Peptide natriurétique de type B (BNP) versus n-terminal propeptide natriurétique de type B (NT-proBNP) pour le diagnostic de l'insuffisance cardiaque chez le sujet âgé de plus de 75 ans
+htfl_fr_101	annotated	https://www.sciencedirect.com/science/article/pii/S029412600600077X	Les complications des hémangiomes
+htfl_fr_102	annotated	https://bdsp-ehesp.inist.fr/vibad/index.php?action=getRecordDetail&idt=173552	Épidémiologie de l'infarctus du myocarde en France: Survie à 1 an des patients de l'étude USIK
+htfl_fr_103	annotated	https://www.em-consulte.com/en/article/594890	Epidémiologie et pronostic de l'insuffisance rénale aiguë
+htfl_fr_104	annotated	https://www.em-consulte.com/en/article/727680	Particularités étiopathogéniques, échographiques et évolutives de la myocardiopathie du post-partum
+htfl_fr_105	annotated	https://www.em-consulte.com/en/article/242907	Volumineux myxome de l’oreillette droite révélé par une insuffisance cardiaque congestive
+htfl_fr_106	annotated	https://www.em-consulte.com/en/article/75486	Précautions d'emploi et contre-indications des thiazolidinediones. Le point de vue du cardiologue
+htfl_fr_107	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9818108	Patients with aortic stenosis: Cardiac complications in non-cardiac surgery
+htfl_fr_108	annotated	https://www.lissa.fr/rep/articles/2114081	Tachycardies ventriculaires incessantes idiopathiques du nourrisson
+htfl_fr_109	annotated	https://www.sciencedirect.com/science/article/pii/S1278321810000405	Dose de tolérance des tissus sains : le cœur
+htfl_fr_110	annotated	https://www.ncbi.nlm.nih.gov/pubmed/8333725	Léiomyomatose intra-veineuse cave inférieure et cardiaque droite. A propos d'un cas et revue de la littérature
+htfl_fr_111	annotated	https://www.em-consulte.com/en/article/183355	Un syndrome de Takotsubo chez une patiente jeune
+htfl_fr_112	annotated	https://www.em-consulte.com/en/article/37402	Endocardites de la maladie de Whipple : cinq observations et revue de la littérature
+htfl_fr_113	annotated	https://www.ncbi.nlm.nih.gov/pubmed/7132061	Absorption and disposition of furosemide in congestive heart failure
+htfl_fr_114	annotated	https://www.researchgate.net/publication/8956876_Clinical_study_of_the_month_The_CHARM_study	L'étude clinique du mois : L'étude CHARM
+htfl_fr_115	annotated	https://www.researchgate.net/publication/11317572_Medium-term_results_of_multisite_biventricular_stimulation_in_severe_cardiac_failure	Effets à moyen terme de la stimulation multisite biventriculaire dans l'insuffisance cardiaque sévère
+htfl_fr_116	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9749216	Anévrisme de l'ampoule de Galien et insuffisance cardiaque : Attitude thérapeutique actuelle
+htfl_fr_117	annotated	https://www.em-consulte.com/rmr/article/286311	Insuffisance cardiaque aiguë sous itraconazole : une complication prévisible ?
+htfl_fr_118	annotated	https://www.ncbi.nlm.nih.gov/pubmed/8949787	Devenir des abcès cardiaques para-annulaires traités médicalement : Tentative d'identification de critères de pronosgtic favorable
+htfl_fr_119	annotated	https://www.sciencedirect.com/science/article/pii/S0248866310000299	Hyponatrémie : de la physiopathologie à la pratique
+htfl_fr_120	annotated	https://europepmc.org/abstract/med/9773127	Antagonistes des récepteurs AT1 de l'angiotensine II: développement clinique et perspectives futures : Actualités sur le Système Rénine-Angiotensine-Aldostérone
+htfl_fr_121	annotated	https://www.em-consulte.com/en/article/15205	Énorme myxome des cavités cardiaques droites révélé par une insuffisance cardiaque globale
+htfl_fr_122	annotated	https://www.em-consulte.com/en/article/844578	Galectin-3 : un nouveau biomarqueur pour le diagnostic, l’analyse et le pronostic de l’insuffisance cardiaque aiguë et chronique
+htfl_fr_123	annotated	https://www.sciencedirect.com/science/article/pii/S0085253815312473	Mechanism of sodium and water retention in rats with experimental heart failure
+htfl_fr_124	annotated	https://www.sciencedirect.com/science/article/pii/S0755498208000067	Fibrillation atriale : le plus fréquent des troubles du rythme
+htfl_fr_125	annotated	https://www.ncbi.nlm.nih.gov/pubmed/7487328	Modalités évolutives de la dysplasie ventriculaire droite arythmogène : à propos de 4 observations
+htfl_fr_126	annotated	https://www.em-consulte.com/en/article/36980	Thrombose tardive d'une endoprothèse coronaire pharmacoactive après arrêt des agents antiplaquettaires
+htfl_fr_127	annotated	https://www.sciencedirect.com/science/article/pii/S1624069304000040	Machines d’assistance circulatoire : indications, complications et perspectives d’avenir
+htfl_fr_128	annotated	https://www.sciencedirect.com/science/article/pii/S0001407919317856	Cardiomyopathie hypertrophique familiale: Etude française du déroulement des grossesses et des accouchements
+htfl_fr_129	annotated	https://pesquisa.bvsalud.org/saudepublica/resource/pt/mdl-15521474	Prise en charge des patients insuffisants cardiaques par les médecins généralistes français en 2003 : Etude PRINCEPS
+htfl_fr_130	annotated	https://www.sciencedirect.com/science/article/pii/S0398762016305260	Télésurveillance médicale couplée au pronostic clinique des patients atteints d’insuffisance cardiaque
+htfl_fr_131	annotated	https://www.em-consulte.com/en/article/119820	Insuffisance cardiaque aiguë diastolique
+htfl_fr_132	annotated	https://www.researchgate.net/publication/298674442_Peripartum_cardiomyopathy_Meadows_syndrome	Cardiomyopathie du péripartum : syndrome de Meadows
+htfl_fr_133	annotated	https://www.em-consulte.com/en/article/12462	Apport de l’échocardiographie Doppler dans le diagnostic de l’insuffisance cardiaque aiguë à fonction systolique conservée du sujet âgé
+htfl_fr_134	annotated	https://www.jle.com/fr/revues/mca/e-docs/epidemiologie_de_linsuffisance_cardiaque_en_europe_epidemie_du_21_e_siecle__268214/article.phtml	Épidémiologie de l’insuffisance cardiaque en Europe : épidémie du 21 e siècle ?
+htfl_fr_135	annotated	https://www.revmed.ch/RMS/2009/RMS-205-1/Suivi-du-patient-apres-transplantation-cardiaque-monitoring-et-adaptation-de-l-immunosuppression	Suivi du patient après transplantation cardiaque: monitoring et adaptation de l'immunosuppression
+htfl_fr_136	annotated	https://www.em-consulte.com/en/article/788154	Cardites rhumatismales en Côte d’Ivoire : évolution de la prévalence hospitalière durant la décennie 2000–2009
+htfl_fr_137	annotated	https://www.sciencedirect.com/science/article/pii/S0003392803001148	Éducation des patients concernant l’insuffisance cardiaque en centre hospitalier général : c’est possible…
+htfl_fr_138	annotated	https://www.ncbi.nlm.nih.gov/pubmed/10326158	Le bloc auriculoventriculaire congénital
+htfl_fr_139	annotated	https://www.researchgate.net/publication/10880289_B-type_natriuretic_peptide_for_the_diagnostic_and_prognostic_assessment_in_cardiology_Its_interest_and_perspectives_of_application	Le peptide B natriurétique pour l'évaluation diagnostique et pronostique en cardiologie : Intérêt pratique et perspectives d'applications
+htfl_fr_140	annotated	https://www.em-consulte.com/en/article/34547	Stratification du risque dans l'insuffisance cardiaque chronique
+htfl_fr_141	annotated	https://www.em-consulte.com/en/article/7218	Facteurs de risque de mortalité après chirurgie de l’aorte abdominale
+htfl_fr_142	annotated	https://www.em-consulte.com/en/article/922643	Soins palliatifs chez les patients en insuffisance cardiaque terminale
+htfl_fr_143	annotated	https://www.sciencedirect.com/science/article/pii/S0001407919332637	Biologie du vieillissement cardiaque et vasculaire
+htfl_fr_144	annotated	https://www.em-consulte.com/en/article/74393	Prévention de la thrombose veineuse profonde en Médecine
+htfl_fr_145	annotated	https://www.semanticscholar.org/paper/Registre-des-insuffisants-cardiaques-hospitalisés-%3A-Dujardin-Hanania/5e8f407251bac7f96cce77247d7b5b874d1828cb	Registre des insuffisants cardiaques hospitalisés en 2000 : Données du Collège national des cardiologues des hôpitaux généraux (CNCHG)
+htfl_fr_146	annotated	https://www.sciencedirect.com/science/article/pii/S0248866312004833	Myocardites
+htfl_fr_147	annotated	https://www.researchgate.net/publication/293551282_Complications_of_myocardial_infarction_in_the_acute_phase	Complications de l'infarctus du myocarde à la phase aiguë
+htfl_fr_148	annotated	https://www.erudit.org/fr/revues/fr/2007-v20-n1-fr2281/017949ar.pdf	Développement d’une approche intégrée de soins curatifs et palliatifs
+htfl_fr_149	annotated	https://www.em-consulte.com/en/article/206809	Anticoagulation orale et fibrillation auriculaire
+htfl_fr_150	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9749268	Cardiopathie carcinoïde
+htfl_fr_151	annotated	https://www.sciencedirect.com/science/article/pii/S0248866304000839	Angio-œdèmes et inhibiteurs de l'enzyme de conversion de l'angiotensine : à propos de 19 cas
+htfl_fr_152	annotated	https://www.ncbi.nlm.nih.gov/pubmed/20931099	Une forte variation de la validité des données administratives pour documenter l’insuffisance cardiaque
+htfl_fr_153	annotated	https://www.medecinesciences.org/en/articles/medsci/full_html/2004/06/medsci2004206-7p651/medsci2004206-7p651.html	Thérapie cellulaire de l’insuffisance cardiaque
+htfl_fr_154	annotated	https://www.ncbi.nlm.nih.gov/pubmed/21601767	Targeted Gene Therapy for the Treatment of Heart Failure
+htfl_fr_155	annotated	https://www.ncbi.nlm.nih.gov/pubmed/2736272	Recognition of congestive heart failure due to senile cardiac amyloidosis
+htfl_fr_156	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X0770884X	Le rétablissement de la fréquence cardiaque, un marqueur potentiel de l’issue clinique chez les insuffisants cardiaques sous bêtabloquant
+htfl_fr_157	annotated	https://www.sciencedirect.com/science/article/pii/S176944931000097X	Épidémiologie du syndrome d’apnées-hypopnées obstructives du sommeil de l’adulte et de ses complications
+htfl_fr_158	annotated	https://www.em-consulte.com/en/module/displayarticle/article/738821/impression/vue6	Optimisation du traitement médical après hospitalisation pour insuffisance cardiaque selon la fraction d’éjection ventriculaire gauche : le registre FUTURE
+htfl_fr_159	annotated	https://www.jle.com/fr/revues/bdc/e-docs/toxicite_cardiaque_des_traitements_du_cancer_chez_lenfant_et_ladolescent_physiopathologie_donnees_cliniques_et_point_de_vu_265289/article.phtml	Toxicité cardiaque des traitements du cancer chez l’enfant et l’adolescent : physiopathologie, données cliniques et point de vue de l’oncopédiatre
+htfl_fr_160	annotated	https://www.em-consulte.com/en/article/265372	Intérêt de l’imagerie par résonance magnétique nucléaire au cours de l’atteinte cardiaque du syndrome de Churg-Strauss. Trois observations et revue de la littérature
+htfl_fr_161	annotated	https://www.sciencedirect.com/science/article/pii/S0750765883800562	Association nitroglycérine et remplissage vasculaire dans la chirurgie de l'aorte abdominale
+htfl_fr_162	annotated	https://www.jle.com/fr/MedSanteTrop/2000/60.2/137-140%20Infection%20à%20Chlamydia%20%20et%20cardiomyopathie%20dilatée%20peripartum%20au%20Niger%20(Cenac).pdf	Infection à Chlamydia et cardiomyopathie dilaté peripartum au Niger
+htfl_fr_163	annotated	https://www.sciencedirect.com/science/article/pii/S000339280400215X	La resynchronisation cardiaque : quel type d’appareil utiliser ?
+htfl_fr_164	annotated	https://www.em-consulte.com/en/article/271628	Thérapie génique pour l’insuffisance cardiaque
+htfl_fr_165	annotated	https://www.researchgate.net/publication/11659383_Revascularization_of_atherosclerotic_stenosis_of_the_renal_artery_Indications_and_results	Revascularisation des sténoses athéroscléreuses de l'artère rénale : Indications et résultats
+htfl_fr_166	annotated	https://www.onlinecjc.ca/article/S0828-282X(09)70160-6/abstract	Attention aux écarts : Les possibilités d’améliorer les soins de fin de vie des patients atteints d’insuffisance cardiaque avancée
+htfl_fr_167	annotated	https://www.sciencedirect.com/science/article/pii/S1624069305002276	Stimulateurs cardiaques et défibrillateurs automatiques implantés : connaissances basiques pour le réanimateur
+htfl_fr_168	annotated	https://pdf.sciencedirectassets.com/272290/1-s2.0-S0003392800X00248/1-s2.0-S0003392804000691/main.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjEJz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIC9UTBByrdG9dfGna%2F9%2FJPLTj14TFXxrAmtcJJ%2F73gDrAiEAkjAbqjjlH1ercOS8YoqeVquxXlffW6TKxpvYfiI%2Fac0q2gMIdBACGgwwNTkwMDM1NDY4NjUiDGWWYEM1nEXPvrEqfyq3A3eZsWCfh8l7nIB9GH0a0t%2Bb1jd0TcJVBv2avA4HqVAsb0I3StSt3GNCqZySv%2Bd%2BmwyBOvXdITYPhB0SnLsb5p1TKjL4AEyop8kRS3rLu7kY5Rn584lvCmDhDjJAnIg4ndPyP%2BS19EFgED7iNB7uPkjlAtf4JgnETSxx5EqEs0UJycpgZGQ%2B8zsrHe52dV3SKT%2Fe9NIPpEghCvisRIMRguBk6MEHPx51h8AN1iLql4VS2MTZ3ATAgayRH3%2B9zIuxt9M1bDYgqNWr2uAT%2FzhVAuE6jzWDQ%2BXTBj8y26FeeSGdk6DM2ytfsTddba1w7FWSkWv68waHuoFZLFOIEPPx%2B9%2Bm9QbR8vhNK28TzU1A1qR8%2BT2kchvIJ1ICaOYjcCYeBBuYdI5lFW7kx3AMWHbe2dI6bdj5PyR8C6%2B%2BNElGPkH0oGWYMduscXRAayI5MqPYy8jgYWv71UuSvng6qFKd1iOAktmTsCQpS8skZmkWNsGRsPRWlGvnN%2FPNZQpBS6klScoAJYXtnnbUlARqClXA4RZhtflUA05sJ5DT1SoSU9eS6w21LuKRE90M19Q%2BmMiWX%2Bve20cD05UpEwh9q37AU6tAFdT8a7dy71JWd7Wx4qDZawYHuQOqDEJiOnkwG3BVnicnK0ZTF62YM3fi3MGs8Xjj6rFug%2F1hvyAIMEgMGmCOrKR2W6I0bJ8%2BQpGFgnqHLiUhpKD5sruCphBBfODxAethl%2FcveUqX%2F9XbQjccdOz6KfP7Kt9puSMG2JU3I5%2F%2FGA4Do4fCB72rgPARm6pmAvMJ2JJ87BFHQAJlp4iAvDEt0bCo57bU4HX8jXWLfFEAwGmnDMFm0%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190927T115357Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6K3FF7YB%2F20190927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7f841ccc870c4ce1d7c259fbc80ab02aadee33a84cfa6c92ec606ec03f52dc97&hash=f3190bcf5c2c3accea5adc7850989b0a7c524d3ff8a6491f8db66e675a3dbc52&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0003392804000691&tid=spdf-4d449e79-b42e-4045-a530-41205cb2221a&sid=a98f9af689326045af5b2c47f2c9479a7c51gxrqa&type=client	Effets du bisoprolol chez des patients en insuffisance cardiaque stable
+htfl_fr_169	annotated	https://www.lissa.fr/rep/articles/PF_2149406	Bloc auriculo-ventriculaire complet survenant chez une patiente traitée par chloroquine
+htfl_fr_170	annotated	https://www.ncbi.nlm.nih.gov/pubmed/23664320	Diagnosis and Management of Fetal Heart Failure
+htfl_fr_171	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9232078	Bloc auriculo-ventriculaire complet révélateur de maladie de Fabry
+htfl_fr_172	annotated	https://www.sciencedirect.com/science/article/pii/S0003392806000795	Prise en charge du patient insuffisant cardiaque : évolution, organisation, application à l'échelle locale
+htfl_fr_173	annotated	https://link.springer.com/chapter/10.1007%2F978-2-287-34066-6_20?LI=true	Conséquences péri-opératoires de ľinsuffisance cardiaque
+htfl_fr_174	annotated	https://www.onlinecjc.ca/article/S0828-282X(07)70829-2/abstract	Les préférences des patients atteints d’insuffisance cardiaque quant aux communications sur le pronostic
+htfl_fr_175	annotated	https://www.onlinecjc.ca/article/S0828-282X(07)70830-9/abstract	L’insuffisance mitrale, la morbidité et la mortalité en cas de dysfonction ventriculaire gauche
+htfl_fr_176	annotated	https://www.em-consulte.com/en/article/66527	Tératome sacrococcygien de la taille du fœtus : surveillance anténatale, thérapeutique fœtale in utero et prise en charge obstétricale
+htfl_fr_177	annotated	https://www.researchgate.net/publication/10926985_Intraventricular_thrombosis_complicating_peripartum_idiopathic_myocardiopathy	Les thromboses intraventriculaires compliquant la myocardiopathie idiopathique du péripartum
+htfl_fr_178	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X11010890	Effet d'une intervention infirmière de soutien favorisant l'autodétermination sur la pratique des auto-soins chez des patients atteints d'insuffisance cardiaque
+htfl_fr_179	annotated	https://bdsp-ehesp.inist.fr/vibad/index.php?action=getRecordDetail&idt=397514	Coût financier de la prise en charge des urgences cardiovasculaires au Centre Hospitalier et Universitaire de Brazzaville 
+htfl_fr_180	annotated	https://www.em-consulte.com/en/article/779525	Effets indésirables cardiaques des chimiothérapies
+htfl_fr_181	annotated	https://www.researchgate.net/publication/11540017_Dysthyroidism_in_elderly_patients_Clinical_characteristics	Les dysthyroïdies chez les personnes âgées: Particularités cliniques
+htfl_fr_182	annotated	https://www.researchgate.net/publication/288061661_La_cardiothyreose_Etude_clinique_et_evolutive_de_61_cas	La cardiothyréose : étude clinique et évolutive de 61 cas
+htfl_fr_183	annotated	https://www.journal-therapie.org/articles/therapie/abs/2004/01/TH5901Andrieu/TH5901Andrieu.html	La cardiotoxicité des anthracyclines : mécanismes et cibles pharmacologiques de prévention
+htfl_fr_184	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X07708267	Le rôle de la contrepulsation externe à haut rendement dans le traitement de l’angine et de l’insuffisance cardiaque
+htfl_fr_185	annotated	https://www.ncbi.nlm.nih.gov/pubmed/10598222	Remplacement valvulaire aortique chez les patients de plus de 80 ans: À propos de 140 patients, résultats à court et moyen termes
+htfl_fr_186	annotated	https://www.researchgate.net/publication/14456562_Has_life_expectancy_of_patients_after_surgery_for_aortic_valve_endocarditis_improved_over_the_last_twelve_years	L'espérance de vie des malades opérés pour endocardite infectieuse aortique a-t-elle augmentée dans les douze dernières années ?
+htfl_fr_187	annotated	https://www.sciencedirect.com/science/article/pii/S0750765805800383	Infarctus traumatique du ventricule droit secondaire à une dissection coronaire
+htfl_fr_188	annotated	https://www.revmed.ch/RMS/2006/RMS-56/31126	Maladies cardiovasculaires : une cible de prévention pour contrecarrer les effets de l'évolution démographique
+htfl_fr_189	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X08705695	Tests de marche progressive et marche de six minutes pour l’évaluation de la capacité fonctionnelle dans l’insuffisance cardiaque chronique
+htfl_fr_190	annotated	https://www.ncbi.nlm.nih.gov/pubmed/7646313	Physiopathologie de l'hypertrophie ventriculaire gauche
+htfl_fr_191	annotated	https://www.researchgate.net/publication/282369045_Aging_muscle_Functional_consequences_assessment_rehabilitation_program	Le vieillissement musculaire : conséquences fonctionnelles, évaluation, prise en charge rééducative
+htfl_fr_192	annotated	https://www.ncbi.nlm.nih.gov/pubmed/9295939	Fistules coronarocardiaques congénitales de l'enfant : Effets de l'occlusion chirurgicale ou de l'embolisation percutanée
+htfl_fr_193	annotated	https://www.semanticscholar.org/paper/LES-COMPLICATIONS-NEUROLOGIQUES-DES-ENDOCARTIES-Hannachi-Béard/19e659eb7efb53cc357bf2c7df57d04904728ced	Les complications neurologiques des endocarties infectieuses 
+htfl_fr_194	annotated	https://www.em-consulte.com/en/article/206567	Physiopathologie du risque cardio-vasculaire au cours du syndrome d'apnées du sommeil (SAS)
+htfl_fr_195	annotated	https://www.researchgate.net/publication/13537139_The_Cardiowest_total_artificial_heart_Experience_of_29_cases	Coeur artificiel total Cardiowest : Expérience à partir de 29 cas
+htfl_fr_196	annotated	https://www.ncbi.nlm.nih.gov/pubmed/21459274	The Effect of Comorbidity on the Competing Risk of Sudden and Nonsudden Death in an Ambulatory Heart Failure Population
+htfl_fr_197	annotated	https://www.em-consulte.com/en/article/236213	Éducation thérapeutique des patients insuffisants cardiaques en France
+htfl_fr_198	annotated	https://www.jle.com/fr/revues/mtp/e-docs/canal_arteriel_du_premature_200107/article.phtml	Canal artériel du prématuré
+htfl_fr_199	annotated	https://www.onlinecjc.ca/article/S0828-282X(08)71023-7/abstract	Les possibilités thérapeutiques courantes de prise en charge précoce de l’insuffisance cardiaque aiguë décompensée
+htfl_fr_200	annotated	https://www.em-consulte.com/rmr/article/174446	Les manifestations cardiovasculaires chez les patients atteints d’une BPCO
+htfl_fr_201	annotated	https://studylibfr.com/doc/8447636/le-syndrome-cardio-rénal-et--le-traitement-optimal-de-l’a...	LE SYNDROME CARDIO-RÉNAL ET LE TRAITEMENT OPTIMAL DE L'ANÉMIE RÉNALE
+htfl_fr_202	annotated	https://www.sciencedirect.com/science/article/pii/S0168605406000973	Fatigue et maladies cardiovasculaires
+htfl_fr_203	annotated	https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=871020	Complications à moyen terme du défibrillateur cardiaque automatique implantable
+htfl_fr_204	annotated	https://www.sciencedirect.com/science/article/pii/S0828282X0870638X	Le traitement par immunoglobuline intraveineuse en cas de myocardiopathie aiguë fulminante : Une série de six patients et une analyse bibliographique
+htfl_fr_205	annotated	https://www.em-consulte.com/en/article/301101	Resynchronisation cardiaque et cardiopathies congénitales
+htfl_fr_206	annotated	https://www.semanticscholar.org/paper/Dysplasie-ventriculaire-droite-arythmogène-Leenhardt-Milliez/db8d66c75aee555cd7c0f6be79b1c281526342f4	Dysplasie ventriculaire droite arythmogène
+htfl_fr_207	annotated	https://www.sciencedirect.com/science/article/pii/S0755498212003776	Hypotension orthostatique : répercussions sur le traitement des maladies cardiovasculaires
+htfl_fr_208	annotated	https://www.em-consulte.com/en/article/186285	Amélioration de la fonction pompe ventriculaire droite par resynchronisation : étude par imagerie de déformation myocardique
+htfl_fr_209	annotated	https://www.ncbi.nlm.nih.gov/pubmed/21601769	New and Emerging Drugs and Device Therapies for Chronic Heart Failure in Patients With Systolic Ventricular Dysfunction
+htfl_fr_210	annotated	https://www.sciencedirect.com/science/article/pii/S0248866302006744	Évolution sur 20 ans d’une réticulohistiocytose multicentrique
+
+-----
+DUTCH
+-----
+htfl_nl_001	annotated	https://www.ntvg.nl/artikelen/diureticatoediening-bij-oedemateuze-patiënten-met-hartfalen-intraveneus-oraal	Diureticatoediening bij oedemateuze patiënten met hartfalen: intraveneus of oraal?
+htfl_nl_002	annotated	https://www.ntvg.nl/artikelen/polsdruk-en-het-risico-van-hartfalen-de-oudere-bevolking	Polsdruk en het risico van hartfalen in de oudere bevolking
+htfl_nl_003	annotated	https://www.ntvg.nl/artikelen/veranderde-inzichten-en-doelstellingen-bij-de-behandeling-van-chronisch-hartfalen	Veranderde inzichten en doelstellingen bij de behandeling van chronisch hartfalen
+htfl_nl_004	annotated	https://www.ntvg.nl/artikelen/asymptomatische-dilatatie-van-de-linker-ventrikel-als-risicofactor-voor-de-ontwikkeling	Asymptomatische dilatatie van de linker ventrikel als risicofactor voor de ontwikkeling van hartfalen 
+htfl_nl_005	annotated	https://www.ntvg.nl/artikelen/hartfalen-en-voorschrijven-van-angiotensine-converterend-enzymremmers-de-huisartspraktijk	Hartfalen en voorschrijven van angiotensine-converterend-enzymremmers in de huisartspraktijk 
+htfl_nl_006	annotated	https://www.ntvg.nl/artikelen/behandeling-van-hartfalen-op-geleide-van-nt-probnp	Behandeling van hartfalen op geleide van (NT-pro)BNP
+htfl_nl_007	annotated	https://link.springer.com/article/10.1007/BF03058302	Metformine en thiazolidinedionen bij ouderen met hartfalen en diabetes mellitus 
+htfl_nl_008	annotated	https://link.springer.com/article/10.1007/BF03058887	Effecten van digoxine op morbiditeit en mortaliteit bij diastolisch hartfalen 
+htfl_nl_009	annotated	https://www.henw.org/artikelen/bnp-waardevol-bij-diagnostiek-hartfalen	BNP waardevol bij diagnostiek hartfalen 
+htfl_nl_010	annotated	https://link.springer.com/article/10.1007/s12503-011-0070-x	Relatie tussen gebrekkige health literacy en sterfte bij hartfalen 
+htfl_nl_011	annotated	https://www.researchgate.net/publication/225668162_Behandeling_van_chronisch_hartfalen	Behandeling van chronisch hartfalen 
+htfl_nl_012	annotated	https://link.springer.com/article/10.1007/s12503-011-0073-7	Telemonitoring bij hartfalen 
+htfl_nl_013	annotated	https://mijn.bsl.nl/hartfalen-waarnemer-weigert-info/628294	HARTFALEN WAARNEMER WEIGERT INFO 
+htfl_nl_014	annotated	https://www.henw.org/artikelen/welke-angiotensine-ii-receptorblokkers-bij-hartfalen	Welke angiotensine II-receptorblokkers bij hartfalen? 
+htfl_nl_015	annotated	https://link.springer.com/article/10.1007/s12503-011-0008-3	Opsporing verzocht met de herziene NHG-Standaard Hartfalen 
+htfl_nl_016	annotated	https://link.springer.com/article/10.1007/BF03057470	Hypertensiebehandeling voorkomt hartfalen
+htfl_nl_017	annotated	https://link.springer.com/article/10.1007/BF03084816	Diuretica bij hartfalen 
+htfl_nl_018	annotated	https://www.pil-nascholing.nl/tijdschrift/editie/artikel/t/betablokkers-bij-hartfalen	Bètablokkers bij hartfalen 
+htfl_nl_019	annotated	https://www.pil-nascholing.nl/tijdschrift/editie/artikel/t/candesartan-bij-hartfalen	Candesartan bij hartfalen 
+htfl_nl_020	annotated	https://link.springer.com/article/10.1007/BF03082449	Digitalis bij hartfalen 
+htfl_nl_021	annotated	https://www.nhg.org/?tmp-no-mobile=1&q=node/1805	NHG-Standaard Hartfalen 
+htfl_nl_022	annotated	https://www.ntvg.nl/artikelen/behandelopties-bij-‘diastolisch-hartfalen’	Behandelopties bij 'diastolisch hartfalen' 
+htfl_nl_023	annotated	https://www.ntvg.nl/artikelen/onduidelijkheden-de-diagnostiek-van-hartfalen	Onduidelijkheden in de diagnostiek van hartfalen 
+htfl_nl_024	annotated	https://link.springer.com/article/10.1007/BF03076524	Hartfalen: van acuut naar chronisch 
+htfl_nl_025	annotated	https://www.ntvg.nl/artikelen/ijzerstatus-nieuw-behandeldoel-bij-hartfalen	Ijzerstatus nieuw behandeldoel bij hartfalen? 
+htfl_nl_026	annotated	https://link.springer.com/article/10.1007/BF03058273	De optimale plasmaconcentratie van digoxine bij hartfalen 
+htfl_nl_027	annotated	https://link.springer.com/article/10.1007/BF03058341	Oneigenlijk gebruik van spironolacton bij hartfalen 
+htfl_nl_028	annotated	https://link.springer.com/article/10.1007/BF03057381	Carvedilol bij hartfalen 
+htfl_nl_029	annotated	https://link.springer.com/article/10.1007/BF03088377	Begeleiding van verpleegkundigen bij hartfalen succes 
+htfl_nl_030	annotated	https://www.ntvg.nl/artikelen/coumarines-aspirine-bij-hartfalen	Coumarines of aspirine bij hartfalen? 
+htfl_nl_031	annotated	https://link.springer.com/article/10.1007/BF03079946	Statines hebben weinig nut bij chronisch hartfalen 
+htfl_nl_032	annotated	https://link.springer.com/article/10.1007/BF03057697	Bèta-adrenoceptorblokker bij hartfalen 
+htfl_nl_033	annotated	https://www.tvg.be/index.php/article/chronisch-hartfalen-opties-als-de-medicamenteuze-therapie-tekortschiet	Chronisch hartfalen: opties als de medicamenteuze therapie tekortschiet 
+htfl_nl_034	annotated	https://www.tijdschriftpraktijkondersteuning.nl/archief/volledig/id105-diagnostiek-het-nut-van-tests.html	Diagnostiek: het nut van tests 
+htfl_nl_035	annotated	https://www.ntvg.nl/artikelen/onverwacht-geringere-sterfte-bij-oudere-patiënten-met-hartfalen-die-met-losartan-behandeld/volledig	Onverwachte geringere sterfte bij oudere patiënten met hartfalen die met losartan behandeld werden vergeleken met captopril 
+htfl_nl_036	annotated	https://www.researchgate.net/publication/8524691_Beta-blocking_drugs_indicated_in_patients_with_heart_failure	Beta-blokkers geïndiceerd bij patiënten met hartfalen 
+htfl_nl_037	annotated	https://link.springer.com/article/10.1007/s12632-013-0110-6	Diabetespatiënten boven 70 niet te intensief behandelen 
+htfl_nl_038	annotated	https://www.tvg.be/article/aldosteronantagonisten-de-behandeling-van-hartfalen	Aldosteronantagonisten en de behandeling van hartfalen 
+htfl_nl_039	annotated	https://www.ntvg.nl/artikelen/diagnostische-en-prognostische-waarde-van-b-type-natriuretische-peptiden-bij-hartfalen-bij/volledig	Diagnostische en prognostische waarde van beta-type-natriuretrische peptiden bij hartfalen of bij aanwijzingen daarvoor 
+htfl_nl_040	annotated	https://www.ntvg.nl/artikelen/nsaid’s-verboden-bij-hartfalen/volledig	NSAID's: verboden bij hartfalen? 
+htfl_nl_041	annotated	https://link.springer.com/article/10.1007/BF03059087	Bevorderen van therapietrouw bij hartfalen door de apotheker 
+htfl_nl_042	annotated	https://link.springer.com/article/10.1007/BF03079889	Het effect van therapietrouw bij statines op hartfalen bij primaire preventie 
+htfl_nl_043	annotated	https://link.springer.com/article/10.1007/BF03057756	Relatie tussen NSAID-gebruik en hartfalen bij ouderen 
+htfl_nl_044	annotated	https://link.springer.com/article/10.1007/BF03084159	Hoe denken patiënten met vergevorderd hartfalen over het sterven? 
+htfl_nl_045	annotated	https://www.henw.org/artikelen/patient-met-hartfalen-beter-af-met-gezamenlijke-zorg	Patiënt met hartfalen beter af met gezamenlijke zorg 
+htfl_nl_046	annotated	https://www.uza.be/hartpomp-houdt-patient-leven-tot-transplantatie	Ventricular assist devices 
+htfl_nl_047	annotated	https://www.ntvg.nl/artikelen/toepassing-van-een-elektrisch-steunhart-bij-3-patiënten-met-terminaal-hartfalen-als/volledig	Toepassing van een elektrisch steunhart bij 3 patiënten met terminaal hartfalen als overbrugging naar transplantatie 
+htfl_nl_048	annotated	https://www.ntvg.nl/artikelen/apoptose-bij-hartfalen/volledig	Apoptose bij hartfalen 
+htfl_nl_049	annotated	https://onlinelibrary.wiley.com/doi/full/10.1046/j.1532-5415.2001.4911260.x?sid=nlm%3Apubmed	Bloeddrukdaling na eerste gift captopril en perindopril bij patiënten van 70 jaar en ouder met stabiel chronisch hartfalen 
+htfl_nl_050	annotated	https://www.ntvg.nl/artikelen/richtlijn-chronisch-hartfalen/volledig	Richtlijn 'Chronisch hartfalen' 
+htfl_nl_051	annotated	https://link.springer.com/article/10.1007%2FBF03058846	Mogelijke interactie van acetylsalicylaat met ACE-remmers bij hartfalen 
+htfl_nl_052	annotated	https://www.pil-nascholing.nl/tijdschrift/editie/artikel/t/aii-antagonisten-bij-chronisch-hartfalen-en-redactioneel-myocardinfarct	AII-antagonisten bij chronisch hartfalen en REDACTIONEEL myocardinfarct 
+htfl_nl_053	annotated	https://www.pil-nascholing.nl/tijdschrift/editie/artikel/t/levensgevaarlijke-risicos-van-kaliumsparende-diuretica-bij-hartfalen	Levensgevaarlijke risicos van kaliumsparende diuretica bij hartfalen 
+htfl_nl_054	annotated	https://link.springer.com/article/10.1007/BF03085725	Bepaling van N-terminaal pro-BNP bij hartfalen: van NHG-standaard naar praktijk 
+htfl_nl_055	annotated	https://www.ntvg.nl/system/files/publications/2006122380001a.pdf	Niet-farmacologische behandeling van hartfalen: implanteerbare cardioverter-defibrillator en cardiale-resynchronisatietherapie 
+htfl_nl_056	annotated	https://www.tvg.be/article/metformine-bij-patienten-met-diabetes-mellitus-met-hartfalen-chronische-nierinsufficientie	Metformine bij patiënten met diabetes mellitus met hartfalen of chronische nierinsufficiëntie 
+htfl_nl_057	annotated	https://www.ntvg.nl/artikelen/optimale-behandeling-met-bètablokkers-bij-chronisch-hartfalen-mogelijk-afhankelijk-van-de/volledig	Optimale behandeling met bètablokkers bij chronisch hartfalen mogelijk afhankelijk van de genetische achtergrond van de patiënt 
+htfl_nl_058	annotated	https://www.rug.nl/research/portal/publications/dobutaminetherapie-thuis-als-brug-naar-harttransplantatie-of-als-einddoeltherapie-bij-ernstig-hartfalen-begeleid-door-de-nurse-practitioner(501cc9ea-48a7-4be5-b826-9acf5a859b53).html	Dobutaminetherapie thuis als brug naar harttransplantatie of als einddoeltherapie bij ernstig hartfalen begeleid door de 'nurse practitioner' 
+htfl_nl_059	annotated	https://www.tvg.be/index.php/article/de-behandeling-van-ernstig-hartfalen-bij-een-peripartum-cardiomyopathie	De behandeling van ernstig hartfalen bij een peripartum cardiomyopathie 
+htfl_nl_060	annotated	https://mijn.bsl.nl/voorlichting-en-begeleiding-aan-patienten-met-hartfalen-wat-werk/463306	Voorlichting aan en begeleiding van patiënten met chronisch hartfalen 
+htfl_nl_061	annotated	https://link.springer.com/article/10.1007/BF03056931	Een dosisresponsrelatie voor digoxine bij hartfalen 
+htfl_nl_062	annotated	https://link.springer.com/chapter/10.1007/978-90-313-8231-6_3	Effecten van psychosociale interventies bij hart- en vaatziekten: coronaire hartziekten, hartfalen en cerebrovasculaire aandoeningen 
+htfl_nl_063	annotated	https://www.henw.org/artikelen/betablokkers-mogen-bij-astma	Bètablokkers mogen bij astma astma Cochrane-review geneesmidddelen hart- en vaatziekten hartfalen 
+htfl_nl_064	annotated	https://link.springer.com/article/10.1007/BF03057316	Speelt digoxine nog een rol bij chronisch hartfalen? 
+htfl_nl_065	annotated	https://link.springer.com/article/10.1007%2FBF03058768	Het effect van thalidomide op het hart 
+htfl_nl_066	annotated	https://link.springer.com/article/10.1007/BF03085528	Crepitaties bij gezonde mensen 
+htfl_nl_067	annotated	https://www.zorgwelzijn.nl/zorg-voor-chronisch-zieken-beter-afgestemd-zwz013917w/	Zorg Voor Chronisch Zieken Beter Afgestemd 
+htfl_nl_068	annotated	https://link.springer.com/article/10.1007/s12462-012-277-8	Dubbelwerkend medicijn lijkt gunstig voor subtype hartfalen 
+htfl_nl_069	annotated	https://www.henw.org/artikelen/het-laatste-jaar-van-patienten-met-hartfalen	Het laatste jaar van patiënten met hartfalen 
+htfl_nl_070	annotated	https://link.springer.com/article/10.1007/BF03063206	Onderzoek naar hulpverlening hartfalenpatiënt 
+htfl_nl_071	annotated	https://link.springer.com/article/10.1007%2FBF03076954	De behandeling van atriumfibrilleren: een overzicht 
+htfl_nl_072	annotated	https://link.springer.com/article/10.1007/BF03076968	Digoxine en mortaliteit bij atriumfibrilleren 
+htfl_nl_073	annotated	https://www.tvg.be/article/b-type-natriuretisch-peptide-bnp-klinisch-nut-de-cardiovasculaire-setting	B-type-natriuretisch peptide (BNP): klinisch nut in de cardiovasculaire setting 
+htfl_nl_074	annotated	https://www.ntvg.nl/artikelen/myocardischemie-als-gevolg-van-behandeling-met-capecitabine	Myocardischemie als gevolg van behandeling met capecitabine 
+htfl_nl_075	annotated	https://poj.peeters-leuven.be/content.php?id=3282439&url=article	Moet bij een hartstilstand eerst hartmassae of eerste defibrillatie toegepast worden? 
+htfl_nl_076	annotated	https://www.ncbi.nlm.nih.gov/pubmed/18088263	A randomized controlled trial of a community nurse-supported hospital discharge programme in older patients with chronic heart failure (samenvatting in het Nederlands)
+htfl_nl_077	annotated	https://www.tvg.be/index.php/article/hartfalen-een-groeiend-gezondheidsprobleem	Hartfalen, een groeiend gezondheidsprobleem 
+htfl_nl_078	annotated	https://link.springer.com/article/10.1007/BF03077000	Sublinguale toediening van furosemide: nieuwe toepassing van een oud geneesmiddel 
+htfl_nl_079	annotated	https://www.ntvg.nl/artikelen/een-steunhart-als-overbrugging-naar-een-harttransplantatie-bij-2-adolescenten-met/volledig	Een steunhart als overbrugging naar een harttransplantatie bij 2 adolescenten met cardiomyopathie en hartfalen in een eindstadium als gevolg van antracyclinegebruik 
+htfl_nl_080	annotated	https://www.ntvg.nl/artikelen/samenvatting-van-de-standaard-hartfalen-eerste-herziening-van-het-nederlands-huisartsen/volledig	Samenvatting van de standaard 'hartfalen' (eerste herziening ) van het Nederlands Huisartsen Genootschap 
+htfl_nl_081	annotated	https://www.pil-nascholing.nl/tijdschrift/editie/artikel/t/rosuvastatine-bij-ouderen-met-systolisch-hartfalen	Rosuvastatine bij ouderen met systolisch hartfalen 
+htfl_nl_082	annotated	https://link.springer.com/article/10.1007/BF03057685	Bètablokkers bij verschillende klassen van hartfalen 
+htfl_nl_083	annotated	https://link.springer.com/article/10.1007/BF03058257	Behandeling van ernstig hartfalen met carvedilol 
+htfl_nl_084	annotated	https://www.henw.org/artikelen/statine-niet-effectief-bij-systolisch-hartfalen	Statine niet effectief bij systolisch hartfalen 
+htfl_nl_085	annotated	https://www.henw.org/artikelen/bnp-plaats-van-echo-bij-patienten-met-hartfalen	BNP in plaats van echo bij patiënten met hartfalen? 
+htfl_nl_086	annotated	https://www.henw.org/artikelen/niet-herkend-hartfalen-bij-oudere-patienten-met-chronisch-obstructieve-longziekte	Niet-herkend hartfalen bij oudere patiënten met chronisch obstructieve longziekte 
+htfl_nl_087	annotated	https://link.springer.com/article/10.1007/BF03057261	Amlodipine bij ernstig hartfalen 
+htfl_nl_088	annotated	https://www.ntvg.nl/artikelen/chronische-gelijktijdige-stimulatie-van-beide-hartkamers-een-nieuwe-behandelingsoptie-voor/volledig	Chronische gelijktijdige stimulatie van beide hartkamers, een nieuwe behandelingsoptie voor ernstig hartfalen 
+htfl_nl_089	annotated	https://www.ntvg.nl/artikelen/hartfalen-bij-mannen-en-vrouwen-belangrijke-verschillen-diagnostiek-en-behandeling/volledig	Hartfalen bij mannen en vrouwen: belangrijke verschillen in diagnostiek en behandeling 
+htfl_nl_090	annotated	https://www.rug.nl/research/portal/publications/therapietrouw-bij-patienten-met-chronisch-hartfalen(aeaa9da0-4be6-457a-8434-b48446c2cf2d)/export.html	Therapietrouw bij patiënten met chronisch hartfalen: validering van een vragenlijst 
+htfl_nl_091	annotated	https://tijdschriftverpleegkunde.nl/jaargangen/2008/1/hetvaliderenvaneendieetdagboekvoorpatintenmetchronischhartfalen.html	Het valideren van een dieetdagboek voor patiënten met chronisch hartfalen 
+htfl_nl_092	annotated	https://www.ntvg.nl/artikelen/acute-buikklachten-denk-ook-aan-hartfalen/volledig	Acute buikklachten: denk ook aan hartfalen 
+htfl_nl_093	annotated	https://www.semanticscholar.org/paper/Opioïden-voor-palliatie-van-dyspnoe-bij-terminale-Raat/b61c955d5d65c39e7452e726f3252c055ca9b071	Opioïden voor palliatie van dyspnoe bij terminale ziekte Cochrane-review terminale zorg ziekte 
+htfl_nl_094	annotated	https://link.springer.com/article/10.1007/BF03058557	ACE-remmers bij stabiele coronaire hartziekte met normale linkerventrikelfunctie 
+htfl_nl_095	annotated	https://link.springer.com/article/10.1007/BF03058282	Het bepalen van digoxine-spiegels: zekerheid of zelfbedrog? 
+htfl_nl_096	annotated	https://link.springer.com/article/10.1007/BF03080056	Calciumantagonisten en cardiovasculaire uitkomst 
+htfl_nl_097	annotated	https://link.springer.com/article/10.1007/BF03058612	Vitamine-E-suppletie bij cardiovasculaire aandoeningen en kanker? 
+htfl_nl_098	annotated	https://link.springer.com/article/10.1007/BF03079868	Clopidogreltherapie in de praktijk 
+htfl_nl_099	annotated	https://link.springer.com/article/10.1007/BF03085551	Antibiotica bij acute bronchitis en COPD-exacerbaties met comorbiditeit 
+htfl_nl_100	annotated	https://link.springer.com/article/10.1007/BF03082921	Kortademigheid anamnese elektrocardiografie hart- en vaatziekten laboratoriumonderzoek lichamelijk onderzoek longfunctieonderzoek luchtweg- en longaandoeningen 
+htfl_nl_101	annotated	https://link.springer.com/article/10.1007/BF03082444	Polyfarmacie bij ouderen. Een probleem? 
+htfl_nl_102	annotated	https://link.springer.com/article/10.1007/BF03084419	Verlichting van dyspnoe in de palliatieve fase 
+htfl_nl_103	annotated	https://link.springer.com/article/10.1007/BF03058962	Voorbehandelen met fibrinolytica: niet standaard aanbevolen bij een late percutane coronaire interventie 
+htfl_nl_104	annotated	https://link.springer.com/article/10.1007/s12503-013-0084-7	Praktische wegwijzers bij chronische nierschade 
+htfl_nl_105	annotated	https://www.ntvg.nl/artikelen/hartfalen-bij-een-ghanese-vrouw-ten-gevolge-van-endomyocardfibrose	Hartfalen bij een Ghanese vrouw ten gevolge van endomyocardfibrose 
+htfl_nl_106	annotated	https://www.ncbi.nlm.nih.gov/pubmed/18206525	Telehome monitoring in patients with cardiac disease who are at high risk of readmission1  (samenvatting in het Nederlands)
+htfl_nl_107	annotated	https://www.henw.org/artikelen/opnieuw-thiazidediuretica	Opnieuw thiazidediuretica 
+htfl_nl_108	annotated	https://link.springer.com/article/10.1007/BF03083574	De nier als risicofactor voor hart- en vaatziekten 
+htfl_nl_109	annotated	https://link.springer.com/article/10.1007/BF03079888	Aliskiren: zal een nieuw werkingsmechanisme ook betere klinische uitkomsten geven? 
+htfl_nl_110	annotated	https://link.springer.com/article/10.1007/BF03074888	Verpleegkundige interventie bij hartpatiënten in een achterstandswijk 
+htfl_nl_111	annotated	https://www.henw.org/artikelen/behandeling-van-depressie-na-hartinfact-geeft-geen-betere-prognose	Behandeling van depressie na hartinfact geeft geen betere prognose 
+htfl_nl_112	annotated	https://link.springer.com/article/10.1007/BF03083744	Zichtbare winst van preventie 
+htfl_nl_113	annotated	https://www.ntvg.nl/artikelen/het-beoordelen-van-de-centraalveneuze-druk	Het beoordelen van de centraalveneuze druk
+htfl_nl_114	annotated	https://link.springer.com/article/10.1007/BF03058193	Farmacotherapie ter preventie van hartfalen 
+htfl_nl_115	annotated	https://www.ntvg.nl/artikelen/acute-nierinsufficiëntie-door-braken-diarree-de-achilleshiel-bij-medicamenteus-ondersteund/volledig	Acute nierinsufficiëntie door braken of diarree: de achilleshiel bij medicamenteus ondersteund hartfalen 
+htfl_nl_116	annotated	https://www.ntvg.nl/artikelen/nederlandse-vereniging-voor-anesthesiologie-40/volledig	Acute effecten van partiële linker ventriculectomie bij patiënten met chronisch hartfalen 
+htfl_nl_117	annotated	https://www.ntvg.nl/artikelen/klinisch-hartfalen-na-behandeling-met-antracyclinederivaten-incidentie-en-risicofactoren/volledig	Klinisch hartfalen na behandeling met antracyclinederivaten: incidentie en risicofactoren onder 607 kinderen met kanker 
+htfl_nl_118	annotated	https://link.springer.com/article/10.1007/BF03057409	Hartfalen door geneesmiddelen 
+htfl_nl_119	annotated	https://www.tvg.be/article/diureticaresistentie-bij-hartfalen	Diureticaresistentie bij hartfalen 
+htfl_nl_120	annotated	https://www.ntvg.nl/artikelen/nut-van-spironolacton-bij-diastolisch-hartfalen	Nut van spironolacton bij diastolisch hartfalen 
+htfl_nl_121	annotated	https://www.ntvg.nl/artikelen/een-nieuw-hartgeruis-bij-een-patiënt-met-hartfalen-niet-altijd-een-klepafwijking/volledig	Een nieuw hartgeruis bij een patiënt met hartfalen: niet altijd een klepafwijking 
+htfl_nl_122	annotated	https://www.ntvg.nl/artikelen/digoxine-bij-chronisch-hartfalen-en-sinusritme-komt-het-einde-van-de-controverse/volledig	Digoxine bij chronisch hartfalen en sinusritme: komt het einde van de controverse dichterbij ? 
+htfl_nl_123	annotated	https://www.ntvg.nl/artikelen/waarde-van-lichte-en-intensieve-begeleiding-van-patiënten-met-hartfalen-resultaten-van-het/volledig	Voorlichting en begeleiding met chronisch hartfalen. Een case studie 
+htfl_nl_124	annotated	https://www.ntvg.nl/artikelen/bepaling-van-de-plasmaconcentratie-natriuretische-peptiden-waardevol-bij-de-diagnostiek	Bepaling van de plasmaconcentratie natriuretische peptiden is waardevol bij de diagnostiek bij vermoeden van hartfalen 
+htfl_nl_125	annotated	https://www.ntvg.nl/artikelen/dosisafhankelijke-toename-van-sterfte-tijdens-behandeling-met-het-oraal-werkzame-positief	Dosisafhankelijke toename van sterfte tijdens behandeling met het oraal werkzame, positief inotropicum vesnarinon bij patiënten met chronisch hartfalen 
+htfl_nl_126	annotated	https://link.springer.com/article/10.1007/BF03084153	Statinehype neemt af, maar gebruik stijgt 
+htfl_nl_127	annotated	https://link.springer.com/article/10.1007/BF03057849	Amiodaron ter preventie van atriumfibrillatie na open hartchirurgie, bij ouderen die bètablokkers gebruiken 
+htfl_nl_128	annotated	https://link.springer.com/article/10.1007/BF03084658	Langer leven met elke dag een placebopil 
+htfl_nl_129	annotated	https://link.springer.com/article/10.1007%2FBF03058375	Is behandeling van een stabiele coronaire ziekte met een ACE-remmer zinvol? 
+htfl_nl_130	annotated	https://link.springer.com/article/10.1007/BF03080005	Bètablokkers voor behandeling van astma: een tweesnijdend zwaard 
+htfl_nl_131	annotated	https://www.ntvg.nl/artikelen/nesiritide-niet-effectief-bij-acuut-hartfalen	Nesiritide niet effectief bij acuut hartfalen 
+htfl_nl_132	annotated	https://www.ntvg.nl/artikelen/thuisinfusie-van-inotropica-bij-ernstig-hartfalen-een-belangrijke-rol-voor-de-nurse/volledig	Thuisinfusie van inotropica bij ernstig hartfalen; een belangrijke rol voor de 'nurse practitioner' 
+htfl_nl_133	annotated	https://www.henw.org/artikelen/lichamelijk-onderzoek-en-aanvullende-tests-bij-hartfalen	Lichamelijk onderzoek en aanvullende tests bij hartfalen 
+htfl_nl_134	annotated	https://www.henw.org/artikelen/medicatie-bij-hartfalen	Medicatie bij hartfalen 
+htfl_nl_135	annotated	https://link.springer.com/article/10.1007/BF03071218	Telemonitoring or structured telephone support programmes for patients with chronic heart failure: systematic review and meta-analysis  (samenvatting in het Nederlands)
+htfl_nl_136	annotated	https://www.researchgate.net/publication/315258594_Nieuwe_gegevens_betreffende_de_behandeling_van_hartfalen_De_Val-HeFT-_en_de_Copernicus-studies	Nieuwe gegevens betreffende de behandeling van hartfalen. De Val-HeFT- en de Copernicus-studies 
+htfl_nl_137	annotated	https://www.ntvg.nl/artikelen/hartrevalidatie-bij-patiënten-met-een-aangeboren-hartafwijking-een-implanteerbare/volledig	Hartrevalidatie bij patiënten met een aangeboren hartafwijking, een implanteerbare defibrillator of chronisch hartfalen 
+htfl_nl_138	annotated	https://link.springer.com/article/10.1007/s41045-015-0095-6	Ziektebeeld, diagnostiek en behandeling hartfalen
+htfl_nl_139	annotated	https://link.springer.com/article/10.1007/BF03063048	Spierkrachttraining, functionele inspanningstolerantie en kwaliteit van leven bij patiënten met Chtfl 
+htfl_nl_140	annotated	https://link.springer.com/article/10.1007/BF03086412	Volgranenontbijt en hartfalen 
+htfl_nl_141	annotated	https://www.pil-nascholing.nl/tijdschrift/editie/artikel/t/atriumfibrillatie-met-hartfalen	Atriumfibrillatie met hartfalen 
+htfl_nl_142	annotated	https://link.springer.com/article/10.1007/BF03058594	Farmacotherapie bij chronisch hartfalen 
+htfl_nl_143	annotated	https://link.springer.com/article/10.1007/BF03058180	Glitazones en hartfalen 
+htfl_nl_144	annotated	https://link.springer.com/article/10.1007%2FBF03057535	Tripeltherapie bij hartfalen
+htfl_nl_145	annotated	https://www.pil-nascholing.nl/artikelen/artikel/t/betareceptorblokkade-bij-hartfalen	Bètareceptorblokkade bij hartfalen
+htfl_nl_146	annotated	https://link.springer.com/article/10.1007/BF03076940	Goed klinisch onderzoek bij kinderen: volhouden! 
+htfl_nl_147	annotated	https://link.springer.com/article/10.1007/BF03059965	Kortademigheid bij ouderen
+htfl_nl_148	annotated	https://link.springer.com/article/10.1007/s12445-016-0107-z	Diabetes en cardiovasculaire sterfte
+htfl_nl_149	annotated	https://www.henw.org/artikelen/afwijkende-spirometrie-bij-hartfalen	Afwijkende spirometrie bij hartfalen
+htfl_nl_150	annotated	https://link.springer.com/chapter/10.1007/978-90-368-0471-4_14	Cardiovasculaire medicatie
+htfl_nl_151	annotated	https://www.rivm.nl/publicaties/hartfalen-epidemiologie-risicofactoren-en-toekomst	Hartfalen: epidemiologie, risicofactoren en toekomst
+htfl_nl_152	annotated	https://www.ntvg.nl/artikelen/partiële-linker-ventriculectomie-batista-operatie-ter-behandeling-van-eindstadium/icmje	Partiële linker ventriculectomie (Batista-operatie) ter behandeling van eindstadium hartfalen na afwijzing voor harttransplantatie
+htfl_nl_153	annotated	https://www.ntvg.nl/artikelen/waarde-van-lichte-en-intensieve-begeleiding-van-patiënten-met-hartfalen-resultaten-van-het	Waarde van lichte en intensieve begeleiding van patiënten met hartfalen; resultaten van het COACH-onderzoek 
+htfl_nl_154	annotated	https://poj.peeters-leuven.be/content.php?id=1001234&url=article	Het gebruik van bètablokkers bij licht tot ernstig chronisch harfalen
+htfl_nl_155	annotated	https://docplayer.nl/50138796-De-validiteit-van-de-gemodificeerde-shuttle-wandel-test-bij-patienten-met-chronisch-hartfalen.html	De validiteit van de gemodificeerde Shuttle Wandel Test bij patiënten met chronisch hartfalen 
+htfl_nl_156	annotated	https://link.springer.com/article/10.1007/BF03057823	Onderzoek naar hartfalen met omapatrilaat, een vasopeptidase-remmer en lisinopril
+htfl_nl_157	annotated	https://link.springer.com/article/10.1007/BF03057740	Het effect van spironolacton op morbiditeit en mortaliteit bij patiënten met ernstig hartfalen
+htfl_nl_158	annotated	https://link.springer.com/article/10.1007/BF03058718	Candesartan bij hartfalen: verlaagd risico op niet-fataal myocardinfarct of cardiovasculaire sterfte
+htfl_nl_159	annotated	https://www.henw.org/artikelen/arnis-nieuwe-medicatie-bij-hartfalen	ARNi’s: nieuwe medicatie bij hartfalen?
+htfl_nl_160	annotated	https://link.springer.com/article/10.1007/BF03058140	Enalapril in standaarddosis en in hoge dosis bij behandeling van hartfalen
+htfl_nl_161	annotated	https://link.springer.com/chapter/10.1007/978-90-313-8808-0_64	Is furosemide i.v. nu wel of niet gecontra-indiceerd bij acuut hartfalen?
+htfl_nl_162	annotated	https://link.springer.com/article/10.1007/BF03058789	Is amiodaron wel veilig bij hartfalen?
+htfl_nl_163	annotated	https://link.springer.com/chapter/10.1007/978-90-313-8808-0_4	Wat is het verschil tussen systolisch en diastolisch hartfalen?
+htfl_nl_164	annotated	https://cvgk.nl/2015/03/18/dpp4-remming-niet-geassocieerd-met-verhoogd-risico-op-hartfalen-in-type-2-diabetes/	DPP4-remming niet geassocieerd met verhoogd risico op hartfalen in type 2 diabetes
+htfl_nl_165	annotated	https://link.springer.com/article/10.1007%2FBF03058316	Minder hartfalen door gebruik van chloortalidon bij hypertensie
+htfl_nl_166	annotated	https://www.tvg.be/index.php/article/nieuwere-begrippen-de-pathofysiologie-van-hartfalen	Nieuwere begrippen in de pathofysiologie van hartfalen
+htfl_nl_167	annotated	https://lirias.kuleuven.be/1666056?limo=0	Evaluatie van de medicatie bij patiënten die minstens één jaar gediagnosticeerd zijn met hartfalen
+htfl_nl_168	annotated	https://link.springer.com/article/10.1007/BF03081339	Prevalentie en onjuiste diagnoses van chronisch hartfalen bij verpleeghuisbewoners: de rol van B-type natriuretische peptiden
+htfl_nl_169	annotated	https://mijn.bsl.nl/genderverschillen-bij-hartfalen/698340	Genderverschillen bij Hartfalen
+htfl_nl_170	annotated	https://dspace.library.uu.nl/handle/1874/36270	Seksualiteit en de behoefte aan seksuele hulpverlening van patienten met chronisch hartfalen en hun partners. Een beschrijvend onderzoek.
+htfl_nl_171	annotated	https://repub.eur.nl/pub/80091/	Volwassenen met een aangeboren hartafwijking : klinische uitkomsten en nieuwe echocardiografische technieken
+htfl_nl_172	annotated	https://www.ntvg.nl/artikelen/hartschade-voorkomen-bij-patienten-met-chemotherapie	hartfalen voorkomen bij patiënten met chemotherapie
+htfl_nl_173	annotated	https://www.ntvg.nl/artikelen/breed-toepasbare-beslisregel-voor-hartfalen-de-huisartsenpraktijk	Breed toepasbare beslisregel voor hartfalen in de hisartsenpraktijk
+htfl_nl_174	annotated	https://www.ntvg.nl/artikelen/langwerkende-nitraten-helpen-niet-bij-patienten-met-hartfalen-en-behouden-ejectiefractie	langwerkende nitraten helpen niet bij patiënten met hartfalen en behouden ejectiefractie
+
+
+===========
+WIND ENERGY
+===========
+English and French part were taken integrally from the TTC project http://www.lina.univ-nantes.fr/%3fReference-Term-Lists-of-TTC.html
+A comparable Dutch part was created manually to fit in with the other languages.
+
+-------
+ENGLISH
+-------
+wind_en_01	annotated	TTC project	COMPUTER-AIDED DESIGN OF HORIZONTAL-AXIS WIND TURBINE BLADES
+wind_en_02	annotated	TTC project	JOINT IMPLEMENTATION PROJECT DESIGN DOCUMENT FORM FOR SMALL-SCALE PROJECTS
+wind_en_03	unannotated	TTC project	Building on the UW-Green Bay Master Plan
+wind_en_04	annotated	TTC project	A national laboratory of the U.S. Department of Energy Office of Energy Efficiency & Renewable Energy
+wind_en_05	unannotated	TTC project	Assessment of Potential Improvements in Large-Scale Low Wind Speed Technology
+wind_en_06	unannotated	TTC project	Offshore wind energy: 'The road to maturity'
+wind_en_07	unannotated	TTC project	WHAT YOU NEED TO KNOW ABOUT WIND TURBINES WHAT YOU NEED TO KNOW ABOUT WIND TURBINES AND THE GREEN ENERGY ACT
+wind_en_08	unannotated	TTC project	energies 2010
+wind_en_09	unannotated	TTC project	Overview of different wind generator systems and their comparisons
+wind_en_10	unannotated	TTC project	Wind turbine performance under icing conditions
+wind_en_11	unannotated	TTC project	Vertical Axis Wind Turbine
+wind_en_12	unannotated	TTC project	GE ENERGY'S OFFSHORE WIND ENERGY ACTIVITIES: DEVELOPMENT, ON-SITE EXPERIENCE, AND TURBINE ENHANCEMENTS
+wind_en_13	unannotated	TTC project	Optimal Pitch for Untwisted Blade Horizontal Axis Wind Turbine
+wind_en_14	unannotated	TTC project	Wind Turbine Blade Flow Fields and Prospects for Active Aerodynamic Control
+wind_en_15	unannotated	TTC project	COURSE Energy (Intermediate 2)
+wind_en_16	unannotated	TTC project	Dynamics of Vertical Axis Wind Turbines
+wind_en_17	unannotated	TTC project	User's Manual ARI Hybrid Solar - Wind Generator
+wind_en_18	unannotated	TTC project	BWEA Briefing Sheet Wind Turbine Technology
+wind_en_19	unannotated	TTC project	A geographic analysis of wind turbine placement in Northern California
+wind_en_20	unannotated	TTC project	WIND TURBINE TOWER KIT ENSEMBLE DE TOUR POUR ÉOLIENNE KIT TORRE DE MONTAJE PARA AEROGENERADOR
+wind_en_21	unannotated	TTC project	Wind Turbine Sound and Health Effects
+wind_en_22	unannotated	TTC project	Environmental Impact Statement Town of Sheldon Wyoming County, New York Prepared for: Sheldon Town Board
+wind_en_23	unannotated	TTC project	EU Guidance on wind energy development in accordance with the EU nature legislation
+wind_en_24	unannotated	TTC project	The Case for Vertical Axis Wind Turbines
+wind_en_25	unannotated	TTC project	TOWN OF RIDGEVILLE WIND ENERGY CONVERSION SYSTEMS ORDINANCE
+wind_en_26	annotated	TTC project	BWEA Briefing Sheet Wind Turbine Technology
+wind_en_27	unannotated	TTC project	California Offshore Wind Energy Potential
+wind_en_28	unannotated	TTC project	European Association for the Development of Renewable Energies, Environment and Power Quality (EA4EPQ)
+wind_en_29	unannotated	TTC project	Comparison of Theoretical and Experimental Power output of a Small 3-bladed Horizontal-axis Wind Turbine
+wind_en_30	unannotated	TTC project	The Potential Health Impact of Wind Turbines
+wind_en_31	unannotated	TTC project	CLEAN DEVELOPMENT MECHANISM PROJECT DESIGN DOCUMENT FORM
+wind_en_32	annotated	TTC project	Technical Description and Data of the Wind Turbine
+wind_en_33	unannotated	TTC project	High-Performance Wind Power Plant INNOVA WIND POWER 150KW
+wind_en_34	unannotated	TTC project	Engineering Design Energy Storage Solutions
+wind_en_35	unannotated	TTC project	European Wind Energy Conference & Exhibition 2010
+wind_en_36	unannotated	TTC project	PSCAD: Power System Simulation
+wind_en_37	unannotated	TTC project	Technical Report: Electrical Engineering
+wind_en_38	unannotated	TTC project	Wind Energy and Turbine Technology
+
+------
+FRENCH
+------
+wind_fr_01	unannotated	TTC project	CONTRIBUTION A L'OPTIMISATION D'UN SYSTEME DE CONVERSION EOLIEN POUR UNE UNITE DE PRODUCTION ISOLEE	48547
+wind_fr_02	unannotated	TTC project	ETUDE ET COMMANDE DE GENERATRICES ASYNCHRONES POUR L'UTILISATION DE L'ENERGIE EOLIENNE	33768
+wind_fr_03	unannotated	TTC project	Énergies éoliennes	15023
+wind_fr_04	unannotated	TTC project	Aide à la décision pour la définition d'un système éolien adapté à un site donné	5067
+wind_fr_05	unannotated	TTC project	ANÉMOMÉTRIE À LA NACELLE EN PRÉSENCE DE SILLAGE D'ÉOLIENNES	17213
+wind_fr_06	partially annotated	TTC project	Supervision d' centrale multisources à base d' une éoliennes et de stockage d' énergie connectée au réseau électrique.	59471
+wind_fr_07	unannotated	TTC project	CONTRIBUTION A L'OPTIMISATION D'UN SYSTEME DE CONVERSION EOLIEN POUR UNE UNITE DE PRODUCTION ISOLEE	48354
+wind_fr_08	unannotated	TTC project	MANUEL PRÉLIMINAIRE DE L'ÉTUDE D'IMPACT DES PARCS ÉOLIENS	26651
+wind_fr_09	unannotated	TTC project	Coût de la production d'électricité par des éoliennes	35497
+wind_fr_10	annotated	TTC project	UN SOUFFLE d'ÉOLIEN	4628
+wind_fr_11	unannotated	TTC project	Mini-projet de machines thermiques L'énergie éolienne	8157
+wind_fr_12	unannotated	TTC project	10 questions à Gilbert Ruelle SUR L'ÉOLIEN, UNE ÉNERGIE du XXI e SIECLE	12305
+
+-----
+DUTCH
+-----
+wind_nl_01	annotated	https://uhdspace.uhasselt.be/dspace/bitstream/1942/12642/1/06242482010589.pdf	De opportuniteiten van kleinschalige windenergie in Vlaanderen 	17374
+wind_nl_02	annotated	http://repository.tudelft.nl/assets/uuid:d88f5a3d-ab88-418d-9c22-4567eabdfd41/Windenergie.pdf	Windenergie zonder wieken 	1237
+wind_nl_03	annotated	https://biblio.ugent.be/publication/1165428/file/1165429	Een grote windturbine op uw erf? Uw vragen over windenergie: een antwoord! 	8499
+wind_nl_04	annotated	ftp://130.112.2.101/pub/www/library/report/2001/c01058.pdf	Conditiebewaking aan windturbines 	10207
+wind_nl_05	annotated	http://www.vliz.be/docs/groterede/GR29_FunderingWindmolens.pdf	Offshore windmolens en het belang van een degelijke fundering 	3171
+wind_nl_06	unannotated	http://www.mumm.ac.be/Downloads/MEB_%2020020526.pdf	Bouw en exploitatie van een windmolenpark op de Wenduinebank in de Noordzee: Milieu-effectenbeoordeling van het project ingediend door de n.v. “C-Power” 	38416
+wind_nl_07	unannotated	http://www.scriptiebank.be/sites/default/files/webform/scriptie/masterpaper_29.pdf	Impedantie van de grond bij monopiles voor offshore windturbines 	16323
+wind_nl_08	annotated	http://dare.uva.nl/document/2/94350	Juridische mogelijkheden en beperkingen voor windenergie op land 	6171
+wind_nl_09	unannotated	http://wesp.snt.utwente.nl/~wot/publications/virya-formule.pdf	De formule Virya Computerberekeningen aan een kleine windmolen 	6319
+wind_nl_10	unannotated	http://www.wot.utwente.nl/publications/cde/windenergie.pdf	cursus Duurzame Energie in ontwikkelingslanden: windenergie	8790
+wind_nl_11	unannotated	ftp://ftp.ecn.nl/pub/www/library/report/2003/c03136.pdf	Koppelregeling van variabel-toeren windturbines 	6782
+wind_nl_12	unannotated	https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwi0jbeWxKnMAhUpDsAKHWP4CqIQFgg7MAY&url=http%3A%2F%2Fwww.teamproject.nl%2Fdpde%2Fmateriaal%2FWindturbines%2520-%2520de%2520weg%2520naar%2520optimalisatie.doc&usg=AFQjCNEE_ZnkBjRL1k6lSTlCbl_AkcnT_w&bvm=bv.119745492,d.ZGg	Windturbines; de weg naar optimalisatie	2453
+wind_nl_13	annotated	http://www.microwindturbine.be/Innovatieve_concepten.html	microwindturbine: innovatieve concepten	1458
+wind_nl_14	unannotated	http://www.exactverwoord.nl/attachments/article/7/Themanummer%20windenergie.pdf	thema: windenergie	4385
+wind_nl_15	unannotated	http://www.vliz.be/en/imis?refid=108727	Windenergie op de Noordzee: een maatschappelijke kosten-batenanalyse	39640
+wind_nl_16	unannotated	http://lib.ugent.be/fulltxt/RUG01/000/698/729/RUG01-000698729_2010_0001_AC.pdf	De windturbine: een nieuw element in het Vlaamse cultuurlandschap	56874
+wind_nl_17	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-P--01-006	Alles in de wind: vragen en antwoorden over windenergie	4553
+wind_nl_18	annotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-O--15-039	Offshore windenergie: onmisbaar en economisch verantwoord	1465
+wind_nl_19	unannotated	https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwj-somRzJrNAhWGOsAKhtflF1ANoQFghLMAc&url=https%3A%2F%2Fwww.natuurpunt.be%2Ffiles%2Fproactieveaanpakwindmolensnatuurpuntpdf%2Fdownload%3Ftoken%3DFF-engKe&usg=AFQjCNHTIDDeMN9F9CmWeD-tY_nbimLRwQ&sig2=YOuwe6rr_8EOPi4hsb8cLA	Kader windmolens	6857
+wind_nl_20	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-E--07-062	Real-time processimulator voor windturbinebesturingen 	1927
+wind_nl_21	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--02-082	PROCESSIMULATOR VOOR WINDTURBINEBESTURINGEN	14950
+wind_nl_22	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-E--06-062	Validatiemetingen EWTW	8082
+wind_nl_23	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--04-063	ontwikkeling van normen voor offshore windenergie	4326
+wind_nl_24	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--03-133	Ontwikkeling van een gereedschap voor het ontwerpen van windturbineregelingen	3979
+wind_nl_25	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--03-134	Bladhoek geregelde demping van axiale torentrillingen bij windturbines	5119
+wind_nl_26	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--03-135	Filtering van de rotorsnelheidsmeting bij windturbines	2059
+wind_nl_27	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--03-136	Koppelregeling van variabel-toeren windturbines	6746
+wind_nl_28	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--03-139	Passieve mechanismen voor demping van bladzwaaitrillingen	2718
+wind_nl_29	unannotated	https://www.ecn.nl/publications/PdfFetch.aspx?nr=ECN-C--03-049	Aanbodvoorspeller duurzame energie  Deel  II Korte termijn prognose van windvermogen	17862

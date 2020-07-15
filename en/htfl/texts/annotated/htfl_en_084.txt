@@ -1,0 +1,9 @@
+Measuring frailty in heart failure: a community perspective.
+BACKGROUND:
+Frailty, an important prognostic indicator in heart failure (HF), may be defined as a biological phenotype or an accumulation of deficits. Each method has strengths and limitations, but their utility has never been evaluated in the same community HF cohort.
+METHODS:
+Southeastern Minnesota residents with HF were recruited from 2007 to 2011. Frailty according to the biological phenotype was defined as 3 or more of: weak grip strength, physical exhaustion, slowness, low activity and unintentional weight loss >10 lb in 1 year. Intermediate frailty was defined as 1 to 2. The deficit index was defined as the proportion of deficits present out of 32 deficits.
+RESULTS:
+Among 223 patients (mean age 71 ± 14, 61% male), 21% were frail and 48% intermediate frail according to the biological phenotype. The deficit index ranged from 0.02-0.75, with a mean (SD) of 0.25 (0.13). Over a mean follow-up of 2.4 years, 63 patients died. After adjustment for age, sex and ejection fraction, patients categorized as frail by the biological phenotype had a 2-fold increased risk of death compared to those with no frailty, whereas a 0.1 unit increase in the deficit index was associated with a 44% increased risk of death. Both measures predicted death equally (C-statistics: 0.687 for biological phenotype and 0.700 for deficit index).
+CONCLUSION:
+The deficit index and the biological phenotype equally predict mortality. As the biological phenotype is not routinely assessed clinically, the deficit index, which can be ascertained from medical records, is a feasible alternative to ascertain frailty.

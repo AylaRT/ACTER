@@ -1,0 +1,16 @@
+Langwerkende nitraten helpen niet bij patiënten met hartfalen en behouden ejectiefractie
+
+Waarom dit onderzoek?
+Veel patiënten met hartfalen hebben een goed functionerende linker ventrikel met een zogenoemde behouden ejectiefractie. Voor hen is er echter geen bewezen effectieve medicatie. Zo hebben ACE-remmers, angiotensinereceptorblokkers en bètablokkers neutrale effecten laten zien. Nitraten kunnen wel effectief zijn, omdat ze de bloeddruk verlagen en ook de compliantie van de stijve linker ventrikel en de atrioventriculaire koppeling verbeteren.
+
+Onderzoeksvraag
+Wat is de effectiviteit van langwerkend isosorbidemononitraat bij patiënten met hartfalen en een behouden ejectiefractie?
+
+Hoe werd dit onderzocht?
+In een cross-overonderzoek randomiseerden de onderzoekers 110 patiënten met hartfalen en een behouden ejectiefractie: de eerste groep begon met 6 weken isosorbidemononitraat (startdosis: 30 mg, daarna dosisverhoging naar 60 mg tot maximaal 120 mg per dag) en kreeg daarna 6 weken placebo; de tweede groep begon met placebo en kreeg vervolgens isosorbidemononitraat. Primaire uitkomstmaat was het niveau van het dagelijkse functioneren, dat gemeten werd met een door de patiënt gedragen accelerometer. Deze registreerde de fysieke activiteit gedurende 24 h per dag in accelerometer-eenheden (AE).
+
+Belangrijkste resultaten
+Verrassend genoeg werd bij de groep die isosorbidemononitraat 120 mg kreeg een net niet-statistisch significante trend naar een verminderde dagelijkse activiteit gezien vergeleken met placebo (-381 AE; 95%-BI: -780-17) en een significant kortere duur van de dagelijkse activiteiten (-0,3 h; -0,55- -0,05). Ongeacht de dosering was de activiteit van de isosorbidemononitraat-gebruikers lager dan die van deelnemers die placebo namen (-439 AE; -792- -86). Deze afname was dosisafhankelijk bij gebruik van isosorbidemononitraat, maar niet bij placebo. Er waren geen verschillen voor de secundaire uitkomstmaten, zoals de 6-minutenlooptest, kwaliteit van leven en concentratie van N-terminaal pro-breinnatriuretisch peptide.
+
+Consequenties voor de praktijk
+Langwerkende nitraten leiden niet tot beter functioneren van patiënten met hartfalen en een behouden ejectiefractie. Nader onderzoek naar de pathofysiologie van dit type hartfalen is noodzakelijk, omdat we momenteel geen enkele behandeling hebben voor patiënten met deze invaliderende aandoening met een slechte prognose.

@@ -1,0 +1,7 @@
+Pirouette
+Dans cet exercice, le cheval fait un tour complet autour de ses hanches en étant incurvé dans la direction suivie.
+Son postérieur ne doit pas être figé en faisant pivot, mais se lever et se baisset en cadence avec l'allure. Il peut décrire un cercle de 0,5 mètre de diamètre.
+Cette figure s'effectue généralement au pas ou au galop, mais on peut également la voir effectuer au piaffer.
+
+Pirouette renversée
+Cet exercice consiste à faire une tour autour des épaules avec un cheval incurvé dans le sens du déplacement. Il ne se pratique qu'au pas.Il est peu utilisé si ce n'est pour résoudre des problèmes de mobilité des hanches.

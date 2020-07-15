@@ -1,0 +1,773 @@
+ac/dc	Specific_Term
+accumulateur	Specific_Term
+accumulateur au lithium-carbone	Specific_Term
+accumulateur au nickel à électrolyte	Specific_Term
+accumulateurs	Specific_Term
+afc	Specific_Term
+aimant permanent	Specific_Term
+aimants permanents	Specific_Term
+alkaline fuel cell	Specific_Term
+alternateur	Specific_Term
+alternateur synchrone	Specific_Term
+alternateurs	Specific_Term
+ancillary services	Specific_Term
+angle d'orientation des pales	Specific_Term
+angle de calage	Specific_Term
+angle de calage des pales	Specific_Term
+angle de calage des pâles	Specific_Term
+angle des calages	Specific_Term
+angle des calages des pales	Specific_Term
+angles de calage	Specific_Term
+angles de calage des pales	Specific_Term
+anode	Specific_Term
+anti-éoliens	Common_Term
+anémomètre	Specific_Term
+arbre	Specific_Term
+arbre mécanique	Specific_Term
+arbres	Specific_Term
+aérodynamique	Common_Term
+aérodynamiques	Common_Term
+aérodynamisme	Common_Term
+aérogénérateur	Specific_Term
+aérogénérateurs	Specific_Term
+bagues	Specific_Term
+balais	Specific_Term
+balais-bagues	Specific_Term
+banc de condensateur	Specific_Term
+bancs de condensateur	Specific_Term
+bancs de condensateurs	Specific_Term
+batterie	Common_Term
+batterie lition	Common_Term
+batteries	Common_Term
+batteries électrochimiques	Specific_Term
+biodiesel	Common_Term
+biogaz	Common_Term
+biomasse	Common_Term
+biophotosynthèse	Specific_Term
+bioéthanol	Common_Term
+bobinage	Specific_Term
+bobinages	Specific_Term
+bobinages rotoriques	Specific_Term
+bus	Specific_Term
+bus continu	Specific_Term
+bus de tension continue	Specific_Term
+caes	Specific_Term
+calage	Specific_Term
+calage des pales	Specific_Term
+calage des pâles	Specific_Term
+calages	Specific_Term
+calages des pales	Specific_Term
+capacité installée	Specific_Term
+capacité nominale	Specific_Term
+car	Common_Term
+caractéristique fréquence puissance	Specific_Term
+caractéristique fréquence-puissance	Specific_Term
+caractéristique puissance-vitesse	Specific_Term
+carburant	Common_Term
+cathode	Specific_Term
+centrale géothermique	Common_Term
+centrale hydraulique	Common_Term
+centrale multisource	Specific_Term
+centrale multisources	Specific_Term
+centrale multsources	Common_Term
+centrale nucléaire	Common_Term
+centrale thermique	Common_Term
+centrale virtuelle	Specific_Term
+centrale électrique	Common_Term
+centrales hydrauliques	Common_Term
+centrales marémotrices	Common_Term
+centrales multisources	Specific_Term
+centrales thermiques	Common_Term
+centrales électriques	Common_Term
+ch4	Common_Term
+chambre de combustion	Common_Term
+champ électrique	Common_Term
+changement climatique	Common_Term
+charbon	Common_Term
+charge	Specific_Term
+charger	Specific_Term
+charges	Specific_Term
+charges passives	Specific_Term
+chargé	Specific_Term
+chauffe-eau solaire	Common_Term
+chaîne de conversion	Specific_Term
+chaîne de conversion électrique	Specific_Term
+chaîne de conversion électronique	Specific_Term
+chaîne électrique	Specific_Term
+circuit rotorique	Specific_Term
+climatique	Common_Term
+climatiques	Common_Term
+climatisation	Common_Term
+co2	Common_Term
+codeur incrémental	Specific_Term
+coefficient de couple	Specific_Term
+coefficient de frottement	Specific_Term
+coefficient de frottements	Specific_Term
+coefficient de puissance	Specific_Term
+coefficient de rendement	Specific_Term
+coefficient de statisme	Specific_Term
+coefficient puissance	Specific_Term
+cogénération	Specific_Term
+comburant	Common_Term
+combustible	Common_Term
+combustibles	Common_Term
+combustibles fossiles	Common_Term
+commande en couple	Specific_Term
+commande multivariables	Specific_Term
+commutation	Specific_Term
+compressed air energy storage	Specific_Term
+condensateur	Specific_Term
+condensateurs	Specific_Term
+conducteurs	Specific_Term
+conduction continue	Specific_Term
+conduite des réseaux	Common_Term
+connexion au réseau	Common_Term
+conversion électrique	Specific_Term
+convertisseur	Specific_Term
+convertisseur de puissance	Specific_Term
+convertisseur mli	Specific_Term
+convertisseur à mli	Specific_Term
+convertisseurs	Specific_Term
+convertisseurs d'électronique de puissance	Specific_Term
+convertisseurs de puissance	Specific_Term
+convertisseurs à modulation de largeur d'impulsion	Specific_Term
+convertisseurs électroniques de puissance	Specific_Term
+couple	Specific_Term
+couple d'accélération	Specific_Term
+couple de la turbine	Specific_Term
+couple de référence	Specific_Term
+couple électromagnétique	Specific_Term
+couplées	Specific_Term
+courant	Common_Term
+courant alternatif	Specific_Term
+courant continu	Specific_Term
+courant d'excitation	Specific_Term
+courant d'induit	Specific_Term
+courants	Common_Term
+court-circuit	Common_Term
+court-circuiter	Common_Term
+court-circuité	Common_Term
+crise pétrolière	Common_Term
+dc/ac	Specific_Term
+direct méthanol fuel cell	Specific_Term
+dmfc	Specific_Term
+double alimentation	Specific_Term
+droite de statisme	Specific_Term
+droites de statisme	Specific_Term
+durable	Common_Term
+durables	Common_Term
+dynamique	Common_Term
+dynamiques	Common_Term
+décharge	Specific_Term
+décharger	Specific_Term
+découplage	Specific_Term
+découplages	Specific_Term
+décrochage aérodynamique	Specific_Term
+défuzzification	OOD_Term
+défuzzyfication	OOD_Term
+délestage	Specific_Term
+délestage de charge	Specific_Term
+délestages	Specific_Term
+développement durable	Common_Term
+effet de sillage	Specific_Term
+electricité	Common_Term
+electriquement	Common_Term
+electronique	Common_Term
+electrotechnique	Common_Term
+emulateur de turbine eolienne	Specific_Term
+emulateur turbine eolienne	Specific_Term
+energie	Common_Term
+energie renouvelable	Common_Term
+energie éolienne	Common_Term
+energies	Common_Term
+energies renouvelable	Common_Term
+energétique	Common_Term
+enr	Common_Term
+environnement	Common_Term
+environnemental	Common_Term
+environnementaux	Common_Term
+eolien	Common_Term
+eolienne	Common_Term
+eolienne de relevage d'eau	Specific_Term
+eolienne à vitesse fixe	Specific_Term
+eolienne à vitesse variable	Specific_Term
+ete	Specific_Term
+ferme d'éolienne	Common_Term
+ferme d'éoliennes	Common_Term
+ferme éolienne	Common_Term
+fermes éoliennes	Common_Term
+ferrorésonance	Specific_Term
+filtre triphasé	Specific_Term
+flux de puissance	Common_Term
+foisonnement	Specific_Term
+foisonnement éolien	Specific_Term
+force du vent	Common_Term
+fréquence	Specific_Term
+fréquence nominale	Specific_Term
+fréquences	Specific_Term
+fuel	Common_Term
+fuzzification	OOD_Term
+fuzzyfication	OOD_Term
+férrorésonnance	Specific_Term
+gaz	Common_Term
+gaz carbonique	Common_Term
+gaz à effet de serre	Common_Term
+generateur	Common_Term
+generateur eolien	Common_Term
+ges	Common_Term
+gestionnaire de réseau	Specific_Term
+gestionnaire du réseau	Specific_Term
+gestionnaire du réseau de distribution	Specific_Term
+gestionnaire du réseau de transport	Specific_Term
+gestionnaires de réseau	Specific_Term
+gestionnaires des réseaux	Specific_Term
+gestionnaires du réseau	Specific_Term
+gestionnaires du réseau de transport	Specific_Term
+glissement	Specific_Term
+grafcet	Specific_Term
+grafcets	Specific_Term
+grande éolienne	Specific_Term
+graphe de commande etape - transition	Specific_Term
+graphe fonctionnel	Specific_Term
+graphe opérationnel	Specific_Term
+graphes fonctionnels	Specific_Term
+graphes opérationnels	Specific_Term
+grd	Specific_Term
+grt	Specific_Term
+gw	Common_Term
+générateur	Common_Term
+générateur à attaque directe	Specific_Term
+générateur électrique	Common_Term
+générateur éolien	Common_Term
+générateur éolien à vitesse variable	Specific_Term
+générateur éolienne	Common_Term
+générateurs	Common_Term
+générateurs passifs	Specific_Term
+générateurs à vitesse fixe	Specific_Term
+générateurs éoliens	Common_Term
+génératrice	Common_Term
+génératrice asynchrone	Specific_Term
+génératrice synchrone	Specific_Term
+génératrice synchrone à aimant permanent	Specific_Term
+génératrice éolienne	Common_Term
+génératrices	Common_Term
+génératrices asynchrones	Specific_Term
+génératrices asynchrones à double alimentation	Specific_Term
+génératrices à double alimentation	Specific_Term
+géothermie	Common_Term
+géothermique	Common_Term
+géothermiques	Common_Term
+haute tension	Common_Term
+hexafluorure de soufre	Specific_Term
+hfc	Specific_Term
+hydraulique	Common_Term
+hydrauliques	Common_Term
+hydrofluorures de carbone	Specific_Term
+hydrothermales	Common_Term
+hydroélectrique	Common_Term
+hypersynchrone	Specific_Term
+hyposynchrone	Specific_Term
+hz	Common_Term
+hélice	Specific_Term
+ilotage	Specific_Term
+implantant	Specific_Term
+implantation	Specific_Term
+implanté	Specific_Term
+implantées	Specific_Term
+inductance	Specific_Term
+inductance supraconductrice	Specific_Term
+inductance transversale	Specific_Term
+inductances	Specific_Term
+industrie éolienne	Common_Term
+inertie	Specific_Term
+inertie cinétique	Specific_Term
+inertiel	Specific_Term
+inertielle	Specific_Term
+interconnecter	Specific_Term
+interconnections	Specific_Term
+interconnecté	Specific_Term
+interconnectés	Specific_Term
+interconnexion	Specific_Term
+interconnexions	Specific_Term
+interpolation linéaire	OOD_Term
+interpolation polynomiale	OOD_Term
+interrupteurs	Specific_Term
+ionique	Specific_Term
+ions	Specific_Term
+jdb	Specific_Term
+jeu de barre	Specific_Term
+jeu de barres	Specific_Term
+kilowattheures	Common_Term
+kj	Common_Term
+kv	Common_Term
+kw	Common_Term
+kw.h	Common_Term
+kwh	Common_Term
+lemtm	Specific_Term
+ligne à haute tension	Common_Term
+lignes haute tension	Common_Term
+lignes à haute tension	Common_Term
+lissage	Specific_Term
+lithium	Common_Term
+logique floue	OOD_Term
+machine	Common_Term
+machine asynchrone	Specific_Term
+machine asynchrone a cage	Specific_Term
+machine asynchrone à cage	Specific_Term
+machine asynchrone à double alimentation	Specific_Term
+machine synchrone	Specific_Term
+machine synchrone à aimant permanent	Specific_Term
+machine synchrone à aimants permanents	Specific_Term
+machine à aimantation	Specific_Term
+machine à courant continu	Specific_Term
+machine à pôle lisse	Specific_Term
+machine électrique	Common_Term
+machines	Common_Term
+machines asynchrones	Specific_Term
+machines asynchrones doublement alimentées	Specific_Term
+machines asynchrones à cage	Specific_Term
+machines synchrones	Specific_Term
+machines électriques	Common_Term
+mada	Specific_Term
+maximum delivery power	Specific_Term
+maximum power point tracking	Specific_Term
+mcc	Specific_Term
+mcfc	Specific_Term
+mdp	Specific_Term
+mhz	Common_Term
+mines de charbon	Common_Term
+mlf	OOD_Term
+mli	Specific_Term
+modulateur	Specific_Term
+modulation de largeur d'impulsion	Specific_Term
+modèles de stockage	Common_Term
+molten carburate fuel cell	Specific_Term
+moteur	Common_Term
+moteur à gaz	Common_Term
+moteurs	Common_Term
+moulins	Common_Term
+moulins à vent	Common_Term
+moyeu	Specific_Term
+mpd	Specific_Term
+mppt	Specific_Term
+msap	Specific_Term
+multiplicateur	Specific_Term
+multiplicateur de vitesse	Specific_Term
+multiplicateur mécanique	Specific_Term
+mw	Common_Term
+mwh	Common_Term
+mât	Specific_Term
+mâts	Specific_Term
+mécanique	Common_Term
+mécaniquement	Common_Term
+mécaniques	Common_Term
+mégawatt	Common_Term
+mégawatts	Common_Term
+méthane	Common_Term
+météorologique	Common_Term
+météorologiques	Common_Term
+n2o	Specific_Term
+nacelle	Specific_Term
+nez	Specific_Term
+nez de l'éolienne	Specific_Term
+nucléaire	Common_Term
+nucléaires	Common_Term
+nuisances sonores	Common_Term
+off-shore	Specific_Term
+offshore	Specific_Term
+offshores	Specific_Term
+ondes hertziennes	Specific_Term
+onduleur	Specific_Term
+opérateur de laplace	Specific_Term
+oxyde d'azote	Specific_Term
+oxydoréduction	OOD_Term
+pac	Specific_Term
+paires de pôles	Specific_Term
+pales	Specific_Term
+palier	Specific_Term
+paliers	Specific_Term
+panneaux photovoltaïques	Common_Term
+panneaux solaires	Common_Term
+parc éolien	Common_Term
+parcs d'éoliennes	Common_Term
+parcs éoliens	Common_Term
+pde	Specific_Term
+pemfc	Specific_Term
+perfluorures de carbone	Specific_Term
+petites éoliennes	Specific_Term
+pfc	Specific_Term
+photovoltaïque	Common_Term
+photovoltaïques	Common_Term
+pile a combustible	Specific_Term
+pile à combustible	Specific_Term
+piles à combustible	Specific_Term
+piles à hydrogène	Specific_Term
+pitch	Specific_Term
+pitch control	Specific_Term
+plage de fonctionnement	Specific_Term
+pluviométrique	Specific_Term
+pmdp	Specific_Term
+pneumatiques	Specific_Term
+point de fonctionnement	Specific_Term
+points de fonctionnement	Specific_Term
+polluante	Common_Term
+polluantes	Common_Term
+polluants	Common_Term
+pollution	Common_Term
+pollution lumineuse	Common_Term
+pollutions	Common_Term
+polymer exchange membrane fuel cell	Specific_Term
+pompage	Common_Term
+pompe	Common_Term
+pompe mécanique	Specific_Term
+pompe électrique	Specific_Term
+poste de livraison	Common_Term
+pouvoir réchauffant global	Specific_Term
+prg	Specific_Term
+pro-éoliens	Common_Term
+production d'électricité	Common_Term
+production décentralisée	Specific_Term
+productions décentralisées	Specific_Term
+puissance	Common_Term
+puissance active	Specific_Term
+puissance aérodynamique	Common_Term
+puissance cinétique	Specific_Term
+puissance du vent	Common_Term
+puissance délivrée	Specific_Term
+puissance fournie	Specific_Term
+puissance générée	Specific_Term
+puissance hydroélectrique	Common_Term
+puissance installée	Specific_Term
+puissance mécanique	Specific_Term
+puissance nominale	Specific_Term
+puissance réactive	Specific_Term
+puissance réelle	Specific_Term
+puissance utile	Specific_Term
+puissance électrique	Common_Term
+puissance éolien	Common_Term
+puissance éolienne	Common_Term
+puissance-vitesse du vent	Specific_Term
+puissances	Common_Term
+puissances actives	Specific_Term
+puissances délivrées	Specific_Term
+puissances générées	Specific_Term
+puissances nominales	Specific_Term
+puissances éoliennes	Common_Term
+puissances éoliennes installées	Specific_Term
+puisssance	Common_Term
+puisssance lissée	Specific_Term
+pulsation du réseau	Specific_Term
+pâles	Specific_Term
+pétrole	Common_Term
+pôles saillants	Specific_Term
+radial	Specific_Term
+radiale	Specific_Term
+rafales	Common_Term
+ratio de vitesse	Specific_Term
+rayon	Specific_Term
+recharger	Specific_Term
+recyclable	Common_Term
+redresseur à thyristor	Specific_Term
+relais de délestage fréquentiel	Specific_Term
+rem	Specific_Term
+rendement	Common_Term
+rendement électrique	Common_Term
+renouvelable	Common_Term
+renouvelables	Common_Term
+rentabilité	Common_Term
+rentable	Common_Term
+rentables	Common_Term
+représentation energétique macroscopique	Specific_Term
+ressource primaire	Common_Term
+rl	Specific_Term
+rotation	Common_Term
+rotor	Common_Term
+rotor bobiné	Specific_Term
+rotoriques	Common_Term
+réchauffement climatique	Common_Term
+récupération d'eau de pluie	Common_Term
+réglage d'écart	Specific_Term
+réglage d'équilibre	Specific_Term
+réglage de fréquence	Specific_Term
+réglage de la fréquence	Specific_Term
+réglage de la puissance	Common_Term
+réglage de la tension	Specific_Term
+réglage de la vitesse	Common_Term
+réglage de tension	Specific_Term
+réglage de vitesse	Common_Term
+réglage des puissances	Common_Term
+réglage des puissances actives	Specific_Term
+réglage fréquence puissance	Specific_Term
+réglage fréquence-puissance	Specific_Term
+réglage fréquence-puisssance	Specific_Term
+réglage inertiel	Specific_Term
+réglage par ecart	Specific_Term
+réglage par écart	Specific_Term
+réglage primaire	Specific_Term
+réglage primaire de fréquence	Specific_Term
+réglage primaire de la fréquence	Specific_Term
+réglage puissance - fréquence	Specific_Term
+réglage secondaire	Specific_Term
+réglage secondaire de fréquence	Specific_Term
+réglage tension	Specific_Term
+réglage tertiaire	Specific_Term
+réglages de fréquence	Specific_Term
+réglages de la fréquence	Specific_Term
+réglages de la tension	Specific_Term
+réglages de puissances	Specific_Term
+réglages fréquence-puissance	Specific_Term
+réglages fréquence/puissance	Specific_Term
+réglages primaires	Specific_Term
+réglages primaires de la fréquence	Specific_Term
+réglages puissance-fréquence	Specific_Term
+réseau	Common_Term
+réseau alternatif	Specific_Term
+réseau de distribution	Common_Term
+réseau de pétri	Specific_Term
+réseau de repartition	Common_Term
+réseau de répartition	Common_Term
+réseau de transport	Common_Term
+réseau interconnecté	Specific_Term
+réseau maillé	Specific_Term
+réseau radial	Specific_Term
+réseau triphasé	Specific_Term
+réseau électrique	Common_Term
+réseaux	Common_Term
+réseaux carrés	Specific_Term
+réseaux d'énergie	Common_Term
+réseaux de distribution	Common_Term
+réseaux de transport	Common_Term
+réseaux maillés	Specific_Term
+réseaux maillés en alternatif	Specific_Term
+réseaux électriques	Common_Term
+réserve d'énergie	Common_Term
+réserve de puissance	Common_Term
+réserve inertielle	Specific_Term
+réserve primaire	Specific_Term
+réserve primaire de puissance	Specific_Term
+réserve primaire de puissance active	Specific_Term
+réserve tertiaire	Specific_Term
+réserve à puissance	Common_Term
+réserves d'énergie	Common_Term
+réserves de puissance	Common_Term
+réserves secondaires	Specific_Term
+résistance de dissipation	Specific_Term
+se	Specific_Term
+service système	Specific_Term
+services système	Specific_Term
+services systèmes	Specific_Term
+sf6	Specific_Term
+smes	Specific_Term
+sofc	Specific_Term
+solid oxid fuel cell	Specific_Term
+source d'énergie	Common_Term
+source primaire	Common_Term
+sources d'énergie	Common_Term
+sources décentralisées	Specific_Term
+sources renouvelables	Common_Term
+sources à énergies renouvelables	Common_Term
+sous-fréquence	Specific_Term
+stall	Specific_Term
+stall actif	Specific_Term
+station de transfert d'énergie par pompage	Specific_Term
+statisme	Specific_Term
+stator	Specific_Term
+step	Specific_Term
+stockage cour terme	Common_Term
+stockage court terme	Common_Term
+stockage d' énergie	Common_Term
+stockage d'électricité	Common_Term
+stockage d'énergie	Common_Term
+stockage de l'énergie	Common_Term
+stockage inertiel	Specific_Term
+stockage long terme	Common_Term
+stockage à court terme	Common_Term
+stockage à long terme	Common_Term
+stockage électrochimique	Specific_Term
+stockages long terme	Common_Term
+stockages magnétiques	Specific_Term
+stratégie de commande basée sur la logique floue	OOD_Term
+stratégie de commande multivariables	Specific_Term
+stratégie de commande multivariables à logique floue	OOD_Term
+stratégie multivariable basée sur la logique floue	OOD_Term
+stratégie multivariable à logique floue	OOD_Term
+stratégie multivariables	Specific_Term
+stratégie multivariables basée sur la logique floue	OOD_Term
+stratégie multivariables à logique floue	OOD_Term
+supercapacité	Specific_Term
+supercapacités	Specific_Term
+supercondensateur	Specific_Term
+superconducting magnet energy storage	Specific_Term
+superviseur multivariables	Specific_Term
+superviseur multivariables basé sur la logique floue	OOD_Term
+superviseur multivariables à logique floue	OOD_Term
+superviseur à logique floue	OOD_Term
+supervision à base de logique floue	OOD_Term
+supervision à logique floue	OOD_Term
+supraconducteurs	Specific_Term
+supraconductrice	Specific_Term
+sur-fréquence	Specific_Term
+surface balayée	Specific_Term
+surfréquence	Specific_Term
+système d'orientation des pales	Specific_Term
+système de stockage	Common_Term
+système de stockage cour terme	Common_Term
+système de stockage court terme	Common_Term
+système de stockage long terme	Common_Term
+système de stockage à court terme	Common_Term
+système de stockage à long terme	Common_Term
+système multisource	Specific_Term
+système multisources	Specific_Term
+système électrique	Specific_Term
+systèmes de conduites	Specific_Term
+systèmes de stockage	Common_Term
+systèmes de stockage à long terme	Common_Term
+systèmes de stockages	Common_Term
+systèmes multisources	Specific_Term
+systèmes mutisources-multistockages	Specific_Term
+systèmes électriques	Specific_Term
+technique	Common_Term
+techniques	Common_Term
+technologie	Common_Term
+technologies	Common_Term
+technologies éoliennes	Common_Term
+technologiquement	Common_Term
+technologiques	Common_Term
+tension	Specific_Term
+tension continue	Specific_Term
+tension nominale	Specific_Term
+tensions	Specific_Term
+thermique à flamme	Common_Term
+tournantes	Common_Term
+transformateur	Specific_Term
+transformateur de raccordement	Specific_Term
+transformateurs	Specific_Term
+transformateurs déphaseurs	Specific_Term
+transformation	Specific_Term
+transformation d'énergie	Specific_Term
+transformer	Specific_Term
+triphasé	Specific_Term
+turbine	Specific_Term
+turbine eolienne	Common_Term
+turbine haute pression	Specific_Term
+turbine hydraulique	Common_Term
+turbine à gaz	Specific_Term
+turbine à vapeur	Specific_Term
+turbine éolienne	Common_Term
+turbines	Specific_Term
+turbines à gaz	Specific_Term
+turbines éoliennes	Common_Term
+turboalternateur	Specific_Term
+turbocompresseur	OOD_Term
+turbulence	Common_Term
+turbulent	Common_Term
+twh	Common_Term
+usine hydroélectrique	Common_Term
+usine marémotrice	Common_Term
+v	Common_Term
+vanne	Specific_Term
+vent	Common_Term
+vents	Common_Term
+ventés	Common_Term
+vitesse angulaire de rotation	Specific_Term
+vitesse de démarrage	Specific_Term
+vitesse de rotation	Specific_Term
+vitesse de rotation nominale	Specific_Term
+vitesse de vent	Common_Term
+vitesse de vent nominale	Specific_Term
+vitesse du vent	Common_Term
+vitesse mécanique	Specific_Term
+vitesse nominale	Specific_Term
+vitesse spécifique	Specific_Term
+vitesse synchrone	Specific_Term
+vitesses de rotation	Specific_Term
+vitesses de vent	Common_Term
+volant d'inertie	Specific_Term
+zone de fonctionnement	Specific_Term
+zones de fonctionnement	Specific_Term
+zones de fonctionnements	Specific_Term
+écologie	Common_Term
+écologique	Common_Term
+écosystème	Common_Term
+écotaxe	Specific_Term
+électricité	Common_Term
+électricité installée	Specific_Term
+électricité renouvelable	Common_Term
+électricité éolienne	Common_Term
+électricité éolienne terrestre	Common_Term
+électrique	Common_Term
+électriquement	Common_Term
+électriques	Common_Term
+électrochimique	Common_Term
+électrochimiques	Common_Term
+électrode	Common_Term
+électrogène	Common_Term
+électrogènes	Common_Term
+électrolyse	Specific_Term
+électrolyte	Common_Term
+électromagnétique	Common_Term
+électromagnétiques	Common_Term
+électromécanique	Common_Term
+électromécaniques	Common_Term
+électronique	Common_Term
+électroniques	Common_Term
+électrons	Common_Term
+électrovanne	Specific_Term
+émission	Common_Term
+émission de gaz à effet de serre	Common_Term
+émissions	Common_Term
+émissions de gaz à effet de serre	Common_Term
+énergie	Common_Term
+énergie alternative	Common_Term
+énergie cinétique	Specific_Term
+énergie d'appoint	Common_Term
+énergie du vent	Common_Term
+énergie fossile	Common_Term
+énergie marémotrice	Common_Term
+énergie mécanique	Specific_Term
+énergie nucléaire	Common_Term
+énergie primaire	Common_Term
+énergie primaire combustible	Common_Term
+énergie primaire renouvelable	Common_Term
+énergie propre	Common_Term
+énergie renouvelable	Common_Term
+énergie réactive	Specific_Term
+énergie thermique	Common_Term
+énergie électrique	Common_Term
+énergie éolienne	Common_Term
+énergies	Common_Term
+énergies fossiles	Common_Term
+énergies naturelles	Common_Term
+énergies polluantes	Common_Term
+énergies primaires	Common_Term
+énergies primaires fossiles	Common_Term
+énergies renouvelables	Common_Term
+énergies secondaires	Common_Term
+énergies traditionnelles	Common_Term
+énergétique	Common_Term
+énergétiques	Common_Term
+éolien	Common_Term
+éolien domestique	Specific_Term
+éolien industriel	Common_Term
+éolien à vitesse variable	Specific_Term
+éolienne	Common_Term
+éolienne de faible puissance	Specific_Term
+éolienne de grande puissance	Specific_Term
+éolienne terrestre	Common_Term
+éolienne à attaque directe	Specific_Term
+éolienne à vitesse fixe	Specific_Term
+éolienne à vitesse variable	Specific_Term
+éoliennes	Common_Term
+éoliennes de faible puissance	Specific_Term
+éoliennes de grande puissance	Specific_Term
+éoliennes de pompage	Specific_Term
+éoliennes de puissance moyenne	Specific_Term
+éoliennes domestiques	Specific_Term
+éoliennes industrielles	Common_Term
+éoliennes terrestres	Common_Term
+éoliennes à vitesse fixe	Specific_Term
+éoliennes à vitesse variable	Specific_Term
+éoliens	Common_Term
+éoliens à vitesse variable	Specific_Term
+îlotage	Specific_Term
+îloté	Specific_Term

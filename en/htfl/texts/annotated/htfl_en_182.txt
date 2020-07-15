@@ -1,0 +1,9 @@
+Robot-assisted training for heart failure patients - a small pilot study.
+OBJECTIVE:
+The objective of this study was assess robot-assisted gait therapy with the Lokomat® system in heart failure patients.
+METHODS:
+Patients (n = 5) with stable heart failure and a left ventricular ejection fraction of less than 45% completed a four-week aerobic training period with three trainings per week and an integrated dynamic resistance training of the lower limbs. Patients underwent testing of cardiac and inflammatory biomarkers. A cardiopulmonary exercise test, a quality of life score and an evaluation of the muscular strength by measuring the peak quadriceps force was performed.
+RESULTS:
+No adverse events occurred. The combined training resulted in an improvement in peak work rate (range: 6% to 36%) and peak quadriceps force (range: 3% to 80%) in all participants. Peak oxygen consumption (range: –3% to + 61%) increased in three, and oxygen pulse (range: –7% to + 44%) in four of five patients. The quality of life assessment indicated better well-being in all participants. NT-ProBNP (+233 to –733 ng/ml) and the inflammatory biomarkers (hsCRP and IL6) decreased in four of five patients (IL 6: +0.5 to –2 mg/l, hsCRP: +0.2 to –6.5 mg/l).
+CONCLUSIONS:
+Robot-assisted gait therapy with the Lokomat® System is feasible in heart failure patients and was safe in this trial. The combined aerobic and resistance training intervention with augmented feedback resulted in benefits in exercise capacity, muscle strength and quality of life, as well as an improvement of cardiac (NT-ProBNP) and inflammatory (IL6, hsCRP) biomarkers. Results can only be considered as preliminary and need further validation in larger studies. 

@@ -1,0 +1,605 @@
+Conditiebewaking aan windturbines
+
+
+Een verkennende studie
+
+Deze studie is uitgevoerd door ECN binnen een door NOVEM gesubsidieerd project (NOVEM contractnummer 224.321-9960, ECN projectnummer 7.4028).
+
+Abstract
+Conditiebewaking van roterende machines wordt steeds meer toegepast. Het kan daarbij variëren van kleine systemen, waarbij de nadruk ligt op een beperkt aantal parameters tot complexe systemen met veel sensoren, waarbij ook de interactie tussen de procesparameters in de diagnostiek wordt betrokken. Vaak betreft het toepassingen welke langdurig stationair in bedrijf zijn, zich kenmerken door hoge investeringen en waarbij stilstand grote opbrengstderving tot gevolg heeft. In sommige gevallen speelt ook de veiligheid een rol.
+
+Toepassing van conditiebewaking bij windturbines is tot op heden beperkt. De investeringskosten bij windturbines zijn weliswaar hoog, doch bij de middelgrote windturbines (orde van 500 kW) weegt de opbrengstderving t.g.v. stilstand niet op tegen de extra investeringskosten. Daarnaast zijn de bedrijfsomstandigheden sterk wisselend, hetgeen de toepassing van conditiebewaking bemoeilijkt. Bestaande technieken vanuit andere toepassingen laten zich hierdoor moeilijk vertalen naar de windturbines.
+
+Met het groter worden van de windturbines en de plaatsing ervan in grote offshore parken, bestaat er in toenemende mate belangstelling voor conditiebewaking. De opbrengstderving wordt steeds belangrijker vanwege het toenemende vermogen en de aangegane leveringsverplichtingen, terwijl ook de kosten voor correctief onderhoud erg hoog worden. Voor landturbines zijn twee à drie bezoeken t.b.v. klein correctief onderhoud min of meer acceptabel. Voor offshore toepassing worden de kosten hierdoor veel te hoog, hetgeen echter ook ruimte biedt voor extra investeringen.
+
+Dit literatuuronderzoek brengt de huidige stand van zaken aan de hand van artikelen, zoekopdrachten op het internet en interviews in beeld. Daar waar mogelijk worden nieuwe ontwikkelingen beschreven, zoals glasvezelsensoren in bladen en remote bewaking van tandwielkasten.
+
+Bestudering van de literatuur levert het volgende beeld:
+Er wordt erg veel over conditiebewaking gepubliceerd, ook specifiek m.b.t. windturbines.
+
+M.b.t. de toepassing van conditiebewaking voor windturbines zijn nauwelijks concrete toepassingen gevonden (buiten het ISET-systeem en de traditionele bewakingssystemen).
+Er zijn veel artikelen die gaan over ontwikkelingen in signaalbewerking en diagnostiek. Op zich is dit heel nuttig, omdat verbeteringen daarin ook tot betere en vroegere detectie van fouten kunnen leiden. Praktische uitwerking voor directe toepassing is vrijwel nooit voorhanden.
+
+Het ISET-systeem is inmiddels vrij bekend en wordt experimenteel op meerdere plaatsen gebruikt. Resultaten in de zin van detectie van toekomstig falen, zijn nog niet bekend.
+Eén referentie beschrijft conditiebewaking op basis van globale windturbine parameters (vermogen, toerental en windsnelheid). Daar dit geen hardware investering vraagt, doch slechts een eenmalige software inspanning is dit interessant en vrijwel onafhankelijk van het geïnstalleerde vermogen.
+Opvallend is de grote belangstelling voor bewaking van de oliekwaliteit. Dit betreft zowel de hydraulische systemen als de tandwielkasten. Deze ontwikkeling kan niet los worden gezien van de vele schadegevallen aan tandwielkasten.
+Bewaking van tandwielkasten is een belangrijk issue dat tegenwoordig ook met remote monitoring met acceptabele kosten realiseerbaar is.
+Voor conditiebewaking van bladen lijkt mee-lamineren van een optische fiber met Bragg- grating een serieuze mogelijkheid. Zeer interessant om dit ter hand te nemen.
+
+Op basis van de literatuur blijkt, dat op veel plaatsen aan conditiebewaking wordt gewerkt, doch dat concrete toepassingen nog nauwelijks voorhanden zijn.
+
+1. INLEIDING
+
+Deze literatuurstudie is uitgevoerd binnen het kader van WT-W (Windturbine Operation & Maintenance based on Condition Monitoring). Dit project heeft tot doel condition monitoring technieken voor offshore windturbines te ontwikkelen, te evalueren en te demonstreren. Binnen het project wordt dit gerealiseerd door een set conditiebewakingtechnieken te selecteren op basis waarvan informatie kan worden verkregen t.b.v. het beter plannen van preventief onderhoud en het beter beheersen van correctief onderhoud.
+
+Het onderwerp staat al jaren in de belangstelling. Bij het ECN zijn in de periode 1998-2000 een tweetal afstudeeropdrachten uitgevoerd. Hierbij is in eerste instantie gekeken naar het faalgedrag van windturbines, hetgeen inzicht zou moeten verschaffen over de storingsgevoeligheid van deelsystemen en componenten. Daarnaast is aan de hand van de opbouw van horizontale as windturbines en de beschikbare conditon monitoring technieken de toepasbaarheid geïnventariseerd.
+Ook tijdens de door NOVEM ingestelde taakgroep "condition monitoring" bleek de aandacht voor dit onderwerp.
+
+Bovenstaande heeft geresulteerd in het project WT-W, waarin drie taken worden onderscheiden: Uitvoeren van een literatuurstudie; Opdoen van experimentele ervaring met conditiebewaking aan de hand van bewakingstechnieken die reeds in de turbine gebruikt worden; Praktijkervaring opdoen met een aantal technieken zoals die reeds binnen het veld van conditiebewaking gebruikt worden en die mogelijkheden bieden binnen de windindustrie.
+
+Het doel van deze literatuurstudie is om inzicht te verschaffen over conditiebewaking binnen de windenergie. Hierbij wordt ingegaan op: Het doel van conditiebewaking; De huidige technieken en de toepasbaarheid bij windenergie; Mogelijke opzet van conditiebewaking systemen; Economische aspecten; Trends.
+
+Achtergrond
+
+Conditiebewaking richt zich in eerste instantie op bewaking van een component of systeem om hiermee (vervolg-)schade te voorkomen en onderhoud beter te kunnen plannen. Dit geldt ook voor de windindustrie. Wanneer onderhoud te laat plaatsvindt, dan neemt het risico van productieverlies toe en kan vervolgschade grote vormen aannemen, niet alleen in materiële zin doch ook m.b.t. de acceptatie van windenergie in het algemeen. Stilstaande turbines met zichtbare schade geven windenergie het imago van onbetrouwbaarheid en onveiligheid. Het is daarom nuttig de mogelijkheden van conditiebewaking te onderzoeken en toepasbaar te maken voor de windindustrie, voor zover binnen de economische randvoorwaarden mogelijk is.
+
+Werkwijze
+
+Bij dit literatuuronderzoek zijn de volgende bronnen geraadpleegd:
+
+Boeken en brochures
+Rapporten
+Artikelen en publicaties
+Gesprekken met direct betrokken, zowel gebruikers, leveranciers als ontwikkelaars
+Internet sites
+Daarnaast is de laatste tijd veel informatie verschenen in verschillende tijdschriften. Deze artikelen hebben veelal ook richting gegeven aan de studie. Geraadpleegde tijdschriften zijn:
+
+WIND-KRAFT Journal (Duits)
+Wind Energy Weekly (USA)
+Wind Power Monthly
+Wind Directions
+Wind-Stats Newsletter
+ISET Jahresbericht
+
+Met name is gekeken naar toepassingen vanuit onderhoud. Hierbij is plaatsing van offshore windparken vaak als referentie gehanteerd, omdat daar kosten van onderhoud een groot risico vormen.
+
+De artikelen die op conferenties e.d. gepresenteerd waren voor een belangrijk deel van theoretische aard. Verwacht wordt dat die op langere termijn van invloed zullen zijn. Daarnaast zijn een aantal artikelen gevonden die wel op korte termijn praktische waarde hebben, doch waarvan de bruikbaarheid wel geverifieerd moet worden. Sommige van deze verificaties zullen binnen taak 2 van WT-W project worden uitgevoerd.
+Op internet is veel informatie beschikbaar. De informatie is echter vooral commercieel gericht en heeft daarom slechts weinig bijgedragen aan deze literatuurstudie.
+
+In de referentielijst is onderscheid gemaakt naar soort en onderwerp. Naast de gebruikelijke literatuur is hierin aangegeven welke gesprekken er zijn gevoerd en worden nog een aantal relevante internetsites genoemd. Hoewel er geen gesprekken met turbineleveranciers worden vermeld, hebben wel informele gesprekken plaatsgevonden, m.n. tijdens de NOVEM-taakgroep conditiebewaking.
+
+Voorafgaande aan deze literatuurstudie zijn twee afstudeeropdrachten uitgevoerd, onder begeleiding van ECN betreffende conditie bewaking aan windturbines. Deze opdrachten vormen belangrijke input voor deze studie.
+
+Indeling van het rapport
+
+In hoofdstuk 2 wordt de rol van conditiebewaking in algemene zin nader toegelicht. Ook worden hierin de meest gangbare technieken geïnventariseerd en de stand van zaken met betrekking tot de toepassing ervan binnen de wind aangegeven.
+Hoofdstuk 3 geeft inzicht in de manier waarop verschillende soorten gegevensbestanden kunnen worden gebruikt om belangrijke faalbronnen vast te stellen. Ook worden in dit hoofdstuk de verschillende componenten aangegeven binnen een windturbine met daarbij de conditiebewakingstechnieken die daarbij van toepassing kunnen zijn.
+In hoofdstuk 4 wordt nader gekeken naar de economische aspecten van conditiebewaking. Omdat de kosten van conditiebewaking sterk afhangen van de configuratie en integratie met het besturingssysteem van de windturbine, kan dit slechts in zeer globale termen.
+Hoofdstuk 5 omvat de conclusies waarbij wordt ingegaan op de huidige en toekomstige ontwikkelingen en tevens wordt een beeld gegeven van gebieden waar verdere ontwikkelingen gewenst zijn.
+
+CONDITIEBEWAKING
+
+Conditiebewaking wordt binnen diverse industrieën met succes toegepast. Denk hierbij aan de papierindustrie, petrochemische industrie en defensie. Binnen de windindustrie zijn de eerste stappen om conditiebewaking toe te passen reeds gezet. In dit hoofdstuk gaan we in op de vraag wat conditiebewaking is, waarom we het zouden willen toepassen, de verschillende conditiebewakingstechnieken en de gevonden toepassingen binnen de windindustrie.
+
+Wat is conditiebewaking
+
+Definitie: Onder “Condition Monitoring” wordt hier verstaan, het op elk moment meten van de toestand en trends en het vaststellen van de marges tot hetgeen operationeel toelaatbaar is.
+
+Toelichting: Bewaking op grenswaarden, zoals nu veelvuldig toegepast bij windturbines, wordt soms ook gezien als een vorm van conditiebewaking. Dit project betreft niet het reguliere bewakingssysteem, doch richt zich op het vroegtijdig detecteren van afwijkingen t.o.v. de ontwerptoestand en trends daarin, waarbij bedrijf nog binnen de ontwerpbegrenzingen mogelijk is. Naast mogelijke toepassing van specifieke sensoren kan hierbij ook gebruik worden gemaakt van sensoren die reeds voor de reguliere bewaking en beveiliging worden gebruikt.
+
+Waarom conditiebewaking
+
+Een windturbine wordt normaal ontworpen voor een levensduur van 20 jaar. Terecht kan dan ook de vraag worden gesteld, waarom conditiebewaking? Een tandwielkast moet 20 jaar meegaan en het is niet verdedigbaar een systeem te ontwikkelen op basis waarvan slijtage van tanden/lagers kan worden vastgesteld, met het doel deze bij een volgende geplande onderhoudsbeurt te vervangen. M.a.w. conditiebewaking mag zich niet richten op onvolkomenheden in het ontwerp! In feite geldt dit ook voor de bladen. Ook deze zijn ontworpen voor de levensduur. Hiervoor geldt echter dat niet alle omgevingsinvloeden voldoende in het ontwerp kunnen worden afgedekt. Schade kan ontstaan a.g.v. blikseminslag, vogels en vervuiling.
+
+De volgende argumenten zijn aan te voeren om een component, dat ontworpen is voor de levensduur van de turbine, toch te bewaken: De belastingen zijn sterk site-afhankelijk, waardoor de technische levensduur niet voor alle windturbines gelijk zal zijn; Door het grote aantal componenten en de relatief grote spreiding in levensduur van lagers en tandwielen is vroegtijdig falen niet uit te sluiten; De gevolgschade kan bij windturbines groot zijn, vooral bij offshore turbines; Toestandsafhankelijk onderhoud kan op zich een rede zijn voor conditiebewaking.
+
+Bij tandwielkasten speelt smeerolie een dubbelrol. Deeltjes in de olie geven een indicatie over mogelijke slijtage, terwijl dit ook weer extra slijtage kan geven
+
+Conditiebewaking aan windturbines heeft hierdoor het volgende doel: Het bepalen van de toestand van een component; De omvat het verkrijgen van inzicht in de slijtage van een component op basis van vergelijking van het gedrag en het ontwerp met de daarbij gebruikte onzekerheden; Het voorkomen van vervolgschade; Vervolgschade kan worden voorkomen door vroegtijdig in te grijpen. Hieronder valt directe vervolgschade, doch ook inkomstenderving en extra kosten voor correctief onderhoud; Het aanpassen van het onderhoudsconcept.
+Door het voorspellen van de restlevensduur van componenten kan er een verschuiving plaatsvinden van preventief onderhoud naar toestandsafhankelijk onderhoud.
+
+Conditiebewakingstechnieken
+
+Het kiezen van de juiste conditiebewakingstechniek(en) bepaalt in grote mate de effectiviteit van de conditiebewakingsstrategie voor de te bewaken component. Meten op zich kan een nuttige bezigheid zijn maar wanneer het meten niet gevolgd wordt door een goed uitgevoerde analyse op de verzamelde data dan is al het werk voor niets. Zagen we ‘vroeger’ dat veel bedrijven, die zich bezig houden met conditiebewaking, zich met name richten op één techniek, nu komen we steeds meer tegen dat bewaking van een component of zelfs een heel systeem gebaseerd is op een combinatie van verschillende technieken. De ‘multi-technology based condition monitoring systems’ doen hun intrede, echter de kosten moeten wel opwegen tegen de baten.
+
+De volgende technieken zijn binnen het onderzoek bekeken: Trillingsanalyse, Olieanalyse, Thermografie, Fysieke conditie van materialen, Spanningsmetingen, Akoestische bewaking, Elektrische effecten, Procesparameters, Visuele inspectie, Performance monitoring, Fouten in sensoren.
+
+Trillingsanalyse
+Trillingsanalyse is één van de meest bekende en toegepaste vorm van conditiebewaking. Een goed werkende component zal in de regel een laag trillingsniveau opleveren. Wanneer er echter slijtage optreedt, funderingen waarop de component is geplaatst gaan vervormen, belastingen op de component optreden, dan zullen deze veranderingen zich in de regel manifesteren als kleine veranderingen in de dynamische eigenschap van de te bewaken component. Wanneer bijvoorbeeld een as niet meer goed uitgelijnd is of een rotor raakt in onbalans dan nemen spelingen toe. Al deze factoren dragen bij tot een verandering (en in de regel van een toename) van het trillingsniveau. Ieder probleem zal zijn eigen trillingspatroon veroorzaken. Door nu deze trillingen zichtbaar te maken en te analyseren kan een diagnose van het probleem opgesteld worden.
+
+Voor het doen van trillingsanalyse kennen we de volgende type opnemers : Verplaatsingsopnemers, deze zijn te gebruiken in het relatieve lage frequentiegebied; Snelheidsopnemers, deze worden gebruikt is het relatieve midden frequentiegebied; Versnellingsopnemers, deze worden gebruikt in het relatieve hoge frequentiegebied; Spectral Emitted Energy (SEE) opnemers, deze worden gebruikt voor zeer hoge frequenties, de akoestische trillingen.
+
+Voor de analyse van signalen van één van deze opnemers kan gebruik worden gemaakt van verschillende technieken, welke ruwweg in twee categorieën ingedeeld kunnen worden, namelijke bewaking op basis van het totale trillingsniveau (RMS waarde van het frequentiespectrum) en op basis van detailanalyse van het spectrum (hierbij wordt gekeken naar verschillende gebieden in het totale spectrum).
+Trillingsanalyse wordt vooral gebruikt voor toestandsbewaking (van onderdelen) van roterende machines zoals: Assen, Lagers, Tandwielkasten, Compressoren, Motoren, Turbines, Pompen, etc.
+
+Een nadeel van trillingsanalyse is dat analyse veel kennis vereist. Leveranciers bieden daarom vaak complete systemen aan, waarbij veel aandacht is besteed aan de signaalanalyse en gebruikersinterface. Dit heeft als nadeel, dat dit voor kleinere toepassingen snel leidt tot hoge kosten.
+
+Binnen de wind vinden we diverse toepassingen, waarbij het gebruik van de verschillende opnemers voor metingen aan tandwielkasten en generatoren het meest concreet zijn. Onderzoek is verricht om de bruikbaarheid van versnellingsopnemers te toetsen voor het meten van de conditie van bladen maar is nog te weinig concreet en zeker nog niet rijp voor inzet op productieturbines.
+
+Olieanalyse
+Ook olieanalyse wordt erg veel toegepast als methode van toestandsbewaking voor alle gesmeerde en hydraulische systemen. Bewaking vindt hierbij plaats op: De mate van oliecontaminatie, De soort van contaminatie, De fysieke conditie van de olie.
+
+Met betrekking tot de soort van analyse kan onderscheid worden gemaakt in: Off-line technieken, waarbij een oliemonster wordt genomen, hetgeen achteraf op eigenschappen en samenstelling kan worden geanalyseerd; On-line technieken, waarbij sensoren worden gebruikt, op basis waarvan direct bepaalde parameters kunnen worden gemeten.
+
+Bij de off-line technieken kan de fysieke conditie van de olie worden onderzocht, met als doel vast te stellen of vervanging ervan noodzakelijk is. Anderzijds kan ook de chemische samenstelling worden geanalyseerd, met als doel vast te stellen of bepaalde onderdelen extra slijtage vertonen. Op basis van de aanwezigheid van bepaalde metalen, kan dit veelal tot specifieke onderdelen worden herleid. Hiervoor worden ook vaak monsters gebruikt afkomstig van magnetische pluggen.
+Off-line analyses zijn niet duur (ca 150 gulden per monster). Deze kosten kunnen snel worden terugverdiend omdat slijtage in een vroeg stadium kan worden vastgesteld en vervangen van olie op het juiste moment kan plaatsvinden.
+
+Bij on-line technieken vindt bewaking op basis van direct meetbare parameters plaats. Voorbeelden hiervan zijn: Olie temperatuur, Drukverschil over het oliefilter, Vochtgehalte in de olie, On-line deeltjesteller.
+
+On-line technieken worden steeds meer toegepast en geïntegreerd met de bewaking van de turbines. Schades aan tandwielkasten vormen hiervoor een belangrijke aanleiding. Ook komen meer on-line sensoren beschikbaar, die weliswaar duur zijn (vochtsensoren en deeltjestellers liggen in de orde van 5000 gulden), doch voor off-shore turbines wel interessant kunnen zijn.
+
+Thermografie
+Thermografie wordt veelvuldig toegepast bij elektronische en elektrische componenten. Met behulp van een infrarood (IR-) camera is het vrij eenvoudig om slechte contacten of storingen bij elektrische machines op te sporen.
+
+Op dit moment wordt de IR-camera vooral gebruikt voor periodieke inspecties. Permanente bewaking is op dit moment alleen lonend voor zeer dure en complexe machines, zoals gasturbines. Binnen de windindustrie zijn een aantal testen gedaan om met behulp van een IR- camera de conditie van een blad te bewaken. Vanwege kosten en ontbreken van gebruikerservaringen in een turbine omgeving is praktische inzetbaarheid op korte termijn niet te verwachten.
+
+Fysieke conditie van materialen
+Bij de bewaking van de fysieke conditie kunnen metalen en niet-metalen materialen bewaakt worden op scheurtjes en discontinuïteiten in bijvoorbeeld lassen, machinehuizen, stalen – en plastic constructies etc. Hiervoor zijn vele uiteenlopende (off-line) toepassingen beschikbaar, zoals: Fluorescerende penetrerende stoffen: Deze vloeistoffen trekken in het oppervlak en in het donker kan een visuele inspectie gedaan worden op bijvoorbeeld scheurtjes. Deze techniek is erg goedkoop en is te gebruiken op niet-metalen materialen. Nadelig is dat inspectie alleen in donkere ruimten kan plaatsvinden en dat hoog opgeleid personeel nodig is. Ultrasonisch: Uit de reflecties van een door een instrument hoogfrequent trillingssignaal kunnen barsten gedetecteerd worden. Toepasbaar op de meeste materialen, maar het type fout is meestal moeilijk te onderscheiden. Röntgenstraling: Een radiogram wordt gemaakt door een Röntgenstraling door materialen te laten passeren die visueel ondoorzichtig zijn. Een voordeel is dat dit een permanente ‘fingerprint’ oplevert. Een nadeel is dat een goede afscherming noodzakelijk is vanwege de gevaarlijke straling en de analyse door hoog bekwame technici uitgevoerd dienen te worden. Wervelstroming: Deze techniek wordt toegepast op elektrisch geleidend materialen. Door de verandering van de inductie kunnen barsten gedetecteerd worden.
+
+Deze technieken worden vooral toegepast voor schadeonderzoek en voor conditiebewaking minder interessant.
+
+Spanningsmetingen
+Spanningsmetingen worden uitgevoerd met rekstrookjes in een Wheatstone-brug configuratie. Deze techniek is uitermate geschikt voor het meten van belastingen in dynamisch belaste voorwerpen, zoals gebouwen en bruggen. De vervorming van de constructie is lineair met het uitgangssignaal. De rekstrookjes zijn relatief goedkoop en zijn prima geschikt voor on-line metingen. Nadeel van rekstrookjes is wel dat de omstandigheden waarop de rekstrookjes zijn bevestigd van grote invloed kunnen zijn op de resultaten van de metingen. Dit is een aspect dat grote aandacht verdiend. Vanwege optredende drift, moeten rekstrookjes ook regelmatig worden geijkt. De levensduur is kort. Momenteel staan optische sensoren sterk in de belangstelling, welke deze nadelen niet hebben. Toepassing wordt nu vooral gericht op de bladen, doch in de toekomst kan ook aan andere constructiedelen worden gedacht. Momenteel zijn de kosten voor het toepassen van optische sensoren nog hoog, doch verwacht mag worden dat deze binnen vier jaar een goed alternatief zullen zijn voor de traditionele rekstrookjes.
+
+Akoestische bewaking
+Akoestische monitoring komt sterk overeen met trillingsanalyse. Ook hier treffen we weer de twee stappen aan van het bepalen van een referentie en vervolgende bewaken op verandering in het patroon. Deze techniek heeft dezelfde problemen als trillingsanalyse en ook deze is techniek succesvol toegepast voor het bewaken van lagers van tandwielkasten.
+
+Ook wordt onderzoek gedaan naar akoestische emissie als een manier om de conditie van bladen te bewaken. Bij deze methode worden pulsen aan het materiaal aangeboden en de voorplanting van de pulsen zal bij een barst verstoord worden die met detectoren waargenomen kan worden. De detectiemethode heeft zeker potentie maar is naar verwachting nog niet op korte termijn in te zetten in het veld.
+
+Elektrische effecten
+Er zijn veel mogelijkheden om elektrische grootheden te bewaken. Voor motoren en generatoren kunnen windingen worden bewaakt door de weerstand te meten. Ongewone verschijnselen in de stator kunnen ontdekt worden door de magnetische flux te meten. Een algemene benaming voor het bewaken van machines aan de hand van lopende stromen is Machine Current Signature Analysis (MCSA). Voor het bewaken van de toestand van accu's wordt vaak de impedantie gemeten. Ook door signaalanalyse uit te voeren op het gevraagde of geleverde vermogen van motoren en generatoren kunnen defecten worden gesignaleerd. Hier moet echter wel veel ervaring mee worden opgebouwd.
+
+Ook bij hoog- en middenspanningsnetten kan conditiebewaking worden toegepast. De volgende technieken zijn hierbij van toepassing: Schakelaars: Ontladingsmeting, Snelheidsmeting, Contactdrukmeting, Olieanalyse van isolatieolie, Bekabeling: Lokatiebepaling van deelontladingen (isolatiefouten).
+Deze metingen zijn echter vooral inspectiemetingen en zijn niet direct van invloed op turbine ontwerp of bedrijfsvoering.
+
+Procesparameters
+In de besturing van windturbines wordt reeds veelvuldig gebruik gemaakt van bewaking op procesparameters. Meestal zijn deze gebaseerd op grenswaardeoverschrijdingen van afzonderlijke grootheden of onderlinge verschillen tussen signalen. Dit geldt veelal voor de volgende grootheden: Vermogen, Toerental, Windsnelheid, Trillingsniveau, Bladhoek, Motorstroom, Spanningsniveau.
+
+Veel minder gebruikelijk, is bewaking van Lagertemperatuur, Olietemperatuur, Drukverschil over oliefilters, etc.
+
+Naast bewaking op grenswaardeoverschrijding liggen hier ook veel mogelijkheden voor het detecteren van trendmatige veranderingen. Op basis hiervan kunnen vroegtijdig veranderingen worden geconstateerd, zonder dat dit tot afschakeling van de turbine leidt.
+
+Visuele inspectie
+Visuele inspectie wordt ook binnen de windwereld veelvuldig toegepast. In diverse onderhoudsboeken zien we deze techniek gebruikt worden zoals controleren op beschadigingen, controle op lekkage, het draaien van de rotor, etc. In sommige gevallen vindt visuele inspectie m.b.v. camera's plaats.
+
+Visuele inspectie met camera's leent zich ook voor automatische verwerking (patroonherkenning) met computers. Voor conditiebewakingen komt dit echter (nog) niet in aanmerkingen vanwege de hoge kosten.
+
+Performance monitoring
+Een vorm van bewaking van de prestaties van een systeem wordt bijna altijd in zekere mate gedaan (bijv. bewaking van bladhoekverschil, maximale kruitijd, etc.), doch meestal als bewaking op grenswaarden met grote marges om valse alarmen te voorkomen. Voor conditie bewaking is het van belang mogelijk falen vroegtijdig te voorspellen. Voor de kruiverstelling, bladverstelling en turbine als geheel liggen hier goede mogelijkheden, omdat er geen grote investeringen tegenover staan en integratie met het besturingssysteem voor de hand ligt Een andere vorm van performance monitoring is bewaking van de PV-kromme van de turbine. Zo kunnen vervuilde bladen (door vuil, insecten etc.) tot een productieverlies van enige tientallen procenten leiden.
+
+Figuur 2.1: Invloed vervuiling bladen op geleverde vermogen
+
+Bewaking van sensoren
+Het falen van sensoren is een veel voorkomend probleem. Om te voorkomen dat conditiebewakingsinstrumentatie het besturings- en beveiligingssysteem van de turbine onnodig belast is betrouwbaarheid van gebruikte sensoren en systemen van groot belang. Dit kan onder meer worden bereikt door: Goed aarden: Het op correcte wijze aansluiten van opnemers kan heel veel problemen schelen. Dit klinkt triviaal, maar toch is een groot deel van de defecten te wijten aan dergelijke fouten of het niet aarden van opnemers of meetinstrumenten. SMART sensors: Leveranciers proberen steeds meer intelligentie in de opnemers aan te brengen. Extra functionaliteit wordt toegevoegd zoals: verbeterde nauwkeurigheid, calibratie-mogelijkheden, diagnostische mogelijkheden, foutmeldingen en digitale communicatie.
+
+Daarnaast kan het functioneren van sensoren worden bewaakt, waarbij afwijkingen niet direct tot het afschakelen van de turbine hoeven te leiden. De volgende mogelijkheden zijn hiervoor aanwezig: Redundantie van opnemers: Op kritieke plaatsen kunnen redundante opnemers geplaatst worden die automatisch omschakelen als een opnemer faalt (anemometers, toerentalopnemers); Datavalidatie: Door het uitgangspunt van de opnemer te controleren of deze binnen een (al dan niet dynamisch) geldigheidsgebied blijft; Vergelijking van gecorreleerde signalen: Door het vergelijken van bepaalde signalen (P, V, N, bladhoeken en frequenties) kan worden gecontroleerd of deze binnen het geldigheidsgebied vallen of dat trendmatige afwijkingen daarin kunnen worden vastgesteld.
+
+TOEPASSINGSMOGELIJKHEDEN BINNEN DE WINDENERGIE
+
+In het voorgaande hoofdstuk is aangegeven welke technieken voor conditiebewaking kunnen worden toegepast. De volgende stap is om na te gaan wat de behoefte en mogelijkheden binnen de windenergie zijn.
+Veel van de genoemde technieken zijn direct toepasbaar binnen de windenergie, doch er zijn ook belangrijke verschillen. Voor het opzetten van een goede conditiebewakingsstrategie is inzicht in de optredende defecten een vereiste, zowel voor de keuze van de techniek als wel voor de economische grondslag. In het oog moet worden gehouden dat in bepaalde industrieën (denk aan nucleair- en de vliegtuigwereld) andere prioriteiten liggen. Binnen de windenergie blijkt het moeizaam te zijn een goed inzicht in het stoorgedrag te krijgen.
+
+Naast de technische en economische aspecten m.b.t. de toepassing van conditiebewaking voor individuele windturbines, vormen bedrijfsvoering en datapresentatie een onzekere factor. Bij grote offshore windparken worden per turbine metingen verricht ten behoeve van conditiebewaking, gevolgd door lokale preprocessing met eventuele aanpassingen in de bedrijfsvoering. bepaalde gegevens hieromtrent worden vervolgens op cluster en parkniveau samengebracht, gepresenteerd en verwerkt. Ook kan hierop actie worden ondernomen verband handend met de inzetbaarheid van het park. Er zijn geen vergelijkbare toepassingen bekend welke direct voor windenergie toepasbaar zijn.
+
+Overeenkomsten en verschillen
+
+Toepassing van conditiebewaking is zeer divers. De voorbeelden zijn o.a. gevonden in: Procesindustrie, Papierindustrie, Nucleaire industrie, Vliegtuigen en helikopters, etc.
+
+Er zijn veel raakvlakken met deze toepassingen, doch ook zijn er belangrijke verschillen met de windenergie, welke directe toepassing in de weg staan, zoals: Toegankelijkheid en bereikbaarheid; M.n. offshore turbines zijn vaak niet of anders tegen hoge kosten toegankelijk voor personeel. Dit is een zeer belangrijk verschil met andere toepassingen, omdat daar bijna altijd personeel op locatie aanwezig is. Ook kan is veelal deskundigheid op korte termijn inzetbaar.
+De moeilijke toegankelijkheid stelt hoge eisen aan betrouwbaarheid van conditiebewaking. Het is niet alleen belangrijk dat fouten worden waargenomen, doch ook niet-terrechte meldingen kunnen hoge kosten tot gevolg hebben.
+Verspreide opstelling
+Bij grote off-shore parken zullen tientallen turbines , verspreid over een groot gebied zijn opgesteld.
+Veel (bijna) identieke turbines
+Voor grote parken zullen turbines in serie worden gebouwd. De turbines zullen echter nooit geheel identiek zijn, a.g.v. kleine verschillen tijdens de productie, onderhoud of afwijkende functies binnen het park. Ook zullen de belastingen van de turbines onderling verschillen
+a.g.v. zogeffecten e.d.
+Hoge graad van automatisering
+Turbines zullen altijd geheel onbemand moeten kunnen functioneren. Hoogstens één bezoek per jaar voor preventieve onderhoudsacties wordt voorzien. Bij grote parken zal hoogstens één operator aanwezig zijn voor bewaking en bediening.
+Wisselende belastingen en externe omstandigheden
+De wisselende windbelastingen en overige externe omstandigheden bemoeilijken het vaststellen van trendmatige veranderingen vanwege de steeds veranderende "fingerprint". Ervaring hieromtrent ontbreekt.
+Kleine investeringsmarges
+Investering in conditiebewaking dient economisch haalbaar te zijn. De marges zijn echter relatief klein, omdat de investeringen op turbineniveau moeten plaatsvinden en uit de vermeden opbrengstderving gefinancierd moeten worden. In vergelijking met aerospace of nucleaire toepassingen is veiligheid hier nauwelijks een item.
+
+Stoorgedrag van windturbines
+
+Om een indruk te krijgen van het stoorgedrag van windturbines kan gebruik worden gemaakt van generieke of specifieke databases.
+
+Generieke databases
+Er zijn een aantal generieke databases, waarvan de volgende het meest bekend zijn: Database uit het Wissenschaftliches Meb- und Evaluierungsprogramm (WMEP), Database van WindStats
+
+Beide databases bevatten zeer veel gegevens. Bij de eerste gaat het om ca. 1500 turbines, bij de tweede zelfs om ruim 5000 turbines. Vanwege de wijze van registratie is het niet mogelijk hieruit gedetailleerde informatie te onttrekken. De volgende conclusies kunnen worden getrokken: Een storing leidt in 70% van de gevallen tot uit-bedrijfname van de turbine, Dominante storingsoorzaken zijn (meer dan 50%): Defecte onderdelen, Besturing, Dominante deelsystemen t.a.v. storingen zijn (meer dan 50%): Elektrisch systeem, Besturingselectronica, inclusief sensoren, Overige storingsgevoelige systemen, involgorde van belangrijkheid: Hydraulische systeem, Kruisysteem, Bladen, Mechanische rem, Tandwielkast.
+
+Op basis hiervan kan niet gesteld worden dat bladen of tandwielkasten niet interessant zijn voor conditiebewaking. Bijvoorbeeld bij bladen vormt het niet goed functioneren van de tiprem een belangrijke storingsbron. Echter lang niet alle bladen zijn voorzien van tipremmen. Bij de generieke database komt dit echter niet tot uiting. Ook kan door het verschil in kosten a.g.v. een storing, een ander beeld worden gekregen. Het vervangen van een tandwielkast brengt zeer veel kosten mee, terwijl het vervangen van een relais relatief goedkoop is.
+
+Specifieke databases
+Het stoorgedrag van een windturbine is sterk afhankelijk van het type. Het verdient dan ook de voorkeur voor de opzet van een conditiebewakingssysteem uit te gaan van ervaringen van het betreffende ontwerp. Fabrikanten van windturbines zijn meestal zeer terughoudend in het verstrekken van informatie betreffende het stoorgedrag. Bovendien is deze informatie veelal slechts voorhanden in onderhoudsbonnen en logboeken. Het blijkt moeilijk te zijn hieruit direct informatie te onttrekken.
+In het kader van het NOVEM project “Informatiesysteem voor Windturbinestoringen” is door het ECN en de firma Baas & Roost een programma ontwikkeld voor de ondersteuning van onderhoud. Naast planning van onderhoud en configuratiebeheer, omvat dit systeem ook de mogelijkheid tot uitgebreide storingsregistratie en de analyse daarvan. Deze storingsregistratie heeft mede tot doel een goede terugkoppeling richting R&D tot stand te brengen en is dus ook voor implementeren van conditiebewaking van belang.
+
+Mogelijkheden voor conditiebewaking bij windturbines
+
+Aan de hand van het onderzoek naar de verschillende conditiebewakingstechnieken (Hoofdstuk 2) is een inventarisatie gemaakt naar de mogelijkheden van de verschillende conditiebewakingstechnieken per component of componentengroep. Het betreft zowel on-line als off-line technieken.
+
+Bij het beoordelen van de componenten is aandacht geschonken aan de volgende punten : Faalkans, faalwijze van een component en detectiemogelijkheden; Kosten en hersteltijd; Kritisch/minder kritisch zijn van de component; Mogelijkheid van geleidelijk achteruitgaan.
+
+Bij het kiezen van de toepasbaarheid van de verschillende conditiebewakingstechnieken is tevens aandacht geschonken aan punten als: Geschiktheid van bewaking voor het betreffende component; Kosten; In ontwikkeling / op de markt zijn; Beschikbaarheid/verkrijgbaarheid; Levensduur; On/off-line.
+
+De windturbine is onderverdeeld in de deelsystemen die in de volgende paragrafen worden besproken.
+
+Figuur 3.1: Algemene opbouw van een windturbine
+
+Rotor
+De rotor is een kritische component, vooral omdat de herstelkosten vaak hoog zijn. Uit onderzoek blijkt dat met name de bladbevestiging, het bladlichaam en de tipremmen storingsgevoelig zijn. Oorzaken hiervoor zijn: Bladbevestiging: Teruglopen voorspanning, Vermoeiing blad-bout verbinding, Bladlichaam: Vervuiling, Oppervlak, erosie, Delaminatie a.g.v. blikseminslag, Tipremmen: Corrosie, Slijtage van mechanisme.
+
+Het analyseren van het vermogen van de turbine is een veelbelovende techniek. Meerdere onderzoeken laten zien dat niet symmetrische bladhoeken en verandering in de stijfheid en massa met behulp van een FFT-spectrum analyse in het elektrische uitgangsvermogen zijn terug te vinden. Ook kan verandering in het elektrisch uitgangsvermogen bij een bepaalde windsnelheid (PV-karakteristiek) duiden op vuil- en ijsafzetting. De methode is naar alle waarschijnlijkheid niet geschikt om de aard van het probleem te identificeren maar kan wel dienst doen als een indicator dat er wat aan de hand is. Een voordeel van het toepassen van deze techniek is dat er geen extra instrumentatie nodig is en dat de techniek on-line te gebruiken is.
+
+Trillingsanalyse is totdus ver de meest gangbare methode voor het on-line beoordelen van roterende machines. Uit onderzoek blijkt dat met akoestische emissie en trillingsdetectie de fysieke conditie van het bladlichaam kan worden vastgesteld. Beiden kunnen on-line worden toegepast. Het VIBRO-IC systeem van Schenck is gebaseerd op trillingsdetectie en door ISET is dit systeem aangepast voor windturbines. Nadelen zijn dat bij de fabricage rekening moet worden gehouden met het plaatsen van de opnemers, en de techniek tevens erg gevoelig is, waardoor hevige regen en storm invloed op het resultaat. Bovendien vereist dit een apart systeem, waardoor de kosten hoog zijn.
+
+Geen van beide methodes heeft zich tot nu toe in de praktijk bewezen, zodat geen voorkeur kan worden uitgesproken.
+
+Een andere techniek is het meten van rek in het blad. Hieraan wordt momenteel op meerdere plaatsen aandacht besteed, m.n. omdat optische sensoren sterk in de belangstelling komen. De nadelen van het meten met rekstrookjes worden hiermede mogelijk ondervangen. Evenals bij de akoestische emissie methode moeten sensoren in het blad worden opgenomen. Het is een zeer directe methode om de conditie van de bladen vast te kunnen stellen, echter toepassing ervan voor windturbines staat nog in de kinderschoenen.
+
+Tandwielkast
+Tandwielkasten zijn wel één van de meest gebruikte componenten in de industrie, m.n. voor roterende machines. Er is dan ook volop kennis op het gebied van conditiebewaking. De meest interessante opties worden in deze paragraaf besproken.
+
+Faalvormen bij tandwielkasten zijn: Problemen met de smering, Tandwieldefecten, Lagerdefecten.
+
+Verschijnselen die daarbij optreden zijn: Toenemende trillingen en geluid, Ontstaan van abnormale hoeveelheid en grootte van metalen deeltjes in de olie, Toenemende temperatuur door energieverliezen.
+
+Het vervuilen van de olie kan op zich weer een bron zijn van toenemende slijtage. Bij tandwielkasten is het van groot belang dat defecten vroegtijdig worden ontdekt omdat de herstelkosten dan nog laag zijn. Wanneer defecten te laat worden gedetecteerd dan kunnen de herstelkosten zeer hoog oplopen.
+
+Een geschikte techniek is on-line trillingsanalyse. Hier is veel ervaring mee opgedaan buiten de windenergie. Door de variabele belasting bij windturbines kunnen standaard trillingsanalyse systemen niet zonder aanpassingen op een windturbine toegepast worden. De invloed van de variabele belasting kan mogelijk worden opgevangen door bij de bewaking een referentiepunt te kiezen die evenredig is met de belasting. Op deze manier kunnen de alarmgrenzen bijvoorbeeld afhankelijk worden gemaakt van het uitgaande elektrisch vermogen van de windturbine. Het nadeel van trillingsanalyse is dat hier veel ervaring mee dient opgedaan te worden en dat de resultaten moeilijk te analyseren zijn. Bij de huidige toepassingen wordt gebruikt gemaakt van een separaat systeem, waardoor de kosten hoog zullen zijn.
+
+In de industrie en ook bij windturbines wordt veelvuldig gebruik gemaakt van off-line olieanalyse, waarbij het vaak als aanvulling op trillingsanalyse wordt gebruikt. On-line olieanalyse komt veel minder voor en is ook meestal niet echt nodig in de industrie, omdat de tandwielkasten goed bereikbaar zijn om een oliemonster te nemen. Dit is niet het geval bij offshore windturbines. Voor on-line olieanalyse kan op dit moment kan het beste gebruik worden gemaakt van een on-line deeltjes teller. De ferro-magnetische sensor is waarschijnlijk de beste keus. Hiermee kunnen ijzeren deeltjes worden gedetecteerd. Deze is echter ook gevoelig voor andere vervuiling. Door ook de druk voor en na het oliefilter te meten, kan bepaald worden of het oliefilter abnormaal snel dicht slibt. Hiervoor is standaard instrumentatie beschikbaar. Wordt de drukval over het filter te groot en laat de on-line deeltjes teller een stijging zien dan kan slijtage de oorzaak zijn. Is dit niet het geval, dan is er sprake van contaminatie.
+Daarnaast dient er ook op reguliere basis een off-line olieanalyse uitgevoerd te worden om zo precies de mate van contaminatie, de hoeveelheid en de soort van slijtage deeltjes en de conditie van de olie te bepalen. Er zijn wel on-line opnemers in ontwikkeling voor het uitvoeren van olieanalyses, doch toepassing hiervan wordt niet als direct nuttig en haalbaar beschouwd.
+
+Figuur 3.2: Off-line deeltjesteller
+
+De olietemperatuur wordt veelal reeds gemeten en bewaakt op grenswaarde. Een aanvulling hierop kan trendanalyse zijn, waarbij geleidelijke veranderingen een maat zijn voor de conditie van de tandwielkast.
+
+In de literatuur wordt ook gesproken over de mogelijkheid om defecten aan de tandwielkast te detecteren via het uitgaande vermogen. Het lijkt niet waarschijnlijk, dat hiermede in een vroegtijdig stadium defecten kunnen worden vastgesteld.
+
+Aandrijfassen, lagering en koppelingen in aandrijftrein
+Met deze groep gebeurt in de regel heel weinig, doch de herstelkosten zijn vaak hoog en reparaties zijn vaak moeilijk uit te voeren. Het rotorlager kan bewaakt worden door de trillingen te meten met als mogelijke aanvulling de temperatuur te bewaken in de tijd. De aandrijfas kan door trillingsmetingen op uitlijnfouten bewaakt worden en de koppeling kan ook bewaakt worden door de trillingen radiaal te meten op een lager van de betreffende as. Trillingsanalyse is alleen aantrekkelijk als andere componenten al met trillingsanalyse bewaakt worden om de kosten van een apart systeem te kunnen verantwoorden. Is dit niet het geval dan is de temperatuur van het rotorlager ook te gebruiken als op zichzelf staande conditiebewakingstechniek. Bij trillingsanalyse geldt natuurlijk wel weer dat deze techniek moeilijk te analyseren is en dat ervaring opgedaan dient te worden met variabele belastingen van een windturbine.
+
+Mechanische rem
+Storingen aan de mechanische rem komen ook veel voor, doch de reparatiekosten zijn meestal laag. Vervanging van remvoeringen is eenvoudig. Afhankelijk van het turbineconcept kan de mechanische rem wel een kritische component zijn wat betreft de veiligheid en oorzaak zijn van grote gevolgschade.
+Bewaking van de mechanische rem vindt in het algemeen plaats via: Bewaking van de dikte van de remvoering, Bewaking van de remtijd, Ingrijpen vindt meestal plaats op basis van grenswaardeoverschrijding. Via trendanalyse op de remtijd in combinatie met de remvertraging kan vroegtijdige afname van de remcapaciteit worden gedetecteerd. Omdat mechanisch remmen veelal gelijktijdig met aërodynamisch of elektrisch remmen wordt uitgevoerd, en de omgevingscondities wisselend zijn, is succes niet vanzelfsprekend.
+
+Bewaking met behulp van thermografie als on-line bewakingstechniek lijkt niet aantrekkelijk omdat dit nauwelijks toegevoegde waarde heeft. Een toename van de warmteontwikkeling zal ook tot uiting komen in een toename van de remtijd of onvoldoende remvertraging. Een asymmetrische rembelasting van de remklauwen zal ook tot uiting komen in een ongelijkmatige slijtage van de remvoeringen.
+
+Generator
+De veelvuldig toegepaste asynchrone generator is een zeer robuuste machine. Toch is ongeveer 5% van de storingen terug te voeren op de generator. Meest belangrijke storingsbronnen hierbij zijn: Slijtage aan sleepringen en/of borstels, Slijtage van lagers, Sleepringen en borstels zijn meestal eenvoudig te vervangen, hetgeen in het preventief onderhoud meegenomen moet worden.
+Defecten aan lagers kunnen via trillingsanalyse of via frequentieanalyse van de fasestroom worden gedetecteerd. Wanneer apparatuur voor trillingsanalyse aanwezig is, kan deze bewaking eenvoudig worden meegenomen. Frequentieanalyse kan in hetzelfde (VIBRO-IC systeem van Schenck) worden uitgevoerd. Uiteraard vereist dit weer veel kennis en ervaring.
+
+De generator kan ook goed op temperatuur worden bewaakt. Dit gebeurt reeds veel op grenswaarde detectie van de temperatuur van rotor en stator wikkelingen. Trendanalyse voor het vroegtijdig detecteren van storingen kan een goede aanvulling zijn, tegen lage kosten.
+
+Thermografie is ook voor de bewaking van de generator toepasbaar, doch de toegevoegde waarde is gering terwijl de kosten hoog zullen zijn.
+
+Elektrisch systeem
+Het electrische systeem vormt de belangrijke bron van storingen. Meest belangrijke failure modes zijn hierbij: Beveilingsschakelaars, Zekeringen, Gelijkrichter, De meest belangrijke faaloorzaken zijn: Overbelasting, Blikseminslag, Defecte componenten.
+
+Zolang het geen defecte vermogensomvormer betreft, zullen de herstelkosten meestal laag zijn, doch omdat het erg veel voorkomt, veroorzaakt dit veel verlies aan beschikbaarheid. Omdat de oorzaak erg vaak ligt bij overbelasting (zekeringen en beveiligingsschakelaars), kan m.b.v. trendanalyse op gevraagde en geleverde stromen mogelijk vroegtijdig falen worden vastgesteld, zodat acties tijdens preventief onderhoud kunnen worden uitgevoerd of kan de bedrijfsvoering worden aangepast.
+
+Voor transformatoren wordt veelal temperatuurbewaking op grenswaarde uitgevoerd. Ook hier kan trendanalyse worden toegepast om de bedrijfsvoering tijdelijk aan te passen.
+
+Thermografie is ook voor elektrische systemen goed toepasbaar, doch vooral om storing op te sporen. Als on-line techniek voor conditiebewaking is de toegevoegde waarde beperkt.Elektronica/besturing
+Veel storingen worden toegeschreven aan het besturingssysteem. De registratie ervan is echter onbetrouwbaar omdat de oorzaken vaak niet direct op een component zijn terug te voeren. Conditiebewaking zal hier weinig aan kunnen veranderen. Een goede registratie van de foutoorzaken, verbetering van de diagnostiek en terugkoppeling naar het ontwerp lijken hier vooralsnog de grootste verbetering te kunnen geven.
+
+Sensoren
+Sensoren zijn een belangrijke bron van storingen en er is bij turbinefabrikanten dan ook een zekere weerstand te bespeuren conditiebewaking toe te passen, waarbij het aantal sensoren zal toenemen, en vervolgens weer bron van nieuwe storingen zal zijn. En deze angst is ten dele terecht. Sensoren welke additioneel voor conditiebewaking worden toegepast mogen de bedrijfsvoering van de turbine zo weinig mogelijk in de weg staan. Daarnaast moet zo veel mogelijk gebruik worden gemaakt van reeds aanwezige sensoren. Tevens biedt conditiebewaking de mogelijkheid tot een verbeterde diagnostiek waarmee de turbine juist langer in bedrijf kan worden gehouden.
+Falen van sensoren leidt zelden tot grote schade. Wel leidt het echter tot stilstand, hetgeen productieverlies tot gevolg heeft.
+Als conditie bewaking kan op basis van onderlinge vergelijking van grootheden en trendmatige veranderingen het falen van sensoren worden vaststellen. Of dit ook op een vroegtijdig stadium kan gebeuren is twijfelachtig omdat sensoren meestal i.g.v. falen, ook snel bezwijken. Wel kan worden vastgesteld welke sensor faalt en of zijn functie kan worden overgenomen waardoor de turbine in bedrijf kan blijven.
+
+Hydraulisch sytsteem
+Hydraulisch systemen zijn storingsgevoelig. De meeste storingen zijn echter niet ernstig en eenvoudig en goedkoop te verhelpen. Het betreft vaak vervanging van kleinere componenten of het verhelpen van lekkages. Olieanalyse kan de betrouwbaarheid van het hydraulisch systeem (overigens net als bij tandwielkasten) vergroten en dient bijvoorkeur opgenomen te worden in het onderhoudsschema van de fabrikant.
+
+Bij hydraulische systemen kunnen een groot aantal procesparameters gebruikt worden. Voor het bewaken van componenten, zoals een pomp of een regelklep, kan de vloeistroom voor en na de component gemeten worden. Veranderingen in de vloeistofstroom bij gelijke condities kunnen duiden op lekkage of slijtage. Voor een meer algemene bewaking kan de druk in het systeem gemeten worden bij gelijke condities. Beide technieken hebben als nadeel dat dit met grote nauwkeurigheid moet gebeuren bij exact gelijke condities.
+Vacuümmeters (en soms ook trillingsopnemers) worden gebruikt om de mate van cavitatie te meten bij de pompinlaat. Deze technieken zijn meestal bedoeld voor grotere systemen.
+
+Bij hydraulische systemen voor windturbines (veelal bladverstelling en rem) worden meestal alleen drukopnemers, temperatuuropnemers en niveauschakelaars geïnstalleerd en vindt detectie plaats op basis van grenswaardeoverschreiding. Toepassing van trendanalyse op basis van temperatuur en druk zal lastig zijn, vanwege het frequent schakelen van kleppen en het koelen van de olie in wisselende omstandigheden.
+
+Wel kan worden gedacht aan het bewaken van de performance van het gehele systeem. Bij het hydraulische systeem voor de bladverstelling kan de relatie tussen de gewenste en gerealiseerde verstelsnelheid worden geanalyseerd en bewaakt op trendmatige veranderingen.
+
+Conditiebewaking van componenten heeft ook niet veel zin, omdat het grootste deel van de storingen wordt veroorzaakt door lekkages en leidingen. De aandacht kan daarom beter worden gericht op ontwerp en uitvoering.
+
+Kruisysteem
+Het kruisysteem blijkt tamelijk storingsgevoelig. De meest belangrijke storingsbronnen zijn: De aandrijving van het kruisysteem (motor en reductiekast), De kruiremmen.
+
+Problemen met het kruilager en de tandkrans komen veel minder voor. Conditiebewaking van het kruilager heeft daarom weinig toegevoegde waarde. Daarnaast is bewaking van dit lager ook erg moeilijk, vanwege de uiterst trage kruibeweging.
+
+Voor de aandrijving komt vooral trillingsbewaking in aanmerking. Deze techniek is prima geschikt voor de motor en de tandwielkast. Daarnaast kan als aanvullende conditiebewakingstechniek de motorstroom bewaakt worden in de tijd. Naast bewaking van het benodigde kruivermogen kan op de motorstroom, net als bij de generator, ook frequentieanalyse uitgevoerd worden.
+
+Omdat de reductiekasten voor de kruiaandrijving meestal gesloten systemen zijn, is het toepassen van on-line sensoren niet realistisch. Wel kan gebruik worden gemaakt van magnetische pluggen en kan er periodiek off-line olieanalyse worden toegepast als onderdeel van het preventief onderhoud.
+
+Vanwege het kortstondige gebruik van de kruiaandrijving, is bewaking op temperatuur nauwelijks zinvol.
+
+Tot slot kan bewaking op het systeem uitgevoerd worden, via trendanalyse van kruisnelheid en kruivermogen. Hierbij zal niet duidelijk zijn wat de bron van het probleem is, doch het geeft wel een indicatie dat er wat aan de hand is. De kruisnelheid wordt echter meestal niet gemeten, terwijl gebruik van het gierhoeksignaal hiervoor onvoldoende nauwkeurig is.
+
+Dragende constructie/behuizing
+Met de toren en de gondelbehuizing gebeurt weinig, maar mocht er toch wat mee gebeuren dan zijn de gevolgen vrij ernstig. Gebroken bevestigingsbouten en scheurtjes in het materiaal door vermoeiing zijn de meest voorkomende defecten. Bij het testen of een nieuw concept windturbine aan zijn ontwerpspecificaties voldoet worden vaak de trillingen in de toren gemeten. Deze techniek kan ook gebruikt worden voor conditiebewaking. Zoals al eerder is opgemerkt is de techniek van trillingsanalyse alleen interessant wanneer er meerdere componenten bewaakt worden
+
+De offshore fundaties zullen in het begin zeker bewaakt worden omdat het een nieuw concept is, terwijl de belastingen anders zijn dan gebruikelijk. Wanneer de fundaties echter voldoen aan hun ontwerpcriteria, dan ligt het in de verwachting dat er geen verdere bewaking noodzakelijk zijn. Wel zal er waarschijnlijk een controle door duikers of camera's uitgevoerd worden. Wanneer er onverhoopt toch iets ernstigs dreigt te gebeuren, dan is trillingsanalyse van de toren of van de gondel ook een afdoende bewaking.
+
+3.4 Bewaking van windparken
+
+In het voorgaande is ingegaan op conditiebewaking van windturbines en de onderdelen daarvan. Bij toepassing van grote windparken wordt vooral de manier waarop conditie bewaking wordt geïntegreerd in de bedrijfsvoering van het park, van belang. De volgende aspecten komen hierbij aan de orde: Parkregeling en bedrijfsvoering, Pre-processing van data, Gelijksoortigheid van turbines, Storingsregistratie, Standaardisatie van interfaces
+
+Parkregeling en bedrijfsvoering
+Bij grote offshore windparken zal de bedrijfsvoering vanuit een centraal punt plaatsvinden. De volgende functies zullen hierbij van belang zijn: De turbines inzetten, afhankelijk van het op te wekken vermogen en de beschikbaarheid van wind en turbines; Supervisie op het functioneren van turbines; Supervisie op de infrastructuur; Registratie van gebeurtenissen; Faciliterend t.a.v. onderhoud
+Voor het uitvoeren van deze taken, is de wijze waarop de informatie beschikbaar wordt gesteld, van belang. Hier ligt een raakvlak met conditiebewaking, omdat die beperkingen kan opleggen t.a.v. de beschikbaarheid, informatie geeft voor registratie van gebeurtenissen en sturend zal zijn t.a.v. onderhoud.
+
+Pre-processing van data
+Bij conditiebewaking van componenten binnen de windturbine, zal in enkele gevallen reeds preprocessing van data plaatsvinden, alvorens deze naar de turbinebesturing wordt gestuurd. Voor interfacing naar parkniveau zal opnieuw een vorm van datareductie plaatsvinden. Op welke wijze dit gestalte moet krijgen is echter onduidelijk.
+
+Gelijksoortigheid van turbines
+Omdat offshore windparken i.h.a. zullen bestaan uit één of twee groepen gelijksoortige turbines, zal het vanuit het oogpunt van kostenbesparing aantrekkelijk zijn, bepaalde (dure) voorzieningen bij een beperkt aantal turbines te installeren, waarbij wordt verondersteld dat deze dan representatief zijn voor de overige turbines. Ook kunnen bepaalde inspecties cyclisch over het park worden uitgevoerd. Pas wanneer afwijkingen worden vastgesteld, kan verdere inspectie worden uitgevoerd.
+
+Storingsregistratie
+Een goede storingsregistratie is in toenemende mate belangrijk bij de bedrijfsvoering van windparken en de uitvoering van het onderhoud. Om een goede terugkoppeling mogelijk te maken is het van belang deze registratie op een gestructureerde wijze uit te voeren, zodat op basis van analyses het faalgedrag in beeld kan worden gebracht.
+
+Standaardisatie van interfaces
+Binnen de turbines, is het van belang interfaces van deelsystemen met de turbinesbesturing zoveel mogelijk te standaardiseren. Door sensoren en instrumentatie via standaard bussystemen met elkaar te laten communiceren kan van
+
+ECONOMISCHE ASPECTEN
+
+De toepassing van conditiebewaking zal vooral afhangen van de financiële haalbaarheid ervan. Bij windenergie is de financiële ruimte zeer beperkt, omdat het opgewekte vermogen per turbines relatief laag is. Bij het groter worden van windturbines wordt dit weliswaar gunstiger, doch in vergelijking met andere (conventionele) opwekmethoden is het geïnstalleerd vermogen vaak een factor 10 tot 100 per eenheid lager.
+
+De kosten van een conditiebewakingsysteem
+
+In zijn een aantal prijzen opgenomen van conditiebewakingssystemen. Hieruit blijkt dat bij toepassing van een uitgebreid systeem de kosten erg snel oplopen. Voor een compleet systeem komt men hier uit op ca. 375.000 gulden. Het is dus belangrijk conditiebewaking te beperken tot die onderdelen waar het ook aantrekkelijk is. Daarnaast moet zo veel mogelijk gebruik worden gemaakt van voorzieningen die reeds in de turbine aanwezig zijn.
+
+Het is voor deze studie niet realistisch uit te gaan van een compleet separaat conditiebewakingssysteem. Om toch een indruk te krijgen van de kosten, is daarom per deelsysteem geïnventariseerd in welke orde de gewenste investeringen zullen liggen, als uitbreiding op de bestaande voorzieningen. De ontwikkelkosten zijn nadrukkelijk niet opgenomen daar dit in de regel éénmalige kosten zijn.
+
+Bewaking tandwielkast en generator
+Hierbij wordt uitgegaan van een separaat systeem bestaande uit trillingsopnemers en temperatuuropnemers, volgens het Vibro-IC-systeem.
+
+Vibro-C systeem, inclusief software
+Trillingsopnemers generator, 2 stuks
+Temperatuuropnemers generator, 2 stuks
+Trillingsopnemers tandwielkast, 3 stuks
+Temperatuuropnemer tandwielkast, 1 stuks
+
+Olieanalyse
+Voor on-line oliebewaking wordt uitgegaan van een aantal standaard opnemers, waarbij de verwerking wordt ondergebracht in de turbine besturing. Vanwege de lage frequentie lijkt dit ook een realistisch uitgangspunt.
+
+Water sensor
+∆P sensor over filter
+Particle counter
+
+De particle counter is als portable unit beschikbaar en verwacht wordt dat deze op korte termijn als on-line opnemer op de markt zal komen. De prijs is een schatting van de leverancier.
+Bewaking kruisysteem
+In het kruisysteem zijn reeds bewakingsfunkties opgenomen. Voor conditiebewaking kan worden gedacht aan trendbewaking voor het benodigde kruivermogen. Dit is ook typisch een functie die in het besturingssysteem kan worden geïntegreerd
+
+Bewaking pitchmotoren
+Voor de pitchmotoren geldt hetzelfde als voor de kruimotoren. Systemen onderscheiden zich echter qua dynamiek. Uitgangspunt ook hier moet zijn dat de conditiebewaking moet worden geïntegreerd met de besturing.
+
+Stroomtrafo
+
+Bladen
+Conditiebewaking van bladen staat in de kinderschoenen. De toe te passen sensoren zijn nieuw, de verwerkingsapparatuur is nieuw en het is niet duidelijk of met die meetgegevens ook daadwerkelijk de conditie van het blad goed kan worden vastgesteld. De prijzen zijn indicaties, voor zover nu bekend en rekening houdend met een halvering van de prijs per 6 maanden en toepassing over 2 jaar.
+
+Opnemers
+Verwerkingsapparatuur
+Dataprocessing
+
+Kosten en baten
+
+De totale kosten van een conditiebewakingssysteem (exclusief ontwikkelkosten) komen hiermede op ca. 56.000 gulden.
+
+De volgende opbrengsten staan hier tegenover:
+
+Vermindering van het aantal storing.
+Het gemiddelde aantal storingen is ongeveer 3 per jaar. Stel dat het aantal storingen per jaar kan worden teruggebracht naar 2, op grond van verbeterde diagnostiek en remote besturing dan levert dit aan vermeden kosten.
+
+Vermindering van gevolgschade
+Gevolgschade kan zijn: Bladbreuk, tandwielkast failure, lagerschade, kortsluiting. Wanneer met een conditiebewakingssysteem het vervangen van de onderdelen voorkomen kan worden, dan liggen de vermeden kosten al snel in de orde van de investeringskosten van een conditiebewakingsysteem. Door gebrek aan faalgegevens is dit moeilijk kwantificeerbaar. Vanuit de tandwielkastenwereld is bekend, dat door het verkomen van verontreinigingen in de olie, de levensduur van een tandwielkast met meer dan een kwart verlengd worden.
+
+Vermindering van verzekeringskosten
+Het verzekeren van windturbines wordt moeilijker en kostbaarder naarmate de risico's moeilijker zijn in te schatten. Door de conditie bewaking systeem kan een turbine makkelijker worden verzekerd tegen een lagere premie. De vermeden kosten zullen in de orde liggen van de voorgaande post en komen in plaats daarvan.
+
+Op basis van bovenstaand lijkt het redelijk te concluderen dat een conditiebewakingssysteem zich vrij snel kan terugverdienen (ca. 3 jaar).
+
+CONCLUSIES EN AANBEVELINGEN
+
+De conclusies en aanbevelingen zijn onderverdeeld in drie delen. Het eerste deel omvat onderwerpen waar onduidelijkheid over bestaat t.a.v. de plaats van conditiebewaking bij windturbines en windturbine parken. Vervolgens worden in het tweede deel een aantal valkuilen aangegeven, welke een risico vormen bij implementatie van conditiebewaking aan windturbines. Het laatste deel omvat technische ontwikkelingen op dit gebied waarmede op middellange termijn rekening moet worden gehouden.
+
+Openstaande punten
+
+Voor het toepassen van voornoemde technieken, zijn een aantal aspecten nog niet voldoende ontwikkeld voor directe toepassing bij windturbines. De volgende punten worden hieronder verder toegelicht:
+
+Doel van conditie bewaking
+Uitbouwen van reeds aanwezige bewakingsfuncties
+Toepasbaar maken van globale technieken
+Toepasbaar maken van bestaande systemen voor windturbines
+Integratie van bestaande technieken in besturingssystemen
+Inpassing van conditiebewaking in parkbeheer
+Ontwikkelen van een kostenmodel
+
+Doel van conditie bewaking
+Het doel van conditiebewaking klinkt triviaal, doch echt duidelijk is het nog niet. Wel duidelijk is, dat d.m.v. conditiebewaking wordt nagestreefd gevolgschade te voorkomen. Voor windturbines, zeker offshore, is dit heel belangrijk.
+Wanneer gekeken wordt naar conditiebewaking t.b.v. onderhoud, is de situatie minder duidelijk. Het heeft geen zin conditiebewaking uit te voeren om ontwerpfouten op te sporen of de gevolgen ervan te beheersen (het tandwielkasten probleem). Echter zaken als het bewaken van de oliekwaliteit is wel van groot belang, zowel t.b.v. het beperken van gevolgschade als t.b.v. het beheersen van de levensduur van een tandwielkast.
+Voor de bladen ligt de situatie weer anders. Bladen zijn weliswaar ontworpen voor de
+levensduur van de turbine, doch externe oorzaken van schade zijn nu eenmaal niet voorspelbaar.
+M.a.w. het is nauwelijks mogelijk de vraag of conditiebewaking nuttig is voor toepassing voor windturbines in algemene zin te beantwoorden. Een praktische benadering is dan ook het meest zinvol.
+
+Uitbouwen van reeds aanwezige bewakingsfuncties
+Besturingssystemen bevatten steeds meer functionaliteit. Sommige van deze functies komen reeds dichtbij hetgeen conditiebewaking genoemd kan worden. Met relatief weinig kosten kunnen hieraan functies worden toegevoegd, waardoor in een vroegtijdig stadium trends kunnen worden waargenomen welke informatief zijn voor onderhoudsdiensten. Hierbij kan gedacht worden aan remtijd-trend-bewaking, temperatuur-trend-bewaking, versteltijd-trend-bewaking, etc. etc.
+
+Toepasbaar maken van globale technieken
+Naast het uitbouwen van bestaande bewakingsfuncties, kan ook gedacht worden aan het toepassen van globale technieken op basis waarvan trends kunnen worden waargenomen, en waarbij gebruik wordt gemaakt van bestaande sensoren. Hierbij wordt gedacht aan veranderingen in de PV-curve, vermogensfluctuaties en frequentie analyse van beschikbare signalen. Uiteraard zullen deze technieken slecht tot globale indicaties leiden, doch daar staat tegenover dat de extra investeringskosten laag zullen zijn. Hier is geen grote, maar wel een langdurige ontwikkelinspanning mee gemoeid.
+
+Toepasbaar maken van bestaande systemen voor windturbines
+Bij veel industriële toepassingen worden separate systemen toegepast voor conditiebewaking. Veel van deze systemen zijn, in aangepaste vorm toepasbaar voor windturbines. Voor het toepasbaar maken is ontwikkeling noodzakelijk. De inspanningen hiervoor hoeven niet direct groot te zijn, doch wel verspreid over een langere tijd. Daarnaast is de hardware, die hiervoor beschikbaar is in het algemeen duur, waardoor de kosten (per turbine) hoog zullen zijn.
+
+Integratie van bestaande technieken in besturingssystemen
+Moderne windturbines bevatten meestal veel intelligentie, terwijl de kosten erg belangrijk zijn om de kWh-prijs voldoende laag te krijgen. Op termijn zal er dan ook behoefte zijn, systemen te integreren. Dit betekent dat bestaande systemen naar een besturingssyteem omgezet moeten worden, hetgeen een langdurig traject zal zijn.
+
+Inpassing van conditiebewaking in parkbeheer
+Naast de implementatie van conditiebewaking op turbine niveau, speelt bij offshore toepassing vooral ook de integratie binnen het parkbeheer een belangrijke rol. Bij de centrale bewakingspost zal de informatie op een zodanige wijze gepresenteerd moeten worden dat een operator de juiste actie hierop kan nemen. Daarnaast moeten er ook mogelijkheden zijn om zodanig op gebeurtenissen in te kunnen zoomen, zodat door specialisten een goed beeld van de situatie kan worden opgebouwd.
+
+Ontwikkelen van een kostenmodel
+Wil conditiebewaking succesvol toegepast worden, dan is het noodzakelijk om een goed inzicht te hebben in de kosten en baten van de verschillende toepassingen. In het voorgaande hoofdstuk is een schatting gemaakt van kosten en baten. De onderbouwing daarbij is niet voldoende, om op basis daarvan beslissingen te kunnen nemen. Een model, waarin zowel de kosten als de baten met voldoende onderbouwing zijn ondergebracht en waarmede gevoeligheidsanalyses kunnen worden uitgevoerd, zal een belangrijk hulpmiddel zijn om de economische justificatie van de extra investeringen te kunnen geven.
+
+Valkuilen
+
+Het toepassen van conditiebewaking biedt vele mogelijkheden maar er zijn ook een aantal valkuilen die succesvol toepassen in de weg staan en die het grote gevaar met zich mee brengen dat een verkeerd (lees te rooskleurig) beeld over conditiebewaking ontstaat.
+
+Met conditiebewaking bestaat reeds veel ervaring in andere sectoren. Hoewel van die ervaring gebruik wordt gemaakt, kunnen die systemen meestal niet direct worden toegepast. Hiervoor zijn zowel technische als economische redenen.
+Door de veelheid aan sensoren is het gevaar groot dat relevante data niet herkend wordt maar ook dat de sensoren op hun beurt weer een bron van storingen kunnen zijn.
+Het is belangrijk om een goed overzicht te houden van zinvolle data en het is belangrijk om technieken toe te passen die zo optimaal mogelijk gebruik maken grote hoeveelheid meetwaarden, denk hierbij aan data-mining en data warehousetechnieken.
+Conditiebewaking van componenten cq. systemen is alleen zinvol wanneer het falen niet snel gebeurt, m.a.w. er moet een trendmatige degradatie waargenomen kunnen worden.
+Conditiebewaking van componenten cq. systemen is ook alleen maar zinvol wanneer het delen betreffen die ook werkelijk falen. Bewaking op componenten die nooit falen kost alleen maar geld.
+Trends
+
+Tot slot van dit hoofdstuk noemen we een aantal trends op, zoals die in de literatuur en zeker ook uit gesprekken naar voren zijn gekomen.
+
+Bij de keuze voor conditiebewaking spelen technische en economische factoren ongetwijfeld een belangrijke rol. Doorslaggevend zijn echter vaak ook de wensen van de klant, het product van de concurrent en gebeurtenissen in het verleden.
+
+Bij olieanalyse is het belangrijk om te weten wat de conditie van de olie is. Belangrijke punten zijn de mate van vervuiling (hoeveel deeltjes en welke grote), de hoeveelheid water in de olie en welke soorten stoffen (metalen) er in de olie zitten. Ook is het belangrijk om het functioneren van het filter te bewaken. De laatste tijd zien we steeds meer instrumenten op de markt komen die een antwoord geven op deze vragen en die remote zijn uit te lezen. Denk bij dit laatste aan de restlevensduurbewaking van het filter, de vocht sensor en de deeltjesteller van bijvoorbeeld de firma PALL. De eerste stappen voor implementatie binnen de windwereld zijn reeds gezet maar de prijsstelling is nog zodanig dat deze technieken niet geschikt zijn voor kleinere windturbines.
+
+Monitoring van bladen wordt steeds belangrijker. Dit geldt zowel tijdens de productiefase van het blad als tijdens de operationele fase van de turbine. Sterk in de belangstelling staan de "optical fibre" sensoren, die een breed toepassingsgebied met zich mee brengen. Zo zijn er sensoren die gebruikt kunnen worden voor het meten van rekken maar ook zijn er sensoren die temperatuur, vocht en versnellingen kunnen meten. De sensoren kunnen in het blad worden meegelamineerd, waardoor een lange levensduur kan worden bereikt. Hiervoor zijn ontwikkelingen noodzakelijk, zowel t.a.v. het productieproces, de instrumentatie en de data-interpretatie.
+
+Doordat de turbine bewakingssystemen steeds meer functionaliteit krijgen en er ook steeds meer individuele systemen komen neemt het belang van integratie van de verschillende systemen en interfacing toe. Qua besturing en beveiliging wordt de turbine in de toekomst steeds meer een ‘computernetwerk’ waar individuele systemen ingeprikt kunnen worden en waarbij een centraal systeem voor de feitelijke bewaking zorgt.
+
+Bewaking op afstand zal zeker met oogpunt op de offshore windturbine belangrijker worden. Meetsystemen worden dan ook steeds meer remote uitgelezen en het belang van een goede diagnostiek neemt hierbij toe.
+
+In de literatuur wordt in veel artikelen aandacht besteed aan signaalanalyse en diagnostiek. Hoewel veel van die methoden nog niet direct inzetbaar zijn, bestaat er zeker wel een trend meer geavanceerde technieken toe te passen. Het is van belang deze ontwikkelingen goed in de gaten te houden.
+
+6. REFERENTIES
+
+In de referentielijst zijn de meest representatieve bronnen opgenomen.. Daarnaast is een overzicht gegeven van een aantal besprekingen die gevoerd zijn in het kader van deze literatuurstudie. Tot slot zijn nog een aantal internetsites aangegeven. Dit betreft een kleine selectie uit de vele beschikbare sites.
+
+
+
+Conditiebewakingssytemen
+ewitsch,Kassell 1999. ISET en SCHENCK VIBRO GmbH.
+
+Olieanalyse
+
+Tandwielkasten
+
+Thermografie
+
+
+ANNEX 1
+
+Samenvatting conditiebewakingstechnieken per component
+
+COMPONENT
+ROTOR
+Totale rotor
+Trillingsanalysegondel
+Blijkt na onderzoek geschikt te zijn eenvoudig op te nemen in bestaande trillingsanalyse systeem
+Elektrischuitgangsvermogen
+Belovende onderzoeksresultaten, geen extra opnemers en kabels nodig. Nadeel: dient ervaring mee opgedaan te worden.
+PV-karakteristiek
+Eenvoudig, goedkoop, geen extra opnemers en kabels nodig, goede aanvulling op een andere CMT, nadeel: probleem is niet te identificeren
+Blad
+Akoestische emissie
+Mogelijke toepasbaarheid moet nogonderzocht worden, nadelen: misschien te gevoelig, inbouwen bij fabricage van blad
+Trillingsdetectie
+Mogelijke toepasbaarheid moet nog onderzocht worden, nadelen: trillingsbron nodig, off-line
+Thermografie
+Waarschijnlijk goed toepasbaar,contactloze techniek, nadelen, duur, off-line
+Aërodyn. rem
+Versteltijd
+Eenvoudig, goedkoop, nadeel, vertelt niet wat het probleem is
+TANDWIELKAST
+
+Trillingsanalyse
+Goede optie, veel ervaring in deindustrie met deze techniek op tandwielkasten, nadelen: moeilijk te analyseren, standaard systeem niet zonder meer toepasbaar op een windturbine, dient ervaring opgedaan te worden
+Olieanalyse
+Goede optie, veel off-line ervaring, nietoff afhankelijk van de belasting, nadelen: beperkte mogelijkheden on- line, on-line niet mogelijk om bron van het probleem te vinden
+Oliedruk
+voor en na oliefilter voor detectiedeeltjes en bepalen conditie van oliefilter, goedkoop, eenvoudig, uitstekend te gebruiken in combinatie met on-line olieanalyse
+Oliepeil
+Is mogelijk, nadelen: is bij meten vantemperatuur niet nodig, de baten zijn lager dan de kosten
+Tempeartuurolie
+Prima procesparameter om te bewakenin de tijd, wordt al gemeten, goedkoop, nadeel: alleen te gebruiken met andere CMT
+
+
+Temperatuur lager ingaande as
+Prima procesparameter om te bewaken in de tijd, wordt al gemeten, goedkoop, nadeel: alleen te gebruiken samen metandere CMT
+Thermografie
+On-line: te duur en transporthoogwaardige data erg moeilijk, off- line: in combinatie met andere componenten , alleen mogelijk als turbine uit bedrijf is.
+Elektrischuitgansvermogen
+Dient onderzoek naar verricht teworden , geen extra opnemers en kabels nodig, nadeel: klinkt erg onwaarschijnlijk en zeker om deoorzaak van de fout ook te kunnen achterhalen
+AANDRIJVING
+Rotorlager
+Trillingsanalyse
+Prima geschikt, alleen rendabel als ereen trillingsanalyse systeem aanwezig is, dient ervaring mee opgedaan te worden.
+Temperatuur	On	Prima aanvulling op trillingsanalyse,zonder trillingsanalyse is deze CMT techniek ook te gebruiken
+Aandrijfassen en koppeling
+Trillingsanalyse
+Geschikt , kan gebeuren met dezelfdeopnemers als voor het lager
+MECHANISCHE REM
+Thermografie
+on-line: te duur en transporthoogwaardige data erg moeilijk, off- line: in combinatie met andere componenten, alleen mogelijk alsturbine uit bedrijf is
+Remtijd
+goed geschikt, wordt in de industrietoegepast, goedkoop, eenvoudig te realiseren
+CONVERSIESYSTEEM
+Trillingsanalyse
+goed geschikt, veel ervaring mee in de industrie
+Frequentieanalyse fasestroom
+goed geschikt, geen extra opnemers en fasestroom kabels nodig , nadeel: weinig ervaring
+Thermografie
+on-line: te duur en transporthoogwaardig data erg moeilijk, off-line: in combinatie met andere componenten, alleen mogelijk als turbine uit bedrijf is
+Temperatuur
+bewaken van rotor, stator ensleepring/borstels, goedkoop, eenvoudig, goede aanvulling op eenandere CMT
+Weerstandswindingen
+Goedkoop, eenvoudig, goede aanvulling op een andere CMT
+BESTURING ENBEVEILIGING
+Thermografie
+Zeer goed toepasbaar, on-line: te duur en transport hoogwaardige data erg moeilijk off-line: samen met andere componenten alleen mogelijk als turbine uit bedrijf is
+
+
+Olieanalyse
+Transformator: analyse dient in eenlaboratorium uitgevoerd te worden door deskundigen
+Zelfdiagnose
+Complexe systemen hebben vaak een ingebouwd zelfdiagnose systeem (bijv. de omvormer en de PLC), zeer goed te gebruiken
+HYDRAU-LISCH SYSTEEM
+Componentniveau	Trillingsanalyse
+Goed voor bewaken van de aandrijvingen de pomp, dient ervaring mee opgedaan te worden
+Druk rimpel
+voor bewaken pomp, dient ervaringmee opgedaan te worden
+Vloeistofstroom
+Voor bewaking van componenten nadeel: meten bij exact dezelfde condities
+Temperatuur
+Temperatuurverschil over een component zegt iets over de conditie
+Thermografie
+On-line: te duur en transporthoogwaardige data erg moeilijk, off- line: in combinatie met anderecomponenten, alleen mogelijk als deturbine uit bedrijf is
+Vacuüm
+Geschikt voor het detecteren vancavitatie aan de pompinlaat
+Systeemniveau
+Olieanalyse
+on-line: goede optie voor detecterenniveau contaminatie, off-line: beperkte mogelijkheden door reinheid van deolie
+Akoestischeemissie
+wordt veel toegepast bij hydraulischesystemen, is goede techniek om problemen te identificeren, dientervaring mee opgedaan te worden
+Druk
+Geschikt voor algemene bewaking, nadelen: meten bij exact dezelfde condities, niet mogelijk om de bron van het probleem te vinden
+KRUI-SYSTEEM
+Aandrijving	Trillingsanalyse
+Prima geschikt, dient ervaring mee opgedaan worden
+Temperatuur
+Bewaken van motor en tandwielkast
+Motorstroom
+Bewaken in de tijd goede aanvulling opbestaande CMT, kan frequentieanalyse op toegepast worden, maar dit is niet aan te raden
+Olieanalyse	
+On-line : kosten hoger dan baten. Off-line: periodieke basis
+Thermografie
+On-line: te duur en transporthoogwaardige data erg moeilijk. Off- line: in combinatie met andere componenten, alleen mogelijk als de turbine uit bedrijf is
+Kruilager
+Vet-analyse	Off	Is mogelijk, nadelen: gebeurt weinig met het kruilager, off-line
+
+
+Totalesysteem
+Kruisnelheid
+Makkelijk te meten, geen extraopnemer nodig
+Trillingsanalysegondel
+Gondelfoutstand is te zien in het frequentiespectrum dient onderzoek verricht te worden, nadeel : vertelt de bron van het probleem niet
+Elektrischuitgangsvermogen
+Gondelfoutstand is waarschijnlijk te zien in het frequentiespectrum, dient onderzoek naar verricht te worden, nadeel : vertelt de bron van het probleem niet
+DRAGENDECONSTRUCTIE/BEHUIZING
+Trillingsanalysegondel
+Kan ook voor de rotor en de torengebruikt worden
+Trillingsanalysetoren
+Beproefde techniek bij nieuw concept

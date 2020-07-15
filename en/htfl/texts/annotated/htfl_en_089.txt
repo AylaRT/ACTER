@@ -1,0 +1,9 @@
+Multiacquisition T1-mapping MRI during tidal respiration for quantification of myocardial T1 in swine with heart failure.
+OBJECTIVE:
+The purpose of this article is to evaluate a free-breathing pulse sequence to quantify myocardial T1 changes in a swine model of tachycardia-induced heart failure.
+MATERIALS AND METHODS:
+Yorkshire swine were implanted with pacemakers and were ventricularly paced at 200 beats/min to induce heart failure. Animals were scanned twice with a 1.5-T MRI scanner, once at baseline and once at heart failure. A T1-mapping sequence was performed during tidal respiration before and 5 minutes after the administration of a gadolinium-chelate contrast agent. T1-mapping values were compared between the baseline and heart failure scans. The percentage of fibrosis of heart failure myocardial tissue was compared with similar left ventricular tissue from control animals using trichrome blue histologic analysis.
+RESULTS:
+In the study cohort, differences were found between the baseline and heart failure T1-mapping values before the administration of contrast agent (960 ± 96 and 726 ± 94 ms, respectively; p = 0.02) and after contrast agent administration (546 ± 180 and 300 ± 171 ms, respectively; p = 0.005). The animals with heart failure also had a difference histologically in the percentage of myocardial collagen compared with tissue from healthy control animals (control, 5.4% ± 1.0%; heart failure, 9.4% ± 1.6%; p < 0.001).
+CONCLUSION:
+The proposed T1-mapping technique can quantify diffuse myocardial changes associated with heart failure without the use of a contrast agent and without breath-holding. These T1 changes appear to be associated with increases in the percentage of myocardial collagen that in this study were not detected by traditional myocardial delayed enhancement imaging. T1 mapping may be a useful technique for detecting early but clinically significant myocardial fibrosis.

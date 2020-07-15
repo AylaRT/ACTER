@@ -1,0 +1,971 @@
+Scenarioanalyse
+
+In deze sectie onderzoeken we het effect van enkele realistische scenario‟s op de netto contante waarde van de verschillende investeringen. We spitsen ons hier voornamelijk toe op de netto contante waarde en niet op de verdisconteerde terugverdientijd.
+
+In de basisoplossing berekenden we de netto contante waarde op basis van de meest verwachte ramingen van kasstromen. In de scenarioanalyse gaan we opzoek naar het effect van een verandering van één bepaalde parameter. We concentreren ons in deze analyse voornamelijk op fundamentele veranderingen zoals een extra steunmaatregel, een aanzienlijke verhoging van prijzen enzovoort. Subtielere variaties in bepaalde parameters worden later onderzocht in de sensitiviteitsanalyse. Hierin hebben we ook oog voor het gelijktijdig veranderen van meerdere parameters.
+In deze scenarioanalyse richten we ons voornamelijk op wijzigingen waarvan we vermoeden dat ze een positief effect hebben op de rendabiliteit van kleine windturbines. Dit doen we omdat de resultaten uit de basisscenario‟s vrij negatief waren. Scenario‟s met (nog) lagere NCW‟s zouden geen grote meerwaarde bieden aan dit onderzoek. Dit is ook de reden waarom we geen extra analyses doen met een hogere discontovoet. Ook hiervan zou de meerwaarde gering zijn.
+
+Scenario 1: extra steunmaatregel onder vorm van de VLIF-subsidie
+
+Land- en tuinbouw en para-agrarische bedrijven genieten van een extra steunmaatregel onder de vorm van de VLIF-subsidie. We onderzoeken hier wat de invloed van deze extra steunmaatregel is op de rendabiliteit van kleinschalige windenergie. Dit scenario spitst zich uiteraard alleen toe op bedrijven.
+
+
+Figuur 50: scenarioanalyse: VLIF-subsidie
+
+De resultaten tonen aan dat een VLIF-subsidie voor sommige bedrijven een beslissende factor kan zijn. Enkele investeringen weten bij een windsnelheid van 4,5 m/s hun NCW om te buigen van een negatieve waarde naar een positieve waarde. We mogen de impact van de VLIF-steun wel niet overschatten. Hiervoor is de impact op de netto contante waarden te klein.
+
+Scenario 2: verhoging van de minimum prijs van groenestroomcertificaten
+
+In dit scenario onderzoeken we de impact van een verhoging van de minimumprijs van groenestroomcertificaten. In eerste instantie verhogen we deze minimumprijs van € 90 naar € 200. In tweede instantie gaan we ervan uit dat kleine windturbines van dezelfde subsidie kunnen genieten als zonnepanelen. Hier ligt de minimumprijs voor groenestroomcertificaten momenteel op €350.
+
+Particulieren
+
+
+Figuur 52: scenarioanalyse: prijs GSC (2)
+
+Bedrijven
+
+De resultaten voor bedrijven vertonen een gelijkaardig patroon en worden hier bijgevolg niet weergegeven.
+
+Bevindingen en conclusies
+
+Uit de resultaten blijkt dat een verhoging van de minimumprijs voor groenestroomcertificaten effect heeft in gebieden met een hogere gemiddelde windsnelheid. Men krijgt deze minimumprijs namelijk per geproduceerde 1000 kWh. Hoe hoger de energieopbrengst van de kleine windturbine, hoe zwaarder een hogere minimumprijs doorweegt.
+Bij een gemiddelde windsnelheid van 3,5 m/s is geen enkele windturbine rendabel bij een prijs van €0,09 /kWh en €0,2 /kWh. Bij een prijs van €0.35/kWh vertoont model G een licht positieve NCW. Bij hogere gemiddelde windsnelheden realiseren enkele modellen een positieve NCW door de verhoging van de minimumprijs. We kunnen hier stellen dat het verhogen van de minimumprijs enkel effect heeft in gebieden met een zeer gunstig windklimaat. In een groot deel van Vlaanderen ligt de energieopbrengst van kleine windturbines gewoonweg te laag en kan een verhoging van de minimumprijs geen oplossing bieden.
+
+Scenario 3: kleine KMO’s
+
+De prijs die bedrijven betalen voor hun elektriciteit wordt bepaald door hun elektriciteitsverbruik. Bedrijven worden ingedeeld per verbruikersschijf. Hoe meer men verbruikt, hoe minder men moet betalen per eenheid elektriciteit. Grote bedrijven met een groot verbruik zullen hun elektriciteit dus goedkoper kunnen aankopen dan kleinere bedrijven. Hoe hoger de prijs per kilowattuur ligt, hoe groter de besparing door eigen verbruik door middel van een kleine windturbine. In dit scenario onderzoeken we dan ook de rendabiliteit van kleinschalige windenergie bij zeer kleine bedrijven. Zij genieten enerzijds van een grotere besparing door eigen verbruik, maar kunnen wel genieten van dezelfde steunmaatregelen als grotere bedrijven. We verhogen de prijs per kilowattuur van €0,12/kWh naar €0,16/kWh.
+
+
+Figuur 53: scenarioanalyse: kleine KMO
+
+Bij een gemiddeld windsnelheid van 4,5 m/s en een elektriciteitsprijs van €0,12/kWh is alleen model G rendabel. Bij dezelfde windsnelheid en een elektriciteitsprijs van €0,16/kWh zijn ook model D en P rendabel. Wanneer de gemiddelde windsnelheid 5,5 m/s bedraagt wordt naast model D, G en P ook model F rendabel als we de elektriciteitsprijs verhogen naar €0,16/kWh. Uit de resultaten blijkt dus dat voor zeer kleine bedrijven de rendabiliteit van kleinschalige windenergie iets hoger ligt dan bij grotere bedrijven.
+
+Sensitiviteitsanalyse
+
+In de sensitiviteitsanalyse onderzoeken we het effect van verandering in verschillende paramaters op de rendabiliteit van kleine windturbines. We gebruiken hiervoor een Monte Carlo-simulatie. Hierbij worden experimenten uitgevoerd op basis van toevallig gekozen waarden van de verschillende parameters. Deze waarden bepalen dat het scenario waarvoor de NCW wordt berekend. Men voert dit experiment veel keren uit en zo bekomt men een waarschijnlijkheidsverdeling van de netto contante waarde (Mercken, 2004).
+Identificatie en bepaling van de kansverdeling van de parameters
+Voor elke parameter gaan we uit van een triangulaire verdeling en dienen we een minimumwaarde, een maximumwaarde, en een meest waarschijnlijke waarde op te geven. Hieronder lichten we de verschillende parameters apart toe.
+
+Huidige prijs van grijze stroom
+
+Voor de bepaling van de prijzen van grijze stroom in de Monte-Carlosimulatie baseren we ons opnieuw op rapporten Evolutie van de elektriciteitsprijzen op de residentiële markt en De energiemarkt in 2008. In de basisoplossing zijn we uitgegaan van een elektriciteitsprijs voor huishoudens van € 20/kWh. Dit is de prijs voor een gemiddeld gezin. Dit wordt onze meest waarschijnlijke waarde in de analyse. Uit de literatuur blijkt dat de allerkleinste huishoudens tot € 27/kWh betalen voor hun elektriciteit. De grootste gezinnen betalen slechts € 15/kWh. Deze prijzen gebruiken we dan ook als minimum- en maximumwaarde in onze analyse.
+
+Voor industriële verbruikers gebruiken we als meest waarschijnlijke waarde de prijs uit de basisoplossing van € 12/kWh. Als minimum en maximum kiezen we voor € 9/kWh en € 16/kWh.
+
+Groeivoet van de prijs van grijze stroom
+
+Naast de huidige prijs van grijze stroom kan ook de toekomstige trend van deze prijs variëren. Als meest waarschijnlijke waarde kiezen we hier voor 3%. Dit was ook de groeivoet in onze basisoplossing. Als minimumwaarde en maximumwaarde in de Monte Carlo analyse opteren we voor 1% en 5%.
+
+Jaarlijkse energieopbrengst
+
+De jaarlijkse energieopbrengst van een specifieke kleine windturbine in een specifiek gebied kan sterk variëren onder invloed van de windsnelheid. In de basisoplossing was deze jaarlijkse energieopbrengst gebaseerd op een gemiddelde windsnelheid van 3,5 m/s, 4,5 m/s of 5,5 m/s. De gemiddelde windsnelheid varieert binnen een gebied. In de Monte-Carloanalyse gebruiken we deze gemiddelde waarden als meest waarschijnlijke waarden. Als minima en maxima voor deze parameters nemen we de gemiddelde windsnelheid min/plus 0,5 m/s.
+
+Aan de hand van de theoretische benadering uit hoofdstuk 4 kwamen we tot de vaststelling dat een stijging/daling van 0,5 m/s van de gemiddelde windsnelheid een verschillende impact kan hebben op de energieopbrengst. Deze impact is afhankelijk van de gemiddelde windsnelheid waar men van vertrekt. Hoe hoger de gemiddelde windsnelheid hoe kleiner de impact. De reden hiervoor is dat bij hogere gemiddelde windsnelheden de cut-out windsnelheid vaker wordt bereikt. We laten de energieopbrengst dan ook als volgt variëren:
+
+
+Figuur 54: variatie jaarlijkse energieopbrengst
+
+Bevindingen en conclusies
+
+In deze gevalstudie zijn de netto contante waarden van twee modellen positief. De NCW van D en G bedragen respectievelijk €1.150,16 en €3.477,31. De verdisconteerde terugverdientijden van deze modellen bedragen ongeveer 16 en 20 jaar. Uit het NCW-profiel van de verschillende modellen valt opnieuw de zeer zwakke stijging op bij de meerderheid van de windturbines. Hier wordt de enorme invloed van de energieopbrengst op de rendabiliteit van kleine windturbines nog maar eens onderstreept. We kunnen hier concluderen dat voor particulieren op twee modellen na alle kleine windturbines niet rendabel zijn onder dit windklimaat. De twee modellen die toch een positieve NCW vertonen worden pas rendabel tegen het einde van hun theoretische levensduur. Dit maakt een investering in één van deze twee modellen riskant.
+
+Gevalstudie: particulier 3
+
+We nemen in dit basisscenario aan dat de gemiddelde windsnelheid op de locatie waar de windturbine wordt geplaatst 5,5 m/s bedraagt. Dit is de te verwachten gemiddelde windsnelheid op een gunstig terrein in gebied 3 (zie figuur 37).
+
+Gemiddelde windsnelheid op locatie 5,5 m/s Dit levert onderstaande resultaten op: Verdisconteerde terugverdientijd
+
+Onderstaande grafiek geeft de temporele NCW weer. De verdisconteerde terugverdientijd wordt bepaald door het snijpunt van de grafieken met de x-as.
+
+
+Figuur 42: DP gevalstudie: particulier 3
+
+
+Figuur 43: NCW gevalstudie: particulier 3
+
+Bevindingen en conclusies
+
+Ondanks een gemiddelde windsnelheid van 5,5 m/s, slagen slechts drie modellen erin een positieve NCW te behalen op het einde van hun levensduur. De netto contante waarden van model D, G en P bedragen respectievelijk €16.255,22, €15.805,51 en €13.270,01. De verdisconteerde terugverdientijden van deze investeringen liggen tussen 8 en 12 jaar. Een investering in een kleine windturbine kan hier al zeker de moeite lonen.
+
+Economische analyse: bedrijven
+
+De assumpties voor de basisscenario‟s werden reeds besproken in sectie 6.1. Hieronder wordt ter verduidelijking nog een kort overzicht gegeven van de assumpties die we aannemen in alle basisscenario‟s voor bedrijven:
+
+Gevalstudie: bedrijf 1
+
+We nemen in dit basisscenario aan dat de gemiddelde windsnelheid op de locatie waar de windturbine wordt geplaatst 3,5 m/s bedraagt. Dit is de te verwachten gemiddelde windsnelheid op een gunstig terrein in gebied 1 (zie figuur 37).
+
+Gemiddelde windsnelheid op locatie 3,5 m/s
+
+Dit levert onderstaande resultaten op:
+
+Verdisconteerde terugverdientijd
+
+Onderstaande grafiek geeft de temporele NCW weer. De verdisconteerde terugverdientijd wordt bepaald door het snijpunt van de grafieken met de x-as.
+
+Figuur 44: DP gevalstudie: bedrijf 1
+
+Netto contante waarde
+
+Onderstaande grafiek geeft de waarde van de NCW weer op het einde van de levensduur van alle modellen.
+
+
+Figuur 45: NCW gevalstudie: bedrijf 1
+Bevindingen en conclusies
+
+Ook voor alle bedrijven zijn de NCW‟s negatief bij een gemiddelde windsnelheid van 3,5 m/s. Ondanks enkele extra steunmaatregelen, liggen de energieopbrengsten van de turbines te laag om de investering rendabel te maken. Dit kunnen we opnieuw afleiden uit de veel te zwakke stijging van de NCW-profielen. We kunnen concluderen dat investeren in een kleine windturbine niet rendabel is voor bedrijven uit gebied 1 op een gunstig terrein.
+
+Gevalstudie: bedrijf 2
+
+We nemen in dit basisscenario aan dat de gemiddelde windsnelheid op de locatie waar de windturbine wordt geplaatst 4,5 m/s bedraagt. Dit is de te verwachten gemiddelde windsnelheid op een gunstig terrein in gebied 2 (zie figuur 37).
+
+Gemiddelde windsnelheid op locatie 4,5 m/s
+
+Dit levert onderstaande resultaten op:
+
+Verdisconteerde terugverdientijd
+
+Onderstaande grafiek geeft de temporele NCW weer. De verdisconteerde terugverdientijd wordt bepaald door het snijpunt van de grafieken met de x-as.
+
+Figuur 46: DP gevalstudie: bedrijf 2
+
+Onderstaande grafiek geeft de waarde van de NCW weer op het einde van de levensduur van alle modellen.
+
+Figuur 47: NCW gevalstudie: bedrijf 2
+
+Bevindingen en conclusies
+
+Slechts één investering (G) slaagt erin om een positieve netto contante waarde te creëren op het einde van de theoretische levensduur. De verdisconteerde terugverdientijd van deze investering ligt rond de 18 jaar en de uiteindelijke netto contante waarde bedraagt slechts € 1.322,83. Als we dit scenario vergelijken met dat van particulieren bij dezelfde gemiddelde windsnelheid, liggen de NCW‟s hier heel wat lager. Ondanks de extra steunmaatregelen blijkt het voor bedrijven minder interessant te zijn om te investeren in kleine windmolens. Dit komt door de lagere elektriciteitsprijs voor industriële verbruikers. Hierdoor ligt de besparing door eigen verbruik lager. Dit zien we terug in de zeer zwakke stijging in de NCW-profielen. We kunnen hier besluiten dat het voor bedrijven in gebied 2 niet rendabel is om te investeren in kleine windturbines. Slechts één turbine slaagt er in om een positieve ( maar nog steeds zeer lage) NCW te realiseren op het einde van de levensduur.
+
+Gevalstudie: bedrijf 3
+
+We nemen in dit basisscenario aan dat de gemiddelde windsnelheid op de locatie waar de windturbine wordt geplaatst 5,5 m/s bedraagt. Dit is de te verwachten gemiddelde windsnelheid op een gunstig terrein in gebied 3 (zie figuur 37).
+
+Gemiddelde windsnelheid op locatie 5,5 m/s Dit levert onderstaande resultaten op: Verdisconteerde terugverdientijd
+Onderstaande grafiek geeft de temporele NCW weer. De verdisconteerde terugverdientijd wordt bepaald door het snijpunt van de grafieken met de x-as.
+
+Figuur 48: DP gevalstudie: bedrijf 3
+
+Onderstaande grafiek geeft de waarde van de NCW weer op het einde van de levensduur van alle modellen.
+
+
+Figuur 49: NCW gevalstudie: bedrijf 3
+
+Bevindingen en conclusies
+
+Net als bij de economische analyse voor particulieren slagen er bij een gemiddelde windsnelheid van 5,5 m/s drie investeringen erin een positieve NCW te creëren. De NCW‟s van D, G en P bedragen respectievelijk €9.788,77, €9.973,83 en €7.653,11. De verdisconteerde terugverdientijden van deze modellen liggen tussen 10 en 14 jaar. Een investering in kleinschalige windenergie kan hier dus zeker de moeite lonen.
+6.3.3 Verhoogde investeringsaftrek
+
+Volgens de Technologie-fiche Windenergie voor bedrijven en het rapport Verhoogde investeringsaftrek voor energiebesparende investeringen is deze steunmaatregel opnieuw enkel van toepassing op bedrijven en niet op particulieren. Een bedrijf doet een fiscaal voordeel bij het plaatsen van één of meerdere windturbines. De steunmaatregel biedt bedrijven die een energiebesparende investering uitvoeren de mogelijkheid om hun belastbare winst te verminderen met een eenmalige verhoogde investeringsaftrek (Artikel 69 van het Wetboek der Inkomensbelasting). De hoogte van de investeringsaftrek varieert van jaar tot jaar. Jaarlijks verschijnt het toegepaste percentage dan ook in februari in het Belgisch Staatsblad. Momenteel bedraagt dit percentage 13.5%. Als we rekening houden met een maximale vennootschapsbelasting van 33.99%, komt dit neer op een reële subsidie van maximaal 5.27% van de investering(en). Bedrijven met een forfaitair inkomensstelsel maken geen aanspraak op de verhoogde investeringsaftrek.
+
+6.3.4 Ecologiepremie
+
+De ecologiepremie is niet meer van toepassing op windturbines sinds 1 februari 2011, omdat deze techniek al geniet van groenestroomcertificaten.
+
+Hoofdstuk 7: Economische analyse
+
+In dit hoofdstuk gaan we dieper in op het onderzoeksopzet van de economische analyse. We bekijken eerst de invulling van de relevante parameters in het economisch model. Daarna volgt een toelichting van de evaluatiemaatstaven die gebruikt zullen worden. Ten slotte maken we een indeling van de verschillende basisscenario‟s. Deze scenario‟s dienen als vertrekpunt voor een diepere scenarioanalyse en de sensitiviteitsanalyse.
+
+Invulling van de relevante parameters in het economisch model
+Bij een economische analyse zijn de keuze en invulling van de relevante parameters cruciaal. Hieronder wordt de invulling van deze parameters toegelicht.
+
+Investeringskosten
+
+Voor de investeringskosten baseren we ons in de eerste plaats op de evaluatierapporten van het testveld in Nederland. Deze rapporten bevatten voor elk getest type windmolen de totale investeringskost. Deze kost omvat de generator, mast, fundering, omvormer, bekabeling en installatie. Deze gegevens werden getoetst en aangevuld in samenspraak met leveranciers en fabrikanten van kleine windturbines. Voor de windturbines getest in België of het Verenigd Koninkrijk was het niet mogelijk om de totale investeringskost rechtstreeks uit de rapporten van de testvelden te verzamelen. De investeringskost voor deze windturbines werd dan ook bepaald in samenspraak met de leveranciers en/of fabrikanten van de turbines. Zoals eerder aangegeven kan de investeringskost binnen een bepaald type variëren. We kunnen wel stellen dat de investeringskost van elke windturbine binnen een bepaalde range zal vallen. De mogelijke variatie binnen deze range zal zowel in de scenario- als sensitiviteitsanalyse opgenomen worden. In de basisoplossing werken we met een gemiddelde investeringskost.
+
+
+Onderhoudskosten
+
+Ook de onderhoudskosten werden bepaald in samenspraak met de leveranciers en fabrikanten van de kleine windturbines. Hieruit blijkt dat de turbines zeer lage tot geen onderhoudskosten met zich meebrengen. Er wordt aangeraden om elke vijf jaar de rotorbladen en lagers te controleren op slijtage. De leveranciers/fabrikanten bieden een garantieperiode van vijf jaar op de windturbines. Om eventuele onderhouds- en reparatiekosten (die buiten de garantieperiode vallen) te dekken, wordt in de economische analyse gewerkt met een jaarlijks forfaitair bedrag. In de basisoplossing is dit bedrag €20. We kunnen op voorhand met grote zekerheid stellen dat deze parameter geen grote invloed zal hebben op de resultaten van deze analyse. Variaties in de onderhoudskosten zullen daarom ook niet worden opgenomen in de economische analyse.
+
+Groenestroomcertificaten
+
+Momenteel wordt een minimumbedrag van €90 euro gegarandeerd voor tien jaar. Het is moeilijk te voorspellen hoe deze bedragen zich in de toekomst zullen ontwikkelen. In de basisoplossing gaan we ervan uit dat na tien jaar de groenestroomcertificaten nog steeds voor een minimumbedrag van €90 kunnen verkocht worden. De kans dat dit minimumbedrag over tien jaar hoger of lager ligt is echter zeer groot. In de scenario- en sensitiviteitsanalyse onderzoeken we dan ook de invloed van wijzigingen in deze parameter.
+
+Prijs grijze stroom
+
+De prijs van grijze stroom bepaalt hoe groot de kostenbesparing door eigenverbruik is. Hoe hoger deze prijs is, hoe groter de besparing wordt en omgekeerd. Om de evolutie van deze parameter te voorspellen, baseren we ons op de prijzen van de afgelopen jaren. We baseren ons hierbij op de rapporten Evolutie van de elektriciteitsprijzen op de residentiële markt en De energiemarkt in 2008. De elektriciteitsmarkt werd in 2003 geliberaliseerd. De prijzen voor deze ingreep zijn dan ook niet relevant. We maken een onderscheid tussen de huishoudelijke verbruikers en de industriële verbruikers. Dit doen we omdat de elektriciteitsprijzen in de industrie heel wat lager liggen dan de prijzen voor huishoudens.
+
+In de basisoplossing gaan we uit van de elektriciteitsprijs voor een gemiddeld gezin, wat momenteel neerkomt op ongeveer €20/ kWh (incl. BTW). Uit de gegevens vanaf 2003 blijkt dat voor de huishoudelijke verbruikers de prijzen met ongeveer 3% zijn toegenomen.
+
+Bij de industriële verbruikers heerst er een grotere variatie binnen de elektriciteitsprijzen. Zo betalen de kleinste verbruikers onder de bedrijven om en bij de €14/kWh. De grootste verbruikers zitten daarentegen momenteel op een tarief van ongeveer €7/kWh. De prijzen voor de industriële verbruikers zijn exclusief BTW. Bedrijven betalen normaal gezien dan ook geen belastingen op hun elektriciteit. In de basisoplossing werken we met een elektriciteitsprijs van €12/kWh. Dit is het gemiddelde tarief voor een doorsnee KMO.
+
+Gezien de huidige instabiliteit van de globale energiemarkt, is het moeilijk te voorspellen hoe de prijzen zich in de toekomst zullen ontwikkelen. Ook België kent problemen op de energiemarkt door de noodzakelijke toename in de import van elektriciteit. In de scenario- en sensitiviteitsanalyse zullen de effecten van wijzigingen in deze parameter uitgebreid onderzocht worden. In de basisoplossing gaan we er vanuit dat de trend van de afgelopen acht jaar zich verder zet.
+
+Verhoogde investeringsaftrek
+
+De verhoogde investeringsaftrek voor bedrijven bedraagt momenteel 13.5%. Wat in de praktijk neerkomt op een besparing van ongeveer 5% op de investering. In de economische analyse wordt dan ook gewerkt met dit percentage. De aftrek wordt verricht op de winst van het belastbaar tijdperk waarin de windturbine wordt aangeschaft. Bedrijven die gebruik maken van een forfaitair belastingsstelsel maken geen aanspraak op de verhoogde investeringsaftrek. In de scenarioanalyse zal onderzocht worden wat het wegvallen van deze steunmaatregel betekent voor de rendabiliteit van kleine windturbines.7.1.6 VLIF-subsidie
+
+Momenteel kunnen land- en tuinbouw en para-agrarische bedrijven genieten van een VLIF-steun van 28% op de investering. In de scenarioanalyse onderzoeken we wat het wegvallen van deze steunmaatregel betekent voor de rendabiliteit van kleine windturbines.
+
+belasting over de toegevoegde waarde (BTW)
+
+De belasting over de toegevoegde waarde wordt uiteindelijk betaald door de consument. Dit wil zeggen dat particulieren die een kleine windturbine aankopen hierop BTW zullen moeten betalen. Bedrijven kunnen de BTW op de investeringskost recupereren. Dit is wel enkel toegestaan als de opgewekte elektriciteit volledig voor bedrijfsdoeleinden wordt gebruikt. Bedrijven die gebruik maken van een forfaitair belastingsstelsel kunnen de BTW niet recupereren.
+
+Jaarlijkse energieopbrengst
+
+De energieopbrengst van de windturbines zal steeds op jaarbasis bekeken worden. Voor de invulling van deze paramaters baseren we ons zowel op de theoretische benadering als de vergelijkende studie. De theoretische benadering stelt ons in staat om voor elke windsnelheid en elk type terrein de verwachte energieopbrengst te bepalen. Om een juiste inschatting te maken van de energie-efficiëntie per model gebruiken we dan weer de vergelijkende studie. Hier hebben we voor de verschillende windturbines telkens de energie-efficiëntie berekend.
+
+Levensduur
+
+Volgens de fabrikanten en leveranciers bedraagt de levensduur van de meeste kleine windturbines ongeveer 20 jaar. Enkele modellen zitten hier vijf jaar onder of boven. Een investering kan economisch rendabel worden genoemd indien de terugverdientijd korter is dan de levensduur. De levensduur is dus een belangrijke factor binnen de economische analyse. Deze kan echter niet variëren binnen een bepaald model, maar enkel over de modellen heen.
+
+Discontovoet
+
+Als discontovoet opteren we voor een waarde van 5%. Deze waarde is gebaseerd op de huidige risicovrije rentevoet.
+
+Evaluatiemaatstaven
+
+Om de rendabiliteit van de verschillende kleine windturbines te beoordelen, gebruiken we twee evaluatiemaatstaven: de netto contante waarde en de verdisconteerde terugverdientijd. Beide maatstaven houden rekening met de tijdswaarde van geld. We maken gebruik van een vereenvoudigd model waar de vennootschapsbelasting niet in wordt opgenomen.
+
+Netto contante waarde (NCW)
+
+Bij de netto contante waarde verdisconteert men de kasstromen tegen een gekende kapitaalkost. Op deze manier berekent men de huidige waarde van de kasstromen van het project. Een project wordt normalerwijze verworpen indien de NCW negatief is. In het andere geval wordt het project aanvaard (Mercken, 2004).
+
+Verdisconteerde terugverdientijd (DPB, discounted payback)
+
+Deze evaluatiemaatstaf is een variant op de gewone terugverdientijd. Deze maatstaf houdt echter ook rekening met de tijdswaarde van geld. De verdisconteerde terugverdientijd geeft namelijk weer hoeveel tijd nodig is om de contante waarde van de kasstromen van negatief naar positief te brengen. Dit criterium combineert de positieve aspecten van de netto contante waarde en de traditionele terugverdientijd (Mercken, 2004).
+
+Indeling basisscenario’s
+
+Gezien de grote variaties binnen verscheidene parameters, is het niet mogelijk om te vertrekken van één basisoplossing. Één enkele basecase zou immers weinig representatief zijn. We werken dus met enkele gevalstudies als basisoplossing. Per gevalstudie bekijken we de rendabiliteit van elk model apart. Dit is noodzakelijk gezien de grote verschillen in investeringskosten en energieopbrengsten tussen de verschillende types. Hierdoor is niet mogelijk om aan de hand van één standaardmodel al de types van kleine windturbines te beschrijven.
+
+De basisoplossingen worden eerst opgedeeld per verbruikerstype. Er wordt een opsplitsing gemaakt tussen particulieren en bedrijven. Bedrijven genieten van extra steunmaatregelen en zijn in staat de BTW op de investeringskost te recupereren. Ze sparen daarentegen wel minder uit door eigen verbruik omdat hun elektriciteitsprijs lager ligt. Landbouwbedrijven genieten van een extra steunmaatregel onder de vorm van de VLIF-subsidie. In de scenarioanalyse wordt dieper ingegaan op het effect van de VLIF-subsidie.
+
+Figuur 36: steunmaatregelen per verbruikerstype
+
+Vervolgens bekijken we per verbruikerstype de rendabiliteit van kleine windturbines bij verschillende windsnelheden. Deze opsplitsing is noodzakelijk gezien de grote impact van de windsnelheid op de energieopbrengst. Dit bleek uit de resultaten van hoofdstuk 4.
+Voor de bepaling van de windsnelheid, baseren we ons op de windkaart van België. Zo komt elke waarde voor de gemiddelde windsnelheid in grote lijnen overeen met een bepaald gebied op deze kaart. Deze gebieden zijn illustratief weergegeven op figuur 37. Gebied 1 behelst heel Vlaanderen tot aan lijn A. Gebied 2 bevindt zich tussen lijn A en lijn B. Gebied 3 bevindt zich tussen lijn B en lijn C. Voor elk gebied kiezen we één gemiddelde windsnelheid. In gebied 1 bedraagt deze 3,5 m/s. In gebied 2 bedraagt deze 4,5 m/s en in gebied 3 nemen we een gemiddelde windsnelheid van 5,5 m./s aan. Deze gemiddelde windsnelheden werden bepaald op basis van de gegevens uit de synoptische stations.
+Let wel op dat deze synoptische stations windmetingen uitvoeren op een bepaald terrein. Op specifieke locaties in de buurt van deze stations kan de gemiddelde windsnelheid al sterk verschillen onder invloed van het terrein. Wanneer we in deze scenario’s uitgaan van een bepaalde windsnelheid, moet dit de windsnelheid op de locatie van de windturbine zelf zijn en niet de windsnelheid gemeten door een weerstation in de buurt.
+
+Figuur 37: gemiddelde windsnelheid op 10 m hoogte (bron: VUB-KMI)
+
+Economische analyse: particulieren
+
+De assumpties voor de basisscenario‟s werden reeds besproken in sectie 6.1. Hieronder wordt ter verduidelijking nog een kort overzicht gegeven van de assumpties die we aannemen in alle basisscenario‟s voor particulieren.
+
+Investeringskost
+Gemiddelde investeringskost per model
+Onderhoudskosten
+Opbrengst per GSC
+Prijs grijze stroom jaar
+Discontovoet 
+Groeivoet prijs grijze stroom
+
+Gevalstudie: particulier 1
+
+We nemen in dit basisscenario aan dat de gemiddelde windsnelheid op de locatie waar de windturbine wordt geplaatst 3,5 m/s bedraagt. Dit is de te verwachten gemiddelde windsnelheid op een gunstig terrein in gebied 1 (zie figuur 37).
+
+Gemiddelde windsnelheid op locatie 3,5 m/s
+
+Dit levert onderstaande resultaten op:
+
+Verdisconteerde terugverdientijd
+
+Onderstaande grafiek geeft de temporele NCW weer. De verdisconteerde terugverdientijd wordt bepaald door het snijpunt van de grafieken met de x-as.
+
+Figuur 38: DP gevalstudie: particulier 1
+
+Netto contante waarde
+
+Onderstaande grafiek geeft de waarde van de NCW weer op het einde van de levensduur van alle modellen.
+
+Figuur 39: NCW gevalstudie: particulier 1
+
+Bevindingen en conclusies
+
+De netto contante waarden van alle modellen zijn negatief op het einde van hun levensduur. Bijgevolg is de verdisconteerde terugverdientijd groter dan de theoretische levensduur van de verschillende modellen. De reden hiervoor vinden we duidelijk terug in de NCW-profielen uit figuur 38. Hier zien we dat voor de meeste modellen de NCW amper stijgt doorheen de jaren. Dit wil zeggen dat de energieopbrengst gewoonweg te laag is om voor opbrengsten te zorgen via groenestroomcertificaten of kostenbesparing door eigen verbruik. Enkele modellen vertonen wel een zeer licht stijgende NCW. We kunnen concluderen dat voor particulieren die genieten van een gemiddelde windsnelheid van 3,5 m/s een investering in kleinschalige windenergie niet rendabel is.
+
+Gevalstudie: particulier 2
+
+We nemen in dit basisscenario aan dat de gemiddelde windsnelheid op de locatie waar de windturbine wordt geplaatst 4,5 m/s bedraagt. Dit is de te verwachten gemiddelde windsnelheid op een gunstig terrein in gebied 2 (zie figuur 37).
+Gemiddelde windsnelheid op locatie 4,5 m/s Dit levert onderstaande resultaten op: Verdisconteerde terugverdientijd
+
+Onderstaande grafiek geeft de temporele NCW weer. De verdisconteerde terugverdientijd wordt bepaald door het snijpunt van de grafieken met de x-as.
+
+
+Figuur 40: DP gevalstudie: particulier 2
+
+Netto contante waarde
+
+Onderstaande grafiek geeft de waarde van de NCW weer op het einde van de levensduur van alle modellen.
+
+ModLeelvensduur NCW
+
+
+Figuur 41: NCW gevalstudie: particulier 2Basismodel
+
+Voor de berekening van de jaarlijkse energieopbrengst van een kleine windmolen, wordt vertrokken van een basisoplossing waarbij we een aantal assumpties worden aangenomen. Hierna wordt onderzocht in welke mate het resultaat wijzigt indien de parameters variaties vertonen.
+
+De windmolen in de basisoplossing beschikt over een rotordiameter van 3 m en een rotoroppervlak van 7,06858 m². Uit de literatuurstudie is gebleken dat de rotoroppervlaktes van kleine windmolens variëren tussen 1,0 en 14,0 meter. Volgens het Windplan Vlaanderen schommelt de gemiddelde windsnelheid op 10 m hoogte in Vlaanderen rond 4,0 m/s. Dit is dan ook de aangenomen waarde in de basisoplossing. Er wordt in deze analyse uitgegaan van een terrein met energie-index 0,73. De energiecoëfficiënt van een windmolen bepaalt hoeveel van de opgevangen windenergie er ook effectief wordt geconverteerd naar bruikbare energie (energie-efficiëntie). Er is nog geen grondig onderzoek gedaan naar de energie-efficiëntie van kleine windturbines. Wel weten we dat het theoretisch maximale rendement 59,3% bedraagt (Lam, 2006). In deze basisoplossing werd geopteerd voor een waarde van 25%. De luchtdichtheid in Vlaanderen kan het best worden benaderd door 1,293 kg/m³. Ten slotte wordt uitgegaan van een cut-in windsnelheid van 2,5 m/s en een cut-out windsnelheid van 12,5 m/s.
+
+Vergelijking 2 wordt gecombineerd met een gemiddelde windsnelheid (Vmean ) van 4 m/s. Vervolgens wordt deze vergelijking vermenigvuldigd met 8760 uren, wat ons brengt bij vergelijking 3. Deze berekeningen leveren onderstaande cumulatieve frequentie verdeling op.
+
+
+Windsnelheid (m/s)
+
+Figuur 13: Weibull-verdeling (Vmean = 4 m/s)
+
+Deze resultaten stellen ons in staat om de verdeling van de windsnelheid te bepalen door middel van windsnelheidintervallen. Dit brengt ons bij onderstaande grafiek.
+
+Verdeling van de windsnelheid
+
+
+
+Windsnelheid (m/s)
+
+Figuur 14: verdeling van de windsnelheid (Vmean = 4 m/s)
+
+Vervolgens wordt vergelijking [4] gebruikt om de energieoutput te bepalen voor verschillende windsnelheden. Indien deze resultaten worden uitgezet, rekeninghoudend met een cut-in windsnelheid en cut-out windsnelheid van respectievelijk 2,5 m/s en 12,5 m/s, bekomt men onderstaande grafiek.
+
+Figuur 15: turbine power output
+
+Ten slotte worden de gegevens van figuur 14 vermenigvuldigd met de gegevens van figuur 15. Dit levert volgende grafiek op.
+
+
+Figuur 16: energieopbrengst voor onze basisoplossing als functie van de windsnelheid (Vmean = 4 m/s)
+
+Indien de som van de verschillende energieopbrengsten per windsnelheidsinterval wordt gemaakt, bekomt men de totale jaarlijkse energieopbrengst van de windmolen in onze basisoplossing. Deze bedraagt 1217,45 kWh/jaar.
+Invloed van de gemiddelde windsnelheid op de jaarlijkse energieopbrengst
+
+De gemiddelde windsnelheid op 10 m ashoogte varieert in Vlaanderen tussen de 2,9 m/s en 6,2 m/s. Om te onderzoeken in welke mate deze variërende windsnelheid een invloed heeft op de energieopbrengst, laat men de windsnelheid telkens met 0,2 m/s toenemen. De resultaten van deze analyse worden in de grafiek hieronder weergegeven:
+
+Jaarlijkse energieopbrengst (kWh/jaar)
+
+Gemiddelde windsnelheid (m/s)
+
+Figuur 17: invloed van de gemiddelde windsnelheid op de jaarlijkse energieopbrengst
+
+Uit de resultaten blijkt dat de jaarlijkse energieopbrengst exponentieel toeneemt met de gemiddelde windsnelheid. Dit was te verwachten aangezien uit vergelijking [4] reeds af te leiden was dat het vermogen van een windturbine met een macht 3 toeneemt als de gemiddelde windsnelheid toeneemt. Dit heeft grote gevolgen voor de energieopbrengst van een kleine windmolen. Zo blijft de energieopbrengst voor lage windsnelheden lang onder de 1500 kWh/jaar. Eenmaal de windsnelheid richting de 5 m/s gaat, bedraagt de energieopbrengst al snel 2500 kWh/jaar. Een gemiddelde windsnelheid van 6 m/s levert een energieopbrengst op van om en bij de 4000 kWh/jaar. Een procentuele voorstelling van de resultaten levert onderstaande figuur op.
+
+Gemiddelde windsneleheid (m/s)
+
+Figuur 18: invloed van de gemiddelde windsnelheid op de jaarlijkse energieopbrengst (procentueel)
+
+Ook hier zien we dat hogere windsnelheden in verhouding zeer hoge energieopbrengsten leveren. Indien de windsnelheid ten opzichte van de basisoplossing met 1 m/s toeneemt, levert dit een energiewinst op van ongeveer 100%. Een extra toename van de windsnelheid van 1 m/s, levert 200% meer energie op ten opzichte van de basisoplossing. We kunnen concluderen dat de gemiddelde windsnelheid een enorme impact heeft op de energieopbrengst van een kleine windmolen. Dit impliceert dat de ligging en plaatsing van een kleine windmolen een cruciale rol spelen in de rendabiliteit van het project.
+
+Invloed van het terrein op de jaarlijkse energieopbrengst
+
+We onderzoeken in welke mate het terrein een invloed heeft op de energieopbrengst van een windmolen door middel van de energie-index uit figuur 12. We vertrekken bij deze analyse opnieuw van de basisoplossing. De resultaten worden weergegeven in onderstaande grafiek.
+
+Figuur 19: invloed van het terrein op de jaarlijkse energieopbrengst
+
+De resultaten tonen aan dat het terrein een grote invloed heeft op de energieopbrengst van een windmolen. Zo blijft er van de energieopbrengst van 1712 kWh/jaar uit de basisoplossing slechts 650 kWh/jaar over indien deze windmolen in een landbouwzone met sommige huizen en tot 8 meter hoge hagen met een minimumafstand van 500 meter wordt geplaatst met dezelfde theoretisch windsnelheid. Als deze windmolen in een grote stad met hoge gebouwen met dezelfde theoretische windsnelheid wordt geplaatst blijft er slecht 300 kWh/jaar over van de energieopbrengst. We stellen ook vast dat de energieopbrengst op een wateroppervlak of compleet open terrein met rustig oppervlak bijna 500 kWh/jaar hoger ligt dan in de basisoplossing. Opnieuw geldt dit enkel indien de theoretische windsnelheid hetzelfde is. Dit resultaat is echter weinig relevant omdat net op die terreinen wordt geopteerd voor grootschalige windenergie. Een procentuele voorstelling van de resultaten levert onderstaande figuur op.
+
+Figuur 20: invloed van het terrein op de jaarlijkse energieopbrengst (procentueel)
+
+Ook hier zien we weer dat een ander terrein al gauw een grote reductie van de energieopbrengst inhoudt. We kunnen uit de resultaten van figuur 19 en figuur 20 opnieuw concluderen dat de ligging en plaatsing van de windmolen een cruciale rol spelen in de rendabiliteit van het project.
+
+Invloed van de energiecoëfficiënt op de jaarlijkse energieopbrengst
+
+De energiecoëfficiënt geeft weer hoe efficiënt de windmolen ruwe windenergie converteert naar bruikbare energie. De energiecoëfficiënt staat dus voor de energie-efficiëntie van een windturbine. In de praktijk verandert de energiecoëfficiënt per windmolen naargelang de windsnelheid. Om de zaken overzichtelijk te houden, zal er in dit onderzoek worden gewerkt met één coëfficiënt ongeacht de windsnelheid. Deze waarde kan volgens Betz maximaal 59.26% bedragen (Milivojevic & Stamenkovic, 2010)
+
+Uit de literatuurstudie blijkt dat deze waarde schommelt tussen 15% en 30% naargelang de gebruikte windmolen en extra componenten. In de analyse verhogen we de energiecoëfficiënt echter tot 40%. Dit doen we voornamelijk met het oog op de toekomst. In de toekomst zou het door middel van technologische ontwikkelingen mogelijk moeten zijn om een hogere efficiëntie te halen. We hebben ook het theoretisch maximale rendement opgenomen in deze analyse. De resultaten van deze analyse vindt u terug in onderstaande figuur.
+
+Figuur 21: invloed van de energiecoëfficiënt op de jaarlijkse energieopbrengst
+
+De resultaten tonen duidelijk aan de impact van de energiecoëfficiënt op de jaarlijkse energieopbrengst niet te verwaarlozen valt. Een verhoging van de coëfficiënt met 5% levert al een extra 200 kWh/jaar aan energie op. Een verhoging met 15% verhoogt de energieopbrengst met 700 kWh/jaar ten opzichte van de basisoplossing. Indien we de efficiëntie van de windturbine kunnen opdrijven tot het theoretisch maximum, ligt de jaarlijkse energieopbrengst meer dan twee maal zo hoog als in de basisoplossing. Een procentuele voorstelling van de resultaten levert onderstaande figuur op.
+
+Figuur 22: invloed van de energiecoëfficiënt op de jaarlijkse energieopbrengst (procentueel)
+
+Deze resultaten tonen aan dat er nog veel ruimte voor verbetering is wat betreft de efficiëntie van windmolens. Zo zou een verbetering van de energiecoëfficiënt met 15% een energiewinst opleveren van 60%. We merken dus duidelijk dat verbeteringen in de efficiëntie van windturbines tot aanzienlijk betere resultaten kunnen leiden. Het kan dan ook opportuun zijn om deze potentiële groeimarge in de toekomst verder te onderzoeken.
+
+-Invloed van het rotoroppervlak op de jaarlijkse energieopbrengst
+
+In de basisoplossing zijn we uitgegaan van een rotoroppervlak van 7,07 m². Hier onderzoeken we de invloed van wijzigingen in deze parameter. We laten het rotoroppervlak variëren tussen 1 m² en 15 m². De resultaten zijn weergegeven in onderstaande grafiek.
+
+Figuur 23: invloed van de rotordiameter op de jaarlijkse energieopbrengst
+
+Uit figuur 23 blijkt dat de jaarlijkse energieopbrengst sterk afhankelijk is van het rotoroppervlak. Een windmolen met rotoroppervlak van 13,0 m² brengt al gauw 1000 kWh/jaar meer op dan een windmolen met een rotor van 7,07 m². We kunnen uit deze resultaten ook concluderen dat zeer kleine windmolens zeer lage energieopbrengsten zullen genereren. Het is maar de vraag of deze lage opbrengsten gecompenseerd kunnen worden met lagere aankoop- , installatie- en onderhoudskosten. Een procentuele benadering van deze gegevens levert volgende resultaten op.
+
+Figuur 24: invloed van de rotordiameter op de jaarlijkse energieopbrengst (procentueel)
+
+Deze resultaten geven nog duidelijker weer hoe sterk de jaarlijkse energieopbrengst daalt indien we opteren voor een windmolen met een kleiner rotoroppervlak. Uit figuur 23 en figuur 24 kunnen we concluderen dat de rotordiameter een aanzienlijke invloed heeft op de jaarlijkse energieopbrengst van een windmolen.
+
+Monte Carlo analyse
+
+Via een Monte Carlo analyse is het mogelijk om al de parameters tegelijkertijd te laten variëren tussen bepaalde waarden. Op deze manier kunnen we controleren welke impact een wijziging in bepaalde parameters zal hebben op de rendabiliteit van het hele systeem. We passen de Monte-Carlosimulatie enkel toe op het basisscenario.
+
+Waarden parameters
+
+Voor de Monte Carlo analyse gebruiken we alle parameters die werden onderzocht in voorgaande analyses. Het bleek reeds dat elk van deze parameters een aanzienlijke invloed heeft op de energieopbrengst van een kleine windturbine. Voor elke parameter gaan we uit van een triangulaire verdeling, en dienen we een minimumwaarde, een maximumwaarde en een meest waarschijnlijke waarde op te geven. De meest waarschijnlijke waardes komen overeen met de waardes uit de basisoplossing. De minima en maxima zijn dezelfde als deze uit de voorgaande analyses. Enkel bij de energiecoëfficiënt nemen we als maximum 0,4 en niet het theoretisch maximum (0,5926). Deze waarde is onrealistisch in de praktijk. Met de parameter windsnelheid doelen we hier op de theoretische windsnelheid aangezien ook de energie-index is opgenomen.
+
+
+Windsnelheid (m/s)
+Energie-index (terrein)
+Rotoroppervlak (m²)
+Energiecoëfficiënt
+Figuur 25: overzicht parameters
+
+Resultaten			
+Figuur 26 geeft de bijdrage aan de variantie (van de jaarlijkse energieopbrengst) van de verschillende parameters. De windsnelheid en rotoroppervlak hebben de grootste invloed op de energieopbrengst van een kleine windturbine met bijdrages van respectievelijk 42,9% en 30,8% aan de variantie. Het terrein bepaalt 19,3% van de variantie en de energiecoëfficiënt 7%.
+
+Parameter Bijdrage aan variantie Windsnelheid
+Rotoroppervlak
+Terrein
+Energiecoëfficiënt
+
+Figuur 26: overzicht bijdrages aan variantieSensitiviteitsanalyse
+
+In de sensitiviteitsanalyse wordt de gevoeligheid van de basisoplossing voor veranderingen in de waarden van de parameters onderzocht (Mercken, 2004). De vraag hierbij is: wat is het effect van de verandering van één bepaalde parameter op de energieopbrengst, terwijl de andere parameters constant blijven. De parameters die worden onderzocht zijn: de gemiddelde windsnelheid, het terrein waarop de windmolen staat, de energiecoëfficiënt en het rotoroppervlak. Om de invloed van wijzigingen in deze parameters te analyseren, werd er eerst een wiskundig model opgebouwd.
+
+De jaarlijkse energieopbrengst van een kleine windmolen: een wiskundig model
+
+Berekening van windsnelheidsintervallen
+De kans, F(V), dat de windsnelheid groter is dan een bepaalde waarde, V, wordt gegeven door volgende formule (Stannard & Bumby, 2006).
+Waarbij: V = windsnelheid (m/s)
+
+C = schaalfactor n = vormfactor
+
+Voor een vlak terrein in West-Europa gebruikt men een vormfactor met waarde 2. Dit impliceert volgende vergelijking (Stannard & Bumby, 2006).
+
+
+Waarbij:
+Vmean = de gemiddelde jaarlijkse windsnelheid
+
+Als vergelijking 2 vermenigvuldigd wordt met het aantal uren in een jaar (8760 uren), bekomt men het aantal uren dat de windsnelheid hoger ligt dan een bepaalde waarde V (Naci Celik, 2002). Dit brengt ons bij onderstaande vergelijking.
+
+Men laat V variëren van 0 tot 20 met stappen van 0,5 en men berekent telkens het overeenkomstig aantal uren. Nu kent men voor elke waarde V het aantal uren dat de wind minstens deze snelheid had. Dit aantal uren krijgt telkens een code toegewezen (A0 A40). Dit brengt ons bij volgend overzicht.
+
+Vervolgens worden er 20 windsnelheidsintervallen gevormd. Elk interval krijgt een code toegewezen beginnend bij “V=0” en eindigend met “V=20”. De eerste 3 intervallen ( V=0; V=1; V=2) vallen weg aangezien de cut-in windspeed in ons model 2,5 m/s bedraagt.
+
+Men berekent nu per interval hoeveel uren de windsnelheid binnen dit interval valt. Dit vergt volgende berekening: Windsnelheidsinterval (V = 3) Aantal uren = A5 – A7 Windsnelheidsinterval (V = 4) Aantal uren = A7 – A9
+
+
+Windsnelheidsinterval (V = 19) Aantal uren = A37 – A39 Windsnelheidsinterval (V = 20) Aantal uren = A39 – A40
+	
+Men kent per interval een code toe aan zowel de windsnelheid als het aantal uren per jaar. Dit doen we om duidelijkheid te scheppen in latere berekeningen. Dit brengt ons bij volgend overzicht (voorbeeld):
+
+
+Berekening van het vermogen
+
+Het is reeds gekend dat de energieopbrengst van een windturbine kan worden bepaald aan de hand van onderstaande formule.
+
+Berekening van de jaarlijkse energieopbrengst
+
+Om de energieopbrengst voor elk windsnelheidsinterval te berekenen, wordt formule [4] gebruikt. De parameters Cp, ρ, E en D zijn voor elk interval gelijk. De windsnelheid verschilt echter per interval.
+
+Windsnelheidsinterval (V = 3) V = V3 Windsnelheidsinterval (V = 4) V = V4
+
+
+Windsnelheidsinterval (V = 19) V = V19 Windsnelheidsinterval (V = 20) V = V20
+
+Indien formule 4 voor elk interval oplost wordt, bekomt men het vermogen voor elk van deze intervallen. Elk vermogen krijgt een code (P3 P20). Men bekomt zo onderstaand overzicht.
+
+Merk op dat het vermogen constant blijft vanaf P13 tot en met P20. Dit is te wijten aan het feit dat er in dit model wordt gewerkt met een cut-out windsnelheid van 12,5 m/s.
+
+In de volgende stap wordt per interval het vermogen met het aantal uren dat de windsnelheid binnen dit interval valt vermenigvuldigd. Concreet betekent dit:
+
+Windsnelheidsinterval (V = 3) energieopbrengst = P3 x B3 Windsnelheidsinterval (V = 4) energieopbrengst = P4 x B4
+
+Windsnelheidsinterval (V = 19) energieopbrengst = P19 x B19 Windsnelheidsinterval (V = 20) energieopbrengst = P20 x B20 Dit brengt ons bij volgend overzicht (voorbeeld):
+V (m/s) V Energy yield (kWh/yr) Y
+
+
+Om de jaarlijkse energieopbrengst ten slotte te berekenen rest ons nog het optellen van de verschillende energieopbrengsten per windsnelheidsinterval. Concreet betekent dit.
+
+Aangezien er geen windgegevens bestaan voor elke locatie in Vlaanderen, is men genoodzaakt te werken met windkaarten. Hierop kan men de gemiddelde windsnelheid voor bepaalde gebieden aflezen. Deze windsnelheden gelden voor een bepaald gebied en zijn gebaseerd op resultaten afkomstig van KMI-stations. We noemen dit de theoretische windsnelheid. Binnen zo een gebied kan plaatselijk de windsnelheid nog sterk afwijken onder invloed van het terrein. De theoretische windsnelheid houdt hier echter geen rekening mee.
+
+Om de invloed van het terrein op de jaarlijkse energieopbrengst te bepalen, wordt er in dit onderzoek gebruik gemaakt van Ruwheidsklassen.
+
+Ruwheidsklassen koppelen een bepaald terreintype aan een procentuele energie-index (Troen & Petersen, 1989).
+
+Figuur 12: overzicht ruwheidsklasses en overeenkomstige energie-index en landschapsstijl
+
+In eerdere formules werd uitgegaan van een vlak terrein in West-Europa. Deze assumptie sluit nauw aan bij ruwheidsklasse 0,5 en energie-index 73%. Hierop is dan ook volgende formule gebaseerd.
+
+Waarbij:
+E = Energie-index (0 ≤ E ≤ 1)
+
+Als men de exacte windsnelheid op de locatie waar de windturbine staat (of komt te staan) kent, vult men deze windsnelheid in (V). Vervolgens vult men als energie-index de waarde 0,73 in. Hierdoor valt de extra parameter voor het terrein gewoon weer weg.
+
+Als men de exacte windsnelheid op de locatie waar de windturbine staat (of komt te staan) niet kent, vult men de theoretische windsnelheid in (V). Vervolgens vult men als energie-index de waarde in die correspondeert met de locatie waar de windturbine staat ( of komt te staan).
+
+Conclusie omtrent wiskundig model
+
+Voorgaand model bevat alle parameters die nodig zijn om onze sensitiviteitsanalyse uit te voeren. Om niet omslachtig te werk te gaan is dit model uitgewerkt in een Excel bestand. Dit bestand stelt ons in staat om snel, efficiënt en nauwkeurig de jaarlijkse energieopbrengst te berekenen op basis van de relevante parameters. Een afdruk van dit Excel bestand kan u terugvinden in bijlage.
+
+Hoofdstuk 5: De energieopbrengst van kleine windturbines: een vergelijkende studie
+
+In hoofdstuk 4 werd getracht op basis van een theoretisch model de jaarlijkse energieopbrengst van kleine windturbines te bepalen. In hoofdstuk 5 worden deze resultaten vergeleken met praktijkresultaten. Deze vergelijking stelt ons in staat een beter beeld te vormen van de energie-efficiëntie (energiecoëfficiënt) van kleine windturbines. In dit hoofdstuk onderzoeken we ook of we de patronen uit hoofdstuk 4 in de praktijk terugvinden. Ten slotte worden de resultaten uit de praktijk vergeleken met wat er door de producent/fabrikant beloofd wordt.
+
+De verschillende projecten
+
+Momenteel lopen er in Europa drie projecten waarin kleine windmolens in de praktijk worden getest. De opbrengstresultaten van de verschillende projecten zijn terug te vinden in bijlage.
+
+Testveld kleine windturbines: Nederland
+
+De resultaten van dit project zijn verzameld op één testveld in West-Nederland. Dit terrein bevindt zich in Schoondijke (provincie Zeeland). In figuur 27 wordt deze testlocatie illustratief weergegeven. Dit onderzoek is tot stand gekomen door middel van een samenwerking tussen DELTA N.V., de provincie Zeeland, de gemeente Sluis, Zeeuwind en Greenlab. Het testveld is een braakliggend industrieterrein waar elf kleine windturbines staan opgesteld. Gedurende 31 maanden zijn van deze windmolens gegevens omtrent opbrengst en windsnelheid verzameld. De informatie van dit testveld werd vergaard uit het rapport 1ste Evaluatie meetresultaten testveld kleine windturbines Zeeland. Dit rapport is terug te vinden op de website van dit project.
+
+Figuur 27: locatie testveld Zeeland
+
+Testveld kleine windturbines: Groot-Brittannië
+
+Dit project liep tussen 2006 en 2008 en werd geleid en gecoördineerd door Encraft, een onafhankelijk ingenieursbureau dat zich gespecialiseerd heeft in decentrale energieopwekking. De resultaten van het project in Groot-Brittannië zijn verzameld op verschillende locaties in Engeland. De meeste windmolens staan in en rond Warwick. Er werden 30 kleine windmolens op 27 verschillende plaatsen opgesteld. Omgeving en terrein verschillen per locatie fel van elkaar. Slechts tien van deze windmolens hebben bruikbare resultaten opgeleverd. In figuur 28 worden de tien sites met bruikbare resultaten illustratief weergegeven. Merk op dat enkele van deze testlocaties samenvallen. De tijdspanne waarover de verschillende metingen zijn gebeurd verschilt per turbine. De informatie omtrent dit testveld werd vergaard uit het rapport Final report. Dit verslag is terug te vinden op de website van het project.
+
+Figuur 28: locaties testveld Groot-Brittannië
+
+Testveld kleine windturbines: België
+
+Het testveld in België bevindt zich in Oostende en is een initiatief van het energiekennisplatform Power-Link, een gezamenlijk initiatief van AG Haven Oostende en de Universiteit Gent. Ze zijn gehuisvest op het wetenschapspark Greenbridge in de Oostendse achterhaven. Power-Link geniet financiële steun van West-Vlaanderen, Vlaanderen en Europa. Er worden vier verschillende kleine windmolens getest. Dit project is uiterst interessant omdat de omstandigheden waarin de windmolens worden getest zeer nauw aansluiten bij de algemene omstandigheden in en rond de kuststreek. Het onderzoek is tevens het meest recente van de drie. Op figuur 29 wordt de plaats van het testveld illustratief weergegeven. De informatie omtrent dit testveld werd vergaard op de website van dit project (http://www.power-link.ugent.be/nl/kleine-windturbines).
+
+Figuur 29: locatie testveld Oostende
+
+Opsomming van de verschillende types windmolens
+
+In het kader van dit onderzoek is geopteerd om de namen van producten en types van windmolens niet te vermelden. Dit onderzoek heeft namelijk niet als doel om de verschillende types en leveranciers met elkaar te vergelijken. We wensen wel een duidelijk beeld te vormen van de huidige stand van zaken betreffende de verschillende windmolens die momenteel hier op de markt verkrijgbaar zijn.
+
+In figuur 30 wordt een schematisch overzicht gegeven van de verschillende geteste modellen en hun relevante specificaties. De relevante gegevens zijn verzameld aan de hand van de brochures en websites van leveranciers. Naast de rotordiameter is ook het rotoroppervlak weergegeven. Dit doen we omdat er bij VAWT‟s, in tegenstelling tot HAWT‟s, geen consistent verband bestaat tussen de rotordiameter en de oppervlakte waardoor de wind beweegt. Dit verband hangt af van het ontwerp van de rotors. Verder wordt aangegeven waar het model getest is. Modellen C en O kunnen, gezien hun specifieke ontwerp, tot geen van beide types gerekend worden. Voor deze modellen gelden dezelfde regels als de VAWT‟s omdat er geen vaste relatie heerst tussen de rotordiameter en de energieopbrengst. De gegevens zijn samengevat in onderstaande tabel.
+
+Model TypeRotordiameter (m) Rotoroppervlak (m²) Zeeland Groot-Br. België
+
+Figuur 30: overzicht kleine windturbines
+
+Voorgaande tabel bevat informatie over 17 verschillende types van kleine windmolens. Uit deze opsomming kunnen we enkele conclusies trekken over het aanbod van kleine windturbines: de meeste kleine windmolens maken gebruik van een horizontale as (HAWT); onder de verschillende modellen bestaat een grote variatie wat betreft rotoroppervlakte
+
+De energie-efficiëntie
+
+In hoofdstuk 4 werd een wiskundig model opgebouwd dat ons in staat stelt de jaarlijkse energieopbrengst van een kleine windmolen te voorspellen aan de hand van een aantal parameters. Dit model stelt ons ook in staat om een specifieke parameter te schatten, indien al de andere parameters en de jaarlijkse energieopbrengst bekend zijn.
+
+Het is niet de bedoeling dat het wiskundig model uit hoofdstuk 4 hier volledig zal worden herhaald. Er zal om deze reden dan ook alleen aandacht worden geschonken aan de berekeningen die niet analoog verlopen. Het bleek reeds dat het vermogen van een turbine op een bepaalde plaats kan worden berekend aan de hand van formule 4.
+
+Vervolgens werd dit vermogen berekend voor elk windsnelheidsinterval en vermenigvuldigd met het aantal uren dat de windsnelheid binnen dit interval viel. Ten slotte werden deze uitkomsten gesommeerd en gekoppeld aan een bepaald terrein.
+
+Bij de testresultaten uit Zeeland is de jaarlijkse energieopbrengst gekend en zijn we op zoek naar de waarde van de parameter “Cp”, de energie-efficiënte. Omdat deze parameter voor alle intervallen hetzelfde is, kan deze volgens de regels van distributiviteit naar buiten worden gebracht. Dit impliceert dat: we eerst het vermogen voor elk interval berekenen zonder rekening te houden met de energie-efficiënte. We gaan er anders gezegd vanuit dat de energie-efficiëntie gelijk is aan 100%; vervolgens vermenigvuldigen we deze vermogens met het aantal uren en worden ze gesommeerd. Dit brengt ons bij een (voorlopige) jaarlijkse energieopbrengst die uitgaat van een perfecte efficiëntie; ten slotte vermenigvuldigen we deze jaarlijkse energieopbrengst met de energie-efficiëntie.
+
+Indien we deze modificatie toepassen, stelt dit ons in staat om op een eenvoudige manier de energie-efficiëntie bij een bepaalde winsnelheid van een geteste windmolen te berekenen. Dit doen we als volgt: we geven de parameters die corresponderen met de specifieke windmolen in de formule in en gaan uit van een energie-efficiëntie van 25%; Hiermee berekenen we de verwachte jaarlijkse energieopbrengst; we vergelijken de verwachte jaarlijkse energieopbrengst met de gemeten energieopbrengst; De verhouding van deze twee bepaalt onze werkelijke energie-efficiëntie. 
+
+Hieronder een kort voorbeeld:
+verwachte Jaarlijkse energieopbrengst (Cp = 25%) = 1000 kWh/jaar gemeten jaarlijkse energieopbrengst (Cp = ?) = 800 kWh/jaar
+
+Aan de hand van deze methode hebben we voor de in Zeeland geteste types de energie-efficiëntie bij een bepaalde gemiddelde windsnelheid berekend. Deze resultaten zijn samengevat in onderstaande grafiek.
+
+
+Figuur 31: energie-efficiëntie voor kleine windmolens getest in Nederland
+
+Figuur 31 geeft voor elk model de behaalde energie-efficiëntie voor de 3 testjaren weer. Let wel op dat deze waardes enkel gelden voor de gemiddelde windsnelheid gemeten tijdens jaar 1, jaar 2 en jaar 3. Deze windsnelheden schommelen wel rond 4,0 m/s. In Vlaanderen (de kuststreek buiten beschouwing gelaten) schommelt de windsnelheid ook rond 4,0 m/s. We kunnen dus stellen dat de waardes van de energie-efficiëntie uit figuur 31 in vele gevallen toepasbaar zijn wanneer men werkt met kleine windmolens in Vlaanderen. Bovenop de staven staat de rotordiameter vermeld.
+
+In onderstaande grafiek worden de berekende energie-efficiënties van alle modellen op alle testvelden in kaart gebracht.
+
+
+HAWT's getest in UK
+
+HAWT's getest in Nederland (jaar 1) HAWT's getest in Nederland (jaar 2) HAWT's getest in Nederland (jaar 3) VAWT's getest in Nederland (jaar 1) VAWT's getest in Nederland (jaar 2) VAWT's getest in Nederland (jaar 3) VAWT's getest in België
+
+HAWT' getest in België
+
+Figuur 32: relatie tussen windsnelheid en energie-efficiëntie
+
+Uit figuur 32 kunnen we niet afleiden of er een duidelijk verband bestaat tussen de windsnelheid en de energie-efficiëntie van kleine windturbines. Dit verband werd in eerder onderzoek wel opgemerkt. In een onderzoek naar de verbetering van de efficiëntie van kleine windmolens uitgevoerd aan de universiteit van Valladolid werd er een verband tussen de windsnelheid en de energie-efficiëntie gevonden. (Martínez Rodrigo, Herrero de Lucas, Santiago de Pablo Gómez, González de la Fuente, z.d.). Er werden drie kleine windmolens onderzocht. Deze bereikten hun hoogste energie-efficiëntie bij een windsnelheid van respectievelijk 8,0 m/s, 8,0 m/s en 5,0 m/s.
+
+Wel opvallend is het verschil in energie-efficiëntie tussen de windmolens met een verticale as en deze met een horizontale as. De geteste VAWT‟s scoren aanzienlijk lager dan de geteste HAWT‟s. Opnieuw beschikken we hier voorlopig over te weinig gegevens om deze resultaten te veralgemenen.
+5.4 Vergelijkend onderzoek
+
+In deze sectie onderzoeken we of we in de praktijk dezelfde patronen terugvinden als in de sensitiviteitsanalyse van hoofdstuk 4. We zijn hier echter niet in staat om alle parameters te onderzoeken. Hiervoor zijn de gegevens uit de praktijk te beperkt. We onderzoeken hier dan ook enkel de invloed van de rotordiameter op de energieopbrengst van een kleine windturbine in de praktijk.
+
+5.4.1 Rotordiameter
+
+Om de invloed van de rotordiameter op de energieopbrengst in de praktijk na te gaan maken we gebruik van de resultaten van het testveld in Nederland omdat deze gegevens hierover de meeste informatie bevatten (figuur 33). We gebruiken enkel de resultaten van de windturbines met een horizontale as omdat er enkel bij dit type een vast verband bestaat tussen de twee parameters. Dit werd eerder toegelicht in hoofdstuk 4.
+
+
+Figuur 33: jaarlijkse energieopbrengst testveld kleine windturbines: Nederland
+
+Voor deze analyse maken we gebruik van het statistisch computerprogramma „SPSS„. In hoofdstuk 4 stelden we vast dat in de theorie de energieopbrengst van een windmolen tot de macht 2 toeneemt als de diameter van de rotor toeneemt. In SPSS zit een standaardfunctie om een kwadratische analyse uit te voeren. We bekomen dan echter een model van de vorm: Y= aX+bX². Dit is niet wat we zoeken. We gaan daarom als volgt te werk: We willen aantonen dat er een kwadratisch verband heerst tussen de rotordiameter en de energieopbrengst. Dit komt tevens neer op een lineair verband tussen het kwadraat van de rotordiameter en de energieopbrengst. In SPSS voeren we dan ook een lineaire regressie uit met als parameters het kwadraat van de rotordiameters en de energieopbrengst. De resultaten worden hieronder weergegeven.
+
+
+
+De resultaten tonen aan dat er een significant lineair verband bestaat tussen het kwadraat van de rotordiameter en de energieopbrengst (R Square = 0,94 en Sig = 0.000). Dit impliceert een kwadratisch verband tussen de rotordiameter en de energieopbrengst van een kleine windturbine.
+
+5.5 Vergelijking met geschatte resultaten volgens fabrikant/leverancier
+In deze rubriek worden de resultaten uit de praktijk vergeleken met deze die worden beloofd door de fabrikant/leverancier. Op deze manier wordt er getracht duidelijkheid te scheppen over wat de consument mag verwachten bij de aankoop van een kleine windmolen.
+
+We vergelijken de resultaten bekomen op het testveld te Zeeland met de resultaten die we terugvinden op de websites en brochures aangeboden door de producenten/fabrikanten van de geteste types. De resultaten hiervan vinden we terug in onderstaande grafiek, waarbij de waarde bovenop de staven aangeeft in welke mate de windmolens op het testveld erin slagen de verwachte jaarlijkse energieopbrengst (volgens de leveranciers/fabrikanten) te bereiken.
+
+
+
+Figuur 34: vergelijking tussen effectieve en verwachte jaarlijkse energieopbrengst
+
+In eerste instantie valt op te merken dat we de resultaten bij een windsnelheid van 3,817 m/s moeten vergelijken met de resultaten van de producenten bij een windsnelheid van 4 m/s. Dit om de simpele reden dat de producten vaak nogal beperkte informatie aanbieden waarbij enkel de jaarlijkse energieopbrengst is gegeven voor enkele windsnelheden. Ondanks deze discrepantie kunnen we uit figuur 34 besluiten dat de verwachte jaarlijkse energieopbrengst positiever wordt voorgesteld door de leverancier/fabrikant dan de werkelijkheid. Er is slechts één turbine die er in slaagt de verwachte jaarlijkse energieopbrengst te behalen, namelijk model G. Model E en D weten ook nog een respectabele score op te tekenen, met respectievelijk 88% en 77%. De andere modellen behalen een score tussen de 65% en 25% en voldoen dus zeker niet aan de verwachtingen. Het is wel belangrijk steeds in het achterhoofd te houden dat hier de resultaten van één enkel testveld in rekening werden gebracht en de conclusies dus niet kunnen veralgemeend worden. Toch is de trend zeer opvallend en kunnen we dit niet onopgemerkt laten. Een groot aantal fabrikanten/leveranciers lijkt te pretenderen dat de kleine windmolens betere prestaties kunnen afleveren dan ze in werkelijkheid doen. Er wordt dan ook gepleit voor een internationale standaardmethode om de vermogenscurven van kleine windturbines op te stellen en ter kennis te brengen (Desanghere, 2010). Zulke standaard methode bestaat reeds (IEC61400). Deze methode zit vervat in Wind turbines - Part 21: Measurement and assessment of power quality characteristics of grid connected wind turbines. Men verzuimt echter deze methode nauwgezet toe te passen. Indien dit wel zou gebeuren, stelt dit de consument in staat om de verschillende modellen beter met elkaar te vergelijken.
+
+Hoofdstuk 6: De kosten en baten van kleinschalige windenergie
+
+In hoofdstuk 4 en 5 werd de energieopbrengst van kleine windturbines onderzocht. In dit hoofdstuk gaan we op zoek naar de kosten en baten van kleine windturbines. De baten zijn grotendeels afhankelijk van de energieopbrengst van de turbine. Hier gebeurt dan ook een koppeling met hoofdstuk 4 en 5. Dit hoofdstuk wil voornamelijk een beeld schetsen van wat de aanschaf van een kleine windturbine met zich meebrengt. Hierbij gaan we niet dieper in op het monetaire aspect. Dit is pas aan de orde in hoofdstuk 7.
+
+De kosten van kleinschalige windenergie
+
+De kosten van een kleine windturbine kunnen we opdelen in twee grote groepen met enerzijds de investeringskosten en anderzijds de periodieke kosten.
+
+Investeringskosten
+
+Onder investeringskosten verstaan we de volledige aankoop en installatie van de windmolen. Hierbij komen eventueel nog extra kosten voor beveiliging, monitoring en eventuele ondersteunende constructies. De investeringskost verschilt uiteraard per type windturbine, maar kan ook verschillen binnen een bepaald type. Dit komt doordat de installatiekosten zeer afhankelijk zijn van de locatie. Zo bepaalt de locatie het type fundering, mast, lengte van de bedrading en eventueel nog andere bijkomende kosten. Een locatieonderzoek, voorafgaand aan een eventuele aankoop, wordt dan ook door de meeste leveranciers aangeraden.
+
+Periodieke kosten
+
+Onder de periodieke kosten verstaan we in de eerste plaats de onderhoudskosten. Hierbij komen echter nog de revisiekosten. Ook kosten met betrekking tot vervanging van onderdelen vallen onder periodieke kosten. Volgens de leveranciers en fabrikanten zou een kleine windturbine zo goed als geen onderhoud vragen.
+
+De baten van kleinschalige windenergie
+
+Kostenbesparing door eigen verbruik
+
+De kostenbesparing door eigen verbruik wordt beschreven in het rapport Elektriciteit door windturbines – op maat van land- en tuinbouwbedrijven. De eigenaar van een windturbine is in staat om op locatie de windstroom te benutten. Dit levert een directe kostenbesparing op. De actuele tarieven van stroom bepalen de hoogte van de kostenbesparing. Deze tarieven variëren doorheen de tijd en per leverancier.
+
+Levering aan het net
+
+Stroom die de eigenaar zelf niet verbruikt, wordt op het distributienet geïnjecteerd. De grootte van het systeem bepaalt de manier waarop dit gebeurt. Indien de omvormer een vermogen heeft dat kleiner is dan 10 kW, wordt er gebruik gemaakt van een teller die achteruit loopt. Dit zorgt ervoor dat de meterstand op het einde van het jaar aanzienlijk lager staat. Dit impliceert een vermindering van de elektriciteitsfactuur. Wanneer het vermogen van de omvormer groter is dan 10 kW, wordt er een extra teller geïnstalleerd. Deze meet hoeveel elektriciteit je op het net plaatst. Deze energie moet men aan een energieleverancier verkopen. Deze tweede optie is in dit onderzoek minder relevant omdat kleine windturbines normaal gesproken een vermogen van 10 kW niet bereiken. Dit principe wordt toegelicht in het rapport Elektriciteit door windturbines – op maat van land- en tuinbouwbedrijven.
+
+Steunmaatregelen
+
+Groenestroomcertificaten
+
+Volgens de Technologie-fiche Windenergie voor bedrijven verkrijgt iedereen, die netto 1.000 kWh groene stroom uit erkende hernieuwbare energiebronnen (zon, wind, water, biomassa …) opwekt, in Vlaanderen een groenestroomcertificaat (GSC). Zowel de energie die men zelf gebruikt als de energie die men terug op het net zet worden meegeteld. De certificaten worden uitgereikt door het VREG. De prijzen voor deze certificaten zijn terug te vinden op het internet (http://www.energiesparen.be/). Voor windturbines, aangesloten op het elektriciteitsnet (en niet op het transportnetwerk), bedraagt de wettelijke minimumwaarde voor een groenestroomcertificaat € 90 per GSC. Deze minimumwaarde wordt gegarandeerd voor 10 jaar. Groenestroomcertificaten kunnen ook worden verhandeld op de certificatenmarkt tegen een prijs waarover men zelf onderhandelt. Indien er een tekort aan groenestroomcertificaten heerst, moeten de leveranciers een boete betalen van €125 euro per ontbrekend certificaat. Bij een schaarste aan certificaten zal de marktwaarde naar de waarde van de boete (€125) evolueren. Bij een voldoende groot aanbod daalt de prijs van de groenestroomcertificaten.
+
+Investeringsteun voor land- en tuinbouw en para-agrarische bedrijven
+
+Land- en tuinbouw en para-agrarische bedrijven maken aanspraak op de VLIF-steun. Particulieren komen dus niet in aanmerking voor deze steunmaatregel. Er worden echter wel enkele voorwaarden gesteld: de aanvrager is een landbouwer; de aanvrager of mandatarissen van de vennootschap zijn vakbekwaam het bedrijf heeft een minimale bedrijfsomvang; het bedrijf is in regel met alle nodige bouw- en milieuvergunningen voldoet aan de wettelijke normen inzake hygiëne en dierenwelzijn; voert een bedrijfseconomische boekhouding, een dubbele boekhouding; (handelsvennootschappen) of een bewijskrachtige fiscale boekhouding met systematische registratie van bedrijfsgegevens die toelaat een gepast bedrijfsbeheer te voeren; privé-investeringen worden niet gesubsidieerd; het minimum investeringsbedrag is 15.000 euro (exclusief BTW). Dit bedrag kan betrekking hebben of één of meerdere investeringen.
+
+Voor land- en tuinbouwbedrijven bedraagt deze steun 28% van de investering. Para-agrarische bedrijven kunnen rekenen op een steun van 10% van de investering.Wettelijk kader
+
+Bij het plaatsen van (kleine) windmolens moet de omgevingskwaliteit zoveel mogelijk gevrijwaard worden. Er moet bij de zoektocht naar geschikte locaties een afweging gemaakt worden ten aanzien van inpassing in landschap, veiligheids- en natuuraspecten. Het is dan ook niet de bedoeling van de Vlaamse overheid om windturbines op een wilde, ongeordende manier in te planten in Vlaanderen. Er wordt gestreefd naar een gecoördineerde aanpak. Deze aanpak steunt op elementen van ruimtelijke afweging en andere ecologische en economische randvoorwaarden (Ministerie van de Vlaamse gemeenschap, 2005).
+
+Het kader voor de inplanting van windturbines in Vlaanderen werd door de Vlaamse regering voor het eerst vastgelegd in de omzendbrief EME/2000.01 van 17 juli 2000, Afwegingskader en randvoorwaarden voor de inplanting van windturbines. Vervolgens werd in 2006 de omzendbrief EME/2006/01-RO/2006/02, Afwegingskader en randvoorwaarden voor de inplanting van windturbines uitgebracht. Dit document hief de eerdere omzendbrief volledig op. De twee voorgaande omzendbrieven spitsten zich toe op grootschalige windenergie. Als gevolg van de introductie van kleinschalige windenergie werd besloten hieromtrent een apart kader te creëren. Deze regelgeving werd vastgelegd in Omzendbrief LNE/2009/01 – RO/2009/01 Beoordelingskader voor de inplanting van kleine en middelgrote windturbines. Het is dan ook deze omzendbrief waar in dit onderzoek dieper op ingegaan zal worden.
+
+De richtlijnen die we terugvinden in de omzendbrief zijn echter van niet-bindende aard. Dit maakt dat de gemeenten vrij zijn hun eigen beleid te voeren, op voorwaarde dat ze de stedenbouwkundige richtlijnen van de provincie respecteren. De richtlijnen dienen ter ondersteuning bij het beoordelen van vergunningsaanvragen of het ontwikkelen van een beleidsvisie inzake lokale ruimtelijke ontwikkeling. Er moet niet alleen gelet worden op de bestaande situatie, maar ook op toekomstige ontwikkelingen. Heel wat gemeenten staan weigerachtig tegenover kleinschalige projecten omdat de molen met slagschaduw en geluidshinder overlast kan vormen. Ook willen de gemeentebesturen een wildgroei aan mini-windmolens op daken vermijden. De Vlaamse overheid raadt sowieso windmolens in woonomgevingen af (Van Evercooren, 2009).
+
+Er heerst een hoge diversiteit in hoogte, vormgeving en/of vermogen onder de verschillende windturbines. Om deze reden maakt de Omzendbrief LNE/2009/01 – RO/2009/01 een onderverdeling.
+
+Kleine windturbines
+
+Turbines binnen deze categorie hebben een ashoogte van maximaal 15 meter. De ashoogte dient steeds gemeten te worden vanaf de voet van de turbine. Indien de windturbine op de grond wordt geplaatst betekent dit dus vanaf het maaiveld. Wanneer de turbine op een gebouw wordt geplaatst, dient gemeten te worden vanaf het dak. Voor verticale as turbines is de ashoogte gelijk aan de lengte van de as. Bij kleine windturbines is een stedenbouwkundige vergunningsaanvraag vereist. Deze aanvragen worden beoordeeld door de gemeentelijke stedenbouwkundige ambtenaar.
+
+Middelgrote windturbines
+
+Onder deze categorie vallen de windturbines met een ashoogte van meer dan 15 meter met een maximaal vermogen van 300 kW. Ook hier is een stedenbouwkundige vergunningsaanvraag vereist. De beoordeling ervan gebeurt echter door de gewestelijke stedenbouwkundige ambtenaar. Naast een vergunningsaanvraag moet ook een beperkte lokalisatienota opgemaakt en ingediend worden.
+
+Grote windturbines
+
+Windturbines met een vermogen groter dan 300 kW vallen onder deze categorie. Voor de inplanting van grote windturbines dient naast een stedenbouwkundige vergunning ook een milieuvergunning uitgereikt te worden. Er kan hier enkel een vergunning verkregen worden indien er een volledige lokalisatienota wordt opgemaakt. De vergunningsaanvraag passeert hier niet alleen langs het Vlaams Gewest maar ook langs de Bestendige deputatie van de provincie.
+
+Binnen het kader van dit onderzoek concentreren we ons op de richtlijnen toepasbaar op de kleine windturbines. Deze richtlijnen kunnen opgesplitst worden in vier beoordelingscriteria. Deze criteria zijn: de wijze waarop de turbine(s) ruimtelijk geïntegreerd is (zijn) in de omgeving (afhankelijk van de karakteristieken van de omgeving) het geluid: akoestisch hinderelement; de slagschaduw; de veiligheid.
+
+Integratie binnen de ruimtelijke omgeving.
+
+Er wordt gesteld dat kleine windturbines door hun schaal een veel beperktere impact op hun omgeving hebben. Dit zowel op het vlak van ruimtelijke effecten, als op het vlak van milieueffecten als slagschaduw, geluidshinder en dergelijke. Dit heeft als gevolg dat kleine windturbines vaak in de directe leefomgeving worden geplaatst. Twee parameters dienen in acht genomen te worden bij de plaatsing van een kleine windturbine. De eerste belangrijke parameter is de omgeving waar de windturbine voorzien is. De tweede parameter is het type windturbine en manier van plaatsing.
+
+Bij de beoordeling van de toelaatbaarheid van kleine windturbines moet in eerste instantie rekening gehouden worden met de omgeving waar de turbine voorzien is. Elke locatie heeft zijn specifieke aard en kenmerken. Deze hebben een bepalende invloed op het feit of de kleine windturbine al dan niet hinderlijk wordt bevonden. In de omzendbrief worden drie hoofdtypes van omgevingen onderscheiden vanwege de grote diversiteit in ruimtelijke context.
+
+Dichte of eerder dichte bebouwingskernen, zoals de woonkernen, al dan niet verweven met andere voorzieningen zoals kleinhandel en kleinschalige bedrijvigheid, en omvatten zowel de stedelijke kernen als de (eerder dichte) kernen van het buitengebied. De inplanting van een windturbine is in zulk gebied principieel ongewenst. Een vergunning kan enkel worden toegestaan mits een goede motivering en er geen storing van de omgeving optreedt.
+
+Bedrijvensites, handelscentra, logistieke en transportzones, eerder grootschalige recreatieve voorzieningen, enz. De inplanting van een kleine windturbine wordt hier ruim aanvaard. Indien de inplanting geen hypotheek legt op de inplanting van grotere turbines, wordt een vergunning steeds verleend.
+
+Het eerder landelijke gebied, omvattende de openruimtegebieden, bossen, natuur, maar ook verweven met (eerder verspreide) bebouwing, (kleinschalige) bedrijvigheid, toeristische infrastructuur, enz., gekenmerkt door een eerder lage bebouwingsdichtheid, al dan niet gesitueerd in bijvoorbeeld woonlinten of woonclusters dan wel zonevreemd. Er heerst hier een eerder terughoudend beleid. Het gevaar op horizonvervuiling is in dit soort landschap immers het grootst. Een vergunning wordt verleend mits een ruimtelijke aanknoping.
+
+De ruimtelijke integratie is tevens afhankelijk van het type windturbine en de wijze waarop de turbine wordt geplaatst. Turbines met horizontale as dienen bij voorkeur vrijstaand te worden geplaatst. Voor de afweging is bij dit type windturbine de hoogte in relatie tot de kenmerken van de omgeving (hoogte gebouw en andere constructies en beplantingen) zeer belangrijk. Andere types turbines (verticale as) zijn vaak beter integreerbaar op of vastgehecht aan een gebouw en hebben op deze manier een minder groot effect op de omgeving.Geluid
+
+De aanvrager is verplicht bij de vergunningsaanvraag een gecertificeerd attest toe te voegen dat het brongeluid aangeeft bij 5 m/s. Dergelijk attest kan bekomen worden van de leverancier van de windturbine. De vergunningsaanvraag wordt goedgekeurd als de turbine voldoet aan de richtwaarden opgesomd in figuur 9. Voor elk gebied waar de dichtstbijzijnde vreemde woning is gelegen wordt een richtwaarde gegeven waaraan moet voldaan worden. Vreemde woningen zijn woningen andere dan die waarop de aanvraag betrekking heeft. De controle gebeurt door de vergunningverlenende overheid. Het doet dit aan de hand van de geluidsemissie in functie van het brongeluid. Voor deze controle wordt gebruik gemaakt van figuur 10. Deze tabel geeft voor verschillende brongeluiden de geluidsimpact weer.
+
+Figuur 9: richtwaarden voor de nachtelijk geproduceerde geluidssterkte in dB(A)
+
+Figuur 10: geluidsemissie in dB(A) in functie van brongeluid
+
+Slagschaduw
+
+Uit onderzoek blijkt dat de slagschaduw steeds beperkt blijft tot 30 uur per jaar op een afstand van ongeveer tweemaal de totale hoogte (tiphoogte) van de windturbine ( met inbegrip van het gebouw waarop de turbine eventueel gemonteerd is). Hierdoor kan men de hinder steeds als aanvaardbaar beschouwen indien er geen vreemde woningen binnen het op de schets (zie figuur 11) aangeduide gebied ten opzichte van de windturbine vallen.
+
+Figuur 11: zone waarin geen vreemde woningen mogen vallen
+
+Veiligheid
+
+Kleine windturbines met horizontale as moeten voldoen aan de norm IEC 61400-2. Men moet ook een certificatieattest van een geaccrediteerde instelling kunnen voorleggen. Voor kleine windturbines met verticale as bestaat voorlopig nog geen specifieke Europese norm. Zij dienen wel te voldoen aan de algemene veiligheidsnormen voor bouwconstructies en moeten gebouwd worden volgens de normen van een goede uitvoeringspraktijk.
+
+Hoofdstuk 4: De energieopbrengst van kleine windturbines: een theoretische benadering
+
+De energieopbrengst van een kleine windmolen is de belangrijkste factor in het onderzoek naar de rendabiliteit van kleinschalige windenergie. Het is dan ook van cruciaal belang dat deze factor zo nauwkeurig mogelijk onderzocht wordt. Uit de literatuurstudie is echter gebleken dat er heel wat misverstanden en onduidelijkheden bestaan rond deze energieopbrengst. Producenten van kleine windmolens hebben de neiging om de opbrengstresultaten positiever voor te stellen dan ze in werkelijkheid zijn. Daarnaast lopen de opbrengstresultaten op testvelden sterk uiteen. Om deze redenen wordt er in dit onderzoek geopteerd voor een theoretisch ondersteund model dat toepasbaar is op al alle windmolens, ongeacht de locatie. Later in dit onderzoek zullen de resultaten van de testvelden en de door leveranciers geleverde informatie wel uitgebreid worden getoetst aan dit model. In deze theoretische benadering vertrekken we van een Weibull-verdeling om het windgedrag te simuleren. Vervolgens wordt hieraan de opbrengstformule voor windenergie gekoppeld. Ten slotte gaan we na wat het effect is van variatie in de verschillende parameters van het model op de energieopbrengst van kleinschalige windenergie.
+
+4.1. De Weibull-verdeling
+
+Een gevaarlijke en incorrecte redenering om het vermogen en de opbrengst van een kleine windmolen louter te baseren op de jaarlijkse gemiddelde windsnelheid op de plaats waar de molen zal worden geplaatst. Hiervoor zijn enkele voor de hand liggende redenen (Desanghere, 2010):
+
+bij het berekenen van de gemiddelde windsnelheid wordt ook het (betrekkelijk groot) aantal uren waarbij de windsnelheid lager ligt dan 3,0 m/s betrokken. Bij deze windsnelheden draaien de meeste turbines echter niet bij hogere windsnelheden plafonneert het maximaal gegenereerd vermogen van de turbine bij erg hoge windsnelheden wordt de turbine om veiligheidsredenen volledig uitgeschakeld
+
+Omwille van deze redenen is de gemiddelde windsnelheid geen nuttige waarde om de jaarlijkse energieproductie van een kleine windturbine te voorspellen. De correcte manier om deze energieproductie te voorspellen is aan de hand van een windverdeling.
+
+Het gedrag van de wind op een bepaalde plaats, kan worden voorgesteld aan de hand van een windverdeling. Deze windverdeling geeft per windsnelheid weer hoe vaak deze jaarlijks voorkomt. De jaarlijkse windverdeling kan worden gemeten door middel van regelmatig uitgevoerde metingen. Deze methode is echter duur en omslachtig.
+De Weibull-verdeling maakt het mogelijk
+
+om de jaarlijkse windverdeling te benaderen aan de hand van de gemiddelde jaarlijkse windsnelheid (Stannard & Bumby, 2006). Uit onderzoek blijkt dat indien er op een correcte manier rekening wordt gehouden met de locatie, de Weibull-verdeling een zeer goede benadering geeft van het windgedrag (Naci Celik, 2002)
+
+De kans, F(V), dat de windsnelheid groter is dan een bepaalde waarde, V, wordt gegeven door volgende formule. Waarbij: C = schaalfactor n = vormfactor.
+
+Voor een vlak terrein in West-Europa gebruikt men een vormfactor met waarde 2. Hierdoor bekomt men een speciaal geval van de Weibull-verdeling, namelijk: de Rayleigh verdeling. Dit impliceert volgende vergelijking (Musgrove, 2008). Waarbij: Vmean = de gemiddelde jaarlijkse windsnelheid.
+
+
+Als vergelijking [2] vermenigvuldigd wordt met het aantal uren in een jaar (8760 uren), bekomt men het aantal uren dat de windsnelheid hoger ligt dan een bepaalde waarde V. Dit brengt ons bij onderstaande vergelijking (Naci Celik, 2002).
+
+De vergelijking geeft weer hoeveel uren per jaar de gemiddelde windsnelheid (Vmean ) boven een bepaalde waarde ligt. De resultaten voortkomend uit vergelijking stellen ons dan ook in staat om te bepalen hoeveel uren per jaar de gemiddelde windsnelheid binnen een bepaald interval valt. In dit onderzoek gebruiken we intervallen van 1 m/s, met als vertrekpunt 0 m/s en als eindpunt 20 m/s. Deze intervallen worden in dit onderzoek voortaan „windsnelheidsintervallen‟ genoemd.
+
+Energieopbrengst van een windturbine
+Om de energieopbrengst van een windturbine te bepalen, wordt gebruik gemaakt van volgende formule (Stannard & Bumby, 2006).
+Waarbij: P = vermogen
+V = windsnelheid
+Cp = energiecoëfficiënt
+ρ = luchtdichtheid (= constante in dit model) A = oppervlakte waar de wind doorblaast
+
+De jaarlijkse energieopbrengst per windsnelheidsinterval voor een bepaalde windmolen kan worden berekend door de uren per interval te vermenigvuldigen met vergelijking 4. Indien we de verschillende energieopbrengsten per interval optellen, bekomt men de totale jaarlijkse energieopbrengst.Resultaten
+
+We hebben de resultaten voor zowel particulieren als bedrijven samengevat in onderstaande tabellen. Figuur 55 geeft per model de kans dat de netto contante waarde positief is onder drie verschillende gemiddelde windsnelheden. Figuur 56 bevat de gemiddelde bijdrages aan de variantie van de netto contante waarde per parameter.
+
+
+
+Figuur 55: overzicht P(NCW>0)
+
+De resultaten in figuur 55 spreken niet in het voordeel van kleine windturbines. Als investeerder zijn we op zoek naar rendabele investeringen met een laag (of liefst geen) risico. Zulke investeringen vinden we alleen terug bij de modellen D, G & P en een gemiddelde windsnelheid van 5,5 m/s. De percentages liggen gemiddeld lager bij bedrijven dan bij particulieren
+
+
+Figuur 56: overzicht gemiddelde bijdrages aan variantie
+
+Uit figuur 56 blijkt dat de energieopbrengst de grootste bijdrage levert aan de variantie van de netto contante waarde van de investeringen. De huidige prijs van grijze stroom levert de tweede grootste bijdrage, gevolgd door de groeivoet van de prijs van grijze stroom. Deze patronen gelden zowel voor particulieren als bedrijven en voor alle gemiddelde windsnelheden. Wel merken we dat bij hogere gemiddelde windsnelheden de bijdrage aan de variantie van de energieopbrengst afneemt. Zowel de huidige prijs van grijze stroom als de groeivoet levert een grotere bijdrage bij hogere gemiddelde windsnelheden.
+We koppelen deze resultaten nu aan de resultaten uit de sensitiviteitsanalyse van hoofdstuk 4. Het resultaat hiervan werd samengevat in figuur 57. De gemiddeldes voor een particulier, een bedrijf en voor eender welke verbruiker werden ook berekend. Deze resultaten zijn vervat in figuur 58.
+
+Rotoroppervlak
+Particulier Bedrijf
+
+Windsnelheid
+Terrein	
+Energiecoëfficiënt
+Prijs grijze stroom
+Groeivoet grijze stroom	
+
+Figuur 57: overzicht gemiddelde bijdrages aan variantie
+
+Windsnelheid	
+
+Rotoroppervlak
+Terrein	
+Energiecoëfficiënt
+Prijs grijze stroom
+Groeivoet grijze stroom	
+
+Figuur 58: overzicht gemiddelde bijdrages aan variantie per eindverbruiker
+
+Uit figuur 57 en figuur 58 blijkt dat de windsnelheid en de huidige prijs van grijze stroom de grootste bijdrage leveren aan de variantie van de netto contante waarde. Beide bijdrages schommelen rond 25%. Ook het rotoroppervlak levert een aanzienlijke bijdrage van gemiddeld ongeveer 19%. Het terrein en de groeivoet van de prijs van grijze stroom bepalen beide ongeveer 12% van de variantie. De energiecoëfficiënt bepaalt slechts 4,22% van de variantie van de netto contante waarde.
+
+Hoofdstuk 8: Conclusie
+
+In dit hoofdstuk worden vooreerst de conclusies geformuleerd, gevolgd door enkele aanbevelingen en ideeën voor verder onderzoek.
+
+Conclusies
+
+In deze rubriek wordt het antwoord geformuleerd op de centrale onderzoeksvraag. Deze luidde: “Welke mogelijkheden biedt kleinschalige windenergie in Vlaanderen?”.
+Kleinschalige windenergie vinden we terug onder de vorm van twee types kleine windturbines: Horizontale as windturbines en verticale as windturbines. Beide werken volgens een eigen principe. Ze hebben elk hun eigen voor- en nadelen.
+Windenergie biedt enkele belangrijke voordelen ten opzichte van de traditionele fossiele brandstoffen. Vooreerst heeft het een duurzaam karakter. Het geniet tevens van een enorme omvang en goede bereikbaarheid. Windenergie is ook niet onderhevig aan de aandelenmarkt en politieke instabiliteit. Hiertegenover staan ook enkele nadelen van windenergie. De voornaamste zijn: horizonvervuiling, geluidsoverlast, slagschaduw en het intermitterend karakter. Deze nadelen kunnen een belangrijke rol spelen in de verdere ontwikkeling van (kleinschalige) windenergie in Vlaanderen.
+Met de Omzendbrief LNE/2009/01 – RO/2009/01 Beoordelingskader voor de inplanting van kleine en middelgrote windturbines tracht de Vlaamse regering een eerste stap te zetten naar een degelijk juridisch kader voor kleinschalige windenergie. Deze omzendbrief is echter van een niet-bindende aard. Dit maakt dat de gemeenten vrij zijn hun eigen beleid te voeren op voorwaarde dat ze de stedenbouwkundige richtlijnen van de provincie respecteren. Heel wat gemeenten staan echter weigerachtig tegenover kleinschalige windenergie. De Vlaamse overheid raadt sowieso windmolens in woonomgevingen af.
+De energieopbrengst van kleine windturbines wordt voornamelijk bepaald door de windsnelheid en het rotoroppervlak van de turbine. Dit spreekt zeker niet in het voordeel van kleinschalige windenergie. Het zijn net deze twee parameters die kleine windmolens onderscheiden van de grotere varianten. Grote windturbines genieten van hogere windsnelheden door hun grotere ashoogte. Ook hun rotoroppervlaktes zijn vele malen groter.
+Ook binnen de kleine windturbines lopen de opbrengstresultaten sterk uiteen. Dit is in de eerste plaats te wijten aan verschillende rotoroppervlaktes, maar ook de energie-efficiëntie van de turbines speelt hier een voorname rol. Deze blijkt sterk te verschillen tussen de kleine
+windmolens. Uit het onderzoek blijkt ook dat de energieopbrengst van kleine windturbines met een horizontale as hoger liggen dan deze met een verticale as. Dit is voornamelijk te wijten een beter energie-efficiëntie.
+Uit deze studie is ook gebleken dat de energieopbrengst van kleine windturbines vaak positiever wordt voorgesteld door de leveranciers en/of fabrikanten. In realiteit blijkt de energieopbrengst vaak lager te liggen dan wordt beloofd. Hier zou dan ook voor een internationale standaardmethode gepleit moeten worden. Zo kan men de consument beter beschermen.
+In de economische analyse analyseerden we de rendabiliteit van kleine windturbines voor zowel particulieren als bedrijven. Deze opdeling werd gemaakt omdat bedrijven van extra steunmaatregelen kunnen genieten. De resultaten uit de analyse zijn eerder teleurstellend. Enkel bij een gemiddelde windsnelheid van 5,5 m/s kunnen drie types van kleine windturbines een positieve netto contante waarde garanderen. Deze windsnelheid komt echter alleen in de kuststreek op een gunstig terrein voor. Onder een gunstig terrein verstaan we open velden zonder bebouwing of bebossing. Het zijn net deze terreinen die vaak worden gebruikt voor grootschalige projecten. Kleine windturbines zouden een oplossing moeten bieden in streken waar geen ruimte is voor grote windmolens. In deze streken laat de rendabiliteit te wensen over.
+Opvallend is ook dat de rendabiliteit van kleine windturbines nog lager ligt voor bedrijven dan voor particulieren ondanks extra steunmaatregelen en de recuperatie van de BTW. Dit is te wijten aan het feit dat bedrijven minder uitsparen aan grijze stroom. De rendabiliteit van kleinschalige windenergie ligt voor landbouwbedrijven iets hoger dan voor andere bedrijven door de VLIF-subsidie.
+Zelfs met een aanzienlijke verhoging van de prijs voor groenestroomcertificaten valt de economische haalbaarheid van kleine windturbines tegen. De jaarlijkse energieopbrengst ligt gewoonweg te laag om optimaal te kunnen genieten van deze steunmaatregel.
+De rendabiliteit van kleine windturbines wordt grotendeels bepaald door energieopbrengst. De invloed van deze parameter ligt gemiddeld meer dan dubbel zo hoog als deze van de prijs van grijze stroom.
+We kunnen besluiten dat momenteel kleinschalige windenergie weinig tot geen mogelijkheden biedt in Vlaanderen. Enkel onder uitzonderlijke omstandigheden zoals een zeer hoge gemiddelde windsnelheid of een zeer hoge prijs voor grijze stroom kan een kleine windturbine een oplossing bieden. Vele van de modellen waren zelfs in geen enkel van de basisoplossingen of scenario‟s economisch rendabel.
+
+Beperkingen en aanbevelingen
+
+In deze sectie worden de beperkingen van dit onderzoek geformuleerd en aanbevelingen voor verder onderzoek gemaakt.
+
+In dit onderzoek werd het juridisch kader rond kleinschalige windenergie besproken. Praktijkonderzoek omtrent dit onderwerp kan hier zeker een meerwaarde bieden. Het bleek dat heel wat gemeenten weigerachtig staan tegenover kleinschalige projecten. Onderzoek naar wat dit precies betekent voor iemand die een kleine windmolen wil plaatsen, kan interessant zijn.
+Om de energieopbrengst van kleine windturbines te bepalen vertrokken we van een theoretisch model. Eén van de relevante parameters van dit model was de energiecoëfficiënt. Deze beschrijft het rendement van de turbine. Een accurate schatting en invulling van deze parameter was echter moeilijk door het gebrek aan wetenschappelijke literatuur omtrent dit onderwerp. Voor de invulling hiervan werd dan ook gebruikt gemaakt van praktijkresultaten. Deze benadering is echter nogal kort door de bocht. Ze is gebaseerd op een beperkt aantal resultaten en houdt tevens geen rekening met het feit dat het rendement van windturbines afhankelijk is van de windsnelheid. Verder wetenschappelijk onderzoek naar het rendement van kleine windturbines is dan ook aangewezen.
+Verder onderzoek naar de gemiddelde windsnelheid op een ashoogte van 10 meter lijkt me tevens interessant. De gegevens hierover zijn voorlopig vrij beperkt. Indien er meer locatiespecifieke gegevens voor handen zijn, kunnen we nauwkeuriger de rendabiliteit van kleinschalige windenergie voor een bepaalde locatie bepalen.
+In economische analyse voor bedrijven werd gebruik gemaakt van een vereenvoudigd model. In het kader van dit onderzoek leek het me niet opportuun om gebruik te maken van een gecompliceerder model met belastingen. Zulk model kan volgens mij eventueel een meerwaarde bieden bij een bedrijfspecifiek onderzoek.
+In de economische analyse werd gewerkt met een groeivoet voor de prijs van grijze stroom. Deze groeivoet is gebaseerd op historische gegevens sinds de liberalisering van de energiemarkt in 2003. Er is echter geen garantie dat de trend van de afgelopen jaren zich ook voortzet. Ook hier zou dieper onderzoek naar de te verwachten trend van deze groeivoet zeer nuttig zijn.
+
+
+
+Bijlage 1: Berekening jaarlijkse energieopbrengst 
+
+Bijlage 2: Opbrengstresultaten overige testvelden 
+
+Bijlage 3: Berekening economische rendabiliteit kleine windturbine voor een particulier
+
+Bijlage 4: Berekening economische rendabiliteit kleine windturbine voor een bedrijf
+
+Bijlage 5: Resultaten Monte Carlo analyse (jaarlijkse energieopbrengst) 
+
+Bijlage 6: Monte Carlo analyse (economische analyse): een voorbeeldWindenergie: de nadelen
+
+Horizonvervuiling is één van de grootste discussiepunten omtrent windenergie. De meningen hierover zijn echter verdeeld. Tegenstanders menen dat windmolens het landschap verstoren. Ze vrezen ook voor een negatieve impact op het toerisme in bepaalde natuurgebieden. Het blijkt echter dat windmolenparken ook een extra groep gefascineerde toeristen aantrekt. Voorstanders vinden een windmolen in het landschap dan weer niet storend. Het is en blijft uiteraard een subjectief gegeven en hierdoor zullen de meningen over landschapsverstoring altijd verdeeld blijven. Dit discussiepunt kan worden aangepakt door middel van twee verschillende strategieën: probeer de publieke opinie om te buigen of plaats de turbines uit het zicht. De eerste aanpak betreft een traag proces met mogelijke slaagkansen op lange termijn. De tweede werkt sneller, maar biedt enkel een oplossing op korte termijn (Pasqualetti, 200).
+
+Één van de meest gebruikte oplossingen om horizonvervuiling te verminderen, zijn offshore windmolenparken. Zoals de naam al doet vermoeden worden hierbij de windmolens op zee geplaatst buiten het zicht van de bevolking. Deze methode heeft zijn waarde al bewezen, maar is niet mogelijk voor kleinschalige windenergie. Ik vermoed dat horizonvervuiling nog een groter probleem vormt bij kleinschalige dan bij grootschalige windenergie. Het is zoals eerder aangehaald niet mogelijk om te werken met offshore windmolens. Kleine windmolens worden dichtbij het gebouw of toepassing geplaatst waar het energie voor moet opwekken. Dit wil zeggen dat ze vaak in drukbevolkte en stedelijke gebieden moeten worden geplaatst en dus ook bij meer mensen in het oog zullen springen. Windenergie op grote schaal kan daarentegen vaak gedecentraliseerd worden. Zo worden deze molens vaak op industriezones of verlaten gebieden geplaatst (Pasqualetti, 2004).
+
+Er bestaat veel discussie omtrent de relatie tussen windmolens en vogelsterfte. Volgens het rapport Detailed Recommendations for Wind Energy kunnen vogels tijdens het vliegen in botsing komen met de turbines. Ze kunnen ook dermate verstoord worden dat ze gebieden met windturbines mijden. Om dit fenomeen tegen te gaan heeft men getracht de rotatiesnelheid van windmolens naar beneden te halen. Op deze manier zouden de vogels de wieken beter moeten kunnen zien. Indien de vogelsterfte door windmolens in perspectief wordt geplaatst, zien we dat dit zeker geen struikelblok mag zijn voor de opkomst van windenergie. Zo doden glazen ramen jaarlijks 100 tot 900 miljoen vogels, katten doden er 100 miljoen, auto‟s en vrachtwagens 50 tot 100 miljoen, transmissielijnen tot 175 miljoen, landbouw 67 miljoen en de jacht 100 miljoen
+
+(Curry & Kerlinger, z.d.). Uit andere studies blijkt dat zelfs voor de introductie van traagdraaiende windmolens het aantal dode volgens per turbine lager lag dan twee per jaar (Null & Archer, 2008). We kunnen deze kwestie in een nog breder perspectief plaatsen. Indien we niet investeren in groene energie zullen de gevolgen voor de vogelpopulaties veel groter zijn. Naast vogels zouden windmolens ook vleermuizen doden. Ook hier bieden verticale turbines en traagdraaiende windmolens een oplossing (Provey, 2009). Over het verband tussen kleine windmolens en vogelsterfte is tot nu toe zeer weinig bekend. Onderzoek omtrent grootschalige windenergie heeft echter uitgewezen dat de meeste vogels hoger dan 50 meter vliegen tijdens hun trek. Kleine windmolens zouden dus zeker geen probleem mogen zijn voor vogels tijdens hun trek. Ik vermoed wel dat een ander probleem zich zou kunnen voordoen. Zo zullen vogels die zich graag in de buurt van mensen schuilhouden wel last van kleine windmolens kunnen ondervinden. Ik denk hierbij aan mussen, duiven, meeuwen, enz. Verder onderzoek omtrent deze kwestie is echter welkom.
+
+Geluidsoverlast blijft ook een hekelpunt bij windmolens. Het ronddraaien van de wieken zorgt voor een zoemend geluid en kan als enerverend ondervonden worden indien men zich dicht bij een windmolen bevindt. Dit vormt voornamelijk een probleem voor mensen die vlakbij windmolens wonen of werken en langere tijd worden blootgesteld aan het geluid. Tragerdraaiende turbines produceren minder geluid en kunnen dus ook hier een oplossing bieden. Toch zal er steeds een bepaald geluidsniveau blijven (Provey, 2009). Men spreekt in sommige gevallen al van het “wind turbine syndrome”. Hierbij klagen mensen over hoofdpijn en neusbloedingen als gevolg van het geluid van windmolens. In sommige gevallen dwong dit de slachtoffers te verhuizen. De minimum afstand tussen woningen en turbines is bijgevolg in bepaalde landen omhoog getrokken (Null & Archer, 2008). Ook in Vlaanderen bestaat er een wettelijk kader rond het akoestisch aspect van windmolens (Desanghere, 2010). Geluidsoverlast is zowel bij kleine als grote windmolens een groot struikelblok.
+
+Naast geluidsoverlast vormt slagschaduw ook voor een probleem voor omwonenden. De lichtreflectie en slagschaduw van draaiende wieken kunnen voor hinder zorgen. Slagschaduw en lichtreflectie vormen zowel bij kleine als grote windmolens een probleem. Zo zal de schaduw of reflectie bij kleine windmolens minder ver reiken, maar de molens worden wel vaker in de directe leefomgeving ingeplant (Pasqualetti, 2004).
+
+Een grote zorg onder de mensen is de veiligheid van windmolens. Windturbines zijn uitgerust met een generator en worden dus als machines aanzien. Hierdoor moeten ze voldoen aan de Europese machinenorm. Dit zou de veiligheid van windturbines moeten garanderen (Desanghere, 2010).
+
+Een andere hinderpaal van windenergie is zijn intermitterend karakter. Dit wil zeggen dat de energiebron niet continu aanwezig is door factoren waar men geen controle over heeft. Dit kan leiden tot tijdelijke verschillen tussen de energievraag en de actuele beschikbare windenergie. Het windaanbod is vaak het laagst tijdens periode van grote energievraag zoals tijdens een hittegolf.
+Een mogelijke oplossing voor dit probleem is Hydro-elektrische opslag. Wanneer de energieopbrengst hoger ligt dan de energievraag wordt het elektriciteitsoverschot gebruikt om water naar hoger gelegen gebieden te pompen. Later kan tijdens periodes waarin de vraag hoger ligt dan de productie, het opgeslagen water „losgelaten‟ worden om door middel van waterturbines elektriciteit op te wekken. Op kleine schaal kan een netwerk van batterijen dienen als tijdelijke opslagplaats voor windenergie. Bij andere energiebronnen kan dit intermitterend karakter vaak gecompenseerd worden door de verplaatsbaarheid van de energiebron. Zo hoeft de ontginning en het gebruik van energiebronnen zoals steenkool en olie niet op dezelfde plaats te gebeuren. De energie kan getransporteerd worden voor ze wordt ingezet. Dit is bij windenergie onmogelijk (Null & Archer, 2008).Verticale as windturbines (VAWT)
+
+Deze technologie vindt voornamelijk zijn toepassing bij kleine windmolens op enkele grote modellen na. Verticale as windturbines gebruiken rechte of kromme bladen om de wind op te vangen. De rotatie-as van zulke turbines staat loodrecht op de windrichting (Paraschivoiu, 2002). Het ontwerp met verticale rotatie-as zorgt ervoor dat de turbine altijd in de juiste positie ten opzichte van de wind staat (Jadranke & ter Horst, 2007). Ze zijn door hun ontwerp ook minder onderhevig aan turbulentie en komen dus beter tot hun recht in een bebouwde omgeving dan windturbines met een horizontale as. De generator kan beneden aan de voet van de turbine opgesteld worden. Dit biedt zowel voordelen bij het opzetten van de turbine als bij het onderhoud.
+
+Figuur 5: illustratie verticale as windturbine
+
+Er vallen twee grote groepen te onderscheiden binnen de turbines met een verticale as. Het valt wel op te merken dat er ondertussen al heel wat variaties gebouwd zijn op beide types. De variaties bevatten meestal enkele aanpassingen die de nadelen moeten weghalen en het rendement moeten verhogen (Desanghere, 2010).
+
+De Savoniusturbine
+
+De Savoniusturbine werd ontworpen door de Finse ingenieur Sigurd Savonius en werkt volgens het principe van de „drag‟. De turbine draait rond door de directe voorwaartse druk op de rotorbladen uitgeoefend door de wind. Voor elk rotorblad dat door de wind wordt voortgestuwd, is er ook een rotorblad dat een tegenwerkende kracht ondervindt van de wind. Om er voor te zorgen dat de tegenwerkende kracht nooit groter is dan de voorstuwende kracht wordt er gebruik gemaakt van holle en bolle zijden (zie figuur 6). De bolle zijde zal steeds meer wind vangen. Een groot nadeel aan dit ontwerp is dat fysisch gezien de rotorbladen nooit een hogere tipsnelheid dan 21.5% van de windsnelheid kunnen halen. Dit leidt tot een laag rendement (Laveyne, 2010).
+
+Onderstaande figuur illustreert de werking van een Savoniusturbine. De wind wordt aangegeven met „V‟, de draaiing met „ω‟ en de omtreksnelheid met „u‟.
+
+Figuur 6: 'drag'-principe van de Savoniusturbine (Laveyne, 2010)
+
+De Darrieusturbine
+
+De Franse luchtvaartingenieur Georges Darrieus ontwierp in 1931 de Darrieusturbine. Deze turbine werkt volgens het principe van „lift‟. De specifieke vorm (airfoils) van de rotorbladen zorgt ervoor dat de wind net boven het rotorblad een hogere snelheid zal hebben dan deze net onder het rotorblad. Hierdoor ontstaat er een onderdruk boven het rotorblad en wordt deze als het ware naar boven gezogen (zie figuur 7). Dit principe stelt de bladen in staat een hogere snelheid te ontwikkelen dan de wind zelf. Hierdoor ligt het rendement en dus ook de opbrengst van de Darrieusturbine hoger. Deze turbine is niet zelfstartend omdat de rotorbladen al een bepaalde snelheid moeten hebben voor de „lift‟ gerealiseerd kan worden (Laveyne, 2010).
+
+Onderstaande figuur illustreert de werking van een Darrieusturbine.
+
+Figuur 7: 'lift'-principe bij de Darrieusturbine (Laveyne, 2010)
+
+Bijzondere uitvoeringen van horizontale as windturbines
+
+Naast HAWT‟s en VAWT‟s bestaan er ook enkele speciale uitvoeringen van windturbines. Deze hebben zowel kenmerken van windturbines met een verticale as als van windturbines een horizontale as.
+
+Windenergie
+
+Windenergie in Vlaanderen
+
+In 2008 produceerde Vlaanderen 1949 GWh aan hernieuwbare elektriciteit. Dit komt neer op 3,2% van de totale geproduceerde elektriciteit in Vlaanderen. De hernieuwbare energie was afkomstig van biomassa (60%), windenergie (17,2%), biogas (12%), organisch afval (9%), zonne-energie (1,7%) en waterkracht (0,2%). Deze gegevens werden bekend gemaakt in de renewable energy review voor België.
+
+Figuur 8: hernieuwbare energie in Vlaanderen in GWh (Renewabele energy review)
+
+Windenergie: de voordelen
+
+Naast windenergie bestaan er nog tal van andere energiebronnen. Wat onderscheidt windenergie nu net van al deze andere bronnen? We gaan op zoek naar de voornaamste voor- en nadelen die windenergie ons biedt. Er wordt ook extra aandacht geschonken aan kleinschalige windenergie.
+
+Windenergie is “propere energie”. Indien het als substituut voor fossiele brandstof wordt gebruikt, zorgt dit voor een vermindering van de milieuvervuiling en CO2-uitstoot (Ministerie van de Vlaamse Gemeenschap, 2005). Belangrijke opmerking hierbij is wel dat de productie van windmolens wel een milieubelastend proces is en dus steeds in rekening moet worden gebracht (Fleck & Huot, 2009). Windenergie is ook duurzaam. Het is energie waarover de mensheid voor onbeperkte tijd kan beschikken en waarbij, door het gebruik ervan, het leefmilieu en de mogelijkheden van de toekomstige generaties niet worden benadeeld.
+
+De omvang en bereikbaarheid van wind maken van windenergie een zeer aantrekkelijke energiebron. Het wereldwijde windaanbod wordt geraamd op 72 terawatt. Dit komt overeen met 35 keer de globale elektriciteitsvraag en 6 keer de totale energievraag op aarde. De totale energievraag bevat naast elektriciteit ook verwarming, transport en andere vormen van energieverbruik (Null & Archer, 2008). Het vinden van wind is een relatief eenvoudig proces. In tegenstelling tot fossiele of nucleaire brandstof vereist het geen boortorens, seismisch materiaal of geigertellers. Men moet enkel op zoek gaan naar plaatsen waar de wind sterk genoeg is. Deze gebieden vertonen bovendien een aantal gemeenschappelijke eigenschappen (Pasqualetti, 2004).
+
+Windenergie is niet onderhevig aan de aandelenmarkt en politieke instabiliteit. Het is een “gratis” brandstof en zal nooit per vat geprijsd kunnen worden (Null & Archer, 2008). Dit zorgt voor een verminderde afhankelijkheid van de olieproducerende landen (van den Akker, 2007). Kleinschalige windenergie gaat hier nog verder in. Deze toepassing stelt de eigenaar in staat om volledig onafhankelijk energie op te wekken en deze te gebruiken. Dit biedt ongetwijfeld mogelijkheden op afgelegen gebieden met een bepaalde energiebehoefte.BEDRIJFSECONOMISCHE WETENSCHAPPEN
+
+
+master in de toegepaste economische wetenschappen: handelsingenieur: technologie-, innovatie- en milieumanagement
+
+
+Masterproef
+De opportuniteiten van kleinschalige windenergie in Vlaanderen.
+
+Masterproef voorgedragen tot het bekomen van de graad van master in de toegepaste economische wetenschappen: handelsingenieur , afstudeerrichting technologie-, innovatie- en milieumanagement
+
+
+master in de toegepaste economische wetenschappen: handelsingenieur: technologie-, innovatie- en milieumanagement
+
+
+Masterproef
+De opportuniteiten van kleinschalige windenergie in Vlaanderen.
+
+
+Door de forse stijging van de wereldwijde energieconsumptie, moet er dringend gezocht worden naar oplossingen die beantwoorden aan de stijgende energievraag. Deze oplossingen kunnen gevonden worden in alternatieve energiebronnen. Deze dragen niet enkel bij tot het beantwoorden van de energievraag, maar elimineren ook vele negatieve neveneffecten van het gebruik van fossiele brandstoffen.
+Eén van de meest voor de hand liggende alternatieve energiebronnen is windenergie. Grootschalige windenergie heeft reeds zijn nut bewezen in de huidige samenleving. Over kleinschalige windenergie is daarentegen nog maar weinig bekend. Toepassingen ervan zijn dezer dagen dan ook nog zeer schaars.
+In deze eindverhandeling onderzoeken we de rendabiliteit van kleinschalige windenergie. We beperken ons onderzoek hierbij tot de regio Vlaanderen. Al zullen vele conclusies kunnen worden doorgetrokken naar andere gebieden.
+In het eerste hoofdstuk wordt een inleiding gegeven. Hierin wordt de huidige situatie besproken om zo een duidelijker beeld te krijgen van het probleem. In hoofdstuk twee wordt de centrale onderzoeksvraag geformuleerd. Deze wordt vervolgens geconcretiseerd aan de hand van een aantal deelvragen. Deze vragen vormen het vertrekpunt van dit onderzoek.
+Hoofdstuk drie licht de belangrijkste aspecten rond windenergie toe. We bespreken de verschillende soorten kleine windturbines. We bekijken in dit hoofdstuk ook de huidige stand van zaken op het gebied van windenergie in Vlaanderen, aangevuld met de belangrijkste voor- en nadelen van deze techniek. Er wordt ook dieper ingegaan op het juridisch kader rond kleinschalige windenergie.
+In hoofdstuk vier start het effectieve onderzoek. In dit hoofdstuk onderzoeken we de energieopbrengst van kleine windturbines. Omdat hier controverse over bestaat, wordt er veel aandacht besteed aan dit onderdeel. In dit hoofdstuk benaderen we de energieopbrengst op een theoretische manier om objectiviteit te garanderen.
+Hoofdstuk vijf koppelt de resultaten uit hoofdstuk vier aan de praktijk. Aan de hand van resultaten afkomstig van testvelden in Europa wordt hier de energieopbrengst verder onderzocht. Dit hoofdstuk tracht tevens een beter beeld te geven van de huidige markt wat betreft kleine windturbines. Ook analyseren we hier de transparantie van deze markt.
+Hoofdstuk zes behandelt de kosten en baten van kleine windturbines. We bespreken hier eerst de verschillende kosten die gepaard gaan bij de aanschaf en eventueel onderhoud van een kleine windturbine. Vervolgens lichten we de relevante kosten toe. Ten slotte gaan we dieper in op de steunmaatregelen voor zowel particulieren als bedrijven.
+
+De effectieve economische analyse vindt plaats in hoofdstuk zeven. We gebruiken hierbij ons theoretisch model uit hoofdstuk vier voor de bepaling van de energieopbrengst. Dit wordt vervolgens gekoppeld aan de kosten, baten en steunmaatregelen uit hoofdstuk zes. We onderzoeken hier de rendabiliteit van kleinschalige windenergie in Vlaanderen. Dit doen we zowel voor particulieren als bedrijven.
+Het afsluitende hoofdstuk, hoofdstuk acht, omvat het algemene besluit. In de conclusies worden de resultaten betreffende de centrale onderzoeksvraag besproken. Voorts worden er enkele aanbevelingen en ideeën voor verder onderzoek voorgesteld.
+
+
+
+Hoofdstuk 1: Inleiding
+
+De exponentiële bevolkingsgroei heeft als gevolg dat de vraag naar energie steeds groter wordt. Op dit moment bedraagt het wereldwijde energieverbruik meer dan 15 terawatt (Carr, 2008). Men verwacht dat dit cijfer tegen 2030 verdubbeld zal zijn. Om aan deze energievraag te kunnen blijven voldoen, moet er naar duurzame oplossingen worden gezocht.
+
+Volgens de statistical review of World energy 2009 wordt op dit moment 85% van alle energie gehaald uit fossiele brandstoffen zoals steenkool, aardgas en aardolie. Het probleem hierbij is echter dat deze energiebronnen uitgeput geraken. Daarbij zijn ze ook nog eens zeer milieubelastend. Om deze redenen is men steeds meer genoodzaakt om op zoek te gaan naar alternatieve energiebronnen. De meest bekende vormen van duurzame energiebronnen zijn: windenergie, zonne-energie, bio-energie en energie uit water.
+
+Ook in België is er dringend nood aan investeringen in “groene energie”. Meer nog, België scoort opmerkelijk slecht op het gebied van duurzame energie in vergelijking met zijn omliggende landen. Het stond in 2007 onderaan de lijst van de 27 EU-landen met een aandeel groene energie van slechts 4,2%. De doelstellingen die uitgaan van het EU-klimaatplan stellen dat in 2010 België een aandeel van 6% moet halen. Tegen 2020 zou dit aandeel moeten worden opgevoerd tot 13%. Deze gegevens werden bekend gemaakt in het Milieurapport Vlaanderen in 2007. Men kan dus stellen dat België nog heel wat werk voor de boeg heeft.
+
+Windenergie kan een zeer belangrijke rol spelen in de omschakeling naar een groen energiebeleid. Om energie uit wind te halen, heb je geen fossiele brandstof nodig, en stoot je dus ook geen schadelijke gassen uit. Windmolens kunnen dus een belangrijke bijdrage leveren aan de vermindering van de CO²-uitstoot en het broeikaseffect. Het is tevens een zeer betrouwbare energiebron en levert een zichtbaar bewijs van duurzaam ondernemen en maatschappelijke betrokkenheid. In het tweede volume van Wind Energy - The Facts werd er onderzoek gedaan naar de kosten en prijzen van windenergie. De kostprijs van windenergie is de laatste jaren sterk gedaald en daalt nog steeds door technologische ontwikkelingen. Men verwacht dat deze trend zich ook in de toekomst verder zet. De kostprijs ligt echter nog steeds hoger dan deze bij fossiele brandstoffen. Andere welbekende nadelen van windmolens zijn horizonvervuiling en geluidshinder.
+
+Wereldwijd bedraagt het potentieel aan windenergie 72 terawatt, ofwel 5 keer zoveel als het globale energieverbruik (Archer, 2005). Het overgrote deel van dit potentieel blijft voorlopig echter onbenut, zowel in België als wereldwijd.Horizontale as windturbines (HAWT)
+
+Dit type vinden we zowel bij grote als kleine windmolens terug. Horizontale as windturbines vangen de kinetische energie op door middel van een rotor, vergelijkbaar met een propeller. De rotatie-as loopt parallel met de richting van de wind (Paraschivoiu, 2002). Het grootste nadeel aan dit soort windmolens is dat ze telkens opnieuw naar de optimale stand (wieken naar de wind toe) moeten zoeken bij wijzigingen in de windrichting (Jadranke & ter Horst, 2007).
+Dit proces noemt men „kruien‟ en kan passief (door middel van windvanen) of actief (door middel van een kruimotor) gebeuren. De complexiteit van het ontwerp van een windturbine met horizontale as ligt hierdoor hoger dan bij de turbines met een verticale as.
+Figuur 1: illustratie horizontale as windturbine
+
+Turbines met een horizontale as behalen momenteel een groter rendement dankzij drie verschillende elementen (Desanghere, 2010):
+
+De masthoogte bij windturbines met een horizontale as is vaak groter dan het type met de verticale as. Hierdoor bevindt de turbine zich op grotere hoogte en geniet het van hogere gemiddelde windsnelheden.
+De turbines werken volgens het „liftprincipe‟, wat leidt tot een hoger rendement.
+
+Er is op geen enkel moment een rotorblad die een kracht uitoefent tegengesteld aan de windrichting. Dit is wel het geval bij windmolens met een verticale as. Iedere wiek genereert dus gedurende de volledige omtrek arbeid.
+
+Er worden drie verschillende generatoren gebruikt bij windturbines met horizontale as. Hieronder volgt een korte bespreking van deze drie types.
+
+DC-generator
+
+Deze generatoren vinden we vooral terug bij zeer kleine windturbines. Het is het minst gebruikte type. De generator wordt rechtstreeks aan de rotor gekoppeld. De opgewekte energie wordt in een batterij opgeslagen. Het grote voordeel aan dit type generator is dat het een zeer eenvoudig systeem betreft. Het rendement ligt echter zeer laag (Laveyne, 2010).
+
+Figuur 2: DC-generator
+
+Permanente magneet synchroon generator (PMSG)
+
+De synchrone generator is momenteel het meest voorkomende type voor kleine windturbines. De generator wordt ook hier rechtstreeks aan de rotor gekoppeld. Door deze rechtstreekse koppeling is de frequentie van de opgewekte spanning sterk afhankelijk van het toerental van de rotor. Via een omvormer wordt een mooie 50 Hz golf gedestilleerd. Het grote voordeel van dit model is dat het een degelijke output genereert bij een groot bereik aan windsnelheden (Desanghere, 2010; Laveyne, 2010).
+
+Figuur 3: PMSG
+
+Asynchrone generator
+
+Dit type vinden we voornamelijk terug bij kleine windturbines met een groot vermogen en bij middelgrote turbines. De asynchrone generator biedt het grote voordeel dat het een constante 50 Hz wisselspanning genereert. Voor een optimale werking vereist dit type wel een hoog toerental. De rotorbladen kunnen dit vereiste toerental niet halen. Om deze reden maakt men gebruik van een speciale overbrenging. Deze zet het lager toerental van de wieken om in een hoger toerental voor de inductiegenerator. Deze overbrenging zorgt wel voor extra gewicht, een lager rendement
+
+en meer geluidsproductie. Na de generator wordt nog een softstarter geplaatst om spanningspieken tijdens de opstart te reduceren (Desanghere, 2010).
+
+Figuur 4: asynchrone generatorHoofdstuk 2: Probleemstelling
+
+De toepassingen van windenergie kunnen worden opgedeeld in twee categorieën. De eerste categorie omvat alle toepassingen en projecten op grote schaal. Hierbij denken we voornamelijk aan grote windmolenparken die instaan voor de stroomopwekking van een hele groep huishoudens.
+
+Daartegenover staan de kleinschalige windmolens. Kleine windturbines zijn turbines met een tiphoogte tot maximaal 15 meter en een relatief klein vermogen. Ze zijn bedoeld voor particulieren in de buurt van of in stedelijke gebieden, maar ze kunnen in principe op iedere locatie geplaatst worden. In deze eindverhandeling zal verder worden ingegaan op deze kleinschalige toepassingen van windenergie.
+
+Windenergie kan dus een belangrijke rol spelen in onze zoektocht naar een groen en duurzaam energiebeleid. Vandaag de dag wordt slechts 0,7% van de energie in België uit windenergie gehaald (Couder, Verbruggen, Wustenberghs & Defrijn, 2007). Deze projecten bestaan bijna uitsluitend uit grote windmolenparken. Naar de toekomst toe zouden er steeds meer van deze grootschalige projecten komen, zowel onshore als offshore. Over kleine windturbines is echter nog maar zeer weinig bekend. De toepassingen ervan zijn dan ook zeer schaars.
+
+Het is maar de vraag of kleine windmolens kunnen opboksen tegen de talloze nieuwe ontwikkelingen op gebied van duurzame energieopwekking. Zonnepanelen kennen de laatste jaren een enorme opkomst. Voornamelijk dankzij een goede rendabiliteit en een vrijgevig subsidiesysteem. Grote windmolenparken hebben hun betrouwbaarheid en economisch nut reeds bewezen en worden dan ook meer en meer gebruikt. Bij de rendabiliteit van kleine windmolens worden echter nog grote vraagtekens geplaatst.
+
+In deze eindverhandeling wordt er op zoek gegaan naar de mogelijkheden en beperkingen van windenergie op kleine schaal. Het onderzoek zal zich hierbij beperken tot de regio Vlaanderen.
+Centrale onderzoeksvraag
+
+Zoals hierboven reeds aangehaald werd, is België genoodzaakt om forse inspanningen te leveren op het gebied van groene energie om de Europese doelstellingen te halen. Er zijn verschillende technologische instrumenten die hiervoor kunnen worden aangewend. Eén van deze instrumenten is windenergie op kleine schaal. Er is echter nog niet veel bekend over deze technologie. Binnen deze eindverhandeling zal getracht worden deze leemte op te vullen. Dit brengt ons bij de centrale onderzoeksvraag:
+
+Wat zijn de opportuniteiten van kleinschalige windenergie in Vlaanderen?
+
+Deelvragen
+
+De centrale onderzoeksvraag zal geconcretiseerd worden aan de hand van een aantal deelvragen. Voor de deelvragen geldt uiteraard ook dat het onderzoek zich geografisch beperkt tot Vlaanderen.
+De vijf deelvragen:
+Bestaat er een degelijk juridisch kader voor windenergie op kleine schaal?
+Welke opbrengstresultaten mogen we verwachten van kleine windturbines?
+Wat is de huidige rendabiliteit van windenergie op kleine schaal?
+
+Wat zijn de grootste beperkingen van kleinschalige windenergie en wat zijn hier mogelijke oplossingen voor?
+
+Welk potentieel biedt windenergie in Vlaanderen?
+
+Hoofdstuk 3: Literatuurstudie
+
+Wind
+
+Wind is stromende lucht ten gevolge van temperatuursverschillen op aarde. Deze temperatuursverschillen hebben twee oorzaken. Enerzijds zorgt de stand van de zon ervoor dat de lucht rond de evenaar warmer is dan de lucht bij de polen. Anderzijds is in de zomer de lucht boven land warmer dan deze boven de zee. In de winter is dit andersom omdat water de warmte beter vasthoudt. Lucht die verwarmd wordt, zet uit. Doordat de omringende koudere lucht deze uitzetting belemmert, zal binnen de warmere lucht de druk stijgen. Lucht heeft de neiging zich steeds te verplaatsen van gebieden met hogere luchtdruk naar gebieden met lagere luchtdruk. Deze luchtverplaatsing wordt ervaren als wind. De windrichting kan bepaald worden aan de hand van isobaren. Dit zijn lijnen die plaatsen met gelijke luchtdruk met elkaar verbinden. Er zijn echter nog twee factoren die wind “verstoren”. In de eerste plaats heeft de draaiing van de aarde een effect op de windrichting. Ten tweede zorgen obstakels op het land voor een remmende kracht. Deze kracht beïnvloedt zowel de windsnelheid als de windrichting (Westra & Tossijn, 1981).
+
+Windturbines
+
+Windturbines hebben als doel om op een praktische manier kinetische energie uit de atmosfeer op te vangen en om te zetten naar mechanische of elektrische energie. Windturbines kunnen worden opgedeeld in twee grote groepen: horizontale as windturbines (HAWT) en verticale as windturbines (VAWT). Deze twee categorieën worden hieronder toegelicht (Paraschivoiu, 2002).
+
+De energieopbrengst van windturbines wordt grotendeels bepaald door het rendement van de turbine. Het rendement van windturbines wordt uitgedrukt aan de hand van de „energy capture coefficient‟ (Stannard & Bumby, 2006), ook wel „turbine power coefficient‟ genoemd (Milivojevic & Stamenkovic, 2010). Deze parameter geeft weer hoeveel energie er uit de wind kan gehaald worden. Het geeft de verhouding weer tussen de energie die de wind bevat en hoeveel er van deze energie omgezet wordt tot bruikbare energie. Het theoretisch maximum is door de wet van Betz vastgesteld op 59,3% (Milivojevic & Stamenkovic, 2010). In de komende hoofdstukken gebruiken we de term „energiecoëfficiënt‟ voor deze parameter.

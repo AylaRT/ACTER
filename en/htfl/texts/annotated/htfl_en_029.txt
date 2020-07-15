@@ -1,0 +1,9 @@
+Troponin T and N-terminal pro-B-type natriuretic peptide: a biomarker approach to predict heart failure risk--the atherosclerosis risk in communities study.
+BACKGROUND:
+Among the various cardiovascular diseases, heart failure (HF) is projected to have the largest increases in incidence over the coming decades; therefore, improving HF prediction is of significant value. We evaluated whether cardiac troponin T (cTnT) measured with a high-sensitivity assay and N-terminal pro-B-type natriuretic peptide (NT-proBNP), biomarkers strongly associated with incident HF, improve HF risk prediction in the Atherosclerosis Risk in Communities (ARIC) study.
+METHODS:
+Using sex-specific models, we added cTnT and NT-proBNP to age and race ("laboratory report" model) and to the ARIC HF model (includes age, race, systolic blood pressure, antihypertensive medication use, current/former smoking, diabetes, body mass index, prevalent coronary heart disease, and heart rate) in 9868 participants without prevalent HF; area under the receiver operating characteristic curve (AUC), integrated discrimination improvement, net reclassification improvement (NRI), and model fit were described.
+RESULTS:
+Over a mean follow-up of 10.4 years, 970 participants developed incident HF. Adding cTnT and NT-proBNP to the ARIC HF model significantly improved all statistical parameters (AUCs increased by 0.040 and 0.057; the continuous NRIs were 50.7% and 54.7% in women and men, respectively). Interestingly, the simpler laboratory report model was statistically no different than the ARIC HF model.
+CONCLUSIONS:
+cTnT and NT-proBNP have significant value in HF risk prediction. A simple sex-specific model that includes age, race, cTnT, and NT-proBNP (which can be incorporated in a laboratory report) provides a good model, whereas adding cTnT and NT-proBNP to clinical characteristics results in an excellent HF prediction model.

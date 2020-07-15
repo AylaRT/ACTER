@@ -1,0 +1,16 @@
+Treatment of anemia in patients with heart disease: a systematic review.
+Background: The benefits of anemia treatment in patients with heart disease are uncertain.
+
+Purpose: To evaluate the benefits and harms of treatments for anemia in adults with heart disease.
+
+Data Sources: MEDLINE, EMBASE, and Cochrane databases; clinical trial registries; reference lists; and technical advisors.
+
+Study Selection: English-language trials of blood transfusions, iron, or erythropoiesis-stimulating agents in adults with anemia and congestive heart failure or coronary heart disease and observational studies of transfusion.
+
+Data Extraction: Data on study design, population characteristics, hemoglobin levels, and health outcomes were extracted. Trials were assessed for quality.
+
+Data Synthesis: Low-strength evidence from 6 trials and 26 observational studies suggests that liberal transfusion protocols do not improve short-term mortality rates compared with less aggressive protocols (combined relative risk among trials, 0.94 [95% CI, 0.61 to 1.42]; I2 = 16.8%), although decreased mortality rates occurred in a small trial of patients with the acute coronary syndrome (1.8% vs. 13.0%; P = 0.032). Moderate-strength evidence from 3 trials of intravenous iron found improved short-term exercise tolerance and quality of life in patients with heart failure. Moderate- to high-strength evidence from 17 trials of erythropoiesis-stimulating agent therapy found they offered no consistent benefits, but their use may be associated with harms, such as venous thromboembolism.
+
+Limitations: Few trials have examined transfusions in patients with heart disease, and observational studies are potentially confounded by indication. Data supporting iron use come mainly from 1 large trial, and long-term effects are unknown.
+
+Conclusion: Higher transfusion thresholds do not consistently improve mortality rates, but large trials are needed. Intravenous iron may help to alleviate symptoms in patients with heart failure and iron deficiency and also warrants further study. Erythropoiesis-stimulating agents do not seem to benefit patients with mild to moderate anemia and heart disease and may be associated with serious harms.

@@ -1,0 +1,3 @@
+Epidémiologie et pronostic de l'insuffisance rénale aiguë
+
+L'incidence annuelle de l'insuffisance rénale aiguë (IRA) dans la population générale semble voisine de 150 par million d'habitants. La proportion d'IRA d'origine médicale s'est accrue depuis 20 ans, au détriment de celle des IRA chirurgicales, traumatiques ou obstétricales. Vingt pour cent des IRA sont dues à des médicaments. Les facteurs prédictifs d'une évolution défavorable incluent l'état de santé antérieur, la présence d'une oligurie, d'une insuffisance cardiaque ou respiratoire, d'un état septique, d'un coma, la nécessité d'une ventilation assistée et, surtout, le nombre de défaillances viscérales associées. Les trois principaux scores de gravité utilisés sont l'IGS, l'APACHE II et l'OSF.

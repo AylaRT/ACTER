@@ -1,0 +1,9 @@
+Heart failure risk among patients with rheumatoid arthritis starting a TNF antagonist.
+BACKGROUND:
+While heart failure (HF) is associated with elevations in tumor necrosis factor (TNF)α, several trials of TNF antagonists showed no benefit and possibly worsening of disease in those with known severe HF. We studied the risk of new or recurrent HF among a group of patients receiving these agents to treat rheumatoid arthritis (RA).
+METHODS:
+We used data from four different US healthcare programmes. Subjects with RA receiving methotrexate were eligible to enter the study cohort if they added or switched to a TNF antagonist or another non-biological disease modifying antirheumatic drug (nbDMARD). These groups were compared in Cox regression models stratified by propensity score decile and adjusted for oral glucocorticoid dosage, prior HF hospitalisations, and the use of loop diuretics.
+RESULTS:
+We compared 8656 new users of a nbDMARD with 11 587 new users of a TNF antagonist with similar baseline covariates. The HR for the TNF antagonists compared with nbDMARD was 0.85 (95% CI 0.63 to 1.14). The HR was also not elevated in subjects with a history of HF. But, it was elevated prior to 2002 (HR 2.17, 95% CI 0.45 to 10.50, test for interaction p=0.036). Oral glucocorticoids were associated with a dose-related gradient of HF risk: compared with no use, 1≤5 mg HR 1.30 (95% CI 0.91 to 1.85), ≥5 mg HR 1.54 (95% CI 1.09 to 2.19).
+CONCLUSIONS:
+TNF antagonists were not associated with a risk of HF hospital admissions compared with nbDMARDs in this RA population.

@@ -1,0 +1,19 @@
+Risk for Hospitalized Heart Failure Among New Users of Saxagliptin, Sitagliptin, and Other Antihyperglycemic Drugs: A Retrospective Cohort Study.
+BACKGROUND:
+Recent postmarketing trials produced conflicting results about the risk for hospitalized heart failure (hHF) associated with dipeptidyl peptidase-4 (DPP-4) inhibitors, creating uncertainty about the safety of these antihyperglycemic agents.
+OBJECTIVE:
+To examine the associations of hHF with saxagliptin and sitagliptin.
+DESIGN:
+Population-based, retrospective, new-user cohort study.
+SETTING:
+18 health insurance and health system data partners in the U.S. Food and Drug Administration's Mini-Sentinel program.
+PATIENTS:
+Patients aged 18 years or older with type 2 diabetes who initiated therapy with saxagliptin, sitagliptin, pioglitazone, second-generation sulfonylureas, or long-acting insulin products from 2006 to 2013.
+MEASUREMENTS:
+Hospitalized HF, identified by International Classification of Diseases, Ninth Revision, Clinical Modification codes 402.x1, 404.x1, 404.x3, and 428.xx recorded as the principal discharge diagnosis.
+RESULTS:
+78 553 saxagliptin users and 298 124 sitagliptin users contributed an average of 7 to 9 months of follow-up data to 1 or more pairwise comparisons. The risk for hHF was not higher with DPP-4 inhibitors than with the other study drugs. The hazard ratios from the disease risk score (DRS)-stratified analyses were 0.83 (95% CI, 0.70 to 0.99) for saxagliptin versus sitagliptin, 0.63 (CI, 0.47 to 0.85) for saxagliptin versus pioglitazone, 0.69 (CI, 0.54 to 0.87) for saxagliptin versus sulfonylureas, and 0.61 (CI, 0.50 to 0.73) for saxagliptin versus insulin. The DRS-stratified hazard ratios were 0.74 (CI, 0.64 to 0.85) for sitagliptin versus pioglitazone, 0.86 (CI, 0.77 to 0.95) for sitagliptin versus sulfonylureas, and 0.71 (CI, 0.64 to 0.78) for sitagliptin versus insulin. Results from the 1:1 propensity score-matched analyses were similar. Results were also similar in subgroups of patients with and without prior cardiovascular disease and in a subgroup defined by the 2 highest DRS deciles.
+LIMITATION:
+Residual confounding and short follow-up.
+CONCLUSION:
+In this large cohort study, a higher risk for hHF was not observed in users of saxagliptin or sitagliptin compared with other selected antihyperglycemic agents.

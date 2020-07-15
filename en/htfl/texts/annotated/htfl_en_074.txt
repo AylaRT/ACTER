@@ -1,0 +1,9 @@
+Reduced hospitalizations in severe, refractory congestive heart failure with peritoneal dialysis: a consecutive case series.
+BACKGROUND:
+Peritoneal dialysis (PD) for long-term management of diuretic resistant volume overload in heart failure (HF) may provide potential benefit with few adverse consequences. We examined the impact of PD on clinical status hospitalizations, and complications of therapy in severe end-stage HF.
+METHODS:
+A consecutive case series of 10 transplant ineligible patients receiving PD solely for HF volume management between 2007 and 2011 was evaluated with clinical data reviewed pre- and post-PD initiation.
+RESULTS:
+The mean ejection fraction (EF) pre-PD was 24.5 ± 6.0% with the majority of patients having NYHA class IIIB symptoms and moderate-severe right ventricular dysfunction. 9/10 patients were Stage 3 chronic kidney disease (CKD) or worse. After PD initiation, average weight loss was almost 7 kg (p = 0.016) with improvement in diuretic response, peripheral edema, and functional class. There was a significant decrease in re-hospitalization from an average of 3.2 ± 2.5 to 0.1 ± 0.3 admissions per patient (p = 0.007) and reduced average length of stay from 37 ± 36.7 to 0.78 ± 2.3 days (p = 0.019).
+SUMMARY:
+Objective criteriabased institution of PD for the treatment of diuretic refractory severe-end-stage HF was well tolerated and demonstrated favorable outcomes; these included improved clinical status, reduced hospitalizations and length of stay, with very few and easily treatable PDrelated complications. PD appears to be a viable option in refractory, end-stage congestive heart failure (CHF).

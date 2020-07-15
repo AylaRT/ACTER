@@ -1,0 +1,5 @@
+Prevalentie en onjuiste diagnoses van chronisch hartfalen bij verpleeghuisbewoners: de rol van B-type natriuretische peptiden
+Doel: Bepalen van onjuiste diagnoses, prevalentie en voorspellende waarden van natriuretische peptiden voor de CHF-diagnose.
+Methode: Van 103 onderzochte bewoners stelde een cardiologenpanel CHF vast zonder kennis van natri-uretische peptiden.
+Resultaten: Van de 103 onderzochte bewoners hadden 24 (23%) CHF (NT-proBNP 1871, BNP 194 pg/ml), bij 15 van deze 24 (63%) was de diagnose gemist (NT-proBNP 1146, BNP 200 pg/ml) en bij 13/22 (60%) was CHF onjuist gesteld (NT-proBNP 388, BNP 90 pg/ml). Afkappunt van NT-proBNP is 450, sensitiviteit 0,71, specificiteit 0,67 en van BNP is 100 pg/ml, sensitiviteit 0,71, specificiteit 0,70.
+Conclusie: Ruim twee derde onjuiste CHF-diagnoses, CHF-prevalentie 23%, natriuretische peptiden voorspellen CHF redelijk.

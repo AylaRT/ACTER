@@ -1,0 +1,11 @@
+Implications of metric choice for common applications of readmission metrics.
+OBJECTIVE:
+To quantify the differential impact on hospital performance of three readmission metrics: all-cause readmission (ACR), 3M Potential Preventable Readmission (PPR), and Centers for Medicare and Medicaid 30-day readmission (CMS).
+DATA SOURCES:
+2000-2009 California Office of Statewide Health Planning and Development Patient Discharge Data Nonpublic file.
+STUDY DESIGN:
+We calculated 30-day readmission rates using three metrics, for three disease groups: heart failure (HF), acute myocardial infarction (AMI), and pneumonia. Using each metric, we calculated the absolute change and correlation between performance; the percent of hospitals remaining in extreme deciles and level of agreement; and differences in longitudinal performance.
+PRINCIPAL FINDINGS:
+Average hospital rates for HF patients and the CMS metric were generally higher than for other conditions and metrics. Correlations between the ACR and CMS metrics were highest (r = 0.67-0.84). Rates calculated using the PPR and either ACR or CMS metrics were moderately correlated (r = 0.50-0.67). Between 47 and 75 percent of hospitals in an extreme decile according to one metric remained when using a different metric. Correlations among metrics were modest when measuring hospital longitudinal change.
+CONCLUSIONS:
+Different approaches to computing readmissions can produce different hospital rankings and impact pay-for-performance. Careful consideration should be placed on readmission metric choice for these applications.

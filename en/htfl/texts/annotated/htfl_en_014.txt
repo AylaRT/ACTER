@@ -1,0 +1,9 @@
+Changes in circulating progenitor cells are associated with outcome in heart failure patients: a longitudinal study.
+BACKGROUND:
+Circulating progenitor cells (CPCs) are involved in the process of endothelial repair and are a prognostic factor in cardiovascular diseases. We evaluated the association between serial measurements of CPCs and functional capacity and outcomes in heart failure (HF).
+METHODS:
+We included 156 consecutive consenting ambulatory HF patients (left ventricular ejection fraction < 40%). We evaluated CPCs and functional capacity (peak VO2) every 6 months for up to 2 years. CPCs were measured as early-outgrowth colony-forming units (EO-CFUs) and circulating CD34+, VEGFR2+ and/or CD133+ cells. We recorded mortality, HF hospital admissions, transplant, and ventricular assist device.
+RESULTS:
+The mean age was 55 ± 15 years. A decrease in CD34+VEGFR2+ cells was independently associated with increased functional capacity; a 10-cell decrease in CD34+VEGFR2+ cells was associated with an increase of 0.2 mL/kg/min in peak VO2 (P < 0.05). We found an interaction effect (P = 0.02) between EO-CFUs and diabetes: in patients without diabetes, a 10-EO-CFU increase was independently associated with increased peak VO2 of 0.28 mL/kg/min (P = 0.01), and in patients with diabetes, a decrease in EO-CFUs was associated with an increased peak VO2 (P < 0.05). Higher EO-CFUs were associated with reduced mortality (hazard ratio, 0.25; 95% confidence interval, 0.09-0.69).
+CONCLUSIONS:
+We noted differential relations between CPCs and outcomes in patients with vs without diabetes. Higher EO-CFUs and lower CD34+VEGFR2+ cells were associated with improved functional capacity and reduced mortality in nondiabetic patients. In patients with diabetes, lower EO-CFUs were associated with improved functional capacity. The basis for these differences requires further examination.

@@ -1,0 +1,958 @@
+Toetsen criteria op het praktijkvoorbeeld Petten
+
+De onderzoeksvraag van deze deelstudie is: Hoe is de voorspelfout in de windsnelheid op vijftig meter hoogte verdeeld over de vijf categorieën, en hoe groot is de standaardafwijking in de voorspelfout? Dit is onderzocht door de voorspelfout voor de meetmast in Petten te bepalen gedurende de periode van 9 juni 2001 tot en met 8 juni 2002. De tijdsperiode waarover de voorspelfout is bepaald bedraagt tien minuten. De gemeten windsnelheid is niet gebruikt om eventuele systematische fouten te verwijderen.
+
+Tien minunten is de gangbare tijdperiode bij windturbine-ontwerp en in de meteorolgie
+
+Figuur 5.7 Vereenvoudigde vorm van de vermogenscurve van een windturbine(park)
+
+Tabel 5.4 De categorieën voor de onbalans en de voorspelfout zoals die gelden voor windenergie
+
+
+
+Figuur 5.8 Verdeling van de voorspelfout in de windsnelheid op 50 meter hoogte voor het praktijkvoorbeeld Petten, waarbij de prognoses een ouderdom van 0 uur, 18 uur en 42 uur hebben
+
+De figuur 5.8 laat verdelingen zien van de voorspelfout op vijftig meter hoogte, uitgaande van de run 06. Van de 49 mogelijke verdelingen zijn er drie getoond en wel die opgebouwd zijn uit verwachtingen met een ouderdom van 0, 18 en 42 uur. De bijbehorende kentallen staan in tabel 5.5. De verdelingen met een ouderdom van nul uur hebben geen praktische waarde omdat de achterliggende verwachtingen altijd enkele uren te laat beschikbaar zijn. Deze verdelingen geven echter wel het maximaal haalbare omdat de achterliggende verwachtingen het dichtst bij de initialisatie liggen. De verdelingen met een ouderdom van 18 uur en 42 uur begrenzen het volgende etmaal, en zijn dus representatief voor de voorspelfouten binnen de onbalanssystematiek.
+
+De voorspelfout blijkt toe te nemen met de ouderdom van de prognose. Ligt 43% van de voorspelfouten met een ouderdom van 0 uur in het interval tussen plus en min een meter per seconde, bij een ouderdom van 18 uur is dit percentage afgenomen tot 38% en bij 42 uur zelfs tot 31%. (Het percentage geeft de fractie van het totaal aantal tien minuten perioden gedurende het beschouwde jaar.) De prognoses met een ouderdom van 42 uur zijn dus maatgevend.
+Het eerste criterium voor de beoordeling van de technische haalbaarheid is de verdeling van de voorspelfout over de vijf categorieën die in sectie 5.3.1b zijn gede nieerd. Figuur 5.9 toont de frequentie van de categorieën voor verwachtingen met een ouderdom van 42 uur, zoals afgeleid uit de kentallen in tabel 5.5. Hieruit blijkt het volgende: De meeste prognoses, 68% van het totaal, zijn onvoldoende. Een andere grote groep prognoses, 23% van het totaal, is slecht. In de categorie goed valt 8,3% van de prognoses, en 0,3% is uitmuntend. Een procent van de prognoses is afschuwelijk.
+
+Het tweede criterium is de standaardafwijking in de voorspelfout. Onder de aanname dat de voorspelfout normaal verdeeld is, volgt uit de percentielen p16 en p84 infiguur 5.8 dat deze standaardafwijking 2,7 m/s bedraagt. Voor een windturbine op deze locatie zou dit een standaardafwijking in de onbalans van 27% van het geïnstalleerd vermogen opleveren.
+
+Merk op dat tachtig procent van de voorspelfouten ligt in het interval tussen 3; 2 m/s en +3; 6 m/s, wat zou betekenen dat tachtig procent van de onbalans zou liggen tussen
+32% en +36% van het geïnstalleerd vermogen.
+
+Toetsen criteria op het praktijkvoorbeeld Medemblik
+
+De onderzoeksvraag van deze deelstudie is: Hoe is de voorspelfout in de windsnelheid op 52 meter hoogte verdeeld over de vijf categorieën, en hoe groot is de standaardafwijking in de voorspelfout? Dit is onderzocht door de voorspelfout voor de meetmast bij de windturbine in Medemblik te bepalen gedurende de periode van 9 juni 2001 tot en met 30 september 2001. De tijdsperiode waarover de voorspelfout is bepaald bedraagt vijftien minuten. De gemeten windsnelheid is niet gebruikt om eventuele systematische fouten te verwijderen.
+
+
+
+Tabel 5.5 Kentallen voor de voorspelfout in de windsnelheid op 50 meter hoogte voor het praktijkvoorbeeld Petten: (a) 10%, 20%, 50%, 80% en 90%-percentielen; en (b) kans dat de voorspelfout kleiner is dan de gegeven grenswaarde. De kentallen zijn gegeven voor een verschillende ouderdom van de prognose: 0 uur, 18 uur en 42 uur.
+
+
+Figuur 5.10 toont de verdeling van de voorspelfout op 52 meter hoogte, uitgaande van verwachtingen uit run00 van het voorafgaande etmaal. De verdeling is opgebouwd uit prognoses met een ouderdom tussen 24 uur en 48 uur, dus uit degene die relevant zijn voor het volgende etmaal. De bijbehorende kentallen staan in tabel 5.6.
+
+Het blijkt dat: De meeste verwachtingen, 69% van het totaal, onvoldoende zijn. Een andere grote groep, 23% van het totaal, slecht is. In de categorie goed 7,5% van de prognoses valt, en 0,3% uitmuntend is. Verwachtingen die afschuwelijk waren, niet voorkomen. Uit de percentielen in tabel 5.6 volgt dat 80% van de voorspelfouten in het interval tussen 3; 6 m/s en +2; 6 m/s ligt. (De asymmetrie betekent dat er een onzuiverheid is, in dit geval 0; 4 m/s. Dit is een direct gevolg van het niet correleren aan gemeten windsnelheden.) Dit interval zou corresponderen met een onbalans interval dat loopt van 36% tot +26% van het geïnstalleerd vermogen. Onder de aanname dat de voorspelfout normaalverdeeld is, volgt uit de percentielen p16 en p84 dat de standaardafwijking circa 2,4 m/s is. Dit zou corresponderen met een standaardafwijking in de onbalans van 24% van het geïnstalleerd vermogen.
+
+Tabel 5.6 Kentallen voor de voorspelfout voor de windsnelheid op 52 meter hoogte voor het praktijkvoorbeeld Medemblik: (a) 10%, 20%, 50%, 80% en 90%-percentielen; en (b) kans dat de voorspelfout kleiner is dan de gegeven grenswaarde. De kentallen gelden voor prognoses met een ouderdom tussen 24 uur en 48 uur
+
+
+Figuur 5.9 Relatief voorkomen van de vijf klassen voor de windsnelheidsverwachtigen op 50 meter hoogte die 42 uur van te voren zijn afgegeven; praktijkvoorbeeld Petten
+
+
+Figuur 5.10 Verdeling van de voorspelfout in de windsnelheid op 52 meter hoogte voor het praktijkvoorbeeld Medemblik, waarbij de prognoses een ouderdom hebben tussen 24 uur en 48 uur
+
+Studies naar voorspelbaarheid windsnelheid in de literatuur
+
+In het grote aantal publicaties over de prognosemethoden is weinig informatie te vinden over de voorspelfout in de windsnelheid op ashoogte. Drie uitzonderingen met bruikbare informatie zijn de studies aan een 15 meter meetmast in de Verenigde Staten, een meetmast met een niet-gespeci ceerde hoogte bij een windpark in de Verenigde Staten, en een 32-meter meetmast in Finland.
+
+Van 1 januari 1999 tot 30 juni 1999 werden windsnelheidsverwachtingen voor vijftien meter hoogte gemaakt voor de locatie Newport aan de kust van Oregon. Deze verwachtingen kwamen van het NCEP ETA model in combinatie met een Model Output Adjustment techniek. De kerncijfers van de voorspelfout voor prognoses tussen 12 en 36 uur vooruit: Standaardafwijking: tussen 2,7 m/s en 3,5 m/s. Onzuiverheid: tussen 0; 8 m/s en +0; 3 m/s.
+
+Van 1 oktober 2001 tot 30 september 2002 werden windsnelheidsverwachtingen voor een niet gespeci ceerde hoogte van een meetmast bij een windturbinepark in Mountain View gemaakt. Deze verwachtingen waren afkomstig van het NWS AVN model in combinatie met een Model Output Statistics techniek. De uurlijkse verwachtingen werden tweemaal per dag (8 uur en 20 uur lokale tijd) voor de volgende 48 uur afgegeven. Voor prognoses met een ouderdom tussen 25 en 48 uur zijn de kerncijfers van de voorspelfout: Gemiddelde absolute waarde: 2,7 m/s. Mediaan absolute waarde: 2,0 m/s. Standaardafwijking: 3,6 m/s.
+
+Voor enkele 32-meter meetmasten in Finland werden windsnelheidsverwachtingen gemaakt met het DMI Hirlam. Voor prognoses met een ouderdom tussen 24 en 48 uur is het kerncijfer van de voorspelfout: Gemiddelde absolute waarde: tussen 2,5 m/s en 3,4 m/s.
+
+Vergelijking tussen de ervaringscijfers van ECN en uit andere bron
+
+De uitkomsten van de buitenlandse studies naar de voorspelfout (paragraaf 5.3.2) maken een beoordeling mogelijk van de uitkomsten van de twee ECN praktijkvoorbeelden (paragraaf 5.3.1). Daarbij moet worden aangetekend dat al deze praktijkvoorbeelden verschillen voor wat betreft de evaluatiehoogte, de tijdhorizon, het meteorologisch karakter van de locatie, het soort en de resolutie van het atmosfeermodel, en de nabewerking van de modeluitvoer. Er is dus voorzichtigheid geboden met een onderlinge vergelijking van de uitkomsten. Niettemin komt uit de praktijkvoorbeelden naar voren dat de standaardafwijking van de voorspelfout twee tot drie meter per seconde is.
+
+Technische vuistregels
+Uit de twee praktijkvoorbeelden van ECN volgen enkele technische vuistregels betreffende de voorspelfout voor de windsnelheid op ashoogte in het volgende etmaal zoals 18 tot 42 uur van tevoren afgegeven.
+Twee derde van de verwachtingen heeft een voorspelfout met een abslolute waarde in het interval tussen 0,25 m/s en 1 m/s.
+Een kwart van de voorspelfouten ligt tussen 0,25 m/s en 1 m/s.
+Een tiende van de voorspelfouten is kleiner dan 0,25 m/s.
+Een procent van de voorspelfouten is groter dan 10 m/s.
+De standaardafwijking van de voorspelfout is twee tot drie meter per seconde.
+
+CONCLUSIE
+
+Met prognoses voor de productie van windenergie op tijdstippen die tot vele uren in de toekomst liggen is het mogelijk de onbalans door het varierend windaanbod te verminderen. Er blijft echter onbalans aanwezig. Windvermogen verwachtingen zijn dus een nuttig maar niet afdoende instrument om netbalans te handhaven. Dit kon worden vastgesteld door de economische en technische haalbaarheid te onderzoeken van diverse methoden die het aanbod windenergie voorspellen, waaronder de door ECN voor de Nederlandse situatie gemaakte prognosemethode.
+
+Het centrale doel en de twee sub-doelstellingen van het ECN Engine project `Aanbodvoorspeller Duurzame Energie (AVDE)' zijn hiermee bereikt. In de volgende alinea's de toelichting op deze conclusie.
+
+In Nederland hebben marktpartijen de taak om de balans in het elektriciteitsnet te handhaven. Deze partijen zijn wettelijk verantwoordelijk voor het afstemmen van invoeding en afname voor de netaansluitingen in hun programma. Door het wisselend windaanbod heeft invoeding vanuit windenergie inherent te maken met onbalans. Voorspelling van het windvermogen zou dus kunnen bijdragen aan het handhaven van de netbalans.
+De windvermogen voorspeller van ECN is toegespitst op dergelijke marktpartijen, de zogenaamde programmaverantwoordelijken. De methode geeft per kwartier tot 48 uur in de toekomst de verwachte waarde voor het windvermogen plus de marge voor die verwachting. Deze verwachtingen gelden voor de aansluitingen binnen een programma; afhankelijk van de wens van de gebruiker voor alle aansluitingen afzonderlijk dan wel geaccumuleerd. De methode gebruikt daartoe de beste meteorologische prognoses die in Nederland commercieel verkrijgbaar zijn in combinatie met de ingebouwde lokale ver jningen.
+
+Als vuistregel geldt dat voor elke 3 kilowattuur windstroom er 1 kilowattuur onbalans is als windvermogen verwachtingen worden gebruikt. De oorzaak hiervan is de voorspelfout in de windsnelheid op ashoogte van een windturbine, die een standaardafwijking van twee tot drie meter per seconde heeft voor perioden die 18 tot 42 uur vooruit liggen. Vergeleken met de situatie waarin een eenvoudiger soort verwachtingen wordt gebruikt, leiden dit soort verwachtingen overigens wel tot een kleinere onbalans. Een vuistregel geeft dat er met eenvoudiger verwachtingen voor elke 3 kilowattuur productie 1,3 kilowattuur onbalans zou zijn. Als de invloed van de onregelmatigheid van de onbalansprijs buiten beschouwing blijft, leiden windvermogen verwachtingen tot lagere onbalanskosten. Dit betekent dat de waarde van de verwachtingen bepaald is door de vermeden onbalanskosten. De resterende onbalanskosten zijn echter aanzienlijk en verhogen zowel de kostprijs van als het bedrijfsrisico voor windenergie. Tenslotte wordt met windvermogen prognoses de kans op tekort-situaties verkleind. Hierdoor kan een windproducent hoeveelheden windstroom met een hoge leveringszekerheid aanbieden.
+
+Samenvattend is er een objectief antwoord op de eerste centrale vraag uit het nut-en-noodzaak onderzoek: Windvermogenprognoses zijn mogelijk en hebben drie voordelen: de vermindering van de onbalans, de verlaging van de onbalanskosten, en de kleinere kans op `shortage'. Er is ook een nadeel: onbalans en dus onbalanskosten blijven aanwezig.
+
+Vanuit het perspectief van een programmaverantwoordelijke zijn windvermogen verwachtingen dus nuttig maar niet afdoende. Er is dan ook geen eenduidig antwoord mogelijk op de vraag of een programmaverantwoordelijke dergelijke verwachtingen nodig heeft. Aan de ene kant vereist de taak van de marktpartij om de invoeding op de afname af te stemmen het anticiperen op de toekomstige toestand van de programma's. Als er windvermogen in het programma zit, ligt het gebruik van windvermogen verwachtingen voor de hand. Aan de andere kant zal de marktpartij ook andere instrumenten moeten inzetten om de taak te kunnen volbrengen. Inzet van dergelijke instrumenten zal de voorkeur krijgen als deze meer effect hebben.
+
+Samengevat is het antwoord op de tweede centrale vraag uit het nut-en-noodzaak onderzoek dus subjectief in de zin dat het afhangt van de marktpartij: In Nederland zijn windvermogen verwachtingen nodig naast andere instrumenten om de balans ten opzichte van een programma te handhaven.
+
+Tabel 5.2 Kentallen voor de relatieve onbalans voor het praktijkvoorbeeld Medemblik: (a) 10%, 20%, 50%, 80% en 90%-percentielen; en (b) kans dat de onbalans kleiner is dan 80%, 2:5%, 0%, 2:5%, en 80% van het geïnstalleerd vermogen
+
+
+
+Tabel 5.3 Hoeveelheid `surplus' als fractie van het geïnstalleerd vermogen en frequentie van de `surplus' situaties voor verschillende waarden van de factor op de verwachtingswaarde voor het vermogen.
+
+
+
+Deze kerncijfers maken het mogelijk ervaringscijfers te geven:
+De reductie van de netto kosten door onbalans dankzij het gebruik van windvermogenprognoses bedraagt: 12,6 MEuro 8,8 MEuro = 3,8 MEuro.
+
+Per geïnstalleerd vermogen is dit voordeel van windvermogenprognoses: 3,8 MEuro / 1.630 MW = 2.331 Euro/MW.
+
+Per geproduceerde hoeveelheid elektriciteit is dit voordeel: 3,8 MEuro / 3.384 GWh = 1,12 Euro/MWh.
+
+De verhouding van de onbalans door en de productie van windstroom is: 1.277 GWh / 3.384 GWh = 37,7%.
+
+Deze relatieve hoeveelheid onbalans is dus de hoeveelheid die resteert na gebruik van windvermogenprognoses.
+
+De gemiddelde prijs voor de onbalans bedraagt: 8,8 MEuro / 1.277 GWh = 6,93 EUR/MWh.
+
+De kosten van de onbalans per geïnstalleerd vermogen zijn: 8,8 MEuro / 1.630 MW = 5.399 EUR/MW.
+
+De kosten van onbalans per geproduceerde elektriciteit zijn: 8,8 MEuro / 3.384 GWh = 2,60 EUR/MWh.
+
+Overige studies naar voorspelbaarheid windvermogen
+
+Gedurende de periode van 1 november 2000 tot 30 april 2001 werd de methode eWind door het nutsbedrijf Southern California Edison gebruikt voor het maken van prognoses voor het volgende etmaal. Het doel hiervan was vast te stellen of de nauwkeurigheid van dergelijke prognoses beter is dan die van de klimatologische verwachtingen die bij de bedrijfsvoering in gebruik zijn, af te meten aan een vermindering van de kosten door onbalans. De kerncijfers van praktijkvoorbeeld zijn:
+Geïnstalleerd vermogen: ruim 1.000 MW.
+Vermindering van de gemiddelde absolute onbalans: 33% tot 50%.
+Besparing aan kosten door onbalans in december 2000: 2 miljoen USD.
+
+Deze kerncijfers maken duidelijk dat het gestelde doel bereikt is: prognoses lonen. Het is echter niet mogelijk ervaringscijfers voor dit praktijkvoorbeeld te geven omdat andere informatie ontbreekt.
+
+Vergelijking tussen de ervaringscijfers van ECN en uit Denemarken
+De Deense ervaringscijfers maken een beoordeling mogelijk van de ervaringscijfers in het praktijkvoorbeeld van ECN zoals beschreven in paragraaf 5.2.1. Dit vindt plaats via een viertal onderwerpen: het voordeel door windvermogenprognoses, de hoeveelheid resterende onbalans, de gemiddelde prijs van onbalans, en de kosten door onbalans. Hierbij moet worden bedacht dat de Deense ervaringscijfers gelden voor 1.630 MW verspreid over het land, terwijl die voor het ECN-praktijkvoorbeeld gelden voor een solitaire windturbine van 1 MW.
+
+Voordeel door windvermogenprognsoses: ECN: Vergeleken met een eenvoudige methode16
+leiden prognoses tot Netto kosten door het weghandelen van de resterende onbalans die 35% hoger liggen, maar een volume aan resterende onbalans dat 30% kleiner is.
+Denemarken: Gebruik van prognoses leidt tot een reductie van de netto kosten door het weghandelen van onbalans met 30%.
+
+Hoeveelheid resterende onbalans: ECN: 35,7% van de hoeveelheid geproduceerde elektriciteit; Denemarken: 37,7%.
+
+Gemiddelde prijs van onbalans: ECN: Voor `tekort' en `surplus' gemiddeld genomen 10 EUR/MWh; Denemarken: 7 EUR/MWh.
+
+Kosten door onbalans: Per geïnstalleerd vermogen: ECN: ruim 18 duizend Euro per Megawatt; Denemarken: ruim 5.400 Euro per Megawatt. Per geproduceerde elektriciteit: ECN: afgerond 10 Euro per Megawattuur; Denemarken: nog geen 3 Euro per Megawattuur.
+
+Wat betreft het volume aan onbalans dat resteert na gebruik van windvermogenprognoses en het voordeel aan `vermeden onbalans' is er dus nauwelijks verschil tussen de uitkomsten van ECN en uit Denemarken. Door het verschil tussen de onbalansprijzen in beide parktijkvoorbeelden is er wel een verschil tussen de kosten door het weghandelen van het restant aan onbalans en de `vermeden kosten door onbalans'.
+
+Dat het volume aan onbalans dat resteert na gebruik van windvermogenprognoses en het voordeel aan `vermeden onbalans' in beide praktijkvoorbeelden van dezelfde orde zijn, is verrassend en onverwacht. Het betekent namelijk dat de uitmiddelende invloed van regionale spreiding in Denemarken niet aanwezig is. Met andere woorden: de onbalans in de verschillende locaties in Denemarken is onderling gecorreleerd en daardoor statistisch niet-onafhankelijk. De verklaring is dat een regionaal uitmiddelingseffect pas optreedt voor regio's met een doorsnede vanaf drie honderd kilometer. Het verzorgingsgebied van Eltra, Jutland en Funen in het westen van Denemarken, is dus te klein voor een uitmiddeling van lokale onbalans.
+
+Economische vuistregels
+Uit het praktijkvoorbeeld van ECN volgt een aantal economische vuistregels. Betreffende onbalans: De kans op een absolute waarde voor de onbalans groter dan 80% van het geïnstalleerd vermogen bedraagt niet meer dan 0,2%. (In een jaar mag voor tenhoogste zeventig programmatijdseenheden een tekort of een overschot van 80% of meer van het geïnstalleerd vermogen worden verwacht.)
+Het 80% betrouwbaarheidsinterval ligt tussen 25% en +25% van het geïnstalleerd vermogen. (In acht van de tien programmatijdseenheden is het tekort of het overschot minder dan een kwart van het geïnstalleerd vermogen.)
+Het relatieve volume onbalans dat resteert na gebruik van windvermogenprognoses bedraagt circa een derde van de hoeveelheid opgewekte elektriciteit. (Elke drie kilowattuur windstroom genereert een kilowattuur aan onbalans.) Zonder gebruik van prognoses zou dit resterende volume 30% groter zijn. (Windvermogenprognoses verkleinen het volume onbalans met een kwart.)
+Het gemiddelde van de absolute waarde van de onbalans is 20% van het geïnstalleerde vermogen. (De gemiddelde onbalans van wind ten opzichte van een afgegeven programma is twintig procent van het geïnstalleerde vermogen.)
+
+Betreffende onbalansprijs:
+Onbalansprijs voor tekorten: Het verdiend aanbeveling om conservatief aan de lasten door `shortage' te rekenen, bijvoorbeeld met de 80% percentiel van deze prijs. In het jaar 2001 bedroeg deze 63 Euro per Megawattuur. (Op 80% van de programmatijdseenheden kon in 2001 elektriciteit van de netbeheerder worden betrokken voor 63 Euro per Megawattuur of minder.)
+Onbalansprijs voor overschotten: Het verdiend aanbeveling om conservatief aan de baten door `surplus' te rekenen, bijvoorbeeld met de 20% percentiel van deze onbalansprijs. In het jaar 2001 was deze -1 Euro per Megawattuur. (Op 80% van de programmatijdseenheden kon in 2001 elektriciteit aan de netbeheerder worden geleverd tegen betaling van ten hoogste een Euro per Megawattuur.)
+
+Betreffende netto kosten door onbalans die resteert na het gebruik van prognoses, op basis van het voorbeeld uit het jaar 2001: Jaarlijks achttien duizend Euro per Megawatt geïnstalleerd vermogen. Jaarlijks tien Euro per Megawattuur opgewekte elektriciteit.
+
+Betreffende vermeden kosten door onbalans, dankzij het gebruik van prognoses, op basis van het voorbeeld uit het jaar 2001: Jaarlijks zes duizend Euro per Megawatt geïnstalleerd vermogen. Jaarlijks 3,3 Euro per Megawattuur opgewekte elektriciteit.
+
+Technische haalbaarheid: Voorspelfout en onbalans
+
+5.3.1 Studies met de ECN methode: Twee windmasten 
+Inleiding tot de ECN studies
+
+De technische haalbaarheid van windvermogenprognoses is onderzocht aan de hand van de voorspelfout. De voorspelfout is hierbij gede nieerd als het verschil tussen de werkelijke windsnelheid en de verwachte windsnelheid per tijdsperiode voor een gegeven locatie. Deze de nitie is in lijn met de de nitie van onbalans als het verschil tussen de netto gemeterde invoeding en de aangekondigde netto invoeding op een aansluiting. De voorspelfout kan zowel positief als negatief zijn. In het geval van een positieve voorspelfout is de werkelijke windsnelheid groter dan de verwachte. Dan zal meestal het werkelijke windvermogen groter dan het verwachte windvermogen zijn en dus een `surplus' situatie zijn opgetreden. Omgekeerd zal bij een negatieve voorspelfout meestal een `shortage' situatie zijn ontstaan.
+
+Het onderzoek naar de technische haalbaarheid is onderverdeeld in drie deelstudies: Het a eiden van criteria voor de technische haalbaarheid, het toepassen van deze criteria op het praktijkvoorbeeld Petten, en het toepassen op het praktijkvoorbeeld Medemblik. Deze deelstudies komen in de volgende paragrafen aan de orde.
+
+Criteria voor de technische haalbaarheid
+
+De onderzoeksvraag van deze deelstudie is: Wat zijn criteria voor de technische haalbaarheid van windvermogenverwachtingen? Dergelijke criteria volgen uit de hoeveelheid onbalans die resulteert uit een gegeven voorspelfout. Er is dus een directe relatie tussen de technische haalbaarheid en de toepassing van de prognoses binnen de onbalanssystematiek. De criteria worden opgesteld aan de hand van de vermogenscurve van een windturbine of een windturbinepark.
+
+In een vereenvoudigde vorm, die voldoet voor het a eiden van de criteria, bestaat een vermogenscurve uit vier delen (figuur 5.7): Voor windsnelheden kleiner dan de startwindsnelheid is het vermogen nul; Tussen de startwindsnelheid en de nominale windsnelheid V neemt het vermogen lineair toe van nul tot het geïnstalleerd vermogen; Tussen de nominale windsnelheid en de stopwindsnelheid is het vermogen gelijk aan het geïnstaleerde vermogen; Voor windsnelheden groter dan de stopwindsnelheid is het vermogen nul.
+
+In een verdere vereenvoudiging is de startwindsnelheid 4 m/s, de nominale windsnelheid
+14 m/s, en de stopwindsnelheid 25 m/s. Het gaat om de windsnelheid op ashoogte.
+
+In deze benadering geldt in het lineaire gebied van de vermogenscurve, dus tussen de start- en de nominale windsnelheid, voor het vermogen P als functie van de windsnelheid V : (5.1)
+
+Een fout V in de voorspelde windsnelheid leidt dus tot een fout P in het voorspelde
+vermogen: (5.2)
+
+Met andere woorden: een voorspelfout V leidt tot een onbalans P . De grootte van de voorspelfout is dus een belangrijke stap naar een criterium voor de technische haalbaarheid van windvermogenprognoses. In het vervolg van deze paragraaf worden hieruit twee criteria afgeleid: de toelaatbare voorspelfout, en de standaardafwijking van de voorspelfout.
+
+Uit formule 5.2 volgt dat er een toelaatbare voorspelfout ( V )toel is als er een toelaatbare onbalans is: (5.3)
+
+De factor in deze uitdrukking is de toelaatbare relatieve onbalans.
+
+De uitdrukking voor de toelaatbare voorspelfout in het lineaire gebied maakt het mogelijk een vijftal categorieën in te voeren, die bepaald zijn door de toelaatbare absolute dan wel relatieve onbalans.
+
+Een onbalans van minder dan plus of min een kilowatt komt in het dagrapport niet tot uiting. Voor een windturbine met een geïnstalleerd vermogen van een Megawatt zal een voorspelfout van 0; 01 m/s of minder dus niet tot onbalans leiden. Een dergelijke windverwachting is daarom uitmuntend.
+
+Als een onbalans tot 2; 5% van het geïnstalleerd vermogen acceptabel is, is de toelaatbare voorspelfout 0; 25 m/s. Windverwachtingen met een voorspelfout in het interval tussen 0; 25 m/s en 0; 25 m/s zijn goede windverwachtingen omdat de resulterende relatieve onbalans niet zo heel groot is.
+
+Als een relatieve onbalans van 10% acceptabel is, is de toelaatbare voorspelfout 1 m/s. Omdat deze onbalans al een redelijk hoeveelheid is, worden windverwachtingen met een absolute waarde van de voorspelfout tussen 0,25 m/s en 1 m/s als slechte windverwachtingen aangeduid.
+
+Voorspelfouten met een absolute waarde tussen 1 m/s en 10 m/s leiden tot een absolute waarde van de onbalans die ligt tussen 10% en 100% van het geïnstalleerd vermogen. Dergelijke windverwachtingen zijn onbruikbaar.
+
+Voorspelfouten met een absolute waarde groter dan 10 m/s leiden tot een onbalans van de orde van het geïnstalleerd vermogen, positief of negatief. Dergelijke windverwachtingen zijn afschuwelijk.
+
+In de vereenvoudigde vorm van de vermogenscurve geldt dat het vermogen in de drie
+andere gebieden constant is: hetzij nul hetzij P.
+
+Een voorspelfout zal in deze gevallen niet tot een onbalans leiden indien de voorspelfout zo klein is dat het werkelijk vermogen in hetzelfde gebied terecht komt. Er ontstaat daarentegen wel onbalans als de voorspelfout zo groot is dat het werkelijk vermogen in een ander gebied terecht komt. Deze onbalans heeft meestal ten hoogste de waarde die in het lineaire gebied optreedt; de uitzondering treedt rond de stopwindsnelheid op.
+
+Samenvattend zijn er vijf categorieën voor de toelaatbare voorspelfout binnen de onbalanssystematiek (tabel 5.4):
+Uitmuntend
+Voorspelfout
+Onbalans
+Goed
+Voorspelfout
+Onbalans
+Slecht
+Voorspelfout
+Onbalans
+Onbruikbaar
+Voorspelfout
+Onbalans
+Afschuwelijk
+Voorspelfout
+Onbalans
+
+Deze categorieën vormen het eerste criterium voor de beoordeling van de technische haalbaarheid van windvermogen prognoses.
+
+Uit formule 5.2 volgt ook dat de standaardafwijking V in de voorspelfout doorwerkt tot een standaardafwijking P in de onbalans: (5.4).
+
+Dit betekent dat de standaardafwijking in de onbalans kan worden bepaald als de stan-
+daardafwijking in de voorspelfout voor een locatie bekend is. De standaardafwijking in de voorspelfout is het tweede criterium voor de beoordeling van de technische haalbaarheid
+van windvermogen prognoses.
+
+In de twee volgende paragrafen worden de criteria getoetst aan de hand van praktijkvoorbeelden met een windmast.
+
+Aanbodvoorspeller Duurzame Energie
+
+
+
+
+De website "Aanbodvoorspeller Duurzame Energie" demonstreert de windenergievoorspeller die door het ECN is gemaakt.
+Drie praktijkvoorbeelden geven actuele verwachtingen van wind of windstroom, alsmede zulke verwachtingen uit het verleden.
+Er is ook achtergrondinformatie over de praktijkvoorbeelden en de workshop te vinden.
+
+Demo windaanbodvoorspeller - Drie hoogten van een meetmast nabij Petten Demo
+windvermogenvoorspeller - Een windturbine in de buurt van Medemblik Demo
+windvermogenvoorspeller - Een windpark in de buurt van Numansdorp
+Achtergrondinformatie - Techniek, nauwkeurigheden en projecten
+Workshop "Weerbericht voor Windstroom" - Programma en presentaties
+
+De demonstraties gebruiken programmatuur van het ECN en modeluitvoer van het KNMI. De waarnemingen komen van het ECN (meetmast) en van de WEOM (windturbine en windpark).
+
+Windturbines maken onbalans. Met gebruik van voorspellingen is er een kilowattuur aan onbalans voor elke drie kilowattuur windstroom. Zonder voorspellingen zou de hoeveelheid onbalans een derde groter zijn. Het voordeel van voorspellen is dus een kleiner volume onbalans, met als extra voordeel lagere kosten door onbalans. Verder reduceren voorspellingen de kans op tekort-situaties. Dit heeft als voordeel dat hoeveelheden windstroom met een grotere leveringszekerheid kunnen worden aangeboden. Er zijn dus drie redenen om voorspellingen in de bedrijfsvoering op te nemen.
+
+Bepaal hoe groot het financieel voordeel door voorspellingen voor uw programma is, en lees wat u nodig heeft voor het maken van windvermogen verwachtingen binnen uw bedrijfsvoering.
+
+
+
+Inhoudsopgave
+
+
+Een meetmast in de buurt van Petten: Windverwachtingen voor de locatie Petten; Nauwkeurigheid van de windverwachtingen voor de locatie Petten; Beschrijving van de locatie Petten; Hoe de windverwachtingen voor de locatie Petten tot stand komen.
+
+Een windturbine nabij Medemblik: Vermogensverwachtingen voor de locatie Medemblik; Nauwkeurigheid van de vermogensverwachtingen voor de locatie Medemblik; Beschrijving van de locatie Medemblik; Hoe de vermogensverwachtingen voor de locatie Medemblik tot stand komen.
+
+Een windpark in de Westerse Polder bij Numansdorp: Vermogensverwachtingen voor de locatie Westerse Polder; Beschrijving van de locatie Westerse Polder; Hoe de vermogensverwachtingen voor de locatie Westerse Polder tot stand komen.
+
+Veel gestelde vragen:
+Waardoor ontbreken er soms verwachtingen? Hoe goed zijn de prognoses nu eigenlijk? Wat is er aan de hand met de temperaturen?
+Waarom wijken de windsnelheden in Petten zo veel af van die in De Kooy?
+De windprognoses op vijftig meter zouden toch moeten passen in de hoogtewinden? Hangt de windrichting niet, net als de windsnelheid, van de hoogte af?
+De windsnelheden horen toch regelmatig te zijn?
+Waarom is de bovengrens van het vermogen soms lager dan de ondergrens?
+In een vermogensprogramma moet het vermogen toch kloppen met de windsnelheid? Waar komen de sprongen in het windvermogen vandaan?
+Welk weermodel levert de basisinformatie?
+
+Bronnen: De meteorologische modellering; Het voorspellen van windvermogen; Onderzoek aan prognosemethoden; Windenergieprognoses in de praktijk; De situatie in Nederland.
+
+Een meetmast in de buurt van Petten
+
+
+Windverwachtingen voor de locatie Petten
+
+
+De grafieken tonen voor de locatie Petten op drie hoogten de verwachting voor de windsnelheid, de windrichting, de temperatuur en de luchtdruk. Elke verwachting loopt in stappen van een kwartier tot achtenveertig uur na het moment van opstellen. De tijdseenheid is Universal Time, die in de winter één en in de zomer twee uur achterloopt op de lokale tijd. De windsnelheid is uitgedrukt in meter per seconde en de windrichting in graden ten opzichte van het geografische noorden. De temperatuur is weergegeven in graden Celsius en de luchtdruk in hectopascal. De drie hoogten zijn tien, tweeëndertig en vijftig meter; dit zijn de hoogten waar zich sensoren bevinden aan de meetmast die staat op het terrein van het ECN in Petten. Elke verwachte waarde is maatgevend voor het tienminutengemiddelde.
+
+Behalve de meest recente verwachting, die dus geldt voor circa anderhalve dag vooruit, zijn historische verwachtingen beschikbaar. Er zijn historische verwachtingen vanaf medio juni 2001. Bijzondere dagen zijn 9 november 2001 (grote afwisseling in windsnelheden), 28 december 2001 en 26 februari 2002 (stormen).
+
+Nauwkeurigheid van de windverwachtingen voor de locatie Petten
+
+
+Een indicatie voor de nauwkeurigheid van de verwachtingen is de verdeling van het verschil tussen de waargenomen en de verwachte waarde. Aansluitend bij de terminologie in de elektriciteitswereld heet dit verschil de onbalans; een meteorologisch synoniem is voorspelfout. De verdeling geeft de kans dat de onbalans kleiner is dan een opgegeven waarde. Door twee waarden op te geven berekent men de kans dat de voorspelfout ligt in het interval tussen die twee waarden.
+
+Drie figuren laten de verdeling van de onbalans in de windsnelheid zien voor waarnemingen en voorspellingen in de periode van medio juni 2001 tot begin juni 2002. Een figuur is voor de standaard meteorologische hoogte van tien meter, de andere voor de hoogten van tweeëndertig en vijftig meter die voor windenergie van belang zijn. Elke figuur bevat drie verdelingen: die voor nul uur, achttien uur en tweeënveertig uur vooruit. De verdeling voor nul uur vooruit geeft een referentie voor de nauwkeurigheid die maximaal haalbaar is, maar heeft geen praktische waarde omdat deze nooit beschikbaar is. De andere twee verdelingen omvatten de periode van het volgende etmaal, zoals die tegen het eind van de ochtend beschikbaar is. Deze periode is van belang voor planningsdoeleinden in de energiewereld.
+
+De figuren laten zien dat in circa eenderde van de gevallen het verschil tussen de waargenomen en de verwachte windsnelheid minder dan een meter per seconde is. Uit de ligging van de medianen volgt dat de verwachtingen voor de drie hoogten enigszins onzuiver zijn. Verder blijkt dat de nauwkeurigheid afneemt met de voorspelhorizon.
+
+Beschrijving van de locatie Petten
+
+
+De locatie Petten ligt op de land/zee-overgang zo’n twee kilometer ten noorden van het plaatsje Petten in de kop van Noord Holland. Op de luchtfoto van het ECN-terrein is de meetmast te zien als een smal streepje linksonder de windturbine. De luchtfoto maakt duidelijk dat de locatie meteorologisch complex is: behalve de al genoemde land/zee-overgang en de windturbine zijn er de gebouwde omgeving en het geaccidenteerde terrein. Een aantal andere foto’s laat zien hoe het stroomopwaartse terrein er uitziet bij verschillende windrichtingen. Bedenk dat deze foto’s genomen zijn vanaf ooghoogte circa tien meter ten oosten van de mastvoet.
+
+Terrein richting het noorden. Terrein richting het oosten.
+
+Terrein richting het zuiden. Terrein richting het westen.
+
+De meetmast wordt beheerd door het ECN (contactpersoon: Toine Curvers) en is ingericht door Mierij Meteo.
+
+Hoe de windverwachtingen voor de locatie Petten tot stand komen
+
+
+Het uitgangspunt voor de door ECN gemaakte verwachtingen is modeluitvoer van het KNMI zoals ECN die dagelijks ontvangt onder Overeenkomst 2001/265. Het gaat dan om uitvoer van het High Resolution Limited Area Model (HiRLAM). Dit model berekent vier keer per dag de waarde van een aantal grootheden op een betrekkelijk grofmazig rooster en tot achtenveertig uur vooruit. Informatie over het HiRLAM is te vinden op de website van het KNMI. Uit de uurlijkse waarden van de grootheden op de lage modelniveaus en de roosterpunten in de omgeving van de locatie berekent ECN per kwartier op de drie verschillende hoogten de windsnelheid, de windrichting, de temperatuur en de luchtdruk. Behalve de standaard meteorologische hoogte tien meter zijn dit de voor windenergie relevantere hoogten tweeëndertig meter en vijftig meter; gezamenlijk zijn deze dus gelijk aan de sensorhoogten van de meetmast.
+
+Transformaties binnen een roostercel en binnen de tijdseenheid op een gegeven modelniveau gaan via geometrische interpolatieschema’s. De transformaties in de verticaal zijn gebaseerd op de Businger-Dyer profielen (windsnelheid en temperatuur) en de barometrische hoogteformule (luchtdruk). De ruwheidslengte is ontleend aan het land/zee-masker. Wanneer nodig worden de Monin-Obukhovlengte gebruikt zoals berekend uit de snelheids- en de temperatuurgelaagdheid, en de potentiële temperatuur die volgt uit de werkelijke temperatuur en de luchtdruk. Lokale invloeden worden in rekening gebracht met een ruwheidsroos die is samengesteld uit ruwheidslengtes afkomstig van de Hydra-ruwheidskaart van het KNMI, en met een richtingsafhankelijke verplaatsingshoogte zoals die volgt uit de aanwezige obstakels. In het geval van aanstroming over open water wordt de ruwheidslengte ontleend aan de regel van Charnock. De ruwheidslengte heeft dan geen vaste waarde maar hangt af van de wrijvingssnelheid zoals die volgt uit het snelheidverschil in de laag.
+
+De berekeningen, die met grote precisie worden uitgevoerd, suggereren een grote nauwkeurigheid die er in de praktijk niet is. De oorzaak is dat de fysische processen die zich afspelen op een ruimtelijke schaal met afmetingen van de locatie alsmede die met een tijdschaal van een kwartier, niet zijn gemodelleerd. Lokale winden of snelle variaties zijn dus niet voorspelbaar. Dit werd op 9 november 2001 geïllustreerd toen binnen perioden van een uur de windsnelheden op het terrein van ECN varieerden tussen vrijwel nihil en schadelijk, tijdens het naderen en overtrekken van een plaatstelijke regenbui.
+
+Een windturbine nabij Medemblik
+
+
+Vermogensverwachtingen voor de locatie Medemblik
+
+
+De tabel geeft per programmatijdseenheid de vermogensverwachting inclusief de onzekerheid daarin voor de NedWind 53/55 windturbine in Medemblik. De programmatijdseenheid is in perioden van een kwartier en de vermogensverwachting is in kilowatt uitgedrukt. Daarnaast geeft de tabel verwachtingen van de windsnelheid (meter per seconde), windrichting (graden ten opzichte van geografisch noord) en dichtheid (kilogram per kubieke meter). De grafiek toont dezelfde informatie in grafische vorm. Een verwachting loopt tot achtenveertig uur na het moment van opstellen.
+
+De prognose van het vermogen bestaat uit drie waarden: de ondergrens, de verwachtingswaarde, en de bovengrens. Gezamenlijk drukken deze waarden de onzekerheid in de prognose uit. De ondergrens is het vermogen dat met 97.5% zekerheid mag worden verwacht. Er is dus een kans van 97.5% dat er meer vermogen dan deze ondergrens zal worden geproduceerd, terwijl er een kans van 2.5% op een lager vermogen is. (Kans is hier het percentage van het aantal gevallen - lees: programmatijdseenheden.) De verwachtingswaarde is de meest waarschijnlijke waarde voor het vermogen dat zal worden opgewekt. De bovengrens heeft een zekerheid van 97.5%. Er is dus een kans van 97.5% dat er minder vermogen dan deze bovengrens zal worden geproduceerd, terwijl er een kans van 2.5% op een hoger vermogen is.
+
+Om de zes uren verschijnt er een nieuwe vermogensverwachting. Elke verwachting bevat dus informatie voor het energieprogramma van de volgende dag. Daarnaast bevat elke verwachting informatie om het energieprogramma van de huidige dag te wijzigen. Gewoonlijk zijn de vier dagelijkse verwachtingen uiterlijk beschikbaar om 5:15 uur, 11:15 uur, 17:15 uur en 23:15 uur. De inhoud is bruikbaar voor de volgende doeleinden:
+
+Verwachting van 5:15 uur:
+Huidige dag: Wijzigen lopend energieprogramma, pte 22 tot en met pte 96 Volgende dag: Invullen initieel energieprogramma, pte 1 tot en met pte 96
+
+Verwachting van 11:15 uur:
+Huidige dag: Wijzigen lopend energieprogramma, pte 46 tot en met pte 96 Volgende dag: Indienen definitief energieprogramma, pte 1 tot en met pte 96
+
+Verwachting van 17:15 uur:
+Huidige dag: Wijzigen lopend energieprogramma, pte 70 tot en met pte 96 Volgende dag: Maken eerste aanpassing energieprogramma, pte 1 tot en met pte 96
+
+Verwachting 23:15 uur:
+Huidige dag: Wijzigen lopend energieprogramma, pte 94 tot en met pte 96 Volgende dag: Maken tweede aanpassing energieprogramma, pte 1 tot en met pte 96
+
+De afkorting pte staat hier voor programmatijdseenheid. Deze structuur geldt voor alle dagen van het jaar, behalve voor een dag wanneer de zomertijd ingaat of eindigt omdat zo’n dag een afwijkend aantal programmatijdseenheden kent.
+
+Hoewel de structuur van de dagelijkse verwachtingen constant is over het jaar, is de ouderdom van de informatie dat niet. In de wintertijd zijn de dagelijkse verwachtingen namelijk gebaseerd op
+
+achtereenvolgens de runs 00, 06, 12 en 18 van het HiRLAM van het KNMI, terwijl dit in de zomertijd de runs 18 (van de voorafgaande dag), 00, 06 en 12 zijn. In de wintertijd is de informatie dus zes uren jonger dan in de zomertijd.
+
+Nauwkeurigheid van de vermogensverwachtingen voor de locatie Medemblik
+
+
+Een indicatie voor de nauwkeurigheid van de verwachtingen is de verdeling van de onbalans. Deze onbalans, eigenlijk de PV-onbalans, is het verschil tussen het werkelijke en het verwachte vermogen. De verdeling geeft de kans dat de onbalans kleiner dan een opgegeven waarde is. Door twee waarden op te geven berekent men de kans dat de onbalans in het interval tussen die twee waarden ligt.
+
+Vier figuren laten de verdelingen van de PV-onbalans zien voor de vier verschillende energieprogramma’s die voor een volgende dag kunnen worden afgegeven. Deze zijn het initiële energieprogramma, het definitieve energieprogramma, en de twee aangepaste energieprogramma’s. Omdat de beschouwde periode in de zomertijd valt, zijn deze vier energieprogramma’s achtereenvolgens afgeleid uit de run 18 van de vorige dag en de runs 00, 06 en 12 van de huidige dag. Elke figuur bevat drie verdelingen, namelijk die met vermogensverwachtingen op basis van de ondergrens, de verwachtingswaarde, en de bovengrens.
+
+De figuren laten zien dat, als consequent de ondergrens van het verwachte vermogen in een energieprogramma wordt ingevuld, de onbalans niet kleiner dan -25 kilowatt is. Dit is -2.5% van het geïnstalleerd vermogen. De kans op een negatieve onbalans is 20%. Op een marge van 25 kilowatt na is het verwachte vermogen dus nooit groter dan het werkelijke vermogen.
+
+Voor energieprogramma’s op basis van de verwachtingswaarde blijkt uit de figuren dat in een kwart van de gevallen de absolute waarde van de onbalans minder dan 25 kilowatt is. Voor de overige drie kwart van de gevallen is deze absolute waarde dus groter dan 25 kilowatt, waarbij waarden van de orde van het geïnstalleerde vermogen niet zijn uitgesloten. Het gemiddelde van de absolute waarde van de onbalans ten opzichte van een afgegeven programma is 200 kilowatt oftewel 20% van het geïnstalleerde vermogen.
+
+Als consequent de bovengrens van het verwachte vermogen wordt ingevuld in een energieprogramma, leidt dit in tenminste 95% van de gevallen tot een overschatting van het werkelijke vermogen.
+
+Ten slotte laten de figuren zien dat de vier verschillende energieprogramma’s onderling marginaal in nauwkeurigheid verschillen. Uitgaande van de verwachtingswaarden bedraagt de kans op een onbalans in het interval tussen -25 kilowatt en +25 kilowatt voor het initiële energieprogramma 27%, voor het definitieve programma 25%, en voor de twee aangepaste programma’s 24% en 26%.
+
+Beschrijving van de locatie Medemblik
+
+
+De locatie Medemblik ligt in de Wieringermeer op de land/water-overgang ongeveer een kilometer ten noorden van het plaatsje Medemblik. De locatie is meteorologisch complex door de al genoemde land/water-overgang, de bomenrijen op circa honderd meter ten oosten van de windturbine, en de gebouwde omgeving in het zuiden.
+
+De windturbine heeft een ashoogte van 52 meter en een rotordiameter van 55 meter. Het geïnstalleerd vermogen is een megawatt. De meetmast bevindt zich ongeveer negentig meter ten westen van de windturbine; op 52 meter hoogte worden de windsnelheid en de windrichting gemeten.
+
+Vier foto’s laten zien hoe het stroomopwaartse terrein er uitziet bij verschillende windrichtingen.
+
+Bedenk dat deze foto’s genomen zijn vanaf ooghoogte circa tien meter ten zuidwesten van de windturbine. Daarnaast toont een overzichtsfoto de windturbine en de meetmast. Deze foto is genomen vanuit zuidelijke richting.
+
+Terrein richting het noorden. Terrein richting het oosten.
+
+Terrein richting het zuiden. Terrein richting het westen.
+
+De windturbine en de meetmast worden beheerd door WEOM.
+
+Hoe de vermogensverwachtingen voor de locatie Medemblik tot stand komen
+
+
+Uitgaande van de uitvoer van het High Resolution Limited Area Model (HiRLAM) die het ECN dagelijks van het KNMI ontvangt onder Overeenkomst 2001/265, berekent ECN de verwachte waarden voor de windsnelheid, de windrichting, de temperatuur en de luchtdruk. De methode is analoog aan die gebruikt voor de locatie Petten, met dien verstande dat de coördinaten, de hoogte, de ruwheidskaart en de verplaatsingshoogten gelden voor de locatie Medemblik. Ter illustratie toont een figuur de ruwheidskaart van de omgeving, zoals ontleend aan het Hydra-project van het KNMI, en een andere figuur de ruwheidsroos zoals door ECN afgeleid uit de ruwheidskaart. De windturbine staat in het centrum van de ruwheidskaart, waarvan de relatieve coördinaten in eenheden van honderd meter zijn. De ruwheidslengte in de kaart en in de roos is uitgedrukt in meter. In de roos zijn drie verschillende voor de windturbine karakteristieke stroomopwaartse ruwheden te herkennen afhankelijk van aanstroming over het IJsselmeer, over het plaatsje Medemblik of over het akkerland.
+
+Uit de verwachte windsnelheid, windrichting, temperatuur en luchtdruk berekent ECN de drie waarden die tesamen de vermogensprognose vormen: de ondergrens, de verwachting en de bovengrens. Essentiële tussenstappen daarbij zijn de dichtheid van de lucht (berekend uit de temperatuur en de luchtdruk), de gemeten vermogenscurve (samengesteld uit vermogen, windsnelheid en windrichting), de correlatie tussen werkelijke en verwachte windsnelheid, en de correlatie tussen werkelijk en verwacht vermogen. De voorbeelden laten een vermogenscurve alsmede windsnelheids- en vermogenscorrelaties zien. De vermogenscurve bevat het 95% betrouwbaarheidsinterval voor het vermogen voor de gegeven sector zoals dat uit metingen in de voorafgaande twee jaren is bepaald. Dit interval is opgebouwd uit drie waarden: de ondergrens, de verwachtingswaarde, en de bovengrens. De windsnelheidscorrelatie geeft behalve de parameters voor de uitvoerstatistiek ook de grootte van het betrouwbaarheidsinterval voor de windsnelheidsverwachting. Die grootte geeft de maat voor de betrouwbaarheid van de windsnelheidsverwachting in de vorm van de ondergrens, de verwachtingswaarde en de bovengrens voor de windsnelheid. Het beschikbaar hebben van een maat voor de onzekerheid is een inherent voordeel van het toepassen van een gemeten vermogenscurve. Het nadeel is evenwel dat pas na enige tijd vermogensprognoses kunnen worden afgegeven omdat wind op locatie moet worden gemeten.
+
+
+Net als in het geval van de windverwachtingen, suggereert de precisie van de vermogensverwachtingen een grotere nauwkeurigheid dan er in werkelijkheid is. Hier zijn twee oorzaken voor. Ten eerste geeft de ruwheidskaart een onvolledig beeld van de omgeving omdat bijvoorbeeld veranderingen gedurende het jaar (de maïsvelden) of kleine ruwheidselementen (de bomenrijen) niet gerepresenteerd zijn. Ten tweede schiet de vermogenscurve, in de interpretatie van eigenschap van het product windturbine, tekort omdat het vermogen van meer factoren afhangt dan windsnelheid en windrichting.
+
+Een windpark in de Westerse Polder bij Numansdorp
+
+
+Vermogensverwachtingen voor de locatie Westerse Polder
+
+
+De tabel geeft per programmatijdseenheid de gezamenlijke vermogensverwachting voor de zeven NedWind 41/50 windturbines die het windpark Westerse Polder nabij Numansdorp vormen. De verwachte waarden, de eenheden, de looptijd en de structuur zijn dezelfde als die voor de solitaire windturbine in Medemblik. De prognose van het vermogen bestaat echter uit drie gelijke waarden: de ondergrens, de verwachtingswaarde en de bovengrens zijn even groot. Er is dus geen maat voor de onzekerheid in deze prognoses. De reden is het gebruik van een berekende in plaats van een gemeten vermogenscurve.
+
+Beschrijving van de locatie Westerse Polder
+
+
+De locatie Westerse Polder ligt in de Hoekse Waard ongeveer twee kilometer ten westen van het plaatsje Numansdorp. De locatie is meteorologisch complex door zowel land/water-overgangen als dijken en bruggen in het Haringvliet.
+
+Elke windturbine heeft een ashoogte van vijftig meter en een rotordiameter van afgerond eenenveertig meter. Per turbine is het geïnstalleerd vermogen vijfhonderd kilowatt zodat het windpark over drie en een half megawatt beschikt. De zeven windturbines staan in een lijn langs de dijk met ruwweg de oriëntatie noordwest-zuidoost. De onderlinge afstand bedraagt honderd en zestig meter oftewel vier keer de rotordiameter. De meetmast bevindt zich op het meest noordwestelijke punt in de lijn op een afstand van tachtig meter van de naburige windturbine. Op vijftig meter hoogte worden daar windsnelheid en windrichting gemeten. De windturbine nummer vier staat ongeveer in het midden van de lijn.
+
+Hoe de vermogensverwachtingen voor de locatie Westerse Polder tot stand komen
+
+
+Uitgaande van de uitvoer van het High Resolution Limited Area Model (HiRLAM) die het ECN dagelijks van het KNMI ontvangt onder Overeenkomst 2001/265, berekent ECN de verwachte waarden voor de windsnelheid, de windrichting, de temperatuur en de luchtdruk. De methode is analoog aan die gebruikt voor de locatie Petten maar de coördinaten, de hoogte, de ruwheidskaart en de verplaatsingshoogten gelden voor de locatie Westerse Polder. De windturbine nummer vier, die ongeveer in het midden van het windpark staat, is maatgevend voor deze gegevens.
+
+Ter illustratie toont een figuur de ruwheidsroos zoals door ECN afgeleid uit de
+Hydra-ruwheidskaart van het KNMI. De ruwheidslengte in de roos is uitgedrukt in meter. In deze roos zijn vier verschillende voor het windpark karakteristieke stroomopwaartse ruwheden te herkennen, en wel voor richtingen:
+
+noordwest via noord tot zuidoost: hoge ruwheid door aaneengesloten land
+zuidoost tot zuid: lage ruwheid door water voorafgegaan door land
+zuid tot west: zeer lage ruwheid door aaneengesloten water
+west tot noordwest: matige ruwheid door afwisseling van water en land
+
+De piek in de roos komt door de noordelijke oprit van de Haringvlietbrug in combinatie met het voorafgaande land.
+
+Voor de zes andere windturbines en de meetmast verschilt de ruwheidsroos marginaal van die voor windturbine nummer vier. De reden is dat het stroomopwaartse terrein voor een gegeven windrichting gelijkvormig is. Onderlinge verschillen, die men zou verwachten door bijvoorbeeld de andere afstand tot het plaatsje Numansdorp, de Haringvlietbrug, de Hellegatsdam of het eiland Tiengemeten, worden vereffend door het lage gewicht van de betreffende weerstandscoëfficiënten.
+
+Uit de verwachte windsnelheid, windrichting, temperatuur en luchtdruk berekent ECN via een richtingsafhankelijke standaard windparkvermogenscurve het verwachte vermogen. Deze vermogenscurve beschrijft de onderlinge afscherming van de windturbines als functie van de windrichting, populair gezegd de windschaduw, voor het gehele windpark. Het is een standaard vermogenscurve omdat het vermogen geldt voor de standaardwaarde 1,225 kilogram per kubieke meter van de dichtheid van lucht. Een essentiële tussenstap is dus het schalen van het standaard
+
+verwachte vermogen voor de actuele verwachte waarde van deze dichtheid zoals die volgt uit de verwachte temperatuur en luchtdruk.
+
+De vermogenscurve van een individuele windturbine, die aan de curve voor het windpark ten grondslag ligt, is berekend met ontwerpprogrammatuur. Dit rekenen is de reden dat de curves gelden voor de standaardwaarde van de dichtheid van lucht. Omdat een berekende vermogenscurve is gebruikt, is voor het windpark Westerse Polder geen informatie beschikbaar over de onzekerheid in de vermogensverwachting. Dit is een inherent nadeel van het toepassen van een berekende vermogenscurve. Het voordeel is echter dat vermogensprognoses onmiddelijk kunnen worden afgegeven zodra modeluitvoer en vermogenscurve er zijn.
+
+ONBALANSPRIJS
+
+Figuur 5.1 De verdeling van de onbalansprijs per programmatijdseenheid voor tekortsituaties (shortage, betrekken van de netbeheerder) en voor overschotsituaties (surplus, leveren aan de netbeheerder) gedurende het jaar 2001. Bron: Gegevens TenneT
+
+Tabel 5.1 Kentallen voor de onbalansprijs per programmatijdseenheid voor tekortsituaties (shortage, betrekken van de netbeheerder) en voor overschotsituaties (surplus, leveren aan de netbeheerder) gedurende het jaar 2001: kleinste waarde, 20%, 50% en 80%-percentielen, en grootste waarde, alsmede gemiddelde en standaardafwijking ten opzichte van dit gemiddelde. 
+
+
+Figuur 5.2 Correlatie tussen de verwachting en de waarneming voor het praktijkvoorbeeld Medemblik: (a) windsnelheid op 52 meter hoogte, en (b) vermogen van de windturbine. De punten met de marges kwamen tot stand na middelen van de verwachtingen tegen de waarnemingen. Een rechte geeft de beste lineaire fit
+
+
+Omdat elke zes uur een nieuwe prognosereeks verschijnt, is er vier keer per dag een verwachting die het volgende etmaal omvat. Men zou nu verwachten dat de meest recente prognose (run 18) de meest nauwkeurige zou zijn en dus de kleinste hoeveelheid onbalans zou opleveren. Dit blijkt niet het geval te zijn (figuur 5.3): de run 12, die om 12 uur UT is ge nitialisserd, geeft over de beschouwde periode de kleinste hoeveelheid geaccumuleerde onbalans. Omdat de verwachtingen op basis van run 12 tegen het eind van de middag pas beschikbaar zijn, kan deze prognose alleen in een aanpassing van het energieprogramma worden meegenomen. Het energieprogramma moet immers voor het middaguur worden ingeleverd, op een moment dat in het gunstigste geval run 06 maar meestal slechts run 00 beschikbaar is. Van de afzonderlijke runs 00, 06, 12 en 18 levert dus run 12 de minste geaccumuleerde onbalans.
+
+Dat de verwachting op basis van run 12 de meest nauwkeurige is, betekent dat de tweede aanpassing van het energieprogramma op basis van run 18 niet nodig is. Deze zou immers resulteren in een grotere hoeveelheid geaccumuleerde onbalans. Het voortgaand aanpassen van de verwachting uit de beschikbare runs levert dus geen lagere onbalans op.
+
+Een eenvoudige prognosemanier is een vaste waarde voor het vermogen in het energieprogramma in te vullen. Geen van de vier beschouwde waarden (10%, 20%, 40% en 60% van het geïnstalleerde vermogen) blijkt een lager volume aan geaccumuleerde onbalans op te leveren dan de verwachtingen op basis van run 12. (Ziefiguur 5.4.) Aan het eind van de beschouwde periode is het verschil tussen de prestatie van de `beste' eenvoudige methode en run 12 zelfs ruim 30% in het voordeel van run 12. Overigens resulteren de vaste waarden 10% en 20% van het vermogen in een laagst volume met waarden die elkaar niet veel ontlopen. Een andersoortige prognose in de vorm van een vaste waarde voor het vermogen levert dus geen lagere onbalans op.
+
+Tot zover de onbalans, die centraal staat gezien de eis de balans over een aansluiting te handhaven. Hoe vertaalt zich dit nu naar het prijsinstrument om de onbalans te handhaven, dus naar de kosten van onbalans? De kosten van onbalans ontstaan door de onbalans te vermenigvuldigen met de onbalansprijs die op een programmatijdseenheid geldt voor de toestand waarin het programma zich bevindt. Figuur 5.5 toont dat het invullen van een constante waarde voor het vermogen in het energieprogramma leidt tot lagere netto kosten vergeleken met de verwachtingen die ingevuld zijn op basis van de run 12. Aan het einde van de beschouwde periode bedraagt dit verschil zelfs 35% .
+
+De strategie die moet worden gekozen hangt dus af van de doelstelling die wordt na-
+gestreefd: Doelstelling is onbalans minimaliseren: Dan meteorologische verwachtingen gebruiken en na de eerste aanpassing op basis van run 12 niet meer veranderen.
+Doelstelling is kosten van onbalans minimaliseren: Dan constante waarde voor het vermogen gebruiken.
+
+Deze uitkomst is onverwacht en verrassend; de verklaring is dat onbalansprijzen zowel positieve als negatieve waarden aannemen. Tot zover de uitkomsten van de studie van St. Drenan.
+
+5.2.1c Onbalans minimaliseren
+
+De onderzoeksvraag van de tweede deelstudie is: In hoeverre is het mogelijk onbalans te minimaliseren, gegeven dat prognoses uit run 00 de basis voor het energieprogramma zijn, en welke kosten zijn gemoeid met het weghandelen van dit minimale volume aan onbalans? Dit is onderzocht door gebruik te maken van de verwachtingswaarde (zie de volgende alinea) voor het vermogen. De beschouwde periode loopt van 10 juni 2001 tot en met 30 september 2001. De wind- en de vermogensgegevens uit deze periode zijn gebruikt om de systematische fouten te minimaliseren (figuur 5.2).
+
+
+De absolute waarde van de onbalans wordt geaccummuleerd omdat de grootte van het tekort of het overschot maatgevend is.
+
+Merk op dat tot halverwege de beschouwde periode het invullen van een constante waarde leidt tot hogere kosten vergeleken met de verwachtingen uit run.
+
+
+
+De vermogensverwachting bestaat uit de ondergrens, de verwachtingswaarde, en de bovengrens. Gezamenlijk drukken deze waarden de onzekerheid in de prognose uit. De ondergrens is het vermogen dat met 97.5% zekerheid mag worden verwacht. Er is dus een kans van 97.5% dat er meer vermogen dan deze ondergrens zal worden geproduceerd, terwijl er een kans van 2.5% op een lager vermogen is. (Kans is hier het percentage van het aantal gevallen - lees: programmatijdseenheden.) De verwachtingswaarde is de meest waarschijnlijke waarde voor het vermogen dat zal worden opgewekt. De bovengrens heeft een zekerheid van 97.5%. Er is dus een kans van 97.5% dat er minder vermogen dan deze bovengrens zal worden geproduceerd, terwijl er een kans van 2.5% op een hoger vermogen is.
+
+Een indicatie voor de nauwkeurigheid van de verwachtingen is de verdeling van de onbalans. Deze onbalans, nogmaals eigenlijk de PV-onbalans, is het verschil tussen het werkelijke en het verwachte vermogen. De verdeling geeft de kans dat de onbalans kleiner dan een opgegeven waarde is. Door twee waarden op te geven berekent men de kans dat de onbalans in het interval tussen die twee waarden ligt. Omdat een verwachting uit drie waarden bestaat, zijn er ook drie verdelingen, namelijk die uit vermogensverwachtingen op basis van de ondergrens, de verwachtingswaarde, en de bovengrens.
+
+Figuur 5.6 toont de verdelingen van de relatieve onbalans in de beschouwde periode. De relatieve onbalans is hier gede nieerd als de onbalans gedeeld door het geïnstalleerde vermogen (in dit praktijkvoorbeeld 1.000 kW). In tabel 5.2 staan de bijbehorende statistische kentallen. In deze paragraaf wordt alleen de onbalans die voortkomt uit de verwachtingswaarden beschouwd; de onbalans uit de ondergrens en uit de bovengrens komt in paragraaf 5.2.1d aan de orde.
+
+Voor energieprogramma's op basis van de verwachtingswaarde blijkt voor de resulterende onbalans het volgende: In een kwart van de gevallen is de absolute waarde van de onbalans minder dan 2,5% van het geïnstalleerde vermogen. Voor de overige drie kwart van de gevallen is deze absolute waarde dus groter dan 2,5% van het geïnstalleerde vermogen.
+Onbalanswaarden van de orde van het geïnstalleerde vermogen zijn niet uitgesloten: de kans op een absolute onbalans groter dan 80% van het geïnstalleerde vermogen bedraagt 0,12%. Ongeveer een kwart hiervan zijn tekort-situaties, de rest zijn overschot-situaties.
+Het 80%-betrouwbaarheidsinterval, opgespannen door de 10% en de 90%-percentiel ligt tussen 27% en +24% van het geïnstalleerde vermogen.
+Het gemiddelde van de absolute waarde van de onbalans ten opzichte van een afgegeven programma is 20% van het geïnstalleerde vermogen.
+
+Gezamenlijk geven deze kentallen een indicatie van de nauwkeurigheid van de windvermogenprognoses. Door het statistische karakter is het duidelijk dat de nauwkeurigheid niet kan worden uitgedrukt in een eenvoudige uitspraak zoals `de nauwkeurigheid bedraagt zoveel procent'. Verder is het duidelijk dat de onbalans niet tot nul kan worden geminimaliseerd: er resteert een zekere hoeveelheid.
+
+Aan het weghandelen van deze resterende PV-onbalans zijn netto kosten verbonden. Deze
+kosten worden berekend via de kerncijfers van dit praktijkvoorbeeld: Gemiddeld werkelijk vermogen: 21,0% van het geïnstalleerd vermogen. Gemiddeld verwacht vermogen bij werkelijk `shortage': 37,5% van P; Idem, `surplus': 7,5% van P; Frequentie `shortage' en `surplus': respectievelijk 50% en 50%; Werkelijke productie: 1,84 GWh; Gemiddelde onbalansprijs `shortage': 48 EUR/MWh; Idem, `surplus': 28 EUR/MWh.
+
+Deze kerncijfers zijn berekend door de uitkomsten voor de beschouwde periode naar een periode van een jaar te herleiden.
+Uit deze kerncijfers volgt een aantal ervaringscijfers: De verhouding tussen het resterende volume onbalans en de geproduceerde hoeveelheid elektriciteit bedraagt: ( 591 MWh + 723 MWh ) / ( 2 * 1.84 GWh ) = 35,7%.
+
+Het volume elektriciteit opgewekt in `shortage' is: 0,5 * 365 dagen * 24 uur * ( 210 kW - 375 kW )= -723 MWh.
+De lasten van dit volume `shortage' (er moet immers stroom worden gekocht om het energieprogramma te halen) bedragen: 723 MWh * 48 EUR/MWh = 34.704 EUR.
+Het volume elektriciteit opgewekt in `surplus' is: 0,5 * 365 dagen * 24 uur * ( 210 kW - 75 kW )= +591 MWh.
+De baten van dit volume `surplus' (er moet nu stroom worden verkocht om het energieprogramma te halen) bedragen: 591 MWh * 28 EUR/MWh = 16.548 EUR.
+De netto kosten voor het wegwerken van de PV-onbalans bedragen dus: 34.704 EUR 16.548 EUR = 18.156 EUR.
+Per geïnstalleerd vermogen bedragen deze kosten: 18.156 EUR / 1 MW = 18.156 EUR/MW.
+Per geproduceerde elektriciteit is dit: 18.156 EUR / 1,84 MWh = 9,87 EUR/MWh.
+
+Deze cijfers zijn kenmerkend voor het jaar 2001 en voor een solitaire windturbine, zodat voorzichtigheid is geboden bij de vertaling naar een ander jaar en naar verspreid vermogen.
+
+Tekort-situaties vermijden
+
+De onderzoeksvraag van de derde deelstudie is: In hoeverre is het mogelijk tekort-situaties te vermijden? Er zijn twee strategieen beschouwd: Het gebruiken van de ondergrens voor de verwachtingen, en Het reduceren van de verwachtingswaarde.
+
+De beschouwde periode is 10 juni 2001 tot en met 30 september 2001. De wind- en de vermogensgegevens uit deze periode zijn gebruikt om de systematische fouten te minimaliseren.
+
+De eerste strategie om tekorten te voorkomen bestaat uit het invullen van de ondergrens voor het vermogen in het energieprogramma. Figuur 5.6 toont de verdelingen van de relatieve onbalans in de beschouwde periode. De verdelingen die volgen uit het gebruik van de verwachtingswaarde zijn besproken in paragraaf 5.2.1c. In de huidige paragraaf gaat het om de verdelingen die volgen uit de ondergrens en de bovengrens.
+
+
+Deze freqenties zijn gelijk dankzij het gebruik van de wind- en de vermogensgegevens om de systematische fouten te verwijderen. Zonder gebruik van deze gegevens zouden de verwachtingen onzuiver zijn in de zin dat `tekorten' vaker zouden voorkomen dan `overschotten'.
+
+
+Als consequent de ondergrens van het verwachte vermogen in de energieprogramma's werd ingevuld, blijkt de onbalans niet kleiner dan 2:5% van het geïnstalleerde vermogen te zijn. Verder blijkt dat de kans op een negatieve onbalans 20% is. In een vijfde van de gevallen (lees: programmatijdseenheden) is er dus een tekort, maar dit tekort is niet groter dan 2.5% van het geïnstaleerde vermogen.
+
+Als consequent de bovengrens van het verwachte vermogen werd ingevuld in de energieprogramma's, laat defiguur zien dat dit in tenminste 95% van de gevallen leidt tot een overschatting van het werkelijke vermogen. In tenminste 95% van de gevallen leidt gebruik van de bovengrens dus tot een tekort.
+
+Gezamenlijk betekent dit dat de ondergrens van het vermogen met een grote zekerheid verwacht mag worden voor te komen, en nauwelijks aanleiding tot tekort-situaties zal geven. Het vermogen tussen de ondergrens en de verwachtingswaarde heeft een lagere zekerheid, en kan tekorten opleveren. De bovengrens heeft een marginale zekerheid, en leidt bijna altijd tot tekorten ten op opzichte van het afgegeven programma.
+
+De tweede strategie om tekorten te voorkomen bestaat uit het reduceren van de verwachtingswaarde voor het vermogen met een vaste factor, en deze gereduceerde verwachtingswaarde in de energieprogramma's in te vullen. In feite wordt hierdoor in het energieprogramma een waarde gebruikt die ligt tussen de ondergrens en de verwachtingswaarde. Tabel 5.3 laat zien hoe het gemiddeld verwacht vermogen bij werkelijk `surplus' alsmede de frequentie van `surplus' hierdoor veranderen. Het lijkt er op dat er een optimale reductiefactor is, en dat deze een waarde heeft in de buurt van 0,55. Voor deze optimale waarde is zowel het gemiddeld verwacht vermogen bij werkelijk `surplus' (oftewel het goed voorspelde vermogen) als de frequentie `surplus' (oftewel het aantal goed voorspelde programmatijdseenheden) maximaal.
+
+Met beide beschouwde strategieen is het dus mogelijk on tekort-situaties te vermijden. Door de ondergrens voor de verwachtingen te gebruiken is het mogelijk de kans op `shortage' te minimaliseren, terwijl met de vaste factor op de verwachtingswaarde een optimum tussen de relatieve hoeveelheid `surplus' en de frequentie daarvan kan worden bereikt.
+
+Studies naar voorspelbaarheid windvermogen in de literatuur
+Een jaar in Denemarken
+
+In tegenstelling tot het grote aantal publicaties over de windvermogen prognosemethoden zelf, is er weinig openbare en bruikbare informatie over de prestaties van de methoden. De verklaring is dat dergelijke informatie inzicht geeft in de bedrijfsvoering van een netbeheerder of een nutsbedrijf, en dus in een geliberaliseerde elektriciteitsmarkt vertrouwelijk wordt behandeld.
+Een van die weinige publicaties behandelt het gebruik van de prognosemethode WPPT door de netbeheerder Eltra in Denemarken gedurende het jaar 2000. In het beschouwde jaar 2000 zijn de kerncijfers van dit Deense praktijkvoorbeeld: Het geïnstalleerde windvermogen neemt toe van 1.400 tot 1.860 Megawatt, en is dus gemiddeld 1.630 MW.
+De netto kosten ten gevolge van het weghandelen van onbalans zijn: 65 miljoen DKK (8,8 miljoen Euro) bij gebruik van windvermogenprognoses, en 93 miljoen DKK (12,6 miljoen Euro) zonder gebruik van windvermogenprognoses. 
+De elektriciteitsproductie door windenergie bedraagt 3.384 GWh.
+De onbalans die weggehandeld moet na gebruik van prognoses is 1.277 GWh.
+
+
+
+Waarom een methode van ECN?
+
+In hoofdstuk 1 is uiteengezet dat een prognosemethode voor windenergie het instrument is om informatie te leveren voor het beantwoorden van de twee centrale vragen in de doelstelling van het project AVDE. Uit de literatuurstudie in de eerste fase van het project kwam naar voren dat een aantal methoden beschikbaar is: WPPT, Prediktor, ISET-methode, Previento, en eWind. Uit deze studie bleek ook dat elk van deze bestaande methoden een of meer hiaten heeft, die opgelost moeten worden voordat zo'n methode in de Nederlandse markt opgenomen zal kunnen worden. Omdat geen van deze hiaten onoplosbaar is, lag het voor de hand een bestaande methode te adopteren en toe te spitsen op de Nederlandse situatie. Bij de start van de tweede fase van het project bleek echter dat ECN geen licentie op een van de bestaande methoden kon krijgen. Om de eerste sub-doelstelling van het project te kunnen realiseren zat er niets anders op dan zelf een methode te maken.
+
+De mogelijkheid om zelf een methode te maken leverde het voordeel op dat deze vanaf het begin kon worden toegespitst op de Nederlandse situatie. Deze Nederlandse situatie wordt in vijf punten gekarakteriseerd: De programmaverantwoordelijke is de typische gebruiker, wat betekent dat de vermogensverwachtingen moeten gelden; per aansluiting of cluster van aansluitingen, en per programmatijdseenheid van een kwartier.
+De aanwezigheid van een relatief groot volume pro elvermogen, dat is windvermogen dat niet wordt gemeterd, wat tot gevolg heeft dat statistische methoden geen rol kunnen spelen, en detaillering van de combinatie van fysica en meteorologie moet komen.
+De wens van de gebruiker om ook een maat voor de onzekerheid in de verwachting te krijgen, wat betekent dat naast de verwachtingswaarde ook de ondergrens en de bovengrens voor de verwachting moet worden gegeven.
+De lopende ontwikkelingen op het gebied van: weermodellen en met name het Hirlam, bij het KNMI en de Service Providers, alsmede ruwheidscartogra e met als doel gedetailleerde windprognoses op tien meter hoogte te maken, bij het KNMI.
+De invloed van de temperatuur op het dagelijkse windvermogenaanbod, hetgeen behandeling van de stabiliteit en van de dichtheid nodig maakt.
+
+Figuur 4.1 Invoer voor en uitvoer van de windvermogenvoorspeller van ECN
+
+De methode van ECN
+De website demonstreert de windvermogen voorspeller van het ECN. Elke zes uur verschijnt een nieuwe prognose voor de praktijkvoorbeelden. Voor een marktpartij met windvermogen in de portefolio zijn de tabellen met het verwachte vermogen per programmatijdseenheid van belang. Naast de praktijkvoorbeelden is veel achtergrondinformatie aanwezig. Bijlage A bevat een `snap shot' van de inhoud van de website.
+
+De beknopte beschrijving van de windvermogen voorspeller van ECN is in termen van invoer en uitvoer (figuur 4.1). De invoer is de informatie die windvermogenvoorspeller nodig heeft om te kunnen werken. De uitvoer is de informatie die de gebruiker nodig heeft: de vermogensverwachtingen.
+De benodigde minimale invoer bestaat uit:
+Twee windsnelheidscomponenten, temperatuur en druk; verwachtingen op twee vlakken en met intervallen van een of drie uur voor een periode tot 48 uur vooruit.
+Een globale ruwheidskaart.
+Een lokale ruwheidskaart.
+Een verdeling van de obstakels.
+De richtingafhankelijke vermogenskrommen.
+De locaties en de ashoogten.
+
+Zonder een van deze elementen kan de voorspeller niet werken. De meteorologische verwachtingen en de globale ruwheidskaart dient de gebruiker in te kopen bij een Service Provider die het KNMI Hirlam22 in het dienstenpakket heeft . De lokale ruwheidskaart
+
+Windvermogen voorspellingsmethoden
+
+is op te halen vanaf de website van het project Hydra van het KNMI. De verdeling van de obstakels, de richtingafhankelijke vermogenskrommen, de locaties en de ashoogten dienen door de gebruiker zelf te worden ingebracht.
+Daarnaast is er aanbevolen extra invoer:
+Windsnelheid en windrichting; gemeten op ashoogte en per interval van vijf minuten.
+Vermogen; gemeten per interval van vijf minuten.
+
+Deze wind- en vermogensgegevens zijn niet noodzakelijk voor de werking van de voorspeller maar wel aanbevolen om systematische fouten te kunnen verwijderen. De windgegevens komen van de windmast van de windturbine of het windturbinepark (indien aanwezig), terwijl de vermogensgegevens uit de dagrapporten komen (beschikbaar, tenzij het om pro elvermogen gaat). De gebruiker dient deze gemeten gegevens zelf te correleren aan de uitvoer van de voorspeller.
+De uitvoer van de voorspeller bestaat uit:
+Windsnelheid en windrichting, temperatuur en dichtheid; op ashoogte en per vijftien minuten interval tot 48 uur vooruit.
+Vermogen; per vijftien minuten interval tot 48 uur vooruit.
+Verwachte waarde plus een marge voor de verwachting.
+
+Deze uitvoer verschijnt in tabelvorm, vergezeld van een aanduiding voor de datum en de programmatijdseenheid waar de verwachting voor geldt. Overgangen van zomer- naar wintertijd, en omgekeerd, worden goed afgehandeld.
+De uitgebreide beschrijving van de windvermogen voorspeller van ECN is in de vertrouwelijke Bijlage C van dit rapport te vinden. De ervaring met de methodieken achter deze voorspeller is beschreven in de vertrouwelijke Bijlage D.
+
+Meerwaarde van de methode van ECN
+
+De meerwaarde van de windvermogenvoorspeller van het ECN is dat deze speci ek is gemaakt om te werken binnen de Nederlandse situatie. Deze situatie is uniek door de meteorologische omstandigheden en door de onbalanssystematiek. Waar is dat aan te merken?
+De achterliggende meteorologische prognoses zijn de beste die in Nederland met deze voorspelhorizon commercieel verkrijgbaar zijn.
+Lokale ver jningen worden in de prognoses aangebracht om het windvermogen op elke netaansluiting goed in te schatten.
+Windparkeffecten worden in rekening gebracht via richtingsafhankelijke vermogenskrom-
+men.
+Een interval duidt de onzekerheid rond de verwachte waarde aan.
+De prognoses gelden per programmatijdseenheid van een kwartier.
+Afhankelijk van de wens van de gebruiker worden de prognoses voor alle aansluitingen afzonderlijk dan wel over alle aansluitingen geaccumuleerd afgegeven.
+De methode werkt ook zonder gemeten windsnelheid of windvermogen.
+Overige methoden
+
+Methoden beschikbaar per medio 2000
+Halverwege het jaar 2000 was een aantal windvermogen prognose methoden ontwikkeld:
+Wind Power Prediction Tool WPPT (DTU, Denemarken);
+Prediktor (Ris National Lab, Denemarken);
+Previento (Universitat Oldenburg, Duitsland);
+methode van ISET (ISET, Duitsland); en
+eWind (TrueWind Solutions, Verenigde Staten).
+
+Van deze vijf is WPPT operationeel, en deze zal dan ook in het hoofdstuk 5 terugkomen als referentie voor de ECN methode. Het WPPT en de methode van ISET zijn voornamelijk statistisch van aard, terwijl Prediktor, Previento, en eWind voornamelijk fysisch zijn. De statistische en de fysische aanpak zijn beschreven in Bijlage B. Deze bijlage bevat ook een beschrijving van de kenmerken van de vijf bovengenomede methoden, zoals ontleend aan de verslagen van de eerste en de tweede IEA Expert Meeting op het gebied van `wind forecasting'.
+
+Nieuwe methoden vanaf medio 2000
+
+Ondanks de beschikbaarheid van vijf verschillende windvermogen prognose methoden heeft een aantal organisaties, net als ECN, zelf een methode ontwikkeld. Dit zijn:
+Danish Meteorological Institute DMI (Denemarken), Hirpom;
+Meteotest (Zwitserland), Meteowind;
+Garrad Hassan & Partners (Verenigd Koninkrijk);
+CENER en CIEMAT (Spanje), LocalPred en RegioPred; en
+Norwegian Meteorological Institute NMI (Noorwegen).
+
+De motivatie voor het maken van een eigen methode was in alle gevallen dat de combinatie van de landelijke meteorologische situatie en de landelijke onbalanssystematiek een speci eke oplosssing vereist die niet door een van de beschikbare methoden kan worden geleverd. Bijlage B bevat de kenmerken van drie van deze methodenn, zoals ontleend aan het verslag van de tweede IEA Expert Meeting op het gebied van `wind forcasting'.
+
+
+WINDVERMOGEN VERWACHTINGEN IN DE
+PRAKTIJK
+
+De praktijkvoorbeelden
+
+In dit hoofdstuk wordt de haalbaarbeid van windvermogen verwachtingen onderzocht aan de hand van praktijkvoorbeelden met de ECN-methode en uit de literatuur. Er zijn twee invalshoeken: de economische (paragraaf 5.2) en de technische (paragraaf 5.3).
+
+Er zijn twee praktijkvoorbeelden: de NedWind 53/55 windturbine met een nominaal vermogen van een megawatt ten noordwesten van Medemblik, en de meetmast met een hoogte van vijftig meter ten noorden van Petten.
+
+Productie- en statusgegevens van de windturbine nabij Medemblik werden door Wind-Energie Ontwikkelings Maatschappij WEOM ter beschikking gesteld. Daarnaast stelde WEOM de windsnelheid en de windrichting ter beschikking zoals gemeten op de bijbehorende meetmast. De hoogte van de windmetingen komt overeen met de ashoogte van de windturbine: 52 meter boven het maaiveld. Voor alle gegevens gaat het om het gemiddelde per meettijd van vijf minuten. De statusgegevens duiden de werking van de windturbine en de meetmast aan. Hiermee leidde ECN de perioden af waarin zowel de windturbine als de meetmast goed werkten, en vervolgens de tijdreeksen met productie- en windgegevens per programmatijdseenheid van een kwartier.
+
+Verwachtingen voor de productie van de windturbine werden berekend met de prognosemethode van het ECN, die werd gevoed met gegevens uit het KNMI Hirlam . Voor elk etmaal zijn er vier verschillende prognosereeksen beschikbaar, te onderscheiden naar de initialisatie van de achterliggende run van het Hirlam. Deze reeksen worden achtereenvolgens aangeduid als run 00, run 06, run 12 en run 18. Ze geven respectievelijk het initiele energieprogramma, het energieprogramma, het eerste aangepaste energieprogramma en het tweede aangepaste energieprogramma. Voor de programmatijdseenheden waarin zowel een prognose als een goed werkende windturbine aanwezig is, wordt de onbalans berekend. Deze onbalans is het verschil tussen de werkelijke productie (volgens de data van WEOM) en de verwachte productie (zoals berekend door ECN). Omdat voor elk kwartier vier prognoses zijn afgegeven, zijn er dus ook vier verschillende waarden van de onbalans.
+
+Windgegevens van de meetmast van ECN in Petten werden door ECN beschikbaar gesteld. Het betreft de windsnelheid en de windrichting zoals gemeten op 50, 32 en 10 meter boven de voet van de mast, waarbij aangetekend dat de mastvoet zich op de helling van een duin bevindt. Voor elke hoogte wordt per periode van tien minuten het gemiddelde, de standaardafwijking ten opzichte van dit gemiddelde, de grootste waarde en de kleinste waarde gegeven. De tijdreeksen zijn discontinu in de zin dat data voor tijdstippen waarop de mast niet goed werkte zijn verwijderd.
+Verwachtingen voor de windsnelheden op de drie meethoogten werden berekend met de prognosemethode van het ECN en op een manier die vergelijkbaar is met die voor de windturbine. Voor de perioden waarin zowel een prognose als een meting aanwezig is, wordt de voorspelfout berekend. Deze voorspelfout is het verschil tussen de werkelijke windsnelheid en de verwachte windsnelheid.
+
+Economische haalbaarheid: Onbalans en onbalanskosten
+
+Studies met de ECN methode: Een windturbine 5.2.1a Inleiding tot de ECN studies
+De economische haalbaarheid van windvermogenprognoses is onderzocht aan de hand van twee variabelen: de onbalans en de kosten van onbalans. De onbalans is hierbij gedenieerd als het verschil in een programmatijdseenheid tussen het werkelijke vermogen en het verwachte vermogen voor de windturbine in Medemblik. Deze de nitie is in lijn met de de nitie van onbalans als het verschil tussen de netto gemeterde invoeding, zoals die staat in het dagrapport, en de aangekondigde netto invoeding, zoals die staat in het energieprogramma. (Merk op dat het gaat om de PV-balans, niet te verwarren met de systeembalans.) Deze onbalans kan dus zowel positief als negatief zijn. De netto kosten van de onbalans zijn gede nieerd als de kosten die gemoeid zijn met het weghandelen van de onbalans tegen de onbalansprijs die geldt voor de beschouwde programmatijdseenheid en voor de toestand waar de programmaverantwoordelijke zich in bevindt. Voor elk van de twee toestanden netto invoeden en netto onttrekken is er een aparte onbalansprijs. Andere regulerende instrumenten, zoals weghandelen via de APX of de inzet van eigen ander vermogen, blijven buiten beschouwing.
+
+De onbalansprijzen voor invoeden en onttrekken die zijn gebruikt zijn de gerealiseerde prijzen zoals die door de landelijk netbeheerder op de eigen website zijn gepubliceerd. Deze prijzen zijn onderzocht in een aparte studie. Het blijkt dat deze prijzen sterk varieren, en daardoor alleen op een statistische manier kunnen worden beschreven. Figuur 5.1 toont de verdeling, en tabel 5.1 de kentallen, voor het jaar 2001. Uit het grote verschil tussen de percentielen enerzijds en het gemiddelde met de standaardafwijking anderzijds blijkt dat de onbalansprijzen niet door een normaalverdeling worden beschreven.
+Het onderzoek naar de economische haalbaarheid is onderverdeeld in drie deelstudies: Het kiezen van de beste methode, het minimaliseren van onbalans, en het vermijden van tekort-situaties. Deze komen in de volgende paragrafen aan de orde.
+5.2.1b De beste methode kiezen
+
+De onderzoeksvraag van deze deelstudie is: Welke strategie is de beste om de onbalans te minimaliseren, en wat zijn de bijbehorende kosten? Er zijn drie strategieen beschouwd om het energieprogramma in te vullen:
+Afzonderlijk de run 00, 06, 12 of 18;
+Een voortgaande aanpassing uit de beschikbare runs; en
+Een andersoortige prognose: een vaste waarde voor het vermogen.
+
+Deze studie is uitgevoerd en gerapporteerd door St. Drenan. De beschouwde periode is 10 juni 2001 tot en met 30 april 2002. De windgegevens (van de bijstaande meetmast) en de vermogensgegevens uit de periode van 10 juni 2001 tot en met 30 september 2001 zijn gebruikt om de systematische fouten te minimaliseren; ziefiguur 5.2 voor de correlatie tussen de verwachtingen en de waarnemingen.
+
+
+
+
+De na run 18 volgende run 00 is ook beschouwd in de studie van St. Drenan, maar wordt in dit rapport niet behandeld omdat deze altijd te laat beschikbaar komt om voor een energieprogramma gebruikt te kunnen worden.
+
+Aanbodvoorspeller duurzame energie
+Deel 2: Korte-termijn prognose van windvermogen
+
+Windenergie
+Korte-termijn verwachting
+Bedrijfsvoering
+
+SAMENVATTING
+
+In Nederland hebben marktpartijen de taak om de balans in het elektriciteitsnet te handhaven. Deze partijen zijn wettelijke verantwoordelijk voor het afstemmen van invoeding en afname binnen hun programma. Door het wisselend windaanbod heeft invoeding vanuit windenergie inherent te maken met onbalans. Is het nu gewenst om het vermogen van windturbines te voorspellen als bijdrage aan de netbalans?
+
+Om dit vast te stellen heeft ECN een geavanceerde windvermogen voorspeller gemaakt. De praktijkvoorbeelden laten zien dat voor elke 3 kWh windstroom er 1 kWh onbalans is. Met eenvoudiger methoden zou de onbalans 1,3 kWh zijn. Hieruit blijkt dat geavanceerde voorspellingen de onbalans weliswaar verkleinen (vergeleken met eenvoudiger alternatieven), maar niet verhinderen (zoals nodig binnen de taakstelling). Gegeven het Nederlandse prijsinstrument dat kosten toerekent aan een marktpartij met onbalans, leiden voorspellingen tot lagere onbalanskosten maar niet tot het verdwijnen van deze kosten.
+
+Gezien vanuit het perspectief van netbalanshandhaving of van een marktpartij, zijn windvermogen voorspellingen dus nuttig maar niet afdoende. Om de onbalans en de onbalanskosten te vermijden, zullen marktpartijen met windvermogen in Nederland ook andere instrumenten moeten inzetten.
+
+INLEIDING
+
+Het centrale doel van het ECN Engine project `Aanbodvoorspeller Duurzame Energie (AVDE)' is het in kaart brengen van de mogelijkheden om prognoses te geven voor de productie van wind- of zonne-energie op tijdstippen die een tot vele uren in de toekomst liggen. Er zijn twee sub-doelstellingen: Het onderzoeken van de economische en technische haalbaarheid van systemen die het aanbod duurzame energie voorspellen, en Het maken van een prognosemethode voor windenergie.
+De eerste sub-doelstelling is een nut-en-noodzaak onderzoek met twee centrale vragen:
+Is het mogelijk om het aanbod duurzame energie te voorspellen?
+Dit omvat voornamelijk technische aspecten.
+Is het nodig om het aanbod duurzame energie te voorspellen?
+Dit omvat behalve technische ook economische en politieke aspecten.
+
+De tweede sub-doelstelling betreft het maken van een instrument dat informatie levert voor het beantwoorden van de twee centrale vragen. Deze sub-doelstelling is dus ondergeschikt aan de eerste sub-doelstelling.
+Tijdens de uitvoering van de werkzaamheden is het begrip duurzame energie afgepaald tot energie uit twee bronnen: windenergie en foto-volta sche zonne-energie. Beide onderwerpen worden ook afzonderlijk gerapporteerd. Er zijn dus twee eindrapporten van het project AVDE: Dit rapport over windenergieprognoses, en het andere over zonne-energieprognoses.
+
+Dit rapport bevat het antwoord op de twee centrale vragen voor zover het windenergie betreft. Eerst wordt de omgeving beschreven waarin een aanbodvoorspeller windenergie moet werken: de handhaving van de balans in het elektriciteitsnet (hoofdstuk 2). Hieruit volgen functionele eisen voor de handhaving van de netbalans (hoofdstuk 3). Verschillende methoden kunnen aan deze eisen voldoen, waaronder aanbodvoorspelling windenergie (hoofdstuk 4). Voor deze methode wordt vervolgens de technische en de economische haalbaarheid vastgesteld (hoofdstuk 5). Op basis van de argumentatie in dat hoofdstuk volgen tenslotte de antwoorden op de twee centrale vragen (hoofdstuk 6).
+
+REDENEN VOOR WINDVERMOGEN PROGNOSES
+
+Introductie
+
+In dit hoofdstuk wordt beschreven waarom windvermogen prognoses in Nederland gebruikt kunnen worden. Eerst volgt een beschrijving van de achtergrond: het handhaven van de balans in het elRedenenektriciteitsnet door marktpartijen (paragraaf 2.2). Daarna concentreert de beschrijving zich op de problematiek van marktpartijen met bronnen met een varierend vermogen (paragraaf 2.3). Uit de beschrijving van de onbalanssystematiek, het instrument voor balanshandhaving (paragraaf 2.4), wordt tenslotte afgeleid dat windvermogen prognoses een rol kunnen spelen bij het beheersen van de risico's die een marktpartij loopt bij de balanshandhaving (paragraaf 2.5).
+
+Netbalans door marktpartijen
+
+De netto som van invoeding en afname in het elektriciteitsnet moet nul zijn. Dit betekent dat productie en consumptie van elektriciteit op elkaar afgestemd moeten zijn. De handhaving van balans in het net kan op verschillende manieren georganiseerd zijn.
+In Nederland wordt de balans van het elektriciteitsnet door marktpartijen gehandhaafd, en door de landelijk netbeheerder gecontroleerd. Dit is vastgelegd in de Elektriciteitswet 1998. De uitwerking is te vinden in de Codes van de Dienst uitvoering en Toezicht Elektriciteitswet DTe, en in de Handleidingen van de landelijk netbeheerder TenneT. Deze situatie is kenmerkend maar niet uniek voor landen met een liberaliserende energiemarkt. Een andere mogelijkheid is namelijk dat toch een netbeheerder de balans handhaaft. Dit is in feite de traditionele situatie die nog gemeengoed is in veel landen in Europa en daarbuiten.
+
+In het geval van windvermogen moet een varierend aanbod worden ingepast. In Nederland is dit dus een taak voor marktpartijen. Dit in tegenstelling tot andere landen, waar de netbeheerder dit doet. In dit opzicht verschilt de Nederlandse situatie dus van die in veel andere landen.
+
+Nederlandse marktpartijen mogen zowel elektriciteitsproducenten als -consumenten in hun portefolio hebben. Zij zijn vrij in hun keuze zodat er marktpartijen kunnen zijn met alleen producenten, alleen consumenten, of beide. En de productie-eenheden kunnen velerlei zijn, zoals alleen een conventionele centrale, alleen een windturbinepark, of beide.
+Voor alle netaansluitingen in het domein van een marktpartij moet het vermogen worden gebalanceerd. Dit kan dus een mix betre en van verschillende soorten energiebron en diverse soorten consumenten, maar ook een bepaalde energiebron of een bepaalde groep consumenten. Een programmaverantwoordelijke, dat is de marktpartij die verantwoordelijk is voor de balans van de netaansluitingen onder zijn verantwoordelijkheid, heeft dus de mogelijkheid om de invoeding, de afname of beide te sturen.
+
+Marktpartijen met bronnen met een varierend aanbod
+
+In het geval de programmaverantwoordelijke bronnen met een varierend aanbod, zoals windenergie, in de portefolio heeft, heeft het de voorkeur dat deze partij ook over regelbare bronnen beschikt. Gegeven de verwachte afname en de verwachte invoeding uit de varierende bron, wordt de balans gehandhaafd door toevoegen uit de regelbare bron. Afhankelijk van de regelbaarheid van de bron, kan dit vrijwel on-line gebeuren als ook de
+balans over de aansluitingen on-line wordt gemeten. Eventuele resterende onbalans wordt
+weggehandeld of verrekend.
+
+Wat nu als de programmaverantwoordelijke wel varierende maar geen regelbare bronnen in de portefolio heeft, of als de varierende bronnen niet on-line worden gemeten? In dat geval moet de netto productie uit de bron van te voren worden geschat. Bij windenergie kan daartoe een windvermogenvoorspeller worden gebruikt. Ook in deze situatie moet eventuele resterende onbalans worden weggehandeld of verrekend.
+
+Onbalanssystematiek
+
+Welke mogelijkheid de programmaverantwoordelijke ook kiest, hij moet in het energieprogramma vastleggen hoeveel elektriciteit elk kwartier gedurende een etmaal zal worden ingevoed of afgenomen op de aansluitingen in zijn domein. Deze etmaalprognose moet ruim voor het middaguur worden afgegeven. Als er sprake is van netto invoeding controleert de landelijk netbeheerder of er een afnemer van deze hoeveelheid stroom is, en omgekeerd in het geval van netto afname. Het energieprogramma wordt goedgekeurd als er balans is.
+Het dagrapport bevat de elektriciteit die daadwerkelijk gedurende het etmaal per periode van vijf minuten werd ingevoed of afgenomen. Om allerlei redenen kan het dagrapport verschillen van het afgegeven energieprogramma. Dit verschil is de zogenaamde PV-onbalans. De landelijk netbeheerder brengt deze PV-onbalans in rekening bij de programmaverantwoordelijke via de onbalansprijs. Afhankelijk van het teken van de onbalans (netto invoeding of netto afname) en van de bijbehorende onbalansprijs betaalt de programmaverantwoordelijke een bedrag aan of ontvangt een bedrag van de netbeheerder.
+
+De onbalansprijs is dus het regulerend instrument dat marktpartijen moet helpen om de balans ten opzichte van een afgegeven programma te handhaven. Deze onbalansprijs komt tot stand op een markt waar vraag en aanbod van balancerend vermogen bij elkaar komen.
+
+Het systeem van energieprogramma's, dagrapporten en onbalansprijzen is uitgewerkt in de Codes van de Dienst uitvoering en Toezicht Elektriciteitswet DTe, en in de Handleidingen van de landelijk netbeheerder TenneT; zie paragraaf 2.2 voor de referenties.
+
+Risicobeheersing door windvermogenprognoses
+
+Aan de netto kosten van onbalans is een nancieel risico verbonden als de marktpartij geen regelbaar vermogen heeft. De marktpartij weet dan immers pas achteraf hoe groot de onbalans ten opzichte van het afgegeven programma is geworden, en tegen welke onbalansprijs dit werd afgerekend. Dit risico is groter naarmate het aandeel van het niet-regelbare vermogen groter is.
+
+Een marktpartij zal dit nanciele risico willen beperken door de netto kosten van onbalans zo laag mogelijk te houden. Hiertoe moet de onbalans zo klein mogelijk worden gehouden, en moeten `tekort' situaties worden vermeden. (In een `tekort' situatie heeft de programmaverantwoordelijke in een kwartier minder geleverd of meer afgenomen ten opzichte van het afgegeven programma en moet elektriciteit worden ingekocht, zonodig tegen een hoge prijs.) Daarnaast, maar dit is minder belangrijk, moeten `overschot' situaties worden vermeden. (Bij `overschot' is in een kwartier meer geleverd of minder afgenomen ten opzichte van het programma en moet elektriciteit worden verkocht ongeacht de prijs.)
+
+
+Deze programmaverantwoordelijkheid-onbalans is niet te verwarren met de systeem-onbalans die geldtvoor de som van alle programma's in het verzorgingsgebied van de netbeheerder 
+
+Redenen voor windvermogen prognoses
+
+Als de marktpartij niet beschikt over regelbaar vermogen, zal dit moeten gebeuren door de verwachte productie zo goed mogelijk in te schatten. In het geval van windvermogen kan hiertoe een windvermogen voorspeller worden gebruikt.
+
+In hoofdstuk 3 worden functionele eisen gegeven voor een windvermogen voorspeller voor marktpartijen binnen de Nederlandse onbalanssystematiek.
+
+FUNCTIONELE EISEN
+
+Dit hoofdstuk geeft functionele eisen voor windvermogen prognoses binnen de Nederlandse onbalanssystematiek. Zoals in hoofdstuk 2 uiteengezet, worden deze prognoses door een marktpartij met windvermogen gebruikt om het windvermogen in het volgende etmaal zo goed mogelijk in te schatten. In dat hoofdstuk is ook uiteengezet dat windvermogen prognoses niet de enige optie zijn om dat te doen, en dat andere opties zelfs de voorkeur kunnen hebben. In dit hoofdstuk met functionele eisen wordt echter geen aandacht aan deze andere opties gegeven.
+
+Het gebruikerspro el van een windvermogen voorspeller in Nederland is een marktpartij met windvermogen die dagelijks het programma onder zijn verantwoordelijkheid moet balanceren. Zo'n energieprogramma geldt voor een etmaal en wordt ruim voor het middaguur op de voorafgaande dag uitgegeven. Afhankelijk van het aandeel windvermogen, bevat dit programma een grotere of kleinere bijdrage van het windvermogen.
+De speci caties zijn:
+Onbalans minimaliseren;
+dat wil zeggen dat het verschil tussen de werkelijke en de verwachte productie zo klein mogelijk moet zijn.
+Tekorten voorkomen;
+dat wil zeggen dat de situatie wordt vermeden waarin de werkelijke productie kleiner is dan de verwachte productie.
+Overschotten voorkomen;
+dat wil zeggen dat de situatie wordt vermeden waarin de werkelijke productie groter is dan de verwachte productie.
+Centrale elementen:
+Windvermogen prognoses voor de komende 48 uur en per 15 minuten;
+vanuit de `huidige' dag omvat dit altijd het `volgende etmaal' met een indeling in programmatijdseenheden.
+Prognoses zowel voor elke individuele als voor alle geaccumuleerde netaansluitingen in het programma;
+dit maakt het mogelijk lokale verschillen in rekening te brengen.
+Prognoses zijn inclusief een maat voor de onzekerheid;
+deze maat geeft aan binnen welke marge de productie met grote waarschijnlijkheid zal vallen.
+Onderliggende meteorologische prognoses van zo hoog mogelijke kwaliteit; methode sluit aan op het weermodel Hirlam22.
+
+WINDVERMOGEN VOORSPELLINGSMETHODEN
+
+Overzicht
+
+In dit hoofdstuk passeren de methoden voor windvermogen prognoses de revu. Eerst wordt de methode gepresenteerd die het ECN heeft gemaakt (paragraaf 4.2). Daarna komen de overige methoden aan de orde (paragraaf 4.3).
+
+Windvermogen voorspellings methode van ECN
+
+Disclaimer
+
+
+De waarden van atmosferische grootheden en van onbalansprijzen kunnen variëren. In het verleden gerealiseerde onbalansen of kosten/baten geven dus geen garantie voor toekomstige onbalansen of kosten/baten.
+
+
+Workshop "Weerbericht voor Windstroom"
+
+Aanbodvoorspeller Duurzame Energie
+
+Hoe groot is het voordeel door voorspellingen?
+
+
+Windturbines produceren jaarlijks ten minste 1.500 megawattuur aan elektriciteit per megawatt geïnstalleerd vermogen. (Rekenvoorbeeld voor een 80 kilowatt windturbine op een mast van 40 meter in het binnenland.) Met gebruik van windvermogen verwachtingen resteert er 500 megawattuur aan onbalans ten opzichte van de afgegeven programma’s. Zonder zulke verwachtingen zou de hoeveelheid onbalans 150 megawattuur groter zijn. Met een gemiddelde onbalansprijs van 5 euro per megawattuur bedraagt het financiële voordeel van voorspellen dus minstens 750 euro per megawatt geïnstalleerd vermogen. Voor windturbines die jaarlijks 2.400 megawattuur per megawatt maken (zoals 2 megawatt windturbines met een mast van 70 meter), loopt dit voordeel op tot 1.200 euro per megawatt.
+
+Met de grafiek kunt u uitrekenen hoe groot het financiële voordeel door voorspellen is voor het windvermogen in uw programma.
+
+Wat is nodig voor het maken van windvermogen verwachtingen?
+
+
+Licentie op windvermogenvoorspeller van ECN
+Neem contact op met ECN voor mogelijkheden en voorwaarden Dagelijkse levering uitvoer van het weermodel Hirlam
+Neem contact op met een van de Service Providers 
+Twee ruwheidskaarten worden verzorgd door ECN
+Ashoogte en coördinaten windturbines/windturbineparken uit uw eigen database
+Richtingafhankelijke vermogenscurves zoals verstrekt door de fabrikanten van uw windturbines 
+Gemeterd vermogen uit dagrapport per aansluiting oals verstrekt door de netbeheerder
+
+
+BIJLAGE B. OVERZICHT WINDVERMOGEN
+PROGNOSEMETHODEN
+
+Leeswijzer
+
+Windvermogen prognosemethoden kunnen worden ingedeeld in twee soorten: de fysische methoden en de statistische methoden. Deze bijlage geeft een beschrijving van deze twee soorten, een uitleg van de rol van atmosfeermodellen, de voor- en nadelen van de fysische en de statistische methoden, en een overzicht van de kenmerken van een aantal prognosemethoden.
+
+Beschrijving van de fysische en de statistische methode
+
+Een windprognose is de verwachting van de windsnelheid en -richting op een toekomstig tijdstip. Uitgaande van zo'n windprognose moet de windenergieprognose worden opgesteld: de verwachte elektriciteitsproductie van een turbine of park. Voor het maken van de windenergieprognose zijn er twee essentieel verschillende manieren: de fysische en de statistische.
+
+De fysische methode bestaat uit een aantal sub-modellen die gezamenlijk zorgen voor de vertaling van de windverwachting in een roosterpunt naar de energieverwachting voor een windturbine of windpark. Elk sub-model bevat een wiskundige beschrijving van een natuurkundig proces dat relevant is voor deze vertaling. Voorbeelden van sub-modellen zijn die voor het in rekening brengen van het effect van ruwheid en stabiliteit op de windsnelheid, en van het effect van zoggen op windturbines in parkcon guratie. Kennis van alle relevante processen is dus een vereiste voor een zuiver fysische methode.
+
+De statistische methode bestaat ook uit sub-modellen voor de vertaling van roosterpuntwindverwachting naar lokale energieverwachting, maar nu gebaseerd op wiskundige beschrijvingen. De wiskundige beschrijvingen zijn schatters voor de relevante variabelen. Omdat de parameters in de schatters geen universele waarde hebben, moeten de parameterwaarden uit waarnemingen worden afgeleid. Dit kan met bijvoorbeeld recursieve kleinste kwadraten schatting of een neuraal netwerk. Voor een zuiver statistische methode is het dus nodig om te beschikken over continue waarnemingen om de parameterwaarden actueel te houden.
+
+In de praktijk komen zowel de fysische als de statistische methode niet in zuivere vorm voor. Zo heeft een fysische methode in het algemeen ook een statistisch sub-model om systematische correcties aan te kunnen brengen. En een statistische methode wordt in het algemeen ook gevoed met informatie uit een atmosfeermodel.
+
+De rol van atmosfeermodellen
+
+Meteorologische instituten gebruiken bij het opstellen van weersverwachtingen op korte en iets langere termijn atmosfeermodellen. Dit zijn numerieke benaderingen van de natuurkundige beschrijving van de toekomstige toestand van de atmosfeer boven een deel van het aardoppervlak, die regelmatig met behulp van supercomputers uitgerekend worden. Elke berekening start met een zo actueel mogelijke begintoestand op basis van waarnemingen. Het rekenresultaat is de waarde van enkele grootheden per roosterpunt en voor een aantal stappen vooruit in de tijd.
+
+Om een aantal redenen geven de modellen een benadering van de werkelijkheid. Ten eerste zijn niet alle atmosferische processen in een model vertegenwoordigd. Daarnaast kan de begintoestand van een berekening onzuiver zijn, en zijn de rekenuitkomsten alleen beschikbaar voor discrete punten in de ruimte (zowel horizontaal als verticaal) en de tijd. Tenslotte verouderen de beginwaarden met het voortgaan van de tijd. Door deze beperkingen zijn atmosfeermodellen alleen hulpmiddel bij het opstellen van weersverwachtingen. (Atmosfeermodellen zijn overigens niet het enige hulpmiddel omdat er ook andere prognosemethoden bestaan.)
+Er zijn vele atmosfeermodellen, varierend van academisch onderzoeksobject tot volledig operationeel instrument. De modellen verschillen behalve in de aard van de modellering (bijvoorbeeld natuurkundige processen of numerieke schema's) in een aantal uiterlijk herkenbare punten. Dit zijn de tijdhorizon (van enkele uren tot enkele dagen vooruit), het domein (van een gebied van enkele tienduizenden vierkante kilometers tot ruim de helft van het aardoppervlak), de horizontale resolutie (van een tot ruim honderd kilometer) en de tijdstap (van een tot enkele uren).
+
+Een van die vele atmosfeermodellen is het High Resolution Limited Area Model (Hirlam) dat in Europa in gebruik is. Het is overigens beter om te spreken van `een' in plaats van `het' Hirlam omdat dit model in verschillende versies voorkomt. Deze versies worden door verscheidene nationale instituten onderhouden zodat er naast Nederlandse (KNMI) ook bijvoorbeeld Deense (DMI) en Finse (FMI) versies zijn. Naast operationele versies kent elk instituut versies die pre-operationeel of semi-operationeel zijn, alsmede versies die voor onderzoek worden gebruikt.
+Voor het maken van weersverwachtingen tot 48 uur vooruit heeft het KNMI een Hirlam operationeel met een horizontale roosterpuntafstand van 22 km (55 km tot het voorjaar van 2002). Daarnaast is een Hirlam operationeel voor verwachtingen tot 24 uur vooruit op het gedetailleerder rooster van 11 km. Hogere resolutie versies zijn beschikbaar voor onderzoeksdoeleinden. In alle gevallen gaat het om uurlijkse of drie-uurlijkse prognosewaarden.
+
+Voor commerciele toepassing van gegevens uit het KNMI Hirlam dient een gebruiker zich te wenden tot een van de zogenaamde Service Providers, of zelf de rol van Service Provider aan te nemen.
+
+Voor- en nadelen van de twee soorten methode
+
+De fysische en de statistische methode hebben speci eke voordelen en nadelen. Deze zijn samengevat in tabel B.1.
+
+De fysische methoden hebben als voordeel dat deze aanpasbaar en overdraagbaar zijn. Het aanpassingsvermogen bestaat er uit dat diverse invloedsfactoren, zoals de omgevingsruwheid of de vermogenscurve, invoer voor de methode zijn en dus naar wens of noodzaak kunnen worden gewijzigd. Dit betekent dat de methode naar een andere locatie kan worden overgedragen door de invoerelementen te veranderen. De methode zelf blijft gelijk.
+
+De nadelen van de fysische methoden zijn de lange bewerkingstijd en de vaste regelmaat waarmee de verwachtingen afkomen. Deze eigenschappen volgen direct uit het voeden van de methoden met uitvoer van een atmosfeermodel. Er gaan namelijk enkele uren heen tussen het moment van initialisatie en het moment dat de uitvoer bij de gebruiker is afgeleverd. Daarnaast draait het atmosfeermodel slechts enkele keren per dag; afhankelijk van het model is dit twee, vier of acht keer.
+De voordelen van de statistische methoden bestaan uit de grote mate van detaillering en het zelfreinigend karakter. Deze eigenschappen volgen direct uit het gebruik van schatters voor de relevante processen. Hierdoor zijn invloeden als richtingsafhankelijkheid of prognoseleeftijd goed gerepresenteerd. Daarnaast passen de parameters in de schatters zich aan veranderende situaties aan, zoals bij een verandering van turbine-eigenschappen of van omgevingsinvloeden.
+
+De statistische methoden hebben als nadeel dat deze meetgegevens nodig hebben en locatiegebonden zijn. Dit is een gevolg van het gebruik van schatters voor de beschrijving van de relevante processen. De schatters passen namelijk hun parameters aan door een correlatie tussen realisaties en verwachtingen. Een bijkomend nadeel is dat er enige tijd heengaat voordat de schatters zijn geoptimaliseerd. Het gevolg van de afhankelijkheid van gemeten gegevens is dat schatters die optimaal zijn voor een locatie, dat in het algemeen niet zijn voor een andere locatie.
+
+Kenmerken van verschillende methoden
+
+De kenmerken van acht windvermogen prognosemethoden staan in tabel B.2. Behalve de naam en het land van herkomst benoemt de tabel:
+Het soort methode: fysisch of statistisch.
+De manier waarop de methode voor een gebruiker beschikbaar is: als product of als dienst.
+De typische toepassing, operationeel of onderzoek, vanaf het aangegeven jaartal.
+De typische gebruiker: netbeheerder, programmaverantwoordlijke of nutsbedrijf.
+
+Deze kenmerken zijn ontleend aan de verslagen van twee IEA Expert Meetings over `wind forecasting'.
+
+Tabel B.2 Kenmerken van een aantal windvermogen prognosemethoden
+Bronnen
+
+
+De meteorologische modellering
+
+
+De basisgegevens voor de wind(stroom)prognoses komen van het HiRLAM dat operationeel is bij het KNMI. Dit atmosfeermodel is beschreven.
+
+Het Monin-Obukhov model en de Businger-Dyer profielen behoren tot de kennis die in leerboeken is vastgelegd. Bij het in rekening brengen van de invloed van de gelaagdheid is gebruik gemaakt van de beschrijving in een collegediktaat. Dit diktaat, dat ook referenties naar oorspronkelijke publicaties bevat.
+
+Hoewel de Businger-Dyer profielen tot de standaardkennis behoren, doet de toepassing van deze profielen op modeluitvoer dat niet. De methode om de Monin-Obukhov lengte te berekenen, waarbij de onderste snelheid en temperatuur op verschillende hoogten liggen.
+
+Het in rekening brengen van lokale omgevingsinvloeden op een windsnelheid die zelf afkomstig is van een roosterpuntverwachting die geldt voor een groter gebied is ontleend aan het project Hydra van het KNMI. De aanpak door het ECN verschilt in detail van de werkwijze die het KNMI volgt. Gemeenschappelijk is echter het gebruik van de ruwheidskaart van Nederland. Deze kaart is zelfs de reden geweest om in de geest van de Hydra-methode te gaan werken. Naar verwachting zal de kaart namelijk een bredere toepassing in de windenergie gaan vinden. De beschrijving van de manier die in het project Hydra is gebruikt.
+
+Het voorspellen van windvermogen
+
+
+Onderzoek aan prognosemethoden
+
+
+Het onderzoek aan windenergieverwachtingen is gerapporteerd in een dusdanig aantal publicaties dat het niet mogelijk is deze hier te noemen. Voor dit soort publicaties wordt daarom verwezen naar de verslagen van de diverse windenergieconferenties. Sinds het eind van de jaren negentig kennen deze meestal wel een sessie over dit onderwerp. Een uitzondering wordt gemaakt voor het verslag van een bijeenkomst onder de vlag van de International Energy Association omdat het alle organisaties behalve Universität Oldenburg introduceert en het nog steeds een goede beschrijving van de stand van zaken geeft.
+
+Windenergieprognoses in de praktijk
+
+
+In contrast met de grote hoeveelheid onderzoekspublicaties is er een klein aantal openbare artikelen over de praktijk van het dagelijks afgeven van vermogensprognoses. De ervaring in Denemarken, met een indicatie van het resterende volume aan onbalans na gebruik van een voorspeller.
+
+De situatie in Nederland
+
+
+Hoe Nuon omgaat met onbalans in het algemeen en onbalans door windenergie in het bijzonder is beschreven in twee artikelen die duidelijk maken dat de kosten van onbalans de drijfveer voor de vermogensprognoses zijn.
+
+Medio 2002 is er nog maar weinig gefundeerde informatie over de vermindering van de waarde van windstroom door de onbalans die het introduceert, of over de vermeerdering van die waarde door goed afgegeven prognoses.
+
+En verder ...
+
+
+Weerbericht voor windstroom
+
+
+Wind-, temperatuur- en drukverwachtingen zijn voor het ECN geen einddoel maar een tussenstap voorafgaand aan het geven van windenergieverwachtingen. Deze verwachtingen van de geproduceerde hoeveelheden windstroom zijn nodig vanuit het uitgangspunt dat de elektriciteitsproductie in het komende etmaal bekend moet zijn. Er zijn twee motivaties voor het maken van etmaalprognoses: De onbalanssystematiek in de vrije Nederlandse elektriciteitsmarkt, en Het aansturen van opslagsystemen en energievraag in de gebouwde omgeving.
+
+De geliberaliseerde Nederlandse elektriciteitsmarkt heeft een financieel instrument om het elektriciteitsnet in balans te houden. Elke programmaverantwoordelijke heeft hiertoe de plicht een energieprogramma in te dienen met de verwachte elektriciteitsproductie voor het volgende etmaal. De werkelijke productie in dat etmaal wordt vastgelegd in een dagrapport. Het verschil tussen de werkelijke en de verwachte productie is de onbalans (eigenlijk PV-onbalans), die via de onbalansprijs bij de programmaverantwoordelijke in rekening wordt gebracht. Afhankelijk van het teken van de onbalans, het teken van de onbalansprijs en de toestand van het elektriciteitsnet leidt dit tot een bedrag dat de programmaverantwoordelijke betaalt aan of ontvangt van de landelijk netbeheerder. De regels voor het in balans houden van het net zijn vastgelegd in de diverse codes van de Dte, te betrekken via hun website. De onbalansprijzen zijn te raadplegen via de website van de landelijk netbeheerder TenneT.
+
+De tweede reden voor het maken van etmaalprognoses is de opkomst van kleinschalig opgewekte duurzame energie in de gebouwde omgeving. Voor een optimale inpassing van duurzame energie in woningen of kleine woningclusters met geen of slechts zwakke netkoppeling is een integrale regeling van het energiesysteem noodzakelijk. Een nauwkeurige verwachting van het duurzame energieaanbod kan een belangrijke beslisparameter zijn voor het intelligent aansturen van het energiesysteem in deze woningen. Voor een aanbodvoorspeller in deze toepassing is een voorspelling voor de komende uren het belangrijkst en ligt de maximale voorspelhorizon op ongeveer vierentwintig uur.
+
+De twee motivaties onbalans en aansturing voor etmaalprognoses worden door ECN onderzocht. Dit gebeurt binnen het kader van twee projecten: Het door ECN zelf gefinancierde project AVDE (vanaf voorjaar 2000, contactpersoon: Arno Brand), en het voornamelijk door SDE gefinancierde project VoDeGo (vanaf najaar 2000, contactpersoon: Koen Kok).
+
+Een van de gezamenlijke doelstellingen van beide projecten is het maken van het prototype van een windenergie aanbodvoorspeller. In het kader van een nut-en-noodzaak onderzoek wordt dit prototype gebruikt om de economische en de technische haalbaarheid van "windstroomvoorspelling" vast te leggen. De uitkomsten van dit onderzoek, met de focus op de vrije elektriciteitsmarkt, zullen medio 2002 beschikbaar komen.
+
+In het nut-en-noodzaak onderzoek worden drie praktijkvoorbeelden beschouwd. Een daarvan is een meetmast (in Petten, beheerd door ECN). De andere zijn een windturbine (nabij Medemblik) en een windturbinepark (in de Hoekse Waard). De twee energieproducerende praktijkvoorbeelden, die overigens elk beschikken over een windmeetmast, worden beheerd door WEOM.
+
+Andere landen
+
+
+In het buitenland worden ook korte-termijnprognoses voor het windvermogen gemaakt. Sommige van de methoden zijn gedemonstreerd op praktijkvoorbeelden, andere zijn volledig operationeel. De methoden die gedemonstreerd of operationeel zijn (geweest) vormen de eerste generatie. Dit zijn WPPT en Prediktor uit Denemarken, Previento en de methode van ISET (page: online supervision and prediction ...) uit Duitsland, en eWind uit de Verenigde Staten. Daarnaast zijn de tweede generatie methoden Zephyr en Hirpom in ontwikkeling in Denemarken, en, geloof het of niet, is er een Zwitserse methode om het windvermogen wereldwijd te voorspellen.
+
+Externe partijen
+
+
+Voor het werk aan de windenergie aanbodvoorspeller is een aantal externe partijen van belang. Deze zijn in te delen in de leveranciers van gegevens en de leveranciers van kennis.
+
+Het KNMI en de WEOM hebben beide de rol van leverancier van gegevens. Voor het KNMI gaat het hier om de uitvoer van het HiRLAM en voor de WEOM om de producties van de windturbines. De twee soorten gegevens zijn te beschouwen als halffabrikaten waaruit ECN, via de genoemde interpolaties en transformaties, het eindproduct in de vorm van een dagrapport maakt. Aan de leveringen door zowel het KNMI als de WEOM ligt een overeenkomst ten grondslag. Een andere partij met de rol van leverancier van gegevens is TenneT. De onbalansprijzen bevinden zich in het publieke domein en worden dus zonder overeenkomst (en dus kosten) verkregen.
+
+In de omgeving van de projecten bevinden zich partijen die kennis leveren. Een belangrijke partij is het KNMI, waar veel ideeën omtrent interpolaties en transformaties de oorsprong hebben liggen. Dit geldt in het bijzonder voor de behandeling van lokale ruwheid die aan het Hydra-project is ontleend.
+
+Daarnaast heeft Universität Oldenburg schaduwberekeningen met de methode Previento gemaakt, uitgaande van windverwachtingen die het ECN uit het HiRLAM afleidt.
+
+Zonne-energieverwachtingen
+
+
+Naast windenergie is foto-voltaïsche zonne-energie onderwerp van de projecten AVDE en VoDeGo. In dat kader werkt ECN samen met Meteo Consult en met KNMI. De contactpersoon bij het ECN is Nico van der Borg. De stand van zaken aan het eind van het jaar 2001 is beschreven in een rapport.
+
+Veel gestelde vragen
+
+
+Waardoor ontbreken er soms verwachtingen?
+
+
+De levering van HiRLAM uitvoer door het KNMI heeft een hoge betrouwbaarheid maar is niet foutloos. In de periode van 1 juli 2001 tot en met 30 juni 2002 is uiteindelijk 98% van de bestanden geleverd. De actuele prognoses zijn natuurlijk niet op tijd beschikbaar als de bestanden vertraging hebben. De demonstraties laten dan de meest recente prognoses zien, die dan verouderd zijn of het volgende etmaal niet omvatten. Na aankomst van de vertraagde bestanden worden de corresponderende prognoses in de lijst met verwachtingen uit het verleden opgenomen. Een enkele keer wordt een HiRLAM bestand niet geleverd. In dat geval is er een lacune in de lijst met verwachtingen.
+
+Hoe goed zijn de prognoses nu eigenlijk?
+
+
+De nauwkeurigheid van de etmaalprognoses is voldoende om de dagelijkse variatie ten opzichte van een gemiddelde uit te laten komen. Het gebruik van deze vermogensprognoses gaat dus gepaard met een lagere onbalans in vergelijking met een methode die bijvoorbeeld het jaargemiddelde (klimatologisch) of het daggemiddelde (persistentie) gebruikt.
+
+De nauwkeurigheid van de prognoses is onvoldoende om onbalans door windenergie te minimaliseren. De reden is dat de prognoses van kwartier tot kwartier sterk van de corresponderende waarnemingen verschillen. Hierdoor resteert er een volume aan onbalans. Dit neemt niet weg dat het gebruiken van deze prognoses beter is dan verwachten op basis van een gemiddelde, laat staan niets doen. Een aantal getallen laat dit zien.
+
+Voor perioden tot tweeënveertig uur vooruit is in een derde van de gevallen, dat zijn dus de programmatijdseenheden van een kwartier, de voorspelfout in de windsnelheid minder dan een meter per seconde. En in een kwart van de gevallen is de onbalans minder dan twee en een half procent van het geïnstalleerd vermogen. Lijkt dit een goede prestatie? Het is het niet. In twee derde van de gevallen is de voorspelfout namelijk groter dan een meter per seconde terwijl in drie kwart van de gevallen de onbalans groter is dan twee en een half procent van het geïnstalleerd vermogen.
+
+Een andere nauwkeurigheidsmaat is het tachtig procent betrouwbaarheidsinterval, dat de marge geeft in vier vijfde van de gevallen. Voor de voorspelfout loopt dit interval van min vijf tot plus drie meter per seconde, en voor de onbalans van -25% tot +20% van het geïnstalleerd vermogen. Ook deze maat laat zien dat de prognoses onvoldoende nauwkeurig voor gebruik in de windenergie zijn.
+
+Wat is er aan de hand met de temperaturen?
+
+
+De temperaturen in de grafiek voor de meetmast in Petten zijn de potentiële temperaturen. Deze zijn gebruikt bij het in rekening brengen van de invloed van de snelheids- en temperatuurgelaagdheid. De potentiële temperatuur is de temperatuur die de lucht krijgt als het zonder warmteuitwisseling naar de standaarddruk van duizend hectopascal wordt gebracht. Afhankelijk van de verhouding van de luchtdruk tot die standaarddruk is de potentiële temperatuur hoger of lager dan de werkelijke temperatuur. Voor de hoogten van de meetmast en de gangbare waarden van de luchtdruk is het verschil tussen de potentiële en de werkelijke temperatuur overigens klein. (De luchtdruk en de luchtdichtheid op hoogte zijn berekend uit de werkelijke temperatuur zoals afgeleid uit de potentiële temperatuur.)
+
+Bedenk ook dat in het dagelijks gebruik temperatuurwaarnemingen en -verwachtingen gelden voor de werkelijke temperatuur op twee meter hoogte. Er is dus nog een extra verschil door de andere hoogte dan twee meter. En ten slotte hangt de potentiële temperatuur sterk af van de behandeling van de snelheids- en temperatuurgelaagdheid, en onafhankelijk daarvan, de behandeling van ruwheden en obstakels. Dit is de oorzaak van de onregelmatigheden in de temperatuur (en in de windsnelheid).
+
+Waarom wijken de windsnelheden in Petten zo veel af van die in De Kooy?
+
+
+Alleen windsnelheden gemeten op tien meter hoogte mogen worden vergeleken, dus niet bijvoorbeeld de verwachte wind in Petten en de gemeten wind in De Kooy. De gelijktijdig in beide stations gemeten windsnelheden verschillen omdat de omgeving van de meetmasten anders is. Ruwheden en obstakels in de buurt van de meetmast in Petten beïnvloeden namelijk de tien meter positie terwijl deze positie in De Kooy bij benadering een ongestoorde aanstroming heeft. De gemeten maar ook de verwachte windsnelheid op tien meter hoogte in Petten geldt dan ook alleen voor die specifieke locatie. Al op een honderd meter afstand, bijvoorbeeld in het bollenveld naast de meetmast, zal de tien meter wind anders zijn door de andere omgeving.
+
+De windprognoses op vijftig meter zouden toch moeten passen in de hoogtewinden?
+
+
+Voor de windverwachtingen verschillen zowel de omgevingen als de locaties. Ten eerste is de verwachte windsnelheid op hoogte voor de praktijkvoorbeelden de lokale windsnelheid, dus inclusief de invloed van ruwheden en obstakels. Deze invloed is nog aanwezig omdat die hoogten (vijftig dan wel tweeënvijftig meter) onder de menghoogte van zestig meter liggen. Een hoogtewind, bijvoorbeeld die op veertig of zestig meter, geldt daarentegen voor open terrein oftewel lage ruwheid en zonder obstakels. Ten tweede verschillen de locaties van de praktijkvoorbeelden en de gebieden waar de hoogtewinden voor gelden. Wind op hoogte in Petten hoeft daardoor niet overeen te komen met de hoogtewind voor Regio Noordwest. Het roosterpunt met de merkwaardige roepnaam Den Helder dat het gebied Regio Noordwest karakteriseert ligt namelijk enkele kilometers ten westen van Hoorn.
+
+Hangt de windrichting niet, net als de windsnelheid, van de hoogte af?
+
+
+In de eerste honderd meter boven de grond is er een kleine verandering van de windrichting. Om die reden is de windrichting constant verondersteld.
+
+De windsnelheden horen toch regelmatig te zijn?
+
+
+Via de behandeling van de snelheids- en temperatuurgelaagdheid, en onafhankelijk daarvan, de behandeling van ruwheden en obstakels kunnen onregelmatigheden in de windsnelheid ontstaan.
+
+Omdat de aanpak gelijk is, kan dit ook onregelmatigheden in de temperatuur introduceren.
+
+Bij de behandeling van de invloed van de gelaagdheid is het uitrekenen van de Monin-Obukhov lengte de kritieke stap. Deze lengte bepaalt namelijk de vorm van het snelheidsprofiel. In het bijzonder als de convectieve limieten worden benaderd (en dat gebeurt meestal als het nauwelijks waait), hangt de windsnelheid sterk af van de waarde van deze lengte. Een kleine verandering in het snelheidverschil of het temperatuurverschil op de twee modelniveaus kan dan een grote verandering in de windsnelheid geven. Evenzo voor de temperatuur omdat ook de vorm van het temperatuurprofiel door de Monin-Obukhov lengte wordt bepaald. Voorbeelden van onregelmatigheden door de gelaagdheid geeft de meetmast in Petten, waar wordt gerekend vanuit gegevens van drie roosterpunten boven water plus een roosterpunt boven land.
+
+De behandeling van de invloed van ruwheden en obstakels gebeurt richtingsafhankelijk. Een verandering van de windrichting geeft dus andere waarden voor de stroomopwaartse ruwheidslengte en verplaatsingshoogte. Bij gelijkblijvende windsnelheid boven de menghoogte leidt dit tot een verandering van de windsnelheid onder de menghoogte. Voorbeelden van onregelmatigheden door ruwheden en obstakels geeft de tien meter positie van de meetmast in Petten. De windrichting bepaalt daar namelijk of de wind wordt afgeremd door het ruwe terrein of afscherming ondervindt door een gebouw.
+
+Waarom is de bovengrens van het vermogen soms lager dan de ondergrens?
+
+
+De vermogensverwachting wordt berekend met een windsnelheidverwachting die bestaat uit de ondergrens, de verwachtingswaarde, en de bovengrens voor deze snelheid. De drie windsnelheidswaarden lopen in grootte op als de windsnelheidsverwachting is gemaakt met uitvoerstatistiek. Dit is het geval bij de windturbine in Medemblik. Nu is het mogelijk dat de bovengrens voor de windsnelheid groter is dan de stopwindsnelheid van de windturbine, terwijl de verwachtingswaarde en dus ook de ondergrens kleiner dan de stopwindsnelheid zijn. De bovengrens voor het verwachte vermogen is dan klein, terwijl de verwachtingswaarde en de ondergrens dat niet zijn.
+
+In een vermogensprogramma moet het vermogen toch kloppen met de windsnelheid?
+
+
+Het vermogen wordt berekend met de verwachtingswaarde van de windsnelheid. Deze verwachte windsnelheid komt tot stand door uitvoerstatistiek toe te passen op de berekende windsnelheid. In een vermogensprogramma staat het verwachte vermogen (vierde kolom) tegen de berekende windsnelheid (zevende kolom) en niet tegen de verwachte windsnelheid. Voor de windturbine in Medemblik zijn de windmetingen gebruikt om de uitvoerstatistiek te maken. Hier is er dus een verschil tussen de verwachte en de berekende windsnelheid. Voor het windpark Westerse Polder zijn de windmetingen nog niet geanalyseerd. De verwachte windsnelheid is daar gelijk aan de berekende.
+
+Waar komen de sprongen in het windvermogen vandaan?
+
+
+Onregelmatigheden in de windsnelheid en/of veranderingen in de windrichting kunnen sprongen in het windvermogen veroorzaken. Voor een gegeven windrichting geeft de richtingsafhankelijke vermogenscurve een vermogen dat toeneemt met de windsnelheid. Een onregelmatigheid in de windsnelheid, bij gelijkblijvende windrichting, geeft dus een verandering van het vermogen. Voor een gegeven windsnelheid bevat de richtingsafhankelijke vermogenscurve een vermogen dat per sector verschilt. Een verandering van de windrichting over een sectorgrens heen geeft dus, bij gelijkblijvende windsnelheid, een verandering van het vermogen. Dit fenomeen is duidelijk te zien
+
+bij het windpark Westerse Polder als de windrichting varieert rond de parkoriëntatie.
+
+Welk weermodel levert de basisinformatie?
+
+
+De drie praktijkvoorbeelden gebruiken uitvoer van het HiRLAM van het KNMI met een horizontale resolutie van een halve graad. Dit wordt ook wel het HiRLAM55 genoemd. Het ECN stapt over op uitvoer van het HiRLAM met een resolutie van twee tiende graad (het HiRLAM22) zodra de dagelijkse levering van de modeluitvoer door het KNMI loopt volgens de aangepaste Overeenkomst 2001/265.
+

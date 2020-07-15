@@ -1,0 +1,17 @@
+Effects of care management and telehealth: a longitudinal analysis using medicare data.
+OBJECTIVES:
+To evaluate mortality and healthcare utilization effects of an intervention that combined care management and telehealth, targeting individuals with congestive heart failure, chronic obstructive pulmonary disease, or diabetes mellitus.
+DESIGN:
+Retrospective matched cohort study.
+SETTING:
+Northwest United States.
+PARTICIPANTS:
+High-cost Medicare fee-for-service beneficiaries (N = 1,767) enrolled in two Centers for Medicare and Medicaid Services demonstration participating clinics and a propensity-score matched control group.
+INTERVENTION:
+The Health Buddy Program, which integrates a content-driven telehealth system with care management.
+MEASUREMENTS:
+Mortality, inpatient admissions, hospital days, and emergency department (ED) visits during the 2-year study period were measured. Cox-proportional hazard models and negative binomial regression models were used to assess the relationship between the intervention and survival and utilization, controlling for demographic and health characteristics that were statistically different between groups after matching.
+RESULTS:
+At 2 years, participants offered the Health Buddy Program had 15% lower risk-adjusted all-cause mortality (hazard ratio (HR) = 0.85, 95% confidence interval (CI) = 0.74-0.98; P = .03) and had reductions in the number of quarterly inpatient admissions from baseline to the study period that were 18% greater than those of matched controls during this same time period (-0.035 vs -0.003; difference-in-differences = -0.032, 95% CI = -0.054 to -0.010, P = .005). No relationship was found between the Health Buddy Program and ED use or number of hospital days for participants who were hospitalized. The Health Buddy Program was most strongly associated with fewer admissions for individuals with chronic obstructive pulmonary disease and mortality for those with congestive heart failure.
+CONCLUSION:
+Care management coupled with content-driven telehealth technology has potential to improve health outcomes in high-cost Medicare beneficiaries.
