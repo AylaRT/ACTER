@@ -1,0 +1,9 @@
+Heart failure in patients treated with bisphosphonates.
+OBJECTIVES:
+The aim of this study was to investigate the occurrence of heart failure in patients treated with bisphosphonates.
+DESIGN:
+In this nationwide retrospective cohort study from Denmark, all users of bisphosphonates and raloxifene between 1996 and 2006 (n = 102 342) were included in the 'exposed' group and three age- and gender-matched subjects (n = 307.026) from the general population comprised the control group. The risk of heart failure was estimated by Cox proportional hazard analyses.
+RESULTS:
+The mean follow-up times were 2.8, 5.5 and 4.9 years for alendronate-, etidronate- and raloxifene-treated patients, respectively. The absolute risk of heart failure was 4.4% in the exposed group and 3.7% in the control group (P < 0.01). The relative risk (RR) of heart failure was significantly increased in users of bisphophonates: crude RR 1.71 [95% confidence interval (CI) 1.63-1.79]; adjusted hazard ratio (HR) 1.41 (95% CI 1.34-1.48). By comparison, raloxifene, which is used for the same indication but has a different mechanism of action, was not associated with an increased risk of heart failure: adjusted HR 1.07 (95% CI 0.76-1.50). When the two most commonly used bisphosphonates, alendronate and etidronate, were analysed separately, significant trends in the risk of heart failure were observed across refill compliance strata. The risk of heart failure increased significantly with increasing refill compliance for etidronate (P for trend < 0.01), whereas it decreased for alendronate (P for trend < 0.01).
+CONCLUSIONS:
+Bisphosphonate users were at increased risk of heart failure compared to age- and gender-matched control subjects. However, users of alendronate showed a dose-dependent reduction in this risk, suggesting that alendronate may reduce the risk of heart failure.

@@ -1,0 +1,9 @@
+Randomized trial of Nordic walking in patients with moderate to severe heart failure.
+BACKGROUND:
+Patients with heart failure are a growing population within cardiac rehabilitation. The purpose of this study was to compare, through a single-centre, parallel-group, randomized controlled trial, the effects of Nordic walking and standard cardiac rehabilitation care on functional capacity and other outcomes in patients with moderate to severe heart failure.
+METHODS:
+Between 2008 and 2009, 54 patients (aged 62.4 ± 11.4 years) with heart failure (mean ejection fraction = 26.9% ± 5.0%) were randomly assigned to standard cardiac rehabilitation care (n = 27) or Nordic walking (n = 27); both groups performed 200 to 400 minutes of exercise per week for 12 weeks. The primary outcome, measured after 12 weeks, was functional capacity assessed by a 6-minute walk test (6MWT).
+RESULTS:
+Compared with standard care, Nordic walking led to higher functional capacity (Δ 125.6 ± 59.4 m vs Δ 57.0 ± 71.3 m travelled during 6MWT; P = 0.001), greater self-reported physical activity (Δ 158.5 ± 118.5 minutes vs Δ 155.5 ± 125.6 minutes; P = 0.049), increased right grip strength (Δ 2.3 ± 3.5 kg vs Δ 0.3 ± 3.1 kg; P = 0.026), and fewer depressive symptoms (Hospital Anxiety and Depression Scale score = Δ -1.7 ± 2.4 vs Δ -0.8 ± 3.1; P = 0.014). No significant differences were found for peak aerobic capacity, left-hand grip strength, body weight, waist circumference, or symptoms of anxiety.
+CONCLUSIONS:
+Nordic walking was superior to standard cardiac rehabilitation care in improving functional capacity and other important outcomes in patients with heart failure. This exercise modality is a promising alternative for this population.

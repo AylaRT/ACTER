@@ -1,0 +1,415 @@
+TOELICHTING
+
+1. ACHTERGROND VAN HET VOORSTEL
+
+1.1 Algemene context
+
+Fraude en daarmee samenhangende onwettige activiteiten die de financiële belangen van de Unie schaden, benadelen de begroting van de Unie en daarmee ook de belastingbetaler in ernstige mate. De begroting van de Unie heeft ten doel de levensomstandigheden te verbeteren en voor groei en banen te zorgen. Die doelstellingen komen in gevaar als geld wordt misbruikt. Dit geldt des te meer in tijden van budgettaire consolidatie en structurele hervorming voor groei. Volgens het verslag van de Commissie over de bescherming van de financiële belangen van de Unie in 2010, wordt er ondanks het huidige rechtskader jaarlijks vermoedelijk voor een bedrag van 600 miljoen euro gefraudeerd aan de uitgaven- en ontvangstenzijde. Wellicht ligt het werkelijke bedrag nog hoger, aangezien niet alle gevallen worden ontdekt en gemeld.
+
+De Unie dient de belastinggelden zo doeltreffend mogelijk te beschermen en kan daartoe gebruikmaken van alle mogelijkheden waarin het Verdrag betreffende de Europese Unie voorziet. De schade voor de EU-begroting vraagt om optreden. De financiële belangen van de Unie dienen overal even doeltreffend te worden beschermd, zo nodig via het strafrecht. Hoewel zich een EU-acquis voor de bestrijding van fraude, corruptie en het witwassen van geld ontwikkelt, zijn er op nationaal niveau uiteenlopende regels vastgesteld, waardoor de mate van bescherming dikwijls per lidstaat verschilt. Dit betekent dat de financiële belangen van de Unie momenteel niet overal gelijkelijk worden beschermd en dat de maatregelen tegen fraude onvoldoende afschrikkend zijn.
+
+Zo hebben de lidstaten fraude gedefinieerd in allerlei soorten wetgeving, variërend van algemeen strafrecht – als specifiek of algemeen strafbaar feit – tot fiscaal strafrecht. Ook qua strafmaat verschillen de sancties die in de lidstaten op deze vormen van criminaliteit van toepassing zijn:
+
+LS Sancties
+
+AT Gevangenisstraf van maximaal zes maanden (artikel 146 van het strafwetboek), drie jaar (artikel 147, leden 1 en 2, van het strafwetboek), tien jaar (artikel 147, lid 3, artikel 148 van het strafwetboek); gevangenisstraf van maximaal drie, respectievelijk vijf jaar en een geldboete van maximaal tweemaal het ontdoken bedrag (artikel 7 AEG).
+
+BE Gevangenisstraf van een maand tot vijf jaar (artikel 450 van het Wetboek van de inkomstenbelastingen), gevangenisstraf van twee maanden tot drie jaar (artikel 451 WIB) en geldboetes (artikelen 259, 260 en 261 van de Algemene wet inzake douane en accijnzen).
+
+BG Gevangenisstraf van een tot acht jaar (artikelen 209 en 210 van het strafwetboek), gevangenisstraf van drie tot tien jaar (artikel 211 van het strafwetboek), gevangenisstraf van twee tot acht jaar (artikel 212 van het strafwetboek), gevangenisstraf van drie tot tien jaar (artikel 212, lid 3, van het strafwetboek).
+
+CY Gevangenisstraf van vijf jaar (artikel 300 van het strafwetboek), gevangenisstraf van maximaal drie jaar en/of een geldboete van maximaal 5 125,80 EUR.
+
+CZ Gevangenisstraf van maximaal twee jaar (artikelen 209-212 van het strafwetboek).
+
+DK Gevangenisstraf van maximaal een jaar en zes maanden (artikel 279 van het strafwetboek) (artikel 289A van het strafwetboek), acht jaar bij verzwarende omstandigheden.
+
+EE Geldboete of gevangenisstraf van maximaal drie jaar (artikel 209 van het strafwetboek), vijf jaar (artikel 210 van het strafwetboek).
+
+FI Geldboete of gevangenisstraf van 14 dagen tot twee jaar (hoofdstuk 36, deel 1, van het strafwetboek), (hoofdstuk 29, deel 1, van het strafwetboek) (hoofdstuk 29, deel 5, van het strafwetboek), 4 maanden tot vier jaar bij verzwarende omstandigheden.
+
+FR Gevangenisstraf van maximaal vijf jaar en een geldboete van 375 000 EUR (artikel 313, leden 1-3), maximaal zeven jaar en een geldboete van 750 000 EUR bij verzwarende omstandigheden.
+
+DE Gevangenisstraf van maximaal vijf jaar of een geldboete (artikel 263 van het strafwetboek).
+
+EL Van tien dagen tot vijf jaar, drie maanden tot vijf jaar (artikel 386, lid 1 van het strafwetboek), twee tot 5 jaar bij verzwarende omstandigheden.
+
+HU Gevangenisstraf van maximaal twee jaar (artikel 318 van het strafwetboek), vijf jaar (artikel 314 van het strafwetboek).
+
+IR Gevangenisstraf van vijf jaar (deel 42 van de wet uit 2001).
+
+IT Gevangenisstraf van zes maanden tot drie jaar en een geldboete van 51 tot 1 032,00 EUR (artikel 640, lid 1, van het strafwetboek), gevangenisstraf van een tot zes jaar (artikel 640 bis van het strafwetboek).
+
+LV Gevangenisstraf van maximaal drie jaar, administratieve hechtenis, taakstraf of een geldboete van maximaal zestig keer het maandelijks minimumloon (17 074,20 EUR) (deel 177 van het strafwetboek).
+
+LT Taakstraf of geldboete, vrijheidsbeperking, administratieve hechtenis of gevangenisstraf van maximaal drie jaar (artikel 182 van het strafwetboek) of acht jaar (ernstig strafbaar feit).
+
+LU Gevangenisstraf van een maand tot een jaar of een geldboete van 500 tot 30 000 EUR (artikel 490 van het strafwetboek), gevangenisstraf van een maand tot een jaar of een geldboete van 500 tot 10 000 EUR (artikel 498 van het strafwetboek).
+
+MT Gevangenisstraf van vier maanden tot een jaar (artikel 298, lid 1, van het strafwetboek), gevangenisstraf van maximaal achttien maanden en een geldboete van 2 329,37 tot 34 940,60 EUR (artikel 298C van het strafwetboek), gevangenisstraf van zeven maanden tot twee jaar (artikel 308 van het strafwetboek), gevangenisstraf van een tot zes maanden of een geldboete (artikel 309 van het strafwetboek).
+
+NL Gevangenisstraf van maximaal een jaar (artikel 328 van het Wetboek van Strafrecht), twee jaar (artikel 334 WvStr), drie jaar (artikel 360 WvStr), vier jaar (artikelen 227 en 326 WvStr) of zes jaar (artikelen 225, 336, 359 WvStr) of geldboetes van maximaal 76 000 EUR.
+
+PL Gevangenisstraf van drie maanden tot vijf jaar (artikel 297 van het strafwetboek).
+
+PT Gevangenisstraf van maximaal drie jaar of een geldboete (artikel 217 van het strafwetboek).
+
+RO Gevangenisstraf van zes maanden tot twaalf jaar (artikel 215 van het strafwetboek) (basisregel).
+
+SI Gevangenisstraf van minimaal drie maanden en maximaal drie jaar (artikel 229 van het strafwetboek – KZ-1), gevangenisstraf van maximaal drie jaar (artikel 211 KZ-1), gevangenisstraf van maximaal vijf jaar (artikel 228 KZ-1), geldboete of gevangenisstraf van maximaal drie jaar (artikel 231 KZ-1).
+
+SK Gevangenisstraf van twee jaar (deel 221 van het strafwetboek), gevangenisstraf van een tot vijf jaar (deel 222-225).
+
+ES Gevangenisstraf van zes maanden tot drie jaar (artikel 252 van het strafwetboek).
+
+SE Gevangenisstraf van maximaal 2 jaar (hoofdstuk 9, deel 1, van het strafwetboek).
+
+UK Standrechtelijke veroordeling: gevangenisstraf van maximaal twaalf maanden en/of geldboete (deel 1 van de fraudebestrijdingswet uit 2006); "Conviction on indictment" (veroordeling door een Crown Court): gevangenisstraf van maximaal tien jaar en/of geldboete.
+
+Uit de effectbeoordeling bij dit voorstel blijkt dat deze onderlinge verschillen het beleid dat de Unie voert ter bescherming van haar financiële belangen, minder doeltreffend maken. Als alle lidstaten dezelfde definities van strafbare feiten zouden toepassen, zou de kans op afwijkende praktijken afnemen. Gemeenschappelijke definities zouden namelijk zorgen voor een uniforme interpretatie en voor gelijke voorwaarden voor vervolging. Ook zouden zij de afschrikkende werking versterken, de handhaving van de betrokken bepalingen vereenvoudigen en het minder aantrekkelijk maken voor potentiële daders om voor hun onwettige activiteiten naar meer coulante rechtsstelsels binnen de Unie uit te wijken.
+
+Gelijkwaardige bescherming van de financiële belangen is ook van belang voor de geloofwaardigheid van de instellingen, de organen en de instanties van de Unie en voor de rechtmatigheid van de begrotingsuitvoering. Daarom dient dit voorstel niet alleen betrekking te hebben op fraude in strikte zin, maar ook op andere fraudegerelateerde vormen van onwettige gedragingen die de EU-begroting schaden, zoals corruptie, witwassen van geld en obstructie van aanbestedingsprocedures. Het kenmerkende element is dat de gegenereerde inkomsten ten koste gaan van de EU-begroting, en dus van alle belastingbetalers.
+
+Een bijkomende reden om een nieuw rechtsinstrument voor te stellen, is de behoefte aan concrete maatregelen in het kader van de algemene strategische aanpak van fraudebestrijding van de Commissie. Daarom stelt de Commissie deze richtlijn voor.
+
+1.2 Juridische achtergrond
+
+De eerste aanzet tot strafrechtelijke bescherming van de financiële belangen van de Unie werd in 1995 gegeven met de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen en de bijbehorende protocollen (hierna de "PIF-Overeenkomst" genoemd). De PIF-Overeenkomst is nadien geratificeerd door en van kracht geworden voor bijna alle lidstaten. Tot de toepasselijke algemene strafrechtelijke maatregelen van de Unie behoort ook Kaderbesluit 2005/212/JBZ van 24 februari 2005 inzake de confiscatie van opbrengsten van misdrijven, alsmede van de daarbij gebruikte hulpmiddelen en de door middel daarvan verkregen voorwerpen, die de Commissie heeft voorgesteld te vervangen door een richtlijn betreffende de bevriezing en confiscatie van opbrengsten van misdrijven in de Europese Unie voor de deelnemende lidstaten.
+
+Dit kader wordt aangevuld door algemene strafrechtelijke maatregelen van de Unie voor de bestrijding van bepaalde onwettige activiteiten die bijzonder schadelijk zijn voor de legale economie, zoals het witwassen van geld en corruptie. Deze maatregelen strekken niet specifiek tot het beschermen van de financiële belangen van de Unie, maar dragen er wel toe bij.
+
+In mei 2011 publiceerde de Commissie een mededeling over de bescherming van de financiële belangen van de Europese Unie via het strafrecht en door administratieve onderzoeken. Deze mededeling ging vergezeld van een werkdocument van de diensten van de Commissie. In deze documenten wordt gewezen op de lappendeken van strafrechtelijke definities en sancties die binnen het huidige rechtskader in de EU is ontstaan. De Commissie kondigde in deze stukken ook aan te zullen onderzoeken hoe deze situatie onder meer via het strafrecht zou kunnen worden verbeterd.
+
+In de mededeling "Werken aan een strafrechtbeleid van de EU" van september 2010 is een algemeen kader voorgesteld voor de inhoud en structuur van het EU-strafrecht. Daarnaast is als algemeen beginsel bepaald dat de strafwetgeving van de EU noodzakelijk en – gelet op de doelstellingen – evenredig dient te zijn.
+
+Het administratief recht voor de bestrijding van onwettige activiteiten die ten koste gaan van de financiële belangen van de Unie, heeft zich geleidelijk ontwikkeld. Verordening (EG, Euratom) nr. 2988/95 bevat administratieve regels voor de aanpak van onwettige activiteiten die ten koste gaan van de financiële belangen van de Unie. Deze worden begeleid door sectoriële administratieve regels. Naast de voornoemde horizontale instrumenten die specifiek dienen ter bescherming van de financiële belangen van de Unie, is ook er een aantal administratieve rechtsinstrumenten van de Unie met bepalingen inzake onwettige activiteiten die de EU-begroting schaden.
+
+2.UITKOMSTEN VAN DE RAADPLEGING VAN BELANGHEBBENDEN EN VAN DE EFFECTBEOORDELING
+
+2.1 Raadpleging van belanghebbende partijen
+
+De Commissie heeft de belanghebbende partijen meermaals geraadpleegd. Zo zijn op 25 oktober 2011 strafrechtgeleerden geraadpleegd, en op 6 december 2011 regeringsvertegenwoordigers van de lidstaten en vertegenwoordigers van de Commissie burgerlijke vrijheden, justitie en binnenlandse zaken van het Europees Parlement. De mening van de openbare ministeries van de lidstaten is gepeild door middel van vragenlijsten en discussie op het forum voor procureurs-generaal, dat Eurojust op 23 juni 2011 en 16 december 2011 organiseerde. De Commissie is op een op 25 januari 2012 gehouden deskundigenvergadering ook bijeengekomen met vertegenwoordigers van de Vereniging van Europese belastingbetalers (Taxpayers Association of Europe).
+
+Deskundigen hebben benadrukt dat het huidige rechtskader voor de bescherming van de financiële belangen van de Unie forse tekortkomingen vertoont. Zij wezen daarbij met name op de verjaringsperioden voor vervolging. Rechtsgeleerden hebben gehamerd op het beginsel dat het strafrecht alleen dient te worden gebruikt als een laatste redmiddel en met inachtneming van de beginselen van subsidiariteit en evenredigheid. Aangezien het strafrecht een zeer streng mechanisme voor sociale controle is en grote gevolgen heeft voor de fundamentele burgerlijke vrijheden, dient het alleen als uiterste middel te worden ingezet ter bescherming van fundamentele belangen. Daarbij dienen de burgerlijke vrijheden te worden geëerbiedigd en moet het belang van de burger vooropstaan. De nationale deskundigen toonden zich over het algemeen voorstander van de doelstelling van de Commissie belastinggelden en fundamentele belangen in de hele Europese Unie op gelijke wijze te beschermen. Veel rechtsbeoefenaars achtten duidelijke strafwetgeving van groot belang voor gelijkwaardige bescherming en pleitten ervoor om de in dit verband geconstateerde tekortkomingen door middel van aanvullende procedurele maatregelen te verhelpen. Met betrekking tot dat laatste punt heeft de Commissie in haar werkprogramma een afzonderlijk initiatief opgenomen betreffende procedurele maatregelen ter bescherming van de financiële belangen van de Unie in 2013. De Vereniging van Europese belastingbetalers heeft zich krachtig uitgesproken voor het voornemen van de Commissie om de financiële belangen van de Unie beter te vrijwaren van misbruik. Ook is zij voorstander van het plan van de Commissie om daartoe een alomvattend afschrikkend strafrechtelijk kader tot stand te brengen.
+
+2.2 Effectbeoordeling
+
+De Commissie heeft de beleidsalternatieven aan een effectbeoordeling onderworpen en daarbij rekening gehouden met de resultaten van een externe studie uit februari 2012. Een vergelijking van de diverse opties wijst volgens deze studie uit dat de voorkeur uitgaat naar een oplossing waarbij een aantal strafbare feiten ruimer wordt gedefinieerd, minimumsancties worden ingevoerd en verjaringstermijnen worden geharmoniseerd.
+
+3. JURIDISCHE ELEMENTEN VAN HET VOORSTEL
+
+3.1 Rechtsgrondslag
+
+Het voorstel is gebaseerd op artikel 325, lid 4, van het Verdrag betreffende de werking van de Europese Unie.
+
+Artikel 325 betreft de bevoegdheid van de EU om op het gebied van de preventie en bestrijding van fraude waardoor de financiële belangen van de Unie worden geschaad, de nodige maatregelen aan te nemen die "afschrikkend moeten werken". In artikel 325, lid 4, is vastgesteld welke wetgevingsprocedure geldt voor het aannemen van maatregelen die nodig zijn om een doeltreffende en gelijkwaardige bescherming te bieden. Hetzelfde lid voorziet in een rechtsgrondslag voor wetgeving tot preventie en bestrijding van fraude en andere onwettige activiteiten waardoor de financiële belangen van de Unie worden geschaad. De term fraude moet in dit verband breed worden opgevat, zodat hij ook betrekking heeft op bepaalde fraudegerelateerde strafbare feiten.
+
+De bestrijding van onwettige activiteiten waardoor de financiële belangen van de Unie worden geschaad, is een bijzonder specifiek beleidsterrein, zoals wel blijkt uit het feit dat dit artikel in het Verdrag is opgenomen in een afzonderlijk hoofdstuk "Fraudebestrijding" (onder de titel "Financiële bepalingen"). Ook komt de term "afschrikkend" verder niet in het Verdrag voor. De Unie heeft op dit specifieke terrein dus tal van verschillende instrumenten tot haar beschikking. Al in het eerste artikel van de titel "Financiële bepalingen" wordt benadrukt dat fraude en alle andere onwettige activiteiten waardoor de financiële belangen van de Unie worden geschaad moeten worden bestreden (artikel 310, lid 6, VWEU).
+
+Artikel 325 strekt uitgerekend tot bescherming van het belang waarop dit prioritaire beleid betrekking heeft, namelijk de begrotingsmiddelen van de Unie, zowel aan de ontvangsten- als de uitgavenzijde.
+
+De bescherming van de financiële belangen van de Unie is een kwestie van solidariteit op EU-niveau; deze belangen zijn groter dan de som van de financiële belangen van de afzonderlijke lidstaten. Derhalve zijn de Unie bij het Verdrag verstrekkende bevoegdheden verleend, bv. om "maatregelen" te nemen "die afschrikwekkend moeten werken" en "een doeltreffende bescherming" (artikel 325, lid 1) en "gelijkwaardige bescherming" (artikel 325, lid 4) moeten bieden. Afschrikkende, doeltreffende en gelijkwaardige bescherming omvat per definitie en van oudsher (zie de PIF-Overeenkomst uit 1995) een strafrechtelijke dimensie. Op dit punt is de preventieve werking van het strafrecht nodig. Menige potentiële dader kan er door het risico van strafrechtelijke sancties en de gevolgen daarvan voor zijn reputatie van worden weerhouden strafbare feiten te plegen. Anders dan het overeenkomstige artikel 280, lid 4, EG-Verdrag, voorziet artikel 325 VWEU dan ook in de bevoegdheid strafrechtelijke bepalingen vast te stellen om de financiële belangen van de Unie over de hele linie te beschermen tegen onwettige activiteiten.
+
+Hoewel de "financiële belangen" van de Unie niet in het Verdrag zelf worden gedefinieerd, is het duidelijk dat deze uitdrukking breder is dan het elders in het Verdrag gebruikte "begroting" (bv. artikel 310, lid 1, tweede alinea) en dat het gaat om alle middelen die door of namens de Unie worden beheerd.
+
+Dit voorstel vervangt het voorstel voor een richtlijn van het Europees Parlement en de Raad betreffende de strafrechtelijke bescherming van de financiële belangen van de Gemeenschap.
+
+3.2 Subsidiariteit, evenredigheid en eerbiediging van de grondrechten
+
+Verschillende overwegingen nopen de Unie tot optreden.
+
+De financiële belangen van de Unie betreffen de activa en passiva die door of namens de Unie worden beheerd. Het gaat dus om financiële belangen die per definitie op het niveau van de Unie spelen en in die zin sterker in het teken van de Unie staan dan een sector waarvoor de regelgeving in de lidstaten wordt geharmoniseerd. Naar vorm en inhoud vertonen maatregelen op dit gebied meer gelijkenis met de regels inzake de zelfbescherming van de instellingen, de organen en de instanties van de Unie, bijvoorbeeld op het gebied hun fysieke of IT-veiligheid. De belangen van de Unie kunnen redelijkerwijs dan ook niet worden beschermd door de lidstaten alleen. Artikel 310, lid 6, en artikel 325, leden 1 en 4, VWEU bieden de Unie derhalve de mogelijkheid gelijkwaardige en afschrikkende wetgevende maatregelen te nemen om de financiële belangen van de Unie tegen onwettige activiteiten te beschermen. Bovendien berust volgens artikel 48 van Verordening (EG, Euratom) nr. 1605/2002 van de Raad de verantwoordelijkheid voor de uitvoering van de begroting aan de ontvangsten- en uitgavenzijde geheel bij Europese Commissie.
+
+De Unie is zelf het best in staat haar financiële belangen te beschermen, gelet op de specifieke EU-regels ter zake. Die omvatten onder meer de begrotingsvoorschriften van het Financieel Reglement, de algemene regels inzake de administratieve bescherming van de financiële belangen en sectorale regels voor de bescherming van de financiële belangen op de diverse beleidsterreinen die in het geding kunnen komen. Dit houdt ook in dat strafrechtelijke bepalingen ter bescherming van de financiële belangen van de Unie onderling eenvormiger kunnen worden gemaakt. Het algemene subsidiariteitsbeginsel dat voor EU-wetgeving geldt, moet in het kader van strafrecht bijzondere aandacht krijgen. Dit beginsel houdt in dat de EU alleen maar wetgevend kan optreden wanneer het doel vanwege de omvang of de gevolgen van de voorgestelde maatregel efficiënter op het niveau van de Unie kan worden bereikt dan door maatregelen op nationaal of regionaal en lokaal niveau. Alleen de Unie kan bindende wetgeving inzake harmonisering opstellen die voor alle lidstaten geldt en zo een rechtskader tot stand brengen dat ertoe bijdraagt de tekortkomingen van de huidige situatie te verhelpen. Daarbij gaat het met name om het gebrek aan gelijkwaardigheid, dat niet strookt met de doelstellingen die zijn vervat in artikel 325, lid 4, VWEU.
+
+Het voorstel raakt aan de volgende rechten en beginselen van het Handvest van de grondrechten van de Europese Unie: het recht op vrijheid en eerbiediging van zijn familie- en gezinsleven (door eventuele gevangenisstraf van veroordeelde daders), de vrijheid van beroep en ondernemerschap (door eventuele uitsluiting van veroordeelde daders), het recht op eigendom (door de eventuele sluiting van ondernemingen die strafbare feiten hebben gepleegd, boetes en confiscatie na een strafrechtelijke veroordeling), het legaliteitsbeginsel en evenredigheidsbeginsel inzake delicten en straffen (omdat strafbare feiten opnieuw worden gedefinieerd) en het recht om niet tweemaal voor hetzelfde delict te worden berecht of gestraft (door cumulatie met administratieve sanctieregelingen). Deze rechten mogen worden beperkt als zulks beantwoordt aan door de Unie erkende doelstellingen van algemeen belang (zie artikel 52, lid 1, van het Handvest) en met name om te voorzien in doeltreffende en afschrikkende maatregelen voor de bescherming van de financiële belangen van de Unie. Aangezien onregelmatigheden en fraude onvoldoende zijn teruggedrongen en de huidige maatregelen in het kader van de PIF-Overeenkomst ondoeltreffend zijn gebleken, moeten er strafrechtelijke maatregelen worden getroffen om fraude en daarmee samenhangende onwettige activiteiten te bestrijden en te voorkomen. Er is zorgvuldig op toegezien dat deze maatregelen evenredig zijn en niet verder gaan dan hetgeen nodig is om deze doelstelling te verwezenlijken.
+
+3.3. Keuze van instrumenten
+
+Een richtlijn is het aangewezen instrument om strafrechtelijke bepalingen inzake de bescherming van de financiële belangen van de Unie te harmoniseren en de lidstaten daarbij een zekere ruimte te bieden om strengere bepalingen vast te stellen.
+
+3.4 Specifieke bepalingen
+
+Artikel 1: Onderwerp – in dit artikel worden het doel en het toepassingsgebied van het voorstel vastgesteld en wordt met name bepaald dat het alleen betrekking heeft op de bescherming van de financiële belangen van de Unie.
+
+Artikel 2: Definitie van de financiële belangen van de Unie – dit artikel bepaalt wat er in de richtlijn wordt verstaan onder de financiële belangen van de Unie. Het Europees Hof van Justitie heeft bevestigd dat er een rechtstreeks verband bestaat tussen de inning van de btw-ontvangsten met eerbiediging van het toepasselijke EU-recht en de terbeschikkingstelling van de overeenkomstige btw-middelen aan de begroting van de Unie, aangezien elk mankement in de inning van de btw-ontvangsten oorzaak kan zijn van een vermindering van de btw-middelen van de Unie. Btw-fraude moet daarom worden aangemerkt als schadelijk voor de financiële belangen van de EU en valt als zodanig onder dit voorstel voor een richtlijn.
+
+Artikel 3: Fraude waardoor de financiële belangen van de Unie worden geschaad – dit artikel bepaalt wat er wordt verstaan onder in de lidstaten strafbaar te stellen frauduleuze gedragingen.
+
+Artikel 4: Fraudegerelateerde strafbare feiten waardoor de financiële belangen van de Unie worden geschaad – dit artikel heeft betrekking op onwettige activiteiten die samenhangen met fraude en eveneens moeten worden voorkomen en bestreden.
+
+Bepaald wordt dat oneerlijk gedrag van inschrijvers bij een aanbesteding in de lidstaten strafbaar moet worden gesteld. Daarbij gaat het om gedrag dat gelijkstaat aan fraude en waarbij in het kader van een subsidieprocedure correcte, maar op onrechtmatige wijze van de overheidsinstanties verkregen informatie wordt doorgegeven aan de betrokken instantie. Een dergelijke bepaling bestaat al in een aantal lidstaten, maar het niveau van de sancties verschilt sterk (van één dag gevangenisstraf in een lidstaat, tot minimaal drie jaar in een andere). Naar schatting gaat door het ontbreken van doeltreffende wetgeving ter zake jaarlijks tot 40 miljoen euro verloren voor de begroting van de Unie. Tegen manipulatie van aanbestedingsprocedures door inschrijvers zijn op het niveau van de Unie en de lidstaten al maatregelen en sancties genomen. Dit gedrag blijft dan ook buiten het toepassingsgebied van deze richtlijn.
+
+Artikel 4 biedt ook een definitie van door de lidstaten strafbaar te stellen "corruptie"; deze definitie is grotendeels gebaseerd op de PIF-Overeenkomst en de bijbehorende protocollen. Uit de nationale wetgeving tot omzetting van de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen uit 1995 en de bijbehorende protocollen en de relevante jurisprudentie blijkt dat de in de Overeenkomst opgenomen definities van passieve en actieve corruptie nader moeten worden uitgewerkt. Anders dan de PIF-Overeenkomst is dit artikel ook van toepassing wanneer gedrag niet "in strijd met de ambtsplicht" is. Dit punt vraagt om een specifieke bepaling, aangezien corruptie uit het oogpunt van de financiële belangen van de Unie een bijzonder ernstig probleem is. Artikel 4 voorziet ook in een definitie van "misbruik". Het gaat om gedrag van overheidsfunctionarissen dat geen fraude in strikte zin vormt en dat erin bestaat middelen of activa oneigenlijk te gebruiken teneinde de financiële belangen van de Unie te schaden. Ook wordt er verwezen naar wetgeving tegen het witwassen van geld, zodat het witwassen van de opbrengsten van de op grond van deze richtlijn strafbaar te stellen feiten eveneens strafbaar wordt gesteld in de lidstaten. Zo wordt gewaarborgd dat voor alle delicten die de financiële belangen van de Unie schaden, hetzelfde sanctiestelsel geldt.
+
+Het artikel bepaalt ook wat er wordt verstaan onder "overheidsfunctionaris". Het gaat niet alleen om personen die een wetgevende, uitvoerende, administratieve of rechterlijke taak uitoefenen of anderszins een overheidsfunctie bekleden voor de Unie of in de lidstaten, maar ook om personen die een dergelijke functie bekleden in derde landen. De financiële belangen van de Unie moeten ook worden beschermd tegen actieve en passieve corruptie en misbruik van middelen door personen die middelen van de Unie beheren in derde landen.
+
+Artikel 5: Uitlokking, medeplichtigheid en poging – dit artikel is van toepassing op de hierboven genoemde strafbare feiten en houdt in dat de lidstaten ook vormen van voorbereiding van en betrokkenheid bij dergelijke feiten strafbaar moeten stellen. Voor de meeste feiten is geen strafrechtelijke aansprakelijkheid vastgesteld voor poging, aangezien de betrokken strafrechtelijke basisdefinities dit aspect al bestrijken.
+
+Artikel 6: Aansprakelijkheid van rechtspersonen – dit artikel geldt voor alle bovengenoemde feiten en houdt in dat de lidstaten ook de aansprakelijkheid van rechtspersonen moeten regelen. Deze aansprakelijkheid mag niet in de plaats komen van die van natuurlijke personen.
+
+Artikel 7: Straffen voor natuurlijke personen – dit artikel geldt voor alle bovengenoemde strafbare feiten en houdt in dat de lidstaten doeltreffende, evenredige en afschrikkende sancties moeten toepassen, overeenkomstig de rechtspraak van het Hof van Justitie, en een minimaal pakket strafrechtelijke sancties moeten vaststellen voor natuurlijke personen. Deze straffen zijn evenredig met de aanzienlijke ernst van de feiten en komen overeen met de sancties die momenteel in de meeste lidstaten gelden. Verder verduidelijkt artikel 7 bepaalde aspecten van de verhouding tussen de richtlijn en disciplinaire straffen die op andere gronden worden vastgesteld.
+
+Artikel 8: Minimumgevangenisstraffen – dit artikel is van toepassing op alle hierboven genoemde strafbare feiten en voorziet op basis van drempelbedragen voor afzonderlijke strafbare feiten in minimumgevangenisstraffen voor bijzonder ernstige delicten. De uitvoering van minimumsancties waarborgt consistentie in de Unie: wanneer op een bepaalde gedraging in alle lidstaten dezelfde sanctie staat, worden de financiële belangen van de EU in de hele Unie op doeltreffende en gelijkwaardige wijze beschermd. Economische criminaliteit zoals fraude is bij uitstek een terrein waarop strafrechtelijke sancties een bijzonder afschrikkende werking kunnen hebben, omdat het voor de hand ligt dat potentiële daders de risico's afwegen voordat zij tot dit soort criminele activiteiten overgaan. Er zijn dan ook minimumsancties nodig om ervoor te zorgen dat in heel Europa doeltreffende afschrikking tot stand kan worden gebracht. De minimumsanctie van zes maanden is evenredig met de ernst van de strafbare feiten en waarborgt dat voor de in artikel 2 van het kaderbesluit betreffende het Europees aanhoudingsbevel genoemde strafbare feiten een Europees aanhoudingsbevel kan worden uitgevaardigd met het oog op een zo doeltreffend mogelijk verloop van de justitiële en politiële samenwerking.
+
+Artikel 9: Soorten minimumsancties voor rechtspersonen – dit artikel lijkt op artikel 7 en betreft sancties voor rechtspersonen.
+
+Artikel 10: Bevriezing en confiscatie – dit artikel is van toepassing op alle hierboven genoemde strafbare feiten en houdt in dat de opbrengsten van deze feiten alsook de daartoe gebruikte hulpmiddelen moeten kunnen worden bevroren en geconfisqueerd.
+
+Artikel 11: Rechtsmacht – dit artikel is gebaseerd op de beginselen van territorialiteit en personaliteit en is van toepassing op alle hierboven genoemde strafbare feiten. De gerechtelijke autoriteiten hebben dan ook grondslagen nodig op basis waarvan zij bevoegd zijn tot onderzoek, vervolging en veroordeling in zaken die raken aan de financiële belangen van de Unie. Aangezien deze richtlijn niet voorziet in de vervolging van fraudegevallen die niet onder de rechtsmacht van de lidstaten vallen, zullen de lidstaten en de Commissie bewijs betreffende frauduleuze handelingen die buiten het grondgebied door niet-EU-burgers zijn gepleegd, met het betrokken derde land delen en samenwerken om ervoor te zorgen dat dergelijk gedrag in die landen door de bevoegde instanties wordt vervolgd.
+
+Artikel 12: Verjaring van strafbare feiten waardoor de financiële belangen van de Unie worden geschaad – dit artikel is van toepassing op alle hierboven genoemde feiten en houdt in dat er een minimumverjaringstermijn moet worden vastgesteld en dat de verjaringstermijn moet worden geregeld voor de tenuitvoerlegging van een na een definitief vonnis opgelegde straf.
+
+Artikel 13: Terugvordering – dit artikel verduidelijkt dat deze richtlijn en de in artikel 12 vastgestelde strafrechtelijke verjaringstermijn geen afbreuk doen aan de plicht van de lidstaten om de terugvordering te waarborgen van de bedragen die ten onrechte zijn betaald als gevolg van de in deze richtlijn bedoelde strafbare feiten.
+
+Artikel 14: Verhouding tot andere toepasselijke rechtshandelingen van de Unie – dit artikel verduidelijkt de verhouding tussen administratieve en strafrechtelijke sanctiestelsels.
+
+Artikel 15: Samenwerking tussen de lidstaten en de Europese Commissie (Europees Bureau voor fraudebestrijding) – de strekking van dit artikel komt nauw overeen met die van de bepaling inzake samenwerking in het tweede protocol bij de PIF-Overeenkomst. Dit artikel is nodig omdat de PIF-Overeenkomst en de bijbehorende protocollen bij artikel 16 worden ingetrokken.
+
+Artikel 16: Intrekking van strafrechtelijke verdragen voor de bescherming van de financiële belangen van de Europese Gemeenschappen – dit artikel strekt tot intrekking van de PIF-Overeenkomst van 1995 en de bijbehorende protocollen.
+
+4. GEVOLGEN VOOR DE BEGROTING
+
+Het voorstel heeft geen onmiddellijke gevolgen voor de begroting van de Unie. Het heeft echter ten doel verliezen als gevolg van onwettige activiteiten die de financiële belangen van de Unie schaden, te voorkomen door te zorgen voor afschrikkender sancties en doeltreffender handhaving door de strafrechtelijke autoriteiten van de lidstaten. Ook moet het eenvoudiger worden om bedragen terug te vorderen die verloren zijn gegaan als gevolg van onwettige activiteiten die de financiële belangen van de Unie schaden.
+
+2012/0193 (COD) Voorstel voor een RICHTLIJN VAN HET EUROPEES PARLEMENT EN DE RAAD betreffende de strafrechtelijke bestrijding van fraude die de financiële belangen van de Unie schaadt HET EUROPEES PARLEMENT EN DE RAAD VAN DE EUROPESE UNIE, Gezien het Verdrag betreffende de werking van de Europese Unie, met name artikel 325, lid 4, Gezien het voorstel van de Europese Commissie, Na toezending van het ontwerp van wetgevingshandeling aan de nationale parlementen, Gezien het advies van de Europese Rekenkamer, Handelend volgens de gewone wetgevingsprocedure, Overwegende hetgeen volgt:
+
+(1) De bescherming van de financiële belangen van de Unie betreft niet alleen het begrotingsbeheer, maar ook alle maatregelen die ten koste gaan of dreigen te gaan van het vermogen van de Unie, of van de kredieten die de lidstaten hebben uitgetrokken om hun economie of overheidsfinanciën te ondersteunen of stabiliseren in een kader dat van belang is voor het beleid van de Unie.
+
+(2) Om ervoor te zorgen dat de financiële belangen van de Unie op doeltreffende, evenredige en afschrikkende wijze worden beschermd, dient het strafrecht in de lidstaten de civiel- en bestuursrechtelijke bescherming tegen de ernstigste fraudegerelateerde gedragingen te blijven aanvullen, waarbij inconsistenties binnen en tussen deze rechtsgebieden dienen te worden vermeden.
+
+(3) De bescherming van de financiële belangen van de Unie vereist een gemeenschappelijke definitie van fraude die frauduleuze gedragingen aan de uitgaven- én ontvangstenzijde van de EU-begroting bestrijkt.
+
+(4) Btw-fraude gaat ten koste van de belastingontvangsten van de lidstaten en derhalve ook van de toepassing van een voor alle lidstaten geldend uniform percentage op de btw-grondslag. Zoals is bevestigd bij rechtspraak van het Hof van Justitie, bestaat er een rechtstreeks verband tussen de inning van de btw-ontvangsten met eerbiediging van het toepasselijke EU-recht en de terbeschikkingstelling van de overeenkomstige btw-middelen aan de begroting van de Unie, aangezien elk mankement in de inning van de btw-ontvangsten oorzaak kan zijn van een vermindering van de btw-middelen van de Unie. Daarom heeft de richtlijn ook betrekking op ontvangsten uit btw-betalingen in de lidstaten.
+
+(5) Bij de beoordeling van de aanzienlijke impact die de onrechtmatige vermindering van de eigen middelen uit de btw heeft op de financiële belangen van de EU en de toepassing van de in deze richtlijn vastgestelde drempelwaarden, dient het evenredigheidsbeginsel in acht te worden genomen, gelet op de specifieke aard van deze eigen middelen en de wijze waarop deze worden berekend, met inbegrip van de gedifferentieerde behandeling van de lidstaten.
+
+(6) De financiële belangen van de Unie kunnen worden geschaad wanneer afzonderlijke inschrijvers gegevens die zij verstrekken aan aanbestedende of subsidieverlenende autoriteiten baseren op informatie die zij op onrechtmatige wijze direct of indirect van het betrokken orgaan hebben verkregen, teneinde de aanbestedings- of subsidieregels te omzeilen of te verdraaien. Dergelijke gedragingen lijken sterk op fraude, maar hoeven niet te betekenen dat de inschrijver een fraudedelict heeft gepleegd, aangezien de inschrijving wellicht geheel voldoet aan alle vereisten. Manipulatie van aanbestedingsprocedures is in strijd met de mededingingsregels van de Unie en met nationale wetgeving van gelijke strekking. Dit gedrag wordt in de hele Unie al vervolgd en dient dan ook buiten het toepassingsgebied van deze richtlijn te blijven.
+
+(7) De EU-wetgeving inzake het witwassen van geld is onverkort van toepassing op het witwassen van de opbrengsten van de in deze richtlijn bedoelde strafbare feiten. Een verwijzing naar de betrokken wetgeving dient te waarborgen dat de sanctieregeling van de onderhavige richtlijn van toepassing is op alle strafbare feiten die de financiële belangen van de Unie schaden.
+
+(8) Corruptie vormt een bijzonder ernstige bedreiging van de financiële belangen van de Unie, die in veel gevallen gepaard gaat met frauduleus gedrag. Op dit punt is dan ook specifieke strafbaarstelling nodig. Er dient te worden gewaarborgd dat de betrokken feiten, of deze nu in strijd zijn met de ambtsplicht of niet, onder de definitie vallen. Wat passieve corruptie en misbruik betreft, dient het begrip overheidsfunctionaris zodanig te worden gedefinieerd dat hieronder iedere functionaris valt die op grond van een benoeming, verkiezing of contract een ambt bekleedt, alsook personen die tot taak hebben om namens de overheid of andere openbare instanties diensten te verlenen aan de burger of in het algemeen belang, maar geen ambt bekleden, zoals aannemers die betrokken zijn bij het beheer van EU-middelen.
+
+(9) Een overheidsfunctionaris kan de financiële belangen van de Unie aantasten door bepaalde gedragingen die erop zijn gericht middelen of activa te misbruiken teneinde de financiële belangen van de Unie te schaden. Dergelijke gedragingen dienen dan ook uitdrukkelijk strafbaar te worden gesteld.
+
+(10) Bepaalde strafbare feiten die de financiële belangen van de Unie schaden, houden in de praktijk dikwijls nauw verband met de strafbare feiten van artikel 83, lid 1, van het Verdrag en de daarop gebaseerde EU-wetgeving. De formulering van de bepalingen dient de samenhang met dergelijke wetgeving dan ook te waarborgen.
+
+(11) Voor zover de financiële belangen van de Unie ook kunnen worden geschaad of bedreigd door gedragingen die zijn toe te schrijven aan rechtspersonen, dienen deze aansprakelijk te kunnen worden gesteld voor de in deze richtlijn omschreven strafbare feiten die namens hen worden gepleegd.
+
+(12) Teneinde de financiële belangen van de Unie in de gehele Unie op gelijkwaardige wijze te beschermen door middel van afschrikkende maatregelen, dienen de lidstaten bovendien te voorzien in bepaalde minimumsancties, qua soort en strafmaat, voor de in deze richtlijn vastgestelde strafbare feiten. De strafmaat dient niet verder te gaan dan wat evenredig is met de strafbare feiten en er dient dan ook een bedrag te worden vastgesteld waaronder strafbaarstelling niet nodig is.
+
+(13) Deze richtlijn doet geen afbreuk aan de passende en doeltreffende toepassing van disciplinaire maatregelen. Bij de veroordeling van een persoon wegens een van de in deze richtlijn omschreven strafbare feiten mag overeenkomstig het nationaal recht, in afzonderlijke gevallen, rekening worden gehouden met sancties die niet gelijk kunnen worden gesteld met strafrechtelijke sancties; voor andere sancties dient het ne bis in idem-beginsel volledig in acht te worden genomen. Deze richtlijn strekt niet tot strafbaarstelling van gedrag waarvoor niet tevens disciplinaire sancties of andere maatregelen in verband met niet-naleving van plichten zijn vastgesteld, voor zover dergelijke disciplinaire sancties of andere maatregelen kunnen worden getroffen ten aanzien van de betrokken personen.
+
+(14) Aan natuurlijke personen dient in ernstiger gevallen gevangenisstraf te kunnen worden opgelegd. Als ernstig dienen te worden aangemerkt gevallen waarin als gevolg van het criminele gedrag een bepaalde minimale totale schade, uitgedrukt in een geldbedrag, is toegebracht aan de begroting van de Unie alsook aan eventuele andere begrotingen. Er dienen minimale maximumgevangenisstraffen te worden vastgesteld om te waarborgen dat de financiële belangen van de Unie in heel Europa op gelijkwaardige wijze worden beschermd. De minimumsanctie van zes maanden waarborgt dat voor de strafbare feiten die zijn vastgelegd in artikel 2 van het kaderbesluit betreffende het Europees aanhoudingsbevel een Europees aanhoudingsbevel kan worden uitgevaardigd en uitgevoerd, teneinde de justitiële en politiële samenwerking zo doeltreffend mogelijk te laten verlopen. De sancties dienen ook om in heel Europa potentiële criminelen af te schrikken. De nationale rechter dient niettemin in afzonderlijke gevallen een lichtere sanctie te kunnen opleggen dan de minimumsanctie, voor zover dit op grond van de algemene beginselen van het Europees of nationaal recht gerechtvaardigd is. Er dient te worden voorzien in strengere sancties voor gevallen waarin het strafbare feit wordt gepleegd binnen een criminele organisatie in de zin van Kaderbesluit 2008/841/JBZ van de Raad.
+
+(15) Gelet op met name de mobiliteit van de daders en opbrengsten van onwettige activiteiten die de financiële belangen van de Unie schaden, alsook op de complexe grensoverschrijdende onderzoeken die dit meebrengt, dienen alle lidstaten te voorzien in hun rechtsmacht en regels vast te stellen inzake de verjaringstermijnen die zij nodig hebben om tegen deze activiteiten op te treden.
+
+(16) Om de samenhang van het EU-recht te verzekeren en het beginsel te waarborgen dat niemand twee keer op dezelfde grond mag worden veroordeeld, dient de verhouding te worden verduidelijkt tussen de straffen uit hoofde van deze richtlijn en andere relevante administratieve maatregelen op grond van het EU-recht. De richtlijn dient de toepassing van specifieke in het EU-recht vastgestelde administratieve maatregelen, straffen en boetes onverlet te laten.
+
+(17) Onverminderd andere verplichtingen op grond van het EU-recht, dient de samenwerking tussen de lidstaten en de Commissie, waaronder de uitwisseling van informatie tussen de lidstaten, passend te worden geregeld, opdat er doeltreffend kan worden opgetreden tegen de in deze richtlijn omschreven strafbare feiten die de financiële belangen van de Unie schaden.
+
+(18) De Overeenkomst van 26 juli 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen en de bijbehorende protocollen van 27 september 1996 en 29 november 1966 dienen te worden ingetrokken en door deze richtlijn te worden vervangen.
+
+(19) Passende tenuitvoerlegging van deze richtlijn door de lidstaten impliceert onder meer de verwerking van persoonsgegevens door de bevoegde nationale autoriteiten en de uitwisseling daarvan tussen de lidstaten enerzijds en tussen de bevoegde organen van de Unie anderzijds. De verwerking van persoonsgegevens op nationaal niveau, tussen de bevoegde nationale autoriteiten, dient te worden geregeld bij het nationaal recht, met inachtneming van het Verdrag van de Raad van Europa van 28 januari 1981 tot bescherming van personen ter zake van de geautomatiseerde verwerking van persoonsgegevens en het aanvullend protocol daarbij (ETS nr. 181). De uitwisseling van persoonsgegevens tussen lidstaten dient te voldoen aan de vereisten van Kaderbesluit 2008/977/JBZ van de Raad. Voor zover de instellingen, de organen en de instanties van de Unie persoonsgegevens verwerken, dienen zij dit te doen met inachtneming van Verordening (EG) nr. 45/2001 van het Europees Parlement en de Raad van 18 december 2000 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door de communautaire instellingen en organen en betreffende het vrije verkeer van die gegevens en van de toepasselijke regels inzake geheimhouding in het kader van gerechtelijk onderzoek.
+
+(20) Bij de toepassing van het strafrecht met het oog op afschrikking dient terdege rekening te worden gehouden met de grondrechten. Deze richtlijn voldoet aan de grondrechten en houdt rekening met de beginselen die uitdrukkelijk zijn erkend in het Handvest van de grondrechten van de Europese Unie, en met name het recht op vrijheid en veiligheid, het recht op bescherming van persoonsgegevens, de vrijheid van beroep en het recht te werken, de vrijheid van ondernemerschap, het recht op eigendom, het recht op een doeltreffende voorziening in rechte en op een onpartijdig gerecht, het vermoeden van onschuld en de rechten van verdediging, het legaliteitsbeginsel en evenredigheidsbeginsel inzake delicten en straffen, en het recht om niet tweemaal in een strafrechtelijke procedure voor hetzelfde strafbare feit te worden berecht of gestraft. Deze richtlijn beoogt de volledige eerbiediging van die rechten en beginselen te waarborgen en zij moet dienovereenkomstig worden toegepast.
+
+(21) Deze richtlijn is van toepassing onverminderd de bepalingen van het Verdrag, van het Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen, van de Statuten van het Hof van Justitie, en van de teksten ter uitvoering daarvan, of soortgelijke bepalingen in het nationaal recht, betreffende de opheffing van de immuniteiten.
+
+(22) Deze richtlijn doet geen afbreuk aan de algemene regels en beginselen van het nationale strafrecht inzake de toepassing en uitvoering van straffen op grond van de concrete omstandigheden van afzonderlijke gevallen.
+
+(23) Daar de doelstelling van deze richtlijn niet voldoende door de lidstaten alleen kan worden verwezenlijkt en derhalve wegens de omvang en de gevolgen van het optreden beter door de Unie kan worden verwezenlijkt, kan de Unie, overeenkomstig het in artikel 5 van het Verdrag betreffende de Europese Unie neergelegde subsidiariteitsbeginsel, maatregelen nemen. Krachtens het in hetzelfde artikel neergelegde evenredigheidsbeginsel gaat deze richtlijn niet verder dan wat nodig is om die doelstelling te verwezenlijken,
+
+HEBBEN DE VOLGENDE RICHTLIJN VASTGESTELD:
+
+Titel I: Onderwerp en definitie
+
+Artikel 1 Onderwerp
+
+Bij deze richtlijn worden maatregelen vastgesteld op het gebied van de preventie en bestrijding van fraude en andere onwettige activiteiten waardoor de financiële belangen van de Unie worden geschaad; hiertoe worden strafbare feiten gedefinieerd en sancties bepaald.
+
+Artikel 2 Definitie van de financiële belangen van de Unie
+
+Voor de toepassing van deze richtlijn worden onder "de financiële belangen van de Unie" alle ontvangsten en uitgaven verstaan die worden gedekt door, zijn verworven in het kader van, of zijn verschuldigd aan:
+
+a) de begroting van de Unie;
+
+b) de begrotingen van de instellingen, organen en de instanties die op grond van de Verdragen zijn opgericht, en de begrotingen die zij beheren en controleren.
+
+Titel II: Strafbare feiten op het gebied van de preventie en bestrijding van fraude waardoor de financiële belangen van de Unie worden geschaad
+
+Artikel 3 Fraude waardoor de financiële belangen van de Unie worden geschaad
+
+De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat de volgende gedragingen, indien opzettelijk begaan, strafbaar worden gesteld:
+
+a) wat de uitgaven betreft, elke handeling of elk nalaten waarbij:
+
+i) valse, onjuiste of onvolledige verklaringen of documenten worden gebruikt of overgelegd, met als gevolg dat middelen afkomstig van de begroting van de Unie of van de door of voor de Unie beheerde begrotingen, worden misbruikt of wederrechtelijk achtergehouden;
+
+ii) met hetzelfde gevolg, in strijd met een specifieke verplichting informatie wordt achtergehouden;
+
+iii) toegezegde of uitbetaalde middelen worden misbruikt door ze voor andere doelen aan te wenden dan die waarvoor zij oorspronkelijk zijn toegekend;
+
+b) wat de ontvangsten betreft, elke handeling of elk nalaten waarbij:
+
+i) valse, onjuiste of onvolledige verklaringen of documenten worden gebruikt of overgelegd, met als gevolg dat middelen van de begroting van de Unie of van de door of voor de Unie beheerde begrotingen, wederrechtelijk worden verminderd;
+
+ii) met hetzelfde gevolg, in strijd met een specifieke verplichting informatie wordt achtergehouden;
+
+iii) met hetzelfde gevolg, van een rechtmatig verkregen voordeel misbruik wordt gemaakt.
+
+Artikel 4 Fraudegerelateerde strafbare feiten waardoor de financiële belangen van de Unie worden geschaad
+
+1. De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat het verstrekken van informatie, of het niet-verstrekken daarvan, aan aanbestedende of subsidieverlenende entiteiten of autoriteiten in een aanbestedings- of subsidieprocedure die raakt aan de financiële belangen van de Unie, door gegadigden of inschrijvers, of door personen die verantwoordelijk zijn voor of betrokken zijn bij het opstellen van de inschrijvingen op aanbestedingen of van de subsidieaanvragen van die gegadigden of inschrijvers, indien dit opzettelijk gebeurt en met het oogmerk de subsidiabiliteits-, uitsluitings-, selectie- of toekenningscriteria te omzeilen of de toepassing ervan te verstoren, strafbaar wordt gesteld.
+
+2. De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat het witwassen van geld in de zin van artikel 1, lid 2, van Richtlijn 2005/60/EG van het Europees Parlement en de Raad waarbij activa betrokken zijn die afkomstig zijn uit de strafbare feiten waarop de onderhavige richtlijn betrekking heeft, strafbaar wordt gesteld.
+
+3. De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat de volgende gedragingen, indien opzettelijk begaan, strafbaar worden gesteld:
+
+a) de handeling van een overheidsfunctionaris die rechtstreeks of via een tussenpersoon voordelen, ongeacht de aard daarvan, voor zichzelf of voor een ander vraagt of aanneemt, dan wel ingaat op een desbetreffende toezegging teneinde in strijd met zijn ambtsplicht, een ambtshandeling of een handeling in de uitoefening van zijn ambt te verrichten of na te laten, waardoor de financiële belangen van de Unie worden of kunnen worden geschaad (passieve corruptie);
+
+b) de handeling van wie een overheidsfunctionaris rechtstreeks of via een tussenpersoon een voordeel, ongeacht de aard daarvan, voor hemzelf of voor een ander belooft of verstrekt, om in strijd met zijn ambtsplicht een ambtshandeling of een handeling in de uitoefening van zijn ambt te verrichten of na te laten, waardoor de financiële belangen van de Unie worden of kunnen worden geschaad (actieve corruptie).
+
+4. De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat het opzettelijk door een overheidsfunctionaris vastleggen, besteden, toeëigenen of gebruiken van middelen voor andere dan doeleinden dan die waarvoor zij bestemd waren, met het oogmerk de financiële belangen van de Unie te schaden, strafbaar wordt gesteld (misbruik).
+
+5. Voor de toepassing van dit artikel wordt onder "overheidsfunctionaris" verstaan:
+
+a) een ieder die voor de Unie of in een lidstaat of in een derde land een overheidsfunctie bekleedt en een wetgevend, uitvoerend, administratief of rechterlijk ambt uitoefent;
+
+b) ieder ander die, zonder een dergelijk ambt uit te oefenen, voor de Unie of in een lidstaat of in een derde land een overheidsfunctie bekleedt en betrokken is bij het beheer van of de besluitvorming inzake de financiële belangen van de Unie.
+
+Titel III: Algemene bepalingen inzake de strafbare feiten op het gebied van de preventie en bestrijding van fraude waardoor de financiële belangen van de Unie worden geschaad
+
+Artikel 5 Uitlokking, medeplichtigheid en poging
+
+1.De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat uitlokking van en medeplichtigheid aan de in titel II bedoelde feiten strafbaar worden gesteld.
+
+2.De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat een poging om het in artikel 3 of artikel 4, lid 4, bedoelde feit te plegen, strafbaar wordt gesteld.
+
+Artikel 6 Aansprakelijkheid van rechtspersonen
+
+1. De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat rechtspersonen aansprakelijk kunnen worden gesteld voor elk van de in titel II genoemde strafbare feiten wanneer die feiten tot hun voordeel zijn gepleegd door een persoon die hetzij individueel, hetzij als lid van een orgaan van de rechtspersoon optreedt en bij de rechtspersoon een leidende functie bekleedt op grond van:
+
+a) de bevoegdheid om de rechtspersoon te vertegenwoordigen;
+
+b) de bevoegdheid om namens de rechtspersoon beslissingen te nemen; of
+
+c) de bevoegdheid om binnen de rechtspersoon toezicht uit te oefenen.
+
+2. Tevens zorgt iedere lidstaat ervoor dat rechtspersonen aansprakelijk kunnen worden gesteld wanneer ten gevolge van gebrekkig toezicht of gebrekkige controle door een in lid 1 bedoelde persoon, strafbare feiten als bedoeld in titel II konden worden begaan ten voordele van die rechtspersoon door een onder diens gezag staande persoon.
+
+3. De aansprakelijkheid van een rechtspersoon krachtens de leden 1 en 2 sluit niet de strafrechtelijke vervolging uit van natuurlijke personen die als dader bij de in titel II bedoelde handelingen betrokken zijn of uit hoofde van artikel 5 strafrechtelijk aansprakelijk zijn.
+
+4. In deze richtlijn wordt onder "rechtspersoon" verstaan, ieder lichaam dat krachtens het toepasselijke recht rechtspersoonlijkheid bezit, met uitzondering van staten en andere overheidslichamen in de uitoefening van het openbaar gezag, en publiekrechtelijke internationale organisaties.
+
+Artikel 7 Straffen voor natuurlijke personen
+
+1. Wat natuurlijke personen betreft, zorgen de lidstaten ervoor dat de in titel II bedoelde strafbare feiten kunnen worden bestraft met doeltreffende, evenredige en afschrikkende straffen, waaronder boetes en gevangenisstraf als vastgesteld in artikel 8.
+
+2. In het geval van lichtere strafbare feiten waarbij de schade minder dan 10 000 EUR bedraagt en de voordelen minder dan 10 000 EUR, mogen de lidstaten, als er geen sprake is van bijzondere verzwarende omstandigheden, ook in andere dan strafrechtelijke sancties voorzien.
+
+3. Lid 1 geldt onverminderd de uitoefening van disciplinaire bevoegdheden tegen overheidsfunctionarissen door de bevoegde instanties.
+
+4. De lidstaten zorgen ervoor dat andersoortige sancties, die niet kunnen worden gelijkgesteld aan strafrechtelijke sancties en die dezelfde persoon al zijn opgelegd wegens de betrokken handeling, in aanmerking kunnen worden genomen bij diens veroordeling wegens een in titel II bedoeld strafbaar feit.
+
+Artikel 8 Minimumgevangenisstraffen
+
+1. De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat in de artikelen 3 en 4, leden 1 en 4, bedoelde feiten, die tot een voordeel of schade van minimaal 100 000 EUR leidden, strafbaar worden gesteld met:
+
+a) een minimumstraf van minimaal zes maanden gevangenisstraf;
+
+b) een maximumstraf van minimaal vijf jaar gevangenisstraf.
+
+De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat in de artikel 4, leden 2 en 3, bedoelde feiten, die tot een voordeel of schade van minimaal 30 000 EUR leidden, strafbaar worden gesteld met:
+
+a) een minimumstraf van minimaal zes maanden gevangenisstraf;
+
+b) een maximumstraf van minimaal vijf jaar gevangenisstraf.
+
+2.De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat de in titel II bedoelde feiten strafbaar worden gesteld met een maximale gevangenisstraf van minimaal tien jaar wanneer deze worden gepleegd in het kader van een criminele organisatie zoals gedefinieerd in Kaderbesluit 2008/841/JBZ.
+
+Artikel 9
+
+Soorten minimumsancties voor rechtspersonen
+
+De lidstaten nemen de nodige maatregelen om ervoor te zorgen dat tegen een rechtspersoon die volgens artikel 6 aansprakelijk is gesteld, doeltreffende, evenredige en afschrikkende sancties kunnen worden getroffen; deze sancties omvatten strafrechtelijke of niet-strafrechtelijke geldboetes en kunnen andere maatregelen omvatten, zoals:
+
+a) uitsluiting van door de overheid verleende voordelen of steun;
+
+b) een tijdelijk of permanent verbod op het uitoefenen van commerciële activiteiten;
+
+c) plaatsing onder toezicht van de rechter;
+
+d) gerechtelijke ontbinding;
+
+e) tijdelijke of permanente sluiting van vestigingen die zijn gebruikt voor het plegen van het strafbare feit.
+
+Artikel 10 Bevriezing en confiscatie
+
+De lidstaten zorgen ervoor dat de opbrengsten van de in titel II bedoelde strafbare feiten en de daarbij gebruikte hulpmiddelen worden bevroren en geconfisqueerd overeenkomstig Richtlijn .../.../... [van het Europees Parlement en de Raad betreffende de bevriezing en confiscatie van op.
+
+Artikel 11 Rechtsmacht
+
+1. Iedere lidstaat neemt de nodige maatregelen om te voorzien in zijn rechtsmacht ten aanzien van de in de titel II bedoelde strafbare feiten die:
+
+a) geheel of gedeeltelijk op zijn grondgebied zijn gepleegd; of
+
+b) zijn gepleegd door een eigen onderdaan.
+
+2. Voor het in lid 1, onder b), bedoelde geval neemt iedere lidstaat de nodige maatregelen om ervoor te zorgen dat zijn rechtsmacht niet afhangt van de voorwaarde dat vervolging slechts kan worden ingesteld indien het slachtoffer aangifte heeft gedaan op de plaats waar de feiten zijn gepleegd of indien de staat van de plaats waar de feiten zijn gepleegd, een aanklacht heeft geformuleerd.
+
+3. De lidstaten zorgen ervoor dat hun rechtsmacht zich uitstrekt tot situaties waarin een strafbaar feit is gepleegd door middel van informatie- en communicatietechnologie waartoe toegang werd verkregen vanaf hun grondgebied.
+
+Artikel 12 Verjaring van strafbare feiten waardoor de financiële belangen van de Unie worden geschaad
+
+1. De lidstaten voorzien in een verjaringstermijn waarin onderzoek, vervolging, proces en rechterlijke beslissing nog mogelijk zijn in verband met de in titel II en artikel 5 bedoelde strafbare feiten; deze termijn bedraagt minimaal vijf jaar vanaf het moment waarop het strafbare feit werd gepleegd.
+
+2. De lidstaten zorgen ervoor dat de verjaringstermijn wordt onderbroken en opnieuw begint bij elke handeling van een bevoegde nationale autoriteit, met name het daadwerkelijke begin van een onderzoek of vervolging, tot minimaal tien jaar na het moment waarop het strafbare feit werd gepleegd.
+
+3. De lidstaten nemen de nodige maatregelen om een straf die na een definitief vonnis wegens een in titel II en in artikel 5 bedoeld strafbaar feit is opgelegd, gedurende een passende periode, en wel tot minimaal tien jaar na het definitieve vonnis, ten uitvoer te kunnen leggen.
+
+Artikel 13 Terugvordering
+
+Deze richtlijn doet geen afbreuk aan de terugvordering van bedragen die ten onrechte zijn betaald als gevolg van de in titel II bedoelde strafbare feiten.
+
+Artikel 14 Verhouding tot andere toepasselijke rechtshandelingen van de Unie
+
+De toepassing van de administratieve maatregelen, straffen en boetes die zijn vastgesteld in de wetgeving van de Unie, met name in de zin van de artikelen 4 en 5 van Verordening nr. 2988/95 van de Raad, of in nationale wetgeving die is vastgesteld overeenkomstig een specifieke verplichting uit hoofde van de wetgeving van de Unie, doet aan deze richtlijn geen afbreuk. De lidstaten zorgen ervoor dat strafvorderingen die zijn ingesteld op grond van nationale bepalingen die strekken tot omzetting van deze richtlijn geen afbreuk doen aan de passende en doeltreffende toepassing van administratieve maatregelen, straffen en boetes die zijn vastgesteld in de EU-wetgeving of nationale uitvoeringsvoorschriften en die niet kunnen worden gelijkgesteld aan strafvorderingen.
+
+Titel IV: Slotbepalingen
+
+Artikel 15
+
+Samenwerking tussen de lidstaten en de Europese Commissie (Europees Bureau voor fraudebestrijding)
+
+1. De lidstaten en de Commissie werken samen bij de bestrijding van de in titel II bedoelde strafbare feiten. Daartoe verleent de Commissie de technische en operationele bijstand die de bevoegde nationale autoriteiten nodig kunnen hebben om coördinatie van het door hen ingestelde onderzoek te vergemakkelijken.
+
+2. Teneinde de constatering van de feiten te vergemakkelijken en te zorgen voor een daadwerkelijke bestrijding van de in titel II bedoelde strafbare feiten kunnen de bevoegde autoriteiten van de lidstaten gegevens uitwisselen met de Commissie. De Commissie en de bevoegde nationale autoriteiten houden in elk bijzonder geval rekening met de eisen inzake geheimhouding van het onderzoek en gegevensbescherming. Daartoe kan een lidstaat bij het verstrekken van informatie aan de Commissie bijzondere voorwaarden stellen aan het gebruik van die informatie door de Commissie dan wel door een andere lidstaat waaraan die informatie kan worden doorgegeven.
+
+Artikel 16 Intrekking van de strafrechtelijke verdragen voor de bescherming van de financiële belangen van de Europese Gemeenschappen
+
+De Overeenkomst van 26 juli 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, met inbegrip van de bijbehorende protocollen van 27 september 1996, 29 november 1996 en 19 juni 1997, wordt met ingang van [datum van toepassing krachtens artikel 17, lid 1, tweede alinea] ingetrokken.
+
+Artikel 17 Omzetting
+
+1. De lidstaten zorgen, uiterlijk op […], voor de vaststelling en bekendmaking van de nodige wettelijke en bestuursrechtelijke bepalingen om aan deze richtlijn te voldoen. Zij delen de Commissie die bepalingen onverwijld mede.
+
+Zij passen die bepalingen toe met ingang van [….]
+
+Wanneer de lidstaten die bepalingen vaststellen, wordt in die bepalingen zelf of bij de officiële bekendmaking daarvan naar deze richtlijn verwezen. De regels voor deze verwijzing worden vastgesteld door de lidstaten.
+
+2. De lidstaten delen de Commissie de tekst van de belangrijkste bepalingen van intern recht mede die zij op het onder deze richtlijn vallende gebied vaststellen.
+
+Artikel 18 Inwerkingtreding
+
+Deze richtlijn treedt in werking op de twintigste dag na die van de bekendmaking ervan in het Publicatieblad van de Europese Unie.
+
+Artikel 19 Adressaten
+
+Deze richtlijn is gericht tot de lidstaten.
+
+Gedaan te Brussel,
+
+Voor het Europees Parlement Voor de Raad
+
+De voorzitter

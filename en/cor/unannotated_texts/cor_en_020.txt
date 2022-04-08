@@ -1,0 +1,951 @@
+OECD Glossaries
+
+Corruption
+
+
+A GLOSSARY OF INTERNATIONAL STANDARDS IN CRIMINAL LAW ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT
+
+The OECD is a unique forum where the governments of 30 democracies work together to address the economic, social and environmental challenges of globalisation. The OECD is also at the forefront of efforts to understand and to help governments respond to new developments and concerns, such as corporate governance, the information economy and the challenges of an ageing population. The Organisation provides a setting where governments can compare policy experiences, seek answers to common problems, identify good practice and work to co-ordinate domestic and international policies.
+The OECD member countries are: Australia, Austria, Belgium, Canada, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Korea, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Portugal, the Slovak Republic, Spain, Sweden, Switzerland, Turkey, the United Kingdom and the United States. The Commission of the European Communities takes part in the work of the OECD.
+OECD Publishing disseminates widely the results of the Organisation's statistics gathering and research on economic, social and environmental issues, as well as the conventions, guidelines and standards agreed by its members.
+
+This work is published on the responsibility of the Secretary-General of the OECD. The opinions expressed and arguments employed herein do not necessarily reflect the official views of the Organisation or of the governments of its member countries.
+
+FOREWORD
+
+Foreword
+Fighting corruption is among the top priorities of the OECD. One of our approaches is to help countries shape sound legislation and ensure that this legislation is
+implemented to its full potential.
+
+The OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions is the foremost global legal instrument to fight foreign bribery. Two other important international conventions with a wider scope are the Council of Europe's Criminal Law Convention on Corruption and the United Nations Convention against Corruption. Together, these conventions can guide countries to establish a sound framework for fighting corruption.
+Certainly the OECD Convention has conducted its 36 signatory countries towards meeting their goals to stop foreign bribery. But in today's globalised world, the efforts of 36 countries are not enough to tackle a problem as widespread and complex as corruption. Lawmakers and decision makers in all countries – and especially where governments and economies are undergoing major transitions – must also be a part of global efforts to stem corruption. In order to draw up effective laws to implement international anti-corruption conventions, legislators must have a clear, common understanding of the international standards set by these conventions.
+Clearly, fighting corruption requires political will. But political determination, while crucial, is not enough. Once leaders have resolved to take on the formidable challenges of combating corruption, their governments need the tools to transform commitment into action, and action into results. We have created this glossary to provide lawmakers with just such a tool. It provides clarity on the standards set by three major international anti- corruption conventions. It gives salient examples of proven solutions and good practices as well as typical legal deficiencies and potential pitfalls.
+This tool seeks to remedy the lack of knowledge about international law and recent developments in international treaties that some national legislators may face. We think that it should be useful for legal practitioners in any country that aims to strengthen international cooperation and domestic rules to fight corruption.
+
+Angel Gurria OECD Secretary-General
+
+CORRUPTION: A GLOSSARY OF INTERNATIONAL STANDARDS IN CRIMINAL LAW 
+ACKNOWLEDGEMENTS
+
+Acknowledgements
+This Glossary was prepared with the major involvement of the following experts: Gemma Aiolfi, Bojan Dobovcek, Goran Klemencic, Valérie Lebeaux,
+Zora Ledergerber, William Loo, Manfred Moehrenschlager, Brian Pontifex, Olga Savran, Christine Uriarte, and Olga Zudova.
+The OECD/ACN Secretariat is grateful to all the national and international experts for their inputs in developing the Glossary.
+The OECD/ACN Secretariat expresses special gratitude to the Government of Canada for its financial support of the project.
+
+CORRUPTION: A GLOSSARY OF INTERNATIONAL STANDARDS IN CRIMINAL LAW – ISBN 978-92-64-02740-4 – 
+INTRODUCTION
+
+Introduction
+
+What this glossary is about
+
+The Anti-Corruption Action Plan for Armenia, Azerbaijan, Georgia, Kazakhstan, the Kyrgyz Republic, the Russian Federation, Tajikistan and Ukraine was endorsed in September 2003 in Istanbul, in the framework of the OECD Anti- Corruption Network for Eastern Europe and Central Asia (ACN). During 2004-2005, the legal and institutional frameworks to fight corruption in the Istanbul Action Plan countries were reviewed. As a result, specific recommendations were endorsed for each country, covering such issues as anti-corruption policies and institutions; criminalisation and anti-corruption legislation; and preventive measures in civil service. A monitoring programme started in 2005 to assess the progress of each country in implementing the recommendations.
+The country recommendations in the field of anti-corruption legislation require all countries to reform national legislation to meet the international standards set by the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions; the Council of Europe's Criminal Law Convention on Corruption; and the United Nation's Convention against Corruption (hereinafter referred to as the OECD, Council of Europe and UN Conventions).
+The purpose of this Glossary is to assist the Istanbul Action Plan countries to implement the country recommendations on anti-corruption legislation. The Glossary provides the context for the country recommendations by examining and elaborating the standards embodied in the above-mentioned conventions. The Glossary is also a practical tool for monitoring the implementation of the recommendations by the Istanbul Action Plan countries. The Glossary will also be useful for raising awareness of these Conventions among the experts in the region.
+Finally, the Glossary will be an important tool for legislators and policy- makers in all countries committed to ensuring that their anti-corruption legislation meets international standards. Even if a country is not a party to a particular anti-corruption convention, it might desire to comply with the standards under that convention to support the global fight against corruption, and assure foreign investors of a business environment with effective anti-corruption laws.
+
+CORRUPTION: A GLOSSARY OF INTERNATIONAL STANDARDS IN CRIMINAL LAW – ISBN 978-92-64-02740-4 – 
+INTRODUCTION
+
+What this glossary is not about
+
+The Glossary deals only with the three above-mentioned conventions, even though there are other international or regional conventions that are relevant to the issue of corruption. These include the Inter-American Convention against Corruption; the EU Convention on the Fight against Corruption Involving Officials of the European Communities or Officials of Member States of the European Union; the Council of Europe Civil Law Convention against Corruption; the African Union Convention on Preventing and Combating Corruption; and the United Nations Convention on Transnational Organized Crime. There are also a number of conventions that provide tools that could be used to fight corruption, such as the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of Proceeds of Crime; and the European Convention on Extradition. The Glossary does not cover these instruments as they are of less relevance to the region, or because they do not address the criminalisation of corruption.
+The Glossary also does not deal with measures to prevent corruption. International conventions and national anti-corruption policies recognise the need to tackle corruption through a combination of preventive and punitive measures. While preventive measures are of great importance and must play a strong role in anti-corruption efforts, this Glossary focuses only on the criminalisation of corruption.
+
+How this glossary was developed
+
+The idea to develop the Glossary was born in the course of the reviews of legal and institutional frameworks for fighting corruption in the Istanbul Action Plan countries. The OECD/ACN Secretariat began to develop the Glossary following a call from national experts. The Canadian International Development Agency (CIDA) provided funding for the project through its bilateral programme for Ukraine. Inputs were provided by experts from the Faculty of Law of Ljubljana University and the Basel Institute on Governance. In co-operation with the Ministry of Justice of Ukraine, an expert seminar for all the Istanbul Action Plan countries was organised in February 2005 in Kyiv to discuss the draft Glossary. Experts representing the OECD, the Council of Europe and the UN Conventions took part in the seminar and reviewed the draft. The draft was also presented at the 6th general meeting of the Anti- Corruption Network in Istanbul in May 2005. The OECD/ACN Secretariat finalised the Glossary, which is available in English and Russian.
+
+Chapter 1
+
+Overview of the Conventions
+
+1. OVERVIEW OF THE CONVENTIONS
+
+The Istanbul Action Plan countries are members of various international anti-corruption and related conventions. The UN Convention against
+Corruption is relevant to all Istanbul Action Plan countries and is steadily gaining influence in the region. The Council of Europe Criminal Law Convention is also important to the region. Istanbul Action Plan countries that are not members of the Council of Europe (Kazakhstan, Kyrgyz Republic and Tajikistan) could nevertheless consider joining the treaty. Finally, the OECD Convention is of primary importance for countries that actively invest abroad. It thus presents immediate interest to the Russian Federation.
+
+1. OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions
+
+The Organisation for Economic Co-operation and Development (OECD) adopted the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions in November 1997.1 The Convention entered into force in February 1999 and now has 36 Parties, which represent most of the main countries involved in trade and investment.
+
+The OECD Convention, which addresses only the bribery of foreign public officials in international business transactions, is the most specialised treaty examined in this Glossary. The Convention only covers the liability of bribers (active bribery), not foreign officials who solicit or receive a bribe (passive bribery). The Convention requires functional equivalence among its Parties. In other words, although all the Parties are expected to fully comply with the standards under the Convention, they are not expected to do so by adopting uniform measures or by changing fundamental principles in their legal systems.
+The monitoring of the implementation of the Convention is carried out within the framework of the OECD Working Group on Bribery through a peer review process. In other words, each Party's implementation of the Convention is reviewed by the other Parties to the Convention. The monitoring process consists of two parts. Phase 1 focuses on whether the Parties' national legislation complies with the requirements of the Convention, while Phase 2 examines how their legislative and institutional frameworks are applied in practi c e. Fo r each Phase, the Wo rking Group adop ts a report and recommendations for each Party. The monitoring procedure, evaluation reports and the Mid-Term Study of the Phase 2 reports3 are available on the OECD Website. The Working Group is currently discussing the need to extend the monitoring process beyond its current mandate, which is due to expire at the end of 2007.
+
+Council of Europe Criminal Law Convention on Corruption‌
+
+The Council of Europe's efforts to prevent and punish corruption derives from its mandate to facilitate transnational co-operation in criminal matters through harmonisation of economic criminal law. Those efforts resulted in the adoption of the Criminal Law Convention on Corruption. As of February 2007, the Convention has 48 signatories and has entered into force in 35 countries. The Convention covers a broad range of offences, including the active and passive bribery of domestic and foreign public officials, bribery in the private sector and trading in influence. An Explanatory Report provides additional
+commentary and interpretation to the Convention.
+
+The monitoring of the implementation of the Council of Europe Convention is carried out by the Group of States against Corruption (GRECO) through a peer review process. GRECO has completed two evaluation rounds and has launched a third. Each round focuses on several themes, including subject areas under the "Twenty Guiding Principles for Fight against Corruption". The evaluation reports are available on the Internet.
+
+There are other Council of Europe conventions that are relevant to corruption. The Civil Law Convention on Corruption requires signatories to provide civil remedies to persons who have suffered damage caused by corruption. The Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism, as well as the Convention on the Prevention of Terrorism, also contain provisions that could apply to corruption cases.
+
+UN Convention against Corruption
+
+The international community has long recognised the need for a global, legally-binding instrument dealing with corruption. That goal was realised only in 2003 when the members of the United Nations adopted the UN Convention against Corruption (UNCAC). The Convention entered into force in December 2005. As of January 2007, 81 countries have ratified or acceded to the Convention. The UN Office on Drugs and Crime (UNODC) has developed a Legislative Guide for the Implementation of the United Nations Conventions against Corruption. The UNODC, with the UN Interregional Crime and Justice Research Institute (UNICRI), is also preparing a Technical Guide to provide practical support to State Parties in implementing the main provisions under the UN Convention.
+
+
+1. OVERVIEW OF THE CONVENTIONS
+
+The UNCAC is the most comprehensive international anti-corruption convention to date as it covers the broadest range of corruption offences, including the active and passive bribery of domestic and foreign public officials, obstruction of justice, illicit enrichment, and embezzlement. In addition, the UNCAC addresses preventive measures, international co-operation, and technical assistance. One of the most important features of the Convention is its provisions on asset recovery, which is expressly recognised as "a fundamental principle of the Convention". Several provisions specify the forms of co-operation and assistance, e.g. embezzled public funds that have been confiscated must be returned to the requesting state. Note, however, that adoption of only some of the provisions of the Convention are mandatory (e.g., adoption of the offences of active and passive bribery of a national public official, and the active bribery of foreign public officials and officials of public international organisations); many are optional and only require signatories to consider their implementation.
+The UNCAC contemplates a process for the periodic review of the implementation of the Convention by States Parties. The States Parties have discussed the issue in the first Conference of States Parties in December 2006 and will take further decisions in this regard.
+
+4. Introduction of international standards into national law
+
+For the most part, the conventions examined in this Glossary are not self- executing. In other words, the conventions require states to have appropriate legislation and measures in place to implement the conventions. The conventions establish minimum standards that implementing legislation must meet.
+To implement the conventions, countries must first identify where and how their legislation falls below the standards of the conventions. For example, deficiencies may occur when the domestic law does not criminalise certain types of conduct (such as the bribery of foreign public officials). They may also arise when an element of an offence is narrower than the corresponding element in the conventions (such as when the definition of a bribe does not include non-pecuniary advantages).
+After identifying the shortcomings in their domestic laws, countries must then rectify those deficiencies. Where a country wishes to establish a completely new offence, such as the bribery of a foreign public official, the simplest approach may be to extend the existing offence(s) of bribing a domestic official to a foreign public official. The advantage to this approach is that much of the existing jurisprudence remains applicable, which gives more certainty and stability to the law. One drawback is that it may necessitate complicated cross-references, making the legislation less accessible and more difficult to interpret, particularly by companies and individuals who need to know what conduct is prohibited.
+
+Alternatively, countries might introduce a completely new offence, whether in its penal code or in other criminal legislation, or introduce a stand-alone statute for this purpose. These techniques might be simpler in the long run and might give more prominence to the new offence(s).
+Regardless of the approach taken, it is more practical for a country to rectify all of the legislative deficiencies at the same time so as to enhance consistency and efficiency. Countries may also wish to introduce legislation that meets the standards in conventions which they have not signed or ratified, in order to provide even stronger mechanisms to fight corruption.
+One concern among Istanbul Action Plan countries is that their anti- corruption legislation may not apply to criminal proceedings. Several countries have developed special anti-corruption laws that appear to meet many international standards. However, many of these laws do not create criminal offences. Others may list types of prohibited conduct and merely state that such conduct is punishable under the relevant criminal code. Since no further details are provided (e.g. the procedure for prosecutions), these provisions rarely result in criminal prosecutions.
+
+1. OVERVIEW OF THE CONVENTIONS
+5. Summary of the conventions
+Standard OECD Convention Council of Europe Convention UN Convention
+Bribery offences Active bribery of a foreign and international public official (mandatory)
+
+Active and passive bribery of national public officials (mandatory)
+Active bribery of a foreign and international public official (mandatory)
+Active and passive bribing judges and officials of international courts (mandatory)
+Passive bribery of foreign and international public officials (reservation is possible)
+Active and passive bribery in the private sector (reservation is possible for passive)
+
+Active and passive bribery of national public officials (mandatory)
+Active bribery of a foreign and international public official (mandatory)
+Passive bribery of foreign and international public officials (optional)
+Active and passive bribery in the private sector (optional)
+Other corruption-related offences
+Money laundering with bribery of a foreign public official as a predicate offence where bribery of a domestic official is a predicate offence (mandatory)
+Accounting offices for the purpose of bribing foreign public officials or of hiding such bribery (mandatory)
+Money laundering (mandatory)
+Accounting offences (reservation is possible)
+Trading in influence (reservation is possible)
+Money laundering (mandatory)
+Embezzlement, misappropriation or other diversion of property by a public official (mandatory)
+Obstruction of justice (mandatory)
+Trading in influence (optional)
+Abuse of functions (optional)
+Illicit enrichment, embezzlement of property in the private sector (optional)
+Concealment (optional)
+
+Responsibility of legal persons For active bribery of a foreign and international public official criminal, administrative or civil
+
+Criminal offences of active bribery, trading in influence and money laundering committed by legal persons
+
+Criminal, civil or administrative liability of legal persons for the offences established by the Convention
+
+Sanctions Effective, proportionate and dissuasive criminal penalties, monetary and other sanctions
+
+Effective, proportionate and dissuasive penalties, criminal or non-criminal, including monetary
+
+Sanctions should take into account the gravity of the offence 
+
+Other standards Preventive measures in public and private sectors
+
+Asset recovery
+
+International cooperation
+
+Monitoring Article 12 states that Parties shall cooperate in carrying out a programme of systematic follow-up to monitor and promote full implementation of the Convention.
+
+OECD Working Group on Bribery monitors the implementation of the Convention through Phase 1 and Phase 2 peer reviews. The Group is discussing the need to extend the monitoring process beyond its current mandate, which is due to expire at the end of 2007
+
+Council of Europe's GRECO (Group of States against Corruption) monitors the implementation of the Convention through rounds of peer reviews on selected issues
+
+Article 63(e) states that the State Parties shall agree upon activities, procedures and methods of work for reviewing periodically the implementation of the Convention by State Parties. The nature of the review mechanism to be adopted is under discussion.
+
+Many Istanbul Action Plan countries have established some of these criminal offences, such as embezzlement, private bribery and abuse of office. One exception is illicit enrichment, i.e. when there is a significant increase in the assets of a public official that he/she cannot reasonably explain in relation to his/her lawful income. Nevertheless, the reviews of these countries did not identify these offences as immediate priorities. This glossary therefore will not deal with these offences, although they could be revisited in the future.
+
+
+
+Summary of the Participation of Istanbul Action Plan Countries in Anti-corruption Conventions (as of February 2007)
+
+Istanbul Action Plan 
+
+
+Other members of the Anti-corruption Network
+
+The text of the OECD Convention is available
+Additional interpretation of the Convention and related instruments are found in the Commentaries on the Convention and the Agreed Common Elements of Criminal Legislation and Related Action (annexed to the Revised Recommendations).
+
+The Parties to the OECD Convention include the 30 members of the OECD (Australia, Austria, Belgium, Canada, the Czech Republic, Denmark, France, Finland, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Korea, Luxembourg, Mexico, New Zealand, the Netherlands, Norway, Poland, Portugal, the Slovak Republic, Spain, Sweden, Switzerland, Turkey, the United Kingdom, and the United States) and 6 non-members (Argentina, Brazil, Bulgaria, Chile, Estonia, and Slovenia). OECD (2006), Midterm Study of Phase 2 Reports is a critical analysis of the Phase 2 Reports of the 21 Parties examined by the end of 2005.
+
+
+
+Chapter 2
+
+Definition of Corruption
+
+2. DEFINITION OF CORRUPTION
+
+Definition in criminal law
+
+The OECD, the Council of Europe and the UN Conventions do not define "corruption". Instead they establish the offences for a range of corrupt behaviour. Hence, the OECD Convention establishes the offence of bribery of foreign public officials, while the Council of Europe Convention establishes offences such as trading in influence, and bribing domestic and foreign public officials. In addition to these types of conduct, the mandatory provisions of the UN Convention also include embezzlement, misappropriation or other diversion of property by a public official and obstruction of justice. The conventions therefore define international standards on the criminalisation of corruption by prescribing specific offences, rather than through a generic definition or offence of corruption.
+Some Istanbul Action Plan countries take a different approach by defining corruption as a specific crime in their anti-corruption and criminal laws. In practice, these definitions of corruption are often too general or vague from a criminal law perspective. As a result, there have been very few prosecutions or convictions for these offences.
+
+Definition for policy purposes‌
+
+On the other hand, international definitions of corruption for policy purposes are much more common. One frequently-used definition that covers a broad range of corrupt activities is the "abuse of public or private office for personal gain". This definition can be a useful reference for policy development and awareness-raising, as well as for elaborating anti-corruption strategies, action plans and corruption prevention measures.
+Apart from this general definition, there are as many different definitions of corruption as there are manifestations of the problem itself. These definitions vary according to cultural, legal or other factors. Even within these definitions, there is no consensus about what specific acts should be included or excluded.
+
+Box 2.1. Some Definitions of Corruption
+
+Transparency International: "Corruption involves behaviour on the part of officials in the public sector, whether politicians or civil servants, in which they improperly and unlawfully enrich themselves, or those close to them, by the misuse of the public power entrusted to them."
+The Korean Independent Commission against Corruption promotes the reporting of "any public official involving an abuse of position or authority of violation of the law in connection with official duties for the purpose of seeking grants for himself or a third party".
+The Asian Development Bank: "Corruption involves behaviour on the part of officials in the public and private sectors, in which they improperly and unlawfully enrich themselves and/or those close to them, or induce others to do so, by misusing the position in which they are placed."
+
+Chapter 3
+
+Elements of the Bribery Offences
+
+Offering, promising or giving a bribe to a national public official
+
+OECD Convention Council of Europe Convention UN Convention
+
+Not covered Article 2: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the promising, offering or giving by any person, directly or indirectly, of any undue advantage to any of its public officials, for himself or herself or for anyone else, for him or her to act or refrain from acting in the exercise of his or her functions.
+Article 15: Each State Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences, when committed intentionally: (a) The promise, offering or giving, to a public official, directly or indirectly, of an undue advantage, for the official himself or herself or another person or entity, in order that the official act or refrain from acting in the exercise of his or her official duties.
+
+The Council of Europe and the UN Conventions both require their signatories' to criminalise the "offering", "promising" and "giving" of a bribe. This reflects the attitude of the international community that all three types of conduct represent corrosive behaviour that should be prohibited and punished.
+There are differences between "offering", "promising" and "giving" a bribe. "Offering" occurs when a briber indicates that he/she is ready to provide a bribe. "Promising" deals with a briber who agrees with the official to provide a bribe (e.g. where the briber agrees to a solicitation from the public official). "Giving" occurs when the briber actually transfers the undue advantage.1 It is important to note that "offering" and "giving" a bribe do not require an agreement between the briber and the official. In other words, offering and giving do not require that the public official accepts the offer or gift, or even that he or she is aware of or has received the offer or gift (e.g., the offer or gift is intercepted, for instance by the law enforcement authorities, before it is delivered to the public official).
+All Istanbul Action Plan countries have criminalised the giving of a bribe, but many have not established offering and promising bribes as complete offences. Some of these countries have criminalised "preparing" or "attempting" to bribe, which may cover some, but not necessarily all, instances of offering and promising a bribe. For example, the courts of some countries may consider that an oral offer of a bribe does not constitute attempted bribery; the briber must take further steps before the offence is complete, e.g. withdrawing the bribe money from a bank.
+
+Requesting, soliciting, receiving or accepting a bribe by a national public official
+
+OECD Convention Council of Europe Convention UN Convention
+
+Not covered Article 3: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the request or receipt by any of its public officials, directly or indirectly, of any undue advantage, for himself or herself or for anyone else, or the acceptance of an offer or a promise of such an advantage, to act or refrain from acting in the exercise of his or her functions.
+Article 15: Each State Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences, when committed intentionally: (b) The solicitation or acceptance by a public official, directly or indirectly, of an undue advantage, for the official himself or herself or another person or entity, in order that the official act or refrain from acting in the exercise of his or her official duties.
+
+Bribery offences against national public officials fall into two broad categories: 1) when an official "requests" or "solicits" a bribe, and 2) when an official "receives" or "accepts" a bribe.
+Requesting or soliciting a bribe occurs when an official indicates to another person that the latter must pay a bribe in order that the official act or refrain from acting. As with "offering", "promising" and "giving", the offence is complete once the official requests or solicits the bribe; there need not be an agreement between the briber and the official. Moreover, the person solicited need not be aware of nor have received the solicitations (e.g., the solicitation is intercepted by the law enforcement authorities before it is delivered). By contrast, receiving or accepting a bribe occurs only when the official actually takes the bribe.
+
+All Istanbul Action Plan countries have criminalised receiving or accepting bribes, but many have not established requesting or soliciting a bribe as complete offences. Some countries rely on the offences of extortion and provocation to fill this gap. This may not be adequate, since requesting or soliciting a bribe does not always constitute extortion or provocation, e.g. when the request or solicitation does not involve a threat to injure.
+
+Bribery of foreign public officials
+
+The offences of offering, promising or offering a bribe to national and foreign public officials have the same essential elements. The only major differences are that 1) one obviously applies to national public officials while the other to foreign public officials, and 2) under the OECD Convention and the UN Convention, bribery of foreign public officials is an offence only when the bribe is paid in order to obtain or retain business or other undue advantage in relation to the conduct of international business. The international conventions do not define this element, but the Legislative Guide for the Implementation of the UN Convention states that international business includes the provision of international aid. The corresponding offence in the Council of Europe Convention does not include this element and is therefore broader. Countries that do not qualify their foreign bribery offences in this manner would still be in compliance with the OECD and UN Conventions since the resulting offences would be broader than as required by those conventions.
+The offences of soliciting or receiving a bribe by foreign public officials under the Council of Europe and UN Conventions are also largely similar to their counterparts for national public officials. However, the provisions under the UN Convention are 1) optional, i.e., States Parties only have to "consider adopting" such an offence, and 2) not limited to bribes paid in relation to the conduct of international business.
+
+Offer, Promise or Giving a Bribe Article 1(1): Each Party shall take such measures as may be necessary to establish that it is a criminal offence under its law for any person intentionally to offer, promise or give any undue pecuniary or other advantage, whether directly or through intermediaries, to a foreign public official, for that official or for a third party, in order that the official act or refrain from acting in relation to the performance of official duties, in order to obtain or retain business or other improper advantage in the conduct of international business.
+
+Offer, Promise or Giving a Bribe, and Soliciting or Accepting a Bribe
+Article 5: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law the conduct referred to in Articles 2 and 3, when involving a public official  of any other State.
+
+Offer, Promise or Giving a Bribe Article 16.1: Each State Party shall adopt such legislative and other measures as may be necessary to establish as a criminal offence, when committed intentionally, the promise, offering or giving to a foreign public official or an official of a public international organisation, directly or indirectly, of an undue advantage, for the official himself or herself or another person or entity, in order that the official act or refrain from acting in the exercise of his or her official duties, in order to obtain or retain business or other undue advantage in relation to the conduct of international business.
+
+Soliciting or Accepting a Bribe Article 16.2: Each State Party shall consider adopting such legislative and other measures as may be necessary to establish as a criminal offence, when committed intentionally, the solicitation or acceptance by a foreign public official or an official of a public international organisation, directly or indirectly, of an undue advantage, for the official himself or herself or another person or entity, in order that the official act or refrain from acting in the exercise of his or her official duties.
+
+
+4. Trading in influence
+
+OECD Convention Council of Europe Convention UN Convention
+
+Not covered Article 12: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the promising, giving or offering, directly or indirectly, of any undue advantage to anyone who asserts or confirms that he or she is able to exert an improper influence over the decision-making of any person referred to in Articles 2, 4 to 6 and 9 to 11 in consideration thereof, whether the undue advantage is for himself or herself or for anyone else, as well as the request, receipt or the acceptance of the offer or the promise of such an advantage, in consideration of that influence, whether or not the influence is exerted or whether or not the supposed influence leads to the intended result.
+Article 18.1: Each State Party shall consider adopting such legislative and other measures as may be necessary to establish as criminal offences, when committed intentionally:
+The promise, offering or giving to a public official or any other person, directly or indirectly, of an undue advantage in order that the public official or the person abuse his or her real or supposed influence with a view to obtaining from an administration or public authority of the State Party an undue advantage for the original instigator of the act or for any other person; The solicitation or acceptance by a public official or any other person, directly or indirectly, of an undue advantage for himself or herself or for another person in order that the public official or the person abuse his or her real or supposed influence with a view to obtaining from an administration or public authority of the State Party an undue advantage.
+
+Trading in influence occurs when a person who has real or apparent influence on the decision-making of a public official exchanges this influence for an undue advantage. As with bribery, there are supply and demand sides to the offence. A briber is guilty of the offence if he/she offers, promises or gives an undue advantage to a person in order that the recipient exerts his/her influence on the decision-making of a public official. An influence peddler is guilty if he/she requests, solicits, receives or accepts an undue advantage by a person in order that he/she exerts his/her influence on the decision-making of a public official.
+The offences of trading in influence and bribery have very similar elements, with one major exception. For trading in influence, the recipient of the advantage is not the decision-maker/official, nor is the recipient necessarily expected to act, or refrain from acting, in breach of his/her duties. The recipient may or may not be a public official. The decision-maker/official may also be unaware of the crime. The offence thus targets not the decision-maker, but "those persons who are in the neighbourhood of power and [who] try to obtain advantages from their situation" by influencing the decision-maker. The offence therefore addresses so-called "background corruption".
+
+One frequently-cited difficulty is distinguishing illegal trading in influence from acknowledged forms of lobbying that are legal. The Council of Europe Convention draws this distinction by criminalising only the trading of "improper influence", i.e., the influence peddler must have a corrupt intent.6 Similarly, the offence under the UN Convention only covers influence peddlers who "abuse" their influence.
+Most Istanbul Action Plan countries have not criminalised trading in influence. This may be due to problems in distinguishing between acceptable lobbying and illegal trading in influence, or difficulties in obtaining sufficient evidence to prove the crime. Regardless, the absence of such an offence denies Istanbul Action Plan countries a powerful tool to tackle "background corruption" and may undermine the trust of their citizens in the fairness of public administration.
+
+Intention and evidence
+
+The offences discussed above are all intentional offences. For the bribery offences, the briber must offer, promise or give the bribe with the intention that the bribed official act or refrain from acting in the exercise of his/her functions or duties, etc. For trading in influence, the briber must intend that the recipient of the bribe influence the decision-making by an official.
+
+However, this does not mean that the intended result must have in fact occurred. The bribery offences require proof that the briber intended to influence the actions of the bribed official; they do not require proof that the official did, in fact, alter his/her conduct. Similarly, the offence of trading in influence only requires proof that the briber intends the recipient of the bribe to exert his/her influence. It is immaterial whether the recipient in fact did so or whether the influence led to the intended result.
+
+Proving the requisite intention is not always an easy task since direct evidence (e.g. a confession) is often unavailable. Indeed, bribery and trading in influence offences can be difficult to detect and prove due to their covert nature, and because both parties to the transaction do not want the offence exposed. Therefore, the offender's mental state may have to be inferred from objective factual circumstances. For example, a supplier tenders a bid for a contract. Soon after, he provides an expensive trip abroad as a gift to the public official who will choose the winning bid. It may then be inferred that the supplier intended to influence the official's decision in the choice of the bid. It is vital that the rules of evidence in criminal procedural codes permit this form of proof.
+
+Other corruption offencee
+
+The Council of Europe and UN Conventions contain provisions (only some of which are mandatory) that concern additional offences: Embezzlement, misappropriation or other diversion of property by a public official (UN Convention, Article 17, mandatory).
+Abuse of functions (UN Convention, Article 19, optional).
+
+Illicit enrichment (UN Convention, Article 20, optional).
+
+Bribery in the private sector or "private-to-private bribery" (Council of Europe Convention, Articles 7 and 8, mandatory; UN Convention, Article 21, optional).
+Embezzlement of property in the private sector (UN Convention, Article 22, optional).
+Concealment of property resulting from corruption (UN Convention, Article 24, optional).
+Obstruction of justice (UN Convention, Article 25, mandatory).
+
+Many Istanbul Action Plan countries have established some of these criminal offences, such as embezzlement, private bribery and abuse of office. One exception is illicit enrichment, i.e. when there is a significant increase in the assets of a public official that he/she cannot reasonably explain in relation to his/her lawful income. Nevertheless, the reviews of these countries did not identify these offences as immediate priorities. This glossary therefore will not deal with these offences, although they could be revisited in the future.
+
+Definition of a public official
+
+National Public official
+
+OECD Convention Council of Europe Convention UN Convention
+
+Not covered Article 1: For the purposes of this Convention, Article 2: For the purposes of this "public official" shall be understood by reference to the definition of "official", "public officer", "mayor", "minister" or "judge" in the national law of the State in which the person in question performs that function and as applied in its criminal law. the term "judge" referred to in sub- paragraph a above shall include prosecutors and holders of judicial offices. Article 4: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law the conduct referred to in Articles 2 and 3 [on bribery of national public officials], when involving any person who is a member of any domestic public assembly exercising legislative or administrative powers.
+
+Convention:
+"Public official" shall mean: (i) any person holding a legislative, executive, administrative or judicial office of a State Party, whether appointed or elected, whether permanent or temporary, whether paid or unpaid, irrespective of that person's seniority; (ii) any other person who performs a public function, including for a public agency or public enterprise, or provides a public service, as defined in the domestic law of the State Party and as applied in the pertinent area of law of that State Party; (iii) any other person defined as a "public official" in the domestic law of a State Party.
+
+The definition of a national public official is very broad and should include any person who:
+Holds a legislative, executive or administrative office, including heads of state, ministers and their staff.
+
+Is a member of a domestic public assembly exercising legislative or administrative powers.
+Holds a judicial office, including a prosecutor.
+
+Performs a public function, including for a public agency. A public agency may include an entity constituted under public law to carry out specific tasks in the public interest.
+Performs a public function for a public enterprise. A public enterprise should include any enterprise in which the government holds a majority stake, as well as those over which a government may exercise a dominant influence directly or indirectly. It should also include an enterprise that performs a public function and which does not operate on a normal commercial basis in the relevant market, i.e., not on a basis which is substantially equivalent to that of a private enterprise, without preferential subsidies or other privileges. The definition should also include executives, managers and employees.
+Performs any activity in the public interest delegated by a signatory, such as the performance of a task in connection with public procurement.
+Provides a public service as defined in the signatory's domestic law and as applied in the pertinent area of law of that signatory, e.g. teachers and doctors.
+Meets the definition of a "public official" in the domestic law of the signatory, including the definitions for "official", "public officer", "mayor", "minister" or "judge". It also includes law enforcement officers and the military.
+Moreover, in determining whether a person is a national public official, it is irrelevant whether that person is: appointed or elected; permanent or temporary; or paid or unpaid, irrespective of that person's seniority.
+
+To meet these criteria, Istanbul Action Plan countries need to ensure that their anti-corruption legislation covers all persons holding a legislative, administrative or judicial office at all levels of government, whether national/central, state/provincial or local/municipal. The legislation should also include local self-governments. It would also be beneficial to cover officials of political parties and candidates for political office, as well as any person in anticipation of his or her becoming an official, even though the international conventions do not expressly deal with them.
+
+One difficulty in ensuring adequate coverage is the fragmented definition of public officials in the domestic legislation of Istanbul Action Plan countries. Instead of incorporating the definition of a public official into the bribery offence, it is necessary in these countries to refer to different definitions in various statutes, such as legislation on anti-corruption, the public service, or the public administration in different public authorities. It is clearly simpler and more transparent to have the complete definition as part of the bribery offence. In any case, regardless of how and where public officials are defined, Istanbul Action Plan countries need to ensure that their criminal corruption offences cover all persons described in the international conventions.
+
+Foreign public official
+
+OECD Convention Council of Europe Convention UN Convention
+
+Article 1(4): For the purpose of this Convention: "foreign public official" means any person holding a legislative, administrative or judicial office of a foreign country, whether appointed or elected; any person exercising a public function for a foreign country, including for a public agency or public enterprise; and any official or agent of a public international organisation. "foreign country" includes all levels and subdivisions of government, from national to local.
+
+Article 1: For the purposes of this Convention: in the case of proceedings involving a public official of another State, the prosecuting State may apply the definition of public official only insofar as that definition is compatible with its national law.
+
+Articles 5, 6, 9 and 11: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law the conduct referred to in Articles 2 and 3 [on bribery of national public officials], when involving: a public official of any other State; any person who is a member of any public assembly exercising legislative or administrative powers in any other State; any official or other contracted employee, within the meaning of the staff regulations, of any public international or supranational organisation or body of which the Party is a member, and any person, whether seconded or not, carrying out functions corresponding to those performed by such officials or agents; or any holders of judicial office or officials of any international court whose jurisdiction is accepted by the Party. Article 10: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law the conduct referred to in Article 4 [on bribery of members of domestic public assemblies] when involving any members of parliamentary assemblies of international or supranational organisations of which the Party is a member.
+
+Article 2: For the purposes of this Convention: "Foreign public official" shall mean
+any person holding a legislative, executive, administrative or judicial office of a foreign country, whether appointed or elected; and any person exercising a public function for a foreign country, including for a public agency or public enterprise; "Official of a public international organisation" shall mean an international civil servant or any person who is authorised by such an organisation to act on behalf of that organisation.
+
+Under international conventions, the scope of the definition of "foreign public official" is comparable to that for "national public officials", and hence the criteria described in the previous section also apply here. Of course, one difference is that "foreign public official" refers to officials of a foreign state. This includes any organised foreign area or entity, such as an autonomous territory or a separate customs territory.
+One issue that arises uniquely in the definition of "foreign public official" is whether a complete autonomous definition is contained in the implementing legislation. Otherwise, in determining whether a person who takes a bribe is a foreign public official, it may be necessary to refer to the definition of a public official under the law of the foreign public official's country. The consideration of foreign law may present obstacles because it is often difficult to ascertain the foreign law and because the foreign law may contain loopholes. To avoid these problems, it is preferable to adopt an autonomous definition of a foreign public official. For instance, pursuant to the OECD Convention, Parties are required to adopt an autonomous definition which complies with the definition under Article 1 of the Convention.
+Another issue in the definition of "foreign public official" is the coverage of officials, employees and representatives of international organisations. These organisations include those formed by states, governments, or other public international organisations. They also include organisations regardless of their form and scope of competence, including, for example, a regional economic integration organisation such as the European Communities. Istanbul Action Plan countries should ensure that their definitions of foreign public officials cover officials of all international organisations, including those of which they are not members.
+Finally, the definition of a foreign public official should also cover members of parliamentary assemblies of international or supranational organisations (e.g. the European Parliament) and international courts (e.g. the International Criminal Court). Again, Istanbul Action Plan countries should ensure that their definitions of foreign public officials cover officials of all such bodies, including those of which they are not members.
+
+8. Definition of a bribe
+
+The international conventions describe a bribe as an undue advantage. Thus, not all advantages are prohibited; only those that are undue. For instance, under the OECD Convention, it is not an offence if the advantage was permitted or required by the written law or regulation of the country of the foreign public official, including case law (Commentary 8). In addition, the OECD Convention confirms that an offence is committed irrespective of, among other things, the value of the advantage, its results, perception of local custom, the tolerance of such payments by local authorities, or the alleged necessity of the payment in order to obtain or retain business or other improper advantage (Commentary 7).
+
+
+Article 1.1: It is an offence to offer, promise or give "any undue pecuniary or other advantage" in order that the official act or refrain from acting in the exercise of his or her functions. 
+
+Articles 2: It is an offence to promise, offer or give "any undue advantage" to any public official for him or her to act or refrain from acting
+
+Articles 15(a): It is an offence to promise, offer or give to a public official "an undue advantage … in order that the official act or refrain from acting in relation in the performance of official duties, in order to obtain or retain business or other improper advantage in the conduct of international business. 
+Similar language is found in Article 3 (soliciting or accepting a bribe by a national public official), Article 5 (bribery of foreign public officials) and Article 12 (trading in influence). or her official duties."
+
+Similar language is found in Articles 15(b) (solicitation or acceptance of a bribe by a public official), Article 16 (bribery of foreign public officials) and Article 18 (trading in influence).
+
+
+
+Box 3.1. Gifts to public official among Istanbul Action Plan countries (at the time of the monitoring exercises in 2004-2006)
+
+The Kyrgyz Republic and Kazakhstan have some of the most stringent rules on gifts to public officials. The Kyrgyz law on civil service does not allow any gifts apart from symbolic souvenirs at official events. The Kazakh anti-corruption law also bans all gifts apart from souvenirs, though Article 311 of the Criminal Code provides for a defence for accepting gifts of up to USD 15. First offenders are subject to disciplinary measures. Subsequent offences may result in heavier penalties, including dismissal. Georgia allows gifts of approximately USD 50 if the gift is not linked to an act of an official. The law does not limit the number of allowable gifts. Azerbaijan officials who receive gifts of over approximately USD 50 that are linked to the exercise of their duties must surrender the gift or its equivalent value to the state. Article 311 of Armenia's Criminal Code permits a gift for a legal act that has been performed by an official if there was no prior agreement for the gift and the gift is less than five times the legal minimum salary. Armenia was recommended to change this provision. Each year, a Tajik official can accept a total amount of gifts of up to 50 times the legal minimum salary (approximately USD 400), which is relatively high.
+Certain sectors raise additional concerns in transition economies. Teachers and doctors in many countries are not considered civil servants and hence not subject to rules on gifts. Other countries provide some regulation, e.g. Lithuanian doctors may accept gifts from their patients that do not exceed one minimal subsistence allowance (approximately USD 50). The number of gifts is not limited.
+
+An undue advantage may be of a pecuniary or non-pecuniary nature. It may also be tangible or intangible.13 Hence, an undue advantage may be money, a loan, shares in a company, a holiday, food and drink, sex, enrolment in a school for an official's child, or a promotion, as long as it places the official in a better position than he/she was before the commission of the offence.
+
+Unfortunately, the definition of a bribe in Istanbul Action Plan countries is often narrower. Countries often define bribes as "material and other advantages" or "bribes in any form", which does not necessarily include all non-pecuniary and intangible benefits.
+Gifts to public officials can also pose difficulties with the definition of a bribe, as public officials are often presented with gifts that may be bribes. To avoid any uncertainty, many countries establish clear rules on the acceptance of gifts by officials. Some Istanbul Action Plan countries completely ban gifts. Others prescribe the maximum allowable value of a gift or the maximum total value of gifts that an official may accept per year. However, little is known about the effectiveness of such rules.
+
+Acts of public officials
+
+OECD Convention Council of Europe Convention UN Convention
+
+Article 1.1: It is an offence to offer, promise or give any undue pecuniary or other advantage to a foreign public official "in order that the official act or refrain from acting in relation to the performance of official duties, in order to obtain or retain business or other improper advantage in the conduct of international business".
+
+Article 3 (passive bribery of domestic public officials) contains similar language.
+
+Article 2: It is an offence to promise, offer or give any undue advantage to a public official "for him or her to act or refrain from acting in the exercise of his or her functions".
+
+Article 15: It is an offence to promise, offer or give an undue advantage to a public official "in order that the official act or refrain from acting in the exercise of his or her official duties".
+
+
+
+
+
+Article 1.4.c: For the purpose of this Convention "act or refrain from acting in relation to the performance of official duties" includes any use of the public official's position, whether or not within the official's authorised competence.
+
+Similar language is found in Article 15(b) (passive bribery of domestic public officials) and Article 16 (bribery of foreign public officials).
+
+The international conventions cover bribes given in order that an official act or refrain from acting in the exercise of his/her official duties or functions. In other words, both acts and omissions by an official are included.
+
+The conventions do not, however, require that the official's act or omission be illegal or in breach of duties. In other words, it may still be an offence if an official accepts a bribe to perform an act or omission that does not contravene the law per se. For example, under the OECD Convention an offence is committed whether or not the company concerned was the best qualified bidder or was otherwise a company which could properly have been awarded the business.
+
+Inclusion of legal acts is important because tolerance of this kind of corruption would undermine the integrity of and public confidence in the civil service. In particular, a bribe for the purpose of obtaining an impartial exercise of judgment or discretion by a public official must be covered, regardless of whether this is considered an illegal act or in breach of duties.
+Unfortunately, many Istanbul Action Plan countries only prohibit bribes in order that an official perform an act that is illegal or against the interest of the public service. These countries should consider removing this requirement, or make illegality of the acts of a bribed official only an aggravating factor of the offence.
+The conventions also require that the bribe be paid in order that the official acts or refrains from acting in the exercise of his/her duties. In other words, there must be a link between the bribe and the official's actions or omissions. This implies that an offer or request of a bribe must take place before the official acts or refrains from acting in the exercise of his/her duties.
+The actual acceptance or receipt of the bribe, however, could take place after.
+
+This requirement of a link could mean that bribes that are regularly given in exchange for "goodwill" are not covered by the bribery offence. In Istanbul Action Plan countries and many other parts of the world, there is a practice of regularly providing gifts of relatively low value to public officials in order to develop "goodwill" for the day when a favour is needed. In other words, the gifts are not made to induce a specific act or omission by the official, thus making it difficult to establish a link between the two. Unfortunately, most international standards and national legislation lack clear provisions to address this form of corrupt behaviour. One possible solution to the problem is to impose strict limits on the value of the individual gifts and the frequency or total value of gifts that an official may receive per year.
+
+Bribery through intermediaries
+
+All of the international conventions cover direct and indirect forms of bribery. Indirect bribery occurs when a briber gives, offers or promises a bribe to an official through an intermediary. It also includes cases when an official solicits or receives a bribe through an intermediary. An intermediary can be anyone and does not have to be someone who is connected with the briber or the public official. For example, indirect bribery may occur when a briber uses an agent, a financial institution or a company to transmit an offer, promise or gift to an official on his/her behalf. The same principle applies irrespective of whether the recipient of the undue advantage is the official.
+
+Article 1.1: It is an offence to offer, promise or give any undue pecuniary or other advantage, "whether directly or through intermediaries, to a foreign public official, in order that the official act or refrain from acting in relation to the performance of official duties, in order to obtain or retain business or other improper advantage in the conduct of international business".
+
+Article 2: It is an offence to promise, offer or give "directly or indirectly", any undue advantage to a public official for him or her to act or refrain from acting in the exercise of his or her functions.
+Similar language is found in Article 3 (passive bribery of domestic public officials) and Article 12 (trading in influence).
+
+Articles 15: It is an offence to promise, offer or give to a public official, "directly or indirectly", an undue advantage, in order that the official act or refrain from acting in the exercise of his or her official duties.
+
+Similar language is found in Article 15(b) (passive bribery of domestic public officials), Article 16 (bribery of foreign public officials) and Article 18 (trading in influence).
+
+It is important to distinguish between the liability of the intermediary from that of the briber or official who uses the intermediary. For example, an intermediary may be an innocent, unwitting delivery person who transmits the offer, promise or gift to the official without knowledge of or intent to commit the offence. An intermediary could also be a culpable accomplice who consciously plays a role in the commission of the offence. From the perspective of the international conventions, this distinction is not important. The conventions require the briber and the official to be liable regardless of the culpability of the intermediary. The focus is thus on the liability of the briber and the official, not that of the intermediary.
+
+Istanbul Action Plan countries address bribery through intermediaries through different means. The bribery offences in many countries specifically cover the giving of an undue advantage "directly or indirectly", which should be sufficient. More problematic are countries which rely on provisions in their criminal codes which stipulate that accomplices to a crime are also liable, sometimes to lesser punishment. When a briber uses an intermediary to give, offer or promise a bribe, these provisions may hold an intermediary liable, but may not deal with the liability of the briber. Countries that adopt this approach should consider amending their legislation to expressly deal with bribery through intermediaries.
+
+Bribes that benefit third party‌
+
+Under all of the international conventions, bribery is committed if the undue advantage is provided to a public official or a third party beneficiary. In order to ensure that there is no loophole, the bribery offence should cover cases where an advantage is transmitted directly to a third party with the agreement or awareness of the public official. As with intermediaries, the beneficiary may be anyone irrespective of his/her association to the official. The beneficiary can thus be a family member, company, political organisation, trade union or charity.
+
+
+
+Article 1.1: It is an offence to offer, promise or give any undue pecuniary or other advantage to a foreign public official, "for that official or for a third party", in order that the official act or refrain from acting in relation to the performance of official duties, in order to obtain or retain business or other improper advantage in the conduct of international business.
+
+Article 2: It is an offence to promise, offer or give any undue advantage to any public official, "for himself or herself or for anyone else, for him or her to act or refrain from acting in the exercise of his or her functions".
+
+Similar language is found in Article 3 (passive bribery of domestic public officials)
+and Article 12 (trading in influence).
+
+Articles 15: It is an offence to promise, offer or give to a public official an undue advantage, "for the official himself or herself or another person or entity", in order that the official act or refrain from acting in the exercise of his or her official duties.
+
+Similar language is found in Article 15(b) (passive bribery of domestic public officials), Article 16 (bribery of foreign public officials) and Article 18 (trading in influence).
+
+The bribery offences in most Istanbul Action Plan countries do not expressly cover undue advantages provided to third party beneficiaries. These countries should amend their legislation to do so.
+
+
+Chapter 4
+
+Sanctions
+
+
+4. SANCTIONS
+
+Sanctions generally
+
+Article 3.1: The bribery of a foreign public official shall be punishable by effective, proportionate and dissuasive criminal penalties. The range of penalties shall be comparable to that applicable to the bribery of the Party's own public officials and shall, in the case of natural persons, include deprivation of liberty sufficient to enable effective mutual legal assistance and extradition.
+
+Article 3.4: Each Party shall consider the imposition of additional civil or administrative sanctions upon a person subject to sanctions for the bribery of a foreign public official.
+
+Article 19.1: Having regard to the serious nature of the criminal offences established in accordance with this Convention, each Party shall provide, in respect of those criminal offences established in accordance with Articles 2 to 14, effective, proportionate and dissuasive sanctions and measures, including, when committed by natural persons, penalties involving deprivation of liberty which can give rise to extradition.
+
+Article 30.1: Each party shall make the commission of an offence established in accordance with this Convention liable to sanctions that take into account the gravity of that offence.
+
+Article 30.7: Where warranted the gravity of the offence, each State Party, to the extent consistent with the fundamental principles of its legal system, shall consider establishing procedures for the disqualification, by court order or any other appropriate means, for a period of time determined by its domestic law, of persons convicted of offences established in accordance with this Convention from: (a) Holding public office; and (b) Holding office in an enterprise owned in whole or in part by the State.
+
+Article 30.8: Paragraph 1 of this article shall be without prejudice to the exercise of disciplinary powers by the competent authorities against civil servants.
+
+The international conventions require their signatories to impose effective, proportionate and dissuasive sanctions or sanctions that take into account the gravity of the offence. Sanctions must therefore be sufficiently severe to deter or dissuade the offender and others from committing the offence, but not so heavy as to be disproportionate to the gravity of the offence.
+
+Several factors may be considered in determining whether sanctions for corruption are effective, proportionate and dissuasive. One consideration is whether the available sanctions for corruption are comparable to those for other economic crimes, such as theft, breach of trust, fraud, extortion and embezzlement. Another factor is whether sanctions for bribers and corrupt officials are comparable, since the conventions make no distinction between sanctions for the two types of individuals. In Istanbul Action Plan countries, sanctions for bribers and corrupt officials can be dramatically different. Whether sanctions are effective, proportionate and dissuasive may also depend on whether they are comparable to those in other countries. In many OECD countries, the maximum penalty for foreign bribery is five years imprisonment. One may also consider whether the same sanctions apply to different modes of committing bribery (i.e., offering, promising and giving an undue advantage) since the international conventions do not distinguish between them.
+Other important factors to consider are whether the sanctions are sufficient to enable effective mutual legal assistance and extradition, as well as whether the statute of limitations (which is usually based on the level of sanctions) is long enough to ensure the effective investigation and prosecution of the offence.
+A particular concern in Istanbul Action Plan countries is the level of sanctions that are imposed in practice. The legislation of most countries in the region provide for very severe maximum penalties for corruption offences. In practice, the sentences imposed by the courts are much lower. Fines are much more common than jail sentences. Hence, to assess whether sanctions are effective in these countries, it is important to look at statistics on the actual sanctions imposed and not only the maximum penalties prescribed by statute.
+To be effective, proportionate and dissuasive, sanctions for corruption need not be limited to criminal penalties such as fines and imprisonment. Civil and administrative sanctions can also be applied. Thus, sanctions for bribers may include exclusion from entitlement to public benefits, disqualification from participation in public procurement or privatisation, or from the practice of other commercial activities. Corrupt officials could be sanctioned through disciplinary penalties, and removal or suspension from office.
+A final consideration is that sanctions for corruption must be sufficiently severe to allow for extradition and mutual legal assistance (MLA). Most countries can seek and provide extradition and MLA only for crimes that are punishable by sufficiently severe sanctions. Countries should therefore ensure that the sanctions for their corruption offences meet this threshold.
+
+Confiscation
+
+Confiscation of the bribe, and proceeds and instrumentalities of bribery
+
+All international instruments require their signatories to be able to confiscate the bribe (also known as the subject of the bribe in the region) and the proceeds of bribery. Proceeds include any economic advantage as well as any savings by means of reduced expenditure derived from such offence. They may be a physical object, such as an asset that the briber purchased as a result of a contract awarded by the bribed official. They may also be intangible, such
+as shares in a company.
+
+
+Article 3.3: Each Party shall take such measures as may be necessary to provide that the bribe and the proceeds of the bribery of a foreign public official, or property the value of which corresponds to that of such proceeds, are subject to seizure and confiscation or that monetary sanctions of comparable effect are applicable.
+
+Article 19.3: Each Party shall adopt such legislative and other measures as may be necessary to enable it to confiscate or otherwise deprive the instrumentalities and proceeds of criminal offences established in accordance with this Convention, or property the value of which corresponds to such proceeds.
+
+Article 2: For the purposes of this Convention: "Property" shall mean assets of every kind, whether corporeal or incorporeal, movable or immovable, tangible or intangible, and legal documents or instruments evidencing title to or interest in such assets; "Proceeds of crime" shall mean any property derived from or obtained, directly or indirectly, through the commission of an offence; (g) "Confiscation", which includes forfeiture where applicable, shall mean the permanent deprivation of property by order of a court or other competent authority; Article 31.1: Each State Party shall take, to the greatest extent possible within its domestic legal system, such measures as may be necessary o enable confiscation of: Proceeds of crime derived from offences established in accordance with this Convention or property the value of which corresponds to that of such proceeds; Property, equipment or other instrumentalities used in or destined for use in offences established in accordance with this Convention.
+
+Article 31.4: If such proceeds of crime have been transformed or converted, in part or in full, into other property, such property shall be liable to the measures referred to in this article instead of the proceeds. 
+
+Article 31.5: If such proceeds of crime have been intermingled with property acquired from legitimate sources, such property shall, without prejudice to any powers relating to freezing or seizure, be liable to confiscation up to the assessed value of the intermingled proceeds. Article 31.6: Income or other benefits derived from such proceeds of crime, from property into which such proceeds of crime have been transformed or converted or from property with which such proceeds of crime have been intermingled shall also be liable to the measures referred to in this article, in the same manner and to the same extent as proceeds of crime.
+
+Article 57.1: Property confiscated by a State Party pursuant to article 31 or 55 of this Convention shall be disposed of, including by return to its prior legitimate owners, pursuant to paragraph 3 of this article, by that State Party in accordance with the provisions of this Convention and its domestic law.
+
+To the extent possible under their legal systems, signatories should take m easure s to enable confi scation of property, equipment or other instrumentalities that were used or were intended to be used in the commission of an offence. This concept is very broad and may cover a wide range of property. For example, if a briber calls an official on his/her mobile phone and offers a bribe, then phone could be subject to confiscation. At the other extreme, if a briber takes his/her private jet to meet an official and delivers the bribe, then the jet might also be subject to confiscation.
+The legislation of Istanbul Action Plan countries generally falls short of the international standards. In the past, Istanbul Action Plan countries used confiscation of property as an additional sanction without linking it to the offence (such as confiscating property for the offence of murder). This was not compatible with international human rights standards. As a result, many countries have eliminated or significantly restricted their ability to confiscate property. Many countries have provisions which only allow – but does not require – the confiscation of the tools of crime. Few countries allow confiscation of illegal property. By not requiring mandatory confiscation of the proceeds and tools of corruption offences, the legislation in most Istanbul Action Plan countries do not meet international standards.
+
+Fines and confiscation of equivalent value
+
+In many cases, the bribe and the proceeds of bribery may not be available for confiscation, e.g. because they have been hidden away or spent, or are in the possession of a bona fide third party. The OECD Convention and Council of Europe Convention therefore require that parties either confiscate the bribe and the proceeds of bribery, or property of an equivalent value. The OECD Convention provides the further option of monetary sanctions of a comparable effect.
+
+Value-based confiscation is still new and not well-defined in Istanbul Action Plan countries. Some countries link confiscation to damage caused by the crime. This approach is problematic because it can be difficult to assess the amount of damage in a corruption case. The notion of damage could also imply that there is a victim, which may not be the case for a corruption offence.
+
+Confiscation of converted proceeds and benefits deriving from proceeds
+
+Criminals often do not leave the proceeds of their crimes in the original form. Instead, they may transform or convert the proceeds for their benefit (e.g. by buying a house) or to hide the origin of the proceeds (i.e., money laundering). To be effective, legislation must therefore allow for the confiscation of proceeds that have been transformed or converted, in part or in full, into other property.
+
+To fully deprive criminals of the benefits of their crime, it may also be necessary to confiscate income or other benefits derived from the proceeds of crime. For example, a briber may bribe an official in order to obtain a business permit. The direct proceeds of the crime (i.e., the permit) are of relatively low value, while the profits derived from the business operating under the permit may be much greater. The corrupt official may also invest the bribe (e.g. in the stock market) and receive a return of much greater value. Confiscation of the income or return derived from the proceeds is therefore necessary to effectively disgorge the benefits to the briber.
+
+Many Istanbul Action Plan countries do not confiscate converted proceeds or benefits derived from proceeds because they believe that it is often impossible to do so. This is sometimes true, e.g. an official may accept a cash bribe and then spend it at a restaurant (though in such a case the court should impose a fine in lieu of confiscation or confiscation of equivalent value). Confiscation may also be difficult because, for example, it may require significant accounting expertise to calculate the profit derived from a business opportunity that was obtained through bribery. At the same time, there are other cases where converted proceeds or benefits from proceeds can be readily identified and quantified, e.g. when a corrupt official uses a bribe to buy a car. The impossibility or difficulty of confiscating in some cases should not prevent confiscation in other cases where there are no such obstacles.
+
+Confiscation from third persons
+
+The object of confiscation may often be in the possession of a third person rather than the briber or a corrupt official. For example, an official may have transferred the proceeds of bribery to a relative, or the bribe may have been paid directly from the briber to a third party beneficiary. To deal with these situations, legislation must allow for confiscation of property from third parties, including legal persons.
+Legislation must also distinguish between third parties who have acted in good faith and those who have not. The third party in possession of the asset may have been complicit in the crime or is aware that the asset is the proceeds of crime. Legislation should allow for confiscation of the property from such third parties. On the other hand, a third party may have no connection with the offender and acted in good faith, e.g. when a briber sells an asset that he/she had obtained from a corrupt transaction, and the purchaser has no knowledge of the crime. Confiscation of the property against such a third party would not be justified. Instead, alternative sanctions (such as confiscation of equivalent
+value or a fine) should be imposed against the briber.
+
+
+Confiscation from third persons is possible in some Istanbul Action Plan countries, but there has not been sufficient practice to assess the legislation's effectiveness.
+
+The requirement of a conviction and civil forfeiture
+
+A common impediment to confiscation is the requirement of a conviction for the offence that gave rise to the proceeds. In some countries, confiscation is possible only when the perpetrator of the crime giving rise to the proceeds is convicted. Confiscation therefore is not possible if the perpetrator has died or fled. These countries should consider removing the requirement of a conviction.
+
+In addition to confiscation of proceeds of bribery in criminal proceedings, the international conventions also contemplate that signatories may seek confiscation through civil proceedings. Confiscation in civil proceedings is often more expedient because it usually requires a lower standard of proof and the conviction of the perpetrator is not necessary. Civil forfeiture is increasingly common in developed countries, but it is has yet to gain popularity among Istanbul Action Plan countries.
+
+Disposal of confiscated assets
+
+The disposal of a confiscated asset is of practical importance. Disposal should be transparent and well-regulated. For example, in the United States, confiscated assets cannot be used to pay officials' salaries, but they can be liquidated to raise funds for witness protection programmes or drug prevention. The national legislation of most Istanbul Action Plan countries stipulates that confiscated assets become the property of the state and can be used to remedy damage caused by the crime. However, there are usually no clear or well- developed provisions for the valuation and disposal of confiscated property. Transparent and effective management of assets is also lacking.
+
+
+
+
+Chapter 5
+
+Defences and Immunity
+
+
+49
+DEFENCES AND IMMUNITY
+
+Defences
+
+OECD Convention Council of Europe Convention UN Convention
+
+Commentaries 8 and 9 on the Convention recognise certain defences.
+No specific provisions. Article 30(9): Nothing contained in this Convention shall affect the principle that the description of the offences established in accordance with this Convention and of the applicable legal defences or other legal principles controlling the lawfulness of conduct is reserved to the domestic law of a State Party and that such offences shall be prosecuted and punished in accordance with that law.
+
+The treatment of defences varies considerably among the international conventions. The UN Convention gives its States Parties a great deal of flexibility. It allows a State Party to define the defences that are applicable to the offences established under the Convention. On the other hand, the OECD Convention only permits two defences to the offence of bribing a foreign public official, which are defined in the Commentaries. One, which has already been discussed, applies where the advantage was permitted or required by the written law or regulation of the foreign public official's country, including case law (Commentary 8). The other applies to "small facilitation payments" (i.e., "small payments… to obtain or retain business or other improper advantage… which in some countries are made to induce public officials to perform their functions, such as issuing licenses or permits…"). The Council of Europe Convention is silent on this topic.
+The defence of effective regret is of particular relevance to Istanbul Action Plan countries. The defence applies to a person (usually a briber) who confesses to committing a corruption crime to the authorities very shortly after the offence. This early confession exculpates the person entirely. The purpose of the defence is ostensibly to encourage the reporting of corruption crimes. Because corruption is very difficult to detect, the defence encourages bribers to reveal the crime that they have committed. The briber is allowed to escape punishment as a price for uncovering a corrupt official, who is then prosecuted. Some jurisdictions, however, believe that this is too high a price. The defence can also be abused by an individual who makes false accusations in hopes that the subsequent investigation would tarnish an official's reputation. Hence, some countries only accept effective regret as a mitigating factor for sentencing and not a complete defence.1 Istanbul Action Plan should consider taking the same approach.
+In any case, the OECD Working Group on Bribery has questioned the policy rationale of the defence of effective regret in relation to the offence of bribing a foreign public official. This is because very few countries, other than the country of the foreign public official, would have jurisdiction to prosecute the foreign public official.
+
+Immunity from prosecution for public officials
+
+
+Not covered. 
+Article 16: The provisions of this Convention shall be without prejudice to the provisions of any Treaty, Protocol or Statute, as well as their implementing texts, as regards the withdrawal of immunity.
+
+Article 30.2: Each State Party shall take such measures as may be necessary to establish or maintain, in accordance with its legal system and constitutional principles, an appropriate balance between any immunities or jurisdictional privileges accorded to its public officials for the performance of their functions and the possibility, when necessary, of effectively investigating, prosecuting and adjudicating offences established in accordance with this Convention.
+
+In many countries, certain public officials are granted immunity from prosecution so as to ensure their independence and to protect them from malicious prosecutions. This could seriously hinder investigations and prosecutions of corruption committed by these officials. It could also undermine the public's confidence in its civil service and the rule of law. Immunity to judicial and prosecutorial officials can also hinder the prosecution of a person who has engaged in corruption with a judicial or prosecutorial official, even if this person does not enjoy immunity.
+
+Countries should therefore ensure that there is an appropriate balance between immunities provided to its public officials and the effective investigation, prosecution and adjudication of corruption offences. In particular, immunities should only be functional in nature, i.e., the immunity applies only to acts carried out in the performance of official duties. Immunities should also have limited duration; they should apply only while an official is in office and not indefinitely. Countries should also consider suspending any applicable statutes of limitation while an official is immune from prosecution. This would ensure that a prosecution is not statute-barred by the time an official leaves office.
+
+
+An effective system for lifting immunities is also essential. In most countries, immunities may be lifted through a Parliamentary or constitutional court process. Countries should ensure that these processes are transparent and publicly accountable, and that immunities may be lifted for "serious" crimes like corruption. The process must also allow the gathering of evidence that would support the lifting of the immunity. In other words, it must permit the gathering of evidence through normal investigative techniques, such interviewing witnesses, and search and seizure of bank and financial records.
+The system of immunities in many Istanbul Action Plan countries is in need of reform. Immunities are excessively granted to a very large number of officials at the national and even local levels. The immunities are often not functional in nature. Hence, even officials who were involved in car accidents because of speeding have escaped prosecution, even though driving is not part of their official duties. The rules for lifting immunities are often very general and lack clear criteria. It is not clear how transparent the process for lifting immunity is. The practice of lifting immunities would benefit from additional analysis based on statistical data and case studies.
+
+Immunity from prosecution for persons who co-operate with an investigation or prosecution‌
+
+
+Not covered. Article 22: Each Party shall adopt such measures as may be necessary to provide effective and appropriate protection for: those who report the criminal offences established in accordance with Articles 2 to 14 or otherwise co-operate with the investigating or prosecuting authorities; witnesses who give testimony concerning these offences.
+
+Article 37.3: Each State Party shall consider providing for the possibility, in accordance with fundamental principles of its domestic law, of granting immunity from prosecution to a person who provides substantial cooperation in the investigation or prosecution of an offence established in accordance with this Convention.
+
+Corruption crimes are often difficult to detect and investigate because of their consensual and secretive nature. To overcome this difficulty, some countries provide immunity from prosecution to persons who participated in the crime but who co-operate with the authorities in an investigation or prosecution. Other countries have provisions that allow more lenient sentences to be given to such individuals. In many jurisdictions, these provisions have been proven valuable in fighting criminal organisations that are involved in serious crime, including corruption. Hence, the Council of Europe Convention and UN Convention encourage the adoption of these provisions, consistent with domestic legal principles.
+
+
+Certain measures may need to be taken in order to implement an effective system for granting immunity or leniency to co-operating individuals. Legislation may have to be amended in jurisdictions where prosecutors do not have discretion of whether to prosecute a case (i.e., mandatory prosecution). In jurisdictions where there is prosecutorial discretion, rules or legislation may have to be implemented to structure and guide the provision of immunity. It may be useful to implement a mechanism to judicially review or ratify decisions to grant immunity so as to formalise the terms of the agreement. There should also be provisions to deal with individuals who renege on their agreements or who do not co-operate with the authorities satisfactorily.
+Note that the provision of immunity to co-operating individuals is similar but not identical to the defence of effective regret. In most countries, the effective regret defence applies only when an offender reports the crime shortly after its commission. Immunity provisions generally do not have this requirement. Effective regret provisions usually only require an offender to report the crime; there is no further requirement to co-operate with an investigation or to testify. Immunity provisions are also discretionary, unlike effective regret. The authorities may refuse to grant immunity to a person who immediately reports a crime, e.g. because the offender's assistance or co-operation is not necessary to complete the investigation. Compared to the effective regret defence, immunity provisions generally provide a greater degree of flexibility.
+
+
+
+For instance, the OECD Working Group on Bribery has held that the OECD Convention does not permit the defence of effective regret for the offence of bribery of foreign public officials.
+
+Legislative Guide for the Implementation of the UN Convention, paras. 105- 106 and 386-388. See also the Twenty Guiding Principles for the Fight against Corruption, Council of Europe Resolution (97) 24, para. 6, in which member states agreed in principle "to limit immunity from investigation, prosecution or adjudication of corruption offences (i.e. diplomatic and domestic immunities) to the degree necessary in a democratic society".
+
+
+
+Chapter 6
+
+Statute of Limitation
+
+
+OECD Convention Council of Europe Convention UN Convention
+
+Article 6: Any statute of limitations applicable to the offence of bribery of a foreign public official shall allow an adequate period of time for the investigation and prosecution of the offence. Not addressed expressly. Article 29: Each State Party shall, where appropriate, establish under its domestic law a long statute of limitations period in which to commence proceedings for any offence established in accordance with this Convention and establish a longer statute of limitations period or provide for the suspension of the statute of limitations where the alleged offender has evaded the administration of justice.
+
+For countries that have statutes of limitation for corruption offences, the international conventions require them to ensure that the limitation period is sufficiently long for the investigation and prosecution of these offences. In deciding whether a particular limitation period meets this standard, it is important to consider the nature of corruption cases. Many corruption offences do not come to light for many years, such as until a regime change occurs or when an official leaves his/her post. Cases are often complex and require the gathering of voluminous evidence and complicated accounting and financial analysis. Evidence may also have to be gathered from abroad, which can be extremely time-consuming.
+Limitation periods vary considerably among different countries. Many countries do not have limitation periods at all, nor are they required by the international conventions to do so. For those with limitation periods, the periods usually begin to run when the offence is committed. Many require an entire prosecution, including appeals, to be completed before the period expires. Some have different limitation periods for the conclusion of an investigation, a trial and appeals. Most members of GRECO have limitation periods of 5 years for corruption offences, which is extended to 7-10 years in aggravated cases. For the offence of bribery of foreign public officials, most parties to the OECD Convention generally have limitation periods of 5 years, but the periods for others range between 2-15 years. The periods may also be extended for aggravated offences. In Istanbul Action Plan countries, the limitation periods are also in the range of 2 years for the least serious offences and up to 10-15 years for the most aggravated ones.
+
+One significant factor in determining whether a limitation period is sufficiently long is whether the period can be suspended under certain circumstances. For example, a limitation period should be suspended when an alleged offender has absconded; otherwise the offender would benefit from his/her own flight. It should also be suspended when evidence has to be g athered abroad since such procedures are often time-consuming. Unfortunately, most Istanbul Action Plan countries do not suspend limitation periods under any circumstances, which could be problematic.
+In any event, the practical effects of statutes of limitation on corruption cases in Istanbul Action Plan countries have not been thoroughly studied. The issue will benefit from further analysis of statistical data and case studies on how often corruption cases are abandoned because of the expiry of limitation periods.
+
+Chapter 7
+
+Responsibility of Legal Persons
+
+
+The attribution of responsibility for legal persons for criminal offences is a well-entrenched principle in common law systems and in certain other countries, including Japan. However, it is a relatively new concept for most Western European continental countries and it is just beginning to emerge in many other countries, including those in Eastern Europe. In addition, the law is rapidly evolving even in many of those countries where the liability of legal persons has existed for some time, e.g., legislative changes to improve its effectiveness. For these reasons, this issue is covered in more detail so as to clarify some of the main legal concepts and evolving international standards. The Glossary will also refer to examples among Parties to the OECD Convention to illustrate the relevant concepts.
+
+Although the liability of legal persons for corruption is required in several international conventions, the debate about the rationale for such liability continues in the Istanbul Action Plan countries. Opponents state that it is artificial to treat a corporation as if it has a blameworthy state of mind. It is also impossible to imprison an organisation or attain many of the purposes of penal sanctions, such as rehabilitation and punishment. On the other hand, proponents recognise that corporations play an important role in society and the economy, and as such are capable of doing significant harm. They must therefore be expected to uphold the law just like individuals. Sanctions do impact corporations – by affecting their reputations and, through monetary sanctions, their financial positions.
+Imposing liability against legal persons may be particularly important in corruption cases. Corporations are increasingly large and decentralised, resulting in diffuse operations and decision-making. It is often difficult to hold one or more individuals in the company responsible for a particular decision. Companies may thus be more inclined to engage in bribery, because it is less likely that any individuals will be held accountable. Corporations also often have elaborate financial structures and accounting practices that make it easier to conceal bribes and the identity of decision-makers. For these reasons, making legal persons liable for bribery will have a deterrent effect. It will also force companies to take preventive measures, such as implementing corporate compliance programmes and codes of ethics.
+
+
+1. Standards of liability‌
+
+OECD Convention Council of Europe Convention UN Convention
+
+Article 2: Each Party shall take such measures as may be necessary, in accordance with its legal principles, to establish the liability of legal persons for the bribery of a foreign public official.
+
+Article 3.2: In the event that, under the legal system of a Party, criminal responsibility is not applicable to legal persons, that Party shall ensure that legal persons shall be subject to effective, proportionate and dissuasive non-criminal sanctions, including monetary sanctions, for bribery of foreign public officials.
+
+Article 1.d: For the purposes of this Convention, "legal person" shall mean any entity having such status under the applicable national law, except for States or other public bodies in the exercise of State authority and for public international organisations.
+
+Article 18:
+Each Party shall take the necessary measures to ensure that legal persons can be held liable for fraud, active corruption and money laundering committed for their benefit by any person, acting either individually or as part of an organ of the legal person, who has a leading position within the legal person, based on: a power of representation of the legal person; or an authority to take decisions on behalf of the legal person; or an authority to exercise control withi the legal person; as well as for involvement as accessories or instigators in such fraud, active corruption or money laundering or the attempted commission of such fraud. Apart from the cases already provided for in paragraph 1, each member State shall take the necessary measures to ensure that a legal person can be held liable where the lack of supervision or control by a person referred to in paragraph 1 has made the commission of a fraud or an act of active corruption or money laundering for the benefit of that legal person by a person under its authority.
+
+Liability of a legal person under paragraphs 1 and 2 shall not exclude criminal proceedings against natural persons who are perpetrators, instigators or accessories in the fraud, active corruption or money laundering.
+
+Article 19.2: Each Party shall ensure that legal persons held liable in accordance with Article 18, paragraphs 1 and 2, shall be subject to effective, proportionate and dissuasive criminal or non-criminal sanctions, including monetary sanctions.
+
+Article 26: Each State Party shall adopt such measures as may be necessary, consistent with its legal principles, to establish the liability of legal persons for participation in the offences established in accordance with this Convention. Subject to the legal principles of the State Party, the liability f legal persons may be criminal, civil or administrative. Such liability shall be without prejudice to the criminal liability of the natural persons who have committed the offences. Each State Party shall, in particular, ensure that legal persons held liable in accordance with this article are subject to effective, proportionate and dissuasive criminal or non-criminal sanctions, including monetary sanctions.
+
+Definition of legal person‌
+
+Since legal persons can take a variety of forms, an effective scheme for imposing liability must cover a wide range of entities. The definition of a legal person should therefore include any entity having such status under the applicable national law, including criminal and company laws. More specifically, it should include corporations (whether or not they are listed on a stock exchange), partnerships, societies, associations, foundations, and not- for-profit bodies.
+The Council of Europe Convention provides an exception to the definition of legal persons for states or other public bodies in the exercise of state authority and public international organisations. According to the Explanatory Report on the Council of Europe Convention, parties are not required to impose liability against ministries and bodies that exercise public powers at national, regional, state and local levels of government. International organisations such as the Council of Europe may also be excluded.
+
+However, the exception for state and public bodies should not be extended to state-owned or state-controlled enterprises. In other words, liability should be extended to cover enterprises in which any level of government has an ownership interest (including a minority interest). It should also include enterprises over which the government exercises a dominant influence, whether directly or indirectly.
+
+The connection between the crime and the legal person
+
+The purpose of imposing liability against legal persons is to deter and prevent management and employees from committing crimes. However, a legal person should not be held liable for crimes committed by its employees that have nothing to do with the legal person, e.g. if an employee bribes an official in order that his/her child is admitted to a school. Liability should arise only if there is some connection between the crime and the legal person or a related legal person (such as an affiliate or another legal person in the same corporategroup).
+For this reason, many jurisdictions will impose liability against a legal person only if the crime was committed for the benefit of the legal person. The purpose of this requirement is to avoid punishing a legal person when a natural person commits a crime in his/her own interest, or even against the interest of the legal person. However, one difficulty is that it is not always easy to determine whether a crime benefits a legal person.
+The definition of "for the benefit of a legal person" also varies from one jurisdiction to another. In Canada, the phrase has been interpreted to mean "by design, or result partly for the benefit of". Germany requires proof that the "legal entity ... has gained, or was supposed to have gained, a profit". France has adopted a broad definition: a legal person is liable if the acts have been committed in the course of activities intended to advance the organisation, operation or objectives of the legal person, even where there is no benefit or advantage results. Greece takes the opposite position: there must be clear proof that the benefit is actually realised.
+To avoid the difficulties in determining whether a crime was for the "benefit" of a legal person, some jurisdictions merely require the crime to be committed in connection with or in relation to the business of the legal person. Presumably, such a requirement would ensure that a legal person is not liable when an employee commits a crime that is unrelated to the business of the legal person. Thus, Japan requires proof that a crime (such as foreign bribery) was committed by a natural person "with regard to the business of the legal entity". In Korea, liability arises if the representative of a legal person bribes a foreign public official "in relation to [the legal person's] business". Courts in the United Kingdom have imposed a similar requirement. Mexico requires the crime to be committed "in the name or on behalf of the legal entity using means provided by the entity itself".
+Another approach to limit the liability of legal persons is to require the crime committed to be an infringement of the duties of the legal person. This requirement may either be in addition or an alternative to the requirement that the crime benefit a legal person. Hence, in Germany, liability may arise if the duties of a legal person have been violated or if the legal person gained or was supposed to have gained a profit. Sweden will impose liability if the offence entails a "gross disregard for the special obligations associated with the business activities" or is otherwise of a "serious kind".
+
+The position held by the natural person(s) who commits the crime‌
+
+When assessing liability against legal persons, many legislative frameworks take into account the position held by the natural person(s) who commits or carries out the crime. In other words, whether a legal person is liable may depend on whether the perpetrator holds a position of sufficient seniority within the legal person.
+Many countries have adopted the identification theory in assessing this criterion. Under this approach, a legal person may be held liable only when the crime was committed by a person who has a leading position within the legal person. These may be persons who have the power to represent the legal person, to take decisions on behalf of the legal person, or to exercise control within the legal person. Persons in leading positions should generally include a legal person's directors, managing director, and senior managers. It should also include persons to whom particular functions of a legal person have been delegated so that these functions may be performed without supervision.
+
+Liability could also arise when a person in a leading position has delegated authority to a subordinate, or directs or supervises a subordinate. Because liability is triggered only by the acts of relatively senior individuals, this approach has been criticised for favouring larger companies (where more of the decisions are taken by lower level staff).
+
+Some Parties to the OECD Convention use some version of the identification theory when imposing liability for foreign bribery against legal persons (e.g., Canada, Ireland and the United Kingdom). In Germany, the person who commits the offence must be the authorised organ of the legal person, a member of such an organ or a fully authorised representative, or someone who acts in a leading position. Italy may impose liability for acts performed by persons in senior positions who carry out "activities of representation, administration, or management of the body or one of its organisational units having financial and operational autonomy". Liability can also arise based on the acts of persons who are under the direction or supervision of a person who holds such a senior position. In France, liability can be premised on the acts of an employee to whom a person in a leading position has delegated authority.
+The United States has taken a different approach by adopting a form of vicarious liability. A legal person is responsible for the unlawful acts of its officers and employees and agents when the person in question acts i) within the scope of his or her duties, and ii) for the benefit of the corporation. The liability can be triggered by the acts of any employee of the legal person, regardless of his or her level in the corporate hierarchy. Under the applicable sentencing guidelines, the sanction can be mitigated if an "effective" compliance program was in place at the time of the offence. A form of vicarious liability is also found among some of the other Parties to the OECD Convention
+Australia provides another approach that is very innovative. Liability may be imposed against a legal person where a "corporate culture" existed in the legal person that directed, encouraged, tolerated or led to the offence or the legal person failed to create and maintain a corporate culture that required compliance with the relevant law.
+
+5. Supervision, control and due diligence
+
+As mentioned earlier, the modern corporation is often extremely large and complex. Operations and decision-making are frequently diffuse, making it difficult for these entities to control every act of every employee. Nonetheless, it remains important that legal persons take preventive measures to supervise its employees and deter them from committing crimes. For these reasons, when assessing liability, many jurisdictions take into consideration whether a legal person has exercised due diligence in supervising and controlling its employees.
+
+
+A concept of due diligence in exercising supervision and control can operate in different ways. It is a complete defence in some Parties to the OECD Convention (e.g. Italy and Korea), i.e. the legal person is completely exonerated. In Germany and under the Council of Europe Convention, the defence only applies when the crime is committed by someone who is not in a leading position in the legal person. In Italy, the defence applies only when the offence is committed by someone in a senior position. In France and the United States, due diligence is not a defence but only a mitigating factor at sentencing.
+The meaning of due diligence also varies among Parties to the OECD Convention. Most define the concept in general terms. In Korea, the defence succeeds if a legal person "has paid due attention or exercised proper supervision to prevent the offence". The defence may apply in Norway if a legal person could have prevented the offence by guidelines, instruction, training, control or other measures. Switzerland may sanction a legal person who has "failed to take all reasonable and necessary organisational measures to prevent such an offence". The authorities in the United States consider that a good compliance programme requires strong commitment from senior management in creating and communicating a "compliance culture", regular and effective training and consistent enforcement. Specific elements of a compliance programme might include internal controls coupled with a review by the internal audit committee, a policy prohibiting discretionary payments, and training on the main provisions of the legislation on bribery of foreign public officials. The common theme in these countries is that due diligence requires a legal person to take certain measures (e.g. enact a code of conduct), but it does not precisely define the content of these measures. This is understandable, considering the diverse definition and operations of legal persons.
+On the other hand, Italy provides a more elaborate "defence of organisational models" which exonerates a legal person for an offence committed by a person in a senior position if 1) before the offence was committed, the legal person's management had adopted and effectively implemented an appropriate organisational and management model to prevent offences of the kind that had occurred; 2) the legal person had set up an autonomous organ to supervise, enforce and update the model; 3) the autonomous organ had sufficiently supervised the operation of the model; and 4) the perpetrator committed the offence by fraudulently evading the operation of the model. An acceptable model must include: 1) identification of activities that may give rise to offences; 2) procedures for preventing the offences; and 3) a disciplinary system for non-compliance. When designing an organisational model, a legal person may rely on codes of conduct that have been drafted by business associations and approved by the Ministry of Justice, though this does not guarantee that the defence will succeed.
+
+Link between proceedings against natural and legal persons
+
+It is important for several reasons that a regime for imposing liability against legal persons does not require the identification, prosecution or conviction of a natural person. First, it may not be possible to prosecute the natural person who perpetuated the crime, e.g. because he/she has absconded or died. Second, the increasingly complex and diffuse nature of corporate decision-making may make it difficult to identify specific individuals involved in a crime. Finally, proceeding against a legal person alone may provide a convenient and fair alternative to prosecuting an agent of the corporation or low-level employees who may have bribed due to corporate pressure.
+The inverse situation is also important, i.e., the imposition of liability against legal persons should be without prejudice to the criminal liability of any natural persons. The Council of Europe and UN Conventions accordingly require that the liability of a legal person should not exclude criminal proceedings against natural persons who are perpetrators, instigators of, or accessories to, a corruption offence.
+
+Sanctions for legal persons
+
+Under international standards, legal persons must be subject to effective, proportionate and dissuasive sanctions for acts of corruption. Under the OECD Convention, "in the event that, under the legal system of a Party, criminal responsibility is not applicable to legal persons, that Party shall ensure that legal persons shall be subject to effective, proportionate and dissuasive non-criminal sanctions, including monetary sanctions, for the bribery of foreign public officials". Under the Council of Europe Convention and the UN Convention, sanctions may be criminal, civil or administrative in nature.
+In determining whether a Party's sanctions for legal persons are in compliance with the OECD Convention, the OECD Working Group on Bribery looks at factors such as the size of the Party's companies. States may also wish to consider sanctions such as temporary or permanent exclusion from contracting with the government (e.g. public procurement, aid procurement and export credit financing), forfeiture or confiscation of proceeds of crime, restitution, disentitlement to public benefits or aid, disqualification from the practice of commercial activities, placement under judicial supervision, winding up of the legal person, publication of the judgment, the appointment of a trustee, the requirement to establish an effective internal compliance programme and the direct regulation of corporate structures. The OECD Convention also requires confiscation of the bribe and proceeds of bribery, or property of corresponding value, or monetary sanctions of a comparable effect.
+
+Chapter 8
+
+Special Investigative Techniques and Bank Secrecy
+
+
+OECD Convention Council of Europe Convention UN Convention
+
+Not covered Article 23: Each Party shall adopt such legislative and other measures as may be necessary, including those permitting the use of special investigative techniques,
+
+Article 2: (f) "Freezing" or "seizure" shall mean temporarily prohibiting the transfer, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court or other in accordance with national law, to enable competent authority; it to facilitate the gathering of evidence related to criminal offences established in accordance with Article 2 to 14 of this Convention and to identify, trace, freeze and seize instrumentalities and proceeds of corruption, or property the value of which corresponds to such proceeds, liable to measures set out in accordance with paragraph 3 of Article 19 of this Convention.
+
+Each Party shall adopt such legislative and other measures as may be necessary to empower its courts or other competent authorities to order that bank, financial or commercial records be made available or be seized in order to carry out the actions referred to in paragraph 1 of this article.
+Bank secrecy shall not be an obstacle to measures provided for in paragraphs 1 and 2 of this article.
+"Controlled delivery" shall mean the technique of allowing illicit or suspect consignments to pass out of, through or into the territory of one or more States, with the knowledge and under the supervision of their competent authorities, with a view to the investigation of an offence and the identification of persons involved in the commission of the offence.
+Article 31: 2. Each State Party shall take such measures as may be necessary to enable the identification, tracing, freezing or seizure of any [proceeds, property, equipment or other instrumentalities of crime] for the purpose of eventual confiscation.
+
+4. If such proceeds of crime have been transformed or converted, in part or in full, into other property, such property shall be liable to the measures referred to in this article instead of the proceeds.
+
+Income or other benefits derived from such proceeds of crime, from property into which such proceeds of crime have been transformed or converted or from property with which such proceeds of crime have been intermingled shall also be liable to the measures referred to in this article, in the same manner and to the same extent as proceeds of crime.
+For the purpose of this article and article 55 of this Convention, each State Party shall empower its courts or other competent authorities to order that bank, financial or commercial records be made available or seized. A State Party shall not decline to act under the provisions of this paragraph on the ground of bank secrecy.
+
+Article 40: Each State Party shall ensure that, in the case of domestic criminal investigations of offences established in accordance with this Convention, there are appropriate mechanisms available within its domestic legal system to overcome obstacles that may arise out of the application of bank secrecy laws.
+
+Article 50.1: In order to combat corruption effectively, each State Party shall, to the extent permitted by the basic principles of its domestic legal system and in accordance with the conditions prescribed by its domestic law, take such measures as may be necessary, within its means, to allow for the appropriate use by its competent authorities of controlled delivery and, where it deems appropriate, other special investigative techniques, such as electronic or other forms ofsurveillance and undercover operations, within its territory, and to allow for the admissibility in court of evidence derived therefrom.
+
+
+Corruption can be very difficult to detect and investigate. This is partly because corruption is often the result of consensual acts between the parties and is hence secretive by nature. Increasingly, corruption is also committed by sophisticated criminal or business organisations that are difficult to penetrate. To overcome these difficulties, the Council of Europe and UN Conventions require law enforcement officials to have special investigative techniques that are compatible with the parties' domestic law. These techniques may include the use of undercover operations that allow a law enforcement agent to infiltrate a criminal organisation to gather evidence. They may also include the use of controlled deliveries, e.g. when an undercover operator delivers a bribe to a corrupt official. When investigating a close-knit group is difficult for an outsider to penetrate or survey, or where physical infiltration is unacceptably risky, law enforcement may need resort to electronic surveillance interception of communications, listening devices, hidden cameras etc.).
+
+Given its intrusiveness, electronic surveillance is generally subject to strict judicial control and numerous statutory safeguards to prevent abuse.
+Another feature of corruption crimes is that they often have complex financial aspects. Bribes and the proceeds of corruption are often hidden away or laundered through complicated financial channels and vehicles. To properly investigate such crimes, law enforcement must have full access to bank, financial and commercial records. In particular, banks must not be allowed to invoke bank secrecy laws to frustrate the efforts of law enforcement.2 The relevant legal frameworks should provide a clear, efficient mechanism for law enforcement to obtain search warrants (if necessary) and for piercing bank secrecy. This may include specifying the standard of proof for lifting secrecy, deadlines on courts to decide whether to lift secrecy, and the procedure for appealing judicial decisions. Once secrecy is overcome, law enforcement may need expertise in information technology and forensic accounting to properly analyse the evidence.
+The complex financial aspects of many corruption crimes also give rise to the need for tools to identify, trace, freeze and seize the proceeds and instrumentalities of corruption. These measures are essential for preserving the proceeds of corruption before a court orders confiscation. To avoid jeopardising an on-going investigation, the courts in some countries may prohibit the financial institution where an account is frozen from informing the account-holder of the freezing order. The courts in some jurisdictions may also freeze an account but allow small payments to be made from the account (e.g. for daily bill payments).
+
+
+Chapter 9
+
+Extradition, Mutual Legal Assistance and Asset Recovery
+
+
+1. Extradition and mutual legal assistance generally
+
+The effectiveness of MLA and extradition in corruption-related cases has not been well-studied in the Istanbul Action Plan countries. To identify legal and institutional gaps, the issue will merit further examination based on a review of legislation, case law and statistics from law enforcement, prosecutorial and judicial bodies.
+
+
+Article 9 – Mutual Legal Assistance
+Each Party shall, to the fullest extent possible under its laws and relevant treaties and arrangements, provide prompt and effective legal assistance to another Party for the purpose of criminal investigations and proceedings brought by a Party concerning offences within the scope of this Convention and for non-criminal proceedings within the scope of this Convention brought by a Party agains a legal person…
+Where a Party makes mutual legal assistance conditional upon the existence of dual criminality, dual criminality shall be deemed to exist if the offence for which the assistance is sought is within the scope of this Convention.
+A Party shall not decline to render mutual legal assistance for criminal matters within the scope of this Convention on the ground of bank secrecy.
+
+Article 26 – Mutual Assistance
+The Parties shall afford one another the widest measure of mutual assistance by promptly processing requests from authorities that, in conformity with their domestic laws, have the power to investigate or prosecute criminal offences established in accordance with this Convention.
+
+Mutual legal assistance under paragraph 1 of this article may be refused if the requested Party believes that compliance with the request would undermine its fundamental interests, national sovereignty, national security or public order.
+Parties shall not invoke bank secrecy as a ground to refuse any co-operation under this chapter. Where its domestic law so requires, a Party may require that a request for co-operation which would involve the lifting of bank secrecy be authorised by either a judge or another judicial authority, including public prosecutors, any of these authorities acting in relation to criminal offences.
+Article 46 – Mutual Legal Assistance
+States Parties shall afford one another the widest measure of mutual legal assistance in investigations, prosecutions and judicial proceedings in relation to the offences covered by this Convention.
+Mutual legal assistance shall be afforded to the fullest extent possible under relevant laws, treaties, agreements and arrangements of the requested State Party with respect to investigations, prosecutions and judicial proceedings in relation to the offences for which a legal person may be held liable in accordance with article 26 of this Convention in the requesting State Party.
+Paragraphs 9 to 29 of this article shall apply to requests made pursuant to this article if the States Parties in question are not bound by a treaty of mutual legal assistance. If those States Parties are bound by such a treaty, the corresponding provisions of that treaty shall apply unless the States Parties agree to apply paragraphs 9 to 29 of this article in lieu thereof. States Parties are strongly encouraged to apply those paragraphs if they facilitate cooperation.
+States Parties shall not decline to render mutual legal assistance pursuant to this article on the ground of bank secrecy.
+
+
+Article 10 – Extradition
+Bribery of a foreign public official shall be deemed to be included as an extraditable offence under the laws of the Parties and the extradition treaties between them.
+If a Party which makes extradition conditional on the existence of an extradition treaty receives a request for extradition from another Party with which it has no extradition treaty, it may consider this Convention to be the legal basis for extradition in respect of the offence of bribery of a foreign public official.
+4. Extradition for bribery of a foreign public official is subject to the conditions set out in the domestic law and applicable treaties and arrangements of each Party. Where a Party makes extradition conditional upon the existence of dual criminality, that condition shall be deemed to be fulfilled if the offence for which extradition is sought is within the scope of Article 1 of this Convention.
+Article 27 – Extradition
+The criminal offences established in accordance with this Convention shall be deemed to be included as extraditable offences in any extradition treaty existing between or among the Parties. The Parties undertake to include such offences as extraditable offences in any extradition treaty to be concluded between or among them.
+If a Party that makes extradition conditional on the existence of a treaty receives a request for extradition from another Party with which it does not have an extradition treaty, it may consider this Convention as the legal basis for extradition with respect to any criminal offence established in accordance with this Convention.
+Parties that do not make extradition conditional on the existence of a treaty shall recognise criminal offences established in accordance with this Convention as extraditable offences between themselves.
+5. If extradition for a criminal offence established in accordance with this Convention is refused solely on the basis of the nationality of the person sought, or because the requested Party deems that it has jurisdiction over the offence, the requested Party shall submit the case to its competent authorities for the purpose of prosecution unless otherwise agreed with the requesting Party, and shall report the final outcome to the requesting Party in due course.
+Article 44 – Extradition
+1. This article shall apply to the offences established in accordance with this Convention where the person who is the subject of the request for extradition is present in the territory of the requested State Party, provided that the offence for which extradition is sought is punishable under the domestic law of both the requesting State Party and the requested State Party.
+Each of the offences to which this article applies shall be deemed to be included as an extraditable offence in any extradition treaty existing between States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them. A State Party whose law so permits, in case it uses this Convention as the basis for extradition, shall not consider any of the offences established in accordance with this Convention to be a political offence.
+If a State Party that makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may consider this Convention the legal basis for extradition in respect of any offence to which this article applies.
+
+7. States Parties that do not make extradition conditional on the existence of a treaty shall recognize offences to which this article applies as extraditable offences between themselves.
+A State Party in whose territory an alleged offender is found, if it does not extradite such person in respect of an offence to which this article applies solely on the ground that he or she is one of its nationals, shall, at the request of the State Party seeking extradition, be obliged to submit the case without undue delay to its competent authorities for the purpose of prosecution…
+
+The legal basis for rendering extradition and MLA
+Countries may seek or provide extradition and MLA in corruption cases through different types of arrangements. One of the most common arrangements is bilateral treaties. There are several advantages to treaty-based co-operation. A treaty obliges a requested state to co-operate under international law. Treaties usually contain detailed provisions on the procedure and parameters of co-operation, and thus provide greater certainty and clarity. Treaties may also provide for forms of co-operation that are otherwise unavailable.
+An alternative to bilateral treaties is multilateral treaties or conventions. Multilateral instruments preserve many of the advantages of bilateral treaties. It is also cheaper and takes less time for a country to establish treaty relations with multiple states through a multilateral instrument than by negotiating bilateral treaties with each state.
+The multilateral conventions on corruption provide the legal basis for extradition in three ways. First, offences established in accordance with the conventions are deemed to be included in any existing bilateral extradition treaty between state parties. State parties must also include these offences in any future bilateral extradition treaties that they sign. Second, if a state party requires a treaty as a precondition to extradition, it may consider the convention as the requisite treaty. Third, if a state party does not require a treaty as a precondition to extradition, it shall consider the offences in the convention as extraditable offences.
+
+For MLA, the international conventions on corruption generally oblige their signatories to afford one another the widest measure of assistance in investigations, prosecutions and judicial proceedings in relation to the corruption offences. Parties to the conventions are therefore encouraged to interpret flexibly the requirements for rendering co-operation. For instance, the OECD and UN Conventions require that Parties to provide prompt and effective legal assistance to another Party for the purpose of criminal proceedings brought by a Party concerning offences within the scope of the Convention and for non-criminal proceedings within the scope of the Convention brought by a Party against a legal person.
+The UN Convention provides that, if two States Parties are not bound by a relevant MLA treaty or convention, then the UN Convention operates as such a treaty. To deal with these cases, the UN Convention (in Article 46, paragraphs 9-29) details the conditions and procedure for requesting and rendering assistance. These provisions are comparable to those found in most bilateral treaties. States Parties whose legal systems permit the direct application of a treaty can apply the UN Convention when it receives an MLA request based on these provisions. Those whose legal systems do not so permit may need to enact legislation to ensure that the terms of the Convention are applied, rather than the rules that ordinarily govern requests without treaties.
+
+There are also multilateral instruments that provide for extradition and MLA for multiple types of crimes, including corruption. These include the Council of Europe Conventions on Extradition, Mutual Assistance in Criminal Matters and its Additional Protocols. Members of the Commonwealth of Independent States have signed two multilateral Conventions on Legal Assistance and Legal Relationship in Civil, Family and Criminal Matters dated 22 January 1993 and 7 October 2002. The Conventions contain provisions that regulate extradition, criminal prosecution and MLA in criminal cases.
+Finally, in the absence of an applicable bilateral or multilateral treaty, many countries have domestic legislation to provide MLA and/or extradition to countries with which they have no treaty relations. The advantage of this approach is that it is often quicker and cheaper to implement than treaties. On the other hand, unlike treaties, domestic legislation does not create binding obligations under international law. A state which enacts such legislation has no international obligations to assist a foreign state. In the same vein, foreign states are not obliged to render assistance to countries which have enacted such legislation. In many cases, a requested state will co-operate without a treaty only if the requesting state provides an undertaking of reciprocity. In practice, however, the absence of treaty-based obligations does not necessarily result in less co-operation.
+
+Dual criminality
+The principle of dual criminality requires the conduct that is the subject of an MLA or extradition request be recognised as criminal offences in both the requesting and requested countries. The requirement could be an obstacle for international co-operation, particularly in cases involving offences that do not exist in some countries, such as the bribery of foreign public officials and illicit enrichment. To overcome this problem, the OECD Convention deems dual criminality to exist if the offence for which assistance is sought is within the scope of the Convention. Under the UN Convention, States Parties shall render MLA of a non-coercive nature even in the absence of dual criminality. For coercive measures, the requested state may waive dual criminality. States Parties also have discretion to extradite in the absence of dual criminality.
+
+Extradition of nationals
+Many countries are prohibited by their legislation or constitution to extradite their nationals. To ensure that justice is served in these cases, the international conventions require a requested state that refuses to extradite a national to submit the case to its competent authorities for prosecution. To implement this requirement, countries should ensure that their legislative frameworks provide for jurisdiction to prosecute their nationals under these circumstances. These countries also need to ensure that they have the means to obtain evidence from abroad for use in the prosecution.
+
+Denying co-operation on the basis of political offences or bank secrecy
+
+As noted earlier, bank secrecy rules have often obstructed the investigation and prosecution of corruption. As a result, the international conventions require its parties to ensure that MLA will not be denied because of bank secrecy, regardless of whether the request was made under legislation, or a bilateral or multilateral treaty. As with domestic investigations, countries should ensure that they have effective mechanisms for issuing search warrants and for lifting bank secrecy, in order to effectively execute incoming MLA requests.
+Many countries also deny extradition or MLA for political offences or offences of a political character. Although this ground of denial is commonly found, its definition is usually nebulous. There is no consensus about its scope, and hence the application of this doctrine is unclear. What is clear, however, is that it could conceivably cover corruption offences in some cases. To deal with this concern, the UN Convention provides a "negative" definition by stating that corruption and related offences can never be political offences.
+
+Central authorities
+
+Traditionally, MLA and extradition requests were transmitted through diplomatic channels, which often led to significant delay. To overcome this difficulty, the international conventions require their parties to each designate a central authority to send, receive and handle all requests for assistance on behalf of a state. These central authorities are typically located in a ministry of justice or a prosecutor's office. There are several advantages to this approach. Apart from reducing delay in transmitting requests, the central authority may execute the request itself, or it may be better positioned to identify the body most suited for doing so. Central authorities also provide a visible point of contact for requesting states. As a specialised body, central authorities also have a repository of expertise in international assistance. However, some countries have designated different bodies as central authorities under different treaties and conventions. This should be avoided, as it may cause confusion to requesting states, raise concerns about co-ordination, reduce economies of scale and dilute the concentration of expertise.
+
+Istanbul Action Plan countries often face serious practical challenges when preparing an MLA or extradition request, including language barriers, limited access to modern communication tools, etc. To overcome these difficulties, they should contact the central authority of the requested state whenever such an authority is available. A software tool prepared by the UNODC can also assist in drafting requests.
+
+
+Not covered. Not covered. Article 51: The return of assets pursuant to this chapter is a fundamental principle of this Convention, and States Parties shall afford one another the widest measure of cooperation and assistance in this regard.
+
+Article 54:
+Each State Party, in order to provide mutual legal assistance pursuant to article 55 of this Convention with respect to property acquired through or involved in the commission of an offence established in accordance with this Convention, shall, in accordance with its domestic law:
+Take such measures as may be necessary to permit its competent authorities to give effect to an order of confiscation issued by a court of another State Party;
+Take such measures as may be necessary to permit its competent authorities, where they have jurisdiction, to order the confiscation of such property of foreign origin by adjudication of an offence of money-laundering or such other offence as may be within its jurisdiction or by other procedures authorized under its domestic law; and
+Each State Party, in order to provide mutual legal assistance upon a request made pursuant to paragraph 2 of article 55 of this Convention, shall, in accordance with its domestic law:
+Take such measures as may be necessary to permit its competent authorities to freeze or seize property upon a freezing or seizure order issued by a court or competent authority of a requesting State Party that provides a reasonable basis for the requested State Party to believe that there are sufficient grounds for taking such actions and that the property would eventually be subject to an order of confiscation for purposes of paragraph 1 (a) of this article;
+Take such measures as may be necessary to permit its competent authorities to freeze or seize propertyupon a request that provides a reasonable basis for the requested State Party to believe that there are sufficient grounds for taking such actions and that the property would eventually be subject to an order of confiscation for purposes of paragraph 1 (a) of this article; and Article 55
+A State Party that has received a request from another State Party having jurisdiction over an offence established in accordance with this Convention for confiscation of proceeds of crime, property, equipment or other instrumentalities referred to in article 31, paragraph 1, of this Convention situated in its territory shall, to the greatest extent possible within its domestic legal system:
+Submit the request to its competent authorities for the purpose of obtaining an order of confiscation and, if such an order is granted, give effect to it; or
+Submit to its competent authorities, with a view to giving effect to it to the extent requested, an order of confiscation issued by a court in the territory of the requesting State Party in accordance with articles 31, paragraph 1, and 54, paragraph 1 (a), of this Convention insofar as it relates to proceeds of crime, property, equipment or other instrumentalities referred to in article 31, paragraph 1, situated in the territory of the requested State Party.
+Following a request made by another State Party having jurisdiction over an offence established in accordance with this Convention, the requested State Party shall take measures to identify, trace and freeze or seize proceeds of crime, property, equipment or other instrumentalities referred to in article 31, paragraph 1, of this Convention for the purpose of eventual confiscation to be ordered either by the requesting State Party or, pursuant to a request under paragraph 1 of this article, by the requested State Party.
+
+
+Not covered. Not covered. Article 57:
+Property confiscated by a State Party pursuant to article 31 or 55 of this Convention shall be disposed of, including by return to its prior legitimate owners, pursuant to paragraph 3 of this article, by that State Party in accordance with the provisions of this Convention and its domestic law.
+Each State Party shall adopt such legislative and other measures, in accordance with the fundamental principles of its domestic law, as may be necessary to enable its competent authorities to return confiscated property, when acting on the request made by another State Party, in accordance with this Convention, taking into account the rights of bona fide third parties.
+In accordance with articles 46 and 55 of this Convention and paragraphs 1 and 2 of this article, the requested State Party shall:
+In the case of embezzlement of public funds or of laundering of embezzled public funds as referred to in articles 17 and 23 of this Convention, when confiscation was executed in accordance with article 55 and on the basis of a final judgement in the requesting State Party, a requirement that can be waived by the requested State Party, return the confiscated property to the requesting State Party;
+In the case of proceeds of any other offence covered by this Convention, when the confiscation was executed in accordance with article 55 of this Convention and on the basis of a final judgement in the requesting State Party, a requirement that can be waived by the requested State Party, return the confiscated property to the requesting State Party, when the requesting State Party reasonably establishes its prior ownership of such confiscated property to the requested State Party or when the requested State Party recognizes damage to the requesting State Party as a basis for returning the confiscated property;
+In all other cases, give priority consideration to returning confiscated property to the requesting State Party, returning such property to its prior legitimate owners or compensating the victims of the crime.
+
+As noted earlier, an effective anti-corruption regime must include the confiscation of the proceeds of corruption. However, globalisation and technological advances have allowed criminals to move proceeds of corruption internationally with greater ease. States therefore increasingly need to seek international co-operation to recover assets that have been siphoned abroad.
+The UN Convention considers asset recovery to be a fundamental principle of the Convention and devotes an entire chapter to the subject. It requires each State Party to ensure that it can respond to a request by another State Party to identify, trace, freeze, seize or confiscate the proceeds of corruption. There are two general approaches to executing incoming requests for freezing and confiscation. First, the legislation of a State Party may allow requests to be executed through an application for a domestic order by the competent authorities of the requested state. The application would be based on evidence provided by the requesting state in support of the request. Second, the legislation may allow a foreign freezing, seizing or confiscation order to be directly recognised or enforced. For example, a foreign order may be registered directly with the courts in the requested state and then enforced in the requested state like a domestic court order. Experience has shown that direct enforcement is much less expensive, speedier and more effective. Time and expense is saved because there is no second court application in the requested state, and because the requesting state need not assemble or transmit evidence to the requested state. Countries are therefore strongly encouraged to adopt this approach. Note also that the legislation may allow direct registration in addition, rather than as an alternative, to an application for a domestic order.
+
+After assets are confiscated by a requested state, a more complicated issue arises concerning the assets' disposition. The UN Convention requires States Parties to enact legislative and other measures that enable their competent authorities to return confiscated assets. Where the assets result from embezzlement of public funds, a requested state must return the assets to a requesting state. For assets resulting from other corruption offences, a requested state must return confiscated assets to a requesting state if that state reasonably establishes its prior ownership of the assets. A requested state must also return confiscated assets to a requesting state if the requested state recognises damage to the requesting state as a basis for returning the confiscated property. In all other cases, a requested state must give priority consideration to returning confiscated property not only to a requesting state, but also to its legitimate owners at the time of the offence, or to compensate victims of the crime. States Parties may also consider agreements to return assets on a case-by-case basis. In all cases, a requested state may deduct expenses that it reasonably incurred while recovering the asset.
+
+
+Chapter 10
+
+Other Corruption-related Offences
+
+
+
+1. The offence of money laundering
+
+OECD Convention Council of Europe Convention UN Convention
+
+Article 7: Each Party which has made bribery of its own public official a predicate offence for the purpose of the application of its money laundering legislation shall do so in the same terms for the bribery of a foreign public official, without regards to the place where the bribery occurred.
+
+Article 13: Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law the conduct referred to in the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Products from Crime (ETS No. 141), Article 6, paragraphs 1 and 2, under the conditions referred to therein, when the predicate offence consists of any of the criminal offences established in accordance with Articles 2 to 12 of this Convention, to the extent that the Party has not made a reservation or a declaration with respect to these offences or does not consider such offences as serious ones for the purpose of their money laundering legislation.
+
+Article 2(h): For the purposes of this Convention, "predicate offence" shall mean any offence as a result of which proceeds have been generated that may become the subject of an offence as defined in article 23 of this Convention;
+
+Article 23: Each State Party shall adopt, in accordance with fundamental principles of its domestic law, such legislative and other measures as may be necessary to establish as criminal offences, when committed intentionally: (i) The conversion or transfer of property, knowing that such property is the proceeds of crime, for the purpose of concealing or disguising the illicit origin of the property or of helping any person who is involved in the commission of the predicate offence to evad the legal consequences of his or her action; The concealment or disguise of the true nature, source, location, disposition, movement or ownership of or rights with respect to property, knowing that such property is the proceeds of crime; Subject to the basic concepts of its legal system: The acquisition, possession or use of property, knowing, at the time of receipt, that such property is the proceeds of crime; Participation in, association with or conspiracy to commit, attempts to commit and aiding, abetting, facilitating and counselling the commission of any of the offences established in accordance with this article.
+
+For purposes of implementing or applying paragraph 1 of this article: Each State Party shall seek to apply paragraph 1 of this article to the widest range of predicate offences; Each State Party shall include as predicate offences at a minimum a comprehensive range of criminal offences established in accordance with this Convention; For the purposes of subparagraph (b) above, predicate offences shall include offences committed both within and outside the jurisdiction of the State Party in question.
+
+However, offences committed outside the jurisdiction of a State Party shall constitute predicate offences only when the relevant conduct is a criminal offence under the domestic law of the State where it is committed and would be a criminal offence under the domestic law of the State Party implementing or applying this article had it been committed there.
+
+
+
+As noted earlier, globalisation and technological advancement have allowed criminals to easily transfer, hide and launder the proceeds and instrumentalities of corruption. Hence, an effective legislative framework to fight corruption must also prohibit such activities.
+The international conventions all address the issue of laundering the proceeds of corruption. Although they do this in different ways, the essential message is that the corruption offences covered by those conventions shall be predicate offences for the purpose of the offence of money laundering. The OECD Convention and UN Convention also require that money laundering legislation apply regardless of whether the predicate offence occurred abroad. The international conventions may also define the meaning of "laundering", although this issue is beyond the scope of this Glossary.
+
+2. The Offence of False Accounting and Auditing
+
+OECD Convention Council of Europe Convention UN Convention
+
+Article 8: In order to combat bribery of foreign public officials effectively, each Party shall take such measures as may be necessary, within the framework of its laws and regulations regarding the maintenance of books and records, financial statement disclosures, and accounting and auditing standards, to prohibit the establishment of off-the-books accounts, the making of off-the-books or inadequately identified transactions, the recording of non-existent expenditures, the entry of liabilities with incorrect identification of their object, as well as the use of false documents by companies subject to those laws and regulations, for the purpose of bribing foreign public officials or of hiding such bribery.
+Each Party shall provide effective, proportionate and dissuasive civil, administrative or criminal penalties for such omissions and falsifications in respect of the books, records, accounts and financial statements of such companies.
+Article 14: Each Party shall adopt such legislative and other measures as may be necessary to establish as offences liable to criminal or other sanctions under its domestic law the following acts or omissions, when committed intentionally, in order to commit, conceal or disguise the offences referredto in Articles 2 to 12, to the extentthe Party has not made a reservationor a declaration: creating or using an invoice or any other accounting document or record containing false or incomplete information; unlawfully omitting to make a record of a payment.
+
+Article 12:
+Each State Party shall take measures, in accordance with the fundamental principles of its domestic law, to prevent corruption involving the private sector, enhance accounting and auditing standards in the private sector and, where appropriate, provide effective, proportionate and dissuasive civil, administrative or criminal penalties for failure to comply with such measures.
+3. In order to prevent corruption, each State Party shall take such measures as may be necessary, in accordance with its domestic laws and regulations regarding the maintenance of books and records, financial statement disclosures and accounting and auditing standards, to prohibit the following acts carried out for the purpose of committing any of the offences established in accordance with this Convention:
+The establishment of off-the-books accounts;
+The making of off-the-books or inadequately identified transactions;
+The recording of non-existent expenditure;
+The entry of liabilities with incorrect identification of their objects;
+The use of false documents; and
+The intentional destruction of bookkeeping documents earlier than foreseen by the law.
+
+
+Corporations and businesses often use false books to disguise bribe payments or to create slush funds for use in bribery. Thus, the international conventions also require the prohibition of activities related to false accounting. These activities may include the establishment of off-the-books accounts, the making of off-the-books or inadequately identified transactions, the recording of non-existent expenditure, the entry of liabilities with incorrect identification of their objects, the use of false documents, and the intentional destruction of bookkeeping documents. The international conventions further require their parties to provide effective, proportionate and dissuasive civil, administrative or criminal sanctions for these activities.
+
+
+Chapter 11
+
+Checklist for Monitoring Compliance‌
+
+
+During the monitoring of compliance of Istanbul Action Plan countries with the international standards for criminalisation of corruption, two key elements need to be examined: the text of legislation in force, and court decisions and statistical data on the application of legal provisions. Statistical data is particularly important in those areas where international standards do not provide a precise and detailed provision, but rely upon a qualitative description.
+When providing statistical data on investigations/prosecutions/sentences, please:
+Provide time series or data for several years in order to demonstrate trends;
+
+Ensure that the statistical data combine all available data from different law enforcement bodies and is presented in a consistent and comparable format; and
+Provide a breakdown between different categories and levels of public officials.
+
+"Offering, promising or giving"; "requesting or soliciting"; "receiving or accepting" a bribe‌
+
+Does the national criminal legislation of your country establish "offering" and "promising" an undue advantage as complete offences? If yes, how many investigations/prosecutions/sentences have been reported? If no, which cases are covered by "preparing", "attempting", "conspiring" and "complicity" to bribe? Please provide copies of relevant legal acts and detailed statistics of the application of these offences in corruption-related cases.
+Does the national criminal legislation of your country establish "requesting","soliciting","receiving" and "accepting" an undue advantage as complete offences? If yes, how many investigations/prosecutions/sentences are reported? If no, how does your national criminal legislation treat these forms of conduct? Please provide copies of relevant legal acts and relevant statistics.
+Does your national legislation establish "trading in influence", "embezzlement", "abuse of functions", and "illicit enrichment" as criminal offences? What other corruption-related offences – which may not be mandatory under the international standards – are provided for in your criminal legislation? Please provide copies of relevant legal acts and statistics on their practical application.
+
+How may the intention to commit a corruption offence be proven under the criminal legislation in your country? Can intention be inferred from objective factual circumstances, or is direct evidence (e.g. a confession) required? Does the legislation distinguish between the intention to bring about a result and whether the result in fact occurred?
+Can the offence of offering, promising or giving a bribe be proved even where the official who was bribed did not accept or was not aware of the bribe?
+
+Definition of public official‌
+
+Which categories and levels of elected and appointed public officials are covered by your criminal legislation? Which legal acts introduce the above definitions? Which of the above definitions can be used in criminal proceedings? Please provide copies of relevant legal acts. In particular:
+Does the definition of public official in your national criminal legislation cover persons who: holds a legislative, executive or administrative office; holds a judicial office, including a prosecutor; performs a public function for a public agency or public enterprise; provides a public service; or performs a public service?
+Does the definition of public official cover officials at all levels of government, including national/central, state/provincial, local/municipal, and local self governments?
+Does the definition of public official cover foreign public officials; officials of international organisation; and members of parliamentary assemblies of international or supranational organisations?
+Can it be proved that a person was a foreign public official without referring to the definition of a public official in the law of the foreign public official's country?
+
+Definition of an undue advantage‌
+
+Does the definition of an undue advantage in the criminal legislation of your country expressly include non-pecuniary and intangible advantages? If not, how are these forms of advantages covered in your legislation? Please provide copies of relevant legislation and statistical data on cases that involved non-pecuniary and intangible advantages.
+Does your national criminal or administrative legislation or any other legal acts regulate gifts to public officials? What are the main elements of the regulation? Which body/bodies are responsible for monitoring the regulation's implementation? Is there any statistical data on the implementation of the regulation?
+
+
+
+Does the bribery offence apply regardless if the company concerned was the best qualified bidder or was otherwise a company that could properly have been awarded the business?
+
+Acts of an official‌
+
+Do the corruption offences in your country's criminal legislation cover bribes given in order that an official act or omit to act in breach of the law or his/her duties? Please provide copies of the relevant legislation, case law and statistics.
+Do the corruption offences in your country cover the case where the purpose of the bribe was to obtain an impartial exercise of judgement or discretion by the official?
+Do the corruption offences in your country's criminal legislation require proof of a link between a bribe and an official's actions or omissions? Please provide copies of relevant legislation, case law and statistics.
+
+Intermediaries and third party beneficiaries‌
+
+Does your national criminal legislation expressly cover bribery though an intermediary? If no, how are these cases dealt with? Does the law criminalise a briber who uses an intermediary that is an unwitting tool and an intermediary who is complicit in the crime? Please provide a copy of the relevant legislation and any available statistics on investigations/ prosecutions/sentences of cases that involve intermediaries.
+Do the corruption offences in your national criminal legislation cover bribes provided to third party beneficiaries, including legal persons? If so, is the case covered where an agreement is reached between the briber and the official for the briber to transmit the advantage directly to a third party? Please provide a copy of the relevant legislation and any available statistics on cases that involve third party beneficiaries.
+
+Sanctions‌
+
+Does your national criminal legislation provide effective, proportionate and dissuasive sanctions for corruption offences? Please provide information about criminal sanctions established by your legislation for "giving, offering or promising a bribe"; "requesting, soliciting, receiving or accepting" a bribe; and other economic crimes. Please also provide statistics on actual sanctions that were imposed by the courts for bribery, including the type and level of sanctions that were imposed.
+Are the sanctions for corruption offences in your country sufficient to enable effective mutual legal assistance and extradition?
+
+
+Does your national criminal legislation provide for civil or administrative sanctions for corruption offences? If yes, please provide information on the sanctions available and statistics on the types and levels of sanctions that were imposed.
+
+Confiscation‌
+
+Does your national legislation contemplate the confiscation of the bribe, and the proceedsof corruption? Is confiscation mandatory? Does confiscation also cover converted proceeds and benefits derived from proceeds? Please provide copies of relevant legal acts and statistics of sanctions that have been imposed.
+Does your national legislation provide for a confiscation of equivalent value?
+Is confiscation from a third person possible, and if so, under what conditions? Please provide copies of relevant legal acts and statistics on confiscation of tools and proceeds of corruption-related offences, confiscation of equivalent value and confiscation from third persons.
+
+Defences and immunity‌
+
+Are the defences of effective regret and extortion available for all corruption offences in your country, including the bribery of foreign public officials? Please provide statistics on how often these defences have been raised in corruption cases, and how often they have succeeded. Has the media or other sources reported complaints that these or other defences have been abused?
+Which categories of officials in your country are immune from prosecution?
+Does the law clearly limit immunity to functional immunity? Are there rules and procedures for lifting immunities and for accepting or refusing a request to lift immunity? Is there a requirement to produce publicly-accessible decision and reasons for refusing to lift immunity? Please provide statistics on the number of requests to lift immunities from prosecution for corruption, and the share of positive and negative decisions.
+
+Statute of limitation‌
+
+What is the statute of limitations applicable to corruption-related offences?
+Is the limitations period the same for corruption offences committed by legal persons? Can the limitation period be interrupted, suspended or terminated? If yes, under what circumstances? Approximately how many cases of bribery could not be prosecuted because the statute of limitations had expired, despite any suspension, interruption, reinstatement, or extension of the limitation period?
+
+Responsibility of legal persons
+
+Does your national law or legal system establish criminal, civil or administrative responsibility of legal persons in relation to corruption offences? If yes, describe how liability of legal persons is applied
+(e.g. whether state-owned and state-controlled companies are covered; whether responsibility depends on a culpable act by a representative of the company; what position in the company the representative must have had; whether the individual perpetrator must have been identified, prosecuted or convicted; and whether any defences apply such as where there has been adequate supervision). Do law enforcement bodies have the same powers for investigating an offence involving a legal person as they do for offences involving a natural person (e.g. search and seizure, including the search and seizure of bank records, subpoenaing witnesses, etc.)?
+
+Special investigative techniques and bank secrecy‌
+
+Are the following special investigative techniques available for corruption- related offences: undercover operations, controlled delivery, electronic surveillance (e.g. interception of communications, listening devices, hidden cameras etc.)?
+Are financial institutions allowed to invoke bank secrecy to frustrate the investigative efforts of law enforcement?
+
+Mutual Legal Assistance (MLA)‌
+
+Is MLA in your country subject to dual criminality?
+
+Can your authorities decline to render MLA for corruption-related offences on the ground of bank secrecy?
+Can your authorities provide MLA for the purpose of non-criminal proceedings against a legal person for acts of corruption?
+How many corruption-related MLA requests have your authorities received, and how many of them have been granted? How many have been rejected and on what grounds? How many such request have your authorities made to other countries? How long has it taken for the request to be executed? How many of them were granted? How many were rejected and on what grounds?
+Does your country have a central authority for sending and receiving MLA requests? Can requests be sent directly to/from the central authority to/ from a foreign country, or must the diplomatic channel be used?
+
+Money laundering‌
+
+Has your country established money laundering as a specific criminal offence? Is bribery of domestic or foreign public officials a predicate offence
+
+
+for money laundering? If yes, please explain how your money laundering legislation has been applied where the predicate offence was active or passive bribery.
+Has your country established a financial intelligence unit (FIU)? Please list the institutions that are obliged to report suspicious transactions and describe the relation between the FIU and law enforcement authorities.
+
+Accounting and auditing‌
+
+Does your country prohibit the following activities when they are performed for the purpose of bribing national and foreign public officials or for hiding such bribery: the establishment of off-the-books accounts, the making of off- the-books or inadequately identified transactions, the recording of non- existing expenditures, the entry of liabilities with incorrect identification of their object, and the use of false documents? If so, what individuals and companies are subject to these laws and regulations? Please describe the civil, administrative or criminal sanctions for such activities.
+If accountants and auditors discover suspicions of corruption offences during the course of their work, are they obliged to report the suspicions to law enforcement authorities?
+
+Specialised authority‌
+
+Is there a specialised authority for corruption? If yes, please describe its structure, duties and rights. Does the authority include investigators and prosecutors who specialise in corruption?
+
+This Glossary explains the key elements required to classify corruption as a criminal act, according to three major international conventions: 1) the OECD Convention on Combating Bribery of Foreign Public Ofﬁcials in International Business Transactions;
+2) the Council of Europe's Criminal Law Convention on Corruption; and 3) the United Nation's Convention against Corruption.
+The speciﬁc purpose of this Glossary is to assist the countries of the OECD
+Anti-Corruption Network for Eastern Europe and Central Asia in their efforts to reform national anti-corruption criminal legislation according to the requirements of the above-mentioned conventions. The Glossary examines and elaborates on the requirements of the conventions and explains how they can be effectively introduced into the national legislation. The Glossary is also a practical tool for monitoring country compliance with the international anti-corruption conventions, as well as raising awareness of these conventions among experts in the region.
+Finally, this Glossary will be an important guide for legislators and policy makers in all countries committed to ensuring their anti-corruption legislation meets international standards. Even if a country is not a party to a particular anti-corruption convention,
+it might desire to comply with the standards of that convention to support the global ﬁght against corruption and to assure foreign investors of a business environment that includes effective anti-corruption laws.

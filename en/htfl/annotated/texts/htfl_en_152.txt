@@ -1,0 +1,9 @@
+Bioinformatic analysis of microarray data reveals several key genes related to heart failure.
+OBJECTIVES:
+Heart failure is a major public health problem worldwide. However, the molecular mechanism is still unclear. This study aims to discover differentially expressed genes (DEGs) between non-ischemic or ischemic heart failure samples and healthy control, which may be used for diagnosis and treatment of heart failure.
+MATERIALS AND METHODS:
+Gene expression profile GSE9128 was downloaded from Gene Expression Omnibus, including 3 normal samples, 4 non-ischemic heart failure samples and 4 ischemic samples. Data processing and differential analysis were carried out with packages of R. Cluster analysis was also performed for all the samples to globally observe the difference among the three groups of samples. Interactors of the DEGs were retrieved with Osprey and then networks were constructed. The overlapping part of the network was selected out using Cytoscape, for which functional enrichment analysis was applied with DAVID tools.
+RESULTS:
+A total of 293 and 133 DEGs were obtained for non-ischemic and ischemic heart failure, respectively. Two networks were established and then functional enrichment analysis revealed that "regulation of programmed cell death" was most significantly over-represented in common DEGs.
+CONCLUSIONS:
+Genes differentially expressed in non-ischemic and ischemic heart failure can be biomarkers to distinguish the two types of heart failure. Besides, these genes can be targets to develop treatments.

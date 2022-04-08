@@ -1,0 +1,637 @@
+OECD Bribery Awareness Handbook for Tax Examiners
+
+
+
+ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT
+
+
+The OECD is a unique forum where the governments of 30 democracies work together to address the economic, social and environmental challenges of globalisation. The OECD is also at the forefront of efforts to understand and to help governments respond to new developments and concerns, such as corporate governance, the information economy and the challenges of an ageing population. The Organisation provides a setting where governments can compare policy experiences, seek answers to common problems, identify good practice and work to co-ordinate domestic and international policies.
+
+The OECD member countries are: Australia, Austria, Belgium, Canada, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Korea, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Portugal, the Slovak Republic, Spain, Sweden, Switzerland, Turkey, the United Kingdom and the United States. The Commission of the European Communities takes part in the work of the OECD.
+
+
+Message from the Secretary General
+
+In today's interconnected world, corruption's damaging effects spread throughout the global economy and society far beyond where the corrupt act is committed. In order to effectively fight corruption – both at home and internationally – transparency, accountability and integrity in the public and private sectors are necessary. The OECD has been a global leader in the fight against corruption for over a decade since the adoption of the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions. Our multidisciplinary approach addresses corruption in business, taxation, development aid, and governance in member countries and beyond as part of its mission to build a stronger, cleaner and fairer world economy.
+
+In 1996, the Recommendation on the Tax Deductibility of Bribes to Foreign Public Officials in International Business Transactions was adopted. The implementation of this recommendation sent a clear message that bribery would no longer be treated as a business expense and that it is a criminal offence subject to serious penalties.
+
+Building on the 1996 Recommendation and on the experience in its application, on 25 May 2009, the Recommendation on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions was adopted. It requires countries to explicitly prohibit the tax deductibility of bribes to foreign public officials and promotes enhanced co-operation between tax authorities and law enforcement agencies both at home and abroad to counter corruption.
+
+Strengthening the legal framework to counter corruption is important, but ensuring effective and vigorous application of those laws is essential to detect, deter and prosecute corrupt practices. Thus, the OECD developed the Bribery Awareness Handbook for Tax Examiners. The handbook, first issued in 2001, provides practical guidance to help tax inspectors and investigators identify suspicious payments likely to be bribes so that the denial of deductibility can be enforced, and bribe payments detected and reported to the appropriate domestic law enforcement authorities. Given the interest in the Bribery Awareness Handbook, it has been made available in 18 languages.
+
+To mark the 10th anniversary of the entry into force of the OECD Anti-Bribery Convention, and the launch of the OECD's Initiative to Raise Global Awareness of Foreign Bribery, we have included in this publication the new OECD Recommendation on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions along with the Bribery Awareness Handbook, which remains a valuable tool for the detection of bribes by tax examiners.
+
+Angel Gurría
+OECD Secretary-General
+
+
+Recommendation of the Council on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions
+
+ANTI-CORRUPTION
+
+
+25 May 2009 - C(2009)64 THE COUNCIL,
+Having regard to Article 5, b) of the Convention on the Organisation for Economic Cooperation and Development of 14 December 1960;
+
+Having regard to the Recommendation of the Council on the Tax Deductibility of Bribes to Foreign Public Officials [C(96)27/FINAL] (hereafter the "1996 Recommendation"), to which the present Recommendation succeeds;
+
+Having regard to the Revised Recommendation of the Council on Bribery in International Business Transactions [C(97)123/FINAL];
+
+Having regard to the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions to which all OECD Members and eight non-Members are Parties, as at the time of the adoption of this Recommendation (hereafter the "OECD Anti-Bribery Convention");
+
+Having regard to the Commentaries on the OECD Anti-Bribery Convention;
+
+Having regard to the Recommendation of the Council concerning the Model Tax Convention on Income and on Capital (hereafter the "OECD Model Tax Convention") [C(97)195/FINAL];
+
+Welcoming the United Nations Convention Against Corruption to which most parties to the OECD Anti-Bribery Convention are State parties, and in particular Article 12.4, which provides that "Each State Party shall disallow the tax deductibility of expenses that constitute bribes";
+
+Considering that the 1996 Recommendation has had an important impact both within and outside the OECD, and that significant steps have already been taken by governments, the private sector and non-governmental agencies to combat the bribery of foreign public officials, but that the problem still continues to be widespread and necessitates strengthened measures;
+OECD Bribery Awareness Handbook for Tax Examiners 2009
+
+Considering that explicit legislation disallowing the deductibility of bribes increases the overall awareness within the business community of the illegality of bribery of foreign public officials and within the tax administration of the need to detect and disallow deductions for payments of bribes to foreign public officials; and
+
+Considering that sharing information by tax authorities with other law enforcement authorities can be an important tool for the detection and investigation of transnational bribery offences;
+
+On the proposal of the Committee on Fiscal Affairs and the Investment Committee;
+
+RECOMMENDS that:
+
+Member countries and other Parties to the OECD Anti-Bribery Convention explicitly disallow the tax deductibility of bribes to foreign public officials, for all tax purposes in an effective manner. Such disallowance should be established by law or by any other binding means which carry the same effect, such as:
+
+prohibiting tax deductibility of bribes to foreign public officials;
+
+prohibiting tax deductibility of all bribes or expenditures incurred in furtherance of corrupt conduct in contravention of the criminal law or any other laws of the Party to the Anti-Bribery Convention.
+
+Denial of tax deductibility is not contingent on the opening of an investigation by the law enforcement authorities or of court proceedings.
+
+Each Member country and other Party to the OECD Anti-Bribery Convention review, on an ongoing basis, the effectiveness of its legal, administrative and policy frameworks as well as practices for disallowing tax deductibility of bribes to foreign public officials. These reviews should assess whether adequate guidance is provided to taxpayers and tax authorities as to the types of expenses that are deemed to constitute bribes to foreign public officials, and whether such bribes are effectively detected by tax authorities.
+
+Member countries and other Parties to the OECD Anti-Bribery Convention consider to include in their bilateral tax treaties, the optional language of paragraph 12.3 of the Commentary to Article 26 of the OECD Model Tax Convention, which allows "the sharing of tax information by tax authorities with other law enforcement agencies and judicial authorities on certain high priority matters (e.g. to combat money laundering, corruption, terrorism financing)" and reads as follows:
+
+"Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorises such use."
+
+further RECOMMENDS Member countries and other Parties to the OECD Anti-Bribery Convention, in accordance with their legal systems, to establish an effective legal and administrative framework and provide guidance to facilitate reporting by tax authorities of suspicions of foreign bribery arising out of the performance of their duties, to the appropriate domestic law enforcement authorities.
+
+INVITES non-Members that are not yet Parties to the OECD Anti-Bribery Convention to apply this Recommendation to the fullest extent possible.
+
+INSTRUCTS the Committee on Fiscal Affairs together with the Investment Committee to monitor the implementation of the Recommendation and to promote it in the context of contacts with non-Members and to report to Council as appropriate.
+
+Reservation by New Zealand (amended on 5 June 2009) New Zealand: on Part II further RECOMMENDS
+New Zealand reserves its position on the proposal that the Council of OECD should recommend "Member countries and other Parties to the OECD Anti-Bribery Convention, in accordance with their legal systems, to establish an effective legal and administrative framework and provide guidance to facilitate reporting by tax authorities of suspicions of foreign bribery arising out of the performance of their duties, to the appropriate domestic law enforcement authorities."
+
+New Zealand has long-standing stringent taxpayer confidentiality rules that do not allow the Inland Revenue Department to exchange any information on the items covered by the proposed recommendation with domestic law enforcement authorities. It would not, therefore, seem possible for New Zealand to follow this recommendation without a substantial change in its policy settings and legislation.
+
+This policy is under active review, with a view to modification.
+
+
+Executive Summary
+
+This Handbook was developed as part of the follow up to the 1996 OECD Recommendation on the Tax Deductibility of Bribes to Foreign Public Officials C(96)27/FINAL, which has been replaced by the new Recommendation on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions C(2009)64 of May 2009. The Handbook is being re-issued with the new Recommendation as part of the OECD's Global Awareness Campaign in the fight against corruption in international business transactions.
+
+The existence of legislation denying the tax deductibility of bribes is a strong deterrent to bribery of foreign public officials. Nevertheless, the practical implementation of such legislation should not be neglected. The deterrent effect of these legislative changes depends crucially on the measures put in place to ensure that taxpayers are complying with the law.
+
+As legislation denying the tax deductibility of bribes to foreign public officials was being put in place in many countries, the Committee on Fiscal Affairs (CFA) decided to pursue its work on the implementation of such legislation by designing a manual to assist tax examiners with identifying suspicious payments likely to be bribes. The present Bribery Awareness Handbook for Tax Examiners also aims to assist countries in making their tax examiners aware of the various bribery techniques used as well as giving them the tools to detect and identify bribes of foreign public officials and bribes to public officials in the domestic context. The Handbook provides useful legal background information as well as practical tips: indicators of bribery, interviewing techniques and examples of bribes identified in tax audits. The Handbook also includes a standard form for feedback by the tax examiner to their headquarters in order to facilitate the monitoring of trends and assessing risks.
+
+Countries may wish to use this Handbook and provide it to their tax officials in the context of their training programmes. Countries may also wish to use it to design their own Handbook that could enable them to incorporate their specific circumstances. For that purpose the Handbook identifies where country-specific information can be added. The Handbook may be used as a checklist during tax examinations and can be used to promote the new Recommendation on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions. The Bribery Awareness Handbook is available in 18 languages on the OECD website.
+
+
+OECD Bribery Awareness Handbook for Tax Examiners
+
+The aim of the present Bribery Awareness Handbook for Tax Examiners is to assist countries in making their tax examiners aware of the various bribery techniques used as well as giving them the tools to detect and identify bribes of foreign public officials and bribes to public officials in the domestic context. Countries may wish to use this Handbook and provide it to their tax officials in the context of their training programmes. Countries may also wish to use it to design their own Handbook that could enable them to incorporate their specific circumstances. For that purpose the Handbook identifies where country-specific information can be added. The Handbook may also be used as a checklist during tax examinations.
+
+Background on Bribery Initiative
+
+
+The payment of bribes in international business transactions raises serious moral and political concerns and exacts a heavy economic cost, hindering the development of international trade and investment by increasing transaction costs and distorting competitive conditions. The tax treatment of bribes may add to this distortion.
+
+OECD countries and several non-Members negotiated the 1997 Convention on Combating Bribery of Foreign Public Officials in International Business Transactions. The Convention came into force on 15 February 1999. All OECD Member countries and some non-Member countries have signed this Convention. Bribery of domestic public officials is a crime in most countries. Prior to this Convention, however, the bribery of foreign public officials was not a crime under the legislation of many countries. The OECD Convention therefore represents an important step in the concerted international effort to criminalise bribery and reduce rampant corruption in world economies. It aims to stop the use of bribes to obtain international business deals and it aims to strengthen domestic anti-corruption efforts aimed at raising standards of governance and increasing civil society participation. The Convention obliges signatories to adopt national legislation that makes it a crime to bribe foreign public officials. It provides a broad definition of what is a public official, which would cover all persons exercising a public function. It requires that bribery of foreign public officials be punishable by effective, proportionate and dissuasive criminal penalties comparable to those applicable to their own public officials.
+
+In the tax area, the Committee on Fiscal Affairs (CFA), the main tax-policy body of the OECD, initiated in June 1994 a review of Member countries' tax legislation in order to identify any provisions that may indirectly encourage the bribery of foreign public officials. It agreed that where such provisions exist and where changes would effectively discourage the corruption of foreign officials, tax administrations should be encouraged to make these changes.
+In April 1996, on the proposal of the CFA, the OECD Council adopted a Recommendation on the Tax Deductibility of Bribes to Foreign Public Officials C(96)27/FINAL. This Recommendation calls on Member countries that allow the deductibility of such bribes to re-examine this policy with the intention of prohibiting such deductions. The OECD Council recognised that the trend to treat bribes to foreign public officials as illegal might facilitate such action. The Recommendation instructs the CFA to monitor its implementation and to promote it in its contacts with non-OECD Member countries. It received reinforcement from the revised Recommendation of the Council on Combating Bribery in International Business Transactions, adopted on 23 May 1997, which urged the prompt implementation by Member countries of the 1996 Recommendation. The criminalisation of bribes to foreign public officials in Member countries has very often been the condition to the amendment of the tax legislation to deny the tax deductibility of bribes in those countries concerned by the Recommendation.‌‌
+
+The 2009 Recommendation on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions further strengthens the role of tax authorities in the combat against bribery, by requiring explicit legislation to prohibit the tax deductibility of bribes and promoting enhanced cooperation between tax authorities and law enforcement agencies to counter corruption.
+
+As legislation denying tax deductibility of bribes to foreign public officials was being implemented in all the relevant countries concerned by the 1996 Recommendation, the CFA decided to pursue work in this area by creating the OECD Bribery Awareness Handbook for the Detection of Bribes to Public Officials, to assist in the identification of bribes in the course of tax examinations.
+
+Audit handbooks and audit manuals enable tax administrations to educate tax examiners on tax examinations best practices, including how to detect suspicious financial transactions that could also lead to the identification of non-deductible bribery payments. Handbooks and manuals could also include information that raises the awareness of tax examiners in the identification of transactions connected with bribery. Since many Member countries are in the process of, or are considering, designing handbooks for tax examiners, it appeared timely to consider the issues that should be addressed in such handbooks.
+
+Relevant domestic tax provision
+
+
+Countries are invited to include here a cross reference to their relevant tax legislation concerning the non tax deductibility of bribes to foreign public officials.
+
+Definition of bribery
+
+
+There are as many different definitions of corruption as there are diverse forms of corruption. Bribery is a specific form of corruption that can be defined as the voluntary giving of something of value to influence performance of official duty either by doing something improper or failing to do something they should do within the authority of their position.
+
+Obligation or not for tax examiners to report bribes identified to the criminal law enforcement authorities of their own countries
+
+
+The obligation for tax examiners to report bribes they have identified to their domestic criminal law enforcement authorities will depend on the legal system of their respective countries. In some countries the tax administration is required to give information to police, prosecution administration and to courts when the bribe concerns a case where there is suspicion of a tax crime. In other countries this is not the case. When information is in the hands of the criminal law enforcement authorities, they may pass it on to their counterpart in another country on the basis of an international agreement on mutual judicial assistance.
+
+Countries could insert here their specific rules on the obligation or not for tax examiners to report bribes identified to the criminal law enforcement authorities of their own countries.
+
+Special rules, if any, on burden of proof in case of presumption of illegal payments.
+
+Countries could insert here their specific rules on the burden of proof if they differ from the general rules on burden of proof in case of presumption of bribery.
+
+Indicators of fraud or bribery
+
+
+In order to conceal bribes, taxpayers will generally use the same techniques they use to conceal income. Tax examiners will therefore have to look for evidence of bribery in the same way as they look for evidence of fraud. Taxpayers who knowingly understate their tax liability often leave evidence in the form of identifying indicators.
+
+Indicators of fraud can consist of one or more acts of intentional wrongdoing on the part of the taxpayer with the specific purpose of evading tax. Indicators of fraud may be divided into two categories: affirmative indications or affirmative acts. No fraud can be found in any case unless affirmative acts are present. Affirmative indications serve as a sign or symptom, or signify that actions may have been done for the purpose of deceit, concealment or to make things seem other than what they are. Indications in and of themselves do not establish that a particular process was done; affirmative acts also need to be present.
+
+Affirmative acts are those actions that establish that a particular process was deliberately done for the purpose of deceit, subterfuge, camouflage, concealment, some attempt to colour or obscure events, or make things seem other than what they are. Examples include omissions of specific items where similar items are included, concealment of bank accounts, failure to deposit receipts to business accounts, and covering up sources of receipts. The indicators of fraud presented below are also relevant to identifying bribes.
+
+Indicators of fraud or bribery: Expenses or deductions
+
+Indicators of fraud or bribery may take the form of substantial overstatement of deductions or claiming fictitious deductions.
+Methods of payment
+
+Some methods employed to channel currency to public officials are presented below. These methods are by no means new, nor do they represent more than a small fraction of methods employed, but are pointed out here to emphasise the need for innovative investigative techniques to uncover instances of corruption of public officials.
+
+Exchange of funds through a legitimate business: A firm controlled by a public official pays a large sum of money to an unrelated corporation in return for fictitious invoices for alleged consulting fees. That corporation in turn makes checks payable to one of its corporate officers who then cash the checks with the aid of a bank official. The cash is returned to the first corporation's officers who include the public official.
+
+Transfer of funds through a spurious business: A bank account is opened in a fictitious name as a conduit for converting checks to cash. Invoices printed in the fictitious business name are prepared as evidence of purchases. Checks issued to the fictitious business are deposited and then currency withdrawn.
+
+Payment of campaign expense: One example of making indirect political contributions is where the campaign committee or candidate provides an unpaid bill for some campaign expense, such as for the hiring of sound trucks or for the printing of handbills, posters, etc.
+
+Indirect payments to public officials: One method of indirect payments to public officials is by way of making payments to a law firm. In this instance, the lawyer acts merely as a conduit to which checks are issued for ostensible legal services rendered. The payments are deposited to the lawyer's trust accounts and disbursements made from those accounts to the public official. This method is also used through public relations, advertising, or accounting firms.
+
+Another indirect bribe payment method is via a request of donation for a non-profit entity that is not founded for the purpose of carrying out of business activity by an official who is the member of top management of this non-profit entity.
+
+Invoicing the client for an inflated amount as compared to the actual market price: The difference between the amount received and the normal price is then paid to an intermediary without the profit of the business being affected (the difficulty lies in the identification of the intermediary who is rarely identified as such in the books of the company).
+
+An expense borne by a company and invoiced as an expense for the custody of goods or surveillance of transport of the company's goods or installation in the country where the market is realised.
+
+Intervention of an office of architects for the installation or development of local infrastructures of an enterprise. The related payments are made to accounts located in tax havens.
+
+Royalty receipts are recorded as a liability on the books of a company instead of income. The payment of the alleged liability is made before the end of the company's tax year. The payment is made to a management company located in a tax haven that allegedly earned
+the royalty income. Not recording the royalty as income or the payment to the management company as an expense on the company's books nor having a liability at year-end can make detection of a payment to a public official more difficult.
+
+Traditional audit techniques can be used to discover bribe payments. A careful scrutiny of the various accounts is required to ascertain the validity of the individual expenses and consider what specific items might lend themselves to concealment. Are there really services being performed for certain payments; and, if so, are the services commensurate with the payments being made for them? What is important to remember is that disbursements are not always what they seem to be. An effective investigation calls for more analysis to determine if the disbursement is a valid one and not just a mere conduit or means through which cash can be filtered through with the ultimate payee being a public official.
+
+Professional services
+
+All source documents behind amounts charged to Professional Services should be examined carefully for adequacy of description and explanations of services performed, as well as any unusual increases. It has been determined that many firms simply "loaded" fees relative to projects and specific cases over and above what the amount the normal billing would have been for the actual work performed. This excess billing was used to recover prearranged political payments or payments to public officials by the firms on behalf of the taxpayer. An indicator may also be the existence of large payments to consultant companies where the invoices are not very specific.
+
+Travel and entertainment expenses
+
+An examination of expense accounts has disclosed that illegal payments may be deducted under the guise of travel and entertainment. Employee expense accounts and correspondence were used to develop an itinerary of selected employees. Correspondence, as well as the Board of Directors' expense vouchers were carefully examined to determine political events, functions and travel to make political contributions. All the above sources were used to identify a date, time and place that the taxpayer was involved in illegal political activity. All travel expenses connected with each particular event were selected from source documents supplied by the taxpayer. The following categories were the prime source of the adjustments:
+
+Executive travel expenses;
+
+Charter air travel - whether by the taxpayer's employees or paid directly for travel by a political candidate;
+
+Taxpayer's private aircraft pilot expenses; and
+
+Expenses relating to various selected employees, including direct credit card charges.
+
+Indicators of fraud or bribery: Fictitious employees
+
+Payrolls may be inflated for numerous reasons including bribery. The purpose is usually the same - to get funds out of a business in the form of a deduction without the recipient paying income tax on the income. This method is commonly used where the paying enterprise is in the type of business which does not deal in cash and where money can only be taken out by check. This method could be used as a tax evasion scheme enabling the taxpayer to obtain funds needed for bribes, extortion, to pay for personal expenses or to repay gambling losses or debts to loan sharks.
+
+Another way to inflate the payroll is to have political party workers on the payroll even though the employee performs no services for the pay or company. The same technique may be used for public officials.
+
+To detect indications of fictitious employees, tax examiners should focus on payroll records. The circumstances below require special attention:
+
+If there is a suspicion or knowledge that fictitious employees are being used, then the negotiation of the check should be pursued. If checks are cashed in the same bank or through other parties, the payee may be known at the bank or by the re-endorsers.
+
+If the company provides or assists in insurance coverage pension plans, etc., employee termination records should be tested to determine whether the employee was also withdrawn from the payroll.
+
+A company may continue issuing checks to an employee who has left. Examiners should randomly select employees and compare endorsements at various times during the year.
+
+Key employees or officers may be loaned to political parties to perform various services while being paid their salary by their employer. Examiners should attempt to determine where the employees' services were performed during the payroll periods in question. An examination of expense reimbursement reports would be of assistance in determining the geographical location of the employee at a particular time. This information may serve as a basis for a follow-up interview of the employee.
+
+Some public officials have few legitimate sources of income, therefore some of them may be tempted to subsidise their income through illegal activities. These individuals will find a business willing to put them on the payroll and issue them regular payroll checks, even though the employee performs no services.
+
+The tax examiner should extend the examination to the suspected public official and trace their payroll checks to determine if any of the money was returned to the corporation. When the entity being examined is suspected of being used as a salary haven by a public official, the tax examiner should look for certain indications to support the suspicion:
+
+Determine if checks are cashed by the employer;
+
+Establish whether the employee has the qualifications to perform the function for which he/she receives the salary;
+If records indicate the employee is still on the payroll at the time of examination, the tax examiner should attempt to establish whether they are actually present on the premises; and
+
+If the employee holds a position as an outside salesman, the compliance employee should determine who the customers are and establish whether the employee actually contacts these customers.
+
+The tax examiner may need to request information from abroad when the fictitious employee is a foreign public official (see the Section below on information available from treaty partners). Some countries consider that the use of fictitious employees is less likely to occur in their domestic context due to the high level of social contributions and taxes withheld at source.
+
+Indicators of fraud or bribery: Books and records
+
+In order to detect bribes, the tax examiner should look for traditional methods of manipulating books and records, such as:
+
+Keeping two sets of books or no books;
+
+False entries or alterations made on the books and records, back-dated or post-dated documents, false invoices, false applications, statements, other false documents or applications; and
+
+Failure to keep adequate records, concealment of records, or refusal to make certain records available. etc.
+
+Indicators of fraud or bribery: Conduct of taxpayer
+
+An assessment of the behaviour of the taxpayer may also be useful to determine in particular the existence of bribes, such as:
+
+Attempts to hinder the examination; for example, failure to answer pertinent questions repeated cancellations of appointments, or refusal to provide records;
+
+Testimony of employees concerning irregular business practices by the taxpayer;
+
+Destruction of books and records, especially if just after examination was started;
+
+Payment of improper expenses by or for officials or trustees;
+
+Back-dating of applications and related documents; and
+
+Attempts to bribe the tax examiner.
+Indicators of fraud or bribery: Methods of concealment
+
+A number of methods of concealment may be used to conceal bribes, such as transactions not in the usual course of business, transactions surrounded by secrecy, false entries in books of transferor or transferee, use of secret bank accounts for income, deposits into bank accounts under nominee names and conduct of business transactions in false names.
+
+Indicators of fraud or bribery: Mandatory reporting of commissions paid and similar payments in some countries
+
+A few countries require reporting of payments of commissions, fees, and similar payments to residents and non-residents. Some countries require reporting of payments to individuals (including commissions) and this information is exchanged automatically. Other countries may have a system of withholding on such payments, which also allows tax authorities to capture information on the identity of the recipients of such payments.
+
+This mandatory reporting requires individuals or legal entities that, in the context of their business or profession, pay commissions, brokerage fees, refunds, and other fees or compensation to residents and non-residents, to declare these payments every year to the tax authorities. This obligation can apply to all legal entities whatever their purpose or activity, including public administrations at the national and local level, as well as bodies under public control. Failure to file this information may lead to the denial of the deduction of the payments made (even if the payment has actually been taxed in the hands of the recipient) and tax fines may also apply. The tax administration is therefore given a tool that enables them to analyse information provided on commissions and this can be a potential criteria to undertake a tax audit as they may reveal leads of corruption. Traditionally there is a particular surveillance of the: Occurrence of beneficiaries located in tax havens; Occurrence of high amounts paid to beneficiaries who to date received small amounts; Increase of payments and beneficiaries; Important amounts paid to lawyers abroad; and Occurrence of beneficiaries located in geographic zones where the enterprise has no activity.
+
+The mandatory reporting of payments of commissions, fees and similar payments to tax administrations, or the application of withholding on similar payments to residents and non-residents may be a tool both to ensure the taxation of recipients of such income and to provide leads for potential audits of the claimed deductions for commissions which may be non-deductible bribes. It is also useful to provide information on such payments to tax treaty partners, and in particular to promote the spontaneous or automatic exchange of information on commissions, fees and similar payments (see the Section below on information available from treaty partners).
+
+Countries requiring the reporting of commissions could insert here a cross reference to the legislation requiring it.
+
+Examination plan and compliance checks
+
+
+During the planning phase and conduct of examinations of tax returns, the supervisor of the tax examiners and the tax examiners themselves should be alert to situations that lend themselves to the creation of illegal or improper payments, such as bribes. When deemed appropriate and necessary, the examination plans should include consideration of the following compliance checks:
+
+Examine internal audit reports and related working papers to determine if any reference is made to the creation of any secret or hidden corporate fund;
+
+Review taxpayer's copy of reports filed with other governmental regulatory agencies; and
+
+Give appropriate consideration to foreign entities, operations, contractual or pricing arrangements, fund transfers, and use of tax haven locations.
+
+Information from other government agencies
+
+
+During the planning and examination of corporate entities, the supervisor of the tax examiners and tax examiners should consider what information, if any, could be requested from other Government agencies.
+
+To obtain information relating to slush funds, bribes, political contributions, and other tax-related information, tax examiners could contact other governmental agencies such as the Supervisory Body of the Stock Exchange or governmental agencies insuring foreign risk.
+
+Countries are invited to provide additional examples in their handbooks.
+
+Information available from tax treaty partners
+
+
+During the examination of corporate cases, supervisors of the tax examiners and tax examiners should also consider information they may obtain from tax treaty partners. Various legal mechanisms may be used to provide for exchange of information, for example, bilateral tax Conventions with an exchange of information article based on Article 26 of the OECD Model Tax Convention and multilateral instruments on mutual assistance in tax matters. With respect to bribery of foreign public officials, three forms of exchange of information are likely to be most relevant: exchange on request, spontaneous exchange and automatic exchange:
+Exchange on request is when one treaty partner submits to another treaty partner specific questions relating to a particular case. A request for information may therefore be useful to assist in determining the nature of a suspicious payment. It may also be possible to request to undertake a tax examination abroad and even for the foreign tax examiner to be present if the domestic legislation of the requested state allows the presence of a foreign tax official during an audit.
+
+Information exchanged spontaneously may also assist in locating a suspicious payment. In such a case, particulars detected by a foreign tax official during an audit or investigation which are likely to be of interest for tax purposes to another jurisdiction are transmitted to that jurisdiction without any prior request. The information is channelled through the competent authorities of each country.
+
+Automatic exchange involves the systematic transmittal of information regarding specific items of income (e.g., passive income, pensions). The OECD Recommendation on the use of the OECD Model Memorandum of Understanding on automatic exchange of information for tax purposes [C(2001)28] deals with automatic exchange of various kinds of tax information and makes a special reference to the need to enhance international co-operation to combat bribery of foreign public officials. In Article 2 it states that "the competent authorities shall endeavour to exchange information on commissions and other similar payments". The Recommendation also recommends that the competent authorities agree to "intensify exchange of tax information (spontaneous and on request) in the case of the following categories of income: commissions, fees, brokers' fees and other remuneration paid to natural or legal persons".
+
+Exchange of information is handled by the competent authorities for the two jurisdictions having a legal basis to exchange tax information. Direct contacts with foreign tax officials are not allowed unless a delegation of powers is specifically provided by the competent authorities. Furthermore, if the information is provided under the exchange article of a bilateral tax convention or under a specific instrument providing for exchange of information, the confidentiality provisions would block passing on the information if the criminal offence was not also a tax offence since the information may be disclosed "only to persons or authorities concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to the taxes imposed on behalf of the contracting States."
+
+Simultaneous tax examinations
+
+Simultaneous tax examinations may be another tool to identify bribes to foreign public officials. The 1992 OECD Model Agreement for the Undertaking of Simultaneous Tax Examinations states, "The main purpose of simultaneous tax examination is inter alia: To determine a taxpayer's correct liability in cases where: (...) unreported income, money laundering, kickbacks, bribes, illegal payments, etc. are identified".
+
+Member countries entering into agreements to undertake simultaneous tax examinations are reminded to use the 1992 OECD Model Agreement for the Undertaking of Simultaneous Tax Examinations which states in particular that simultaneous tax examinations may have the purpose of determining a taxpayer's correct liability in cases where kickbacks, bribes, illegal payments, etc. are identified.
+
+Countries could insert here their domestic procedure to contact the competent authority and include a reference to their guidelines on exchange of information.‌‌
+
+Examination techniques
+
+
+The purpose of this section is to provide guidelines for establishing procedures and techniques that should be used in conducting an effective examination and in particular to detect bribes. Computer based analytical programs can be useful in identifying bribe payments.
+
+Methods for accumulating evidence particularly relevant to identifying bribes:
+
+These methods include:
+
+Analytical tests – such as analysis of Balance Sheet items to identify large, unusual, or questionable accounts. Analytical tests using comparisons and relationships to isolate accounts and transactions that should be further examined or determine whether a further inquiry is not needed are useful.
+
+Documentation – such as examining the taxpayer's books and records to determine the content, accuracy, and to substantiate items claimed on the tax return.
+
+Inquiry – such as interviewing the taxpayer or (when legally possible) third parties. Information from independent third parties can confirm or verify the accuracy of information presented by the taxpayer.
+
+Testing – such as tracing transactions to determine if they are correctly recorded and summarised in the taxpayer's books and records.
+
+Interviews
+
+
+Purpose
+
+To the extent they are permitted by law during tax examinations, interviews provide information about the taxpayer's financial history, business operations, and books and records. Interviews are used to obtain information needed to reach informed judgements about the scope/depth of an examination and the resolution of issues. Interviews are also used to obtain leads, develop information, and establish evidence.
+
+Oral testimony is a significant factor in resolving tax cases and particularly in identifying bribes, as it can provide information not otherwise available from physical documentation and provide relevant information not reflected in the tax return.
+Who to interview
+
+Interviews to detect fraud as well as bribes should always be held with the persons having the most knowledge concerning the total financial picture and history of the person or entity being examined, such as the chief executive officer, chief financial officer, officer in charge of international operations, officer in charge of governmental activities, directors who are not corporate officers but who serve on audit committees or have similar responsibilities, and others, as appropriate.
+
+Documenting interviews
+
+After the interview, tax examiners may prepare a memorandum of the interview indicating the date, time, place, and persons present as well as what transpired at the interview. The tax examiner should sign and date the memorandum. The memorandum should be included in the case file. This may be useful for the tax examination and if the tax examiner has a legal obligation to inform the relevant prosecuting authorities of cases of bribery.
+
+Interview techniques
+
+Special attention should be given to interview techniques. It is important that the tax examiner(s) always maintain control of the interview and even more so when they suspect bribes. Examiners should establish the pace and direction of the interview. It is also important to continually assess whether the taxpayer is leading to pertinent information or merely rambling.
+
+Question construction
+
+To interview the taxpayer four types of questions can be asked: open-ended, closed-ended, probing and leading. It will be up to the tax examiner to decide which type of questions are the most appropriate in order to detect illegal payments and/or bribes.
+
+Type Description
+Open-ended questions	
+Questions are framed to require a narrative answer. They are designed to obtain a history, a sequence of events or a description. Ask open-ended questions about the taxpayer's business. The advantage of this type of question is that it provides a general overview of some aspect of the taxpayer's history. The disadvantage is that this type of question can lead to rambling.
+Close-ended questions	
+Questions are more appropriate for identifying definitive information such as dates, names, and amounts. These questions are specific and direct. Ask close-ended questions for background information such as payments to public officials. Close-ended questions are useful when the taxpayer has difficulty giving a precise answer. They are also useful to clarify a response to an open-ended question. The disadvantage to close-ended questions is that the response is limited to exactly what is asked and can make the taxpayer uncomfortable.
+
+Type Description
+Probing questions	Probing questions combine the elements of open and closed-ended questions. They are used to pursue an issue more deeply. For example, when questioning a taxpayer's consulting expense, ask, "What is the business purpose of this expense?" The advantage of this type of question is that the taxpayer's response is directed but not restricted.
+Leading questions	Leading questions suggest that the interviewer has already drawn a conclusion or indicate what the interviewer wants to hear. Limit the use of leading questions. Use them when looking for confirmation, since the answer is stated in the form of a question. For example: "So you did not keep invoices for your consulting expenses?"
+
+Countries could insert here a cross reference to their domestic rules on interviews with taxpayers during tax examinations.
+
+Evaluating the taxpayer's internal controls
+
+
+Internal Controls are defined as the "taxpayer's policies and procedures to identify, measure and safeguard business operations and avoid material misstatements of financial information". An evaluation of a taxpayer's internal controls is necessary to determine the reliability of the books and records which is relevant in particular when there is suspicion of fraud or suspicious payments. It is essential to evaluate internal controls to determine the appropriate audit techniques to be used during the examination.
+
+Key steps for evaluating internal controls
+
+The evaluation of internal controls can be described as an analysis completed by the tax examiner to understand and document the entire business operation. The key steps of the evaluation process are to understand the control environment, the accounting system and the control procedures.
+
+Control environment
+
+The first area tax examiners must understand is the control environment of the business. The control environment is made up of many factors that affect the policies and procedures of the business. Factors such as management philosophy, management operating style, organisational structure, personnel policies and external influences affecting the business all may indicate potential bribery. To make an assessment of the control environment, examiners must understand, in detail, how the business operates.
+Accounting system‌
+
+The second key area of internal control that examiners must understand is the accounting system. Gaining knowledge of the accounting system provides information about many of the taxpayer's transactions.
+
+Examiners must acquire knowledge of how the business operates on a daily basis with respect to customers, suppliers, management, sales, work performed, pricing, location, employees, assets used, production and record keeping.
+
+Control procedures
+
+Control procedures are the policies and procedures established by management to achieve the objectives of the business. The control procedures are the methods established to assure that the business operates as intended. Separation of duties is the primary control procedure that should concern tax examiners. If properly executed, separation of duties will reduce the opportunity for any person to perpetrate and conceal errors or irregularities made; for instance, in order to pay bribes in the normal course of their duties.
+
+Special examination procedures
+
+
+In selecting the in-depth probes to be included and identifying the procedures to be used, the supervisor of the tax examiner should keep in mind the purpose of the probe, depth to be achieved, and how the probe is to be controlled.
+
+The specific objective of the in-depth probe should be well defined in the Special Examination case plan. For example, the objective of a particular in-depth probe could be the identification of payments to public officials. The probe should be directed toward the account or accounts most likely to include transactions with businesses, which historically have a high probability of bribe payments.
+
+Bribes can be found in any business sector. Bribes have often been discovered in industries where technical know-how is a key element. Another common aspect may be the need to obtain a governmental permit in order to operate. Some of these industries are oil exploration, construction and manufacturing. Some examples include infrastructure investments in telecommunications and construction of power stations. An example of a bribe payment in the oil exploration industry is provided below:
+
+Officers of a corporation involved in the exploration and production of crude oil and natural gas authorised payments to its foreign subsidiary's business agent who passed on the payments to foreign government officials to induce favourable government decisions for its foreign subsidiary. These payments were disguised by documenting and recording the payments as purchases and repairs of equipment.
+Slush funds
+
+This section provides auditing techniques and compliance checks to help identify and examine corporate "slush funds" or any other schemes which may be used to circumvent the tax laws or pay bribes to public officials. These schemes to create secret slush funds and to intentionally misrepresent corporate taxable income are of great concern to a country's tax laws.
+
+Definition
+
+Corporate slush funds are accounts or groups of accounts generally created through intricate schemes outside of normal corporate internal controls for the purpose of making political contributions, bribes, kickbacks, personal expenditures by corporate officials and other illegal activities. Top level corporate officers are generally involved and the schemes are carried out by various transactions through the use of both domestic and foreign subsidiaries.
+
+Examples
+
+The usual practice in schemes operating in the foreign arena is for the domestic parent corporation to use a foreign subsidiary, a foreign consultant, or a foreign bank account to "launder" funds so that cash could be generated and repatriated back to the domestic parent to provide a slush fund for payments to domestic public officials. The funds would not be repatriated of course if the payment were made to a foreign public official.
+
+Slush fund generated by rebates from a foreign legal consultant: The foreign legal consultant, who also performed legitimate consulting services for the domestic corporation, over bills the company and then transfers the money back to the treasurer in cash.
+
+Officers and/or key employees are paid additional compensation based on their promise that they will contribute either a percent of the bonus or the net amount (net of income taxes) as a political payment or bribe payment.
+
+Corporate over-capitalisation: Real or personal property is acquired by the business entity for more than fair market value. The excess is rebated or "kicked back" and used by the promoter of the scheme to make the contribution to the political organisation or the payment to the public official.
+
+Contributions are paid to law firms which act as conduits by depositing the funds in trustee accounts from which they are disbursed to the political campaign committee designated by officers of the contributing corporation or to a public official.
+
+Procedures for identifying improper payments to corporate officials
+
+There are also direct questions that may be asked by a tax examiner in order to identify bribes. In every case the supervisor of the tax examiner will determine whether or not to ask selected corporate officials, key employees, and other individuals questions 1 through 5 in
+Exhibit 1. In situations where these questions were answered in a prior examination, the guidelines in Exhibit 2 should be considered in determining whether the questions should be asked in subsequent years.
+
+Additional questions may be asked when warranted by any response to any question or by the facts and circumstances in a particular case; however, consideration should be given to obtaining the assistance of Tax Counsel in developing such questions.
+
+The individuals selected for questioning should be those present or former employees or directors who would be likely to have or have had sufficient authority, control or knowledge, of corporate activities to be aware of the possible misuse of corporate funds. This would include, for example, the chief executive officer, the chief financial officer, the officer in charge of international operations, the officer in charge of governmental activities, the directors who are not corporate officers but who serve on audit committees or have similar responsibilities, and others, as appropriate.
+
+It should be clearly understood by the individual selected for questioning that the term "corporation" includes the taxpayer under examination, any subsidiary, parent, or affiliated corporation, and any joint venture, partnership, trust, or association in which such corporation has an interest. The individual being questioned should be advised as to the years to which the questions relate.
+
+The years for which the questions should be asked are to be determined on a case by case basis.
+
+The method of proposing the questions, timing of oral responses, and timing of the receipt of the written and attested answers will be determined by the supervisor of the tax examiner.
+
+If any individual refuses to answer any of the tax examiner's questions or refuses to confirm a written statement by oath or affirmation, an injunction could be issued if legally possible to that individual and testimony obtained.
+
+When any of these questions are answered in the affirmative, all details surrounding the transaction should be secured. Responses to all questions will be reviewed along with all other available information. If further clarification is required, follow-up interviews will be conducted.
+
+Questionnaire for use in examinations (provided it is possible under domestic law)
+
+The following questions can be first submitted in connection with an examination of the corporation's tax liabilities:
+
+You may state your position with the corporation and your particular area of responsibility. However, the questions are not limited to knowledge acquired in the course of your official responsibility, but should be answered on the basis of your knowledge, belief, and recollection from whatever source.
+You should state under the penalties of perjury1 that you believe your answers to be true and correct as to every material matter. You may provide explanatory details with your answers. If you are unsure whether a particular transaction comes within the scope of the question, you may discuss the matter with the tax examiner. If, after the discussion, you believe that any answer requires qualification, you should state clearly the nature of the qualification.‌
+
+(N.B.: If the tax examiner concludes that any qualification is ambiguous or unreasonable, or if the response to any question requires further information, the examiner may submit additional questions to you for response.)
+
+All references to corporation herein shall include not only the particular corporation referred to, but any subsidiary, parent, or affiliated corporation, and any joint venture, partnership, trust, or association in which such corporation has an interest.
+
+Exhibit 1: Questionnaire for use in examinations
+
+
+
+During the period from to , did the corporation, any corporate officer or employee, or any other person acting on behalf of the corporation, make, directly or indirectly, any bribe, kickback, or other payment of a similar or comparable nature, whether lawful or not, to any person or entity, private or public, domestic or foreign, regardless of form, whether in money, property, or services, to obtain favourable treatment in securing business or to obtain special concessions, or to pay for favourable treatment for business secured or for special concessions already obtained?
+
+During the period from to , were corporate funds, or corporate property of any kind, donated, loaned, or made available, directly or indirectly, for the benefit of, or for the purpose of opposing, any government or subdivision thereof, political party, political candidate, or political committee, whether domestic or foreign?
+
+During the period from to , was any corporate officer, employee, contractor, or agent compensated, directly or indirectly, by the corporation, for time spent or expenses incurred in performing services, for the benefit of, or for the purpose of opposing, any government or subdivision thereof, political party, political candidate, or political committee, whether domestic or foreign?
+
+During the period from to , did the corporation make any loan, donation, or other disbursement, directly or indirectly, to any corporate officer or employee, or any other person, for contributions made or to be made, directly or indirectly, for the benefit of, or for the purpose of opposing, any government or subdivision thereof, political party, political candidate, or political committee, whether domestic or foreign?
+
+During the period from to , did the corporation, or any other person or entity acting on its behalf, maintain a bank account, or any other account of any kind, whether domestic or foreign, which account was not reflected in the corporate books and records, or which account was not listed, titled, or identified in the name of the corporation?
+
+Penalties for perjury may not exist under such circumstances in all legal systems
+Exhibit 2: Guidelines for the use of the corporate slush fund questionnaire in subsequent year examinations‌
+
+
+In prior examinations, the questions have been most productive in cases involving multinational corporations having significant foreign activities. The following factors should be considered in determining whether questions should be asked in subsequent years: Whether in the past the corporation made improper payments or was involved in any slush fund activity; Current information indicating existence of or a strong probability of improper payments or slush fund activity; Whether competitors or others in the same industry are known to have made improper payments or had slush fund activity; The extent of controls maintained by the corporation to prevent improper payments or establishment of slush funds; The extent of verification by the corporation's internal auditors and/or external auditors concerning the use of improper payments or establishment of slush funds; Effective corporate policy concerning improper payments or establishment of slush funds; Whether corporation produces products which are sold in a very competitive market, especially products which are under stringent government controls; Whether the corporation has significant transactions with governments at all levels, whether foreign or domestic, or has activities with foreign quasi-government organisations; Whether the corporation has a foreign entity operating in an autonomous manner with little or no direct control by the domestic parent; Whether the corporation has made a substantial acquisition or there has been a substantial change in ownership, management or the type of business conducted by the corporation; Whether the examination reveals any attempts to conceal apparent improper activities or uncovers situations involving unusual approvals that bypass normal channels; and Any other factors where, in the opinion of the supervisor of the tax examiner, the use of the questions might be appropriate.
+
+In considering whether the questions are to be asked, no single factor or combination of factors is determinative. The judgement whether to ask the questions shall be based on the supervisor of the tax examiner's sound discretion considering the guidelines as a whole. The reasons for asking or not asking the questions should be fully explained in the tax examiner's working papers.
+Monitoring bribes: Standard form for tax examiners to report bribes identified to their headquarters
+
+
+Tax administrations may wish to set up a monitoring system of bribes identified during tax examinations in their Central Audit Department. Tax examiners could send the information collected on bribes identified in order to build a data base that could be used for statistics purposes as well as for identifying trends and to assist in the audit plan. The form provided here is proposed to ease the reporting system. It can be adapted to country needs and specificities.
+Form for tax examiners to report bribes identified to their headquarters‌
+
+
+(Attachments are optional with this report)
+
+Section I Case Control:
+
+1a. Action: Initiate Update
+
+1b. Report Type: Payer Recipient
+
+1c. Name, TIN and Address of Payer or Recipient:
+
+1d. Case Number:
+
+1e. Entry Date (dd/mm/yyyy):
+
+Section II Recipient of Report: (to be filled by the country's central tax department monitoring bribery payments)
+
+2a. Contact Person:
+
+2b. Address:
+
+2c. Telephone Number:
+
+2d. Fax Number:
+
+2e. E-Mail Address:
+
+Section III Source of Report:
+
+3a. Contact Person:
+
+3b. Address:
+
+3c. Telephone Number:
+
+3d. Fax Number:
+
+3e. E-Mail Address:
+Section IV Case Identification:
+
+Payer Recipient
+
+4a. Country:
+
+4b. Industry: Manufacturing, construction etc. 4c. Size of business (Assets):
+4d. Title (Officer, official, etc.): 4e. Tax year(s) affected:
+4f. Violation(s) under investigation Civil Criminal
+
+To be determined
+
+4g. Briefly describe violation(s)
+
+4h. Method of bribe payment:
+(Cash, property, payment greater than fair market value of goods or services, etc.)
+
+4i. Value of Bribe (indicate Currency)
+
+4j. Value of tax due to violation (indicate Currency): Civil
+
+Criminal
+Report on Bribery
+
+
+Section V Detection Method:
+
+Payer Recipient
+
+5a. Omitted Income:
+
+5b. False Business Expense:
+
+5c. False or altered Statement, document, invoice:
+
+5d. False book entries, double set of books:
+
+5e. Analytical tests, Interviews, etc.:
+
+5f. Bank Account/Fund:
+
+5g. Fictitious employees
+
+5h. Money laundering / Currency violations
+
+5i. Mandatory reporting of payments (Commissions, consultants, royalties etc.)
+
+5j. Information from other governmental agencies
+
+5k. Information from Treaty Partners (see Sec VII)
+
+5l. Other:
+
+5m. Tax Havens (yes/no) Country
+
+Briefly describe method of detection
+
+Section VI Case Status:
+
+Current Status: Payer Recipient
+
+6a. Open 6c. Open
+
+6b. Closed 6d. Closed
+
+Briefly describe status
+Section VII Exchange of Information with treaty partner:
+
+Was there an exchange of information? 7a. Yes 7b. No
+
+7c. If yes, indicate whether the information was provided: 7d. following a request
+7e. Spontaneously
+
+7f. Automatically
+
+7g. Country which provided the information:
+
+Key OECD anti-corruption documents The OECD Fights Corruption – online brochure: www.oecd.org/corruption/overview OECD Anti-Corruption website: www.oecd.org/daf/nocorruption‌
+
+International legally binding instrument
+
+
+OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions
+
+Other legal instruments adopted by the OECD Council
+
+
+2009 Recommendation on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions
+
+2008 Recommendation on Enhancing Integrity in Public Procurement 2006 Recommendation on Bribery and Officially Supported Export Credits
+2003 Recommendation for Managing Conflict of Interest in the Public Service 2000 OECD Guidelines for Multinational Enterprises
+1998 Recommendation on Improving Ethical Conduct in the Public Service
+
+1997 Revised Recommendation of the Council on Combating Bribery in International Business Transactions (Under review)
+
+Guidelines and tools
+
+
+OECD Risk Awareness Tool for Multinational Enterprises in Weak Governance Zones Public Sector Integrity: A Framework for Assessment
+OECD Principles for Integrity in Public Procurement Managing Conflict of Interest in the Public Sector: A Toolkit
+Managing Conflict of Interest in the Public Service: OECD Guidelines and Country Experiences
+Checklist for Enhancing Integrity in Public Procurement
+
+Declarations and statements
+
+
+2009 Policy Statement on Bribery in International Business Transactions
+
+2007 Rome Statement on a Shared Commitment to Fight against Foreign Bribery 2005 Paris Declaration on Aid Effectiveness
+
+Publications
+
+
+Typologies on the Role of Intermediaries in International Business Transactions Bribery in Public Procurement: Methods, Actors and Counter-Measures Integrity in Public Procurement: Good Practice A to Z
+Lobbyists, Governments and Public Trust: Building a Legislative Framework for Enhancing Transparency and Accountability in Lobbying
+
+Specialised Anti-Corruption Institutions: Review of Models Corruption: Glossary of International Criminal Standards Fighting Bribery in Public Procurement in Asia and the Pacific Asset Recovery and Mutual Legal Assistance in Asia and the Pacific Managing Conflict of Interest in Asia and the Pacific Joint Learning Studies in the MENA Region: Enhancing Integrity in Public Procurement Learning Study on Morocco
+
+Phase 1 & Phase 2 Country Monitoring Reports on Implementation of the OECD Anti-Bribery Convention
+
+OECD Bribery Awareness Handbook for Tax Examiners
+
+The Bribery Awareness Handbook, first issued in 2001, provides practical guidance to help tax inspectors and investigators identify suspicious payments likely to be bribes so that the denial of deductibility can be enforced, and bribe payments detected and reported to the appropriate domestic law enforcement authorities.
+
+The 2009 OECD Recommendation on Tax Measures for Further Combating Bribery of Foreign Public Officials in International Business Transactions will further strengthen the role of tax authorities in the combat against bribery, as it requires explicit legislation to prohibit the tax deductibility of bribes and promotes enhanced cooperation between tax authorities and law enforcement agencies to counter corruption.
+
+To mark the 10th anniversary of the entry into force of the OECD Anti-Bribery Convention, and to contribute to the newly launched global awareness-raising campaign to counter foreign bribery, the OECD has reissued the handbook, including the new recommendation.
+
+Other useful tools
+
+Money Laundering Awareness Handbook for Tax Examiners and Tax Auditors
+
+OECD Manual on the Implementation of Exchange of Information for Tax Purposes
+
+Tax Co-operation 2009: Towards a Level Playing Field - 2009 Assessment by the Global Forum on Transparency and Exchange of Information 
+
+Centre for Tax Policy and Administration This handbook is available in 18 languages

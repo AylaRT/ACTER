@@ -1,0 +1,16 @@
+Association entre le statut nutritionnel et la sévérité de la maladie chez des patients ambulatoires atteints d'insuffisance cardiaque chronique avec fonction systolique diminuée
+Introduction et but de l'étude
+
+La dénutrition peut être fréquente (8 à 42 %) chez les patients hospitalisés, atteints d'insuffisance cardiaque (IC), à fraction d'éjection ventriculaire gauche (FEVG) réduite. L'impédancemétrie corporelle bioélectrique (ICB) est une méthode recommandée pour mesurer la composition corporelle. L'objectif de cette étude était de déterminer le statut nutritionnel et la composition corporelle d'un collectif ambulatoire de patients atteint d'IC à FEVG réduite et d'associer ces données aux marqueurs de sévérité de l'IC (FEVG, classe de la New York Heart Association [NYHA]).
+
+Matériel et méthodes
+
+Des patients atteints d'IC chronique, avec une FEVG ≤ 35 %, suivis en consultation ambulatoire ont été inclus pendant 3 mois. Tous les patients étaient médicalement stables. L'évaluation nutritionnelle (indice de masse corporelle [IMC], perte de poids) incluait une mesure de la composition corporelle par ICB. La dénutrition était définie par un IMC < 20 ou une perte de poids supérieure ou égale à 5 % en un an. La masse non grasse était ajustée à la taille pour déterminer l'indice de masse non grasse (IMNG).
+
+Résultats et analyse statistique
+
+Cinquante-deux patients ont été inclus (45 hommes, 66,4 ± 13,5 ans, FEVG 25,9 ± 6,3 %, 5,1 ± 4,8 ans depuis le diagnostic d'IC, 50 % ischémique). Un patient (homme, 68 ans, FEVG 20 %) avait un IMNG faible (16,0). Aucune association n'a été trouvée entre le statut nutritionnel et les marqueurs de sévérité de l'IC (Tableau 1).
+
+Conclusion
+
+Un seul patient avait les critères de dénutrition. Bien que l'évaluation nutritionnelle soit nécessaire pour détecter les patients à risque de dénutrition, les patients atteints d'IC ambulatoires, et médicalement stables, semblent à faible risque de dénutrition. Aucune association n'a été détectée entre les indicateurs du statut nutritionnel et la sévérité de l'IC, probablement du fait du faible nombre de patients inclus.

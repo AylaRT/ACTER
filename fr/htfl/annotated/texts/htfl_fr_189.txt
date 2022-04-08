@@ -1,0 +1,12 @@
+Tests de marche progressive et marche de six minutes pour l'évaluation de la capacité fonctionnelle dans l'insuffisance cardiaque chronique
+
+Historique
+Le test de marche progressive présente certains avantages théoriques par rapport au test de marche de six minutes dans l'insuffisance cardiaque chronique (ICC), y compris une meilleure standardisation et une dépendance moindre à l'égard de l'aspect collaboratif.
+Objectifs
+La présente étude a évalué la reproductibilité entre test et retest, la précision des tests à prédire la consommation d'oxygène de pointe (VO2) de 14 mL/kg/min ou moins, de même que la valeur pronostique des deux tests de marche chez des insuffisants cardiaques stables.
+Méthodes
+Soixante-trois patients (44 hommes; classe II à IV de la New York Heart Association) ont subi une épreuve d'effort progressive sur tapis roulant et un autre jour, ils ont subi le test de marche dupliqué.
+Résultats
+Les patients ont montré une capacité fonctionnelle bien préservée, selon la distance parcourue lors des deux tests (test de marche de six minutes 491 ± 94 m contre test de marche progressive 422 ± 119 m; P < 0,001). À noter : la différence entre le test de six minutes et le test progressif pour ce qui est de la distance parcourue a été plus marquée chez les patients plus incapacités. Le biais moyen ± IC à 95% pour les différences entre les deux tests du même type a été similaire (7 ± 40 m et 8 ± 45 m, respectivement). La VO2 de pointe, et non la distance parcourue lors de l'un ou l'autre test, a été associée à la survie (P < 0,05).
+Conclusions
+Chez des insuffisants cardiaques chroniques, le test de marche progressive a donné lieu à une reproductibilité et à une précision similaires pour ce qui est d'estimer la VO2 de pointe, comparativement à la marche de six minutes. La mesure directe de la VO2 de pointe reste par contre supérieure aux deux tests pour ce qui est de prédire la survie, du moins chez les patients qui présentent une capacité fonctionnelle bien préservée.

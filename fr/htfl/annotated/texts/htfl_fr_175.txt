@@ -1,0 +1,10 @@
+L'insuffisance mitrale, la morbidité et la mortalité en cas de dysfonction ventriculaire gauche
+
+Historique
+On sait que l'insuffisance mitrale se produit dans une proportion substantielle de patients atteints d'insuffisance cardiaque. Son lien avec la morbidité et la mortalité est peu décrit.
+Méthodologie
+On a procédé à l'examen rétrospectif du taux de mortalité et des hospitalisations imputables à l'insuffisance cardiaque chez des patients qui avaient subi une échocardiographie de départ dans le cadre de l'essai de prévention et de traitement SOLVD des études du dysfonctionnement ventriculaire gauche. On a évalué la présence et le stade d'insuffisance mitrale et comparé les patients atteints et non atteints d'insuffisance mitrale.
+Résultats
+Les patients atteints d'un dysfonctionnement ventriculaire gauche et d'insuffisance mitrale ont vu leur risque de décès ou d'hospitalisation en raison d'une insuffisance cardiaque plus que doubler sur une période de deux ans (RR 2,38, 95% IC 1,43 à 3,97). Ce risque excédentaire persistait après rajustement, compte tenu de la gravité de l'insuffisance cardiaque, de l'étiologie et des différences de traitement (RR 1,82, 95% IC 1,04 à 3,17; p = 0,04). La présence d'insuffisance mitrale modérée par rapport à l'absence d'insuffisance s'associait à un risque interdépendant encore plus élevé (RR 2,20, 95% IC 1,01 à 4,80; p = 0,05). Les résultats étaient compatibles avec l'analyse binaire et ordinale d'insuffisance mitrale
+Conclusion
+La présence d'insuffisance mitrale chez les patients atteints d'un dysfonctionnement ventriculaire gauche s'associe de manière indépendante à des issues négatives, y compris des décès et des hospitalisations attribuables à l'insuffisance cardiaque. Ce phénomène a des répercussions cliniques potentielles d'importance pour évaluer et prendre en charge les patients atteints d'insuffisance cardiaque.

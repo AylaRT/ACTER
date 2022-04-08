@@ -1,0 +1,13 @@
+Facteurs de risque de mortalité après chirurgie de l'aorte abdominale
+
+But de l'étude : Analyser l'importance relative des variables pré- et peropératoires lors de la chirurgie de l'aorte abdominale sur la mortalité périopératoire en dehors de l'urgence.
+
+Type d'étude : Étude prospective.
+
+Patients : Au total 658 patients consécutifs opérés de l'aorte abdominale de janvier 1993 à juillet 1997.
+
+Méthodes : Les variables préopératoires suivantes ont été recueillies : âge, sexe, HTA, antécédents de revascularisation coronaire, antécédent d'infarctus, symptomatologie d'angor, diabète, AC/FA, insuffisance cardiaque, créatininémie > 150 μmol·L–1, BPCO, traitement par ß-bloquants, inhibiteurs calciques et IEC. Les variables peropératoires suivantes ont été colligées : type de chirurgie (anévrisme versus sténose), durée de la chirurgie, pertes sanguines, voie d'abord (médiane versus lombotomie), hémoglobine à la sortie du bloc opératoire. L'hémoglobine peropératoire était monitorée et les malades étaient transfusés si elle était inférieure à 80 g·L–1. Des analyses univariée et multivariée ont été effectuées.
+
+Résultats : Trente-trois patients sont décédés après chirurgie aortique (5 %). Les principaux paramètres significatifs étaient l'angor (OR = 5,47, P < 0,001), la BPCO (OR = 2,27, P < 0,05), la durée de l'intervention (OR = 1,60, P < 0,001). L'âge et les pertes sanguines n'étaient des facteurs prédictifs qu'en analyse univariée. L'hémoglobinémie à la sortie du bloc opératoire était de 96 ± 3 g·L–1 et n'était pas un facteur prédictif.
+
+Conclusion : Les deux facteurs préopératoires prédictifs de mortalité sont l'angor et la BPCO. Le seul facteur peropératoire indépendant est la durée de l'intervention. Les pertes sanguines correctement monitorées et compensées ne semblent pas constituer un facteur indépendant.

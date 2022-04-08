@@ -1,0 +1,20 @@
+La testostérone améliore la fonction cardiaque et altère les récepteurs à l'angiotensine II dans l'insuffisance cardiaque induite par l'isoprotérénol
+Justification
+
+Le système rénine-angiotensine-aldostérone joue un rôle important dans la physiopathologie et l'apparition de l'insuffisance cardiaque. De nombreuses études ont rapporté les bénéfices de l'administration de testostérone dans l'insuffisance cardiaque. Cependant, les mécanismes des essais induits par la testostérone dans l'insuffisance cardiaque sont mal connus.
+
+Objectif
+
+Déterminer les effets de la castration et de l'administration de testostérone sur la fonction cardiaque et les récepteurs à l'angiotensine II dans un modèle expérimental de rats avec induction d'une insuffisance cardiaque par l'isoprotérénol.
+
+Méthode
+
+Les rats Wistar ont été divisés de façon randomisée en groupe témoin et en groupe insuffisance cardiaque. Le groupe insuffisance cardiaque a été divisé secondairement en sous-groupes : castration ; castration + substitution testostérone ; et castration sham. L'évaluation échocardiographique et hémodynamique de la fonction cardiaque a été effectuée. L'apoptose et la fibrose ont été déterminées en utilisant la transferase déoxyribonucléotide terminale : (TUNEL) et la coloration trichrome Masson respectivement. L'expression des ARM messagers des récepteurs de l'angiotensine II (AT1 et AT2) a été évaluée en utilisant les techniques de PCR sur la transcriptase-polymerase reverse, alors que l'immuomarquage Western a été utilisé pour évaluer les niveaux d'expression de la protéine Bcl-2.
+
+Résultats
+
+La castration augmente de façon significative l'apoptose des cardiomyocytes ainsi que la fibrose induit par l'isoprotérénol (p < 0,05). L'expression des ARN messager du récepteur à l'angiotensine 2 AT2 dans le groupe castration est augmentée alors que l'expression de la protéine Bcl-2 est diminuée, comparativement au groupe castration + administration de testostérone (p < 0,05).
+
+Conclusion
+
+Ces résultats suggèrent que la thérapie androgénique pourrait jouer un rôle important dans les modifications physiopathologiques observées dans l'insuffisance cardiaque et avoir des effets bénéfiques pour son traitement.

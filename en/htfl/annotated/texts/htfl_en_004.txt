@@ -1,0 +1,8 @@
+Treatment of anemia in patients with heart disease: a clinical practice guideline from the American College of Physicians.
+Description: The American College of Physicians (ACP) developed this guideline to present the evidence and provide clinical recommendations on the treatment of anemia and iron deficiency in adult patients with heart disease.
+
+Methods: This guideline is based on published literature in the English language on anemia and iron deficiency from 1947 to July 2012 that was identified using MEDLINE and the Cochrane Library. Literature was reassessed in April 2013, and additional studies were included. Outcomes evaluated for this guideline included mortality; hospitalization; exercise tolerance; quality of life; and cardiovascular events (defined as myocardial infarction, congestive heart failure exacerbation, arrhythmia, or cardiac death) and harms, including hypertension, venous thromboembolic events, and ischemic cerebrovascular events. The target audience for this guideline includes all clinicians, and the target patient population is anemic or iron-deficient adult patients with heart disease. This guideline grades the evidence and recommendations using the ACP's clinical practice guidelines grading system.
+
+Recommendation 1: ACP recommends using a restrictive red blood cell transfusion strategy (trigger hemoglobin threshold of 7 to 8 g/dL compared with higher hemoglobin levels) in hospitalized patients with coronary heart disease. (Grade: weak recommendation; low-quality evidence)
+
+Recommendation 2: ACP recommends against the use of erythropoiesis-stimulating agents in patients with mild to moderate anemia and congestive heart failure or coronary heart disease. (Grade: strong recommendation; moderate-quality evidence)

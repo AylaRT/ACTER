@@ -1,0 +1,9 @@
+Reasons for not prescribing guideline-recommended medications to adults with heart failure.
+BACKGROUND:
+Little is known about how often contextual factors such as patient preferences and competing priorities impact prescribing of guideline-recommended medications, or about the extent to which these factors are documented in medical records and available to performance measurement systems.
+METHODS:
+Mixed-methods study of 295 veterans aged 50 years and older in 4 VA health care systems who had systolic heart failure and were not prescribed a β-blocker and/or an angiotensin converting enzyme inhibitor or angiotensin-receptor blocker. Reasons for nontreatment were identified from clinic notes and from interviews with 62 primary care clinicians caring for these patients. These reasons were classified using a published taxonomy.
+RESULTS:
+Among 295 patients not receiving guideline-recommended drugs for heart failure, chart review identified biomedical reasons for nonprescribing in 42%-58% of patients and contextual reasons in 11%-17%. Clinician interviews identified twice as many reasons for nonprescribing as chart review (mean 1.6 vs. 0.8 reasons per patient, P<0.001). In these interviews, biomedical reasons for nonprescribing were cited in 50%-70% of patients, and contextual reasons in 64%-70%. The most common contextual reasons were comanagement with other clinicians (32%-35% of patients), patient preferences and nonadherence (15%-24%), and clinician belief that the medication is not indicated in the patient (12%-20%).
+CONCLUSIONS:
+Contextual reasons for not prescribing angiotensin converting enzyme inhibitor / angiotensin-receptor blockers and β-blockers are present in two thirds of patients with heart failure who did not receive these medications, yet are poorly documented in medical records. The structure of medical records should be improved to facilitate documentation of contextual reasons for not providing guideline-recommended care.

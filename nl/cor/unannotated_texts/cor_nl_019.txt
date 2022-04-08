@@ -1,0 +1,409 @@
+
+CENTRE FOR TAX POLICY AND ADMINISTRATION ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT
+
+OESO-Handboek voor
+
+Belastinginspecteurs ter Bestrijding van Omkoping
+
+
+OECD Bribery Awareness Handbook for Tax Examiners Language: Dutch
+
+
+OESO-Handboek voor Belastinginspecteurs
+
+ter Bestrijding van Omkoping
+
+
+MANAGEMENTSAMENVATTING
+
+Dit document maakt deel uit van het vervolg op de aanbeveling van de OESO inzake de fiscale aftrekbaarheid van steekpenningen aan buitenlandse ambtenaren (C(96)27/FINAL) van 1996.
+
+Het bestaan van wetgeving waaronder de fiscale aftrekbaarheid van steekpenningen wordt geweigerd vormt een belangrijk afschrikmiddel tegen het omkopen van buitenlandse ambtenaren. Niettemin mag de praktische uitvoering van dergelijke wetgeving niet veronachtzaamd worden. Het afschrikwekkende effect van deze wetswijzigingen is in hoge mate afhankelijk van de maatregelen die worden genomen teneinde er voor te zorgen dat belastingplichtigen zich aan de wet houden.
+
+Aangezien wetgeving waaronder de fiscale aftrekbaarheid van steekpenningen betaald aan buitenlandse ambtenaren word geweigerd inmiddels in vele landen is ingevoerd, heeft de ' Committee on Fiscal Affairs' (CFA) besloten verder te werken aan de uitvoering van dergelijke wetgeving middels het opstellen van een Handboek teneinde belastinginspecteurs behulpzaam te zijn bij het identificeren van verdachte betalingen die waarschijnlijk steekpenningen bevatten. Dit Handboek voor Belastinginspecteurs ter Bestrijding van Omkoping [Bribery Awareness Handbook for Tax Examiners] heeft tevens tot doel assistentie te verlenen aan landen die hun inspecteurs alert maken op de diverse gebruikte omkopingstechnieken en om hen instrumenten te verschaffen voor de opsporing en identificatie van steekpenningen betaald aan zowel buitenlandse als binnenlandse ambtenaren. Het Handboek voorziet in praktische juridische achtergrondinformatie en geeft bruikbare adviezen: signalen die duiden op omkoping, verhoortechnieken en voorbeelden van steekpenningen die tijdens belastingcontroles aan het licht komen. Ook is in het Handboek een standaardformulier opgenomen voor terugkoppeling door inspecteurs aan hun hoofdkantoren ten behoeve van het monitoren van trends en het schatten van risico's.
+
+Landen kunnen gebruik maken van dit Handboek en dit bijvoorbeeld ter hand stellen van hun belastingambtenaren in het kader van hun opleidingstrajecten. Landen zouden er tevens toe kunnen overgaan een eigen Handboek op te stellen waarin specifieke, landgebonden omstandigheden kunnen worden opgenomen. In het Handboek wordt aangegeven waar deze specifieke landgebonden informatie kan worden toegevoegd. Het Handboek kan tevens dienst doen als checklist bij belastingonderzoeken en het kan door de CFA worden gebruikt als een instrument ter bevordering van de toepassing van de aanbeveling van de OESO inzake de fiscale aftrekbaarheid van steekpenningen aan buitenlandse ambtenaren (C(96)27/FINAL) van 1996 door niet bij de OESO aangesloten landen.
+
+
+
+
+HANDBOEK VOOR BELASTINGINSPECTEURS TER BESTRIJDING VAN OMKOPING
+
+Dit Handboek voor Belastinginspecteurs ter Bestrijding van Omkoping Briberary Awareness Handbook for Tax Examiners is bedoeld om assistentie te verlenen aan landen die hun inspecteurs alert maken op de diverse gebruikte omkopingstechnieken en om hen instrumenten te verschaffen voor de opsporing en identificatie van steekpenningen betaald aan zowel buitenlandse als binnenlandse ambtenaren. Landen kunnen gebruik maken van dit Handboek en dit ter hand stellen van hun belastingambtenaren in het kader van hun opleidingstrajecten. Landen zouden er tevens toe kunnen overgaan een eigen Handboek op te stellen dat hen in staat stelt de specifieke landgebonden omstandigheden daarin op te nemen. Het Handboek kan tevens dienst doen als checklist bij belastingonderzoeken.
+
+1. Achtergrondinformatie aangaande het initiatief tot bestrijding van omkoping
+
+Het betalen van steekpenningen in internationale zakelijke transacties baart ernstige morele en politieke zorgen en resulteert in aanzienlijke economische schade omdat het de ontwikkeling van de international handel en investeringen belemmert vanwege de verhoogde transactiekosten en het verstoren van de concurrentievoorwaarden. De fiscale behandeling van steekpenningen kan aan een dergelijke verstoring bijdragen.
+
+In 1997 hebben de OESO-landen en een aantal niet-aangesloten landen onderhandelingen gevoerd over het OESO Verdrag inzake de bestrijding van omkoping van buitenlandse ambtenaren bij internationale zakelijke transacties. Op 15 februari 1999 werd deze Overeenkomst van kracht. Alle OESO-landen en een aantal niet-OESO landen hebben de Overeenkomst getekend. Het omkopen van binnenlandse ambtenaren is een misdrijf in de meeste landen. Voor de Overeenkomst echter, was het omkopen van buitenlandse ambtenaren niet strafbaar onder de wetgeving van veel landen. Het OESO verdrag is daarom een belangrijke stap in het gezamenlijke internationale streven om omkoping te criminaliseren en de voortwoekerende corruptie in de wereldeconomie te bestrijden. Het verdrag heeft tot doel een halt toe te roepen aan het gebruik van steekpenningen om internationale zakelijke deals te sluiten en om de binnenlandse inzet ter bestrijding van corruptie te versterken en richt zich op zowel het verhogen van de bestuurlijke normen als het versterken van de inzet vanuit het maatschappelijke leven. De overeenkomst verplicht de ondertekenaars nationale wet- en regelgeving op te stellen krachtens welke het omkopen van buitenlandse ambtenaren strafbaar wordt gesteld. Het voorziet in een brede definitie van het begrip ambtenaar, met inbegrip van eenieder die een openbare functie uitoefent. Dit vereist dat voor het omkopen van buitenlandse ambtenaren effectieve, evenredige straffen worden ingesteld met een weerhoudend karakter die vergelijkbaar zijn met de straffen die van toepassing zijn op het omkopen van binnenlandse ambtenaren.
+
+Op belastinggebied heeft het belangrijkste orgaan van de OESO op het gebied van fiscaal beleid, de 'Committee on Fiscal Affairs' (CFA), in juni 1994 een beoordeling opgesteld van de belastingwetgeving van de OESO-landen teneinde bepalingen te identificeren die indirect een aanmoediging zouden kunnen bevatten om buitenlandse ambtenaren om te kopen. Overeengekomen werd dat waar zich dergelijke bepalingen voordeden en waar wijzigingen daarin corruptie aan de zijde van buitenlandse ambtenaren effectief zou kunnen ontmoedigen, de belastingdiensten aangespoord zouden worden om deze wijzigingen effectief door te voeren.
+
+In april 1996 nam de OESO-Raad op voorstel van het CFA een Aanbeveling aan inzake de fiscale aftrekbaarheid van steekpenningen aan buitenlandse ambtenaren (C/96)27/FINAL. Deze aanbeveling roept OESO-landen waar dergelijke steekpenningen fiscaal aftrekbaar zijn, op om dit beleid te herzien met de intentie dergelijke aftrekposten te verbieden. De OESO-Raad erkende dat de trend om dergelijke steekpenningen aan buitenlandse ambtenaren als illegaal te beschouwen een bijdrage zou kunnen leveren aan een dergelijke actie. De aanbeveling draagt het CFA op de uitvoering te bewaken en deze onder de aandacht te brengen van de niet bij de OESO aangesloten landen. De aanbeveling werd nog eens inhoudelijk onderstreept door de op 23 mei 1997 aangenomen herziene Aanbeveling van de Raad inzake het bestrijden van omkoping in internationale zakelijke transacties, waarin er bij de OESO-landen op werd aangedrongen de Aanbeveling van 1996 onverwijld uit te voeren. De criminalisering van steekpenningen aan buitenlandse ambtenaren in OESO-landen is in veel gevallen de voorwaarde geweest die heeft geleid tot de wijziging van de belastingwetgeving teneinde de fiscale aftrekbaarheid van steekpenningen te weigeren in die landen waar de Aanbeveling betrekking op had.
+
+Aangezien wetgeving waarin de fiscale aftrekbaarheid van steekpenningen aan buitenlandse ambtenaren werd ingevoerd door alle landen waar de Aanbeveling van 1996 betrekking op had, besloot de CFA de werkzaamheden op dit gebied voort te zetten middels het opstellen van het OECD Bribery Awareness Handbook for the detection of Bribes to Public Officials, ter ondersteuning van de identificatie van steekpenningen tijdens belastingcontroles.
+
+Handboeken en handleidingen voor controle stellen belastingdiensten in staat inspecteurs op te leiden in 'best practices', bijvoorbeeld hoe verdachte financiële transacties die mogelijk leiden tot de identificatie van niet-aftrekbare steekpenningen, kunnen worden opgespoord. Ook zouden handboeken en handleidingen informatie kunnen bevatten die de waakzaamheid van inspecteurs verhoogt bij het identificeren van transacties die verband houden met omkoping. Aangezien veel OESO-landen bezig zijn met, of plannen hebben om, handboeken op te stellen voor inspecteurs, is het tijdig verschenen om die zaken te behandelen die in dergelijke handboeken zouden moeten worden opgenomen.
+
+Relevante Nationale Belastingbepaling
+
+LANDEN WORDEN UITGENODIGD OM HIER EEN VERWIJZING OP TE NEMEN NAAR HUN EIGEN RELEVANTE BELASTINGWETGEVING MET BETREKKING TOT DE NIET-AFTREKBAARHEID VAN STEEKPENNINGEN AAN BUITENLANDSE AMBTENAREN
+
+Definitie van omkoping
+
+Er bestaan vele verschillende definities van corruptie omdat er ook vele verschillende vormen van corruptie bestaan. Omkoping is een specifieke vorm van corruptie die kan worden gedefinieerd als het vrijwillig geven van iets van waarde om de uitvoering van een publieke taak te beïnvloeden, hetzij door iets onbehoorlijks te doen of iets nalaten te doen wat gedaan zou moeten worden binnen het aan de functie verbonden gezag.
+
+Al of geen verplichting voor inspecteurs om steekpenning te melden aan de handhavingsautoriteiten van het eigen land
+
+De verplichting van inspecteurs om de door hun geïdentificeerde steekpenningen te melden aan de eigen binnenlandse handhavingsautoriteiten hangt af van het juridische systeem in het betreffende land. In sommige landen moet de belastingdienst informatie doorgeven aan de politie, het OM en de rechter wanneer de omkoping een zaak betreft waarbij er een vermoeden bestaat van belastingovertreding. In andere landen is dit niet het geval. Wanneer informatie is ontvangen door de handhavingsautoriteiten kunnen deze gegevens worden doorgespeeld naar de handhavingsautoriteiten in een ander land op basis van een internationaal rechtshulpverzoek.
+
+LANDEN KUNNEN HIER HUN SPECIFIEKE REGELS VERMELDEN BETREFFENDE HET AL OF NIET BESTAAN VAN DE VERPLICHTING OM GEÏDENTIFICEERDE STEEKPENNINGEN AAN DE HANDHAVINGSAUTORITEITEN VAN HET EIGEN LAND
+
+Speciale regels, indien van toepassing, betreffende de bewijslast in geval van een vermoeden van illegale betalingen
+
+LANDEN KUNNEN HIER HUN SPECIFIEKE REGELS VERMELDEN BETREFFENDE DE BEWIJSLAST ALS DEZE AFWIJKEN VAN DE ALGEMENE REGELS AANGAANDE DE BEWIJSLAST IN GEVAL VAN EEN VERMOEDEN VAN OMKOPING
+
+5. Aanwijzingen voor Fraude of omkoping
+
+Om steekpenningen te verhullen gebruiken belastingplichtigen over het algemeen dezelfde technieken als die zij gebruiken om inkomsten te verbergen. Inspecteurs moeten daarom op dezelfde wijze zoeken naar bewijsmateriaal voor omkoping als de methode die zij gebruiken om bewijs van fraude op te sporen. Belastingplichtigen die bewust een lagere belastingverplichting opgeven laten vaak bewijs daarvan achter in de vorm van identificatieaanwijzingen.
+
+Aanwijzingen voor fraude kunnen bestaan uit één of meer handelingen van opzettelijk wangedrag aan de zijde van de belastingplichtige met als specifiek doel het ontduiken van belasting. Aanwijzingen voor fraude kunnen in twee categorieën worden opgedeeld: bevestigende aanwijzingen of bevestigende
+
+handelingen. Fraude kan in geen enkel geval worden aangetroffen tenzij er sprake is van bevestigende handelingen. Bevestigende aanwijzingen fungeren als signaal of symptoom, of duiden er op dat handelingen zijn verricht met als doel misleiding, verberging van bankrekeningen, of zaken anders te laten voordoen dan zij zijn. Aanwijzingen op zich stellen niet vast dat een bepaald proces is uitgevoerd; de aanwezigheid van bevestigende handelingen zijn daarbij noodzakelijk.
+
+Bevestigende handelingen zijn handelingen op basis waarvan vastgesteld wordt dat een bepaald proces opzettelijk is uitgevoerd met als doel misleiding, voorwendselen, camouflage, verhulling, een poging om gebeurtenissen te kleuren of te verduisteren, of zaken anders te laten voordoen dan zij in werkelijkheid zijn. Voorbeelden zijn onder meer het weglaten van bepaalde zaken waar gelijksoortige zaken wel zijn opgenomen, verberging van bankrekeningen, het nalaten van ontvangsten te storten op zakelijke rekeningen en het bedekken van bronnen van inkomsten. De hieronder vermelde aanwijzingen voor fraude zijn tevens van belang om steekpenningen te identificeren.
+
+Aanwijzingen voor Fraude of Omkoping: Uitgaven of Aftrekposten
+
+Aanwijzingen voor fraude of omkoping kunnen de vorm aannemen van een aanzienlijk te hoge opgave van aftrekposten of het opvoeren van fictieve aftrekposten.
+
+Betaalwijzen
+
+Sommige methoden die worden aangewend om geld aan ambtenaren door te sluizen worden hieronder vermeld. Dit zijn bepaald geen nieuwe methoden en zij maken ook slechts een klein deel uit van alle gebruikte methoden, maar toch wordt er hier op gewezen om de nadruk te leggen op de behoefte aan innovatieve onderzoekstechnieken om gevallen van corruptie in de ambtenarij aan het licht te brengen.
+
+Uitwisseling van sommen geld via een legitieme onderneming: Een onderneming die geleid wordt door een ambtenaar, betaalt een grote som geld aan een niet-verbonden bedrijf voor de ontvangst van fictieve rekeningen voor zogenaamde consultancyvergoedingen. Vervolgens stelt genoemd bedrijf cheques betaalbaar aan een van de bedrijfsmedewerkers die vervolgens de cheques int met behulp van een bankmedewerker. Het contante geld wordt geretourneerd aan medewerkers van eerstgenoemde onderneming waaronder de ambtenaar.
+
+Overdracht van sommen geld via een valse onderneming: Er wordt een bankrekening geopend op een fictieve naam die wordt gebruikt als een kanaal om cheques in te wisselen tegen contant geld. De facturen die worden geprint op naam van de fictieve onderneming worden opgemaakt als bewijs van aankopen. Cheques die aan het fictieve bedrijf worden verstrekt worden gestort en vervolgens weer in contant geld opgenomen.
+
+Betaling van campagnekosten: Een voorbeeld van het betalen van indirecte politieke bijdragen is waarbij de campagnecommissie of de kandidaat een onbetaalde rekening presenteert voor één of ander campagne-uitgave, zoals het huren van geluidswagens of voor het drukken van folders, posters etc.
+
+Indirecte betalingen aan ambtenaren: Een methode voor het verrichten van indirecte betalingen aan ambtenaren is via het doen van betalingen aan een advocatenkantoor. In dit geval fungeert de advocaat slechts als een kanaal waaraan cheques worden gericht voor zogenaamde verleende juridische diensten. De betalingen worden gestort op de trust rekeningen van de advocaat en betalingen worden aan de ambtenaar verricht vanuit deze rekeningen. Deze methode wordt ook gebruikt met gebruikmaking van public relations bedrijven, reclamebureaus of accountantskantoren.
+
+Een andere indirecte methode om steekpenningen te betalen is via een verzoek om een donatie te schenken aan een instelling zonder winstoogmerk, die niet is opgericht met als doel een zakelijke activiteit uit te voeren door een ambtenaar die deel uitmaakt van het leidinggevende management van deze non-profit organisatie.
+
+De klant een bedrag in rekening brengen dat hoger ligt dan de daadwerkelijke marktprijs: Het verschil tussen het bedrag dat wordt ontvangen en de normale prijs wordt vervolgens betaald aan een tussenpersoon zonder dat de winst van de onderneming daarmee wordt aangetast (het probleem ligt in het identificeren van deze tussenpersoon die zelden als zodanig in de boekhouding staat vermeld).
+
+Een kostenuitgave die door de onderneming wordt gedragen en in rekening wordt gebracht als een uitgave voor het beheer van zaken of het toezicht op het transport van zaken van de onderneming of installering in het land waar de markt wordt gerealiseerd.
+
+Tussenkomst van een architectenbureau voor de installering of ontwikkeling van lokale infrastructuren van een onderneming. De daarbij betrokken betalingen worden overgemaakt naar rekeningen aangehouden in belastingparadijzen.
+
+Royalty-inkomsten worden als een schuld in de boeken van de onderneming opgenomen in plaats van inkomsten. De betaling van deze zogenaamde schuld wordt verricht voor het einde van het fiscale jaar van het bedrijf. De betaling wordt verricht aan een managementonderneming dat in een belastingparadijs is gevestigd en dat naar verluidt de royalty-inkomsten heeft verdiend. Het niet registreren van de royalty als inkomen of de betaling aan de managementonderneming als een uitgave in de boeken van de onderneming en het niet hebben van een schuld aan het einde van het boekjaar kunnen het opsporen van een betaling gedaan aan een ambtenaar bemoeilijken.
+
+Traditionele controletechnieken kunnen worden gebruikt om omkoopbetalingen aan het licht te brengen. Een nauwkeurig onderzoek van de verschillende rekeningen is vereist om de geldigheid vast te stellen van de individuele uitgaven en te bestuderen welke specifieke posten zich zouden kunnen lenen om zaken te verbergen. Zijn er daadwerkelijk diensten verleend voor bepaalde betalingen; en zo ja, staat deze dienstverlening in verhouding tot de betaling die daarvoor is verricht? Het is belangrijk om te onthouden dat uitbetalingen niet altijd zijn wat zij lijken te zijn. Een doelmatig onderzoek vereist nadere analyse om te bepalen of de uitbetaling geldigheid heeft en niet slechts fungeert als een kanaal of instrument waarlangs contact geld kan worden doorgefilterd waarbij de uiteindelijke ontvanger van het geld een ambtenaar is.
+
+Professionele Dienstverlening
+
+Alle brondocumenten achter bedragen die in rekening zijn gebracht aan leveranciers van Professionele Dienstverlening dienen zorgvuldig te worden onderzocht op juistheid van de beschrijving en nadere uitleg van de verleende diensten, inclusief alle ongebruikelijke verhogingen. Het is vastgesteld dat veel bedrijven eenvoudigweg de vergoedingen hebben opgehoogd met betrekking tot projecten en specifieke zaken ten opzichte van het bedrag dat normaal gesproken zou worden gefactureerd voor de daadwerkelijk verrichte werkzaamheden. Deze 'overfacturering' werd gebruikt om van te voren afgesproken politieke betalingen of betalingen aan ambtenaren door de bedrijven namens de belastingplichtigen terug te krijgen. Een andere aanwijzing kan gelegen zijn in hoge betalingen aan consultancyfirma's waarbij er geen sprake is van een duidelijke factuur.
+
+Reis- en representatiekosten
+
+Een onderzoek van onkostenrekeningen heeft aan het licht gebracht dat illegale betalingen gedaan kunnen worden onder de dekmantel van reizen en representatie. Onkostenrekeningen van medewerkers en correspondentie werden gebruikt om een reisroute van geselecteerde medewerkers op te stellen. Correspondentie en teven de onkostenvouchers van de Directie werden nauwkeurig onderzocht om politieke gebeurtenissen, partijbijeenkomsten en reizen te bepalen teneinde politieke bijdragen te leveren. Alle bovengenoemde bronnen werden gebruikt om een datum, tijdstip en plaats te identificeren waarbij de belastingplichtige betrokken was bij een illegale politieke activiteit. Alle reiskosten die in verband stonden met elke speciale gebeurtenis werden geselecteerd uit brondocumenten die door de belastingplichtige waren verstrekt. De volgende categorieën bleken de voornaamste bron van de aanpassingen:
+
+Reiskosten van het management;
+
+Reizen per charter – hetzij door de medewerkers van de belastingplichtige of direct betaald voor het reizen van een politieke kandidaat;
+
+Kosten van de piloot van het privé-vliegtuig van de belastingplichtige; en
+
+Kosten met betrekking tot diverse geselecteerde medewerkers, inclusief directe kosten verbonden aan het gebruik van creditcards.
+
+Aanwijzingen voor Fraude of Omkoping: Fictieve werknemers
+
+Bedragen opgenomen in de loonlijst kunnen om talloze redenen worden opgeblazen, met inbegrip van omkoping. Meestal met hetzelfde doel – om geldsommen uit het bedrijf te halen in de vorm van een aftrekpost zonder dat de ontvanger daarvan daarover inkomstenbelasting betaalt. Deze methode wordt algemeen gebruikt wanneer de betalende onderneming een type onderneming is die zich niet met contant geld bezighoudt en waarbij geld alleen per cheque kan worden opgenomen. Deze methode zou kunnen worden aangewend bij wijze van belastingontduikingsysteem waarmee de belastingplichtige in staat wordt gesteld te beschikken over geldbedragen voor steekpenningen, afpersing, om persoonlijke uitgaven te bekostigen of om gokschulden af te lossen of schulden bij woekeraars.
+
+Een andere manier om bedragen op de loonlijst op te blazen is door politieke partijmedewerkers op de loonlijst te zetten zelfs wanneer de werknemer geen diensten verleend voor de betaling of voor het bedrijf. Dezelfde techniek kan worden toegepast met betrekking tot ambtenaren.
+
+Om aanwijzingen voor fictieve werknemers op te kunnen sporen dienen de inspecteurs zich te concentreren op de loonadministratie. De volgende situaties verdienen daarbij bijzondere aandacht:
+
+Als er een vermoeden bestaat of men weet dat gebruik wordt maakt van fictieve werknemers, dan dient te worden nagegaan hoe de cheque wordt geïncasseerd. Als cheques bij dezelfde bank worden verzilverd of via andere partijen is degene die de cheque int wellicht bekend bij de bank of bij degene die hem hebben overgenomen.
+
+Als de onderneming verzekeringsdekking of pensioenregelingen etc. aanbiedt of daarbij bemiddelt, dient de administratie toe worden nagekeken op documenten betreffende de beëindiging van het dienstverband om te bepalen of de werknemers tevens van de loonlijst is afgevoerd.
+
+Een onderneming blijft mogelijk cheques uitschrijven aan een werknemer die inmiddels is vertrokken.
+Inspecteurs dienen een willekeurige groep werknemers te selecteren en endossementen te vergelijken op verschillende tijdstippen gedurende een jaar.
+
+Werknemers en medewerkers op sleutelposities kunnen worden uitgeleend aan politieke partijen om verschillende diensten te verlenen terwijl zij door de werkgever worden doorbetaald. Inspecteurs dienen derhalve te proberen vast te stellen waar deze diensten werden verleend gedurende de betreffende periode waarop zij op de loonlijst stonden. Een onderzoek van onkostenvergoedingenrapporten kan van dienst zijn bij het bepalen van de geografische locatie op een gegeven tijdstip. Deze informatie kan als basis fungeren voor een vervolgverhoor van de betreffende werknemer.
+
+Sommige ambtenaren beschikken over weinig legitieme inkomstenbronnen en kunnen derhalve in de verleiding geraken om hun inkomen aan te vullen middels illegale activiteiten. Deze personen vinden een onderneming bereid om hen op de loonlijst te zetten en hen regelmatig looncheques te verstrekken, zelfs wanneer de werknemer geen werkzaamheden verricht.
+
+De inspecteur dient zijn onderzoek uit te breiden naar de verdachte ambtenaar en de genoemde looncheques op te sporen om te bepalen of het geld aan de onderneming was teruggegeven. Als de onderzochte rechtspersoon verdacht wordt van het gefungeerd hebben als een salarisfaciliteit door een ambtenaar dient de inspecteur op zoek te gaan naar bepaalde aanwijzingen die het vermoeden ondersteunen:
+
+Bepalen of cheques zijn gewisseld voor cash door de werkgever;
+
+Vaststellen of de werknemer over de kwalificaties beschikt om de functie uit te oefenen waarvoor hij of zij salaris ontvangt;
+
+Wanneer documenten aangeven dat de werknemer nog steeds op de loonlijst staat ten tijde van het onderzoek, dient de inspecteur te pogen vast te stellen of zij daadwerkelijk in het pand aanwezig zijn; en
+
+Als de werknemer werkzaam is als externe verkoper, dient de handhavingsmedewerker te bepalen wie de klanten zijn en vast te stellen of de werknemer daadwerkelijk contact opneemt met deze klanten.
+
+Mogelijk dient de inspecteur informatie op te vragen uit het buitenland wanneer de fictieve werknemer een buitenlandse ambtenaar is (zie punt 8 inzake informatie van verdragspartners). Sommige landen zijn van mening dat het gebruik van fictieve werknemers in de nationale context niet zo snel voor zal komen gezien de hoge belasting- en premiedruk die aan het werknemersschap is verbonden.
+
+Aanwijzingen voor Fraude en Omkoping: Boekhouding en administratieve bescheiden
+
+Om steekpenningen op te sporen dient de inspecteur te zoeken naar traditionele methoden om de boekhouding en administratieve bescheiden te manipuleren, zoals:
+
+Het voeren van een dubbele boekhouding of geen boekhouding
+
+Valse boekingen of wijzigingen aangebracht in de boekhouding of administratie, de datums van documenten naar achteren of naar voren zetten, valse facturen, valse aanvragen, verklaringen, overige valse documenten of aanvragen; en
+
+Het nalaten om op behoorlijke wijze een administratie te voeren, het verbergen van administratieve documenten, of de weigering bepaalde documenten beschikbaar te stellen, etc.
+
+Aanwijzingen voor Fraude of Omkoping: Gedrag van de belastingplichtige
+
+Een beoordeling van het gedrag van de belastingplichtige kan tevens behulpzaam zijn bij het met name bepalen of er steekpenningen in het geding zijn, zoals:
+
+Pogingen om het onderzoek te dwarsbomen; bij voorbeeld het niet beantwoorden van dwingende vragen, het herhaaldelijk afzeggen van afspraken, of de weigering documenten ter beschikking te stellen;
+
+Getuigenverklaringen van werknemers over onrechtmatige zakelijke praktijken van de belastingplichtige;
+
+Vernietiging van boekhouding en administratieve bescheiden, in het bijzonder vlak nadat het onderzoek is gestart;
+
+Ongepaste onkostenvergoedingen betaald aan of door functionarissen of trustees;
+
+Antedateren van aanvragen en bijbehorende documenten; en
+
+Pogingen de inspecteur om te kopen.
+
+Aanwijzingen voor Fraude of Omkoping: Wijzen van verhullen
+
+Een aantal methoden om zaken te verhullen kunnen worden aangewend om steekpenningen te verbergen, zoals transacties die buiten de normale zakelijke activiteiten vallen, transacties die door geheimhouding worden omgeven, valse boekingen in de boekhouding van de cedent en cessionaris, gebruik van geheime bankrekening voor inkomsten, stortingen op bankrekeningen uit naam van benoemde personen en het voeren van zakelijke transacties onder valse naam.
+
+Aanwijzingen voor Fraude of Omkoping: Verplichte melding van betaalde commissies en overeenkomstige betalingen in sommige landen
+
+In een aantal landen is het vereist om melding te maken van de betaling van commissies, vergoedingen en vergelijkbare betalingen aan zowel inwoners als niet-inwoners. In sommige landen is het vereist om betalingen aan personen te melden (inclusief commissies) en deze informatie wordt automatisch uitgewisseld. In andere landen kan er een systeem worden gehanteerd om belasting en premies op dergelijke
+
+betalingen in te houden, hetgeen belastingdiensten tevens in staat stelt informatie te vergaren omtrent de identiteit van de ontvangers van dergelijke betalingen.
+
+Door deze meldingsplicht moeten natuurlijke of rechtspersonen die in de context van hun onderneming of beroepsuitoefening commissies, makelaarsvergoedingen, teruggaven en andere vormen van vergoedingen of schadeloosstelling betalen aan zowel inwoners als niet-inwoners, deze betalingen elk jaar aangeven bij de belastingdienst. Deze verplichting kan rusten op alle rechtspersonen ongeacht de activiteiten die deze uitoefenen, met inbegrip van (locale) overheidsinstanties en bestuurlijke organisaties. Het nalaten om deze informatie te verstrekken heeft mogelijk tot gevolg dat dergelijke betalingen niet aftrekbaar zijn (zelfs wanneer de betaling feitelijk is belast na ontvangst daarvan aan de zijde van de ontvanger) en tevens kunnen er belastingboetes worden opgelegd. Daarmee heeft de belastingdienst een instrument in handen gekregen dat hen in staat stelt de verstrekte informatie ten aanzien van commissies aan een analyse te onderwerpen en dat kan mogelijk als een criterium functioneren om een belastingcontrole uit te voeren aangezien dit aanknopingspunten voor corruptie aan het licht zou kunnen brengen. Van oudsher wordt er speciaal gekeken naar:
+
+Aanwezigheid van begunstigden gevestigd in belastingparadijzen;
+
+Aanwezigheid van hoge bedragen betaald aan begunstigden die tot dan kleine bedragen ontvingen;
+
+Verhoging van de betalingen aan begunstigden;
+
+Aanzienlijke bedragen die aan buitenlandse advocaten worden betaald;
+
+Aanwezigheid van begunstigden die gevestigd zijn in geografische zones waar de onderneming zelf geen activiteiten uitoefent.
+
+De verplichte melding van betalingen van commissies, vergoedingen en vergelijkbare betalingen aan de belastingdienst, of het toepassen van het inhouden van belasting en premies op dergelijke betalingen aan inwoners en niet-inwoners kan een instrument zijn om zowel de belastingheffing te verzekeren ten aanzien van de ontvangers van dergelijke inkomsten als indicaties opleveren om een belastingcontrole in te stellen van de opgevoerde aftrekposten ten aanzien van commissies die mogelijk niet-aftrekbare steekpenningen bevatten. Tevens is het handig om informatie over dergelijke betalingen te verstrekken aan belastingverdragpartners, en met name de spontane en automatische uitwisseling van informatie over commissies en dergelijke betalingen te bevorderen (zie punt 8 betreffende de informatie van verdragspartners).
+
+LANDEN WAAR COMMISSIES DIENEN TE WORDEN GEMELD KUNNEN HIER EEN VERWIJZING OPNEMEN NAAR DE WETGEVING WAARIN DIT WORDT VOORGESCHREVEN
+
+6. Onderzoeksplan en Controle op Naleving
+
+Gedurende de planningfase en de uitvoering van controles op belastingaangiftes dienen zowel de inspecteurs als hun supervisor alert te zijn op situaties die zich lenen voor het ontstaan van illegale of ongepaste betalingen zoals steekpenningen. Indien van toepasselijk geacht en noodzakelijk, zouden de onderzoeksplannen de volgende controles on beschouwing moeten nemen:
+
+Onderzoeken van interne accountantscontroles en bijbehorende werkdocumenten om te bepalen of er enige aanwijzing bestaat voor het instellen van een geheim of verborgen ondernemingsfonds;
+
+Bestuderen van kopieën afkomstig van de belastingplichtige van meldingen gedaan aan andere reguleringsinstanties van de overheid; en
+
+Voldoende aandacht schenken aan buitenlandse rechtspersonen, activiteiten, contracten en prijsovereenkomsten, overdracht van geldsommen, en het gebruik van belastingparadijzen.
+
+7. Informatie van andere Overheidsinstanties
+
+Gedurende de planning en onderzoek van ondernemingen dienen de supervisor van de inspecteurs en de inspecteurs overwegen welke informatie, indien van toepassing, van andere Overheidsinstanties zou kunnen worden opgevraagd.
+
+Om informatie te verkrijgen met betrekking tot slush funds, steekpenningen, politieke bijdragen en andere belastinggerelateerde gegevens, dienen inspecteurs contact op te nemen met andere overheidsinstanties zoals de Toezichthoudende Instantie van de Beurs of overheidsorganen die buitenlands risico verzekeren.
+
+LANDEN WORDEN UITGENODIGD OM OP DEZE PLAATS AANVULLENDE VOORBEELDEN TE GEVEN
+
+8. Informatie afkomstig van belastingverdragpartners
+
+Gedurende het onderzoek van zaken betreffende ondernemingen, dienen supervisors van inspecteurs en de inspecteurs zelf overwegen welke informatie zij kunnen opvragen bij belastingverdragpartners. Verschillende wettelijke middelen kunnen worden ingezet voor de uitwisseling van informatie zoals bilaterale Belastingverdragen met een artikel over informatie-uitwisseling op basis van artikel 26 van het OESO Modelovereenkomst voor de belasting en multilaterale rechtshulpmiddelen in belastingzaken. Met betrekking tot het omkopen van buitenlandse ambtenaren zijn drie manieren om informatie uit te wisselen waarschijnlijk het meest relevant: uitwisseling op verzoek, spontane uitwisseling en automatische uitwisseling:
+
+Van uitwisseling op verzoek is sprake wanneer de ene verdragpartner specifieke vragen voorlegt aan een andere verdragpartner met betrekking tot een specifieke zaak. Een verzoek om informatie kan derhalve behulpzaam zijn in het bepalen van de aard van een verdachte betaling. Ook is het mogelijk een verzoek in te dienen tot het instellen van een belastingcontrole in het buitenland en zelfs dat een buitenlandse inspecteur daarbij aanwezig is als de nationale wetgeving van het verzochte land toestaat dat een buitenlandse belastingambtenaar aanwezig is bij een dergelijke controle.
+
+Informatie die spontaan wordt uitgewisseld kan ook van dienst zijn bij het opsporen van een verdachte betaling. In een dergelijk geval worden bijzondere gegevens die zijn aangetroffen door een buitenlandse belastingambtenaar tijdens een controle of onderzoek en die van belang kunnen zijn voor belastingdoeleinden voor een ander rechtsgebied, overgedragen aan de betrokken autoriteiten zonder dat daar een verzoek aan is voorafgegaan. Deze informatie wordt via de bevoegde autoriteiten van elk land doorgespeeld.
+
+Automatische uitwisseling betreft de systematische overbrenging van informatie met betrekking tot specifieke inkomstencomponenten (b.v. passief inkomen, pensioenen). De OESO Recommendation on the use of the OECD Model Memorandum of Understanding on automatic exchange of information for tax purposes [C(2001)28] betreft de automatische uitwisseling van verschillende soorten belastinginformatie en bevat een speciale verwijzing naar de behoefte om de internationale samenwerking te versterken in de strijd tegen omkoping van buitenlandse ambtenaren. In artikel 2 staat dat "the competent authorities shall endeavour to exchange information on commissions and other similar payments". De Aanbeveling beveelt ook aan dat de bevoegde autoriteiten overeenstemming bereiken "to intensify exchange of tax information (spontaneous and on request) in the case of the following categories of income: commissions, fees, brokers' fees and other remuneration paid to natural or legal persons".
+
+De uitwisseling van informatie wordt verzorgd door de bevoegde autoriteiten voor de twee rechtsgebieden die over een wettelijke basis beschikken om belastinginformatie uit te wisselen. Direct contact met de buitenlandse belastingambtenaren is niet toegestaan tenzij daarvoor speciale volmachten zijn verstrekt door de bevoegde autoriteiten. Bovendien, wanneer de informatie is verstrekt krachtens een uitwisselingsartikel van een bilateraal belastingverdrag of een specifiek instrument ter uitwisseling van informatie, zouden de geheimhoudingsbepalingen het doorgeven van de informatie blokkeren wanneer het misdrijf niet tevens een belastingovertreding zou inhouden aangezien de informatie alleen mag worden bekendgemaakt "aan personen of autoriteiten betrokken bij de beoordeling of verzameling van, de handhaving of vervolging wegens, of de bepaling van bezwaren aangetekend tegen opgelegde belasting namens de Verdragslanden".
+
+Gelijktijdige belastingcontroles
+
+Gelijktijdige belastingcontroles kunnen tevens fungeren als instrument om steekpenningen aan buitenlandse ambtenaren te identificeren. Het OESO "Model Agreement for the Undertaking of Simultaneous Tax Examinations" vqn 1992 vermeldt dat "The main purpose of simultaneous tax examination is inter alia: To determine a taxpayer's correct liability in cases where: (…) in reported income, money laundering, kickbacks, bribes, illegal payments etc. are identified".
+
+Aangesloten landen die overeenkomsten sluiten om gelijktijdige belastingcontroles uit te voeren worden er aan herinnerd gebruik te maken van het 1992 OESO Model Agreement for the Undertaking of Simultaneous Tax Examinations, waarin in het bijzonder wordt aangegeven dat gelijktijdige belastingcontroles tot doel kunnen hebben het bepalen van de juiste betalingsverplichting aan de zijde van de belastingplichtige in gevallen waarin smeergeld, steekpenningen, illegale betalingen etc. zijn geïdentificeerd.
+
+LANDEN KUNNEN HIER HUN BINNENLANDSE PROCEDURES VERMELDEN VOOR HET BENADEREN VAN BEVOEGDE AUTORITEITEN IN EEN VERWIJZING OPNEMEN NAAR HUN RICHTLIJNEN INZAKE DE UITWISSELING VAN INFORMATIE
+
+9. Verhoortechnieken
+
+Dit deel heeft tot doel richtlijnen te verstrekken voor het vaststellen van procedures en technieken die gebruikt dienen te worden bij het uitvoeren van een effectief onderzoek, met name bij het opsporen van steekpenningen. Computerprogramma's voor het analyseren van informatie kunnen van dienst zijn bij het identificeren van betalingen van steekpenningen.
+
+Methoden voor het opstapelen van bewijsmateriaal dat in het bijzonder van belang is om steekpenningen te identificeren:
+
+Deze methoden bestaan uit het volgende:
+
+Analyses – zoals de analyse van posten op de Balans teneinde grote, ongebruikelijke of verdachte rekeningen te identificeren. Analytisch onderzoek dat gebruik maakt van vergelijkingen en verbanden om rekeningen en transacties te isoleren die verder onderzocht dienen te worden of om te bepalen dat verder onderzoek niet nodig is, kunnen hierbij van dienst zijn.
+
+Documentatie - het controleren van de boekhouding en administratieve bescheiden van de belastingplichtige met als doel de inhoud en nauwkeurigheid daarvan te bepalen en om beweringen gedaan op de belastingaangifte te staven.
+
+Onderzoek - zoals het horen van de belastingplichtige of (indien wettelijk toegelaten) derden. Met Informatie afkomstig van derden kan de accuratesse van de door de belastingplichtige verstrekte gegevens worden bevestigd of nader onderzocht.
+
+Tests – zoals het traceren van transacties teneinde te bepalen of zij op correcte wijze zijn geregistreerd en samengevat in de boekhouding en administratieve bescheiden van de belastingplichtige.
+
+10. Verhoren
+
+Doel
+
+Voor zover wettelijk toegestaan tijdens belastingcontroles, kunnen verhoren informatie opleveren aangaande het financiële verleden van de belastingplichtige, zijn zakelijke activiteiten, en de boekhouding en administratieve bescheiden. Verhoren worden toegepast om informatie te verkrijgen die nodig is om tot onderbouwde conclusie te komen over de reikwijdte/diepte van een controle en het oplossen van problemen. Verhoren worden tevens aangewend om aanknopingspunten te verkrijgen, gegevens uit te werken en bewijsmateriaal vast te stellen.
+
+Een mondelinge getuigenverklaring vormt een belangrijke factor in het oplossen van belastingzaken en met name bij het identificeren van steekpenningen, aangezien een dergelijke verklaring informatie kan opleveren die anderszins uit schriftelijke stukken niet beschikbaar zou komen. Tevens kan zo relevante informatie aan het licht komen die niet is opgenomen in de belastingaangifte.
+
+Te verhoren personen
+
+Verhoren met als doel de opsporing van zowel fraude als steekpenningen dienen altijd plaats te vinden met betrekking tot de personen die over de meeste kennis beschikken over het financiële totaalbeeld en de achtergrond van de onderzochte natuurlijke of rechtspersoon, zoals de CEO, CFO, degene die de leiding heeft over de internationale operaties, de overheidsactiviteiten, directeuren die geen functionarissen zijn van de onderneming maar die werkzaam zijn in controlecommissies of gelijksoortige verantwoordelijkheden hebben en andere daartoe aangewezen personen.
+
+Verslaglegging verhoren
+
+Na afloop van het verhoor kunnen inspecteurs een memorandum aangaande het verhoor opstellen waarin de datum, tijdstip en plaats staan vermeld alsmede de aanwezige personen en wat tijdens het verhoor ter sprake is gebracht. Dit memorandum dient door de inspecteur te worden gedateerd en ondertekend. Het memorandum dient in het zaakdossier te worden opgenomen. Dit kan van dienst zijn bij het belastingonderzoek en als de inspecteur de wettelijke verplichting heeft het Openbaar Ministerie in kennis te stellen van gevallen van omkoping.
+
+Verhoortechnieken
+
+Speciale aandacht dient te worden geschonken aan de verhoortechnieken. Het is belangrijk dat de inspecteur(s) te allen tijde het verhoor onder controle hebben, met name wanneer er een vermoeden van omkoping bestaat. Inspecteurs dienen te bepalen hoe snel het verhoor verloopt en waar het naar toegaat. Ook is het belangrijk om voortdurend in te schatten of de belastingplichtige bezig is reële informatie te verstrekken of alleen maar aan het zinloos uitweiden slaat.
+
+Vraagstelling
+
+Teneinde de belastingplichtige te verhoren kunnen vier soorten vragen worden gesteld: open vragen, gesloten vragen, diepgaande vragen en leidende vragen. Het is aan de inspecteur te beslissen welk type vragen op zijn plaats zijn om illegale betalingen en steekpenningen op te sporen.
+
+Type Omschrijving
+
+Open vragen Open vragen worden zo geformuleerd dat een beschrijvend antwoord wordt verkregen. Deze vragen hebben tot doel een achtergrond, verloop van gebeurtenissen of een beschrijving te verkrijgen. Vraag open vragen over de onderneming van de belastingplichtige. Het voordeel van dit soort vragen is dat het een algemeen overzicht oplevert van een aspect van het verleden van een belastingplichtige. Het nadeel is dat als gevolg van dit soort vragen de verhoorde persoon wijdlopige antwoorden kan gaan geven.
+Gesloten vragen Gesloten vragen zijn meer geschikt om definitieve informatie te identificeren zoals datums, namen en bedragen. Deze vragen zijn specifiek en direct. Vraag gesloten vragen voor achtergrondinformatie zoals betalingen aan ambtenaren. Gesloten vragen zijn nuttig als de belastingplichtige moeite heeft met het geven van een precies antwoord. Zij zijn ook nuttig om een antwoord op een open vraag nader te laten toelichten. Het nadeel van gesloten vragen is dat het antwoord beperkt blijft tot precies hetgeen waarnaar is gevraagd en dat de belastingplichtige zich ongemakkelijk gaat voelen.
+Diepgaande vragen Diepgaande vragen combineren de elementen van open en gesloten vragen. Zij worden gebruikt om een kwestie doordringender te onderzoeken. Bijvoorbeeld, wanneer de belastingplichtige wordt ondervraagd over zijn consultancyonkosten vraag dan: "Wat is het zakelijke doel van deze uitgaven"? Het voordeel van dit type vragen is dat het antwoord van de belastingplichtige gericht is maar niet wordt beperkt.
+Leidende vragen Leidende vragen veronderstellen dat de vragensteller zijn conclusie reeds heeft getrokken of geven aan wat de vragensteller wenst te horen. Beperk het gebruik van leidende vragen. Gebruik ze wanneer gezocht wordt naar informatie, aangezien het antwoord in de vorm van een vraag wordt gegeven. Bij voorbeeld: "dus u heeft geen facturen opgesteld voor uw consultancyonkosten"?
+
+LANDEN KUNNEN HIER EEN VERWIJZING OPNEMEN NAAR HUN BINNENLANDSE REGELGEVING BETREFFENDE VERHOREN VAN BELASTINGPLICHTIGEN GEDURENDE BELASTINGCONTROLES
+
+11. Beoordeling van de Interne Controles van de Belastingplichtige
+
+Interne controles worden omschreven als "het beleid en de procedures van de belastingplichtige om zakelijke activiteiten te identificeren, meten en waarborgen en om materieel ongepaste verklaringen betreffende financiële informatie te vermijden". Een beoordeling van de interne controles van belastingplichtigen is noodzakelijk om de betrouwbaarheid van de boekhouding en administratieve bescheiden te bepalen, hetgeen met name van belang is wanneer er een vermoeden bestaat van fraude of verdachte betalingen. Het is essentieel om interne controles te beoordelen ter bepaling van de juiste controletechnieken gedurende het onderzoek.
+
+Belangrijkste Stappen voor de Beoordeling van Interne Controles
+De beoordeling van interne controles kan worden omschreven als een analyse die door de inspecteur wordt uitgevoerd om de gehele zakelijke operatie van de onderneming te doorgronden en te registreren. De belangrijkste stappen in het beoordelingsproces bestaan uit het begrijpen van de controleomgeving, het administratiesysteem en de controle procedures.
+
+Controleomgeving
+Het eerste gebied waar de inspecteurs kennis van moeten krijgen is de controleomgeving van de onderneming. De controleomgeving bestaat uit vele factoren die invloed uitoefenen op het beleid en de procedures van de onderneming. Factoren zoals managementfilosofie, wijze van leidinggeven, organisatiestructuur, personeelsbeleid en externe factoren die de onderneming beïnvloeden kunnen allemaal aanwijzingen vormen voor mogelijke omkoping. Teneinde een oordeel te vormen over de controleomgeving dienen inspecteurs tot in detail te begrijpen hoe de onderneming opereert.
+
+Administratiesysteem
+Het tweede sleutelgebied betreffende de interne controle die de inspecteurs moeten begrijpen is het administratiesysteem. Het vergaren van kennis omtrent het administratiesysteem levert informatie op over een
+
+groot aantal van de transacties die door de belastingplichtige worden verricht.
+
+Inspecteurs moeten kennis vergaren over de wijze waarop de onderneming dagelijks opereert met betrekking tot klanten, leveranciers, management, verkopen, verrichte werkzaamheden, prijsbeleid, locatie, werknemers, gebruikte vermogensbestanddelen, productieproces en het voeren van de administratie.
+
+Controleprocedures
+
+Controleprocedures zijn het beleid en procedures die door het management zijn vastgesteld teneinde het doel van de onderneming te bereiken. De controleprocedures zijn de methoden die zijn bepaalt om te verzekeren dat de onderneming opereert zoals het is bedoeld. De splitsing van taken vormt de primaire controleprocedure waar de inspecteurs aandacht aan moeten besteden. Wanneer dit goed wordt uitgevoerd, leidt de splitsing van taken tot vermindering van de mogelijkheden van elk individu om fouten maken of gemaakte of onrechtmatigheden te verbergen; bij voorbeeld om steekpenningen te betalen tijdens de normale uitvoering van hun werkzaamheden.
+
+12. Speciale controleprocedure
+
+Bij het selecteren van de diepgaande onderzoeken die in de te gebruiken procedures dienen te worden geïdentificeerd en opgenomen, moet de supervisor van de inspecteur het doel van het onderzoek in gedachten houden, tot hoever het onderzoek moet gaan en hoe het onderzoek geleid moet worden.
+
+De specifieke doelstelling van het diepgaand onderzoek dient nauwkeurig te worden beschreven in het speciale Onderzoeksplan. Zo kan bijvoorbeeld de doelstelling van een speciaal diepgaand onderzoek bestaan uit de identificatie van betalingen aan ambtenaren. Het onderzoek dient zich te richten op de rekening of rekeningen die waarschijnlijk het meest zijn gebruikt om transacties met ondernemingen te sluiten en waarvan uit het verleden is gebleken dat deze het meest waarschijnlijk betalingen van steekpenningen zullen weergeven.
+
+Steekpenningen kunnen in elke zakelijke sector worden aangetroffen. Steekpenningen worden vaak opgespoord in takken van industrie waar het draait om technische kennis van zaken. Een ander gemeenschappelijk aspect is het benodigd zijn van een overheidsvergunning teneinde zaken te kunnen doen. Voorbeelden hiervan zijn te vinden in de olie-industrie, de bouw en industriële productie met betrekking tot infrastructurele investeringen in telecommunicatie en de bouw van energiecentrales. Een voorbeeld van een betaling van steekpenningen in de oliewinningindustrie wordt hieronder gegeven:
+
+Medewerkers van een bedrijf dat zich bezighoudt met de winning en productie van ruwe olie en gas, gaf toestemming voor betalingen aan de vertegenwoordiger van een filiaal in het buitenland, die op zijn beurt de betalingen weer doorschoof maar buitenlandse overheidsambtenaren teneinde voor de zaak gunstige beslissingen te verkrijgen ten behoeve van dit filiaal. Deze betalingen werden aan het zicht ontrokken door de betalingen te verwerken in de administratie als aankopen en reparaties van materiaal.
+
+Slush Funds
+
+Dit deel voorziet in controletechnieken en controle op naleving als steun bij het identificeren en onderzoeken van slush funds bij ondernemingen of andere methoden die worden gebruikt om de belastingwetgeving te omzeilen of steekpenningen te betalen aan ambtenaren. De methoden die worden gebruikt om geheime slush funds op te richten en moedwillig belastbaar vermogen van de onderneming verkeerd weer te geven vormen een bron van grote zorg voor de belastingwetgeving van een land.
+
+Definitie
+
+Slush funds van ondernemingen zijn rekeningen of groepen van rekeningen die over het algemeen worden ingesteld middels ingewikkelde systemen buiten de gewone interne controles van de onderneming met als doel het overmaken van politieke bijdragen, betalen van steekpenningen, smeergeld, persoonlijke uitgaven door bedrijfsmedewerkers en andere illegale activiteiten. Het betreft meestal functionarissen in de top van de onderneming en het systeem wordt uitgevoerd middels diverse transacties met gebruik van binnenlandse en buitenlandse filialen.
+
+Voorbeelden
+
+De gewoonlijke gang van zaken met betrekking tot bovengenoemde systemen die zich voornamelijk in het buitenland afspeelt, is dat het binnenlandse moederbedrijf een buitenlands filiaal gebruikt, een buitenlandse consultant, of een buitenlandse bankrekening om geld wit te wassen waardoor cash geld ontstaat dat teruggesluisd wordt naar het moederbedrijf om daarmee een slush fund te creëren voor betalingen aan binnenlandse ambtenaren. Het geld wordt natuurlijk niet teruggesluisd in geval van betalingen aan buitenlandse ambtenaren.
+
+Een slush fund dat opgericht is met geld gestort door een buitenlandse juridische adviseur. De buitenlandse adviseur die wettelijke consultancydiensten heeft geleverd voor het binnenlandse bedrijf, stuurt een te hoge rekening naar de onderneming en draagt vervolgens dit bedrag over in cash geld aan de financiële functionaris.
+
+Leidinggevenden en/of sleutelmedewerkers krijgen een additionele vergoeding betaalt op basis van hun toezegging dat zij of een percentage van de bonus of het netto bedrag (na aftrek inkomstenbelasting) bijdragen in de vorm van een politieke betaling of een betaling van een steekpenning.
+
+Overkapitalisatie van de onderneming: Onroerend goed of persoonlijk bezit wordt aangekocht door het bedrijf voor een prijs die hoger ligt dan de marktwaarde. Het teveel betaalde wordt teruggestort of 'kicked back' en gebruikt door degene die het systeem in het leven heeft geroepen om de bijdrage te betalen aan de politieke organisatie of om de ambtenaar te betalen.
+
+Bijdragen die worden betaald aan juristenkantoren die handelen als kanalen door de geldbedragen te storten op een trustee rekening vanaf welke deze bedragen worden uitgekeerd aan politieke campagnecommissies die door de leidinggevenden van de bijdragende onderneming worden aangewezen of aan een ambtenaar.
+
+Procedures voor het Identificeren van Ongepaste Betalingen aan Bedrijfsfunctionarissen
+
+Er kunnen ook direct vragen worden gesteld door een inspecteur om steekpenningen te identificeren. In elk geval zal de supervisor van de inspecteur bepalen of vragen 1 t/m 5 in Produktie 1 al of niet worden gesteld aan geselecteerde bedrijfsfunctionarissen, sleutelmedewerkers, en andere personen. In situaties waarbij deze vragen in een vorig onderzoek zijn beantwoord, dienen de richtlijnen in Produktie 2 in beschouwing te worden genomen bij de bepaling of de vragen in daaropvolgende jaren opnieuw moeten worden gesteld.
+
+Aanvullende vragen kunnen worden gesteld naar aanleiding van een antwoord op enige vraag of als gevolg van de feiten en omstandigheden in een bepaalde zaak; wel dient echter de Belastingraad [Tax Counsel] te worden geraadpleegd bij het opstellen van dergelijke vragen.
+
+De personen die geselecteerd zijn om te worden ondervraagd dienen de huidige of voormalige werknemers of directeuren te zijn die waarschijnlijk over genoeg gezag, controle of kennis beschikten over bedrijfsactiviteiten om iets te weten over het mogelijk misbruik van bedrijfsgeld. Dit zijn bijvoorbeeld de CEO, CFO, hoofd van afdeling internationale zaken, hoofd van de afdeling regeringszaken, de directeuren die geen medewerkers zijn maar werkzaam in controlecommissies of gelijkwaardige verantwoordelijkheden hebben, of andere personen waar van toepassing.
+
+Het moet duidelijk zijn voor de persoon die wordt geselecteerd voor ondervraging dat de term 'onderneming' tevens betrekking heeft op de gecontroleerde belastingplichtige, filiaal, moederbedrijf of aangesloten onderneming, en elke joint venture, partnerschap, trust of association waar een dergelijke onderneming een belang in heeft. Aan de ondervraagde persoon dient te worden medegedeeld op welke jaren de vragen betrekking hebben.
+
+De jaren waarvoor de vragen worden gesteld worden van geval tot geval vastgesteld.
+
+De wijze van het stellen van de vragen, timing van de mondeling antwoorden, en timing van de ontvangst van de schriftelijke en gewaarmerkte antwoorden worden vastgesteld door de supervisor van de inspecteur.
+
+Als een persoon weigert een of meerdere vragen van de inspecteur te beantwoorden of weigert een schriftelijke verklaring te bevestigen onder ede, kan een gerechtelijk bevel worden uitgevaardigd indien de wetgeving dit toestaat aan deze persoon en kan alsnog een verklaring worden verkregen.
+
+Wanneer enige van deze vragen positief worden beantwoord, dienen alle gegevens die de transactie omgeven te worden veiliggesteld. Antwoorden op alle vragen worden nog eens bekeken samen met alle andere beschikbare informatie. Als er nog een verdere verduidelijking nodig is zullen vervolgverhoren plaatsvinden.
+
+Vragenformulier voor Gebruik tijdens Onderzoeken (indien mogelijk onder nationaal recht)
+
+De volgende vragen kunnen eerst worden overlegd in verband met een onderzoek van de belastingschulden van de onderneming
+
+U kunt aangeven wat uw functie is bij de onderneming en wat uw specifieke verantwoordelijkheden zijn. De vragen beperken zich echter niet tot de kennis die u heeft opgedaan gedurende uw officiële verantwoordelijkheden, maar dienen te worden beantwoord op basis van uw kennis, mening en wat u zich herinnert uit elke denkbare bron.
+
+U dient te verklaren op straffe van meineed1 dat volgens u uw antwoorden overeenkomstig de waarheid en correct zijn met betrekking tot elk onderwerp. U kunt verklaringen toevoegen aan uw antwoorden. Als u er niet zeker van bent dat een bepaalde transactie binnen het kader van de vraag valt, kunt u deze kwestie bespreken met de inspecteur. Als u na dit overleg van mening bent dat enig antwoord een nadere omschrijving behoeft, dient u de aard van een dergelijke verdere omschrijving duidelijk aan te geven.
+
+(NB.: Als de inspecteur tot de conclusie komt dat een omschrijving niet eenduidig is of kennelijk onredelijk, of als een antwoord op een vraag nadere toelichting vereist, kan de inspecteur u nadere vragen stellen ter beantwoording)
+
+Alle verwijzingen naar een onderneming in deze tekst bevatten niet alleen een verwijzing naar de genoemde specifieke onderneming maar tevens naar elk filiaal, moedermaatschappij, of aangesloten onderneming, en elke joint venture, partnerschap, trust, of association waar een dergelijke onderneming een belang in heeft.
+
+Straffen voor meineed komen wellicht niet in alle situaties voor in alle juridische stelsels
+
+Produktie 1: Vragenlijst voor Gebruik in Onderzoeken
+
+Gedurende de periode van ……….. tot …………, heeft de onderneming, bedrijfsfunctionaris of werknemer, of enige andere persoon die namens de onderneming handelt, direct of indirect, enige steekpenning, smeergeld of andere betaling van gelijksoortige aard, al of niet rechtmatig, betaald aan een natuurlijk persoon of rechtspersoon, privaat- of publiekrechtelijk, binnenlands of buitenlands, ongeacht de vorm daarvan, hetzij in geld, goederen, diensten, met als doel het verkrijgen van een gunstige behandeling bij het binnenhalen van zakelijke opdrachten of om speciale concessie, of om te betalen voor een gunstige behandeling voor verkregen zakelijke opdrachten of voor reeds verkregen concessies.
+
+Gedurende de periode van ……….. tot …………, zijn er ondernemingsgelden, of ondernemingsgoederen van enige aard, gedoneerd, geleend of ter beschikking gesteld, direct of indirect, ten gunste van, of met als doel oppositie te voeren tegen een regering of onderdeel daarvan, een politieke partij, politieke kandidaat, of politieke commissie, hetzij binnenlands of buitenlands?
+
+Gedurende de periode van ……….. tot …………, is aan enige bedrijfsfunctionaris, werknemer, contractant of vertegenwoordiger een vergoeding uitgekeerd, direct of indirect, door de onderneming, voor tijd besteed aan of onkosten geleden in het verlenen van diensten, ten gunste van, of met als doel oppositie te voeren tegen een regering of onderdeel daarvan, een politieke partij, politieke kandidaat, of politieke commissie, hetzij binnenlands of buitenlands?
+
+Gedurende de periode van ……….. tot …………, heeft de onderneming enige lening, donatie, of andere uitkering, direct of indirect, verstrekt aan een bedrijfsmedewerker of werknemer, of enige andere persoon, voor bijdragen geleverd of te leveren, direct of indirect, ten gunste van, of met als doel oppositie te voeren tegen een regering of onderdeel daarvan, een politieke partij, politieke kandidaat, of politieke commissie, hetzij binnenlands of buitenlands?
+
+Gedurende de periode van ……….. tot …………, heeft de onderneming of een andere natuurlijke of rechtspersoon handelend namens de onderneming, een bankrekening aangehouden, of enige andere gelijksoortige rekening, hetzij een binnenlandse of buitenlandse rekening, die niet is opgenomen in de boekhouding of administratieve bescheiden van de onderneming, of die niet vermeld is, op naam is gesteld of geïdentificeerd op naam van de onderneming.
+
+Produktie 2: Richtlijnen voor het Gebruik van het Vragenformulier voor de Slush Funds van de Onderneming in Onderzoeken betreffende Verdere Jaren
+
+Bij eerdere controles is gebleken dat deze vragen bijzonder effectief zijn in zaken waarbij multinational ondernemingen zijn betrokken die zeer actief zijn in het buitenland. De volgende factoren dienen in beschouwing te worden genomen bij de bepaling of vragen tevens in verdere jaren gesteld moeten worden:
+Of de onderneming in het verleden ongepaste betalingen heeft gedaan of betrokken is geweest bij het aanhouden van een slush fund;
+Huidige informatie die wijst op het bestaan van een hoge waarschijnlijkheid van ongepaste betalingen of het aanhouden van een slush fund;
+Of het bekend is of concurrenten of andere partijen in dezelfde bedrijfstak ongepaste betalingen hebben gedaan of betrokken zijn bij een slush fund;
+In hoeverre de ondernemingen erop heeft toegezien dat er geen ongepaste betalingen hebben plaatsgevonden of slush funds zijn opgericht;
+In hoeverre de interne accountants en/of externe accountants van de onderneming verificaties hebben uitgevoerd met betrekking tot het aanwenden van ongepaste betalingen of de oprichting van slush funds;
+Doelmatig ondernemingsbeleid betreffende ongepaste betalingen of de oprichting van slush funds;
+Of de onderneming producten produceert die in een zeer concurrerende markt worden verkocht, met name producten die onder zeer strikte overheidscontrole staan;
+Of de onderneming veel transacties uitvoert met buitenlandse of binnenlandse overheden op alle niveaus, of zaken doet met buitenlandse semi-overheidsinstanties;
+Of de onderneming beschikt over een buitenlandse, zelfstandig opererende vestiging waarover het moederbedrijf nauwelijks of geen controle uitoefent;
+Of de onderneming een substantiële aankoop heeft gedaan of er zich een substantiële wijziging in het eigendom, de leiding of de aard van de zakelijke activiteiten van de onderneming heeft voorgedaan;
+Of het onderzoek pogingen aan het licht heeft gebracht om kennelijk ongepaste activiteiten te verbergen of situaties heeft aangetoond waarin ongebruikelijk toestemmingen zijn verleend waarbij de normale kanalen zijn gepasseerd; en
+Alle overige factoren waarbij, naar de mening van de supervisor van de inspecteur, het gebruik van de vragen geschikt wordt geacht.
+Bij de beoordeling van de vraag of de vragen moeten worden gesteld is geen enkele individuele factor of combinatie van factoren doorslaggevend. Het oordeel of de vragen worden gesteld is gebaseerd op de zienswijze van de supervisor of de inspecteur met betrekking tot het geheel van de richtlijnen. De redenen om de vragen al of niet te stellen dienen volledig te worden toegelicht in het werkdossier van de inspecteur.
+
+13. Controleren op steekpenningen: Standaardformulier voor inspecteurs om aangetroffen steekpenningen te melden aan het hoofdkantoor
+
+74. Belastingdiensten kunnen een bewakingssysteem opzetten voor steekpenning die worden aangetroffen gedurende belastingcontroles op de Centrale Audit Afdeling. Inspecteurs kunnen de verzamelde informatie over de geïdentificeerde steekpenningen opsturen om een database samen te stellen die gebruikt kan worden voor zowel statistische doeleinden als het identificeren van trends en om van dienst te zijn voor het opstellen van een controleplan. Het hier vermelde formulier is bedoeld als suggestie om de meldingsprocedure te vergemakkelijken. Het kan verder aan de specifieke behoeften en kenmerken van elk land.
+Formulier voor inspecteurs om aangetroffen steekpenningen te melden aan het hoofdkantoor
+
+
+(Bijlagen bij dit Rapport in Optioneel)
+

@@ -1,0 +1,513 @@
+NHG-Standaard Hartfalen 
+Belangrijkste wijzigingen
+
+De afkapwaarden voor (NT-pro)BNP bij acuut hartfalen verschillen van de afkapwaarden bij geleidelijk ontstaan hartfalen.
+Toegevoegd is een paragraaf over palliatieve zorg, multidisciplinaire ketenzorg en hartfalenzorgprogramma's.
+Kernboodschappen
+
+Deze NHG-Standaard is inhoudelijk gelijk aan de Multidisciplinaire richtlijn Hartfalen 2010.
+De diagnose hartfalen berust op kenmerkende symptomen én onderzoeksbevindingen passend bij hartfalen én objectief bewijs voor een structurele of functionele afwijking van het hart in rust.
+Een normaal ecg in combinatie met een normaal (NT-pro)BNP sluit de diagnose hartfalen nagenoeg uit.
+Als de diagnose hartfalen niet kan worden uitgesloten door een ecg en (NT-pro)BNP, moet altijd echocardiografie worden verricht, ter verdere diagnostiek dan wel om de oorzaak van hartfalen te achterhalen.
+Een praktische aanpak bij de medicamenteuze therapie van systolisch hartfalen is gelijktijdig starten van een diureticum en een ACE-remmer (of een AII-antagonist als ACE-remmers niet worden verdragen) waarna, als de patiënt klinisch stabiel is, een bètablokker wordt toegevoegd.
+
+Inleiding
+
+De NHG-Standaard Hartfalen geeft richtlijnen voor diagnostiek en behandeling van chronisch en acuut hartfalen. Deze tweede herziening vervangt de eerste herziening uit 2005. Acuut hartfalen wordt besproken in een aparte paragraaf.
+
+Deze NHG-Standaard is inhoudelijk gelijk aan de Multidisciplinaire richtlijn Hartfalen 2010. De Multidisciplinaire richtlijn Hartfalen is samengesteld door diverse disciplines, met inbegrip van huisartsen, en is door het NHG als volledige richtlijn geaccepteerd. In deze NHG-Standaard worden belangrijkste onderdelen voor de huisarts gepresenteerd. Voor uitgebreide achtergrondinformatie kunt u de Multidisciplinaire richtlijn Hartfalen raadplegen.
+
+Achtergronden
+
+Epidemiologie 
+
+In 2007 waren er in Nederland naar schatting 120.000 mensen met hartfalen. Deze prevalentiecijfers zijn onder andere afkomstig uit huisartsenregistraties, waar het patiënten betreft met de klinische diagnose hartfalen.
+
+De prevalentie stijgt sterk met de leeftijd, van 0,8% tussen de 55 en 64 jaar via 3% tussen de 65 en 74 jaar en 10% tussen de 75 en 84 jaar naar 20% voor mensen van 85 jaar en ouder. De voor leeftijd gecorrigeerde prevalentie is bij mannen hoger dan bij vrouwen. Onder relatief jonge patiënten met hartfalen zijn meer mannen en is coronarialijden de belangrijkste oorzaak. Omdat meer vrouwen dan mannen een hoge leeftijd halen, zijn er in de leeftijdsgroep ouder dan 75 jaar meer vrouwelijke patiënten met hartfalen. Op oudere leeftijd is de oorzaak voor hartfalen veelal langdurige hypertensie.
+
+Verwacht wordt dat de prevalentie van hartfalen verder zal toenemen door veroudering van de bevolking en dankzij de succesvolle behandeling van coronaire hartziekte. Per jaar komen er ongeveer 39.000 nieuwe patiënten met hartfalen bij; dat zijn er per gemiddelde huisartsenpraktijk van 2350 patiënten ongeveer 7.
+
+Begrippen 
+
+Definitie van hartfalen
+
+Hartfalen is een complex van klachten en verschijnselen bij een structurele of functionele afwijking van het hart (zie het kader 'Hartfalen') die leiden tot een tekortschietende pompfunctie van het hart. Centraal bij hartfalen staat een verminderde inspanningstolerantie, die zich uit in klachten van kortademigheid en/of vermoeidheid. Meestal zijn er ook tekenen van vochtretentie, zoals pulmonale crepitaties, perifeer oedeem en verhoogde centraalveneuze druk (CVD), of is een heffende/verbrede ictus palpabel in linkerzijligging. In ernstiger gevallen kunnen ook tachycardie en tachypneu worden vastgesteld. Bij twijfel kan een klinische verbetering na toediening van diuretica de diagnose ondersteunen. In vroege stadia van hartfalen kunnen verschijnselen van overvulling echter ontbreken. Zie voor andere klinische manifestaties van hartfalen noot 3.
+
+Nieuw ontstaan hartfalen heeft betrekking op de eerste presentatie. Deze kan acuut of geleidelijk zijn. Patiënten op de spoedeisende hulp in het ziekenhuis behoren veelal tot de eerste groep, terwijl bij geleidelijk nieuw hartfalen vaak de eerste presentatie bij (verpleeg)huisarts, internist, cardioloog of geriater, is.
+
+Vastgesteld hartfalen kan tijdelijk of chronisch zijn. Tijdelijk hartfalen kan worden hersteld. Voorbeelden zijn de (sub)acute fase van een acuut coronair syndroom, reversibele cardiomyopathieën en behandelbare klepgebreken en ritme- of geleidingsstoornissen. Chronisch hartfalen is veelal langzaam progressief maar kan ook (tijdelijk) stabiel zijn en acuut exacerberen.
+
+Hartfalen
+
+De diagnose hartfalen berust op drie pijlers:
+
+klinische symptomen passend bij hartfalen (bijvoorbeeld verminderde inspanningstolerantie, zich veelal uitend in klachten van kortademigheid en vermoeidheid of perifeer oedeem);
+en
+
+onderzoeksbevindingen passend bij hartfalen (bijvoorbeeld crepiteren over de longen, verhoogde centraalveneuze druk (CVD), perifeer oedeem, vergrote lever, heffende/verbrede ictus, hartgeruis, tachycardie, tachypneu, derde harttoon);
+en
+
+objectief bewijs voor een structurele of functionele afwijking van het hart in rust.
+Met behulp van echocardiografie kan hartfalen verder worden opgesplitst in hartfalen met systolische linkerventrikeldisfunctie (echografisch een linkerventrikelejectiefractie (LVEF) < 45%), een combinatie van systolische en diastolische linkerventrikeldisfunctie of alleen diastolische disfunctie. Geschat wordt dat in de huisartsenpraktijk van de patiënten met hartfalen 40-50% systolisch en 50-60% diastolisch hartfalen heeft. Vereenvoudigd weergegeven betreft het bij systolische disfunctie een hart dat door verschillende oorzaken onvoldoende samentrekt tijdens de systole. Een veel voorkomende oorzaak is een hartinfarct. Bij diastolische disfunctie is geen sprake van een (sterk) verminderde contractie van het hart, maar wordt het hartfalen veroorzaakt door een verstijving van het hart. Een veel voorkomende oorzaak is langdurige hypertensie. Andere descriptieve termen bij hartfalen, zoals 'forward failure' en 'backward failure', zijn van minder praktisch belang.
+
+De ernst van het hartfalen wordt weergegeven in de NYHA-classificatie (tabel 1).)
+
+Presentatie van hartfalen
+
+Nieuw hartfalen: acuut of geleidelijk ontstaan
+
+Indeling van hartfalen
+
+Tijdelijk hartfalen: eenmalig of recidiverend.
+Chronisch hartfalen: stabiel, (langzaam) progressief, acuut exacerberend
+Tabel 1 NYHA functionele classificatie; ernst gebaseerd op symptomen bij inspanning
+
+Klasse I	geen beperking van het inspanningsvermogen; normale lichamelijke activiteit veroorzaakt geen overmatige vermoeidheid, palpitaties of dyspneu
+Klasse II	enige beperking van het inspanningsvermogen; in rust geen klachten maar normale lichamelijke inspanning veroorzaakt overmatige vermoeidheid, palpitaties of dyspneu
+Klasse III	ernstige beperking van het inspanningsvermogen; in rust geen of weinig klachten, maar lichte lichamelijke inspanning veroorzaakt overmatige vermoeidheid, palpitaties of dyspneu
+Klasse IV	geen enkele lichamelijke inspanning mogelijk zonder klachten; ook klachten in rust
+Oorzaken van hartfalen 
+
+Er moet altijd naar de oorzaak voor het hartfalen worden gezocht. Bloedonderzoek, ecg en echocardiografie zijn hierbij nodig.
+
+De volgende mogelijke oorzaken of uitlokkende factoren zijn van belang en kunnen consequenties hebben voor het beleid: atriumfibrilleren, andere ritme- of geleidingsstoornissen, hartklepafwijkingen (vooral aortastenose en mitralisklepinsufficiëntie), hypertensie, ischemische hartziekte, medicatie (negatief inotrope medicatie zoals de niet-dihydropyridine calciumantagonisten verapamil en diltiazem, klasse-I-antiaritmica, middelen die kunnen leiden tot natrium- en vochtretentie (NSAID's, COX-2-remmers, corticosteroïden), thiazolidinedionen, recente chemotherapie), intoxicaties (alcohol, cocaïne), anemie, exacerbatie van COPD, pneumonie, andere ernstige infecties, hyperthyreoïdie en longembolie. De meest voorkomende oorzaken zijn hypertensie en ischemische hartziekte. Oorzaken die op jonge leeftijd tot hartfalen leiden zijn zeldzaam.
+
+Prognose 
+
+De prognose bij hartfalen is zeer variabel en onder andere afhankelijk van de ernst, de etiologie, de leeftijd van de patiënt, comorbiditeit en de reeds gebleken snelheid van progressie. Het effect van behandeling op de prognose is op individueel niveau vaak moeilijk te voorspellen. De variabelen met de meeste prognostische waarde zijn vermeld in noot 6.
+
+Comorbiditeit 
+
+Er bestaat veel comorbiditeit bij hartfalen. Voor een deel zijn dit aandoeningen die bij ouderen veel voorkomen (epifenomenen), een ander deel houdt verband met hartfalen. De comorbiditeit bemoeilijkt de diagnostiek en heeft consequenties voor de prognose en therapie. Bij ouderen moet men rekening houden met polyfarmacie, kans op interacties en bijwerkingen en veranderende farmacokinetiek en -dynamiek. De belangrijkste vormen van comorbiditeit zijn de volgende.
+
+Hypertensie
+
+Hypertensie is een belangrijke oorzaak voor het ontstaan en in stand houden van hartfalen. Bloeddrukverlaging vermindert de drukbelasting voor de linker ventrikel en het cardiovasculaire risico. Bij alle patiënten met hartfalen wordt een streefwaarde < 130/80 mmHg aanbevolen.
+
+Diabetes mellitus
+
+Diabetes is een belangrijke oorzaak voor het ontstaan van hartfalen door cardiovasculaire effecten, renale effecten en 'diabetische cardiomyopathie'. Op de behandeling van diabetes is de NHG-Standaard Diabetes mellitus type 2 van toepassing. Thiazolidinedionen zijn gecontra-indiceerd bij patiënten met hartfalen.
+
+Nierfunctiestoornis
+
+Er bestaat een sterke verstrengeling tussen nier- en hartfunctie. Een verminderde glomerulaire filtratierate (GFR) komt vaker voor naarmate de leeftijd stijgt en er sprake is van hartfalen, hypertensie of diabetes mellitus. Er is bij hartfalen een sterk verband tussen nierinsufficiëntie, de ernst van het hartfalen, de morbiditeit en de mortaliteit. Aanpassing van de hartfalenmedicatie is bij een nierfunctiestoornis vaak noodzakelijk (zie de paragraaf Medicamenteuze behandeling). Bij nierfunctiestoornis (patiënten < 65 jaar, creatinineklaring < 45 ml/min.; patiënten > 65 jaar, creatinineklaring < 30 ml/min.) en bij macroalbuminurie kan verwijzing naar de nefroloog worden overwogen. Zie ook de Landelijke Transmurale Afspraak Chronische nierschade.
+
+COPD
+
+Hartfalen komt voor bij 27% van de mensen boven de 65 jaar met COPD. Dit is ongeveer driemaal zo vaak als men op grond van leeftijd alleen zou verwachten. Andersom is de prevalentie van COPD bij patiënten met hartfalen 20 tot 30%. COPD is een sterke en onafhankelijke risicofactor voor cardiovasculaire morbiditeit en mortaliteit. De diagnostiek van hartfalen is bemoeilijkt in aanwezigheid van COPD door overlap in klachten zoals kortademigheid en verminderde inspanningstolerantie, maar ook door overlap in de beoordeling van pulmonale bijgeluiden en bevindingen op ecg en thoraxfoto. Interpretatie van de echocardiografie kan bemoeilijkt zijn door de toegenomen luchthoudendheid van de thorax.
+
+Anemie
+
+Vooral anemie van chronische ziekte wordt vaak in combinatie met hartfalen gezien. Anemie kan hartfalen veroorzaken en verergeren door een negatief effect op de myocardfunctie en nierfunctie, door activering van neurohormonale systemen en doordat voor de doorbloeding van de weefsels een grotere cardiac output wordt gevraagd. Andersom kan hartfalen mede door effect op de nieren en het beenmerg anemie veroorzaken.
+
+Depressie en angst
+
+Depressie en angst zijn voor een deel toe te schrijven aan het chronisch progressieve karakter van hartfalen en de ernst van de aandoening. De prevalentie van depressies en angststoornissen onder patiënten met hartfalen is 20 tot 30%. De effectiviteit van medicamenteuze of gedragsmatige behandeling van depressie en angst bij deze patiënten is weinig onderzocht en nog niet vastgesteld. Voorzichtigheid is geboden met SSRI's omdat geneesmiddeleninteractie met medicatie tegen hartfalen veel voorkomt en kan leiden tot hyponatriëmie en bloedingen.
+
+Cognitieve stoornissen en hartfalen
+
+Cognitieve stoornissen komen vaker voor bij mensen met hartfalen, en lijken toe te nemen met de ernst van het hartfalen. Vasculaire risicofactoren zoals hypertensie, diabetes mellitus en atriumfibrilleren zijn zowel risicofactor voor het ontwikkelen van hartfalen als voor cognitieve stoornissen en dementie. Ook verminderde cerebrale doorbloeding door hartfalen speelt een rol bij het ontwikkelen van cognitieve stoornissen en dementie. Bij patiënten van 85 jaar en ouder met hartfalen is er bij ruim 20% sprake van dementie.
+
+Richtlijnen diagnostiek  
+
+De eerste verdenking op hartfalen is gebaseerd op anamnese, aangevuld met informatie uit de voorgeschiedenis en het lichamelijk onderzoek. De anamnese en een zorgvuldig uitgevoerd lichamelijk onderzoek vormen de sleutel tot vroege opsporing van hartfalen. Kortademigheid en vermoeidheid als uiting van een verminderd inspanningsvermogen zijn kenmerkende klachten, maar zijn niet erg specifiek. Figuur 1 geeft een algoritme voor het diagnosticeren van hartfalen.
+Anamnese 
+
+Informeer naar:
+
+verminderd inspanningsvermogen;
+kortademigheid: dyspneu bij inspanning of ook in rust, orthopneu, paroxismale nachtelijke dyspneu;
+vermoeidheid;
+mogelijke oorzaken of triggers voor hartfalen: angineuze klachten (ischemie), palpitaties, syncope als teken van ritme- of geleidingsstoornissen; gebruik van negatief inotrope middelen (de calciumantagonisten verapamil en diltiazem en klasse-I-antiaritmica zoals propafenon en flecaïnide), middelen die kunnen leiden tot natrium- en vochtretentie (NSAID's, COX-2-remmers, corticosteroïden) en thiazolidinedionen.
+Risicofactoren
+
+Belaste familieanamnese voor cardiovasculaire aandoeningen, roken, overmatig alcoholgebruik, hyperlipidemie, hypertensie, diabetes en recente chemotherapie.
+
+Voorgeschiedenis
+
+Coronaire hartziekte (myocardinfarct, angina pectoris, coronaire bypassoperatie (CABG), percutane coronaire interventie (PCI), congenitale hartaandoening, hartkleplijden, cerebrovasculair accident (CVA), perifeer arterieel vaatlijden.
+
+Lichamelijk onderzoek 
+
+Algemeen. Voedingstoestand, lichaamsgewicht. Overgewicht belast het hart extra en cachexie is een prognostisch ongunstig teken.
+
+Pols. Frequentie (tachycardie of bradycardie?), ritme (regelmatig of onregelmatig?), kwaliteit.
+
+Bloeddruk. Systolisch, diastolisch, polsdruk. Bloeddrukmeting zowel zittend als staand om orthostatische hypotensie na te gaan.
+
+Overvulling? Verhoogde centraalveneuze druk, perifeer oedeem (enkels en sacrum), vergrote lever, ascites, pulmonale crepitaties, demping onderste longvelden passend bij pleuravocht. Overvulling van de longen kan ook leiden tot rhonchi en piepen.
+
+Ademfrequentie. (Tachypneu?).
+
+Hart. Ictus palpabel buiten de midclaviculairlijn in rugligging, of heffend/verbreed in linkerzijligging, derde harttoon (galopritme), hartgeruisen wijzend op klepafwijkingen.
+
+Aanvullend onderzoek 
+
+Wanneer op grond van klachten en verschijnselen het vermoeden van hartfalen ontstaat, wordt aanvullend een ecg gemaakt en BNP of NT-proBNP bepaald.
+
+Een volstrekt normaal ecg heeft een grote negatief voorspellende waarde en maakt de diagnose hartfalen onwaarschijnlijk (< 2% bij vermoeden van acuut nieuw hartfalen en < 10-14% bij vermoeden van geleidelijk nieuw hartfalen). Een abnormaal ecg heeft een geringe positief voorspellende waarde voor de diagnose hartfalen.
+
+Een BNP- of NT-proBNP-waarde beneden het afkappunt (zie figuur 1) maakt de diagnose hartfalen onwaarschijnlijk (< 4% bij vermoeden van acuut nieuw hartfalen en < 8% bij vermoeden van geleidelijk nieuw hartfalen). Hoe hoger de waarde van het BNP of NTproBNP, hoe groter de kans dat er sprake is van hartfalen.
+
+Een normaal ecg in combinatie met een normaal (NT-pro)BNP maakt de diagnose hartfalen zeer onwaarschijnlijk.
+
+Bij een verhoogd (NT-pro)BNP is nader onderzoek geïndiceerd, in de vorm van aanvullend laboratoriumonderzoek, echocardiografie en eventueel een thoraxfoto.
+
+Aanvullend onderzoek dient ter bevestiging of uitsluiting van de diagnose hartfalen en om de oorzaak te bepalen. Een echocardiogram is moeilijk te interpreteren. Aanbevolen wordt het echocardiogram te laten interpreteren door de cardioloog.
+
+Verdere diagnostiek ter bepaling van de oorzaak, ernst en prognose
+
+Bloedonderzoek. CRP, leukocyten met differentiatie, Hb, Ht, glucose, natrium, kalium, creatinine en berekende klaring, ALAT, ASAT en gamma-GT, TSH, lipidenprofiel.
+
+Ecg (indien nog niet verricht). Tekenen van een oud myocardinfarct, ritme- of geleidingsstoornissen (tachy- en bradycardieën), linkerventrikelhypertrofie, linkerbundeltakblok, ST-T-afwijkingen passend bij ischemie.
+
+X-thorax. Cardiothoracale ratio, redistributie, kerley-B-lijntjes en/of pleuravocht. Ook voor het nagaan of uitsluiten van pulmonale en intrathoracale pathologie, zoals pneumonie, afwijkingen passend bij COPD of longmaligniteit.
+
+Echocardiografie. output, bewegingspatroon, volumina, wanddikte, klepfunctie, vullingsdynamiek.
+
+Overige. bij een vermoeden van een ischemische oorzaak van het hartfalen (bijvoorbeeld bij angina pectoris en/of ST-T-afwijkingen op het ecg passend bij ischemie) kan cardiale ischemie geobjectiveerd worden met behulp van onder andere inspannings-ecg of coronairangiografie.
+
+Voor het aantonen of uitsluiten van astma/COPD kan spirometrie aangewezen zijn.
+
+Weeg bij individuele patiënten de potentiële meerwaarde van deze onderzoeken af tegen de belasting voor de patiënt en de mogelijke therapeutische consequenties. Dit kan reden zijn om in voorkomende gevallen hartfalen te behandelen zonder uitgebreide diagnostiek naar de oorzaak ervan te verrichten.
+
+Evaluatie 
+
+Bij klachten van kortademigheid, vermoeidheid en perifeer oedeem dient men altijd te denken aan hartfalen, ook ingeval iemand al bekend is met een aandoening die zulke klachten kan geven zoals COPD. Dit moet leiden tot uitdiepen van de anamnese, adequaat lichamelijk onderzoek en in ieder geval bepaling van het (NT-pro)BNP en/of een ecg. Indien het (NT-pro)BNP of ecg afwijkend zijn, moet echocardiografie volgen.
+
+De diagnose hartfalen wordt gesteld indien de patiënt klachten en verschijnselen heeft passend bij hartfalen en echografisch sprake is van een LVEF < 45% (systolisch hartfalen) of diastolische disfunctie en nog een behouden LVEF > 45% (diastolisch hartfalen).
+
+Bij vastgesteld hartfalen worden de (meest waarschijnlijke) oorzaak of oorzaken hiervan opgespoord. Vooral hypertensie, ischemische hartziekte, ritme- en geleidingsstoornissen en klepafwijkingen zijn belangrijke, behandelbare oorzaken van hartfalen. Laboratoriumonderzoek, ecg en echocardiografie zijn belangrijk om de oorzaken na te gaan; met echocardiografie is daarnaast ook vast te stellen of er sprake is van systolisch of diastolisch hartfalen, hetgeen consequenties heeft voor de medicamenteuze behandeling.
+
+Richtlijnen beleid  
+
+Voorlichting en leefstijlinterventies 
+
+Voorlichting over de aandoening en het belang van de behandeling zijn nodig om de patiënt in staat te stellen adequaat om te gaan met zijn ziekte. Zelfzorg is een belangrijk onderdeel van een succesvolle behandeling van hartfalen, levert bij patiënten met hartfalen een belangrijke bijdrage aan de kwaliteit van leven en kan de prognose verbeteren. Van belang zijn het behoud van een zo goed mogelijke lichamelijke conditie, vermijding van gedrag dat de ziekte nadelig beïnvloedt, bijtijds opmerken van symptomen van verslechtering en therapietrouw. Patiëntenvoorlichting dient over langere tijd en bij herhaling plaats te vinden. Een actieve betrokkenheid van de patiënt (en van familie of mantelzorgers) is een voorwaarde, evenals het hebben van voldoende kennis en vaardigheden om beslissingen te nemen. De belangrijkste aspecten die bij de voorlichting van patiënten met hartfalen aan de orde moeten komen, zijn de volgende.)
+Zelfmedicatie. Vermijd bij hartfalen zoveel mogelijk het gebruik van NSAID's.
+
+Flexibel diureticabeleid. Het aanpassen van de dosering diuretica binnen een tevoren afgesproken dosisgebied, op basis van de klachten en van eventuele bekende of voorspelbare situaties (meer diuretica bij snel toegenomen lichaamsgewicht of overmatige natriuminname; minder diuretica bij diarree of braken, koorts en warm weer) kan als zelfzorg worden aanbevolen indien de patiënt voldoende kennis van de aandoening heeft. De dosisaanpassing is meestal kortdurend nodig, afhankelijk van het kunnen wegnemen van de 'trigger' die voor ontregeling heeft gezorgd.
+
+Bewaking van het lichaamsgewicht. De patiënt moet dagelijks gewogen worden (of zichzelf wegen), bij voorkeur 's morgens na het opstaan. Bij een gewichtstoename van 2 kg of meer in drie dagen mag de patiënt zelf zijn diureticumdosis tijdelijk verhogen of moet hij contact opnemen met de behandelaar.
+
+Natriumbeperking. Adviseer enige mate van natriumbeperking bij hartfalen; raad de patiënt aan piekinnames te vermijden.
+
+Vochtinname. Overweeg vochtbeperking van 1,5 à 2 liter per dag bij patiënten met ernstig hartfalen (NYHA-klasse III en IV), in het bijzonder bij hypervolemische hyponatriëmie;
+
+Meervoudig onverzadigde vetzuren. Bij patiënten met zowel systolisch als diastolisch hartfalen kan toevoeging van omega-3-vetzuren (1 g per dag) aan de standaardbehandeling worden overwogen, omdat dit de kans op sterfte en cardiovasculaire ziekenhuisopnames verkleint.
+
+Alcohol. Beperk de alcoholinname tot 1 à 2 eenheden per dag. Bij alcoholgeïnduceerde cardiomyopathie wordt totale abstinentie aangeraden.
+
+Gewichtsreductie. Moet worden overwogen bij patiënten met obesitas (BMI > 30 kg/m2).
+
+Onbedoeld gewichtverlies. Schenk in geval van cachexie (onbedoeld gewichtsverlies in de laatste zes tot twaalf maanden van meer dan 6% van het uitgangsgewicht na correctie voor over- en onderhydratie), aandacht aan de voedingstoestand van de patiënt;
+
+Roken. Adviseer het roken te staken.
+
+Vaccinatie. Adviseer de jaarlijkse griepvaccinatie.
+
+Lichaamsbeweging en conditietraining. Adviseer conditietraining aan alle patiënten met stabiel chronisch hartfalen.
+
+Seksuele activiteit. Is in het algemeen goed mogelijk, met een voorbehoud voor patiënten in NYHA-klasse III of IV.
+
+Reizen. Patiënten met hartfalen kunnen per vliegtuig reizen. Verblijf op grote hoogte (kortdurend > 2000 m en langerdurend > 1500 m) en reizen naar zeer warme en vochtige gebieden moet worden ontraden aan niet geheel klachtenvrije patiënten.
+
+Slaapstoornissen. Bij hartfalen komt slaapapneu vaak voor. Omdat de behandeling de morbiditeit verlaagt, kan slaaponderzoek worden overwogen;
+
+Autorijden. Patiënten in NYHA-klasse IV (klachten in rust) zijn in principe ongeschikt voor het besturen van een auto.
+
+In aansluiting op de gegeven mondelinge voorlichting kunt u de patiënt de NHG-Patiëntenbrieven Aanpak van hartfalen, Hartfalen algemeen en Voeding bij hartfalen meegeven. Deze brieven zijn gebaseerd op de NHG-Standaard Hartfalen. Zie voor een overzicht de NHG-website www.nhg.org, rubriek patiëntenvoorlichting.
+
+Medicamenteuze behandeling 
+
+De hoofddoelen van de behandeling van hartfalen zijn:
+
+het reduceren van mortaliteit;
+het reduceren van het risico op ziekenhuisopname voor hartfalen;
+het verbeteren van klachten en kwaliteit van leven.
+Behandeling van systolisch hartfalen
+
+Een praktische aanpak is tegelijkertijd te beginnen met een diureticum en een ACE-remmer (of een AII-antagonist indien ACE-remmers niet worden verdragen). Indien de patiënt klinisch stabiel is (geen duidelijke klinische tekenen van overvulling heeft), moet een bètablokker in lage dosering worden toegevoegd. Vervolgens worden ACE-remmer en bètablokker verder opgetitreerd tot de streefdosis, of tot de maximale dosis die wordt verdragen zonder bijwerkingen.
+
+Voor een schematische weergave van de medicamenteuze therapie zie het kader Medicamenteuze behandeling van systolisch hartfalen. Start- en streefdoseringen en controles zijn weergegeven in tabel 2.
+
+Tabel 2 Doseringen van medicatie bij hartfalen en controles
+
+Medicament	Startdosis	Streefdosis/onderhoudsdosis
+ACE-remmers	 	 
+captopril	6,25 mg 3dd	50-100 mg 3dd
+enalapril	2,5 mg 2dd	10-20 mg 2dd
+lisinopril	2,5-5 mg 1dd	20-35 mg 1dd
+ramipril	2,5 mg 1dd	5 mg 2dd
+trandolapril	0,5 mg 1dd	4 mg 1dd
+Controleer nierfunctie en serumelektrolyten bij start van de behandeling en 1-2 weken na de start van de behandeling. Optitratie van de dosis dient elke 2-4 weken in overweging genomen te worden. Bij een sterk teruglopende nierfunctie (> 50% daling creatinineklaring of creatinineklaring < 30/ml/min.) of een serumkalium > 5 mmol/l wordt verdere dosisverhoging uitgesteld. De nierfunctie en serumelektrolyten dienen 2-4 weken na elke dosisverdubbeling te worden gecontroleerd. Snellere dosisoptitratie kan, mits onder strenge monitoringcondities. Streef naar een onderhoudsdosis die overeenkomt met de evidence-based streefdosis of de maximaal getolereerde dosis. De nierfunctie en serumelektrolyten dienen 1, 2, 3 en 6 maanden na het bereiken van de onderhoudsdosis te worden gecontroleerd en daarna elke 6 maanden.
+ 	 	 
+Diuretica	 	 
+Lisdiuretica	 	 
+furosemide	20-40 mg	40-240 mg
+bumetanide	0,5-1,0 mg	1-5 mg
+ 	 	 
+Thiazides	 	 
+hydrochloorthiazide	25 mg	12,5-100 mg
+chloortalidon	25 mg	12,5-50 mg
+Start met een lage dosis (meestal wordt de voorkeur gegeven aan lisdiureticuma boven thiazide) en verhoog deze totdat klinische verbetering van de vochtretentie optreedt. Bij patiënten met een verminderde nierfunctie is een hogere dosis nodig. De dosis dient te worden verlaagd nadat de patiënt voldoende ontwaterd is, om de kans op dehydratie en nierfunctievermindering klein te houden. Houd de onderhoudsdosis diuretica zo laag mogelijk. Bij optimale instelling op ACE-remmers en bètablokkers kan vaak worden volstaan met een lage dosis diuretica of zelfs met intermitterend gebruik op geleide van de eerste tekenen van vochtretentie. Dagelijks wegen en voorlichting over verschijnselen van vochtretentie en flexibele zelfdosering van diuretica kunnen patiënten in staat stellen om hun diureticadosis zo laag mogelijk te houden maar tevens, zo nodig, snel op te hogen. Controleer regelmatig serumelektrolyten en creatinineklaring. Waakzaamheid is geboden vanwege de risico's op hypovolemie, hypokaliëmie en hyponatriëmie. Volumedepletie en hyponatriëmie door te hoge dosering van diuretica kunnen het risico van (orthostatische) hypotensie en nierfunctiestoornissen vergroten.
+Βètablokkers	 	 
+bisoprolol	1,25 mg 1dd	10 mg 1dd
+carvedilol	3,125 mg 2dd	25-50 mg 2dd
+metoprololsuccinaat met vertraagde afgifte	12,5/25 mg 1dd	200 mg 1dd
+nebivolol	1,25 mg 1dd	10 mg 1dd
+Dosisoptitratie elke 2-4 weken; bij sommige patiënten is een langzamer tempo van optitreren nodig omdat bètablokkers soms in de beginfase van de therapie tijdelijk een verergering van de klachten kunnen geven. Dosisoptitratie dient dan ook langzaam en gecontroleerd plaats te vinden. Verhoog de dosis niet als er tekenen zijn van exacerberend hartfalen (meer vochtretentie), symptomatische hypotensie (bijvoorbeeld duizeligheid bij opstaan) of bradycardie (< 50/min.). Het is gebruikelijk om de dosisverhogingen als verdubbelingen stapsgewijs uit te voeren. Zo mogelijk wordt de dosis opgevoerd tot de streefdosis of tot de maximaal getolereerde dosis.
+ 	 	 
+Aldosteronantagonisten	 	 
+spironolacton	25 mg 1dd	25 mg (bij progressief hartfalen evt. 50 mg 1dd)
+eplerenon	25 mg 1dd	50 mg 1dd
+Controleer nierfunctie en serumelektrolyten bij start van de behandeling en 1 en 4 weken na start van de behandeling. Extra controles van serumkalium bij een klaring van 10-50 ml/min. Overweeg na 4-8 weken verhoging van de dosis tot 50 mg 1dd alleen bij progressief hartfalen als de nierfunctie niet verslechtert en het kalium < 5 mmol/l blijft. Controleer de nierfunctie en serumelektrolyten na de dosisverhoging na 1 en 4 weken. Streef naar de evidence-based onderhoudsdosis mits nierfunctie en serumelektrolyten normaal blijven. Controleer nierfunctie en serumelektrolyten na 1, 2, 3 en 6 maanden en verder elke 6 maanden na het instellen op de onderhoudsdosis.
+ 	 	 
+AII-antagonisten	 	 
+candesartan	4 of 8 mg 1dd	32 mg 1dd
+valsartan	40 mg 2dd	160 mg 2dd
+Controleer nierfunctie en serumelektrolyten bij start van de behandeling en 1 en 2 weken na de start van de behandeling. Overweeg dosis te verhogen na 2-4 weken als de nierfunctie niet verslechtert en geen hyperkaliëmie ontstaat; controleer dit 1 en 2 weken na dosisverhoging. Streef naar een evidence-based onderhoudsdosis of naar de maximaal getolereerde dosis. Controleer nierfunctie en serumelektrolyten na 1, 2, 3 en 6 maanden en verder elke 6 maanden na het instellen op de onderhoudsdosis.
+Digoxine	Een oplaaddosis digoxine is niet zinvol bij stabiele patiënten met een sinusritme. De gebruikelijke onderhoudsdosis bij een normale nierfunctie is 0,25 mg 1dd. Bij ouderen en bij verminderde nierfunctie wordt een lagere dosis van 0,125 mg of 0,0625 mg 1dd aanbevolen.
+Bepaal bij verdenking op digoxine-intoxicatie de digoxinespiegel (de therapeutische serumdigoxineconcentratie is 0,6-1,2 nmol/l).
+Medicamenteuze behandeling van systolisch hartfalen
+
+Start bij een hartfalenpatiënt in NYHA-klasse II-IV met zowel een diureticum als een ACE-remmer en titreer de dosis tot de patiënt klinisch stabiel is.
+Voeg bij klinisch stabiele patiënt (geen overvulling) altijd een bètablokker toe en titreer de dosis van de ACE-remmer en de bètablokker stapsgewijs naar de streefdosis of naar de maximale dosis die wordt verdragen.
+Iedere patiënt met systolisch hartfalen dient bovenstaande therapie te krijgen, tenzij er sprake is van contra-indicaties.
+
+Voeg een aldosteronantagonist toe aan patiënten die ondanks adequate instelling op een ACE-remmer, diureticum en bètablokker ernstige klachten (NYHA-klasse III-IV) houden.of:Aan deze patiënten kan een AII-antagonist worden voorgeschreven als alternatief voor behandeling met een aldosteronantagonist.
+Overweeg toevoeging van digoxine bij patiënten met atriumfibrilleren bij wie ondanks een bètablokker de ventrikelfrequentie in rust > 80/min. of bij inspanning > 110-120/min. blijft.Overweeg toevoeging van digoxine bij patiënten met sinusritme die klachten houden ondanks behandeling met een ACE-remmer, diureticum, bètablokker en aldosteronantagonist of AII-antagonist.
+ACE-remmers
+
+Indicatie
+
+Angiotensineconverterendenzymremmers worden gegeven aan alle patiënten met systolisch hartfalen.
+
+Bij patiënten met geleidelijk ontstaan nieuw hartfalen en tekenen van vochtretentie wordt gestart met een combinatie van een ACE-remmer en een diureticum.
+
+Contra-indicaties
+
+Angio-oedeem in de voorgeschiedenis.
+Tweezijdige nierarteriestenose.
+Aortaklepstenose; hierbij kan ernstige hypotensie optreden.
+Uitgangswaarde van het serumkalium > 5 mmol/l.
+Creatinineklaring < 10 ml/min. (dosisaanpassing bij < 30 ml/min.).
+Zwangerschap.
+Bijwerkingen
+
+Nierfunctieverslechtering: enige daling van de creatinineklaring na de start met ACE-remmers kan als normaal worden beschouwd. Ontraad het gebruik van NSAID's. Daling van de creatinineklaring met 50% van de uitgangswaarde en daling tot een klaring van 30 ml/min. zijn nog acceptabel. Bij een creatinineklaring (GFR) tussen de 30 en 15 ml/min. wordt dosishalvering geadviseerd. Bij een daling onder de 15 ml/min. dient de ACE-remmer te worden gestaakt. Bij aanhoudende lage waarde van de creatinineklaring (< 30 ml/min.) wordt consultatie van een internist (nefroloog) aanbevolen.
+Hyperkaliëmie: ga na of andere kaliumsparende diuretica (triamtereen, amiloride) worden voorgeschreven. Natriumarme voeding en zoutvervangers kunnen zeer kaliumrijk zijn. Een serumkaliumstijging tot 5,5 mmol/l door de ACE-remmer is acceptabel. Bij serumkalium > 5,5 mmol/l: halveer de dosis ACE-remmer en controleer het serumkalium. Bij serumkalium > 6,0 mmol/l: stop de ACE-remmer direct en controleer het serumkalium.
+Symptomatische (orthostatische) hypotensie (duizeligheid, collapsneiging bij overgang liggen-zitten-staan): indien een patiënt bij het starten van een ACE-remmer al een diureticum gebruikt, bestaat de kans op 'first dose'-hypotensie. Deze kans is groter in geval van volumedepletie of hyponatriëmie. Het kan daarom nodig zijn om tijdelijk de dosis van het diureticum te verlagen.
+Hoest: hinderlijke hoest als bijwerking van een ACE-remmer is een reden om over te schakelen op een AII-antagonist.
+Diuretica
+
+Indicatie
+
+Diuretica zijn geïndiceerd bij patiënten met hartfalen en klinische tekenen van vochtretentie.
+
+Geadviseerd wordt om bij patiënten met geleide lijk ontstaan nieuw hartfalen met tekenen van vochtretentie te starten met een combinatie van een ACE-remmer en een diureticum. Lisdiuretica hebben de voorkeur boven thiazidediuretica. Thiazidediuretica kunnen worden overwogen bij (zeer) geringe overvulling en bij mannen met benigne prostaathypertrofie. Combinatie van een lisdiureticum met een thiazide is effectief bij onvoldoende respons op het lisdiureticum alleen (diureticaresistentie). Andere mogelijke interventies bij diureticaresistentie zijn: furosemide vervangen door bumetanide, een aldosteronantagonist toevoegen, kortdurend parenteraal furosemide toedienen. Geef geen thiazide bij een creatineklaring < 30ml/min., uitgezonderd de synergistische toepassing in combinatie met een lisdiureticum om diureticaresistentie te doorbreken.
+
+Bijwerkingen
+
+Hypokaliëmie/hypomagnesiëmie: verhoog de dosering ACE-remmer of AII-antagonist, voeg aldosteronantagonist toe en eventueel kalium- en magnesiumsupplementen. Hypokaliëmie gaat hand in hand met hypomagnesiëmie maar treedt eerder op, zodat bij laboratoriumcontroles bepaling van het serumkaliumgehalte volstaat.
+Normo- of hypovolemische hyponatriëmie: verlaag de dosis of stop het diureticum zo mogelijk, zo nodig vochtbeperking, eventueel tijdelijk natriumsuppletie.
+Hyperuricemie en jicht.
+Hypovolemie/dehydratie.
+Bètablokkers
+
+Indicatie
+
+Bètablokkers zijn geïndiceerd bij patiënten met systolisch hartfalen, tenzij er sprake is van specifieke contra-indicaties.
+
+Om met bètablokkers te starten dient de patiënt klinisch stabiel te zijn en eerst ingesteld op een optimale dosis ACE-remmer en/of AII-antagonist, en geen klinische tekenen van overvulling te hebben. Bij exacerberend hartfalen kan tijdelijke dosisreductie van bètablokkers nodig zijn. Stoppen moet zoveel mogelijk vermeden worden, mede ook gezien de reflextachycardie die daardoor ontstaat.
+
+Contra-indicaties
+
+Tweede- of derdegraads atrioventriculair blok.
+'Sick sinus syndrome' zonder pacemaker.
+Sinusbradycardie (< 50/min.).
+COPD is geen contra-indicatie en de meeste mensen met astma verdragen ook goed (cardioselectieve) bètablokkers.
+Bijwerkingen
+
+Symptomatische hypotensie: verbetert vaak spontaan na enige tijd. Overweeg dosisverlaging van andere bloeddrukverlagende medicatie, behalve van ACE-remmers en AII-antagonisten. Te denken valt aan diuretica en nitraten.
+Klinische verslechtering van hartfalen: verhoog de dosering diuretica. Continueer zo mogelijk de bètablokker, eventueel in een lagere dosis.
+Bradycardie: maak een ecg om een atrioventriculair blok uit te sluiten. Overweeg eventueel digoxinegebruik te stoppen. Staken van de bètablokker kan nodig zijn.
+Aldosteronantagonisten
+
+Indicatie
+
+Aldosteronantagonisten worden gegeven aan patiënten met systolisch hartfalen die ondanks adequate instelling op een ACE-remmer, diureticum en bètablokker nog ernstige klachten hebben (NYHA-klasse III-IV).
+
+Contra-indicaties
+
+Uitgangswaarde van de serumkaliumconcentratie > 5 mmol/l.
+Creatinineklaring < 10 ml/min.
+Gelijktijdig gebruik van kaliumsparende diuretica of kaliumsupplementen.
+Gecombineerde behandeling met een ACE-remmer en een AII-antagonist.
+Bijwerkingen
+
+Hyperkaliëmie: indien het kalium stijgt tot > 5,5 mmol/l, moet de dosering worden gehalveerd. Bij kalium > 6,0 mmol/l moet de aldosteronantagonist worden gestaakt, het kalium frequent worden gecontroleerd en zo nodig worden gestart met specifieke therapie voor hyperkaliëmie.
+Nierfunctieverslechtering: bij een daling van de creatinineklaring onder de 45 ml/min. moet de dosering worden gehalveerd. Onder de 15 ml/min. moet de aldosteronantagonist direct worden gestaakt en zo nodig worden gestart met specifieke therapie voor nierinsufficiëntie.
+Pijnlijke borsten of gynaecomastie: kan optreden bij mannen door oestrogeenagonistische werking. Vervang spironolacton zo nodig door eplerenon.
+AII-antagonisten
+
+Indicatie
+
+Angiotensine-II-receptorblokkers kunnen worden overwogen bij patiënten met systolisch hartfalen die met optimale behandeling met ACE-remmers, diuretica en bètablokkers niet klachtenvrij zijn (NYHA-klasse II-IV), als alternatief voor behandeling met een aldosteronantagonist. AII-antagonisten worden gegeven in plaats van ACE-remmers aan patiënten die hinderlijke bijwerkingen ondervinden van ACE-remmers.
+
+Contra-indicaties
+
+Als bij ACE-remmers, behalve angio-oedeem.
+Patiënten die combinatietherapie krijgen met een ACE-remmer en een aldosteronantagonist.
+Ernstig gestoorde nierfunctie en verhoogd serumkalium.
+Bij aortaklepstenose kan ernstige hypotensie optreden.
+Bijwerkingen
+
+AII-antagonisten veroorzaken ongeveer even vaak als ACE-remmers nierfunctieverslechtering, hyperkaliëmie en hypotensie. Hoest komt weinig voor als bijwerking van AII-antagonisten.
+
+Digoxine
+
+Indicatie
+
+Bij patiënten met systolisch hartfalen en atriumfibrilleren, bij wie ondanks een bètablokker de ventrikelfrequentie in rust > 80/min. of bij inspanning > 110-120/min. blijft, kan digoxine worden toegevoegd. Zie verder noot 39 en de NHG-Standaard Atriumfibrilleren.
+
+Bij patiënten met sinusritme en systolisch hartfalen kan behandeling met digoxine worden overwogen als de patiënt symptomatisch blijft ondanks behandeling met een ACE-remmer, diureticum, bètablokker en een AII-antagonist of aldosteronantagonist.
+
+Contra-indicaties
+
+Tweede- of derdegraads atrioventriculair blok zonder pacemaker; voorzichtigheid is geboden bij verdenking op 'sick sinus syndrome'.
+Hyper- of hypokaliëmie.
+Bijwerkingen
+
+Sinoatriaal en AV-blok.
+Zowel supraventriculaire als ventriculaire aritmieën komen voor.
+Symptomen van digoxine-intoxicatie zijn verwardheid, misselijkheid, eetlustverlies en gestoord kleurenzien.
+De combinatie van hydralazine en isosorbidedinitraat wordt in Europa zelden gebruikt, maar kan worden gegeven aan patiënten met systolisch hartfalen als alternatief voor ACE-remmers of AII-antagonisten, bij patiënten die beide niet verdragen en bij negroïde patiënten. Bij negroïde mensen zijn ACE-remmers en AII-antagonisten minder werkzaam dan bij mensen van het Kaukasische ras.
+
+Behandeling van diastolisch hartfalen
+
+Een gecombineerde systolische en diastolische disfunctie wordt behandeld zoals beschreven onder Behandeling van systolisch hartfalen.
+
+Van geen enkele behandeling is tot op heden overtuigend aangetoond dat deze de morbiditeit en mortaliteit bij patiënten met diastolisch hartfalen vermindert.
+
+Het volgende beleid wordt aanbevolen:
+
+diuretica indien er sprake is van vochtretentie;
+adequate behandeling van hypertensie (er is geen afdoende bewijs dat een bepaald antihypertensivum de voorkeur verdient);
+adequate vermindering van de hartfrequentie bij een tachycardie;
+bijkomende morbiditeit (myocardinfarct) wordt behandeld conform de desbetreffende richtlijnen.
+Overige medicamenteuze behandeling bij hartfalen
+
+Orale anticoagulantia (cumarines)
+
+Patiënten met hartfalen en atriumfibrilleren komen in aanmerking voor behandeling met cumarines dan wel een plaatjesaggregatieremmer (zie noot 42). Dit is conform de adviezen in de NHG-Standaard Atriumfibrilleren.
+
+Statines
+
+Hartfalen is geen reden voor start van een cholesterolsyntheseremmer (statine). Indien patiënten met hartfalen een statine gebruiken voor een andere indicatie wordt deze behandeling voortgezet.
+
+Calciumantagonisten
+
+Calciumantagonisten die als antihypertensivum worden voorgeschreven dienen bij systolisch hartfalen te worden vervangen door bijvoorbeeld ACE-remmers, AII-antagonisten of bètablokkers. Wanneer met deze middelen onvoldoende controle van bloeddruk of angina pectoris wordt bereikt, kunnen zo nodig alleen langwerkende dihydropyridines veilig worden toegepast.
+
+Controles
+
+Bij alle patiënten met hartfalen zijn frequente controles noodzakelijk. De frequentie is afhankelijk van de individuele situatie. Na elke verandering in de medicatie, bijvoorbeeld in de optitreerfase, is het wenselijk de patiënt op korte termijn terug te zien. De werkgroep adviseert om patiënten met hartfalen die eenmaal medicamenteus goed ingesteld zijn, eenmaal per drie maanden te controleren.
+
+Besteed tijdens deze controles vooral aandacht aan het inspanningsvermogen en vraag naar eventuele bijwerkingen van de medicatie. Lichamelijk onderzoek bestaat minstens uit het meten van de bloeddruk (zittend en staand), het voelen van de pols en wegen. Aanvullend onderzoek is nodig bij een afwijkend beloop van de klachten. Klachten kunnen over de tijd variëren, er is niet altijd een oorzaak voor aan te tonen. Besteed bij toename van klachten of symptomen in kortere tijd bij patiënten met onderhoudsmedicatie aandacht aan uitlokkende factoren zoals infecties, NSAID-gebruik, extra zout of onjuist toepassen van de therapie. De patiënt krijgt zo nodig nogmaals uitleg over de aard van de aandoening en het belang van therapietrouw. Vraag of de patiënt de voorgeschreven medicatie inneemt, benadruk het belang van de behandeling en het juiste gebruik van de voorgeschreven medicatie.
+
+Devices, percutane behandeling en chirurgie 
+
+Aandoeningen (coronaire hartziekte, hartklepgebreken, ritme- en geleidingsstoornissen) die de oorzaak zijn van het hartfalen en die door percutane of chirurgische behandeling of met behulp van devices gecorrigeerd kunnen worden, moeten worden opgespoord en behandeld indien de voordelen van de behandeling opwegen tegen de kans op complicaties ten gevolge daarvan. Zulke aandoeningen kunnen zich ook ontwikkelen bij het voortschrijden van het hartfalen. Daarom zijn naast de driemaandelijkse controles ook regelmatige (jaarlijkse) herhalingen van ecg en echocardiografie nodig, en eerder bij onverklaarde snelle achteruitgang van het hartfalen, collaps en aanwijzingen voor brady- of tachycardieën. Indien bij iemand met systolisch hartfalen en optimale therapie op het ecg een QRS > 120 ms ontstaat en er geen sprake is van atriumfibrilleren, moet cardiale resynchronisatietherapie (CRT) worden overwogen, en bij een LVEF < 35% een intracardiale defibrillator (ICD) . Beide devices kunnen gecombineerd gebruikt worden (CRT-D).
+
+Voor meer gedetailleerde informatie over mogelijke interventies wordt verwezen naar de Multidisciplinaire richtlijn Hartfalen 2010 (zie noot 1).
+
+Ritmestoornissen bij hartfalen 
+
+Atriumfibrilleren
+
+Atriumfibrilleren is de meest voorkomende ritmestoornis bij hartfalen en kan zowel oorzaak als gevolg zijn van hartfalen. Uitlokkende factoren en comorbiditeit moeten worden opgespoord en indien mogelijk gecorrigeerd (bijvoorbeeld elektrolytstoornissen, hyperthyreoïdie, alcoholgebruik, mitralisklepafwijking, acute ischemie, acute pulmonale aandoening, infectie, ongecontroleerde hypertensie). Zie ook de NHG-Standaard Atriumfibrilleren.
+
+Consultatie en verwijzing 
+
+Het heeft de voorkeur om voor consultatie en verwijzing samen te werken met cardiologen met wie een uitgewerkte samenwerkingsrelatie bestaat, zodanig dat de huisartsenzorg aansluit bij de specialistische zorg. Zie ook de paragraaf Multidisciplinaire 'ketenzorg' en hartfalenprogramma's.
+
+Consultatie van of verwijzing naar een cardioloog voor diagnostiek en (een) behandeling(sadvies) is geïndiceerd in de volgende gevallen:
+
+bij twijfel over de diagnose hartfalen;
+voor het verrichten en interpreteren van echocardiografie;
+bij onvoldoende verbetering op ingestelde medicamenteuze therapie of bij abrupte verslechtering;
+bij hartfalen ten gevolge van mogelijk corrigeerbare afwijkingen, zoals kleplijden of een ritme- of geleidingsstoornis waarbij een indicatie zou kunnen bestaan voor chirurgie of devices;
+bij vermoeden van een recent myocardinfarct;
+als de patiënt naast hartfalen ook angina pectoris heeft en/of ST-T-afwijkingen op het ecg die passen bij ischemie, en de algehele conditie een eventuele PCI of CABG als behandeloptie toelaat;
+bij relatief jonge patiënten;
+bij verdenking op cardiomyopathie;
+als bij systolisch hartfalen de ejectiefractie < 35% is bij patiënten die klachten houden ondanks optimale therapie met drie middelen (diuretica, ACE-remmers en bètablokkers) om te beoordelen of ICD zinvol is;
+bij systolisch hartfalen bij patiënten die klachten houden ondanks optimale therapie met vier middelen (diuretica, ACE-remmers, bètablokkers en aldosteronantagonisten of AII-antagonisten) en een verbreed QRS-complex (> 120 msec) om te beoordelen of cardiale resynchronisatietherapie (CRT) zinvol is.
+Acuut hartfalenacuut hartfalen  
+
+Definitie 
+
+Acuut hartfalen is gedefinieerd als een snel begin of een snelle toename van verschijnselen van hartfalen, waarbij behandeling spoedeisend is. Het kan gaan om een eerste presentatie van hartfalen of om verergering van bestaand chronisch hartfalen. Er is sprake van een acute stressreactie van het lichaam met hoge spiegels (nor)adrenaline. Bij acuut hartfalen staat longstuwing meestal op de voorgrond, hoewel bij sommige patiënten een verminderde cardiac output en weefselhypoperfusie het klinisch beeld kunnen bepalen. Ernstig acuut hartfalen kan leiden tot 'multi-organ failure'. Bij adequate behandeling in de acute fase moet ook de onderliggende pathologie worden betrokken.
+
+Oorzaken van acuut hartfalen kunnen zijn: ischemie inclusief een acuut myocardinfarct, hartritmestoornissen, klepdisfunctie, pericardaandoeningen, verhoogde vullingsdrukken of een verhoogde perifere weerstand. Vaak is er sprake van combinaties van deze oorzaken. Ook infecties, anemie, thyreotoxicose, slechte therapietrouw, gebruik van geneesmiddelen zoals NSAID's, COX-2-remmers, thiazolidinedionen of corticosteroïden kunnen acuut hartfalen uitlokken, met name bij mensen die bekend zijn met chronisch hartfalen. De prognostische indicatoren bij acuut hartfalen zijn dezelfde als bij chronisch hartfalen.
+
+Diagnostiek bij acuut hartfalen 
+
+De huisarts stelt de diagnose acuut hartfalen primair op anamnese en lichamelijk onderzoek.
+
+Lichamelijk onderzoek
+
+Algemene indruk en beoordeling van de perifere circulatie en huidtemperatuur. Veelal is de patiënt (half) zittend gepositioneerd, met een angstige blik in de ogen, heeft een reutelende/tachypnoïsche ademhaling, ziet bleek/grauw en de huid voelt koud/klam.
+
+Pols. Meestal is deze tachycard en 'dun' door (nor)adrenaline.
+
+Bloeddruk. Deze kan hoog (door (nor)adrenaline), normaal of laag zijn. Bij lage bloeddruk is het hart te zwak om ondanks hoge spiegels (nor)adrenaline de bloeddruk te handhaven. Een lage bloeddruk is het meest bedreigend.
+
+Auscultatie van het hart. Geruisen en een derde of vierde harttoon. Mitralisklepinsufficiëntie komt frequent voor bij acuut hartfalen. Bij een heftig reutelende patiënt is auscultatie van het hart (nagenoeg) onmogelijk.
+
+Auscultatie van de longen. Tweezijdig basaal crepiteren, maar ook rhonchi en pulmonaal piepen door bronchoconstrictie ('asthma cardiale') zijn symptomatisch voor een verhoogde vullingsdruk in het linker atrium, die zich voortzet in het veneuze longvaatbed. Vooral bij een acute exacerbatie van chronisch hartfalen kan ook demping en nauwelijks of geen ademgeruis basaal (passend bij pleuravocht) aantoonbaar zijn. Het ontstaan van pleuravocht neemt veelal uren tot dagen in beslag.
+
+Centraalveneuze druk . Deze is verhoogd, passend bij een verhoogde vullingsdruk in het rechter atrium. Bij erg dyspnoïsche patiënten wordt de patiënt niet neergelegd om dit te vast te stellen, omdat dit te belastend is.
+
+In de thuissituatie is monitoring beperkt tot directe observatie, bloeddrukmeting en eventueel zuurstofsaturatiemeting.
+
+Behandeling 
+
+Als (aan de telefoon) blijkt dat er sprake is van een ernstig benauwde, reutelende patiënt of een benauwde patiënt met aanhoudende pijn op de borst, is een spoedvisite geïndiceerd. Geef alvast het advies de patiënt rechtop te laten zitten. Overweeg de patiënt, als deze nitroglycerine of isosorbidedinitraat onder de tong gebruikt voor angineuze klachten, een tabletje of pufje te laten nemen ongeacht of er pijn op de borst is. Hierbij neemt de huisarts een 'gewogen' risico: het risico op bloeddrukdaling door nitraatgebruik tegen het voordeel van zo snel mogelijk starten met deze behandeling.
+
+Primair gaat het om symptoomverbetering en hemodynamische stabilisering. Diuretica en vaatverwijders (nitraten) worden gegeven ter vermindering van dyspneu als gevolg van longstuwing. De volgende behandelingen worden bij acuut hartfalen geadviseerd:
+
+Lisdiuretica
+
+Een lisdiureticum wordt aanbevolen bij acuut hartfalen bij symptomen als gevolg van veneuze stuwing of vochtretentie. Bij matige vochtretentie wordt oraal of intraveneus furosemide 20-40 mg of bumetanide 0,5-1 mg gegeven. Bij ernstige vochtretentie kan, afhankelijk van de ernst en titrerend op geleide van de respons, furosemide i.v. worden opgehoogd tot 100 mg of bumetanide tot 4 mg oraal of i.v.
+
+Patiënten met hypotensie (systolische bloeddruk < 90 mmHg), ernstige hyponatriëmie of acidose reageren minder goed op diuretische behandeling. Hoge doses diuretica kunnen leiden tot hypovolemie en hyponatriëmie.
+
+Vaatverwijders
+
+Nitraten worden aanbevolen als vaatverwijders bij acuut hartfalen als er geen sprake is van symptomatische hypotensie, een systolische bloeddruk < 90 mmHg of ernstige obstructieve hartklepaandoeningen. Deze middelen verlagen de bloeddruk, verlagen de linker en rechter vullingsdrukken en de systemische perifere weerstand, en doen daarmee de dyspneu afnemen. In de thuissituatie kan sublinguale toediening snel effectief zijn. Tot de klachten voldoende verbeteren of de bloeddruk daalt < 90 mmHg kan elke drie minuten 0,8-1,6 mg nitroglycerine oromucosaal worden toegediend.
+
+Zuurstof
+
+Toediening van zuurstof wordt aanbevolen bij hypoxemische patiënten (5-20 l/min. is gebruikelijk). Gestreefd wordt naar een zuurstofsaturatie > 95% (bij COPD-patiënten > 90%). Bij patiënten met ernstig COPD is waakzaamheid geboden voor hypercapnie en kan 2 l/min. gegeven worden.
+
+Morfine en morfine-analogen bij acuut hartfalen
+
+Morfine kan worden toegepast in de vroege fase van acuut hartfalen, in het bijzonder bij onrust, dyspneu, angst of pijn op de borst. Toediening van een intraveneuze bolus van 2,5-5 mg kan worden herhaald zo vaak als nodig is. Voorzichtigheid is geboden bij patiënten met hypotensie, bradycardie, tweede- of derdegraads AV-blok of CO2-retentie.
+
+Verwijzing
+
+De patiënt wordt verwezen bij onvoldoende resultaat van de behandeling, ontoereikende zorgmogelijkheden of een vermoeden van een myocardinfarct als oorzaak of andere (invasief) behandelbare oorzaak voor het acute hartfalen.
+
+Vervolgbehandeling na acute episode
+
+Zo spoedig mogelijk na stabilisatie van acuut hartfalen dient in principe behandeling voor chronisch hartfalen te worden ingesteld of bijgesteld. Patiënten met acuut hartfalen als eerste uitingsvorm van hartfalen hebben een grote kans om chronisch hartfalen te ontwikkelen. Aan deze patiënten worden daarom ACE-remmers of AII-antagonisten gegeven.
+
+Bij patiënten met acuut gedecompenseerd chronisch hartfalen wordt aanbevolen om tijdelijk de dosis bètablokkers te verlagen of geheel te stoppen bij complicaties zoals bradycardie, tweede- of derdegraads AV-blok, persisterend bronchospasme of cardiogene shock, of in gevallen van ernstig acuut hartfalen met een slechte respons op therapie. Gezien de kans op reflextachycardie en -hypertensie en het voor de lange termijn gunstige werkingsprofiel van bètablokkers, worden zij gecontinueerd in de vervolgfase na de acute episode.
+
+Palliatieve en terminale zorg bij hartfalen 
+
+Ernstig hartfalen kent een zeer slechte éénjaarsoverleving. Hartfalen heeft een moeilijk voorspelbaar ziektebeloop met acute exacerbaties en het is vaak moeilijk om het moment te bepalen waarop therapeutische zorg zou moeten overgaan in palliatieve zorg. In de praktijk worden hartfalers regelmatig opgenomen en gaat hun klinische conditie steeds verder achteruit. Zij worden gewoonlijk niet verwezen naar gespecialiseerde palliatieve zorgcentra. In de eindfase draait alles om het 'maximaliseren' van het comfort van de patiënt en is het beleid niet meer gericht op verlenging van de levensduur. Een aantal aspecten van de terminale zorg bij hartfalen is gelijk aan die bij andere aandoeningen (zoals kanker). Voor angst, onrust en pijn worden ook anxiolytica, haldol en morfine gebruikt. Een belangrijk verschil tussen de terminale zorg bij hartfalen en de terminale zorg bij een maligniteit is dat de hartfalenmedicatie grotendeels wordt gecontinueerd omdat het ook de belangrijkste klachtenverlichtende medicatie is bij deze patiënten. Ernstige kortademigheid in de eindfase kan worden bestreden met morfine.
+
+In Nederland worden patiënten met eindstadium hartfalen veelal thuis behandeld. Wanneer een gespecialiseerd palliatiezorgteam bij de behandeling betrokken is, dienen er goede afspraken gemaakt te worden en en goede communicatie te zijn tussen het hartfalenteam, de huisarts en het palliatief team.

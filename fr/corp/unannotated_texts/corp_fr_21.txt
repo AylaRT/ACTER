@@ -1,0 +1,558 @@
+COMMISSION EUROPÉENNE
+OFFICE EUROPÉEN DE LUTTE ANTI-FRAUDE (OLAF)
+
+Direction D Politique
+Unité D.2 - Prévention de la fraude
+
+Identifier les conflits d'intérêts dans les procédures de passation de marchés publics concernant des actions structurelles
+
+
+Guide pratique à l'intention des gestionnaires
+
+élaboré par un groupe d'experts des États membres coordonné par l'unité D2 de l'OLAF - Prévention de la fraude
+
+CLAUSE DE NON-RESPONSABILITÉ:
+
+Le présent document de travail a été élaboré par un groupe d'experts des États membres avec le soutien de l'OLAF. Son objectif est de faciliter la mise en œuvre des programmes opérationnels et d'encourager les bonnes pratiques. Sans être juridiquement contraignant pour les États membres, il fournit des orientations générales assorties de recommandations et mène une réflexion autour des bonnes pratiques.
+
+Ces orientations générales sont sans préjudice de la législation nationale. Il convient de les lire en tenant compte du cadre juridique national et de les y adapter le cas échéant.
+
+Le présent guide est également sans préjudice de l'interprétation de la Cour de justice et du Tribunal tout comme des décisions de la Commission.
+
+Synthèse
+
+
+Le présent guide a été élaboré dans le cadre d'une nouvelle procédure de travail collégiale associant des experts des États membres, l'OLAF et les DG de la Commission chargées des actions structurelles. L'objectif est d'améliorer la qualité des contributions issues des réunions ad hoc du COCOLAF, grâce à l'élaboration d'une documentation pratique susceptible d'être utilisée par les États membres et la Commission en tant qu'outil de référence, instrument administratif, orientation et soutien pour renforcer leurs mesures et leurs stratégies de lutte antifraude.
+
+La rédaction de ce guide a en outre été motivée par l'adoption des propositions législatives relatives à la politique de cohésion 2014-2020, qui imposent aux États membres de se doter de mesures de lutte antifraude concernant la gestion des actions structurelles de l'UE.
+
+La question des conflits d'intérêts dans le domaine des marchés publics est devenue un sujet de préoccupation majeur pour les États membres. Un atelier de travail réunissant des experts d'une dizaine d'États membres a mis en évidence la nécessité d'élaborer des orientations sur l'identification des conflits d'intérêts et la réduction des risques liés à de telles situations. Le présent guide est le résultat de ce travail commun.
+
+Il fournit un ensemble de recommandations à l'intention des gestionnaires et des agents des autorités de gestion et des pouvoirs adjudicateurs, pour leur permettre de détecter et de gérer les conflits d'intérêts en rapport avec les marchés publics financés par le budget de l'UE au titre des actions structurelles et des programmes de la politique de cohésion. Il couvre tous les types de marchés publics, indépendamment du montant concerné.
+
+Sans être juridiquement contraignant pour les États membres, il propose à leurs autorités de gestion et à leurs pouvoirs adjudicateurs une approche commune de la gestion des conflits d'intérêts, sans préjudice de la législation nationale.
+
+Conçu comme un outil utile et pratique destiné aux fonctionnaires publics, le guide s'articule autour des principaux points mis en exergue lors de l'atelier de travail: définition du conflit d'intérêts; nécessité de remplir une déclaration: il est recommandé de faire remplir une déclaration d'absence de conflit d'intérêts à toute personne appelée à prendre part à une procédure de passation de marchés; procédures et outils de contrôle des déclarations; liste de signaux d'alerte susceptibles de contribuer à la détection des situations de conflit d'intérêts.
+
+Le guide présente par ailleurs quatre exemples de cas concrets afin d'illustrer ces situations et de sensibiliser le personnel.
+
+Introduction
+
+
+Le présent guide a été élaboré dans le cadre d'une nouvelle procédure de travail collégiale associant des experts des États membres, l'OLAF et les DG de la Commission chargées des actions structurelles. L'objectif est de favoriser un échange de bonnes pratiques et de concevoir une documentation pratique susceptible d'être utilisée par les États membres et la Commission dans le cadre du soutien, des orientations et des outils administratifs destinés à renforcer leurs mesures et leurs stratégies de lutte antifraude.
+
+Les conflits d'intérêts sont devenus un sujet de préoccupation récurrent, notamment en ce qui concerne les marchés publics portant sur des actions structurelles, étant donné qu'ils sont susceptibles de nuire sérieusement aux finances publiques et de porter gravement atteinte à la réputation tant de l'UE que du pays concerné.
+
+L'OLAF, en coopération avec les États membres, a organisé un atelier de travail réunissant une dizaine d'experts venus de dix États membres, ayant tous en commun une expérience pratique de la gestion des conflits d'intérêts. Forts de leurs connaissances, ces experts ont dressé la liste des principaux points sur lesquels un échange de bonnes pratiques a été jugé nécessaire.
+
+Les DG REGIO, EMPL, MARE et HOME ont également été associées à ces travaux, le tout coordonné par l'unité Prévention de la fraude de l'OLAF (D2).
+
+L'atelier de travail a abouti à la rédaction du présent guide pratique sur la gestion des conflits d'intérêts à l'intention des gestionnaires responsables des marchés publics relatifs aux actions structurelles et aux programmes relevant de la politique de cohésion financés par l'UE.
+
+Ce guide s'adresse aux gestionnaires et au personnel (a) des autorités de gestion et (b) des autorités bénéficiaires agissant en qualité de pouvoir adjudicateur aux fins des procédures de passation de marchés. Il couvre l'ensemble des opérations cofinancées par les Fonds structurels ou le Fonds de cohésion, ainsi que tous les types de marchés publics, indépendamment du montant concerné. Cependant, le niveau d'exigence et la portée du contrôle doivent tenir compte de la nécessité de trouver le juste équilibre entre: les contrôles requis, la valeur du marché, l'application ou non des règles de passation des marchés publics au marché concerné, la simplification et la réduction des charges administratives pour les bénéficiaires. Le présent guide pratique est le résultat des échanges fructueux entre les experts. Il est mis à la disposition de tous les États membres et des parties prenantes concernées, notamment par l'intermédiaire de la plateforme de lutte antifraude SFC2007, ainsi que des services de la Commission via le site Internet de l'OLAF.
+
+Il est en lien avec les propositions législatives concernant la politique de cohésion 2014- 2020, en vertu desquelles les États membres devront instaurer des mesures de lutte antifraude efficaces et proportionnées, tenant compte de tous les risques identifiés.
+
+
+1- Définitions
+
+
+La notion de conflit d'intérêts n'est guère uniforme au sein de l'Union européenne. Si certains États membres, comme la Roumanie, en donnent une définition dans leur droit pénal, d'autres, comme la France et le Royaume-Uni, n'en font pas mention. Ce qui ne signifie pas que ces pays ne disposent pas de moyens d'inculpation pénale pour traiter le problème. Le Royaume-Uni par exemple s'est doté de dispositions législatives particulières, sous la forme d'un délit «d'abus de fonctions publiques», qui peut englober bien plus que le simple conflit d'intérêts et pourrait être appliqué dès lors que le conflit se traduit par des pratiques de corruption.
+
+L'Organisation de coopération et de développement économiques (OCDE) a proposé une définition du conflit d'intérêts: «Un "conflit d'intérêts" implique un conflit entre la mission publique et les intérêts privés d'un agent public, dans lequel l'agent public possède à titre privé des intérêts qui pourraient influencer indûment la façon dont il s'acquitte de ses obligations et de ses responsabilités.»
+
+Le droit européen définit la notion de conflit d'intérêts aux fins de l'exécution du budget général de l'Union européenne.
+
+La définition s'applique à l'ensemble des marchés publics financés par les fonds de l'UE affectés aux actions structurelles et à la politique de cohésion, indépendamment du montant en jeu.
+
+L'article 57, paragraphe 2, du règlement relatif aux règles financières applicables au budget général de l'Union (règlement n° 966/2012) définit le conflit d'intérêts dans le cadre de la gestion du budget de l'UE et de l'utilisation des ressources budgétaires. L'article dispose que: «1. Les acteurs financiers et les autres personnes participant à l'exécution et à la gestion du budget, y compris aux actes préparatoires à celui-ci, ainsi qu'à l'audit ou au contrôle, ne prennent aucune mesure à l'occasion de laquelle leurs propres intérêts pourraient être en conflit avec ceux de l'Union.
+
+(…)
+
+2. Aux fins du paragraphe 1, il y a conflit d'intérêts lorsque l'exercice impartial et objectif des fonctions d'un acteur financier ou d'une autre personne, visés au paragraphe 1, est compromis pour des motifs familiaux, affectifs, d'affinité politique ou nationale, d'intérêt économique ou pour tout autre motif de communauté d'intérêt avec le bénéficiaire.»
+
+Le conflit d'intérêts diffère de la corruption dans la mesure où celle-ci nécessite généralement un accord entre deux parties au moins et le versement d'un pot-de-vin, d'une somme d'argent ou l'existence d'un avantage quelconque. En revanche, il y a conflit d'intérêts lorsqu'une personne est susceptible de pouvoir privilégier ses intérêts personnels au détriment de ses responsabilités professionnelles.
+
+L'OCDE recense trois types de conflits d'intérêts: le conflit d'intérêts effectif implique un conflit entre la mission publique et les intérêts privés d'un agent public, dans lequel l'agent public possède à titre privé des intérêts qui pourraient influencer indûment la façon dont il s'acquitte de ses obligations et de ses responsabilités; on considère qu'il y a conflit d'intérêts apparent lorsque les intérêts privés d'un agent public sont susceptibles d'indûment influencer l'exécution de ses obligations mais qu'en réalité ce n'est pas le cas; il y a conflit d'intérêts potentiel lorsqu'un agent public a des intérêts privés d'une nature telle qu'il y aurait conflit d'intérêts si l'agent public devait à l'avenir assumer certaines responsabilités officielles (incompatibles).
+
+Tout conflit d'intérêts non résolu de manière adéquate dans une procédure de passation de marchés publics a des répercussions sur la régularité même de la procédure. Il entraîne une violation des principes de transparence, d'égalité de traitement et/ou de non-discrimination que tout marché public doit respecter en vertu de l'article 102 du règlement financier.
+
+Exemples
+
+L'épouse de l'administrateur d'un pouvoir adjudicateur chargé du suivi d'une procédure de passation de marchés travaille pour l'un des soumissionnaires.
+
+Une personne détient des actions dans une société qui participe à une procédure de passation de marchés pour laquelle ladite personne a été nommée membre du comité d'évaluation.
+
+Le responsable d'un pouvoir adjudicateur a passé une semaine de vacances avec le directeur d'une société soumissionnaire dans le cadre d'une procédure de passation de marchés lancée par le pouvoir adjudicateur.
+
+Un des agents du pouvoir adjudicateur et le directeur d'une des sociétés soumissionnaires assument des responsabilités au sein du même parti politique.
+
+Les autorités de gestion doivent contrôler le bon déroulement des procédures de passation lancées par des bénéficiaires afin de s'assurer qu'elles ont lieu sans encombre et de manière équitable (N.B.: l'expression «autorité de gestion» utilisée dans le présent document désigne à la fois l'autorité de gestion et l'intermédiaire auquel cette dernière a délégué ses tâches). Les bénéficiaires doivent garantir la transparence de la procédure et le traitement équitable de tous les soumissionnaires. Lorsqu'elles découvrent des anomalies, les autorités de gestion doivent réagir rapidement et procéder à des contrôles appropriés. Toute anomalie n'implique pas forcément un conflit d'intérêts. Elle nécessite en revanche que la situation soit clarifiée et que des mesures adéquates soient prises.
+
+2- Déclarations relatives aux conflits d'intérêts
+
+
+2.1 Éléments de base d'un cadre global de gestion des conflits d'intérêts dans la passation des marchés publics relatifs aux fonds structurels
+
+
+Les situations de conflit d'intérêts peuvent entraîner une perte de confiance des opérateurs économiques dans les procédures de passation de marchés publics concernant des actions structurelles et décourager ainsi les opérateurs honnêtes de soumissionner.
+
+Aussi est-il recommandé aux autorités de gestion d'instaurer une politique de gestion des conflits d'intérêts, de façon à réduire les risques et à traiter les cas de conflit éventuels.
+
+Il convient que cette politique aborde les questions de prévention, de détection et de gestion des conflits d'intérêts ainsi que les sanctions à appliquer, et qu'elle soit mise en œuvre au sein de toutes les structures participant au système de gestion et de contrôle des programmes opérationnels. Il y a lieu d'en recommander l'adoption à tous les bénéficiaires qui lancent des procédures d'adjudication, quelle que soit leur forme juridique.
+
+La politique de gestion des conflits d'intérêts doit tenir compte des dispositions juridiques des États membres concernés ainsi que des orientations et des bonnes pratiques présentées dans le présent document.
+
+Il est recommandé aux autorités de gestion de veiller à la mise en place d'une politique de gestion des conflits d'intérêts dans les programmes opérationnels dont elles ont la responsabilité, en tenant compte notamment des obligations énoncées à l'article 114, paragraphe 4, point c), du [nouveau règlement général].
+
+Tout document stratégique sur la gestion des conflits d'intérêts dans les procédures de passation de marchés devrait traiter un certain nombre de points. Il devrait en particulier couvrir l'ensemble de la procédure de passation ainsi que la gestion des contrats qui en résultent; satisfaire aux exigences des règles nationales relatives à la passation des marchés et des directives de l'UE en matière de marchés publics; contenir une section spécifiquement consacrée aux déclarations d'absence de conflit d'intérêts; aborder la question des cadeaux et de l'hospitalité, qui sont susceptibles d'être considérés comme des incitations, que ce soit avant, pendant ou après la procédure de passation ou lors de la gestion de procédures ou de marchés ultérieurs; faire en sorte que l'organisme concerné consigne tous les conflits survenus, en attestant la manière dont ils ont été traités et les actions appropriées qui ont été menées. Cette pratique de la consignation permet de constituer des références pour la gestion de futurs conflits d'intérêts; indiquer les sanctions prises en cas de non-déclaration de conflits d'intérêts. Ces sanctions doivent être proportionnées et avoir un effet dissuasif; comprendre une annexe contenant des exemples types de conflits d'intérêts; aborder la question du départ de la fonction publique, et en particulier le cas des agents qui quittent des fonctions gouvernementales ou des postes au sein d'administrations locales («pantouflage»): les agents doivent respecter l'interdiction de communiquer des informations confidentielles acquises dans l'exercice de leurs fonctions. Ils ne doivent tirer aucun profit des conflits d'intérêts susceptibles de naître après leur départ.
+
+Le document détaillant la politique de gestion des conflits d'intérêts doit faire partie des documents de base remis aux membres du personnel, soit lors de leur entrée en fonctions dans l'organisation concernée, soit lors d'une mutation à un poste impliquant l'achat de biens, de services ou de travaux ou la gestion de contrats ou de contrats- cadres s'y rapportant.
+
+Exemple du Royaume-Uni
+
+Le Royaume-Uni s'est doté d'un code de conduite général pour les agents de la fonction publique, qui trouve écho dans les nombreux codes de même nature mis en place par les administrations décentralisées.
+
+Ce code impose une norme de conduite obligatoire, qui décrit également le comportement attendu de la part des agents chargés de la passation des marchés. Il englobe tous les aspects du travail des fonctionnaires, lesquels portent très souvent sur les relations avec le public, la gestion de moyens financiers ou la prise en charge de domaines frappés d'une obligation d'équité.
+
+Tous les services gouvernementaux informent leurs employés de l'existence de ce code de conduite, sans toutefois leur faire signer d'engagement à le respecter. Le code de conduite est néanmoins considéré comme un élément à part entière de la relation contractuelle conclue entre l'employeur et l'employé.
+
+Les grands principes éthiques d'honnêteté, d'intégrité et d'impartialité vont généralement de soi dans le domaine des marchés publics, mais il est compréhensible que des déclarations ou des engagements spécifiques soient exigés de la part des agents participant directement aux passations de marchés.
+
+Politique relative aux déclarations d'absence de conflit d'intérêts
+
+Les autorités de gestion devraient exiger des pouvoirs adjudicateurs la mise en place, dans le cadre de leurs procédures de passation de marchés publics, d'une procédure relative aux déclarations d'absence de conflit d'intérêts, et leur fournir des orientations sur cette procédure.
+
+Ces orientations devraient aborder expressément un certain nombre de points.
+
+Qui a la responsabilité de remplir et de signer la déclaration?
+
+Toute personne participant à l'une des étapes de la procédure de passation de marchés publics (préparation, élaboration, mise en œuvre ou clôture) devrait signer une déclaration et la remettre au responsable de la procédure de passation.
+
+Cette obligation devrait s'appliquer au moins aux personnes suivantes: le responsable du pouvoir adjudicateur et toute personne à laquelle il délègue ses fonctions; les membres du conseil d'administration; le personnel prenant part à la préparation et à la rédaction du dossier d'appel d'offres; les membres du comité d'évaluation; tout expert exécutant des tâches en relation avec la préparation du dossier d'appel d'offres et/ou l'évaluation des offres.
+
+Quelles sont les situations susceptibles d'être constitutives d'un conflit d'intérêts effectif, potentiel ou apparent?
+
+La description de ces situations devrait se fonder sur la définition donnée à l'article 57 du règlement financier, tout en tenant compte de la législation nationale en vigueur. Si des cas spécifiques ou des difficultés particulières liées à des aspects de la culture nationale sont déjà apparus par le passé, il y a lieu de fournir des explications complémentaires, accompagnées d'exemples.
+
+À quel stade de la procédure de passation la déclaration devrait-elle être remplie?
+
+Le dépôt d'une déclaration d'absence de conflit d'intérêts est envisageable à tous les stades de la procédure de passation de marchés (préparation, évaluation, suivi et clôture).
+
+Le gestionnaire responsable de la passation des marchés devrait également avoir pour responsabilité de faire remplir une déclaration d'absence de conflit d'intérêts à toute personne amenée à participer à une procédure de passation de marchés et de collecter les déclarations.
+
+Le gestionnaire devrait ce faisant s'assurer que la personne concernée est bien consciente de la nécessité de déclarer sans délai tout changement de situation. La déclaration peut être rédigée à tout moment et en tant que de besoin, de manière libre ou suivant un modèle préexistant.
+
+Comment contrôler une déclaration d'absence de conflit d'intérêts?
+
+Il convient que la politique mise en place établisse des règles pour le contrôle des déclarations d'absence de conflit d'intérêts remplies par le personnel (antécédents professionnels, statut familial, etc.) et par les experts externes.
+
+Elle devrait comporter des indications sur le responsable du contrôle des déclarations, la méthode à employer et la programmation des contrôles.
+
+Il convient également que des orientations soient fournies aux pouvoirs adjudicateurs sur les situations dans lesquelles le conflit d'intérêts n'est pas clairement établi (par exemple dans le cas d'antécédents professionnels dans des entreprises partenaires du soumissionnaire).
+
+Comment assurer le suivi des déclarations d'absence de conflit d'intérêts?
+
+L'institution devrait mettre en place, pour chaque procédure de passation de marchés publics, des procédures de stockage et de suivi des déclarations d'absence de conflit d'intérêts, telles qu'un registre spécial ou un système informatique de gestion. Elle devrait désigner une personne sans lien direct avec la procédure de passation, qui serait chargée de superviser la procédure de déclaration et de s'assurer de la tenue à jour des dossiers.
+
+Quelles sanctions appliquer si une personne omet de révéler un conflit d'intérêts?
+
+La politique devrait faire référence aux sanctions prévues dans la législation nationale applicable (sanctions administratives et/ou pénales en cas de dissimulation d'un conflit d'intérêts ou de fausse déclaration). À ce titre, il y a lieu de distinguer clairement les cas impliquant des membres du personnel de ceux concernant des experts ou des partenaires externes.
+
+La conduite des membres du personnel devrait être régie par un code déontologique, comprenant une définition du conflit d'intérêt et déclinant les sanctions applicables. Le code devrait également prévoir des mesures disciplinaires, pouvant aller d'une simple note écrite à un avertissement ou une amende, voire à la rétrogradation ou au renvoi. En tout état de cause, les mesures disciplinaires devront respecter la législation nationale en vigueur.
+
+Les cas d'inconduites commises par des experts externes pourront être traités dans le cadre d'orientations internes qui fixeront les mesures et les sanctions à appliquer. Des clauses prévoyant des sanctions en cas de mauvaise conduite pourront figurer dans les contrats signés avec ces experts. Ces sanctions pourront aller de la résiliation anticipée du contrat à l'exclusion de la procédure de passation de marchés pendant un certain nombre d'années (entre cinq et dix par exemple).
+
+Quelles mesures prendre si un risque de conflit d'intérêts est détecté ou si un conflit d'intérêts est déclaré/découvert avant ou pendant la procédure?
+
+Sous réserve de la législation nationale en vigueur, il convient de prendre des mesures pertinentes afin de sauvegarder la procédure de passation de marchés publics. Différentes actions sont envisageables, en fonction de l'existence ou non d'une déclaration d'absence de conflit d'intérêts, de la nature du conflit et du stade atteint dans la procédure: le cas échéant, examen des faits avec la personne concernée afin de clarifier la situation; exclusion de la personne concernée de la procédure de passation de marchés publics, qu'elle soit membre du personnel ou fasse partie des experts externes; modification de la répartition des fonctions et des responsabilités au sein du personnel; annulation de la procédure de passation de marchés publics.
+
+L'exclusion d'un employé ou d'un expert de la procédure devrait être envisagée non seulement en cas de conflit d'intérêts effectif mais également lorsqu'il existe des motifs permettant de douter de son impartialité.
+
+Exceptionnellement, il peut s'avérer impossible d'exclure un agent ou un expert faute de ressources suffisantes ou en raison d'une pénurie de spécialistes dans certains domaines. Dans ce cas, le pouvoir adjudicateur devra veiller à trancher en toute transparence, à fixer des limites précises à l'intervention de l'employé ou de l'expert concerné et à fonder sa décision finale sur des preuves objectives et concluantes.
+
+Il est par ailleurs indiqué que la politique adoptée en la matière contraigne les membres du personnel à notifier tout conflit d'intérêts aux autorités compétentes.
+
+Enfin, il est recommandé de consigner par écrit l'ensemble des mesures prises en réaction à des situations de conflit d'intérêts dans une procédure de passation de marchés publics.
+
+Exemple de la République slovaque
+
+Déclaration faite par les membres de la commission de sélection – conformément à la loi sur les marchés publics (article 40)
+
+Un membre de la commission ne peut être ou avoir été au cours de l'année précédant sa nomination au sein de la commission: soumissionnaire en qualité de personne physique; organe officiel ou membre de l'organe officiel, de l'organe de surveillance ou de tout autre organe appartenant à un soumissionnaire ayant le statut de personne morale; associé ou membre d'une personne morale soumissionnaire ou associé passif du soumissionnaire; employé du soumissionnaire ou d'un groupement d'entreprises dont le soumissionnaire fait partie; employé de l'Office des marchés publics, sauf dans le cas de marchés attribués exclusivement pour les besoins de l'Office.
+
+Aucun membre de la commission ne peut être: un proche des personnes visées aux points a) à d) ci-dessus, une personne dont l'impartialité est susceptible d'avoir éveillé des doutes en rapport avec le soumissionnaire ou le candidat, en particulier si cette personne a participé à la préparation de documents pour le compte du candidat ou du soumissionnaire lors d'une procédure donnée, ou si elle est susceptible d'être avantagée ou lésée par les résultats de l'adjudication.
+
+Après avoir pris connaissance de la liste des soumissionnaires, chaque membre de la commission doit remettre au pouvoir adjudicateur ou à l'entité adjudicatrice une déclaration sur l'honneur dans laquelle il confirme l'absence de toute circonstance lui interdisant, en vertu de la loi en vigueur, de devenir membre de la commission et s'engage à informer le pouvoir adjudicateur ou l'entité adjudicatrice de la survenue de circonstances lui interdisant, en vertu de la loi en vigueur, de devenir membre de la commission.
+
+Tout membre de la commission doit notifier sans retard inutile au pouvoir adjudicateur ou à l'entité adjudicatrice la survenue, pendant la procédure de passation de marchés publics, de circonstances lui interdisant de devenir membre de la commission.
+
+La déclaration d'absence de conflit d'intérêts
+
+Il est fortement recommandé de faire signer une déclaration d'absence de conflit d'intérêts à toute personne appelée à prendre part à la procédure de passation de marchés. Cette obligation doit être remplie sans délai, afin de préserver la procédure mais aussi de protéger la personne elle-même. En principe, une personne est plus encline à signaler un conflit d'intérêts dès lors qu'elle est informée des obligations qu'elle a souscrites en signant la déclaration d'absence de conflit d'intérêts.
+
+Par nature, une déclaration de conflit d'intérêts est censée être un acte volontaire mais cette certitude est loin d'être acquise. En cas de comportement frauduleux, démontrer une intentionnalité risque de s'avérer très difficile à tout stade avancé de la procédure.
+
+C'est pourquoi les paragraphes qui suivent ne concernent que la déclaration d'absence de conflit d'intérêts.
+
+La déclaration d'absence de conflit d'intérêts devrait définir le conflit d'intérêts conformément aux termes du règlement financier et énoncer l'ensemble des exigences du code déontologique ou éthique éventuellement applicable à la procédure se rapportant aux conflits d'intérêts.
+
+Il convient qu'elle contienne: une référence explicite à la procédure de passation de marchés concernée; le nom complet du signataire, sa date de naissance, le poste qu'il occupe au sein de l'organisme et son rôle dans la procédure de passation de marchés publics; la date de signature.
+
+La déclaration devrait permettre au signataire de déclarer officiellement: si, à sa connaissance, il se trouve en situation de conflit d'intérêts effectif/potentiel/apparent au regard de la procédure de passation de marchés concernée; si des circonstances sont susceptibles de le placer à court terme en situation de conflit d'intérêts effectif/potentiel/apparent; qu'il s'engage à déclarer immédiatement tout conflit d'intérêts potentiel si des circonstances permettent d'arriver à cette conclusion.
+
+La déclaration devrait faire référence aux sanctions disciplinaires/administratives/pénales encourues en cas de fausse déclaration.
+
+Elle devrait également contenir une déclaration de confidentialité si la personne risque d'être amenée, lors de la procédure de passation de marchés, à prendre connaissance de données commerciales confidentielles provenant d'un soumissionnaire.
+
+La déclaration devrait être accompagnée d'une note explicative fournissant aux signataires des indications précises et sûres sur: la politique de l'organisme et la finalité de la déclaration, les exigences juridiques découlant de la réglementation, y compris des explications sur certains aspects de la définition du conflit d'intérêts: motifs familiaux, affectifs, etc. [par exemple les relations constitutives d'une parenté peuvent varier d'un État membre à l'autre et il convient de les expliciter en fonction du contexte culturel donné (parenté au 2e ou 3e degré, etc.)]; le code déontologique régissant la gestion des conflits d'intérêts au sein de l'organisme; les conséquences d'une non-déclaration de conflit d'intérêts; la procédure à suivre en cas de changement de situation, et notamment à qui, comment et quand il convient de déclarer tout nouveau conflit d'intérêts.
+
+La note explicative pourrait également présenter des exemples de conflits d'intérêts.
+
+Un modèle de déclaration est proposé à l'annexe 1. Il s'inspire d'un modèle utilisé par la Commission européenne mais peut être modifié en cas de besoin, afin de tenir compte des spécificités nationales.
+
+Expliquer la fonction de la déclaration d'absence de conflit d'intérêts au personnel
+
+Il importe d'exposer clairement au personnel que la déclaration d'absence de conflit d'intérêts est un outil de prévention des conflits d'intérêts, conçu pour: sensibiliser les employés aux risques de conflits; mettre en lumière les secteurs à risque, à suivre dans le cadre du contrôle de gestion; protéger les employés de toute accusation ultérieure de non-déclaration de conflit d'intérêts; préserver les procédures de passation de marchés et les projets cofinancés de toute irrégularité et, ce faisant, sauvegarder les intérêts financiers de l'UE comme des États membres.
+
+Il est impératif que l'ensemble du personnel des autorités de gestion et des bénéficiaires procédant à des passations de marchés soit sensibilisé aux situations potentielles de conflit d'intérêts, à leurs retombées, à la marche à suivre en cas de conflit ainsi qu'aux sanctions encourues.
+
+Tout conflit d'intérêts n'est pas nécessairement source d'illégalité. En revanche, il est illégal de prendre part à une procédure de passation de marchés en ayant connaissance d'une situation de conflit d'intérêts. Aussi est-il indispensable de déclarer tout conflit d'intérêts potentiel avant de participer à une procédure de passation de marchés et de prendre les mesures préventives qui s'imposent.
+
+Il serait dès lors opportun que le matériel général de formation du personnel ainsi que les modules spécifiques de formation en ligne comportent une section particulière, traitant des conflits d'intérêts dans leur globalité, dans la mesure où de telles situations peuvent émerger dans d'autres domaines, notamment lors de procédures de recrutement. Ces formations pourraient être l'occasion d'expliquer au personnel la fonction de la déclaration d'absence de conflit d'intérêts.
+
+La formation continue constitue un moyen de maintenir et d'accroître la sensibilisation du personnel et, partant, d'entretenir en permanence sa vigilance face à la possible émergence de nouvelles situations de conflit d'intérêts. Pour autant, la direction devrait également veiller à instaurer des mécanismes spéciaux pour surveiller et détecter toute violation des règles en la matière et appliquer des sanctions en conséquence. Il lui incombe de mettre en place une chaîne de responsabilités claire, conjuguée à un dispositif de contrôle efficace.
+
+Suivi et mise à jour des déclarations d'absence de conflit d'intérêts
+
+Les conflits d'intérêts évoluent avec le temps. Il peut ainsi arriver qu'un agent responsable de la passation des marchés n'ait aucun conflit d'intérêts – effectif, potentiel ou apparent – au début d'une procédure mais que la situation change en cours de route et que l'un des membres de sa famille, voire lui-même, soit embauché par l'un des soumissionnaires potentiels. Parce que les circonstances évoluent en permanence, il est indispensable d'assurer le suivi et la mise à jour des déclarations d'absence de conflit d'intérêts.
+
+Lorsqu'il est amené à prendre connaissance de nouvelles informations au cours de la procédure (par exemple sur des opérateurs économiques proposés en qualité de sous- traitants) ou que le contexte évolue (formation d'une relation juridique ou de fait qui n'existait pas au début de la procédure, etc.), l'employé doit immédiatement déclarer le conflit d'intérêts potentiel/apparent/effectif à son supérieur hiérarchique, en utilisant ou non le modèle préexistant. Il doit être écarté de la suite de la procédure et toutes les étapes de la procédure auxquelles il a participé doivent, si nécessaire et dans la mesure du possible, être de nouveau accomplies.
+
+Il serait par ailleurs souhaitable que l'organisme tienne un registre des déclarations de conflit d'intérêts pour la procédure de passation de marchés concernée.
+
+3- Contrôle de la déclaration d'absence de conflit d'intérêts au regard d'autres sources d'information
+
+
+Il est indispensable de contrôler la déclaration d'absence de conflit d'intérêts. En effet, procéder à une déclaration peut, à tort, rassurer le pouvoir adjudicateur et procurer à son auteur le sentiment erroné du devoir accompli. Il est également important, pour des raisons de dissuasion, que l'auteur de la déclaration sache que cette dernière risque d'être contrôlée.
+
+Les contrôles seront effectués en fonction des moyens et des ressources de l'autorité de gestion et/ou du pouvoir adjudicateur. Ils doivent être proportionnés et concilier la nécessité d'opérer des contrôles avec celle de simplifier et réduire les charges administratives pour les bénéficiaires, tout en tenant compte de la valeur du marché et de l'application ou non, à ce dernier, des règles de passation des marchés publics.
+
+Quand?
+
+Les conflits d'intérêts peuvent infléchir, à quelque stade que ce soit, le processus décisionnel d'une procédure de passation de marchés.
+
+Aussi le pouvoir adjudicateur devrait-il envisager d'opérer deux types de contrôles: à titre préventif, afin de détecter les conflits d'intérêts effectifs, potentiels ou apparents; à des fins de sanction/réparation, pour détecter tout conflit d'intérêts, sanctionner la personne concernée et réparer les torts, quels qu'ils soient, causés par le conflit.
+
+Dès lors, le pouvoir adjudicateur aura besoin d'instaurer en interne des mécanismes d'évaluation permanente et périodique des situations dans lesquelles des membres du personnel sont amenés à prendre part au processus décisionnel. Il devra instaurer des mécanismes intégrés, tels que: des questionnaires à remplir périodiquement, afin de déterminer si les membres du personnel sont attentifs aux situations susceptibles d'être constitutives d'un conflit d'intérêts effectif, potentiel ou apparent, de façon à les sensibiliser et à s'assurer que le système est «sain»; des listes de contrôle destinées aux agents engagés dans le processus décisionnel, qu'ils devront remplir avant de prendre une décision; ces listes leur permettront de mieux évaluer les situations susceptibles d'être constitutives d'un conflit d'intérêts effectif, potentiel ou apparent.
+
+Ces mécanismes intégrés se doubleront de mécanismes ex post visant à déterminer s'il y a réellement eu conflit d'intérêts.
+
+Les mécanismes ex post se concentreront sur la déclaration d'absence de conflit d'intérêts, qui sera examinée à la lumière d'autres informations: informations externes (c'est-à-dire des informations relatives au conflit d'intérêts potentiel fournies par des tiers n'ayant aucun lien avec la situation à l'origine du conflit d'intérêts); contrôles opérés à propos de situations qui, au vu de l'analyse de risques interne effectuée ou des signaux d'alerte (voir section 4), portent en germe un risque élevé de conflit d'intérêts; contrôles aléatoires.
+
+Comment?
+
+Lors de la recherche de personnes susceptibles d'être en conflit d'intérêts, il convient d'examiner les catégories suivantes: les membres du personnel du pouvoir adjudicateur, le personnel des prestataires chargés de la passation de marchés ou d'autres prestataires de services directement engagés dans la conduite de la procédure; la présidence du pouvoir adjudicateur et les membres des organes de décision de ce dernier qui, même s'ils n'interviennent pas directement dans la procédure de passation de marchés, sont susceptibles d'en influencer le résultat.
+
+Les contrôles ex post portant sur des situations constitutives d'un conflit d'intérêts peuvent consister en des: contrôles effectués par l'autorité de gestion/agence de paiement: contrôles standard/réguliers opérés lors de l'examen de la demande de paiement présentée par le bénéficiaire (laquelle comporte également les justificatifs de la procédure de passation de marchés publics), au moyen de listes de contrôle (énumérant une à une toutes les situations constitutives de conflits d'intérêts visées dans le droit national comme dans la législation européenne); contrôles ciblés déclenchés suite à des informations externes sur un conflit d'intérêt potentiel ou des signaux d'alerte; contrôles ciblés déclenchés suite à des informations ou des éléments particuliers trouvés au cours d'autres contrôles indirects/inopinés; contrôles planifiés, inclus dans le programme de contrôle annuel établi d'après l'analyse des risques; contrôles aléatoires.
+
+Évaluation des risques grâce à ARACHNE
+
+Les autorités de gestion peuvent envisager de recourir à un outil d'exploration de données appelé ARACHNE, spécialement conçu par la Commission pour identifier les projets sujets à des conflits d'intérêts. ARACHNE est un outil d'évaluation du risque qui peut améliorer l'efficacité du processus de sélection des projets et la gestion des contrôles, et renforcer la prévention et la détection des fraudes.
+
+contrôles effectués en interne par le personnel de contrôle du bénéficiaire: contrôles ciblés déclenchés suite à des informations externes; contrôles ciblés déclenchés suite à un rapport officiel rédigé après d'autres contrôles indirects/inopinés; contrôles planifiés, inclus dans le programme de contrôle annuel établi d'après l'analyse des risques et contrôle aléatoires.
+
+Outre les contrôles effectués sur la base des listes de contrôle, d'autres contrôles devraient être opérés dans le cadre de la déclaration d'absence de conflit d'intérêts de l'agent, en tenant compte des données et informations provenant: de l'organisme lui-même: par recoupement de données à caractère personnel, d'autres organismes: par recoupement d'informations émanant de la base de données nationale sur l'identité des personnes, des bases de données sur les opérateurs économiques (tels que les registres du commerce), de la base de données de l'administration fiscale, etc.
+
+Des protocoles de coopération interinstitutionnels visant à garantir l'accès à des informations complémentaires peuvent être conclus avec d'autres institutions, sans préjudice de la législation nationale;
+
+des sources de données publiques (incluant les contrôles d'antécédents sur Internet), susceptibles de livrer des informations sur les relations de l'agent et les circonstances personnelles susceptibles d'engendrer ou de laisser présager un conflit d'intérêts.
+
+Exemples de sources d'information:
+
+registre du commerce; bases de données en ligne fournissant des informations sur les liens entre les entreprises et leurs représentants légaux et administrateurs délégués;
+
+base de données interne destinée à recueillir des informations sur les bénéficiaires de contributions financières non-remboursables et sur les contractants (SGTI ou base de données ponctuelle créée dans un but spécifique);
+
+informations publiées dans les médias.
+
+Tout gestionnaire confronté à une situation de conflit d'intérêts potentiel impliquant un membre du personnel devrait privilégier, le cas échéant, une approche «en douceur» et aborder la question avec la personne concernée en toute franchise. Le but de cette discussion étant de déterminer s'il existe un risque de conflit d'intérêts susceptible de compromettre la procédure et/ou la situation de l'agent. Si tel est le cas, le gestionnaire devra prendre les mesures qu'il juge les plus appropriées pour protéger les intérêts tant de l'organisme que de l'agent.
+
+Si le gestionnaire a recueilli suffisamment de preuves de la faute intentionnelle de l'agent, il peut signaler directement le cas aux autorités concernées et prendre les mesures qui s'imposent afin de préserver la procédure de passation de marchés publics (voir la section 3.4 pour la marche à suivre).
+
+Utilisation d'informations émanant des informateurs et des médias
+
+Les informateurs et les médias sont vigilants quant aux relations personnelles qui peuvent exister entre les acteurs d'une procédure de passation de marchés publics et sont en mesure de fournir des informations fiables et cohérentes sur toutes les situations susceptibles d'influencer le processus de décision du pouvoir adjudicateur.
+
+Les informations transmises par des informateurs et des médias ne constituent pas des preuves en soi. Si les autorités (notamment les autorités de gestion ou les organes de gestion/contrôle du pouvoir adjudicateur) reçoivent ce type d'informations, il leur incombe de vérifier immédiatement, par tous les moyens à leur disposition, leur véracité et leur incidence éventuelle sur la procédure. Elles devront utiliser toutes les sources de données disponibles pour vérifier l'authenticité de ces informations.
+Selon le degré de gravité de la situation, elles informeront immédiatement les autorités judiciaires ou toute autre autorité compétente.
+
+En matière d'enquête, les informations émanant des informateurs et des médias devraient être considérées comme autant de sources de notification en vue du lancement de contrôles internes/externes.
+
+Afin de permettre aux informateurs et aux médias d'informer plus facilement les autorités de l'éventualité d'un conflit d'intérêts, les autorités de gestion et autres autorités compétentes pourraient instaurer ou utiliser des systèmes de notification des faits de fraude accessibles sur Internet, via un numéro vert ou tout autre moyen de communication.
+
+Que faire en cas de forte suspicion de conflit d'intérêts?
+
+Si l'autorité n'a pas la possibilité de procéder à des enquêtes ou des contrôles administratifs, elle doit sans tarder transmettre les informations aux autorités compétentes.
+
+Si les contrôles ne corroborent pas ces informations, l'autorité peut classer l'affaire mais aussi mettre ces informations en corrélation avec d'autres données et effectuer une analyse de risques afin d'identifier des secteurs sensibles.
+
+Si, au contraire, les contrôles opérés confirment les informations initiales et que le conflit d'intérêts est d'ordre administratif, l'autorité peut, en vertu de la législation nationale: prendre des mesures/sanctions administratives ou disciplinaires à l'encontre de l'agent concerné; annuler le marché/l'acte entaché par le conflit d'intérêts et relancer la partie de la procédure de passation de marchés publics concernée; mettre ses constatations en corrélation avec d'autres données et les utiliser pour procéder à une analyse de risques; rendre la situation publique afin de s'assurer que les décisions seront prises en toute transparence et de prévenir ou décourager toute nouvelle démarche de ce type.
+
+Si le conflit d'intérêts est de nature délictuelle, l'autorité devra, outre les mesures évoquées plus haut et en vertu de la législation nationale: informer le procureur afin qu'il engage des poursuites pénales; examiner les aspects administratifs de l'affaire; mettre ses constatations en corrélation avec d'autres données et les utiliser pour procéder à une analyse interne des risques.
+
+4- Signaux d'alerte
+
+
+Qu'est-ce qu'un signal d'alerte et comment s'en servir?
+
+Un signal d'alerte est un indicateur d'éventuels cas de fraude ou de corruption. C'est un élément ou un ensemble d'éléments inhabituels par nature ou en décalage avec une activité normale. Le signal d'alerte indique que quelque chose sort de l'ordinaire et nécessite un examen plus attentif.
+
+Les procédures de passation de marchés publics comportent toute une panoplie de signaux d'alerte, qui peuvent indiquer des anomalies dans: le dossier d'offre, si par exemple des offres émanant de soumissionnaires a priori distincts sont faxés par le même numéro de téléphone; les pièces comptables, telles que des factures dont le montant de règlement dépasse la valeur du marché; le comportement du personnel responsable du projet, comme par exemple des pressions exercées sur le comité d'évaluation afin que son choix se porte sur un contractant donné.
+
+La présence de ces signaux d'alerte devrait rendre les membres du personnel et les gestionnaires plus vigilants et les inciter à prendre les mesures nécessaires pour confirmer ou infirmer l'existence d'un risque de conflit d'intérêts. Il est impératif de réagir à tout signal d'alerte. C'est au pouvoir adjudicateur, en premier lieu, et aux autorités de gestion, en second lieu, qu'il incombe de lever un par un les doutes suscités par le signal d'alerte.
+
+La présence d'un signal d'alerte ne signifie pas que la fraude est avérée ou susceptible de se produire mais que la situation réclame un examen et un contrôle rigoureux.
+
+Les signaux d'alerte dans les procédures de passation de marchés publics
+
+La présente section analyse des cas typiques de suspicion de fraude relatifs à des conflits d'intérêts survenus à divers stades de la procédure de passation et illustrés par des exemples concrets.
+
+Certains de ces signaux d'alerte peuvent paraître banals et s'appliquent à quantité de situations autres que des conflits d'intérêts. Cependant, il convient de ne pas perdre de vue que ces signaux d'alerte sont autant d'indicateurs destinés à déclencher des vérifications de premier niveau, soit pour écarter les doutes soit pour confirmer l'éventualité d'une fraude ou d'une irrégularité. Les signaux d'alerte présentés ci-après devraient entraîner des contrôles ciblés, visant à confirmer ou infirmer tout risque de conflit d'intérêts.
+
+Préparation et lancement de la procédure
+
+La question des conflits d'intérêts doit être soulevée dès la phase de préparation de la procédure. Lors de la rédaction du dossier d'appel d'offres, le pouvoir adjudicateur peut avoir besoin de commander des études externes ou de solliciter l'avis de sources extérieures. Il peut, dans une certaine mesure, appuyer les documents de la procédure d'adjudication sur les rapports rédigés par des experts externes. Le pouvoir adjudicateur doit également décider du type de procédure et rédiger l'avis de marché, les documents liés au marché, le cahier des charges ainsi qu'un projet de contrat.
+
+Le pouvoir adjudicateur devrait dès lors prendre les mesures nécessaires pour prévenir l'apparition d'un conflit d'intérêts dès le tout premier stade de la phase de préparation des documents.
+
+Risques liés à un conflit d'intérêts
+
+Toute personne qui participe à la rédaction des documents peut tenter d'exercer, directement ou indirectement, son influence sur la procédure d'adjudication, afin de permettre à un proche, un ami, un partenaire commercial ou financier, d'y prendre part.
+
+Signaux d'alerte
+
+La personne chargée de la rédaction du dossier d'appel d'offres / un haut fonctionnaire insiste pour s'assurer le concours d'une entreprise extérieure pour rédiger ces documents alors que c'est inutile.
+
+Deux études préparatoires voire plus sont commandées sur le même sujet à des entreprises extérieures et une personne exerce des pressions sur le personnel afin que l'une de ces études soit utilisée lors de la rédaction du dossier d'appel d'offres.
+
+La personne chargée de l'élaboration des documents organise la procédure de telle sorte qu'il ne reste plus de temps pour réviser soigneusement les documents avant le lancement de la procédure de passation de marchés.
+
+Deux ou plusieurs marchés portant sur des éléments identiques sont lancés sur une courte période sans raison apparente, donnant lieu à l'application d'une méthode de passation de marchés moins concurrentielle.
+
+Le choix se porte sur une procédure négociée alors qu'une procédure ouverte serait parfaitement envisageable.
+
+Des critères de sélection ou d'attribution injustifiés, ayant pour effet de favoriser telle ou telle offre ou entreprise, sont retenus.
+
+Les règles de fourniture de biens ou de services sont si strictes que seule une entreprise est en mesure de répondre à l'appel d'offres.
+
+Les proches d'un des employés du pouvoir adjudicateur travaillent pour une entreprise susceptible de soumissionner.
+
+L'un des employés du pouvoir adjudicateur a travaillé, juste avant d'être engagé par ce dernier, pour une entreprise susceptible de soumissionner.
+
+Exemple: L'un des soumissionnaires participe à la procédure de préparation et obtient des informations complémentaires avant le lancement de la procédure, ce qui prive les autres soumissionnaires de toute chance équitable de remporter l'appel d'offres et engendre un conflit d'intérêts.
+
+Risques liés à un conflit d'intérêts
+
+Des fuites concernant les informations relatives à la procédure d'adjudication risquent de se produire.
+
+Signaux d'alerte
+
+Un employé a un comportement inhabituel: il insiste pour obtenir des informations sur la procédure d'adjudication, alors qu'il n'est pas responsable de cette procédure.
+
+Les proches d'un des employés du pouvoir adjudicateur travaillent pour une entreprise susceptible de soumissionner.
+
+L'un des employés du pouvoir adjudicateur a travaillé, juste avant d'être engagé par ce dernier, pour une entreprise susceptible de soumissionner.
+
+Exemple: L'un des membres du personnel participe à la rédaction ou à la correction des documents du marché, puis démissionne pour rejoindre les rangs d'une entreprise qui présente une offre peu après.
+
+SUGGESTIONS:
+
+Contrôler le dossier d'offre en recherchant les signaux d'alerte.
+
+S'assurer que des droits de vérification et des recours contractuels sont inclus s'il y a lieu.
+
+Procédure d'appel d'offres, évaluation des offres et décision finale
+
+Une fois passée la date limite de réception des offres, le pouvoir adjudicateur contrôle la conformité des offres déposées et procède à leur évaluation. S'il y a lieu, il demande aux soumissionnaires de remédier à certaines insuffisances ou encore de fournir un complément d'informations ou d'explications. Le pouvoir adjudicateur s'appuie sur les critères énoncés dans l'avis de marché pour se prononcer sur la validité finale des offres. Le comité d'évaluation procède à l'évaluation et émet des recommandations par écrit. La décision d'attribution du marché est prise par l'agent de décision nommé à cet effet au sein du pouvoir adjudicateur.
+
+Risques liés à un conflit d'intérêts
+
+Les offres reçues peuvent être falsifiées de façon à masquer le non-respect de la date limite par un soumissionnaire ou son incapacité à fournir la totalité des documents exigés.
+
+L'un des membres du comité d'évaluation peut tenter d'induire en erreur les autres membres ou d'exercer des pressions sur eux afin de peser sur la décision finale, par exemple en donnant une interprétation erronée des règles.
+
+Signaux d'alerte
+
+Les documents officiels et/ou accusés de réception des documents ont manifestement été modifiés (biffures, etc.).
+
+Les membres du comité d'évaluation ne disposent pas des connaissances techniques nécessaires pour évaluer les offres déposées et sont dominés par une personne.
+
+Trop d'éléments subjectifs sont intégrés aux critères établis.
+
+Certaines informations, pourtant obligatoires, n'ont pas été communiquées par l'adjudicataire.
+
+Certaines des informations fournies par l'adjudicataire font référence à des membres du personnel du pouvoir adjudicateur (par exemple, l'adresse d'un employé).
+
+L'adresse de l'adjudicataire est incomplète et ne comporte pour toute mention qu'une boîte postale, sans nom de rue ou numéro de téléphone (il est possible qu'il s'agisse d'une société fictive).
+
+Le cahier des charges s'apparente fortement au catalogue des produits et services fournis par l'adjudicataire et va jusqu'à inclure un éventail de spécifications extrêmement précises, auxquelles seul un nombre très restreint de soumissionnaires peut se conformer.
+
+Seul un petit nombre d'entreprises parmi celles qui se sont procuré le dossier d'appel d'offres présentent finalement une offre et plus de la moitié d'entre elles abandonnent.
+
+Des sociétés inconnues, sans aucune référence, remportent le marché.
+
+SUGGESTIONS:
+
+S'assurer que les membres du comité d'évaluation sont sélectionnés conformément au manuel de mise en œuvre du projet.
+
+S'assurer que l'agent du pouvoir adjudicateur chargé du projet se tient à la disposition du comité d'évaluation pour répondre à toute question de procédure.
+
+Confirmer que le comité d'évaluation dispose des connaissances techniques nécessaires pour évaluer les offres.
+
+Vérifier que les membres du comité d'évaluation signent une déclaration confirmant l'absence de tout conflit d'intérêts dans l'exercice de leurs fonctions, tel que des connexions, présentes ou passées, avec l'un des soumissionnaires.
+
+Exécution et modification des marchés publics
+
+Tout marché attribué dans le cadre d'une procédure de passation de marchés publics doit être exécuté conformément aux prescriptions établies dans l'appel d'offres et les spécifications techniques et dans le délai imparti dans l'appel. Les parties peuvent être autorisées à modifier légèrement et en partie seulement le marché, pour peu qu'elles soient en mesure de prouver que cette modification était à l'origine imprévisible et qu'elles puissent garantir le maintien d'un équilibre économique raisonnable.
+
+Risques liés à un conflit d'intérêts
+
+Le contrat n'est pas établi dans le respect des règles et/ou spécifications techniques ni dans le respect des documents de l'appel d'offres.
+
+Le marché est mal exécuté.
+Le marché est mal contrôlé.
+De faux certificats sont acceptés.
+
+Signaux d'alerte
+
+Les clauses standard du contrat (audit, recours, dommages et intérêts) sont modifiées.
+
+La méthodologie et le programme d'exécution ne sont pas annexés au contrat.
+
+La raison sociale et le statut juridique de la société sont modifiés sans susciter quelque interrogation que ce soit de la part du responsable géographique concerné.
+
+Des avenants nombreux ou suspects sont apportés pour un même contractant et approuvés par le même agent responsable du projet.
+
+Le délai qui s'écoule, dans le cadre de projets internationaux, entre l'annonce de l'adjudicataire et la signature du contrat est inexplicablement long (signe que le contractant tente de négocier ou de refuser une demande de pot-de-vin).
+
+Les spécifications techniques et le cahier des charges font l'objet de modifications importantes.
+
+La quantité d'articles à livrer est réduite, sans pour autant donner lieu à une réduction équivalente du prix à payer.
+
+Les heures de travail augmentent, sans pour autant se traduire par une augmentation équivalente du volume de matériaux utilisés.
+
+Le contrat fait défaut ou les justificatifs d'achat ne correspondent pas.
+
+L'un des employés du pouvoir adjudicateur a un comportement inhabituel dans la gestion du dossier. Il répugne à répondre à toute question concernant des retards inexpliqués ou des documents manquants.
+
+Les contrôles administratifs et les procédures d'adjudication annulées sont nombreux.
+
+La qualité, la quantité ou la désignation des biens et services figurant dans le contrat ont subi des modifications par rapport au dossier d'offre (cahier des charges, spécifications techniques, etc.).
+
+SUGGESTIONS:
+
+Évaluer toutes les demandes d'avenant, vérifier leur légitimité et demander, le cas échéant, des justificatifs avant de valider l'avenant.
+
+Lors de contrôles concernant des missions relatives à des projets à haut risque, demander aux clients d'informer la banque des avenants apportés à tout contrat signé, quel que soit le montant en jeu.
+
+Profiter des missions de surveillance effectuées par l'équipe d'intervention pour contrôler que les principaux biens, travaux et services fournis existent bel et bien. Ces contrôles permettent de confirmer que l'état d'avancement des travaux est en adéquation avec les certificats d'exécution établis, que les justificatifs correspondent et que les agents émettent à bon escient les certificats attestant que les biens et services ont été reçus en temps voulu.
+
+Exiger des audits annuels des projets à haut risque sur le plan technique, financier et des approvisionnements.
+
+Prévoir des visites in situ effectuées par des experts techniques lors de missions de surveillance.
+
+Mettre en place à l'intention des agents chargés du projet une formation en gestion des contrats.
+
+Vérifier plus particulièrement, dans le cadre de l'examen des approvisionnements et de la gestion financière, comment s'exercent les contrôles opérés sur la gestion des contrats — listings de paiement par contrat ou par contractant, contrôle des paiements effectués en double, certificats de réception des fournitures et des services.
+
+Instaurer des procédures de traitement des plaintes et les rendre publiques.
+Annexe 1: Modèle de déclaration d'absence de conflit d'intérêts
+
+
+Intitulé du marché:
+
+Référence: (appel d'offres n°):
+
+Je, soussigné(e) .............................., ayant été nommé(e) à la commission d'ouverture / ayant été nommé(e) au comité d'évaluation / vu les responsabilités en matière d'évaluation des critères (de sélection et d'exclusion) qui m'ont été confiées / ayant été nommé(e) pour contrôler les opérations / ayant été autorisé(e) à modifier en partie le contrat relatif au marché susmentionné, déclare avoir pris connaissance de l'article 57 du règlement financier, qui dispose que:
+
+«1. Les acteurs financiers et les autres personnes participant à l'exécution et à la gestion du budget, y compris aux actes préparatoires à celui-ci, ainsi qu'à l'audit ou au contrôle, ne prennent aucune mesure à l'occasion de laquelle leurs propres intérêts pourraient être en conflit avec ceux de l'Union.
+
+Si un tel risque existe, la personne en question a l'obligation de s'abstenir et d'en référer à l'ordonnateur délégué, qui confirme par écrit l'existence éventuelle d'un conflit d'intérêts. La personne en question informe également son supérieur hiérarchique. Lorsque l'existence d'un conflit d'intérêts a été établie, la personne en question cesse toutes ses activités en rapport avec le dossier concerné. L'ordonnateur délégué prend lui-même toute mesure supplémentaire appropriée.
+
+2. Aux fins du paragraphe 1, il y a conflit d'intérêts lorsque l'exercice impartial et objectif des fonctions d'un acteur financier ou d'une autre personne, visés au paragraphe 1, est compromis pour des motifs familiaux, affectifs, d'affinité politique ou nationale, d'intérêt économique ou pour tout autre motif de communauté d'intérêt avec le bénéficiaire.»
+
+[de la législation nationale ……….qui dispose que: …….. (le cas échéant)]
+
+Par la présente, je déclare ne pas être, à ma connaissance, en situation de conflit d'intérêts avec les opérateurs qui ont [posé candidature pour participer à la présente procédure de passation de marchés] [soumis une offre dans le cadre de la présente procédure de passation de marchés], que ce soit à titre individuel ou en tant que membre d'un groupement, ni avec les sous-traitants proposés.
+
+À ma connaissance, il n'existe aucun fait ou élément, passé, actuel ou susceptible d'apparaître dans un avenir prévisible, qui pourrait remettre en question mon indépendance vis-à-vis d'une de ces parties. XX degré de parenté, mariage ou partenariat civil enregistré. Relations contractuelles ou services de consultation rémunérés ou non rémunérés, actuellement en cours d'application. Y compris dans le cadre d'un bénévolat ou en tant que membre d'un comité ou d'un conseil de direction.
+
+Je confirme que si, au cours de la procédure de sélection / de la procédure d'évaluation [d'ouverture] / de l'exécution ou de la modification du contrat, je découvre l'existence ou l'apparition d'un tel conflit, je le signalerai immédiatement à la commission / au comité et que si un conflit d'intérêts est établi, je cesserai, sans délai, de prendre part à la procédure d'évaluation et à toute activité connexe.
+
+Je confirme également que j'assurerai la confidentialité de toutes les questions qui me seront confiées. Je ne révélerai aucune des informations confidentielles qui auront été portées à ma connaissance ou que j'aurai découvertes et m'abstiendrai de faire un usage abusif des informations qui m'auront été transmises. Je m'engage en particulier à conserver de manière sûre et confidentielle les informations et les documents qui me seront communiqués ou dont je prendrai connaissance ou que je préparerai dans le cadre de l'évaluation ou suite à celle-ci, et je m'engage à ne les exploiter qu'aux seules fins de cette évaluation et à ne les communiquer à aucune tierce partie. De plus, je m'engage à ne conserver aucune copie des informations écrites reçues.
+
+Signature (lieu et date): ............................
+
+Nom: ..................................
+
+Fonctions
+Annexe 2: Exemples
+
+
+Cas n° 1
+
+Le Service roumain de lutte contre la fraude (DLAF) a été informé par le Ministère du développement régional et du tourisme de l'éventualité d'un conflit d'intérêts dans un projet financé par le FEDER.
+
+Le bénéficiaire du projet était un Conseil départemental et le contrat de financement conclu en 2009 portait sur la rénovation et la modernisation d'un tronçon de 50 km de routes départementales.
+
+A l'issue d'une procédure nationale de passation de marchés publics conduite dans le cadre de la législation nationale sur l'attribution des contrats de marchés publics, des contrats de concession de travaux publics et des contrats de concession de services, le bénéficiaire a attribué un marché de travaux d'un montant de 10 millions d'euros au contractant S.
+
+Une fois les travaux commencés, S a demandé au bénéficiaire d'accepter de remplacer le fournisseur de ballast choisi à l'origine par une autre entreprise, F, pour des raisons économiques et d'obtenir l'aval du maître d'œuvre pour ce changement.
+
+Peu de temps après, S a demandé au bénéficiaire d'autoriser aussi le changement du matériel de construction, à savoir le remplacement des pierres de carrière par des pierres de ballast, et a produit, pour ce matériel de construction également appelé à être fourni par F, des rapports d'essai. L'aval du concepteur et du maître d'œuvre avait été préalablement obtenu.
+
+Le Conseil départemental a élaboré au sujet de ces deux changements les documents suivants: des rapports signés par le coordinateur du projet, approuvés et signés par le président du Conseil départemental; un avenant au contrat de travaux signé par le président du Conseil départemental, indiquant le nom du nouveau fournisseur des matériaux de construction.
+
+Les enquêtes menées par le DLAF ont révélé que la société F appartenait à deux personnes, détenant chacune 50 % des parts, dont l'une était le gendre du président du Conseil départemental, bénéficiaire du projet.
+
+Le DLAF a conclu qu'il existait un conflit d'intérêts, dans la mesure où les documents acceptant F comme fournisseur des matériaux de construction avaient été signés par le président du Conseil départemental, lequel avait, par mariage, un lien de parenté au premier degré avec l'un des propriétaires de F.
+
+Casn° 2
+
+Le DLAF roumain a été informé par le Ministère du développement régional et du tourisme de certaines irrégularités dans un projet financé au titre du programme de cohésion économique et sociale relevant de Phare 2000.
+Le bénéficiaire du projet était un opérateur économique, Z, et le contrat de financement était conclu pour favoriser la certification du système de gestion de la qualité d'une douzaine de petites et moyennes entreprises du secteur de la construction.
+
+Pour pouvoir attribuer le contrat de services de certification dans le cadre de la législation nationale prévalant en matière de passation de marchés publics, le bénéficiaire a nommé un comité d'évaluation composé de cinq membres, qui ont signé des déclarations de confidentialité et d'impartialité.
+
+Or le DLAF a établi que l'un des membres du comité d'évaluation était un commissaire aux comptes qui avait conclu des accords de coopération avec l'adjudicataire.
+
+Cet état de fait constituait une violation des dispositions du guide pratique en vigueur, du guide à l'intention des candidats et de l'annexe à la convention de subvention, dans la mesure où l'un des membres du comité d'évaluation chargé d'attribuer le contrat avait un conflit d'intérêts puisqu'il entretenait une relation contractuelle avec l'un des soumissionnaires.
+
+Casn° 3
+
+Le Service roumain de lutte contre la fraude (DLAF) a été informé par le Ministère du développement régional et du tourisme de cas de suspicion de fraude dans un projet financé par l'intermédiaire d'un programme opérationnel régional (POR), axe prioritaire 2, qui visait à moderniser un tronçon routier, le bénéficiaire étant le Conseil départemental.
+
+Le contrat de conception était attribué par le biais d'une procédure de passation de marchés publics conduite dans le cadre de la législation nationale sur l'attribution des contrats de marchés publics, des contrats de concession de travaux publics et des contrats de concession de services. Le critère de qualification retenu était «l'offre économiquement la plus avantageuse».
+
+L'adjudicataire, P, s'était engagé à ne sous-traiter aucun des volets du contrat, mais aussitôt après sa conclusion, il a sous-traité certains volets à A.
+
+Deux fonctionnaires de l'État qui faisaient office de membres du comité d'évaluation instauré dans le cadre de la procédure d'adjudication n'étaient autres que des employés de A — le sous-traitant de l'adjudicataire.
+
+L'autorité de gestion a bloqué le paiement des services fournis par A en raison du conflit d'intérêts existant entre les membres du comité d'évaluation et le sous-traitant.
+
+Le DLAF a estimé qu'il s'agissait bien d'un conflit d'intérêts au regard de la législation nationale. Le fait que deux fonctionnaires de l'État servant au sein du Conseil départemental aient pris part à la décision d'attribuer le contrat de services à P constituait un avantage matériel indirect pour l'entreprise qui les employait, à savoir A.
+
+Casn° 4
+
+Le Service roumain de lutte contre la fraude (DLAF) a été informé par un organisme intermédiaire travaillant pour le programme opérationnel sectoriel de développement des ressources humaines de l'éventualité d'un conflit d'intérêts dans un projet financé par l'intermédiaire de l'axe prioritaire 3. Ce projet visait à mettre en place une panoplie de techniques et méthodes innovantes dans le double but de renforcer les capacités entrepreneuriales des chefs d'entreprise et d'épauler les petites et moyennes entreprises de deux régions.
+
+Le bénéficiaire était une université dont le représentant légal était le recteur, M. C.
+
+Pour gérer le volet informatif du projet, l'université a conclu, en qualité d'employeur, un contrat de travaux individuel avec son recteur, M. C, en tant qu'employé.
+
+En qualité de recteur de l'université, M. C, a ensuite nommé l'équipe chargée de mener à bien le projet, dont il faisait partie lui aussi.
+
+En signant le contrat de travaux, d'une part en sa qualité de recteur et représentant légal de l'employeur et, de l'autre, en tant qu'employé et membre de l'équipe responsable du projet, M. C a en réalité signé un contrat avec lui-même et obtenu ainsi un avantage matériel direct, à savoir la promesse d'un revenu supplémentaire pour lui-même.
+
+Or, selon la charte de l'université (laquelle applique la loi sur l'éducation nationale), l'université est un établissement d'intérêt public dont le recteur est l'administrateur général. Le DLAF a de ce fait considéré qu'il y avait, au regard de la législation nationale en vigueur, matière à engager des poursuites pénales.

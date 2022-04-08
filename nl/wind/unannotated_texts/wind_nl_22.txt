@@ -1,0 +1,384 @@
+Validatiemetingen EWTW
+
+Samenvatting
+
+Het onttrekken van energie aan de wind heeft een grote invloed op de stroming in een windpark. De effecten daarvan - de zogeffecten - veroorzaken de grootste verliezen in parken en verhogen de wisselbelastingen op de turbines.
+
+ECN heeft gedurende 2 jaar meetgegevens verzameld in het testpark van het EWTW voor het valideren van modellen voor het berekenen van de windkarakteristieken en de prestaties van turbines in het zog.
+Het EWTW park bestaat uit 5 moderne, pitch geregelde Nordex 80 turbines met variabel toerental. De turbines hebben een nominaal vermogen van 2500 kW en een ashoogte van 80 m. De turbines staan in een rij op onderlinge afstand van 3.8 maal de rotordiameter, die ook 80 m is.
+
+Om de gevraagde meetgegevens te verzamelen is het testpark voorzien van een data-acquisitiesysteem voor het meten van meteorologische gegevens tot 108 m hoogte, de bedrijfsparameters van alle turbines en de buigende momenten in de bladen en de mastvoet van één van de turbines.
+De gemeten data worden automatisch opgeslagen in een database. Ook de daarvan afgeleide statistische waarden over periodes van 10-minuten worden opgeslagen voor het doen van analyses en om de toegang tot de ruwe data te vergemakkelijken.
+De gehele data-acquisitieketen is gekalibreerd. De meetgegevens worden gevalideerd, zowel automatisch als door inspectie van tijdhistories en correlaties door experts. Alleen data die deze controles doorstaan komen - na opslag in de database - direct beschikbaar voor het uitvoeren van analyses.
+
+Naast het verzamelen van meetdata zijn data verwerkt tot tabellen en figuren voor directe vergelijking met de resultaten van zogmodellen en modellen voor het berekenen van mechanische belastingen. Het betreft vooral wind- en turbulentiekarakteristieken op verschillende rotorafstanden, geproduceerde vermogens bij windrichtingen langs het park en vermoeiingsbelastingen en verdelingen voor extreme belastingen bij normaal bedrijf.
+
+Dit rapport geeft een overzicht van de uitgevoerde activiteiten, het data-acquisitiesysteem, de inhoud van de database en de resultaten van de dataverwerking.
+
+Inleiding
+
+Het onttrekken van energie aan de wind verandert de eigenschappen van de stroming. Zo wordt bijvoorbeeld de gemiddelde windsnelheid verlaagd en de turbulentie verhoogd. Hierdoor wordt de opbrengst van het park verminderd en worden de turbines anders belast. De kennis over deze zogeffecten is beperkt waardoor de onzekerheid over de economische haalbaarheid van windprojecten groot is. Dit geldt vooral offshore waar bij voorkeur parken met veel en grote turbines worden gebouwd.
+
+Dit project " Validatiemetingen ECN Windturbine Testpark Wieringermeer" heeft als doel om die onzekerheid te verminderen door het leveren van nauwkeurige, gevalideerde meetgegevens over de zogeffecten.
+
+Gedurende 2 jaar zijn gegevens verzameld en verwerkt voor het valideren van modellen voor de berekening van zogeffecten en de effecten daarvan op de prestaties en de belastingen van turbines in parken.
+De metingen zijn uitgevoerd in het EWTW testpark van ECN in de Wieringermeer aan een rij van 5 turbines met een nominaal vermogen van 2500 kW met bijbehorende meteo-mast.
+
+Dit eindrapport geeft een overzicht van de toegepaste werkwijze en de uitgevoerde activiteiten (Hoofdstuk 3) met deliverables en meetresultaten (Hoofdstuk 4). De resultaten worden bediscussieerd in Hoofdstuk 5, aspecten die verband houden met commercialisering en de energieverdienste in Hoofdstuk 6. Ten slotte worden in Hoofdstuk 7 de conclusies en aanbevelingen gepresenteerd.
+
+Doelstelling
+
+De doelstelling van het project luidt:
+
+Het vergaren en bewerken van geschikte meetdata voor het valideren van modellen en methoden voor: het karakteriseren van het zog in windturbineparken en de effecten daarvan op belastingen en prestaties, het bepalen van extreme belastingen en collectieven voor vermoeiingsbelastingen.
+
+De doelstelling is gericht op het realiseren van een uitgebreide database met meetdata van hoge kwaliteit, afkomstig van moderne, grote turbines en het verwerken van die data voor directe validatie.
+Bij de verwerking tot zogkarakteristieken gaat het om de veranderingen in de stroming - voornamelijk de veranderingen in de gemiddelde windsnelheid en de turbulentie - en de effecten van het zog op de prestaties van turbines.
+Bij extreme en vermoeiingsbelastingen is de verwerking erop gericht om het effect van het zog te laten zien onder normale bedrijfsomstandigheden op de zeldzame (hoge) belastingen en de vermoeiingsbelastingen.
+
+Het EWTW testpark van ECN met zijn 5 2.5 MW turbines en de gerealiseerde infrastructuur voor data-acquisitie en opslag zijn bijzonder geschikt voor het doel van het project omdat: gebruik wordt gemaakt van turbines op ware grootte en op representatieve afstanden van elkaar, gedetailleerde turbine-eigenschappen bekend zijn voor een juiste modellering en simulatie van het aerodynamische, structuurdynamische en regeltechnische gedrag van de turbines, de benodigde data voor externe condities en turbineresponsies worden gemeten gedurende langere tijd zonder onderbreking, de gemeten data in ruwe vorm worden opgeslagen en op verschillende manieren kunnen worden verwerkt.
+
+Werkwijze
+
+Inleiding
+
+De opzet en de uitvoering van het project waren steeds gericht op het realiseren van een uitgebreide database met meetgegevens over een lange periode (2 jaar) en van hoge kwaliteit. Daarom is bij de uitvoering veel aandacht besteed aan zaken als meetnauwkeurigheid, kalibratie van de meetketens en validatie van de gemeten signalen.
+
+Verder is een groot gebruiksgemak van de database nagestreefd. Daarom zijn de signalen in fysische eenheden vastgelegd en zijn alleen die data direct toegankelijk gemaakt voor analyse, die de kwaliteitscontroles met goed gevolg hebben doorstaan.
+
+Meetgegevens van hoge kwaliteit alleen volstaan niet voor betrouwbare validatie. Om die reden is ook een model voor de turbine gemaakt dat - na tuning en validatie - kan dienen als referentie voor modelberekeningen en simulaties. Tuning en validatie van dit model zijn niet voorzien in dit project.
+
+Het project kan grofweg worden onderverdeeld in de volgende hoofdonderdelen: realisatie van de faciliteiten voor het meten, datatransport en dataopslag, het uitvoeren van de metingen met bijbehorende kwaliteitscontroles en het onderhoud van de faciliteiten, het verwerken van data voor direct gebruik bij validatie.
+
+Deze onderwerpen worden in onderstaande paragrafen behandeld, zij het niet in de genoemde indeling en volgorde.
+
+Contract en contractaanpassingen
+
+In het oorspronkelijke contract was opgenomen: het realiseren van de benodigde infrastructuur voor het meten en opslaan van meteorologische gegevens en belasting- en bedrijfsgegevens van 2 turbines.
+Daarnaast waren er activiteiten voorzien voor dataverwerking ten behoeve van directe validatie in andere projecten. Een van die activiteiten was het meten van de windsnelheidsverdeling in het zog met behulp van verplaatsbare SODAR apparatuur.
+
+Direct bij de aanvang van het project is een gedetailleerd meetplan gemaakt. Op basis van dit plan zijn de kosten opnieuw begroot. Die vielen belangrijk hoger uit dan in eerste instantie was geraamd. Dit leidde tot een inhoudelijke aanpassing door het meten van belastingen te beperken tot 1 turbine. Een verdere bezuiniging was mogelijk door meetmast 3 volgens hetzelfde ontwerp te bouwen als meetmast 1 en door het vereenvoudigen van het data-acquisitie systeem, waardoor minder (relatief dure) front-ends nodig waren.
+
+Om inhoudelijke redenen zijn later de (kwalitatieve) SODAR metingen van zogprofielen vervangen door meer nauwkeurige, kwantitatieve metingen van de windkarakteristieken met meetmast 3 in het zog. Deze aanpak sloot beter aan bij de bestaande onderzoeksbehoefte.
+Na bovengenoemde veranderingen bleven 2 activiteiten over voor het verwerken van data, te weten het leveren van: een set met nauwkeurige meetresultaten voor de validatie van zogmodellen (projectfase 4.1 Dataverwerking t.b.v. validatie van zogmodellen) een schatting van extreme belastingen en het leveren van een capture matrices met vermoeiingsbelastingen voor normaal bedrijf (projectfase 4.3 verwerking van langdurige mechanische metingen)
+
+Het oorspronkelijke contract had een looptijd van 1 april 2003 tot 1 oktober 2005. Een grote vertraging is ontstaan in het vergunningtraject voor de meetmast en de levering van de turbines aan het EWTW. Dit heeft aanleiding gegeven tot verschuiving van de einddatum met ruim 1 jaar tot 30 november 2006.
+
+Faciliteiten
+
+Locatie
+De meetfaciliteiten zijn gelokaliseerd in het teststation van het ECN in de Wieringermeer (EWTW). Dit is gevestigd in een omgeving met weinig verstoringen: open, vlak agrarisch terrein met verspreide bebouwing en enkele bomenrijen. De locatie heeft een jaargemiddelde windsnelheid van 7 m/s op 71.6 m hoogte.
+
+Het gehele teststation omvat onder andere: 4 locaties voor het testen van prototypes van windturbines, een testpark bestaande uit een rij met 5 turbines van 2500 kW, 3 meteorologische masten (2 van 108 m en 1 van 100 m hoog), een glasvezelnetwerk voor datatransport, een meetpaviljoen.
+
+De afstand tussen de rij prototypes en het testpark is 1600 m. De rand van het IJsselmeer ligt op een afstand van ongeveer 1200 m van het midden van het park in oostelijke richting (zie Figuur 3.1). Meer informatie over de locatie en het plaatselijke windklimaat wordt gegeven in. In deze referentie staan ook de onderlinge richtingen en afstanden vermeld van de turbines van het testpark tot de prototypes en tot andere windturbines in de omgeving.
+
+Testpark
+De 5 turbines van het testpark zijn in maart 2004 geplaatst. Het zijn machines met variabel toerental, een nominaal vermogen van 2500 kW en een rotordiameter en ashoogte van 80 m. De turbines zijn op een onderlinge afstand geplaatst van ongeveer 3.8 maal de rotordiameter (305 m).
+De rij is geplaatst van west naar oost onder een hoek van 095º met van het noorden. De turbines zijn genummerd van 5 tot en met 9. Turbine 5 is de meest westelijke van de rij, turbine 9 de meest oostelijke.
+
+Instrumentatie meteo-mast
+Het testpark is uitgerust met een meteorologische mast (MM3) die in het project gedurende 2 jaar is gehuurd van het EWTW. Om kosten te besparen heeft deze mast hetzelfde ontwerp als meetmast 1. MM1 is uitvoerig onderzocht qua verstoring van de stroming door de mast en de uithouders. Daaruit is gebleken dat die verstoringen minder zijn dan 1° en 1.12 %. Vanwege het identieke ontwerp zullen voor MM3 dus overeenkomstige waarden gelden.
+
+MM3 staat ten zuiden van de turbinerij op 3.5D afstand van turbine 5 en 2.5D van turbine 6. De afstanden en richtingen zijn zodanig dat voor beide turbines metingen kunnen worden uitgevoerd aan vermogens en belastingen volgens de betreffende normen IEC61400-12 "Wind turbine power performance testing" en IEC 61400-13 " Measurement of mechanical loads".
+De mast staat te ver van de turbines 7 tot en met 9 voor metingen volgens die normen. De afstanden tot die turbines zijn respectievelijk 5.4, 9 en 12.7 D.
+
+De meetmast is voorzien van instrumenten voor het meten van windsnelheden (cupanemometers en 3D sonische anemometers) en windrichtingen op 3 hoogtes. Gekozen is voor metingen op ashoogte (80 m) en ongeveer 70% van de rotorstraal daarboven en daaronder. Verder worden de temperatuur, druk en luchtvochtigheid gemeten in de mast.
+Het signaal voor de gemeten neerslag wordt geïmporteerd van meetmast MM1.
+
+Figuur 3.1 Plattegrond van het teststation met testpark, prototypelocaties en meetmast locaties.
+
+Om ook de atmosferische stabiliteit te kunnen meten is in een later stadium het instrumentarium in MM3 uitgebreid met een nauwkeurige meting van het temperatuurverschil tussen 10 en 37 m hoogte. Dit meetsignaal is 10 maanden na aanvang van de metingen in gebruik genomen.
+
+Figuur 3.2 De 5 turbines van het testpark.
+Alle meteo signalen worden gemeten met een frequentie van 4 Hz.
+De plaats van de verschillende sensoren in de mast is aangegeven in Figuur 3.3, de meetsignalen zelf zijn opgesomd in Bijlage C. 
+
+Instrumentatie turbines
+De turbines 5 en 6 zijn conform de projectbeschrijving voorzien van instrumenten om de bedrijfsparameters te meten. Per turbine worden gemeten: het vermogen, het generatortoerental, de windsnelheid en windrichting op de gondel, de pitchhoeken van de bladen, de kruihoek en de code voor de bedrijfstoestand. Al deze signalen zijn afkomstig van de turbine-PLC.
+In een later stadium en in een ander project zijn instrumenten aangebracht om de bedrijfsparameters te meten van de turbines 7 tot en met 9. Deze gegevens zijn ook opgenomen in de database om een volledige set van het hele testpark te krijgen.
+
+Turbine 6 is verder voorzien van rekstrookapparatuur in ieder blad voor het meten van buigende momenten in de klap- en zwaairichting en van rekstrookapparatuur in de mastvoet voor het meten van buigende momenten in onderling loodrechte richtingen. Daarvan zijn er 2 systemen aangebracht om redenen van redundantie. Beide systemen maken onderling een hoek van 45º. Om de bladmomenten te kunnen relateren aan de rotorpositie wordt in turbine 6 ook de rotorazimuthoek gemeten.
+
+De operationele signalen van de turbines worden door de PLC's met 25 Hz aangeboden op de ingang van het DANTE systeem. De belastingssignalen worden met 32 Hz aangeboden. De sample frequentie van het DANTE systeem zelf is 32 Hz.
+
+Bijlage D geeft een opsomming van de bedrijfssignalen die worden gemeten in alle turbines en van de buigende momenten in turbine 6. Meer gedetailleerde informatie onder andere over de kalibratie van de signalen voor buigende momenten.
+Data-acquisitie en database
+De meetgegevens worden verzameld met het data-acquisitiesysteem. Dit is een robuust, gedecentraliseerd meetnetwerk, gebaseerd op het DANTE systeem dat door ECN is ontwikkeld.
+In dat systeem worden op centrale plaatsen interfaces geplaatst waarop de sensoren worden aangesloten. Deze zogenaamde front-ends bevatten modules voor signaalconditionering en voor conversie van de meetsignalen naar fysische eenheden (Figuur 3.4). De modules zijn aangepast aan de sensoren die erop zijn aangesloten. Zo zijn er bijvoorbeeld modules voor rekstrooksignalen, cup- en sonische anemometers, windvanen, temperatuursensoren, etc.
+
+Figuur 3.4 Schematische weergave van een DANTE acquisitiesysteem.
+
+Het aangebrachte meetsysteem is geconfigureerd rond 4 DANTE front-ends. Zij bevinden zich bij de meetmast en in de voet van de turbines 6, 7 en 8.
+De meetsignalen in de bladen van turbine 6 zijn via een sleepringset aangesloten op de front-ends.
+
+De gehele data-acquisitieketen is gekalibreerd. De meetgegevens worden automatisch gevalideerd. Het systeem controleert zichzelf op correcte werking door monitoring van de status van de hardware en door vergelijking van de gemeten signalen met vooraf ingegeven bereiken. De resultaten van deze zogenaamde auto-validaties worden samen met de meetgegevens opgeslagen.
+Via glasvezel verbindingen worden alle signalen van de DANTE front-ends naar een host-computer in het meetpaviljoen getransporteerd. Referentie geeft uitgebreide informatie over het acquisitiesysteem, de signaalconditionering en de auto-validaties.
+
+De ruwe data voor ieder 10-minuten interval wordt met de specifieke samplefrequentie (4 Hz voor meteo-signalen, 32 Hz voor turbine signalen) opgeslagen in binaire files, samen met configuratie files die informatie bevatten over de sensoren zoals type, nummer, kalibratie constanten, boven- en ondergrenzen voor automatische validatie, etc. De statistische gegevens over de 10-minuten intervallen (gemiddelde, maximum, minimum en standaard deviatie) worden opgeslagen in een database met WDMS structuur (Wind Data Management Systeem) die door het ECN is ontwikkeld voor het toegankelijk opslaan van grote hoeveelheden data. Naast de statistische waarden worden ook afgeleide signalen (pseudo-signalen) opgeslagen in de database. Afgeleide signalen zijn bijvoorbeeld de windsnelheid en windrichting, bepaald uit de signalen van een 3D sonische anemometer, of het moment in een bladwortel loodrecht op het rotorvlak, afgeleid uit de gemeten bladwortelmomenten en de pitchhoek.
+
+Iedere dag worden de binaire files en de statistische informatie over een internetverbinding overgebracht naar de server op het ECN terrein, waar deze data wordt opgeslagen.
+
+Voor het opslaan worden automatisch extra kwaliteitscontroles uitgevoerd door vergelijking met standaard regels of correlaties (rule based validation).
+De eindcontrole bestaat uit een inspectie van de gemeten data door een deskundige aan de hand van de "daily plots" van de tijdhistories (post-validatie), zie Bijlage G. Alleen de data, die al deze controles doorstaan, komen op een directe manier beschikbaar voor analyse.
+De afgekeurde data worden niet verwijderd, maar zijn met speciale autorisaties te benaderen.
+
+De database is niet statisch. Er kunnen altijd (ruwe) data worden toegevoegd, pseudo-kanalen toegevoegd of verwijderd, validatievlaggen veranderd, etc. Veranderingen kunnen dus ook worden aangebracht indien analyses achteraf of het gebruikersgemak hierom vragen.
+
+De (metingen zijn gestart in september 2004, aanvankelijk met een beperkt aantal signalen afkomstig van MM3. Het meetsysteem is in de daaropvolgende 4 maanden geleidelijk volledig in bedrijf gekomen (Figuur 3.5).
+
+9 Maanden na de aanvang van de automatische metingen was de instrumentatie aangebracht voor het meten van de operationele gegevens van de turbines 7, 8 en 9. Deze zijn aan de database toegevoegd, samen met het signaal voor het meten van het temperatuurverschil tussen 10 en 37 m hoogte.
+
+Bijlage E geeft in tabelvorm een overzicht van de maandelijkse beschikbaarheid van de afzonderlijke signalen over de periode van september 2004 tot oktober 2006.
+
+Als resultaat is er tot 1 oktober 2006 ongeveer 394 Gb aan ruwe data opgeslagen in binaire files en 20 Gb aan statistische gegevens en pseudo-signalen.
+
+Figuur 3.5 Beschikbaarheid van de meetsignalen gedurende het project. De bedrijfssignalen van de turbines 7 tot en met. 9 zijn uit een ander project toegevoegd. De terugval in de belastingssignalen van T6 is te wijten aan uitval en reparatie van de sleepringset op de rotoras.
+
+Resultaten
+
+Deliverables
+
+De deliverables van het project zijn opgesomd in de de tabellen van Bijlage F deliverables aan de hand van de inhoudelijke contractwijzigingen.
+Bij de uitvoering van de werkzaamheden zijn nog enkele wijzigingen opgetreden. De veranderingen in de deliverables die daardoor zijn ontstaan zijn vet en cursief weergegeven in de tabellen.
+De belangrijkste veranderingen ten opzichte van de toezeggingen in het contract zijn: Vervallen: Het opstellen van de karakteristiek voor de axiaalkracht van de turbines uit de metingen.
+Het verband tussen de omgevingsturbulentie en de vermogensvariatie is niet gerapporteerd, wel onderzocht. Het doel was om te onderzoeken of - bij gebrek aan een meetmast voor de rotor - de omgevingsturbulentie kan worden bepaald uit de vermogensvariatie van een turbine. Uit het onderzoek bleek dat dit geen zin heeft bij deze turbines met variabel toerental.
+
+Veranderd:
+Er zijn geen kwartaaloverzichten gemaakt van de metingen. In plaats daarvan zijn er daily plots gemaakt voor controle van de meetdata door experts (post-validatie). De uitkomsten van de validatie zijn per maand met eventuele bijzonderheden vastgelegd in een Excel werkboek. Voorbeelden van de daily plots en de overzichten staan in Bijlage G.
+Er zijn alleen gekwantificeerde verschillen in equivalente vermoeiingsbelasting bepaald voor de klaprichting en niet voor de zwaairichting. In plaats daarvan zijn de verschillen in de gevoeligste richting (klap) bepaald voor 3 (vrije stroming, partial wake, full wake) i.p.v. 2 sectoren (vrije stroming, full wake).
+Er zijn alleen extreme belastingen bepaald voor de klaprichting en niet voor de zwaairichting. In plaats daarvan is ook hier onderscheid gemaakt naar 3 sectoren in het zog (vrije stroming, partial wake, full wake) i.p.v. naar 2 sectoren (vrije stroming, full wake).
+
+Aanvullingen:
+Er is een nieuwe methode voorgesteld om de kruihoek van turbines nauwkeurig te kunnen kalibreren. De rotor wordt daarbij onder een hoek gefotografeerd. Uit de kompasrichting van de opname en de uit de digitale foto opgemeten lengte-breedteverhouding van de rotorellips kan de kruihoek worden berekend. De methode moet eerst worden getest en geëvalueerd voordat hij kan worden gebruikt bij meetprojecten.
+Er is een eenvoudige manier voorgesteld om de oriëntatie van een sonische anemometer, na montage, te controleren uit metingen. De methode is gebaseerd op het feit dat sonische anemometers in de hoofdrichtingen ongevoelig zijn voor windsnelheden loodrecht daarop. Als de quotiënten van de windsnelheden in de hoofdrichtingen worden uitgezet tegen de windrichting, worden scherpe pieken zichtbaar in de hoofdrichtingen. De bijbehorende windrichtingen corresponderen met de oriëntatie waaronder de anemometer is gemonteerd.
+Het meten van de bedrijfsparameters in het project was beperkt tot het meten van de parameters van de turbines 5 en 6. Later zijn de operationele parameters van de turbines 7, 8 en 9 aan de database toegevoegd. De benodigde voorzieningen zijn aangebracht in het O&M Cost Estimater project van het ECN.
+Er is een bijdrage geleverd aan de European Wind Energy Conference 2006 (EWEC2006), in Athene van 27 februari 2006-2 maart 2006.
+Er is een abstract opgesteld voor de European Wind Energy Conference van 7 tot 10 mei 2007 te Milaan. Het abstract is geaccepteerd voor mondelinge presentatie in het "Technical and Scientific Track".
+
+Meetresultaten
+
+In deze paragraaf worden enkele inhoudelijke resultaten gepresenteerd uit de technische rapporten die zijn opgesteld over de projectfasen:
+4.1 Dataverwerking t.b.v. validatie van zogmodellen en
+4.3 Verwerking langdurige mechanische metingen.
+
+Referentie A presenteert windsnelheidskarakteristieken en prestaties van turbines in het zog onder verschillende omstandigheden, grofweg onderverdeeld in: veranderingen in de gemiddelde windsnelheid (longitudinaal en verticaal) en in windrichting, veranderingen in de turbulentie-intensiteit en de verhoudingen van de turbulenties in het horizontale en verticale vlak, de relatieve prestaties van het park en van de individuele turbines bij windrichtingen langs het park, idem voor de prestaties van de 2e turbine in de rij op 3.8D en 7.8D rotor afstand.
+
+Referentie B Vergelijkt de uit metingen geëxtrapoleerde, extreme belastingen en gemeten vermoeiingsbelastingen bij verschillende zogcondities voor normale bedrijfsomstandigheden.
+
+Onderstaande paragrafen laten enkele resultaten zien.
+De resultaten worden soms weergegeven voor verschillende stabiliteitscondities, ofwel grenzen voor de verticale temperatuurgradiënt waarbij wel (instabiel) of geen (stabiel) uitwisseling tussen luchtlagen in verticale richting plaats vindt.
+
+De windsnelheden en deviaties in het zog zijn gemeten met de sonische anemometer. Deze is bevestigd op de noordelijke uithouder van MM3 en daarom het meest geschikt voor zogmetingen.
+Dit betekent dat er bij wind vanuit het noorden geen meetmast beschikbaar is voor het meten van de omgevingswindsnelheid (V') vóór de turbines. Daarom wordt deze geschat uit het anemometersignaal op de gondel van turbine 5, die voor de meest voorkomende windrichtingen vrij wordt aangestroomd. De overdrachtsfunctie tussen de op de gondel gemeten windsnelheid en de omgevingswindsnelheid is bepaald uit ongestoorde windrichtingen.
+Op dezelfde manier is in gevallen dat MM3 in het zog staat de windrichting bepaald uit de kruihoek van turbine 5.
+
+Zogmetingen
+
+Windsnelheden in het zog
+
+Figuur 4.1 toont de relatieve windsnelheid (ut/V') op ashoogte zoals die is gemeten aan de lijzijde van het park uit de sector van -135º tot +135º gedurende de periode van 17 september 2004 tot 1 oktober 2006. De grafiek is samengesteld uit bijna 22000 10-minuten waarden.
+
+De typische afname van de relatieve windsnelheid ter plaatse van de zoggebieden achter de turbines 5, 6 en 7 is duidelijk te zien.
+
+Figuur 4.2 geeft het verloop van de relatieve windsnelheid (ut/V') in het zog van turbine 5 (rotorafstand 3.5 D) voor 3 verschillende windsnelheidsintervallen.
+
+Figuur 4.3 geeft de grootste afname van de relatieve windsnelheid (1-ut/V') in het zog voor verschillende rotorafstanden (2.5D, 3.5D en 5.4D) als functie van de omgevingswindsnelheid V'.
+Zoals verwacht treedt de grootste relatieve snelheidsvermindering op achter T6 die op de kortste afstand (2.5D) staat van MM3. De vermindering is ongeveer 45% bij windsnelheden tot 8 m/s. In het algemeen neemt de grootste relatieve snelheidsvermindering af met toenemende afstand tot de rotor. Op afstanden van 2.5 en 3.5D neemt zij ook af ook met toenemende windsnelheid.
+
+ut : windsnelheid gemeten met de sonische anemometer op ashoogte.
+V': omgevingswindsnelheid geschat met de gondelanemometer van turbine 5.
+
+Figuur 4.1 Relatieve windsnelheid: de in MM3 gemeten, gemiddelde windsnelheid op ashoogte ut, gedeeld door de omgevingswindsnelheid V', die is bepaald uit het anemometersignaal van turbine 5. Alle windsnelheden en stabiliteitsklassen.
+
+Figuur 4.2 Relatieve windsnelheid gemeten op ashoogte in MM3, in het zog van Turbine 5(afstand 3.5D) bij 3 verschillende intervallen voor de windsnelheid.
+
+
+Figuur 4.3 Grootste vermindering van de relatieve windsnelheid (maximaal snelheidsdeficit) als functie van de omgevingswindsnelheid en de rotorafstand. Breedte van de windsnelheidsintervallen: 2 m/s.
+
+Turbulentie in het zog
+
+De turbulentie-intensiteit, die is gemeten in de sector van -135º tot +135º, is uitgezet tegen de windrichting in Figuur 4.4. De turbulentie-intensiteit is het quotiënt van de windsnelheidsdeviatie σ(ut) (gemeten met MM3) en de omgevingswindsnelheid V', die weer is bepaald uit het anemometersignaal op de gondel van T5.
+
+
+Figuur 4.4 Turbulentie-intensiteit: de deviatie van de windsnelheid op ashoogte gedeeld door de omgevingswindsnelheid, σ(ut)/V'. Het gemiddelde en de standaard deviatie per bin zijn weergegeven. Alle windsnelheden en stabiliteitsklassen inbegrepen.
+Figuur 4.5 vergelijkt de turbulentie-intensiteiten in het zog op 2.5D en 3.5D afstand van de rotor bij een gemiddelde omgevingswindsnelheid van 7 m/s en absoluut thermisch stabiele condities (∆T/h > -5.8°/km). In plaats van de windrichting is op de ordinaat de relatieve afstand uitgezet tot het vlak door de gondel en mast.
+
+In de grafieken van Figuur 4.5 is duidelijk het typische verloop te zien voor de gemiddelde turbulentie-intensiteit in het zog: een sterke toename met een minimum in het zogcentrum. De maxima treden op aan de randen waar veel turbulentie ontstaat vanwege de grote verschillen tussen de snelheid in de buitenstroming en die in het zog. De gemiddelde intensiteit in het zog op 2.5 D neemt bij thermisch stabiele atmosfeer met 10%-punten toe. De metingen laten overigens zien dat dit ook het geval is bij instabiele atmosfeer.
+
+Figuur 4.5 Gemiddelde turbulentie-intensiteit σ(ut)/V' op afstanden van 2.5D en 3.5D als functie van de relatieve afstand tot de rotoras, voor windsnelheden van 6 tot 8 m/s (links) en 10 tot 12 m/s (rechts) bij absoluut thermisch stabiele condities.
+
+Parkprestaties
+
+Figuur 4.6 geeft de meetpunten voor het vermogen van het gehele park bij westenwind onder kleine hoeken met het park, dus in situaties waarbij de turbines (gedeeltelijk) in elkaars zog staan. Het vermogen is relatief gemaakt door te delen door 5 maal het vermogen van turbine 5, dat representatief is voor het vermogen van het hele park zonder verstoring.
+
+In Figuur 4.7 wordt de relatieve prestatie van het park weergegeven voor 5 intervallen van de gemiddelde omgevingsnelheid V' en 3 klassen van de turbulentie-intensiteit TI = σ(ut)/V'. De turbulentie-intensiteit is gemeten met de sonische anemometer op ashoogte die bij grote positieve waarden van de windrichting mogelijk door T5 wordt beïnvloed. Daarom is de grafiek voor de turbulentie-invloed afgekapt boven 15°.
+Het lijkt erop alsof het horizontale profiel voor de parkprestaties bestaat uit twee verschillende gebieden: een middeldeel dat sterk wordt beïnvloed door de gemiddelde windsnelheid en turbulentiegraad, geflankeerd door twee gebieden waar de prestatie nagenoeg onafhankelijk is van die condities.
+
+Bij lage turbulentiegraad treedt een relatief grote daling op van het parkvermogen. Dit is relevant voor de prestaties van offshore parken waar de turbulentie-intensiteit over het algemeen laag is.
+Gemiddeld produceert de rij turbines ongeveer 15 % minder vermogen bij een gemiddelde turbulentiegraad van 2.5% dan bij 12.5% (Figuur 4.8)
+
+Figuur 4.6 Gemeten, gemiddelde waarden voor het relatieve parkvermogen. Alle data. Ieder punt representeert een 10-minuten gemiddelde waarde. De windrichting is bepaald uit de kruihoek van turbine 5.
+
+Figuur 4.7 Relatieve prestaties van het gehele park bij verschillende omgevingswindsnelheden V' (links) en turbulentie-intensiteiten σ(ut)/V' (rechts).
+
+
+Figuur 4.8 Gemiddelde en minimum waarde van de relatieve parkproductie bij verschillende turbulentie-intensiteiten en alle windsnelheidsklassen. Het gemiddelde is bepaald over een 44° brede, gecentreerde sector. De intensiteitintervallen hebben een breedte van 5% .
+
+Turbineprestaties
+
+Figuur 4.9 geeft het minimum van de relatieve prestaties van de individuele turbines voor verschillende windsnelheden en turbulentie-intensiteiten.
+De minima nemen toe met toenemende windsnelheid en turbulentie-intensiteit. De laagste waarde treedt op bij de 2e turbine in de rij en bij lage waarden voor windsnelheid en turbulentie-intensiteit. Bij hogere windsnelheden - wanneer de voorste turbine zijn bladen versteld en meer "doorlatend" wordt voor de stroming - profiteert vooral 2e turbine daar het meeste van en gaat beter presteren dan de volgende turbines.
+
+
+Figuur 4.9 Minima van de relatieve prestaties van de individuele turbines in de rij. Links de invloed van de omgevingswindsnelheid, rechts die van de turbulentie-intensiteit.
+
+De database bevat zoveel gegevens dat de prestaties van de 2e turbine ook op de dubbele afstand kunnen worden weergegeven. Daartoe zijn records geselecteerd waarbij T6 stil heeft gestaan en T7 dus de 2e werkende turbine in de rij is geworden. Figuur 4.10 vergelijkt de relatieve prestaties voor de 2e turbine op 3.8D en 7.6D in een rij bij een gemiddelde windsnelheid van 7 m/s en bij een gemiddelde turbulentie-intensiteit van 11%.
+Figuur 4.11 geeft de minima voor afstanden van 3.8D en 7.6D afhankelijk van de omgevingswindsnelheid. Het is opmerkelijk dat bij lage windsnelheden het minimum voor 3.8D weinig verschilt van dat voor de dubbele afstand.
+
+Figuur 4.10 Vergelijking van de relatieve prestaties van de 2e turbine op afstanden van 3.8 en 7.6D, links voor alle windsnelheden en een turbulentie-intensiteit van 10 tot 12% en rechts een windsnelheid van 6 tot 8 m/s en alle klassen voor de turbulentie-intensiteit.
+
+Figuur 4.11 Minima voor de relatieve prestaties van de 2e turbine op afstanden van 3.8 en 7.6D afhankelijk van de omgevingswindsnelheid. Alle turbulentie-intensiteiten.
+
+Mechanische metingen
+Extreme en vermoeiingsbelastingen zijn belangrijk voor het ontwerp en de belastbaarheid van structurele onderdelen en systemen. Daarbij gaat de interesse vooral uit naar het bepalen van de zeldzame (hoge) belastingen en extreme condities en het bepalen van het collectief voor de vermoeiingsbelastingen. Deze onderwerpen zijn van belang voor het verder verkleinen van de ontwerpmarges en het verminderen van de kosten van reparaties en vervanging van onderdelen en systemen.
+
+Extrapolatie van extreme belastingen
+De nieuwe methode voor het bepalen van de extreme belastingen onder bedrijfscondities is opgenomen in de ontwerpnorm voor windturbines IEC 61400-1/3 maar is nog steeds onder discussie in de onderhoudswerkgroep MT1 van de IEC commissie TC 88. De methode extrapoleert de extreme belastingen, die voorkomen in de (korte termijn) simulaties voor het ontwerp, naar (lange termijn) extremen met een zeer geringe kans van voorkomen, bijvoorbeeld eens in de 50 jaar. Grofweg bestaat de methode uit de volgende stappen: het uitvoeren van simulaties voor combinaties van windsnelheid en turbulentie-intensiteit tijdens normaal bedrijf; het bepalen van de verdeling voor extreme belastingen uit de simulaties voor iedere combinatie van windsnelheid en turbulentie-intensiteit, keuze van het beste model voor de korte termijn verdeling van de extreme belastingen, bepaling van de lange termijn extreme belasting met de gevraagde overschrijdingskans voor een gegeven windklimaat.
+
+Voor zover bekend is het de eerste keer dat deze methode is toegepast op meetresultaten in het zog van een pitch geregelde turbine in de MW klasse.
+
+Allereerst zijn de benodigde procedures en softwarescripts opgesteld en uitgeprobeerd. Daarna is de methode toegepast op meetresultaten van het klapmoment over een periode van 20 maanden.
+
+De keuze is gevallen op het klapmoment omdat dat gevoeliger is voor de externe condities dan het zwaaimoment en de mastbuiging. De reden is dat de zwaaibelasting wordt gedomineerd door de zwaartekracht en in de torenbelastingen meerdere belastingscomponenten zijn geïntegreerd. In het klapmoment is de zoginvloed onderzocht door onderscheid te maken naar volledig en gedeeltelijk zog en vrije aanstroming.
+
+Uit de metingen zijn capture matrices samengesteld voor de condities van volledig en gedeeltelijk zog en vrije aanstroming. Daaruit zijn combinaties van gemiddelde windsnelheid en turbulentie-intensiteit gekozen voor het ophalen van gemeten 10-minuten tijdseries. Met verschillende methoden zijn de opgetreden maxima geïdentificeerd. Voor 1 combinatie van windsnelheid en deviatie is de verdeling van de maxima vergeleken met modelverdelingen (Figuur 4.12).
+
+Figuur 4.12 Gemeten, dimensieloze verdeling voor de maximale klapmomenten in de vrije stroming bij een gemiddelde windsnelheid van 15.5 m/s en gemiddelde deviatie van 1.75 m/s vergeleken met verschillende modelverdelingen.
+
+Tenslotte zijn met de "peak over threshold" en de "random proces" methode de belastingen met een eens per 50 jaar overschrijdingskans geëxtrapoleerd voor de wind condities ter plaatse en voor IEC klasse IA condities.
+Omdat er nog geen gemeten verdelingen van maximale belastingen beschikbaar zijn over meerdere jaren kan er (nog) geen volledige validatie plaats vinden. Wel kan worden gesteld dat de methode kritisch is voor de keuze van de korte termijn modelverdeling en de manier waarop die wordt toegepast. Verder onderzoek moet zich dan ook vooral daarop concentreren
+
+Vermoeiingsbelastingen
+In de database zijn naast de tijdhistories voor de buigende momenten ook equivalente vermoeiingsbelastingen opgeslagen als pseudo-kanalen. De equivalente vermoeiingsbelasting is de amplitude van een constante amplitude wisselbelasting met een frequentie van 1 Hz die dezelfde vermoeiingsschade veroorzaakt als de variabele belasting in het 10-minuten record.
+
+Uit de capture matrix voor de extrapolatie van extreme belastingen zijn condities geselecteerd voor het vergelijken van de equivalente vermoeiingsbelastingen in volledig en gedeeltelijk zog en vrije aanstroming. Figuur 4.13 geeft de dimensieloze resultaten weer als functie van de windsnelheid bij lage en hoge standaard deviaties.
+
+Voor gemiddelde windsnelheden beneden de nominale windsnelheid en lage deviaties is er een duidelijk verschil tussen de equivalente vermoeiingsbelastingen in de 3 sectoren, met de hoogste in de sector voor het volledige zog en de laagste in de vrije stroming. Boven de rated windsnelheid en bij hoge windsnelheidsdeviatie is er nauwelijks onderscheid tussen de sectoren.
+
+Figuur 4.13 Dimensieloze equivalente vermoeiingsbelastingen in klaprichting in volledig en gedeeltelijk zog en vrije aanstroming bij hoge en lage waarden voor de standaarddeviatie van de windsnelheid.
+
+Overige
+
+In fase "4.1 Dataverwerking voor validatie van zogmodellen" zijn de overdrachtsfuncties voor de gondel anemometers van alle turbines bepaald. De resultaten zijn ingebracht in de IEC 61400-12-2 Working Group, Nacelle Anemometer Power Performance Measurements. Op basis daarvan is voorgesteld om de sector, waarin de vermogensmeting door middel van gondelanemometrie kan worden toegepast, te verruimen.
+De overdrachtsfuncties worden bij het ECN verder routinematig gebruikt voor het detecteren van afwijkende prestaties van turbines in condition monitoring onderzoek.
+
+Bij 2 gelegenheden zijn in workshops over zogaerodynamica van de IEA Annex XXIII voorlopige meetresultaten gepresenteerd over de vermogens van de testparkturbines in elkaars zog en de windsnelheden, turbulentie-intensiteiten, turbulentieverhoudingen en de zogrotatie in het enkelvoudige zog op verschillende rotorafstanden.
+
+Verder is (wordt) door ECN in een aanzienlijk aantal projecten gebruik gemaakt van de meetgegevens uit het project. In de meeste gevallen betreft dat het gebruik van de meetgegevens van MM3 en de operationele parameters van de turbines. Een lijst van deze projecten met korte omschrijvingen is gegeven in Bijlage A en uitgebreider in.
+
+Discussie
+
+Het hoofddoel van het project was het vergaren en bewerken van meetdata voor het valideren van modellen die het zog van state-of-the-art windturbines karakteriseren en de effecten daarvan berekenen op de belastingen en prestaties van turbines.
+
+Om dat doel te bereiken is het testpark van het EWTW voorzien van infrastructuur voor het meten en opslaan van verschillende soorten meetgegevens. Met een nominaal vermogen van 2500 kW, een rotordiameter van 80 m en de toegepaste variabel toerenregeling met bladverstelling zijn de turbines van dit park zonder meer representatief te noemen voor de huidige stand van de techniek en voor offshore toepassingen.
+
+Bij de uitvoering van het project is van meet af aan gestreefd naar het realiseren van een uitgebreide verzameling data van hoge kwaliteit. Belangrijke onderdelen daarin zijn de ijkingen en kalibraties, automatische validaties van data door het DANTE meetsysteem en door het database management systeem en de inspectie van de meetdata door een deskundige.
+
+In de database zijn alle ruwe meetdata opgeslagen bij hun specifieke samplefrequentie met informatie over de meethardware en toegepaste conversies. Naast de ruwe data worden de statistische gegevens over 10-minuten intervallen in een aparte database opgeslagen.
+Het geheel is gebruikersvriendelijk en flexibel. Alleen data, die alle validatiestappen hebben doorstaan, zijn direct toegankelijk voor het uitvoeren van analyses. De data kunnen op vele manieren worden verwerkt en met behulp van gangbare software pakketten.
+
+Dank zij een meetperiode van 2 jaar en de hoge beschikbaarheid van het meetsysteem bevat de database een grote hoeveelheid aan gegevens. Er is 394 gigabyte aan data in tijdseries opgeslagen en 20 gigabyte aan statistische waarden en pseudo-kanalen. Het gaat om: meteorologische gegevens: windsnelheden en windrichtingen op 3 hoogtes, temperatuur(verschil), druk en luchtvochtigheid. bedrijfsgegevens van 5 turbines: vermogen, generatortoerental, windsnelheid en windrichting op de gondel, bladhoeken, kruihoek en bedrijfscodes. belastinggegevens van 1 turbine: buigende momenten in de klap- en zwaairichting van ieder blad en buigende momenten in de mastvoet.
+
+De meetdata zijn verwerkt tot typische karakteristieken en verbanden om directe vergelijkingen met de uitkomsten van modellen mogelijk te maken. Zo zijn er grafieken en tabellen geproduceerd voor: de veranderingen van gemiddelde windsnelheid (longitudinaal en verticaal) en de windrichting in het zog, de turbulentie-intensiteit en de turbulentie verhoudingen in het horizontale en verticale vlak in het zog, de relatieve vermogensproductie van het park en van de individuele turbines bij windrichtingen langs het park, de gemeten korte termijn verdelingen van de maximale klapbelastingen al dan niet in (gedeeltelijk) zog in vergelijking met enkele modelverdelingen, geëxtrapoleerde klapbelastingen met een 50-jaars overschrijdingskans al dan niet in (gedeeltelijk) zog, de equivalente vermoeiingsbelastingen in klaprichting al dan niet in (gedeeltelijk) zog.
+
+Dank zij de grote verzameling data bleven er ook bij vergaande selecties voldoende meetpunten over om de effecten van omgevingscondities weer te kunnen geven. Zo zijn bijvoorbeeld diverse karakteristieken weergegeven voor verschillende waarden van de omgevingswindsnelheid, thermische stabiliteit of de turbulentie-intensiteit. Daarnaast bleek het mogelijk te zijn de prestaties van turbine 7 direct in het zog van turbine 5 te meten door te filteren op stilstand van turbine 6. Op deze manier werden de prestaties verkregen van de 2e turbine in de rij, op de dubbele afstand (7.6D i.p.v. 3.8D).
+
+Bij gebrek aan een 2e meetmast was het helaas niet mogelijk om voor zogmetingen ook de turbulentie-intensiteit of lengteschaal van de ongestoorde stroming vóór de turbine te bepalen. De gemiddelde omgevingswindsnelheid kan onder zulke omstandigheden wel worden bepaald uit de windsnelheidsmeting op de gondel van een vrij aangestroomde turbine. Deze methode is wel minder nauwkeurig dan een directe meting waardoor het bijvoorbeeld ook niet goed mogelijk is om het verticale profiel in het zog te vergelijken met dat van de ongestoorde stroming.
+
+Al met al is er een unieke meetfaciliteit gecreëerd en een grote hoeveelheid betrouwbare meetgegevens verzameld. Dit wordt bevestigd door de belangstelling die van diverse kanten is getoond voor de verzamelde data. Daarom zal er worden onderzocht of licenties kunnen worden verkocht voor het gebruik van de database of - afhankelijk van de benodigde toestemmingen - een deel daarvan.
+
+Commerciële uitvoering
+
+De ervaring, die in het project is opgedaan met het installeren, onderhoud en gebruik van meetsysteem en database, is van groot belang gebleken voor offshore projecten waarbij ECN meetprogramma's uitvoert, zoals het OWEZ-MEP meetprogramma en het DOWNViND project. Op deze manier heeft het project een bijdrage geleverd aan de betrouwbaarheid en de verlaging van de kosten voor installatie en onderhoud van die systemen.
+
+Verder heeft het project al een duidelijke bijdrage geleverd aan de versterking van de kennisinfrastructuur en de (inter)nationale positie van het ECN door het leveren van meetgegevens voor diverse projecten en het inbrengen van meetresultaten in IEA en IEC activiteiten, zie Bijlage A
+
+Door de grote hoeveelheid geschikte meetgegevens die het project heeft opgeleverd is er geen reden om te twijfelen aan het traject dat in het projectvoorstel is geschetst voor de realisatie van de energieverdienste en de grootte daarvan. Wel zal de geprognosticeerde energieverdienste van 15.4 PJ pas ongeveer een jaar later worden gerealiseerd in plaats van in 2020 zoals in het voorstel is opgegeven. De oorzaak is de vertraging van ruim een jaar, die is ontstaan door de late levering van de mast en de turbines voor het EWTW, zie Bijlage B.
+
+Conclusie en aanbevelingen
+
+Op het EWTW is een unieke infrastructuur aangelegd voor het uitvoeren van metingen aan state-of-the-art windturbines. Het meetsysteem is zodanig uitgevoerd dat bij een hoge beschikbaarheid atmosferische gegevens (22 meetkanalen), operationele turbinegegevens (50 meetkanalen) en belastingsgegevens (10 meetkanalen) worden verzameld. Uitgebreide controles zorgen voor een hoge betrouwbaarheid van de meetgegevens.
+
+Database structuren zijn ontwikkeld voor de opslag van ruwe data en daarvan afgeleide (statistische) waarden. De database structuur is flexibel van opzet en gebruiksvriendelijk. Alle ruwe data blijven bewaard, maar alleen de gevalideerde gegevens zijn voor direct gebruik door analisten toegankelijk. De data kunnen op vele manieren worden verwerkt met behulp van gangbare software pakketten.
+
+De beschikbaarheid van het meetsysteem bedroeg gemiddeld voor de atmosferische gegevens 89%, voor de operationele turbinegegevens 88% en voor de belastingsgegevens 81%.
+Dankzij de hoge beschikbaarheid van het meetsysteem is er een goed toegankelijke, uitgebreide database opgebouwd met gevalideerde meetgegevens van een testpark met 5 state of the art turbines van 2500 MW. De database bevat in totaal 394 gigabyte aan ruwe data en 20 gigabyte aan daarvan afgeleide statistische waarden, verzameld in de periode van medio september 2004 - 31 oktober 2006.
+
+In het project was onder andere voorzien in het meten van de operationele gegevens van 2 van de 5 turbines van het park. De uiteindelijk gecreëerde database omvat de bedrijfsparameters van alle turbines.
+
+Uit de meetdata zijn typische karakteristieken en verbanden geproduceerd voor het direct kunnen vergelijken met uitkomsten van modelberekeningen. Zo zijn er grafieken en tabellen geproduceerd voor de windkarakteristieken in het zog en de geproduceerde vermogens van het park en van individuele turbines bij windrichtingen onder kleine hoeken met het park.
+Daarnaast is de invloed van het zog onderzocht op de equivalente vermoeiingsbelastingen en de extreme belastingen in klaprichting. Voor zover bekend is het de eerste keer dat de methode voor het extrapoleren van extreme belastingen is toegepast op meetresultaten van een pitch geregelde turbine in de MW klasse.
+
+Er zijn nog geen verdelingen van maximale belastingen beschikbaar die over meerdere jaren zijn gemeten. Daarom kan er (nog) geen volledige validatie plaats vinden van de methode voor het extrapoleren van extreme belastingen. Omdat daarin de keuze van de korte termijn modelverdeling en de manier waarop die wordt toegepast kritisch is voor het resultaat wordt aanbevolen om dat aspect nadruk te geven bij verder onderzoek.
+
+De activiteiten op het gebied van dataverwerking hebben geleid tot voorstellen voor nieuwe, nauwkeuriger manieren voor het meten van de kruihoek van turbines en de oriëntatie van reeds geïnstalleerde sonische anemometers.
+Aanbevolen wordt om van de voorgestelde kruihoekbepaling te vergelijken met de gangbare manier van kalibreren en deze bij een betere betrouwbaarheid toe te passen in de meetprogramma's van het ECN.
+
+Dank zij de grote hoeveelheid data is het mogelijk om verregaande selectie toe te passen op specifieke omstandigheden zonder dat er snel een tekort aan gegevens resulteert. Dit maakte het mogelijk om de geproduceerde verbanden en karakteristieken weer te geven voor verschillende waarden van de omgevingswindsnelheid, thermische stabiliteit of de turbulentie-intensiteit. Daarnaast bleek het mogelijk de relatieve prestaties van turbine 7 te meten in het zog van turbine 5 bij stilstand van turbine 6, dus op een afstand van 7.6D.
+
+In het project was maar 1 meetmast voorzien. Daardoor was het niet mogelijk om gemeten windkarakteristieken in het zog te relateren aan nauwkeurige metingen van de omgevingscondities. Selectie van metingen bij verschillende turbulentie-intensiteiten of lengteschalen was daardoor niet mogelijk, evenals vergelijking van het verticale windprofiel
+met dat van de ongestoorde stroming vóór de turbine. De gemiddelde omgevingswindsnelheid kon wel worden bepaald zij het op een indirecte, dus minder nauwkeurige manier.
+Aanbevolen wordt om bij toekomstig onderzoek naar invloeden van deze parameters op het zog ook een nauwkeurige windmeting voor de turbines uit te voeren.
+
+Al met al zijn unieke gegevens geproduceerd voor de validatie van modellen voor het berekenen van de windkarakteristieken in het zog en de effecten daarvan op de prestaties en belastingen van turbines. Als zodanig is duidelijk voldaan aan de doelstelling van het project.
+
+De gerealiseerde infrastructuur en de verzamelde data hebben een duidelijke bijdrage geleverd aan de versterking van de kennisinfrastructuur en de (inter)nationale positie van het ECN. Voor diverse projecten zijn meetgegevens geleverd en meetresultaten zijn ingebracht in de activiteiten van internationale commissies van IEA en IEC.
+
+De ervaring, die is opgedaan met het installeren, onderhoud en gebruik van het meetsysteem en de database, heeft een positieve bijdrage geleverd aan de betrouwbaarheid en de kosten van uitvoering van offshore meetprojecten zoals OWEZ-MEP en DOWNViND die worden uitgevoerd door het ECN.
+
+Door de grote hoeveelheid meetgegevens die het project heeft opgeleverd kan het traject voor de realisatie van de energieverdienste volgens plan worden afgelegd, zij het met een vertraging van ongeveer 1 jaar. Dit komt door de late levering van de mast en de turbines voor het EWTW. Dit betekent dat de energieverdienste in 2020 ongeveer 1.3 PJ lager zal zijn dan was geraamd (16.8 PJ). De voorspelde verdienste zal dus pas een jaar later worden gerealiseerd.
+
+
+Bijlage A Commerciële uitvoering van het project
+
+In het project worden meetgegevens geleverd die geschikt zijn voor het valideren van modellen en methoden voor het bepalen van de prestaties en belastingen in het zog van andere turbines. Die validatie gebeurt in lopende of toekomstige projecten voor verbetering c.q. ontwikkeling van die modellen en methoden. De validatieresultaten kunnen pas daarna worden toegepast bij het ontwerpen van nieuwe windturbines en parken.
+De uitgevoerde activiteiten zijn dus niet direct gericht op commerciële exploitatie.
+
+Het project heeft al wel een duidelijke bijdrage geleverd aan de versterking van de kennisinfrastructuur en de (inter)nationale positie van het ECN door: het leveren van meetgegevens voor onderzoek op verschillende gebieden in meerdere projecten. Een overzicht van die projecten is gegeven in onderstaande tabel, het inbrengen van meetresultaten in twee IEA Annex XXIII workshops over zogaërodynamica en een IEC 61400-12-2 Working Group over gondelanemometrie, de ervaring opgedaan met het installeren, onderhoud en gebruik van een meetsysteem dat geschikt is en ook zal worden gebruikt voor offshore meetprojecten.
+
+Van diverse kanten is belangstelling getoond voor de verzamelde data. Daarom wordt onderzocht of er licenties kunnen worden verkocht voor het gebruik van de database. Mits hiervoor van Nordex en de ECN Wind Energy Facilities BV toestemming wordt verkregen, wordt deze mogelijkheid op de European Wind Energy Conference in mei 2007 bekend gemaakt.
+
+
+Bijlage B De realisatie van de indirecte energieverdienste
+
+In het projectvoorstel is de vermeden hoeveelheid primaire energie berekend die met het project kan worden gerealiseerd. Door de grote hoeveelheid, betrouwbare data die het project heeft opgeleverd is er weinig reden om aan te nemen dat het geschetste traject voor het behalen van de energieverdienste anders zal zijn.
+
+Er zal wel een nadelig effect zijn op de kwantitatieve resultaten die zullen worden behaald in het jaar 2020. De reden is dat het project een vertraging heeft ondergaan van ruim een jaar door de vertraagde levering van de turbines en vertraging in het vergunningtraject voor de meetmast. Als de validatieresultaten voor het eerst in 2008 worden toegepast in nieuwe technologie zal de realisatie van de energieverdienste - bij lineair verloop - in 2020 dus ongeveer 8% achterlopen op het geraamde.
+
+Onderstaande tabel geeft de geactualiseerde prognose voor vermeden hoeveelheid primaire energie.
+
+Innovativiteit
+
+De belangrijkste innovaties van het project zijn:
+een goed toegankelijke, uitgebreide database met gevalideerde meetgegevens van een testpark met state of the art turbines over een lange periode gemeten. De database bevat 394 gigabyte aan data in tijdseries en 20 gigabyte aan statistische waarden, verzameld in de periode van medio september 2004 - 31 oktober 2006, betrouwbare windsnelheid- en turbulentiekarakteristieken in enkelvoudig zog op afstanden van 2.5D, 3.5D van state of the art windturbines onder verschillende omstandigheden, betrouwbare karakteristieken voor de relatieve vermogens van een rij turbines in elkaars zog bij een onderlinge afstand van 3.8D en onder verschillende omstandigheden, idem voor de 2e turbine in een rij bij afstanden van 3.8D en 7.6D, gekwantificeerde verschillen in de equivalente klapbelastingen bij verschillende condities: voor turbines in de vrije stroming, volledig of gedeeltelijk in het zog op afstand 3.8D, toepassing van de methodiek voor het extrapoleren van extreme belastingen uit metingen aan state-of-the-art MW turbines met variabel toeren, pitch verstelling, voorstellen voor nieuwe methoden van meten: een optische methode om nauwkeurige de kruihoek van een turbine te bepalen, een eenvoudige manier om de oriëntatie van een sonische anemometer te controleren uit metingen.
+
+Deze innovaties hebben nog geen bijdrage kunnen leveren aan de toepassing van duurzame energietechnologieën. De bijdrage is namelijk indirect en wordt pas geleverd wanneer de meetresultaten zijn gebruikt voor validatie van modellen en die resultaten vervolgens zijn toegepast bij het ontwikkelen of invoeren van nieuwe technologie.
+
+Knelpunten
+
+Het project richt zich op de onzekerheden over de opbrengsten en belastingen van windturbines in parken die worden veroorzaakt door zogeffecten.
+
+In de praktijk zullen projectontwikkelaars de turbines in grote offshore windparken zo dicht mogelijk bij elkaar zetten, vanwege de relatief hoge kosten van de elektrische infrastructuur. Door de korte onderlinge afstanden worden de zogeffecten echter versterkt en nemen de opbrengsten af. De verbeterde kennis over zogeffecten maakt het mogelijk dat de park lay-out betrouwbaarder kan worden geoptimaliseerd voor de heersende condities met minder onzekerheden over de opbrengsten.
+De zogeffecten zijn ook van belang voor de structurele belastingen en daarmee voor de levensduur van turbines. De metingen leiden tot betere kennis van die belastingen en daarom tot goedkopere constructies en minder onzekerheid in de kosten.
+
+Het project heeft nog geen bijdrage kunnen leveren aan de oplossing van deze knelpunten. De bijdrage is namelijk indirect en wordt pas geleverd wanneer de meetresultaten zijn gebruikt voor validatie van modellen en de validatieresultaten vervolgens bij het ontwikkelen of invoeren van nieuwe technologie.
+
+Kostprijs DE
+
+In het oorspronkelijke projectvoorstel is geraamd hoe dit project kostenverlagend werkt ten aanzien van de opwekking van DE. Voorlopig is er geen reden om aan te nemen dat de manier waarop de kostenverlaging wordt bereikt zal afwijken.
+
+Er zal wel een nadelig effect zijn op de kwantitatieve resultaten die zullen worden behaald in het jaar 2020 door vertraagde levering van de turbines en vertraging in het vergunningtraject voor de meetmast. De realisatie van energieverdienste en kostprijsverlaging zal daarom in 2020 ongeveer 8% achterlopen bij het geraamde.
+
+De ervaring, die in het project is opgedaan met het installeren, onderhoud en gebruik van het meetsysteem, is van groot belang gebleken voor offshore projecten waarbij ECN (delen) van het meetsysteem aanbrengt, zoals het OWEZ-MEP meetprogramma en DOWNViND project.
+Op deze manier heeft het project al duidelijk bijgedragen aan de betrouwbaarheid van systemen voor offshore metingen en aan de verlaging van de kosten voor installatie en onderhoud van die systemen.

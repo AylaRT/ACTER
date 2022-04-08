@@ -1,0 +1,16 @@
+Les concentrations de cystatine C sont un facteur pronostique dans l'insuffisance cardiaque
+Objectifs
+
+La cystatine C est un biomarqueur d'évaluation de la fonction rénale, habituellement évalué par la créatinine mais a été considéré récemment comme un marqueur de l'inflammation chez l'homme. Cependant, la relation entre taux de cystatine C et pronostic de l'insuffisance cardiaque reste non élucidée.
+
+Méthode
+
+Cent trente-huit patients, insuffisants cardiaques, admis à l'hôpital Harbin en 2008, ont été inclus dans l'étude. Les taux sériques d'homocystéine, de CRPus et de cystatine C ont été mesurés chez tous les patients, qui ont été suivis pendant une durée moyenne de deux ans, avec prise en considération des évènements suivants : décès, transplantation cardiaque et réadmission pour aggravation de l'insuffisance cardiaque.
+
+Résultats
+
+Les patients ayant présenté une complication avaient des taux significativement plus élevés d'homocystéine sérique, de CRPus et cystatine C comparativement aux patients n'ayant pas présenté d'évènement cardiovasculaire (taux d'homocystéine 28,6 ± 13,4 versus 14,4 ± 6,3 mg/l, p < 0,01 ; CRPus 17,5 ± 14,1 versus 6,4 ± 7,7, p < 0,01 ; cystatine C 1,63 ± 0,81 versus 0,91 ± 0,27 mg/L, p < 0,01). De plus, le modèle de Cox a montré que les taux sériques et d'homocystéine, de CRPus et de cystatine C étaient tous des prédicteurs indépendants de la survenue de complications cardiovasculaires.
+
+Conclusion
+
+La cystatine, ainsi que la CRPus et l'homocystéine sont des prédicteurs indépendants d'évènements cardiovasculaires et sont associés au pronostic chez les patients insuffisants cardiaques.

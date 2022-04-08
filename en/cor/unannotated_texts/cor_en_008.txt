@@ -1,0 +1,121 @@
+In law, fraud is deliberate deception to secure unfair or unlawful gain, or to deprive a victim of a legal right. Fraud itself can be a civil wrong (i.e., a fraud victim may sue the fraud perpetrator to avoid the fraud and/or recover monetary compensation), a criminal wrong (i.e., a fraud perpetrator may be prosecuted and imprisoned by governmental authorities) or it may cause no loss of money, property or legal right but still be an element of another civil or criminal wrong. The purpose of fraud may be monetary gain or other benefits, such as obtaining a driver's license or qualifying for a mortgage by way of false statements.
+
+A hoax is a distinct concept that involves deliberate deception without the intention of gain or of materially damaging or depriving a victim.
+
+As a civil wrong
+In common law jurisdictions, as a civil wrong, fraud is referred to as a tort. While the precise definitions and requirements of proof vary among jurisdictions, the requisite elements of fraud as a tort generally are the intentional misrepresentation or concealment of an important fact upon which the victim is meant to rely, and in fact does rely, to the harm of the victim. Proving fraud in a court of law is often said to be difficult. That difficulty is found, for instance, in that each and every one of the elements of fraud must be proven, that the elements include proving the states of mind of the perpetrator and the victim, and that some jurisdictions require the victim to prove fraud with so-called clear and convincing evidence.
+
+The remedies for fraud may include rescission (i.e., reversal) of a fraudulently obtained agreement or transaction, the recovery of a monetary award to compensate for the harm caused, punitive damages to punish or deter the misconduct, and possibly others.
+
+In cases of a fraudulently induced contract, fraud may serve as a defense in a civil action for breach of contract or specific performance of contract.
+
+Fraud may serve as a basis for a court to invoke its equitable jurisdiction.
+
+As a criminal offence
+In common law jurisdictions, as a criminal offence, fraud takes many different forms, some general (e.g., theft by false pretense) and some specific to particular categories of victims or misconduct (e.g., bank fraud, insurance fraud, forgery). The elements of fraud as a crime similarly vary. The requisite elements of perhaps most general form of criminal fraud, theft by false pretense, are the intentional deception of a victim by false representation or pretense with the intent of persuading the victim to part with property and with the victim parting with property in reliance on the representation or pretense and with the perpetrator intending to keep the property from the victim.
+
+In non-common law systems
+In civil law systems and other legal systems, the concept of fraud seems to exist, but its elements and application may or may not vary substantially from the common law system concepts discussed in this article.
+
+By region
+Canada
+Section 380(1) of the Criminal Code provides the general definition for fraud in Canada:
+380. (1) Every one who, by deceit, falsehood or other fraudulent means, whether or not it is a false pretence within the meaning of this Act, defrauds the public or any person, whether ascertained or not, of any property, money or valuable security or any service is guilty of an indictable offence and liable to a term of imprisonment not exceeding fourteen years, where the subject-matter of the offence is a testamentary instrument or the value of the subject-matter of the offence exceeds five thousand dollars; or is guilty of an indictable offence and is liable to imprisonment for a term not exceeding two years, or of an offence punishable on summary conviction, where the value of the subject-matter of the offence does not exceed five thousand dollars.
+
+In addition to the penalties outlined above, the court can also issue a prohibition order under s. 380.2 (preventing a person from "seeking, obtaining or continuing any employment, or becoming or being a volunteer in any capacity, that involves having authority over the real property, money or valuable security of another person"). It can also make a restitution order under s. 380.3
+
+The Canadian courts have held that the offence consists of two distinct elements:
+
+A prohibited act of deceit, falsehood or other fraudulent means. In the absence of deceit or falsehood, the courts will look objectively for a "dishonest act"; and
+The deprivation must be caused by the prohibited act, and deprivation must relate to property, money, valuable security, or any service.
+The Supreme Court of Canada has held that deprivation is satisfied on proof of detriment, prejudice or risk of prejudice; it is not essential that there be actual loss. Deprivation of confidential information, in the nature of a trade secret or copyrighted material that has commercial value, has also been held to fall within the scope of the offence.
+
+United Kingdom
+England and Wales and Northern Ireland
+Main article: Fraud Act 2006
+The BBC World service reported in 2012 that the estimated value lost through fraud in the UK was $100 billion (£66 billion) a year.
+
+The Fraud Act 2006 (c 35) is an Act of the Parliament of the United Kingdom. It affects England and Wales and Northern Ireland. It was given Royal Assent on 8 November 2006, and came into effect on 15 January 2007.
+
+The Act gives a statutory definition of the criminal offence of fraud, defining it in three classes—fraud by false representation, fraud by failing to disclose information, and fraud by abuse of position. It provides that a person found guilty of fraud was liable to a fine or imprisonment for up to twelve months on summary conviction (six months in Northern Ireland), or a fine or imprisonment for up to ten years on conviction on indictment. This Act largely replaces the laws relating to obtaining property by deception, obtaining a pecuniary advantage and other offences that were created under the Theft Act 1978.
+
+Serious Fraud Office
+See Serious Fraud Office (United Kingdom) is an arm of the Government of the United Kingdom, accountable to the Attorney-General.
+
+National Fraud Authority
+The National Fraud Authority (NFA) is the government agency co-ordinating the counter-fraud response in the UK.
+
+CIFAS - The UK's Fraud Prevention Service
+CIFAS - The UK's Fraud Prevention Service, is a not-for-profit membership association representing the private and public sectors. CIFAS is dedicated to the prevention of fraud, including staff fraud, and the identification of financial and related crime.
+
+United States
+The U.S. government's 2006 fraud review concluded that fraud is a significantly under-reported crime, and while various agencies and organizations were attempting to tackle the issue, greater co-operation was needed to achieve a real impact in the public sector. The scale of the problem pointed to the need for a small but high-powered body to bring together the numerous counter-fraud initiatives that existed.
+
+To establish a claim of fraud, most jurisdictions in the United States require that each element be plead with particularity and be proved with clear, cogent, and convincing evidence (very probable evidence). The measure of damages in fraud cases is computed using the "benefit of bargain" rule, which is the difference between the value of the property had it been as represented and its actual value. Special damages may be allowed if shown proximately caused by defendant's fraud and the damage amounts are proved with specificity.
+
+Cost
+The typical organization loses five percent of its annual revenue to fraud, with a median loss of $160,000. Frauds committed by owners and executives were more than nine times as costly as employee fraud. The industries most commonly affected are banking, manufacturing, and government.
+
+Types of fraudulent acts
+
+Fraud can be committed through many media, including mail, wire, phone, and the Internet (computer crime and Internet fraud). International dimensions of the web and ease with which users can hide their location, the difficulty of checking identity and legitimacy online, and the simplicity with which hackers can divert browsers to dishonest sites and steal credit card details have all contributed to the very rapid growth of Internet fraud. In some countries, tax fraud is also prosecuted under false billing or tax forgery. There have also been fraudulent "discoveries", e.g., in science, to gain prestige rather than immediate monetary gain.
+
+Anti-fraud movements
+Beyond laws that aim at prevention of fraud, there are also governmental and non-governmental organizations that aim to fight fraud. Between 1911 and 1933, 47 states adopted the so-called Blue Sky Laws status. These laws were enacted and enforced at the state level and regulated the offering and sale of securities to protect the public from fraud. Though the specific provisions of these laws varied among states, they all required the registration of all securities offerings and sales, as well as of every US stockbroker and brokerage firm. However, these Blue Sky laws were generally found to be ineffective. To increase public trust in the capital markets the President of the United States, Franklin D. Roosevelt, established the U.S. Securities and Exchange Commission (SEC). The main reason for the creation of the SEC was to regulate the stock market and prevent corporate abuses relating to the offering and sale of securities and corporate reporting. The SEC was given the power to license and regulate stock exchanges, the companies whose securities traded on them, and the brokers and dealers who conducted the trading.
+
+Detection
+For detection of fraudulent activities on the large scale, massive use of (online) data analysis is required, in particular predictive analytics or forensic analytics. Forensic analytics is the use of electronic data to reconstruct or detect financial fraud. The steps in the process are data collection, data preparation, data analysis, and the preparation of a report and possibly a presentation of the results. Using computer-based analytic methods Nigrini's wider goal is the detection of fraud, errors, anomalies, inefficiencies, and biases which refer to people gravitating to certain dollar amounts to get past internal control thresholds.
+
+The analytic tests usually start with high-level data overview tests to spot highly significant irregularities. In a recent purchasing card application these tests identified a purchasing card transaction for 3,000,000 Costa Rica Colons. This was neither a fraud nor an error, but it was a highly unusual amount for a purchasing card transaction. These high-level tests include tests related to Benford's Law and possibly also those statistics known as descriptive statistics. These high-tests are always followed by more focused tests to look for small samples of highly irregular transactions. The familiar methods of correlation and time-series analysis can also be used to detect fraud and other irregularities. Forensic analytics also includes the use of a fraud risk-scoring model to identify high risk forensic units (customers, employees, locations, insurance claims and so on). Forensic analytics also includes suggested tests to identify financial statement irregularities, but the general rule is that analytic methods alone are not too successful at detecting financial statement fraud.
+
+Notable fraudsters
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2013) (Learn how and when to remove this template message)
+
+This section includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2013)
+Frank Abagnale Jr., US impostor who wrote bad checks and falsely represented himself as a qualified member of professions such as airline pilot, doctor, attorney, and teacher. The film Catch Me If You Can is based on his life.
+John Bodkin Adams, British doctor and suspected serial killer, but only found guilty of forging wills and prescriptions.
+Eddie Antar, founder of Crazy Eddie, who has criminal convictions on 17 counts and about $1 billion worth of civil judgments against him stemming from fraudulent accounting practices at that company.
+Jordan Belfort, "The Wolf of Wall Street", who swindled over $200 million via a penny stock boiler room operation. The film "The Wolf of Wall Street" starring Leonardo DiCaprio is based on his life and fraudulent activity.
+Cassie Chadwick, who pretended to be Andrew Carnegie's illegitimate daughter to get loans.
+Columbia/HCA Medicare fraud. Columbia/HCA pleaded guilty to 14 felony counts and paid out more than $2 billion to settle lawsuits arising from the fraud. The company's board of directors forced then–Chairman and CEO Rick Scott to resign at the beginning of the federal investigation; Scott was subsequently elected Governor of Florida in 2010.
+Salim Damji is a convicted fraudster who stole millions of dollars in an affinity fraud. The money came mostly from relatives and members of the close-knit Ismaili community. His $78 million scam was among the largest in Canadian history.
+Edward Davenport self-styled "Lord", nicknamed "Fast Eddie", from 2005 to 2009 he was the "ringmaster" of a series of advance-fee fraud schemes that defrauded dozens of individuals out of millions of pounds. He is said to have made £34.5 million through his various frauds.
+Marc Dreier, Managing founder of Attorney firm Dreir LLP, a $700 million Ponzi scheme.
+Enric Durán defrauded Spanish banks and then gave away the loaned money to anti-growth organizations.
+Bernard Ebbers, founder of WorldCom, which inflated its asset statements by about $11 billion.
+Ramón Báez Figueroa, banker from the Dominican Republic and former President of Banco Intercontinental. He was sentenced on October 21, 2007 to 10 years in prison for a US $2.2 billion fraud case that drove the Caribbean nation into economic crisis in 2003.
+Martin Frankel, former U.S. financier, convicted in 2002 of insurance fraud worth $208 million, racketeering and money laundering.
+Samuel Israel III, former hedge fund manager who ran the former fraudulent Bayou Hedge Fund Group, and faked suicide to avoid jail.
+Konrad Kujau, German fraudster and forger responsible for the "Hitler Diaries".
+Kenneth Lay, the American businessman who built energy company Enron. He was one of the highest paid CEOs in the U.S. until he was ousted as Chairman and convicted of fraud and conspiracy, although, as a result of his death, his conviction was vacated.
+Nick Leeson, English trader whose unsupervised speculative trading caused the collapse of Barings Bank.
+James Paul Lewis, Jr., ran one of the biggest ($311 million) and longest running Ponzi Schemes (20 years) in U.S. history.
+Gregor MacGregor, Scottish conman who tried to attract investment and settlers for the non-existent country of Poyais.
+Bernard Madoff, creator of a $65 billion Ponzi scheme – the largest investor fraud ever attributed to a single individual.
+Bill Mastro, sports memorabilia kingpin who altered the famous T206 Honus Wagner card that eventually sold for $2.8 million. He also engaged in the practice of "shill bidding" — artificially raising bids on items in his auction house.
+Matt the Knife, American con artist, card cheat and pickpocket who, from the ages of approximately 14 through 21, bilked dozens of casinos, corporations and at least one Mafia crime family out of untold sums.
+Gaston Means, a professional conman during U.S. President Warren G. Harding's administration.
+Barry Minkow and the ZZZZ Best scam.
+Michael Monus, founder of Phar-Mor, which ultimately cost its investors more than $1 billion.
+F. Bam Morrison, who conned the town of Wetumka, Oklahoma by promoting a circus that never came.
+Lou Pearlman, former boy-band manager and operator of a $300 million Ponzi scheme using two shell companies.
+Frederick Emerson Peters, American impersonator who wrote bad checks.
+Thomas Petters is an American masquerading as a business man who turned out to be a con man and was the former CEO and chairman of Petters Group Worldwide. Petters resigned his position as CEO on September 29, 2008, amid mounting criminal investigations. He later was convicted for turning Petters Group Worldwide into a $3.65 billion Ponzi scheme and was sentenced to 50 years in federal prison.
+Charles Ponzi and the Ponzi scheme.
+Alves Reis, who forged documents to print 100,000,000 PTE in official escudo banknotes (adjusted for inflation, it would be worth about US$150 million today).
+John Rigas, cable television entrepreneur, cofounder of Adelphia Communications Corporation and owner of the Buffalo Sabres hockey team, defrauded investors of over $2 billion and was sentenced to a 12-year term in federal prison.
+Christopher Rocancourt, a Rockefeller impersonator who defrauded Hollywood celebrities.
+Scott W. Rothstein, a disbarred lawyer from Ft. Lauderdale, Florida, who perpetrated a Ponzi scheme which defrauded investors of over $1 billion.
+Michael Sabo, best known as a check, stocks and bonds forger. He became notorious in the 1960s throughout the 1990s as a "Great Impostor" with over 100 aliases, and earned millions from such.
+Alfredo Sáenz Abad who lied about bank loans, as a banker so that some customers to the bank went to prison. Later on he was sentenced to prison, but managed to get a pardon and kept his job.
+John Spano, a struggling businessman who faked massive success in an attempt to buy out the New York Islanders of the NHL.
+Allen Stanford Self-styled banker who sold fake certificates of deposit to people in many countries, raking in $7 billion to $8 billion over decades.
+John Stonehouse, the last Postmaster-General of the UK and MP who faked his death to marry his mistress.
+Kevin Trudeau, U.S. writer and billiards promoter, convicted of fraud and larceny in 1991, known for a series of late-night infomercials and his series of books about "Natural Cures "They" Don't Want You to Know About".
+Richard Whitney, who stole from the New York Stock Exchange Gratuity Fund in the 1930s.
+Related
+Apart from fraud, there are several related categories of intentional deceptions that may or may not include the elements of personal gain or damage to another individual:
+
+Obstruction of justice
+18 U.S.C. § 704 which criminalizes false representation of having been awarded any decoration or medal authorized by Congress for the Armed Forces of the United States

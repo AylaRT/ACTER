@@ -1,0 +1,273 @@
+Explanatory Report on the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union (Text approved by the Council on 3 December 1998) 
+
+EXPLANATORY REPORT on the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union (Text approved by the Council on 3 December 1998) (98/C 391/01)
+
+I. INTRODUCTION
+
+The criminal law in the Member States of the European Union, as virtually everywhere in the world, contains provisions to combat the active and passive corruption of national officials. While the definitions of offences of corruption may vary from Member State to Member State, they have elements in common which make it possible to arrive at a common definition.
+
+From an international rather than the national perspective, it has long been recognised that the principal weakness in the fight against corruption with transnational features has been the fact that criminal law in the Member States has often failed to address the issue of the corruption of foreign officials and officials employed by international organisations. Indeed, the definition of 'public officer' or official, for the purposes of applying internal criminal law, is in many Member States only applicable to national officials; even if the term is not more narrowly defined, it is often interpreted restrictively.
+
+Thus, the criminal law in most Member States does not extend to the criminalisation of conduct aimed at corrupting officials of other Member States, even where it took place in their own territory or at the instigation of one of their own nationals. Even if the criminal conduct can in certain circumstances be prosecuted using charges other than corruption such as fraud or breach of trust, the chances are that the corruption itself would go unpunished.
+
+This situation, which had long been the focus of attention in international forums (in particular the OECD and the Council of Europe) and the subject of numerous recommendations and resolutions, has become increasingly intolerable in the European Union owing to the tightening links between its Member States and their common membership of the European Community, a supranational organisation founded on the rule of law, with its own institutions and a large staff of officials.
+
+Quite apart from the question of principle, this state of affairs frequently hampers the process of judicial cooperation between Member States, where the double criminality condition has not been fulfilled.
+
+An initial response to this state of affairs was the drawing up by the Council on 27 September 1996 of the Protocol to the Convention of 26 July 1995 on the protection of the European Communities' financial interests; the said Protocol was also a response to point 7(h) of the Council resolution of 6 December 1994 on the legal protection of the financial interests of the Communities, which stated: 'Member States should take effective measures to punish bribery involving officials of the European Communities in relation to the financial interests of the Communities'.
+
+However, owing to the subject matter of the parent Convention, the Protocol could only require Member States to punish conduct relating to fraud against the financial interests of the European Communities, i. e. according to the definition in Articles 2 and 3 of the Protocol, an act or omission 'which damages or is likely to damage the European Communities' financial interests'.
+
+In 1996 the Italian Government tabled a draft Convention in order to ensure that all corrupt conduct involving Community officials or Member States' officials, and not just that which is linked to fraud against the Communities' financial interests, was criminalised. While based largely on the provisions and definitions on which delegations had agreed in the earlier discussions on the Protocol, it was nonetheless a proposal for a free-standing act of general application and contained the requisite additional provisions on judicial cooperation and jurisdiction of the Court of Justice. Following this initiative, on 26 May 1997 the Council adopted the Act drawing up the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union (6).
+
+The operation of that Convention will also contribute to the proper functioning of the internal market and to the implementation of political guideline No 13 of the action plan of 28 April 1997 to combat organised crime, approved by the 1997 Amsterdam European Council.
+
+It should be noted that parts of this Explanatory Report have been elaborated on the basis of the comments in the Explanatory Reports on the 1995 Convention on the protection of the European Communities' financial interests and on the 1996 Protocol thereto.
+
+II. COMMENTARY ON THE ARTICLES
+
+Article 1 Definitions
+
+This introductory provision defines the terms 'official', 'Community official' and 'national official' for the purposes of the Convention wherever the terms are used in it.
+
+1.1. The general definition of 'official' in point (a) covers various categories of persons, Community officials and national officials, including national officials of another Member State, in order to ensure the broadest and most homogenous application possible of the substantive provisions of the Convention in the fight against corruption.
+
+These categories are defined by reference to their respective statuses.
+
+1.2. Point (b) applies to 'Community officials', which means not only permanent officials stricto sensu, covered by the Staff Regulations of officials of the European Communities, but also the various categories of staff engaged on contract under the Conditions of Employment of other servants. It includes national experts seconded to the European Communities to carry out functions equivalent to those performed by Community officials and other servants.
+
+Members of the Community institutions, the Commission, the European Parliament, the Court of Justice of the European Communities and the European Court of Auditors, are not covered by this definition but are dealt with in Article 4 of the Convention.
+
+1.3. The last sentence of point (b) brings the staff of bodies established under Community law within the definition of 'Community official'. This concerns at present: the European Agency for Cooperation, the European Investment Bank, the European Centre for the Development of Vocational Training, the European Foundation for the Improvement of Living and Working Conditions, the European University Institute in Florence, the European Investment Fund, the European Environment Agency, the European Training Foundation, the European Monitoring Centre for Drugs and Drug Addiction, the European Agency for the Evaluation of Medicinal Products, the European Agency for Safety and Health at Work, the Office for Harmonisation in the Internal Market (Trade Marks and Designs), the European Central Bank, the Community Plant Variety Office, the Translation Centre for the Bodies of the Union, the European Monitoring Centre on Racism and Xenophobia.
+
+This provision concerns personnel of existing or future bodies responsible in a very broad sense for applying Community legislation, already enacted or yet to be enacted under the Community Treaties.
+
+1.4. Point (c) defines the concept of 'national official' in terms of an official or public officer as defined in the national law of each Member State for the purposes of its own criminal law. The definition in the criminal law of the official's home State is thus given priority. Where a national official of the prosecuting Member State is involved, this clearly means that its national definition is applicable. Where, however, an official of another Member State is involved, this means that the definition in the law of that Member State should normally be applied by the prosecuting Member State. If the person concerned would not have had the status of official under the law of that State, that definition may not be decisive. This is clear from the second subparagraph of point (c), according to which a Member State is not bound to apply another Member States' definition of 'national official' except in so far as that definition is compatible with its national law and may therefore opt to determine that corruption offences involving national officials of another Member State refer only to such officials whose status is compatible with its own definition of national officials. While there is no specific obligation to do so, a Member State may make a declaration to the effect that it has decided to make general use of this option.
+
+It should be noted that in general the reference to the law of the official's Member State means that due account can be taken of specific national situations regarding the status of persons exercising public functions.
+
+Article 4(2) and (3), however, shows that the concept of 'national official' does not automatically include members of Parliament, ministers, members of the highest courts or members of a court of auditors in the Member States. However, this does not preclude any Member State from extending its own definition of 'national official' to one or more of these categories of persons.
+
+Article 2 Passive corruption
+
+Article 2 defines the elements of the offence of passive corruption. Like many of the Convention's other provisions, the wording is substantially modelled, with the necessary adjustments, on that of the corresponding articles of the Protocol to the Convention on the protection of the European Communities' financial interests (hereinafter 'the first Protocol').
+
+2.1. Paragraph 1 enumerates a series of elements constituting corruption of an official, of which intent is a necessary component.
+
+2.2. The material components of corruption include requesting, accepting and receiving certain things, 'directly or through an intermediary'.
+
+This includes: a unilateral act by an official who requests a benefit for himself by letting it be known to another person, explicitly or implicitly, that he will have to 'pay' to have some official act done or abstained from; it is immaterial whether the request is acted on, the request itself being the core of the offence, acceptance or receipt by the offender of certain things pursuant to a meeting of minds between himself and the giver; the offence is complete when consents have been exchanged, even if the official subsequently waives performance of the agreement or returns the thing received.
+
+The Convention makes no distinction between direct and indirect means of corruption. The fact that an intermediary may be involved, which would extend the scope of passive corruption to include indirect action by the official, necessarily entails identifying the criminal nature of the official's conduct irrespective of the good or bad faith of the intermediary involved.
+
+2.3. The offence also covers the cases where an official, for example, requests a gift or another advantage not for himself but for a third party, such as a spouse or a partner, a close friend, a political party or other organisation.
+
+2.4. The elements that constitute the material substance of the corruption include offers, promises or advantages of any kind whatsoever for the benefit of the official or of any other person.
+
+'Advantages of any kind whatsoever' is a deliberately broad concept, embracing not only material objects (money, precious objects, goods of all kinds, services rendered) but also anything that might represent an indirect interest, such as settlement of the corrupted person's debts, work on property belonging to him. This list is not exhaustive. The concept of advantage, requested, received or promised, covers all kinds of material or intangible advantages.
+
+For the purposes of the Convention, the point in time at which things constituting the substance of the corruption are given or provided is immaterial. By expressly covering the acceptance of promises, paragraph 1 catches deferred payments, provided their origin lies in a criminal agreement between the corrupted and the corruptor.
+
+2.5. The provision is worded so that the request or acceptance must predate the official's act or omission since the text states clearly that: 'the . . . action of an official who . . . requests, or receives advantages . . . or accepts a promise . . . to act or refrain from acting . . .'.
+
+Within the meaning of this provision, therefore, where an advantage is received after an act has been performed without there having been a prior request or acceptance, there will be no obligation on Member States to introduce criminal liability. This Article does not apply either to gifts that are not related to any subsequent act by the official in the performance of his duties.
+
+Under Article 11 of the Convention, there is of course nothing to prevent Member States who so wish from also criminalising corruption that consists in receiving an advantage requested or accepted after the official has performed the act in breach of his official duties.
+
+2.6. The Convention applies to conduct that is related to an official's functions or duties. The Convention applies to performance of, or abstention from performing, any act within the powers of the holder of the office or function by virtue of any law or regulation (official duty) in so far as the acts are carried out in breach of the official's duties.
+
+The laws of certain Member States also cover cases where an official, contrary to his official duty to act impartially, receives an advantage in return for acting in accordance which this function (e. g. by giving preferential treatment by accelerating or suspending the processing of a case). These cases are covered by the present Article.
+
+2.7. Paragraph 2 requires Member States to enact the criminal law measures needed to ensure that conduct of the type described in paragraph 1 is made a criminal offence.
+
+It is therefore up to the Member States to see whether their current criminal law does indeed cover all the relevant categories of persons and forms of conduct and, if not, to enact measures establishing one or more offences corresponding to them. They may do so either by establishing one offence of a general nature or by establishing several specific offences.
+
+Article 3 Active corruption
+
+This Article describes the components of the offence of active corruption of an official.
+
+The provision is the corollary of the offence defined in Article 2, seen from the corruptor's side; it is in particular intended to ensure that public administration functions properly and to protect officials from possible manoeuvres targeting them, on the understanding that in most Member States active and passive corruption are distinct, autonomous offences, for which distinct, autonomous prosecutions may be brought.
+
+Paragraph 1 identifies forms of punishable conduct on the part of the corruptor that constitute active corruption of an official.
+
+3.1. Any 'deliberate action of whosoever promises or gives . . . an advantage . . .' refers to the corruptor, whatever the capacity (business, public service, etc.) in which he acts; the corruptor may be a private individual acting as such or for a company, or a person exercising a public function.
+
+The act constituting corruption must be done intentionally, that is to say from a deliberate desire to have the official perform acts that are contrary to the duties attached to public service.
+
+Whether or not the offence exists in cases where the corruptor acts deliberately but is mistaken as to the authority which he believes is vested in the official will be a matter for determination in accordance with Member States' national law.
+
+3.2. The corruptor's action may consist in promising or giving, directly or through an intermediary, a material or intangible advantage of any kind whatsoever, irrespective of whether the offer is acted on and the advantage materialises.
+
+The corrupt manoeuvre could be unilateral or bilateral; it could relate to a material or an intangible thing: the concept of advantage must be taken in its broadest possible sense, bearing in mind points 2.4 and 2.5.
+
+The Article makes no distinction between the means, direct or indirect, whereby the corrupt manoeuvre is undertaken. It includes any kind of corrupt manoeuvre directed at the official, whether directly or through a third party.
+
+3.3. Active corruption is targeted at a person who must, by definition, be an official, irrespective of whether the advantage is for the official himself or for some other person.
+
+3.4. Active corruption pursues the same objective as passive corruption; see at 2.6.
+
+3.5. Article 3(2) is drafted in the same terms as Article 2(2); see at 2.7.
+
+Article 4 Assimilation
+
+This Article is designed to broaden and strengthen the scope of the anti-corruption measures introduced by the Convention, by requiring that each Member State's criminal law be adjusted to accommodate certain offences committed by individuals occupying specific posts in the Community institutions. As with the first Protocol, a principle of assimilation is introduced whereby Member States will be bound to apply to members of the Community institutions the same descriptions of corruption offences as apply to individuals occupying similar posts within their own institutions.
+
+4.1. Paragraph 1 states the principle that the descriptions of the offences applicable to government ministers, members of parliament, members of the highest courts and members of the courts of auditors shall be extended to include their counterparts acting in the exercise of their duties within the Community institutions (member of the Commission, members of the European Parliament, members of the Court of Justice of the European communities and members of the European Court of Auditors).
+
+It follows that for the purposes of punishable offences of corruption, members of the Commission will be assimilated to government ministers, members of the European Parliament to members of national parliaments, members of the Court of Justice of the European communities to members of the highest national courts and members of the European Court of Auditors to their national counterparts. By this assimilation, national provisions, in so far as they cover such offences committed by members of national parliaments, government ministers, etc., have to be extended to include the aforementioned members of the institutions of the European Communities.
+
+Clearly, the rule does not require special offences necessarily to apply in respect of these individuals in a Member State. Where a Member State already applies the same provisions to the corruption of ministers, members of parliament or members of the judiciary as it applies to the corruption of officials, then it will merely be required in addition to criminalise corruption of members of the Community institutions using those general provisions.
+
+4.2. As certain Member States do not have a court of auditors as such, the counterpart bodies will be: the National Audit Office in the United Kingdom, the Office of the Comptroller and Auditor-General in Ireland, the Rigsrevisionen in Denmark, the Riksrevisionsverket in Sweden, the Valtiontalouden tarkastusvirasto/Statens revisionsverk in Finland.
+
+4.3. Paragraph 2 allows for the possibility of derogating from the assimilation principle of paragraph 1 in those Member States where the criminal liability of government ministers is governed by special legislation applicable in specific national situations. Use of the option of derogation does not, however, preclude the need to introduce a form of criminal liability for offences committed against or by members of the Commission under the common rules of national criminal law.
+
+This possibility may prove useful in Member States like Denmark, where the rules of criminal law governing ministers' liability apply in specific situations (e.g. those where the minister can be held criminally liable for acts done by his subordinates) in which other persons with leading positions would not normally be criminally liable.
+
+4.4. Under paragraph 3, the preceding paragraphs on assimilation as regards punishability are 'without prejudice to the provisions applicable in each Member State concerning criminal proceedings and the determination of the competent court'.
+
+For the purposes of the various paragraphs of Article 4 taken together, the Convention cannot affect or jeopardise national rules of criminal procedure or the rules conferring jurisdiction on courts to try cases relating to the relevant offences. But this does not prevent the Article from having full effect within the national legal systems.
+
+With particular reference to persons covered by paragraph 1, with regard to whom the assimilation principle generally and without exclusions implies an equal treatment under criminal law, the following should be noted. Where a special law of a Member State confers on a special court (or a specific composition of an ordinary court) the jurisdiction to try government ministers, members of parliament, members of the highest courts or members of the court of auditors accused of an offence, that court may then also have jurisdiction in similar cases concerning members of the Commission, members of the European Parliament, members of the Court of Justice of the European Communities and members of the European Court of Auditors, but without prejudice to national provisions governing jurisdiction.
+
+4.5. Paragraph 4 provides that the convention is without prejudice to provisions governing the withdrawal of immunity for staff of the Community institutions.
+
+Withdrawal of immunity continues thus to be a prior condition for exercising jurisdiction. In this connection the convention recognises the obligation of each of the institutions concerned to give effect to the provisions governing privileges and immunities, subject to existing procedures and ordinary means of redress under Community law (26).
+
+Article 5 Penalties
+
+5.1. Article 5(1) requires the Member States to ensure that the offences of active and passive corruption defined in Articles 2 and 3 are always punishable by criminal penalties, in other words triable by courts.
+
+This applies likewise to participation in and instigation of those offences, to be interpreted in accordance with the definitions given in the criminal laws of each Member State.
+
+Since the offences of active and passive corruption include conduct that consists in making promises irrespective of whether such promises are actually kept or fulfilled, it was not considered necessary to impose an obligation to criminalise the attempt to commit active or passive corruption. It is clear, however, that Member States which so wish, may also make attempts to commit the offences in question punishable.
+
+Penalties must be effective, proportionate and dissuasive, in accordance with the well-known judgment of the Court of Justice of the European Communities, which in Case 68/88 (27) stated: (the Member States) 'must ensure in particular that infringements of Community law are penalised under conditions, both procedural and substantive, which are analogous to those applicable to infringements of national law of a similar nature and importance and which, in any event, make the penalty effective, proportionate and dissuasive'.
+
+In complying with this ruling, the Member States have some discretion in determining the nature and severity of the penalties which may be provided for. These need not always necessarily involve deprivation of liberty: it will also be possible to impose fines in addition or as an alternative to imprisonment.
+
+5.2. In serious cases, the Convention does, however, require the Member States to provide for penalties involving deprivation of liberty which can give rise to extradition. In any event, it will be for the Member States to decide what criteria or factual elements are to determine the seriousness of an offence in the light of their respective legal traditions.
+
+5.3. Paragraph 2 deals with the link between criminal law and disciplinary rules where the circumstances are such that one and the same act of corruption may be subject to both; priority is given to the principle of the independence of national or European disciplinary systems in that the conduct of criminal proceedings is 'without prejudice to the exercise of disciplinary powers by the competent authorities against national official or community officials'.
+
+To take account of certain national legal traditions, the paragraph further allows national authorities to give effect to the principles of their own legislation whereby, in determining the criminal penalty to be imposed, account may be taken of disciplinary penalties already imposed on the same person for the same offence. This is a specific provision that will not be mandatory in Member States not recognising or giving effect to disciplinary sanctions.
+
+Article 6 Criminal liability of heads of businesses
+
+6.1. This Article is almost completely drawn from Article 3 of the Convention on the protection of the European Communities' financial interests. Like that provision, its purpose is to ensure that heads of businesses or other persons exercising legal or effective power within a business are not automatically exempt from all criminal liability where active corruption has been committed by a person under their authority acting on behalf of the business.
+
+The Convention leaves Member States considerable freedom to establish the basis for criminal liability of heads of businesses and decision-makers.
+
+As well as covering the criminal liability of heads of businesses or decision-makers on the basis of their personal actions (as authors of, associates in, instigators of, or participants in the fraud), Article 6 allows Member States to consider making heads of businesses and decision-makers criminally liable on other grounds.
+
+Within the meaning of Article 6, a Member State may make heads of businesses and decision-makers criminally liable if they have failed to fulfil a duty of supervision or control (culpa in vigilando). In this connection the criminal liability of heads of businesses could be based on an offence, distinct from the corruption, of failure to fulfil an obligation under national law to exercise supervision or control.
+
+The criminal liability of the head of a business or decision-maker could also attach to negligence or incompetence.
+
+Lastly, nothing in Article 6 prevents Member States from providing for objective criminal liability to attach to heads of businesses and decision-makers by virtue of others' actions, without it being necessary to prove fault, negligence or failure to exercise supervision on their part.
+
+The Convention does not however deal directly with the problem of the liability of legal persons. It should be borne in mind however that Article 3 of the Second Protocol to the Convention on the protection of the European Communities' financial interests requires Member States to provide for various forms of liability on the part of legal persons, including liability for active corruption involving the financial interests of the Community. A similar provision is incorporated in the recent OECD Convention. Thus it is safe to say that Member States will in any event be required to consider the matter in the light of the obligations arising from those legal instruments.
+
+Article 7 Jurisdiction
+
+7.1. This Article establishes a series of criteria conferring jurisdiction to prosecute and try cases involving the offences covered by the Convention, i.e. active and passive corruption and any offences introduced under the principle of assimilation specified in Article 4, on national enforcement and judicial authorities. By analogy with the solution already adopted in the context of instruments relating to the protection of the Community's financial interests, four criteria for jurisdiction are proposed, only one of which (territoriality principle) is however compulsory for all Member States, since a derogation may be made from each of the other three criteria by virtue of the possibility of a declaration provided for in paragraph 2.
+
+7.2. Pursuant to paragraph 1, each Member State is, in principle, required to establish its jurisdiction at least in four kinds of situation, i.e.:
+
+(a) where the offence is committed in whole or in part on its territory, i.e. the act of corruption takes place there, the advantage is given there, or the offending agreement is reached there, irrespective of the status or the nationality of the corruptor or the official involved (territoriality principle);
+
+(b) where the offender is a national or one of its officials (active personality principle): the criterion of the offender's status means that jurisdiction can be established regardless of the lex loci delicti. It is then up the Member States to prosecute for offences committed abroad, including in non-member countries. This is particularly important for Member States which do not extradite their own nationals;
+
+(c) where the offence is committed against a national of the Member State, being an official, or Member, of a Community institution (passive personality principle). This principle is of particular interest in cases of active corruption abroad by persons who are not nationals of the relevant Member State;
+
+(d) where the offender is a Community official working for a Community institution with its headquarters in the relevant Member State. The headquarters criterion may prove to be useful for exceptional cases not covered by other competence rules, for example, where an offence is committed outside the Community by a Community official who is not a national of a Member State (28).
+
+7.3. As has already been mentioned, paragraph 2 allows any Member States which so wishes not to accept or to accept subject to conditions any of the rules in points (b), (c) and (d) by making a declaration to that effect when giving the notification provided for in Article 13(2) of the Convention.
+
+It should be borne in mind that, in accordance with Article 15 of the Convention, this provision is one of only two in respect of which, as will be seen, reservations may be entered.
+
+Article 8 Extradition and prosecution
+
+Article 8 too, as indeed also Articles 9, 10 and 11, is based largely on the Convention on the protection of the European Communities' financial interests, and in particular on Article 5 thereof, modifying it only as required; both provisions were in fact expressly made applicable also to the first Protocol in accordance with the referral clause provided for in Article 7 of the latter instrument. As in Article 5 of the Convention referred to above, the rules contained in this Article are intended to supplement, in regard to corruption offences involving Community officials and officials of the Member States, the provisions on extradition of own nationals which are already in force between the Member States and which arise from bilateral or multilateral extradition agreements.
+
+It should first be specified that a number of Member States do not extradite their own nationals. Article 8 lays down rules to prevent persons alleged to have committed acts of corruption going scot-free because extradition is refused on principle.
+
+For the purposes of Article 8 'national' is to be interpreted in the light of the declarations made in Article 6(1)(b) of the European Convention on Extradition of 13 December 1957 by the parties to that Convention.
+
+Article 8 firstly requires a Member State which does not extradite its nationals to take the necessary measures to establish its jurisdiction over the offences defined and punished within the meaning of Articles 2, 3 and 4 of the Convention when committed by its own nationals in another Member State.
+
+In addition, if an act of corruption has been committed in the territory of one Member State by a national of another Member State who cannot be extradited for the sole reason that the latter Member State does not extradite its own nationals, Article 8 requires the requested Member State to submit the case to its legal authorities for the purpose of prosecution. Thus, Article 8(2) plainly sets out the principle aut dedere aut judicare. This provision is not, however, intended to affect national rules regarding criminal proceedings.
+
+In order to apply this principle, the requesting Member State undertakes to transmit the files, information and exhibits relating to the offence to the Member State which is to prosecute its national. The requesting Member State will be kept informed of the prosecution and its outcome.
+
+Article 8 sets no prior conditions on the proceedings brought by the requested Member State. No application from the requesting Member State is needed for the requested Member State to initiate the prosecution.
+
+It should also be stressed that, as at the time of conclusion of the first Protocol, it was not considered necessary in this case to incorporate the provision, contained in Article 5(3) of the Convention on the protection of the European Communities' financial interests, which prohibits refusal of extradition solely on account of the fiscal nature of the offence. Unlike offences against the protection of the Community's financial interests, such an exception cannot be relevant in the case of corruption offences.
+
+Article 9 Cooperation
+
+As has already been observed, the Convention is concerned with providing for charges against both cases of domestic corruption and those involving Community officials or officials from other Member States. This second category of cases is, however, by far the more innovative section of Convention and necessarily involves aspects of transnationality. In the face of the particular complexity of cross-border investigations into this matter, cooperation is of fundamental importance.
+
+The forms of cooperation in paragraph 1 are cited as examples. The expression 'for example' was inserted in this provision to take account of the situation of Member States which are not parties to all the relevant European Conventions on cooperation in criminal matters. The forms of cooperation listed as examples are: mutual legal assistance in criminal matters, extradition, transfer of proceedings and the enforcement of sentences passed in another Member State, allowing the most appropriate means of cooperation to be chosen in each specific case. The relevant Conventions currently applying between the Member States are not affected by the present Convention.
+
+Paragraph 2 allows for the situation in which more than one Member State has jurisdiction to prosecute an offence connected with the same facts.
+
+In such cases, this paragraph requires Member States to cooperate in deciding which of them is to have jurisdiction to prosecute. This provision should improve efficiency by enabling prosecution to be centralised in a single Member State wherever possible.
+
+Member States will be able to settle such conflicts of jurisdiction by reference, for example, to the scale of the corruption committed in their respective territories, the place where the advantages in question were provided, the place where the suspects were arrested, their nationalities, previous prosecutions, and so on.
+
+Article 10 Ne bis in idem
+
+Paragraph 1 establishes the ne bis in idem rule.
+
+This rule assumes particular importance in cases of international corruption which are liable for prosecution in courts of more than one Member State, when it has not been possible to centralise the prosecution in a single Member State by applying the principle laid down in Article 9(2).
+
+This Article is based largely on the Convention on the application of the ne bis in idem rule, signed in Brussels on 25 May 1987 in the context of European Political Cooperation. Similar provisions are contained in Article 54 and onwards of the 1990 Convention implementing the Schengen Agreement.
+
+Paragraph 2 limits to only a few specified cases the possibility for the Member States to draw up a declaration. Such cases coincide with the three hypotheses provided for in Article 2 of the Convention on the application of the ne bis in idem rule. In accordance with paragraph 4, however, the exceptions considered in such declarations will not apply if the Member State which made them has nevertheless taken action against the person in question, requesting the other Member State to bring the prosecution or granting him extradition.
+
+Special attention must be paid to the possibility of an exception provided in paragraph 2(c), relating to facts which were the subject of the judgement rendered abroad and which were committed by an official contrary to the duties of his office. Although taken from the Convention on the application of the ne bis in idem rule, this does in fact seem particularly relevant in the case of this Convention, which is concerned exclusively with corruption offences, since, in all the cases in which the subject of the judgement rendered abroad was acts of passive corruption by the foreign official, these facts would certainly have been committed by this official contrary to the duties of his office. Paragraph 2(c) may therefore be of particular importance in the context of this Convention depending on the declarations which Member States may make at the time of ratification.
+
+Paragraph 3 provides that periods of deprivation of liberty served in another Member State are in all cases taken into consideration by the State which has brought a further prosecution.
+
+Finally, paragraph 5 states that the principles applying between Member States and the declarations contained in bilateral or multilateral agreements remain unaffected by this Article.
+
+Article 11 Internal provisions
+
+Article 11 allows the Member States to adopt internal legal provisions which go further than those of the Convention. Like the Conventions adopted on the protection of financial interests, this Convention also constitutes a set of minimum standards.
+
+Article 12 Court of Justice
+
+This Article specifies the jurisdiction conferred on the Court of Justice of the European Communities to settle disputes between Member States and, in certain cases, between Member States and the Commission relating to the interpretation or application of the Convention; it also provides for the Court of Justice to have jurisdiction to interpret some of the Articles of the Convention by way of preliminary rulings at the request of national courts. The Article refers in part to similar provisions already introduced in the other instruments adopted to date in the context of Title VI of the Treaty on European Union; it must however be stressed that this is the first time the question of the competence of the Court of Justice to give preliminary rulings has been dealt with and resolved directly in a Convention, instead of being referred to a separate Protocol as was the case with the Convention on the establishment of a European Police Office (Europol) (29), the Convention on the protection of the European Communities' financial interests and the Convention on the use of information technology for customs purposes (30).
+
+Paragraph 1 specifies the conditions under which the Court of Justice has jurisdiction to rule on disputes between Member States on the interpretation or application of the Convention.
+
+It is stipulated in that paragraph that any dispute will in an initial stage be examined by the Council in accordance with the procedure set out in Title VI of the Treaty on European Union with a view to reaching a solution. If no solution is found within six months, a Member State party or the Member States parties to the dispute may refer the dispute to the Court of Justice for a ruling.
+
+As with the Convention on the protection of the European Communities' financial interests, the provision concerning disputes between one or more Member States and the Commission is limited to those provisions of the Convention where such a dispute may possibly occur. Those provisions are Article 1, 'Definitions', with the express exclusion of point (c) which defines 'national official' with reference only to the national law of each Member State, and the Articles on the charge of passive and active corruption and the assimilation of corruption of Members of the Community institutions in so far as questions of Community law, the Community's financial interests or Community members or officials are involved.
+
+As regards procedure, paragraph 2 provides that, in disputes between Member States and the Commission, an attempt must first be made to reach a settlement through negotiation. If negotiation fails, the dispute may be submitted to the Court of Justice.
+
+The Court's jurisdiction to give preliminary rulings on a matter concerning the interpretation of the Convention, provided for in paragraph 3, is not extended to all the provisions of the Convention but is limited to the Articles which involve questions of relevance to Community law and excludes those Articles concerning penalties, liability of heads of businesses, rules governing jurisdiction, provisions on legal cooperation and provisions on the application of the ne bis in idem principle. This approach may be said to constitute a further innovation compared with the solution adopted previously in the case of the abovementioned Protocols to Conventions, which provided for the possibility of interpretation extending to all provisions, without exception, of such Convention and Protocols.
+
+Paragraphs 4, 5 and 6 are based on the provisions on preliminary rulings in the Protocol of 29 November 1996 on the interpretation, by way of preliminary rulings, by the Court of Justice of the European Communities of the Convention on the protection of the European Communities' financial interests (31). Paragraph 4 provides that the competence of the Court of Justice in respect of preliminary rulings is subject to acceptance by the Member State concerned by a declaration. On the basis of paragraph 5, the declaration may restrict the possibility of asking for preliminary rulings to the courts against whose decision there is no judicial remedy under national law. Paragraph 6 provides that the Statute of the Court of Justice and its Rules of Procedure shall apply concerning proceedings pursuant to Article 12.
+
+Article 13 Entry into force
+
+13.1. This Article concerns the entry into force of the Convention in accordance with the relevant rules established by the Council. The Convention will enter into force 90 days after the notification referred to in paragraph 2 by the last Member State to fulfil that formality.
+
+13.2. As with the conclusion of some other Conventions between the Member States, it must further be pointed out that paragraph 4 provides for the application of the provisions of the Convention, before its entry into force, in mutual relations between those Member States which have deposited the relevant declaration. There seems to be justification for the provision of such a clause in the Convention which does not appear in the Convention on the protection of the European Communities' financial interests. For that Convention it is essential that all Member States are equally committed to protecting a common interest. However, under the present Convention, which does not have as its sole objective the protection of an interest common to all Member States but also the protection of the interests of individual Member States, there is no objection to allowing two or more Member States to rely on it, in anticipation of its adoption by all Member States.
+
+As regards cases which may involve Community officials, it should be borne in mind that, in the event of early application of the Convention under paragraph 4, the Member States which make such a declaration will also be obliged to implement the Convention in cases of active and passive corruption of such officials.
+
+This analysis seems to be confirmed by paragraph 5 which stipulates that, even in the absence of the declaration of early application, the provisions of the Convention may likewise be applied in relations between two Member States, simply on the basis of bilateral agreements. The provision appears essentially to open up the possibility for a Member State to apply the Convention on a bilateral basis with another Member State without necessarily having to allow application thereof to its own relations with other Member States or in respect of Community officials.
+
+In any case, the provisions of Article 12 on the Court of Justice only apply once the Convention has entered into force after its ratification by all Member States.
+
+Article 14 Accession of new Member States
+
+This Article concerns the accession to the Convention of future Member States in accordance with the rules already laid down in other Union instruments. The only special feature to be noted concerns paragraph 5, which provides for the possibility for acceding States also to have recourse to the clause allowing early application in the event that the Convention has not yet entered into force at the time of their accession.
+
+Article 15 Reservations
+
+This Article stipulates that no reservation is authorised, with the exception of those expressly referred to in the text of the Convention with regard to determination of various rules governing jurisdiction other than the principle of strict territoriality (Article 7) and application of the ne bis in idem principle (Article 10). A reservation may be withdrawn at any time by notice given by the General Secretariat of the Council.

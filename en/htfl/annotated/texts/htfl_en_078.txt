@@ -1,0 +1,11 @@
+Efficacy, safety, and outcomes of catheter ablation of atrial fibrillation in patients with heart failure with preserved ejection fraction.
+OBJECTIVES:
+This study sought to investigate the efficacy and safety of catheter ablation for atrial fibrillation (AF) in patients with heart failure with preserved ejection fraction (HFPEF).
+BACKGROUND:
+AF is a precipitating factor for clinical deterioration of HFPEF.
+METHODS:
+Catheter ablation for AF was performed in a consecutive 74 patients with compensated HFPEF (left ventricular [LV] ejection fraction >50%). AF-free probability after catheter ablation and factors relating to maintenance of sinus rhythm were investigated. LV strain and strain rate were assessed by echocardiography at baseline and over 12 months after ablation.
+RESULTS:
+During a 34 ± 16-month follow-up period, single- and multiple-procedure drug-free success rates were 27% (n = 20) and 45% (n = 33), respectively. Multiple procedures and pharmaceutically assisted success rate was 73% (n = 54). No major complications occurred during follow-up. Multivariate Cox regression analyses revealed that AF type (other than long-standing persistent AF) and lack of hypertension were independently associated with maintenance of sinus rhythm (hazard ratio [HR]: 1.81, 95% confidence interval [CI]: 1.03 to 3.17, p = 0.04; HR: 0.49, 95% CI: 0.24 to 0.96, p = 0.04, respectively). LV systolic indices (LV ejection fraction, LV strain/strain rate at systole) and diastolic indices (E/E', ratio of LV strain rate at diastole with early transmitral flow) were improved only in patients maintaining sinus rhythm at follow-up.
+CONCLUSIONS:
+Our results suggest that AF can be effectively and safely treated with a composite of repeat procedures and pharmaceuticals in patients with HFPEF. However, the current study was a single-arm analysis; therefore, larger randomized control studies are needed to verify the benefit of AF ablation in this cohort.

@@ -1,0 +1,9 @@
+Circulating fragments of N-terminal pro-B-type natriuretic peptides in plasma of  heart failure patients.
+BACKGROUND:
+The use of nonstandardized N-terminal pro-B-type natriuretic peptide (NT-proBNP) assays can contribute to the misdiagnosis of heart failure (HF). Moreover, there is yet to be established a common consensus regarding the circulating forms of NT-proBNP being used in current assays. We aimed to characterize and quantify the various forms of NT-proBNP in the circulation of HF patients.
+METHODS:
+Plasma samples were collected from HF patients (n = 20) at rest and stored at -80 °C. NT-proBNP was enriched from HF patient plasma by use of immunoprecipitation followed by mass spectrometric analysis. Customized homogeneous sandwich AlphaLISA® immunoassays were developed and validated to quantify 6 fragments of NT-proBNP.
+RESULTS:
+Mass spectrometry identified the presence of several N- and C-terminally processed forms of circulating NT-proBNP, with physiological proteolysis between Pro2-Leu3, Leu3-Gly4, Pro6-Gly7, and Pro75-Arg76. Consistent with this result, AlphaLISA immunoassays demonstrated that antibodies targeting the extreme N or C termini measured a low apparent concentration of circulating NT-proBNP. The apparent circulating NT-proBNP concentration was increased with antibodies targeting nonglycosylated and nonterminal epitopes (P < 0.05).
+CONCLUSIONS:
+In plasma collected from HF patients, immunoreactive NT-proBNP was present as multiple N- and C-terminally truncated fragments of the full length NT-proBNP molecule. Immunodetection of NT-proBNP was significantly improved with the use of antibodies that did not target these terminal regions. These findings support the development of a next generation NT-proBNP assay targeting nonterminal epitopes as well as avoiding the central glycosylated region of this molecule.

@@ -1,0 +1,9 @@
+Skeletal muscle abnormalities and exercise capacity in adults with a Fontan circulation.
+OBJECTIVES:
+The peripheral muscle pump is key in promoting cardiac filling during exercise, especially in subjects who lack a subpulmonary ventricle (the Fontan circulation). A muscle-wasting syndrome exists in acquired heart failure but has not been assessed in Fontan subjects. We sought to investigate whether adults with the Fontan circulation exhibit reduced skeletal muscle mass and/or metabolic abnormalities.
+DESIGN AND PATIENTS:
+Sixteen New York Heart Association Class I/II Fontan adults (30±2 years) underwent cardiopulmonary exercise testing and lean mass quantification with dual x-ray absorptiometry (DXA); eight had calf muscle (31)P magnetic resonance spectroscopy as did eight healthy age-matched and sex-matched controls. DXA results were compared with Australian reference data.
+SETTING:
+Single tertiary referral centre.
+RESULTS:
+Peak VO2 was 1.9±0.1 L/min (66±3% of predicted values). Skeletal muscle mass assessed by relative appendicular lean mass index was significantly reduced compared with age-matched and sex-matched reference values (Z-score -1.46±0.22, p<0.0001). Low skeletal muscle mass correlated with poorer VO2 max (r=0.67, p=0.004). Overall, skeletal muscle mass T-score (derived from comparison with young normal reference mean) was -1.47±0.21; 4/16 Fontan subjects had sarcopenic range muscle wasting (T-score <-2.0) and 9/16 had less marked, but clinically significant wasting (T-score <-1.0 but ≥-2.0). Muscle aerobic capacity, measured by the rate constant (k) of postexercise phosphocreatine resynthesis, was significantly impaired in Fontan adults versus controls (1.48±0.13 vs 2.40±0.33 min(-1), p=0.02).

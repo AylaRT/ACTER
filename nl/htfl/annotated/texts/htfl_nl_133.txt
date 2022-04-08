@@ -1,0 +1,9 @@
+Lichamelijk onderzoek en aanvullende tests bij hartfalen 
+Doel
+Het vaststellen van de meest optimale diagnostische strategie voor hartfalen bij patiënten die de huisarts verdenkt van geleidelijk ontstaan hartfalen.
+Methode
+De deelnemende huisartsen konden alle patiënten met verdenking op hartfalen verwijzen naar een 'one-stop shop' diagnostische polikliniek in acht ziekenhuizen. Een expertpanel stelde de goudenstandaarddiagnose aan de hand van volledig en gestandaardiseerd diagnostisch onderzoek, inclusief ecg, spirometrie, X-thorax, standaardlab, NT-proBNP en echocardiografie. We hebben multivariabele logistische regressie gebruikt om de meest optimale combinatie van diagnostische tests te vinden en vervolgens om te zetten in een diagnostische regel. Er volgde een externe validatie met behulp van twee onafhankelijke onderzoekspopulaties.
+Resultaten
+Bij 207 (28,7%) van de in totaal 721 patiënten constateerden we hartfalen. De combinatie van drie onderdelen van de anamnese (leeftijd, coronairlijden in de voorgeschiedenis en gebruik van lisdiureticum) plus zes uit het lichamelijk onderzoek (polsfrequentie en -regulariteit, verbrede ictus, crepiteren, hartsouffle en gestuwde halsvenen) bereikte reeds een c-statistic van 0,83. Toevoeging van NT-proBNP gaf de meeste verbetering (c-statistic 0,86). Uit deze tien tests hebben we een diagnostische regel afgeleid. We konden de resultaten bevestigen met de externe validatie.
+Conclusie
+Ter ondersteuning van klinische beslissingen kan een eenvoudige diagnostische regel met tien onderdelen de kans op hartfalen kwantificeren bij patiënten van wie de huisarts vermoedt dat er sprake is van geleidelijk ontstaan hartfalen. In dit onderzoek konden we aantonen dat in het bijzonder lichamelijk onderzoek een aanzienlijke bijdrage had aan het diagnostische proces.

@@ -1,0 +1,11 @@
+Safety and efficacy of eplerenone in patients at high risk for hyperkalemia and/or worsening renal function: analyses of the EMPHASIS-HF study subgroups (Eplerenone in Mild Patients Hospitalization And SurvIval Study in Heart Failure).
+OBJECTIVES:
+The study sought to investigate the safety and efficacy of eplerenone in patients at high risk for hyperkalemia or worsening renal function (WRF) in EMPHASIS-HF, a trial that enrolled patients at least 55 years old with heart failure and reduced ejection fraction (HF-REF), in New York Heart Association (NYHA) functional class II and with an estimated glomerular filtration rate (eGFR) >30 ml/min/1.73 m(2) and serum potassium <5.0 mmol/l. Patients were receiving optimal therapy and most had been hospitalized for a cardiovascular reason within 180 days of inclusion.
+BACKGROUND:
+Underuse of eplerenone in patients with HF-REF may be due to fear of inducing hyperkalemia or WRF in high-risk patients.
+METHODS:
+This was a pre-specified analysis of subgroups of patients at high risk of hyperkalemia or WRF (patients ≥ 75 years of age, with diabetes, with eGFR <60 ml/min/1.73 m(2), and with systolic blood pressure < median of 123 mm Hg), examining the major safety measures (potassium >5.5, >6.0, and <3.5 mmol/l; hyperkalemia leading to study-drug discontinuation or hospitalization; and hospitalization for WRF) as well as the primary outcome (hospitalization for HF or cardiovascular mortality).
+RESULTS:
+In all high-risk subgroups, patients treated with eplerenone had an increased risk of potassium >5.5 mmol/l but not of potassium >6.0 mmol/l, and of hospitalization for hyperkalemia or discontinuation of study medication due to adverse events. Eplerenone was effective in reducing the primary composite endpoint in all subgroups.
+CONCLUSIONS:
+In patients with chronic HF-REF, in NYHA functional class II, and meeting specific inclusion and exclusion criteria, including an eGFR >30 ml/min/1.73 m(2) and potassium <5.0 mmol/l, eplerenone was both efficacious and safe when carefully monitored, even in subgroups at high risk of developing hyperkalemia or WRF. (A Comparison Of Outcomes In Patients In New York Heart Association [NYHA] Class II Heart Failure When Treated With Eplerenone Or Placebo In Addition To Standard Heart Failure Medicines [EMPHASIS-HF Study]; NCT00232180).

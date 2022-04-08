@@ -1,0 +1,39 @@
+L'abus de confiance est, en France, « le fait par une personne de détourner, au préjudice d'autrui, des fonds, des valeurs ou un bien quelconque qui lui ont été remis et qu'elle a acceptés à charge de les rendre, de les représenter ou d'en faire un usage déterminé ». L'article 314-1 du Code pénal français punit ce délit d'une peine pouvant aller jusqu'à 375 000 € d'amende et 3 ans d'emprisonnement.
+
+Ce délit est constitué par trois éléments constitutifs : un détournement, un préjudice et une intention, et suppose au préalable la réunion de deux conditions.
+
+Les deux conditions préalables
+
+Accord de volonté
+Il faut un accord de volonté, entre le propriétaire et l'agent, par lequel ce dernier doit lui restituer la chose confiée ou en faire un usage déterminé.
+
+Sous l'empire de l'ancien code pénal, ce contrat pouvait figurer dans la liste donnée par le code ou non. La liste n'était pas exhaustive. Par exemple rentrait dans ce cadre une promesse de vente avec remise d'une somme d'argent par le futur acquéreur sous la condition suspensive que la vente se fera, or le vendeur garde la somme et se refuse à vendre.
+
+Aujourd'hui il n'existe plus de listes de contrats. Et il semble que l'on pourrait même admettre les remises non contractuelles dès lors qu'elles sont suivies d'un accord. La jurisprudence en exclut cependant toujours les contrats emportant transfert de propriété.
+
+La remise certaine, volontaire et précaire
+Il faut une remise certaine, volontaire et précaire de la chose par le propriétaire. Une remise volontaire puisqu'une remise involontaire constitue un vol ou une extorsion et non un abus de confiance.
+
+Une remise précaire puisque le contrat ne doit pas emporter transfert de propriété. Par exemple un contrat de vente ne peut pas être un contrat concerné par ce délit puisque la remise de la chose est définitive, la vente étant un contrat translatif de propriété.
+
+En ce qui concerne la vente avec clause de réserve de propriété, il n'y a pas de solution jurisprudentielle mais il semblerait que l'esprit de cette clause soit de paralyser l'effet translatif de propriété, ce qui permettrait d'envisager un abus de confiance.
+
+Les éléments constitutifs
+Si ces conditions préalables sont remplies, il faut vérifier la présence des trois éléments constitutifs. Les deux premiers de ces éléments sont matériels, le dernier est un élément moral.
+
+Le détournement
+Le détournement est une notion difficile à cerner. Il peut s'agir de la destruction de la chose prêtée, de sa dissipation, de tout acte de disposition sur celle-ci. Mais pas seulement. Il peut donc prendre plusieurs formes différentes :
+
+L'usage abusif de mauvaise foi de la chose confiée, non conforme à l'usage auquel était destinée la remise.
+Le retard intentionnel dans la restitution.
+Le refus de restituer, forcément intentionnel.
+L'impossibilité de restituer par destruction, dissipation, acte de disposition sur la chose remise.
+Mais tout retard ou tout usage non conforme au contrat n'est pas un détournement. La difficulté consiste donc à trouver le critère de l'intervention du droit pénal. Pour la jurisprudence, c'est lorsque l'usage manifeste une interversion de titre au sens du droit civil (tout acte matériel manifestant sans équivoque la volonté du détenteur précaire de se comporter comme le propriétaire de la chose) qu'il y a détournement.
+
+Le préjudice
+La jurisprudence considère qu'il est « réalisé dès lors que le propriétaire est privé de ses droits sur la chose » (crim 15 5 68). C'est une présomption de préjudice qui renverse la charge de la preuve.
+
+L'intention
+C'est une infraction intentionnelle. Un dol général est exigé, c'est-à-dire la conscience de la précarité de la détention et de l'obligation en découlant de restitution, et la volonté de contredire les droits du propriétaire sur sa chose.
+
+La jurisprudence considère que « l'intention frauduleuse peut se déduire des circonstances retenues par le juge, l'élément intentionnel étant nécessairement inclus dans la constatation de détournement » (Cass. Crim., 1878).

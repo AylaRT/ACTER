@@ -1,0 +1,11 @@
+Selective heart rate reduction with ivabradine unloads the left ventricle in heart failure patients.
+OBJECTIVES:
+The study aimed to determine whether isolated heart rate (HR) reduction with ivabradine reduces afterload of patients with systolic heart failure.
+BACKGROUND:
+The effective arterial elastance (Ea) represents resistive and pulsatile afterload of the heart derived from the pressure volume relation. HR modulates Ea, and, therefore, afterload burden.
+METHODS:
+Among the patients with systolic heart failure (ejection fraction ≤35%) randomized to either placebo or ivabradine in the SHIFT (Systolic Heart Failure Treatment With the If Inhibitor Ivabradine Trial), 275 patients (n = 132, placebo; n = 143, ivabradine 7.5 mg twice a day) were included in the echocardiographic substudy. Ea, total arterial compliance (TAC), and end-systolic elastance (Ees) were calculated at baseline and after 8 months of treatment. Blood pressure was measured by arm cuff; stroke volume (SV), ejection fraction, and end-diastolic volume were assessed by echocardiography.
+RESULTS:
+At baseline Ea, TAC, HR, and Ees did not differ significantly between ivabradine- and placebo-treated patients. After 8 months of treatment, HR was significantly reduced in the ivabradine group (p < 0.0001) and was accompanied by marked reduction in Ea (p < 0.0001) and improved TAC (p = 0.004) compared with placebo. Although contractility remained unchanged, ventricular-arterial coupling was markedly improved (p = 0.002), resulting in a higher SV (p < 0.0001) in the ivabradine-treated patients.
+CONCLUSIONS:
+Isolated HR reduction by ivabradine improves TAC, thus reducing Ea. Because Ees is unaltered, improved ventricular-arterial coupling is responsible for increased SV. Therefore, unloading of the heart may contribute to the beneficial effect of isolated HR reduction in patients with systolic heart failure.

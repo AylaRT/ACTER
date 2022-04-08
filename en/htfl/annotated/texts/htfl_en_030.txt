@@ -1,0 +1,9 @@
+Survival after left ventricular assist device with and without temporary right ventricular support.
+BACKGROUND:
+Right ventricular (RV) failure after the insertion of a left ventricular assist device (LVAD) historically results in poor outcomes. Patients requiring temporary RV support after LVAD insertion are a heterogeneous group of patients consisting of those in cardiogenic shock after myocardial infarction, to those with chronic decompensated heart failure. For patients requiring biventricular support, we have used a hybrid system consisting of a HeartMate II LVAD and CentriMag right ventricular assist device (RVAD). The purpose of this study was to determine the 1-year survival in patients requiring isolated LVAD and patients requiring biventricular support.
+METHODS:
+All patients who underwent HeartMate II LVAD alone or in conjunction with a temporary CentriMag RVAD were examined from 2006 to 2011. Preoperative demographics, operative outcomes, and survival were analyzed.
+RESULTS:
+A total of 139 patients required HeartMate II insertion; 34 (24%) required biventricular support at the time of HeartMate II implantation. The mean duration of biventricular support was 17 ± 11.9 days (range, 6 to 56 days) with 91.8% (n = 31) of RVADs successfully explanted. Survival to hospital discharge was not different between groups (95.2 versus 88.2%; p = 0.2). However, 1-year survival was significantly greater in patients who required isolated HeartMate II LVAD (87% versus 77%; p = 0.03).
+CONCLUSIONS:
+Biventricular support using a HeartMate II LVAD and CentriMag RVAD resulted in limited mortality at hospital discharge. However biventricular dysfunction does not have a favorable outcome at 1 year when compared with patients requiring isolated HeartMate II.

@@ -1,0 +1,9 @@
+Determination of a predictive cutoff value of NT-proBNP testing for long-term survival in ED patients with acute heart failure.
+OBJECTIVE:
+The main objective of this study was to determine a predictive cutoff value for plasma N-terminal pro-B-type natriuretic peptide (NT-proBNP) that could successfully predict the long-term (4-year) survival of patients with acute heart failure (HF) at the time of admission to the emergency department (ED). To our best knowledge, our study is the first research done to identify a predictive cutoff value for admission NT-proBNP to the prescriptive 4-year survival of patients admitted to ED with acute HF diagnosis.
+METHODS:
+NT-proBNP levels were measured in plasma obtained from 99 patients with dyspnea and left ventricular dysfunction upon admission to the ED. The end point was survival from the time of inclusion through 4 years.
+RESULTS:
+The mean age of the patients in this study was 71.1 ± 10.3 years; 50 of these patients were female. During the 4-year follow-up period, 76 patients died; survivors were significantly younger than non-survivors (64.26 ± 11.42 years vs 72.83 ± 11.07 years, P = .002). The optimal NT-proBNP cutoff point for predicting 4-year survival at the time of admission was 2300 pg/mL, which had 85.9% sensitivity and 39.1% specificity (95% confidence interval, area under the curve: 0.639, P = .044).
+CONCLUSION:
+Elevated NT-proBNP levels at the time of admission are a strong and independent predictor of all-cause mortality in patients with acute HF 4 years after admission. Furthermore, the optimal cutoff level of NT-proBNP used to predict 4-year survival had high sensitivity. However, especially in the case of long-term survival, additional prospective, large, and multicenter studies are required to confirm our results.

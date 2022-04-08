@@ -1,0 +1,169 @@
+Connecting the Dots: Building the Case for Open Data to Fight Corruption
+
+Transparency International is a global movement with one vision: a world in which government, business, civil society and the daily lives of people are free of corruption. With more than 100 chapters worldwide and an international secretariat in Berlin, we are leading the fight against corruption to turn this vision into reality.
+
+PREFACE
+
+In 2015 the G20 Anti-Corruption Open Data Principles (hereafter G20 Principles) were developed, as a first step towards leveraging open data as a crucial tool for enabling a culture of transparency and accountability in order to address corruption. At that time the G20 agreed that the principles should be based on the International Open Data Charter, which focuses on enhanced access to, and the release and use of, government data, so as to strengthen the fight against corruption.
+The purpose of this overview report is to make the case for using open data to strengthen anti-corruption efforts. The report, which was jointly conceived and carried out by Transparency International and the Web Foundation, assessed the extent to which a select group of G20 countries (Brazil, France, Germany, Indonesia and South Africa) have met their commitments to fight corruption by applying and implementing the principles and actions set out in the G20 Principles. This report also provides a set of recommendations for further action based on that assessment.
+The five countries assessed represent a variety of G20 economies from around the world but include countries whose international leadership has or will be in the spotlight, via the G20 presidency or the Open Government Partnership chair, for instance. For this reason, it can be expected that they will have a keen interest in implementing open data for anti-corruption purposes.
+In 2015 the G20 Anti-Corruption Working Group prepared a set of Open Data Principles, which was subsequently adopted by G20 countries. Since that time, efforts to promote digitalisation in government and greater public access to and use of data have expanded dramatically. This set of five country studies sets out to establish whether G20 governments have followed the principles they put in place on open data, the aim of which is to drive them towards fulfilling their anti-corruption pledges.
+Overall, implementation of the G20 Open Data Principles is inadequate in the five countries studied, with France performing best across a range of qualitative and quantitative indicators and Indonesia most poorly. Although more evidence and use cases on open data are needed, the potential of open data as a driver and enabler of anti-corruption is significant but has yet to be realised.
+The five country studies reveal that open data policies and anti-corruption efforts are being developed independently from one another. Although performance in open data indexes correlates very highly with perceived control of corruption, the lack of a coherent harmonisation between the two fields results in missed opportunities for tackling corruption more efficiently.
+Recommendations are made to G20 governments and other stakeholders to help advance open data use in strategies to combat corruption, including changes in legal frameworks, the use of data standards, the availability of training and awareness raising and a focus on changing culture and attitudes towards open data and its use in anti-corruption activities.
+
+The growth of open data
+In recent years, governments around the world have increased the availability of their data, creating a growing amount of open data that can be freely used, modified and shared by anyone for any purpose. Open data, data that can be freely used, modified and shared by anyone for any purpose, has also emerged as an important potential instrument in the fight against corruption. By enabling increased transparency in government activities, budgets and expenditures, open data becomes a critical ingredient in accountability interventions. The argument is clear: not only should open data reduce the mismanagement and misallocation of resources, it should also help secure a transparent, more accountable exchange between governments and citizens. Indeed, public interest in ending corruption and inefficiency in governance has generated a demand for governments to open up more data and to improve information transparency. Governments are under pressure to facilitate public access to and oversight of their work, as well as to produce information that is easier to work with and compare.
+It is worth noting that open data is often linked to its public sector application, but it is not limited to releases by government. It can include data from international organisations, business, and civil society. The Open Data Impact Map, set up by the Center for Open Data Enterprise, shows that, as of late 2016, more than 250 mainly civil society organisations (CSOs) have documented the use of open data for governance work, with a particular focus on budget and procurement data for use in advocacy.
+Studying the impact of open data has emerged as an extremely active area of recent scholarship. Although definitive and large-scale research is thin, the academic community has identified the impact of open data in a number of spheres, such as in job creation, economic growth, productivity, public sector savings and sustainable development. Moreover, researchers have also begun to categorise open data impacts, which show its clear relevance to anti-corruption interventions. Thought  leaders in the open data field, Tim Davies and Fernando Perini, suggest that open data is relevant for (1) transparency and accountability, (2) innovation, economic development and efficiency and (3) inclusion and empowerment. This framework indicates that open data should contribute to anti-corruption reform, by influencing institutions, processes and public engagement. Indeed, the 'home' of open data, the Open Data Charter, has concluded that '[o]pen data can play a key role to dismantle corruption networks', and established an anti-corruption package to focus on the anti-corruption impact of open data in late 2016.
+
+Open data and corruption
+
+Transparency International defines corruption as the abuse of entrusted power for private gain. As technology advances, the methods of the corrupt are also getting more sophisticated and difficult to foil. It is clear, however, that the digital revolution provides opportunities for anti-corruption professionals and activists. With millions of gigabytes of data produced every day by governments and businesses worldwide, whole new avenues open up for the fight against corruption. When government data and other data relevant to governance is open, accessible and interoperable, the possibilities for scrutiny and accountability increase immensely.
+A simple comparison of the scores for the Corruption Perceptions Index (CPI) and the Open Data Barometer (ODB) shows that perceptions of corruption and open data have a high correlation of 0.8. Even when human development is controlled for each country, the relationship remains statistically significant. The graph below shows that two of the countries assessed in this research, Brazil and France, are outliers in this correlation. They perform worse on levels of perceived corruption than their open data score would suggest. This can be understood, among other factors, via the findings across these studies: although advances in open data in line with the G20 Principles are emerging, they are not yet sufficiently linked to anti-corruption strategies. When that linkage is made, the two agendas are likely to be even more mutually reinforcing in achieving positive outcomes for transparency, accountability, participation and anti-corruption.
+There are numerous ways that open data can drive anti-corruption. Lobbying registers can show who is spending most time with our elected officials. Public procurement data can expose companies that receive preferential treatment. Political party financing can hint at agendas driven by private interest. What is more, when these relevant datasets are merged and triangulated, they can reveal patterns or show noteworthy gaps that reflect corrupt conduct.
+Despite these opportunities, research into open data in five G20 countries has found that the potential of open data has not been leveraged sufficiently in the fight against corruption. The two fields, anti-corruption and open data have been developing independently of each other, thus missing crucial opportunities for value added through harmonisation. In order to create a well-functioning anti-corruption regime, there needs to be a targeted effort to connect open data to anti-corruption efforts.
+All five governments analysed through this research have failed to capitalise on the benefits of open data for the fight against corruption. While hackathons have been organised by the National Treasury in South Africa, Etalab (the national agency in charge of implementing open data in France) and elsewhere, none of them has  a specific anti-corruption focus, and evidence regarding their impact is limited.
+There is no substantial evidence of programmes, training workshops, tools or guidelines aimed at improving data literacy among anti-corruption professionals and activists in any of the five countries reviewed. This means that public officials, investigative journalists and civil society may be missing opportunities to improve the prevention and detection of corruption. In some countries, such as Indonesia, this can be attributed primarily to a technological gap, but countries with more advanced information and communication technology (ICT) capabilities, such as France and Germany, are also struggling when it comes to incorporating open data in their anti-corruption strategies, corruption prevention efforts and training.
+In some cases, civil society and investigative journalists have shown the ways that open data can be used for anti-corruption purposes. In Germany (see page 16) and France, digital tools were developed for citizens to scrutinise the donations and contracts that their doctors receive from the various pharmaceutical companies. In sum, civil society and media have stepped in where governments have failed to link open data and anti-corruption.
+Individual studies have assessed policy and practice regarding open data for anti-corruption in Brazil, France, Germany, Indonesia and South Africa. The study methodology set out questions that followed the six main G20 Principles. Each principle and the main results from the country studies are now examined in turn.
+
+Open by Default
+
+The 'open by default' principle commits each G20 government to proactively disclose government data unless certain exceptions apply. The principle goes beyond transparency, as it requires the proactive provision of reusable data from its source in order to increase access in equal terms for everyone.
+France is the only country assessed in this study that enshrines the 'Open by Default' principle in law. The Law for a Digital Republic requires departments and agencies to communicate administrative documents in an 'open, easily reusable and machine-readable format'.
+Germany, South Africa, Brazil and Indonesia do not meet the 'Open by Default' principle, though they do all have right to information legislation. This legislation is limited to reactive disclosure, responding to individual requests, and even then there is no requirement to disclose documents in machine-readable formats. Of these countries, only Brazil ensures that requested documents are provided at no cost to the enquirer.
+
+Timely and Comprehensive
+
+The 'Timely and Comprehensive' principle commits a government to identify and publish key high-quality and open datasets at appropriate time intervals. Publication of the data should be informed by actual demand and identified through ongoing public consultation. The principle also encourages a government to apply consistent dataset management processes across all levels.
+Government budgets are the only datasets published in all five of the countries assessed in this study. France publishes online most of the key anti-corruption datasets identified in this study, a total of eight out of ten, whereas Indonesia publishes online the fewest of these: just three out of ten.
+A closer look at published datasets shows that timely updates and the provision of granular disaggregated data are the exception rather than the rule. Only France and Germany publish the majority of their available datasets in a timely fashion and with granular data.
+When it comes to dataset management across different government departments and levels, the country studies show that consistent standards and procedures are rarely applied. This appears to have had negative implications on the quality of the data in Indonesia, for instance, where different collection and management procedures more generally have led to less comparability, among other challenges.
+
+Accessible and Usable
+
+The 'Accessible and Usable' principle commits governments to increase data accessibility and usability by lowering unnecessary entry barriers and by publishing data on single-window solutions, such as central open data portals. It also requires governments to promote open data initiatives to raise awareness and increase data literacy and capacity-building among potential data users.
+All the countries assessed in this study have a centralised government data platform, but none of them publish all key anti-corruption datasets there. This makes it difficult for researchers and activists to access the data they need. A lack of dedicated catalogues providing information on where to find different types of datasets exacerbates this problem.
+The private sector provision of data was also assessed under this principle. When it comes to the private sector, France is the only country of the five that requires large companies to report on anti-corruption. Corporate reports are often delivered in narrative and non-machine-readable formats, however.
+The governments of France, Germany and South Africa have promoted the use of open data and encouraged data literacy capacity-building, but these efforts are not related to the fight against corruption. Etalab in France has published a handbook on the opening and sharing of public data; this document has not been updated since its original publication in 2013, however. Other departments, such as the National Treasury and the Department for Water and Sanitation in South Africa have promoted data literacy in their respective domains.
+
+Comparable and Interoperable
+
+The 'Comparable and Interoperable' principle commits governments to implementing open data standards, and ensures that open datasets include consistent core metadata such as descriptive titles, the data source, the publication date and the available formats, as well as adequate documentation.
+International open data standards are crucial to ensuring a robust anti-corruption open data ecosystem: the true potential of open data for anti-corruption can be unlocked only when different datasets can be merged and used together. France leads the group in this regard by publishing seven key anti-corruption datasets in line with the relevant open data standards. The other four countries either fail to follow open data standards or meet this requirement partially, by releasing machine-readable data for just a few of the key anti-corruption datasets.
+Descriptive information, usually provided through metadata and accompanying documentation, is another crucial factor in enabling interoperability, as it gives open data users the necessary information to allow for the efficient merging of different datasets. The provision of such information is selective and inconsistent in all five countries analysed here, however.
+
+Data for Improved Governance and Citizen Engagement
+
+The 'Data for Improved Governance and Citizen Engagement' principle commits governments to promote the use of online collaboration to engage with anti-corruption organisations, and to equip government officials so that they may use open data effectively.
+All five countries fail to fully meet this principle in practice. Critically, government officials are not trained to leverage the potential of open data for anti-corruption. In Indonesia, most civil servants are not familiar with the concept of open data. In France, training programmes on open data exist for public officials, but anti-corruption modules are sporadic. Again, opportunities are rife but insufficiently explored for integrating the two agendas.
+The five countries perform better on citizen engagement. In many cases, the focus of engagement is specific, such as on budgeting or transport, but misses the opportunity to link these areas to anti-corruption. A collaboration between Code for South Africa and the National Treasury led to the creation of a platform that facilitated the use of open data to monitor budgeting and expenditure at the subnational level. In Germany, the Ministry of Education and the Ministry of Transport provided funding for start-ups, CSOs and individuals to produce apps and open source software that uses open data.
+
+Data for Inclusive Development and Innovation
+
+The 'Data for Inclusive Development and Innovation' principle commits governments to support other G20 open data work and encourage civil society, the private sector and multilateral institutions to open up data. It also specifies that governments will engage in new partnerships with anti-corruption stakeholders and share technical expertise with other governments and organisations.
+While some of the countries do publish development-relevant data and are engaged in technical collaboration abroad, none of these governments have shown strong results on inclusive development regarding open data for anti-corruption domestically.
+With the exception of France, where the government encourages civil society and the private sector to open up their data, the other governments have not yet started promoting a multi-sector open data ecosystem, which would benefit anti-corruption efforts more widely.
+In the regional and international context, all five governments engage in sharing anti-corruption technical expertise and experience with other governments and international organisations. There is no evidence of sharing specific expertise on how to use open data for anti-corruption, however.
+In order to assess the progress made on the G20 Anti-Corruption Open Data Principles in quantitative terms, ten key anti-corruption datasets in each of the five countries have been selected and analysed. Datasets were evaluated according to nine questions corresponding to the G20 Principles: A score of 0 means that a dataset is not published online at all and a score of 9 means that the dataset is published online and meets all the criteria stated in the G20 Anti-Corruption Open Data Principles.
+Full tables detailing the score for each dataset can be found in the country reports for Brazil, France, Germany, Indonesia and South Africa.
+
+Case Study: Open Data for Anti-Corruption
+Shining a light on the German healthcare system
+In June 2016, for the first time ever and on a voluntary basis, 54 pharmaceutical companies disclosed payments made to doctors and hospitals in Germany. Of the 71,000 individuals and institutions on the receiving end, a third agreed to publicly share details of these payments. Following the release of the data, journalists at two German media outlets, Correctiv16 and Spiegel Online,17 jointly developed a searchable database18 that allows the public to access the data through a single platform and to search for detailed information based on names and addresses.
+As part of this transparency initiative, doctors had to consent to having their data published. Such optional disclosure means that those medical professionals supporting transparency through the release of their data are under public scrutiny while those who did not consent are not.
+Although the German federal parliament passed the Act on Fighting Corruption in the Health Sector in April 2016, this law does not make disclosure mandatory. France, in contrast, passed legislation in 2011 that requires pharmaceutical companies to declare all gifts valued at more than €10 as well as all the contracts they give to healthcare professionals. An open data tool, linking doctors to gifts or contracts they receive from pharmaceutical companies, was developed in France by Regards Citoyens, a civil society organisation.19
+Without mandatory disclosure, in Germany the database created by Spiegel Online and Correctiv could be at risk if the doctors who had their data published decided to stop releasing that information. Therefore, the German government should introduce legislation similar to that in France, to make it mandatory for the healthcare sector to publicly disclose payments made to doctors by pharmaceutical companies or their contractors.
+Given the awareness of the importance of open data, in the G20 and beyond, it is significant that the G20 countries have adopted a set of guiding principles dedicated to linking open data to anti-corruption efforts. Three years after their adoption it should be possible to expect substantial forward motion in the availability of open data and its integration into the anti-corruption strategies of G20 governments. Nevertheless, the assessment of open data for anti-corruption in five G20 countries shows that the implementation of the G20 Anti-Corruption Open Data Principles is inadequate – and therefore the potential of open data as a driver and enabler of anti-corruption work remains largely underutilised. To address this substantial implementation gap, we propose the following recommendations, which are based on the common challenges seen across all five countries in applying the G20 Principles.
+	
+
+Governments must leverage open data better for the fight against corruption.
+a.	Integrate open data policies in national anti-corruption strategies, Open Government Partnership commitments and other relevant platforms and standards.
+b.	Undertake legal measures to formally enshrine the G20 Principles in national law in order to ensure their delivery and enforcement.
+c.	Remove institutional barriers to ensure cooperation and cohesion among the government institutions working on open data and anti-corruption.
+d.	Agree to a feasible timeline to publish in an open format all ten of the key anti-corruption datasets.
+	
+Governments should invest in skills, technology and capacity-building to facilitate the use of open data for anti-corruption.
+a.	Provide cross-departmental training and courses for all public administration bodies, particularly those tasked with delivering on national anti-corruption commitments (such as law enforcement agencies).
+b.	Include such training as part of the commitments and strategies set out on the part of governments for open data and anti-corruption.
+c.	Include efforts to involve citizens and determine public needs in the use and application of open data for anti-corruption.
+	
+Governments, business and civil society should increase awareness of the benefits of using data to fight corruption.
+a.	Develop use cases and other practical efforts, such as online and offline training workshops, tools and guidelines.
+b.	Collaborate on initiatives to bring different actors working on open data and anti-corruption together, such as through the Open Data Charter and the Open Government Partnership.
+c.	Collectively agree to publish corporate-related datasets, such as for beneficial ownership.
+	
+Governments should encourage a culture of transparency and openness across all levels of government.
+a.	Establish the right incentive structure for politicians and public officials in order to promote an 'open data' agenda, such as a rewards system for those units publishing information in an open data format.
+b.	Undertake 'soft reforms' that iteratively shift practices and beliefs so as to put public information in the public domain in open data formats, as part of customer service targets and civil service codes of conduct, for example.
+	
+Governments should strengthen the linkages between access to information and open data.
+a.	Leverage right to information legislation in order to advance concrete actions that open up a country's data, such as requiring all publicly released information to be 'open by default' and under an 'open licence'.
+
+BENEFICIAL OWNERSHIP
+
+GOVERNMENT BUDGET
+
+PUBLIC OFFICIALS DIRECTORIES
+
+COMPANY REGISTERS 
+
+LOBBY REGISTERS 
+
+
+Lobby registers are currently published only in France, though it is not mandatory and covers only the French parliament. The French lobby register is also among the top-scoring datasets, with eight points.
+
+Brazil is the only country where government spending data is published. Moreover, this dataset scores among the highest of all datasets evaluated across the five studies, with eight points out of nine.
+
+None of the assessed countries have a public beneficial ownership register to date, though the South African, French and German government are planning to introduce legislation aimed at creating registers, albeit not necessarily public ones.
+
+POLITICAL FINANCING
+
+VOTING 
+RECORDS
+
+LAND 
+REGISTERS
+
+GOVERNMENT SPENDING
+
+PUBLIC PROCUREMENT
+
+Of the datasets available online in most countries, land registers have the poorest data quality, achieving the fewest of the G20 Anti-Corruption Open Data Principles.
+
+Government budgets are the best datasets overall in their adherence to the G20 Principles. All five countries release government budget data in a timely manner, providing granular information in machine-readable standards.
+
+FINDINGS FOR EACH COUNTRY 
+
+
+Germany
+Main finding
+There is currently no legal foundation for proactive release of data which enshrines an explicit commitment to the 'Open by Default' principle at the national level in Germany.
+Recommendation
+Strengthen the Freedom of Information Act by adding proactive disclosure requirements.
+
+France
+Main finding
+Despite strong political will to open up data, the link with anti-corruption efforts is still missing, thus making it difficult for key datasets to be published in line with the G20 Principles.
+Recommendation
+Ensure that the application decrees for the Law for a Digital Republic are adopted in time and respect the ambition of the original text adopted by the Assemblée nationale. 
+
+Brazil
+Main finding
+The 'Open by Default' principle is only partially met. The right to information (RTI) law does not explicitly grant unlimited access to documents relevant to fighting corruption, making it more difficult to bridge the gap between access to and the use of open data to tackle corruption.
+Recommendation
+The 'Open by Default' principle should be implemented and enforced as prescribed by the G20 Anti-Corruption Open Data Principles. Proper enforcement should take into consideration strengthening the link between open data and anti-corruption, including the quality of information released by the RTI law.
+
+
+Indonesia
+Main finding
+A lack of clear procedures and adequately trained staff and the existence of conflicting regulations hinder access to and the reuse of public information.
+Recommendation
+Integrate open data principles within the Law on the Disclosure of Public Information and in the draft One Data policy.
+
+South Africa
+Main finding
+The use of open data to make government transparent in efforts to combat corruption is not evenly implemented across government departments, with the National Treasury taking the lead and other institutions lagging behind.
+Recommendation
+Leading government departments need to step up and open key datasets for anti-corruption activities, following the standards set by the G20 Anti-Corruption Open Data Principles.

@@ -1,0 +1,165 @@
+Offshore windmolens en het belang van een degelijke fundering
+
+Björn Van de Walle
+
+
+
+De ontwikkeling van windparken op zee – voor het opwekken van zogenaamde 'offshore windenergie' – maakt deel uit van een rijk pallet aan maatregelen om de uitstoot van broeikasgassen te verminderen (zie kader p.20). Hoewel deze tak aan een sterke opmars bezig is en zijn efficiëntie heeft bewezen, plaatst het ingenieurs toch ook voor heel wat nieuwe uitdagingen. De voordelen om ver uit de kust zogenaamde 'farshore windparken' te bouwen zijn duidelijk: de molens zijn er vrijwel onzichtbaar vanaf de kust, de vogeltrek wordt minder verstoord en de wind is er sterker en constanter waardoor een hoger rendement kan bekomen worden. Daartegenover staat dat de grotere waterdiepte en de ruigere omstandigheden zwaardere funderingen vereisen. Op zee worden de funderingen immers bijkomend belast door golven en stroming. In de zoektocht naar welke fundering op een bepaalde plaats en bouwtijdstip de voorkeur verdient, kan elke beslissing verstrekkende gevolgen hebben. De eerste twee gerealiseerde offshore windparken op Belgische "bodem" zijn daar alvast een mooie illustratie van!
+
+Project	C-Power	Belwind
+Ligging (afstand tot kust)
+Thorntonbank (30 km)
+Bligh-Bank (46 km)
+Huidig aantal windmolens
+Waterdiepte
+Constructieduur
+Type fundering	GBF (beton)	monopiles (staal)
+Constructieduur fundering
+Volledig operationeel
+
+
+
+De Belgische offshore windparken illustratief voor Europese tendens
+
+
+Ook België volgt de ontwikkeling naar een uitbouw van offshore windparken. Momenteel leveren vóór de Belgische kust twee windmolenparken groene energie, ook al zijn ze nog niet volledig operationeel (zie tabel). Het windmolenpark van C-Power op de Thorntonbank bestaat voorlopig uit slechts 6 windmolens en bevindt zich op zo'n 30 km voor de kust. Het windmolenpark van Belwind op de Bligh-Bank telt 55 windmolens en staat iets dieper (46 km) in zee. Daarmee volgen de Belgische windparken op zee de Europese tendens om in steeds dieper water en verder uit de kust te gaan bouwen. Ter illustratie: gemiddeld is de waterdiepte en afstand tot de kust voor Europese windparken in 2010 toegenomen tot respectievelijk 25,5 m en 27,1 km (EWEA).
+
+Naast de eerste 6 turbines van het C-Power project (zie foto: MD), heeft ook het Belwind consortium reeds 55 turbines in Belgische mariene wateren in gebruik genomen
+Wat opvalt is dat de 55 'Belwind' turbines op minder dan anderhalf jaar operationeel waren, terwijl de bouw en installatie van de 6 windmolens van C-Power bijna 2 jaar in beslag namen. Dit enorm verschil in constructiesnelheid is te verklaren vanuit het type fundering dat werd gebruikt (voor types zie verder). Voor de 6 windmolens op de Thorntonbank werden betonnen sokkels met een constructietijd van 9 tot 10 maanden gebruikt, terwijl de 55 windmolens op de Blighbank gefundeerd zijn op stalen monopiles die een veel kortere constructietijd hadden. Toen C-Power begon te bouwen, swingde de staalprijs de pan uit en werd voor betonnen sokkels gekozen. Twee jaar later kreeg het verhaal een andere wending: staal was plots veel goedkoper geworden. Gevolg: ten uitvoering van zijn plan om 48 windmolens bij te bouwen op de Thorntonbank, zal ook C-Power straks kiezen voor stalen funderingen.
+
+Een veelheid aan funderingstypes
+
+
+Al deze types funderingen vragen om een woordje uitleg: de monopiles, betonnen en stalen gravitaire funderingen, tripods, jackets en jackups.
+
+De monopile
+De monopile fundering is momenteel het meest gebruikte funderingstype bij offshore windturbines. In Europa zijn 65% van alle geïnstalleerde funderingen voor offshore windturbines van dit type, t.o.v. 25% gravitair en 8% jacket (EWEA). De monopile is een eenvoudige structuur die bestaat uit één enkele cilindrische stalen buis, vandaar de naam 'monopaal' of 'monopile'. Het voordeel is dat het ontwerp, de fabricatie en de installatie zeer eenvoudig zijn in vergelijking met andere funderingstechnieken. Een nadeel is een hoge buigzaamheid in diep water. De paal wordt volledig aan land gemaakt. Vervolgens wordt ze als één geheel getransporteerd naar de gewenste locatie. Dit gebeurt op een drijvend ponton dat meerdere palen tegelijk kan vervoeren. Eenmaal ter plaatse wordt de paal door een kraan op een ponton of door een jack-up platform (zie verder) opgetild.
+De paal wordt daarna gepositioneerd in een speciale mal, zodat ze zo verticaal mogelijk in de zeebodem kan geduwd worden. Eenmaal de paal de gewenste diepte heeft bereikt, wordt een tussenstuk op de paal geplaatst, waarop dan de windturbine komt.
+Om het probleem van de hoge buigzaamheid in diep water op te vangen is een variante ontwikkeld: de tripile (zie figuur). De hoge kostprijs van deze 'tripile' of 'drie palen'-systeem gaf op zijn beurt aanleiding tot de ontwikkeling van de getuide of met spankabels verankerde monopile. De spankabels worden zo hoog mogelijk, net onder de rotorbladen, aan de paal vastgemaakt om het buigmoment in de paal te verminderen. Dit heeft als voordeel dat de paal dunner kan geconstrueerd worden. De spankabels worden in de zeebodem vastgemaakt met behulp van stevige ankers. Het type anker is afhankelijk van de bodemsoort. Een stootrand rond de paal vormt een bescherming tegen aanvaringen.
+
+Met 65% van alle Europese offshore windparkinstallaties, is de monopile vandaag het meest gebruikte funderingssysteem. Zijn eenvoud en relatief vlotte plaatsing speelt hierbij een rol. Een nadeel kan dan weer de hoge buigzaamheid zijn in diep water. Dit beeld toont enkele stalen monopiles en de (gele) tussenstukken wachtend in de haven van Zeebrugge, voor transport naar het Belwindpark.
+
+Offshore windproductie is hot
+De gevolgen van de huidige klimaatverandering worden wereldwijd steeds beter zichtbaar. Daarom engageert de Europese Commissie zich via het 'Klimaatplan 20-20-20' om de uitstoot van broeikasgassen tegen het jaar 2020 met minstens 20% te verminderen, de energie-efficiëntie met 20% te verhogen en het aandeel van duurzame energie in de totale energieproductie op 20% te brengen. Om deze doelstellingen te halen, wordt onder meer beroep gedaan op windenergie. Eind 2010 bedroeg het totale geïnstalleerde vermogen aan windparken in Europa 84 GW, wat in een normaal jaar overeenstemt met een electriciteitsproductie van 181 TWh of 5,3% van het totale Europese electriciteitsverbruik (EWEA).
+Met 9,5% van dit totaal, vormen offshore windparken een substantieel en groeiend aandeel. De tien windparken die momenteel in Europa op zee in aanbouw zijn, vertegenwoordigen een bijkomend geïnstalleerd vermogen van 3 GW. Tel daarbij de 19 GW capaciteit, nog niet in aanbouw maar wel reeds volledig vergund, en het moet haalbaar zijn om tegen 2020 de kaap van de 20% aan offshore windenergieproductie te nemen.
+
+De tripile is ontwikkeld als variante op de monopile, teneinde het probleem van de hoge buigzaamheid in diep water te ondervangen. Om de hoge kostprijs van dit meerpalensysteem te drukken, kwam men vervolgens met een 'getuide' (zie boven), d.i. met spankabels verankerde monopile, op de proppen.
+
+
+De betonnen gravitaire fundering
+
+De gewichtsfundering of gravitaire fundering ('Gravity Based Foundation' of 'GBF') was in de jaren '90 de meest voorkomende fundering voor offshore windturbines.
+De eerste gewichtsfunderingen bestonden uit massief beton. Deze hadden – hoe tegenstrijdig het ook klinkt – één groot nadeel: hun gewicht. Dit enorme gewicht was nodig om de constructie (dankzij de zwaartekracht of gravitatie) haar stabiliteit te verlenen. Toen bleek dat deze betonnen structuren bij grotere waterdieptes zelfs té zwaar werden voor de sterkste installatie- en hefwerktuigen, diende een oplossing te worden uitgedokterd. Men bouwde een holle, betonnen fundering aan land die vervolgens naar de plaats van installatie werd vervoerd om daar met ballastmateriaal te worden opgevuld en zo het volledige ontwerpgewicht te verkrijgen. Het ontwerpgewicht wordt zo berekend, dat de fundering niet kan wegglijden, kantelen of opgelift worden. Kantelen kan worden voorkomen door de basis van de fundering te verbreden.
+Het toepassen van gewichtsfunderingen wordt vooral beperkt door de draagcapaciteit van de schepen of pontons die de funderingen naar de eindlocatie moeten brengen. Ze kunnen geplaatst worden tot op dieptes van ongeveer 25 meter. Grotere waterdieptes zullen in de toekomst ook mogelijk zijn door de bouw van zwaardere schepen en pontons en een verdere daling van het gewicht van de basisstructuur.
+Het grootste nadeel aan dit type funderingen is de maandenlange constructietijd wat de trage opbouw van het windmolenpark op de Thorntonbank verklaart. Een lichter type van gewichtsfunderingen, waarbij het gewicht en dus de stabiliteit wordt gecompenseerd door stalen kabels die verankerd worden in de zeebodem, is in volle ontwikkeling. Echter, het nadeel van de lange constructietijd blijft…
+
+De stalen gravitaire fundering
+
+De gewichtsfundering of gravitaire fundering kan ook in staal worden uitgevoerd. Deze bestaat uit twee delen: (1) een stalen buis en (2) een stalen doos die op de zeebodem rust (zie figuur).
+De stalen buis is hol en wordt opgevuld met ballastmateriaal om het ontwerpgewicht
+te bereiken. De diameter van de buis is afhankelijk van de waterdiepte. Hoe groter de waterdiepte, hoe groter de diameter van de buis. Ook de stalen doos wordt
+opgevuld om tot een voldoende groot totaal ontwerpgewicht te komen. Net als de verbrede basis bij de traditionele betonnen GBF, is haar belangrijkste functie om het kantelen van de structuur te voorkomen. Het nadeel is echter dat bij grotere waterdieptes meer staal nodig is, wat de kostprijs aanzienlijk kan doen stijgen. En hoewel de benodigde constructietijd korter is dan bij de betonnen variant, is ze toch nog steeds vrij lang.
+
+De betonnen gravitaire fundering ("Gravity Based Foundation" – GBF) is vandaag toegepast bij zowat 25% van de in Europese zeeën geplaatste turbines. Het systeem is wat op zijn retour o.a. vanwege de lange bouwtijd en de transport- en installatieproblemen eigen aan deze zware constructies.
+
+De stalen variant van de gravitaire fundering bestaat uit een holle, op te vullen buis en een soort "doos" die de constructie moet wapenen tegen omkantelen. Transport en plaatsing kan een stuk vlotter dan bij de betonnen GBF, maar zeker bij grote waterdieptes blijft de hoge staalprijs een groot nadeel.
+
+Bij een variante op de betonnen gravitaire fundering gebruikt men spankabels, waardoor het gewicht van de fundering kan teruggebracht worden.
+
+
+De tripod
+
+Een tripod kan het best vergeleken worden met het driepotige statief van een fotocamera. De centrale koker vormt de basis voor de turbine. Door deze opbouw heeft de tripod, in vergelijking met de monopile, zowel een grotere sterkte als een grotere stijfheid. De bredere basis werkt tevens het kantelen van de constructie tegen. De tripod wordt in de zeebodem verankerd door middel van palen of met behulp van zogenaamde 'suction buckets' (letterlijk: "zuigemmers"). Bij dit laatste systeem wordt de tripod als het ware met zuignappen vastgezogen in de zeebodem. De 'suction bucket' is een stalen, cilindervormige doos die omgekeerd op de zeebodem wordt geplaatst en aan de bovenzijde is afgesloten. Door binnenin een zuigkracht op te wekken, zuigt de 'bucket' zichzelf vast in de zeebodem. Dit heeft als voordeel dat de 'suction bucket' al vóór de installatie op de zeebodem aan de rest van de structuur bevestigd kan worden. De tripod is ontworpen voor waterdieptes van 30-40 meter. Het kan ook in ondieper water maar is dan economisch minder interessant.
+Nadeel van dit type fundering is, net als bij de stalen GBF's, opnieuw de constructietijd.
+Ook van de tripod bestaan variaties. Bij de niet-gecentreerde tripod (zie p. 22) staat de windturbine niet meer centraal, maar boven één van de hoekpunten. Het ontwerp is iets zwaarder maar omdat de productie eenvoudiger verloopt, kan de totale kost gedrukt worden. Bovendien kan installatie tot op 45 m diepte. Een tweede variant op de tripod is de betonnen tripod. Bij dit ontwerp bestaat de driehoekige voet uit beton, waarin de stalen koker verwerkt wordt. Het doel van dit ontwerp is om in tijden van duur staal de prijs te drukken. Het bijhorende nadeel is dan weer het grote gewicht waardoor transport en installatie moeilijker worden.
+
+De jacket
+
+Na de monopile (65%) en de gravitaire fundering (25%), is de jacket (8%) vandaag het meest toegepaste funderingssysteem voor offshore windmolens in Europa.
+De jacket doet wel wat denken aan een hoogspanningsmast en bestaat uit een toren, die opgebouwd is uit stalen buizen en vier steunpunten telt. Door deze opbouw krijgt de toren zowel een grotere sterkte als een grotere stijfheid in vergelijking met een monopile of tripod. Net als de tripod kan ook de jacket verankerd worden met palen of met behulp van 'suction buckets'. De structuur is echter vrij ingewikkeld waardoor de ontwerp- en fabricatiekosten oplopen. Hierdoor is de jacket economisch ongunstig bij waterdieptes van minder dan 40 m. Deze funderingstructuur wordt ook reeds frequent en met succes toegepast in de olie- en gasindustrie. Bij de 'full height jacket' variant, komt de toren tot net onder de windturbine in plaats van tot juist boven het wateroppervlak. Hierdoor is geen extra paal vereist ter ondersteuning van gondel en rotor. Nadeel is dan weer dat deze constructie niet 'opdeelbaar' is en dus in zijn geheel dient getransporteerd.
+
+De tripod als funderingssysteem voor offshore windturbines kan nog het best worden vergeleken met een reuze (camera) statief, waarbij de pyloon op de plaats van de camera komt. In één van de varianten, de niet-gecentreerde tripod, komt de pyloon niet in het midden te staan, maar boven één van de hoekpunten.
+
+
+
+De jackup
+
+Bijzonder aan dit nieuw ontwikkelde funderingssysteem, de jackup (letterlijk "krik"), is dat de windturbine samen met zijn 3 of 4 poten drijvend naar de eindlocatie kan worden gesleept. Daar worden de poten naar beneden gekrikt tot ze voldoende diep in de zeebodem gedrongen zijn. Tegelijkertijd wordt het platform met de turbine op de poten omhoog gekrikt totdat het zich ruim boven het wateroppervlak bevindt, onbereikbaar voor de golven. Het grootste voordeel is dat voor de installatie geen grote pontons of kraanschepen nodig zijn.
+De jackup is immers 'zelfinstallerend'. Net als de jacket is de jackup een ontwerp afkomstig uit de olie- en gasindustrie.
+
+Drijvende structuren
+
+Aan elk funderingstype zijn nadelen verbonden. Bovendien brengen het offshore installeren, onderhouden en repareren – vaak onder slechte weersomstandigheden – heel wat moeilijkheden en extra kosten met zich mee. En op het einde van de rit, wanneer de fundering dient te worden ontmanteld, volgt een extra, vaak onderschatte kost. Om die redenen worden drijvende structuren als een mogelijk waardevol alternatief gezien. Helaas staat de ontwikkeling nog maar in zijn kinderschoenen. Het principe benadert misschien nog het best dat van een drijvende dobber of fles, met daarop in plaats van een vlag, een windturbine (zie figuur p.24).
+Om te verhinderen dat deze drijvende structuren op zee gaan rondzwalpen onder invloed van stromingen, wind en golven, worden ze met kabels in de zeebodem verankerd. Groot voordeel is dat ze geplaatst kunnen worden in grote waterdieptes.
+
+De jacket als funderingssysteem voor windmolens op zee, is afgekeken uit de offshore olie- en gasindustrie. Ze is vooral interessant bij dieptes van meer dan 40 meter.
+
+Wat stuurt de keuze voor een bepaald funderingstype?
+
+
+Verschillende factoren spelen mee bij de keuze van een funderingstype. De kostprijs van de benodigde materialen is een belangrijke drijfveer, maar ook de waterdiepte, de gewenste constructie- en installatietijd en de aanwezige ondergrond spelen mee. Zandige bodems zijn een uitstekende ondergrond om op te funderen, terwijl kleigronden zeer samendrukbaar zijn en door hun geringe draagkracht al eens voor problemen kunnen zorgen. Om hieraan te verhelpen kunnen hulpmiddelen aangewend worden. Funderen op palen kan een optie zijn, ware het niet dat deze en andere technieken het uiteindelijke kostenplaatje flink doen toenemen. Ook een stabiele zandige zeebodem kan nog problemen opleveren. Boven de zandlaag kan immers een meters dikke sliblaag liggen die eerst verwijderd moet worden vooraleer een fundering kan geplaatst worden.
+Welke oplossing uiteindelijk de beste is, hangt af van heel wat factoren. Algemeen kan men echter stellen dat de monopile nog steeds een uitstekend funderingstype is op zandige bodems bij geringe waterdieptes (< 25 m). Als de waterdiepte groter wordt, of de zeebodem uit een andere ondergrond bestaat, kunnen andere funderingstypes een alternatief bieden. Bij waterdieptes van meer dan 100 m, lijken momenteel enkel drijvende structuren in aanmerking te komen (zie figuur).
+
+Overzicht van alle bestaande off- en nearshore windmolenprojecten in de Noordeuropese zeeën in september 2010. In totaal is sprake van 989 operationele offshore/nearshore turbines, goed voor een geïnstalleerd vermogen van 2,497 GW. Ter vergelijking: het vermogen van de vier kernreactoren in de kerncentrale van Doel bedraagt 2,839 GW. Kleine kanttekening: bij windmolens is het geïnstalleerde vermogen niet gelijk aan het geproduceerde vermogen. De productie van een windmolen hangt immers af van de windsnelheid, die varieert en soms nul bedraagt. In die zin spreekt men van een productiefactor. Deze productiefactor is gelijk aan de verhouding van het gemiddeld geproduceerd vermogen tot het maximaal leverbaar vermogen. Voor de windmolens op de Thorntonbank bijvoorbeeld bedraagt de productiefactor 0,38. Dit kan laag lijken, maar is nog altijd ruim het dubbele van die bij windmolens aan land
+
+
+Nogersund Zweden tripod	
+Vindeby Denemarken betonnen GBF	
+Lely Nederland monopile	
+Tunö Knob Denemarken betonnen caisson	
+Irene Vorrink Nederland monopile	
+Bockstigen Zweden monopile	
+Utgrunden Zweden monopile	
+Blyth Ver. Koninkrijk monopile	
+Middelgrunden Denemarken hybride GBF (st+b.)	
+Yttre Stengrund Zweden monopile	
+Horns Rev Denemarken monopile	
+Rönland Denemarken monopile	
+Samsö Denemarken monopile	
+Frederikshaven Denemarken monopile	
+Nysted Denemarken betonnen GBF	
+Arklow Bank Ierland monopile	
+North Hoyle Ver. Koninkrijk monopile	
+Scroby Sands Ver. Koninkrijk monopile	
+Ems Emden Duitsland onshore fundering	
+Kentish Flats Ver. Koninkrijk 2005 30 turbines monopile	
+Breitling Duitsland	
+Barrow Ver.Koninkrijk monopile	
+Egmond aan Zee Nederland monopile	
+Moray Firth Ver. Koninkrijk jacket	
+Beatrice Ver. Koninkrijk tripod / jacket	
+Burbo bank Ver. Koninkrijk monopile	
+Lillgrund Zweden betonnen GBF	
+Pr.Amaliawindpark Nederland monopile	
+Thorntonbank België GBF	
+Hooksiel Duitsland tripile	
+Lynn & Inner Dowsing Ver. Koninkrijk monopile	
+Karmoy Noorwegen drijvend	
+Robin Rigg Ver.Koninkrijk monopile	
+Alpha Ventus Duitsland tripod / jacket	
+Rhyl Flats Ver. Koninkrijk monopile	
+Store Baelt Denemarken GBF	
+Lake Vanern Zweden GBF	
+Kopenhagen Denemarken onshore fundering	
+Blyth Harbour Ver. Koninkrijk monopile	
+Hywind Noorwegen drijvend	
+Horns Rev II Denemarken monopile	
+Gunfleet Sands 1&2 Ver. Koninkrijk monopile	
+Nysted II Denemarken GBF	
+Thanet Windpark Ver. Koninkrijk monopile	
+Belwind België monopile
+
+
+Nog maar in zijn kinderschoenen maar veelbelovend is de plaatsing van windturbines op drijvende structuren. Grote voordelen zijn de vlotte ontmanteling en de mogelijkheid om de werktijd op zee aanzienlijk te verminderen en in grote waterdieptes te gaan werken.
+
+
+
+Hoe ziet de toekomst van Belgische offshore windmolen parken eruit?
+
+
+Twee windmolenparken zijn momenteel (deels) operationeel vóór de Belgische kust: het C-Power project op de Thorntonbank en het Belwind initiatief op de Bligh Bank. Beide windmolenparken zullen de komende 2-3 jaar uitgebreid worden. Tevens start dit jaar de bouw van een derde windmolenpark, dat van het Eldepasco consortium op de Bank zonder naam. Dit windmolenpark zal zich op 38 km van de kust bevinden in waterdieptes van 16-32 m. De keuze voor het type fundering is echter nog niet gemaakt. Daarnaast hebben nog drie andere consortia ('Rentel', 'Norther' en 'Seastar') een domeinconcessie op zak om een windpark te ontwikkelen in dezelfde zoekzone als de drie andere projecten (zie kaart). Hoe elk van die projecten de uitdaging zal aangaan om ver op zee, in vrij diep water, te gaan bouwen is nog onduidelijk. Zeker is wel dat ook de Belgische ontwikkelaars niet blind zullen blijven voor internationale technologische en maatschappelijke ontwikkelingen die het steeds verder op zee lijken te zoeken!
+
+Met dank aan: Ines Tavernier
+Elk van de hoger in het artikel vermelde funderingstechnieken voor offshore windmolens heeft een specifiek toepassingsgebied m.b.t. de waterdiepte. Voor ondiepe, zandige kustgebieden (<25m) blijft de monopile alsnog zeer geschikt.
+
+Overzichtskaart met geplande windmolenparken voor de Vlaamse kust (BMM).

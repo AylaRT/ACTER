@@ -1,0 +1,11 @@
+Relationships between right ventricular function, body composition, and prognosis in advanced heart failure.
+OBJECTIVES:
+This study sought to examine the relationships between right ventricular (RV) function, body composition, and prognosis in patients with advanced heart failure (HF).
+BACKGROUND:
+Previous studies investigating HF-related cachexia have not examined the impact of RV function on body composition. We hypothesized that RV dysfunction is linked to weight loss, abnormal body composition, and worsened prognosis in advanced HF.
+METHODS:
+Subjects with advanced HF (n = 408) underwent prospective assessment of body composition (skinfold thickness, dual-energy X-ray absorptiometry), comprehensive echocardiography, and blood testing. Subjects were followed up for adverse events (defined as death, transplantation, or circulatory assist device).
+RESULTS:
+Subjects with RV dysfunction (51%) had lower body mass index, lower fat mass index, and were more likely to display cachexia (19%). The extent of RV dysfunction correlated with greater antecedent weight loss and a lower fat/lean body mass ratio. Over a median follow-up of 541 days, there were 150 events (37%). Risk of event was greater in subjects with RV dysfunction (hazard ratio: 3.09 [95% confidence interval (CI): 2.18 to 4.45]) and cachexia (hazard ratio: 2.90 [95% CI: 2.00 to 4.12]) in univariate and multivariate analyses. Increased body mass index was associated with a lower event rate (HR per kg/m(2): 0.92 [95% CI: 0.88 to 0.96]), and this protection was mediated by a higher fat mass (0.91 [95% CI: 0.87 to 0.96]) but not a fat-free mass index (0.97 [95% CI: 0.92 to 1.03]).
+CONCLUSIONS:
+RV dysfunction and cardiac cachexia often coexist, have additive adverse impact, and might be mechanistically interrelated. Wasting of fat but not of lean mass was predictive of adverse outcome, suggesting that fat loss is either a surrogate of enhanced catabolism or adipose tissue is cardioprotective in the context of HF.

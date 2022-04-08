@@ -1,0 +1,11 @@
+Fully Magnetically Levitated Left Ventricular Assist System for Treating Advanced HF: A Multicenter Study.
+BACKGROUND:
+The HeartMate 3 left ventricular assist system (LVAS) is intended to provide long-term support to patients with advanced heart failure. The centrifugal flow pump is designed for enhanced hemocompatibility by incorporating a magnetically levitated rotor with wide blood-flow paths and an artificial pulse.
+OBJECTIVES:
+The aim of this single-arm, prospective, multicenter study was to evaluate the performance and safety of this LVAS.
+METHODS:
+The primary endpoint was 6-month survival compared with INTERMACS (Interagency Registry for Mechanically Assisted Circulatory Support)-derived performance goal. Patients were adults with ejection fraction ≤ 25%, cardiac index ≤ 2.2 l/min/m(2) without inotropes or were inotrope-dependent on optimal medical management, or listed for transplant.
+RESULTS:
+Fifty patients were enrolled at 10 centers. The indications for LVAS support were bridge to transplantation (54%) or destination therapy (46%). At 6 months, 88% of patients continued on support, 4% received transplants, and 8% died. Thirty-day mortality was 2% and 6-month survival 92%, which exceeded the 88% performance goal. Support with the fully magnetically levitated LVAS significantly reduced mortality risk by 66% compared with the Seattle Heart Failure Model-predicted survival of 78% (p = 0.0093). Key adverse events included reoperation for bleeding (14%), driveline infection (10%), gastrointestinal bleeding (8%), and debilitating stroke (modified Rankin Score > 3) (8%). There were no pump exchanges, pump malfunctions, pump thrombosis, or hemolysis events. New York Heart Association classification, 6-min walk test, and quality-of-life scores showed progressive and sustained improvement.
+CONCLUSIONS:
+The results show that the fully magnetically levitated centrifugal-flow chronic LVAS is safe, with high 30-day and 6-month survival rates, a favorable adverse event profile, and improved quality of life and functional status.

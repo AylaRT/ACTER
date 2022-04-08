@@ -1,0 +1,42 @@
+
+Windenergie zonder wieken
+
+
+Auteur: ir. Dhiradj Djairam, High Voltage components and Power Systems
+
+
+Wind als energiedrager 
+Windenergie is van alle tijden en eigenlijk heeft het een onmiskenbare invloed gehad op de ontwikkeling van de wereldbevolking. Sinds de tijd dat de ontdekkingsreizigers nieuwe werelddelen ontdekten met hun zeilschepen tot de periodes van het droogleggen van land, zoals bijvoorbeeld de Nederlanders gedaan hebben met de welbekende polders, is er geen aspect in de maatschappij onberoerd gelaten door een effect dat eigenlijk niets anders is dan luchtverplaatsing van hoge druk naar lage druk.
+
+
+Tegenwoordig wordt windenergie voornamelijk gebruikt om elektrische energie op te wekken en de meesten zullen bekend zijn met de conventionele windturbines die door het hele land geplaatst zijn. Deze windturbines wekken energie op doordat de rotorbladen de windenergie omzetten in een draaiende beweging. Deze draaiende beweging wordt door een generator weer omgezet in elektrische energie. In Nederland wordt 1581 MW geleverd door de gezamenlijke windturbines, iets minder dan een procent van de totale energiebehoefte. Het kabinet wil dit vergroten tot 6000 MW in 2020.
+
+De voordelen van windenergie spreken eigenlijk voor zich. Het is schoon, er hoeft geen brandstof voor verbruikt te worden, de wind wordt altijd weer aangevuld met "nieuwe" wind en de wind zelf is gratis. Er kleven echter ook nadelen aan de huidige vorm van energiewinning uit de wind. Een van de belangrijkste nadelen is het feit dat de kosten voor de aanleg en onderhoud relatief hoog zijn en daarom zijn hier in Nederland nog steeds subsidiemaatregelen nodig om windenergie te stimuleren. Verder zijn er andere nadelen als horizonvervuiling, geluidsoverlast, de aanwezigheid van slagschaduw en het schadelijke effect op de vogelmigratie.
+
+De hoge kosten worden voor een groot deel veroorzaakt door het feit dat er veel onderhoud gepleegd moet worden aan de windturbines vanwege slijtage. Deze slijtage ontstaat weer door de draaiende beweging van de rotor. Als deze draaiende beweging uit het conversieproces weggenomen zou kunnen worden, dan is er belangrijke bron van slijtage en dus een belangrijke bron van onderhoudskosten geëlimineerd.
+
+EWICON
+
+Met deze gedachte in het achterhoofd is in de afgelopen 3 jaar de elektrostatisch windenergie converter, EWICON in het kort, ontwikkeld. Het principe berust op het feit dat de beweging van positief geladen deeltjes tegen de richting van een elektrisch veld een verhoging van de elektrostatische energie van het deeltje met zich meebrengt, zie Figuur 1. In het geval van de EWICON worden er geladen deeltjes gecreëerd die losgelaten worden in een elektrisch veld. De wind zal deze deeltjes transporteren tegen de richting van het aangelegde elektrische veld, waardoor de elektrostatische energie zal stijgen. Uiteindelijk zullen deze deeltjes weer opgevangen worden door een 'collector ', die opgeladen zal worden. Hier kan dan een elektrische belasting op aangesloten worden. Met deze methode is de tussenstap met een draaiende rotor overbodig geworden. Verder heeft de EWICON ook andere voordelen: Conventionele windturbines zijn zeer lawaaiig, vergelijkbaar met het geluidsniveau van voorbijgaand verkeer op een snelweg. Omdat er geen bewegende onderdelen zijn, zal de EWICON relatief geluidloos zijn werk kunnen doen. Conventionele windturbines zijn vanwege de draaiende beweging gebonden aan een circulair windoppervlak. Een groter vermogen kan dus alleen verkregen worden door een toename van de rotordiameter. Een EWICON zou in principe in slechts één van de twee dimensies verlengd hoeven te worden. Hierdoor is het denkbaar dat een EWICON als een lange extra verdieping op een flatgebouw kan worden geplaatst.
+
+geladen deeltjes en keuze van medium
+
+Een belangrijke vraag is natuurlijk wat er precies gebruikt wordt als geladen deeltje. In theorie kan elk object, dat elektrische lading kan vasthouden én vatbaar voor de wind is, gebruikt worden als ladingdrager in de EWICON. Sterker nog, er zijn zelfs experimenten uitgevoerd waarbij tafeltennisballetjes dienst deden als de geladen deeltjes. Het nadeel was echter dat zo'n tafeltennisbal relatief weinig lading kan vasthouden en dat er dus flinke aantallen nodig zijn om een significant effect te bewerkstelligen. Er is dus een methode nodig, die op een energie-efficiënte manier veel deeltjes kan produceren met een hoge lading.
+
+Figuur 2. Een opname van het sproeiproces met EHDA. De lichtere strepen in het midden stellen de grotere druppels voor, terwijl de mist er omheen de kleinere druppels voorstellen.
+
+Eén techniek die hier erg geschikt voor blijkt, is een elektrische sproeimethode, electrohydrodynamic atomisation (EHDA, ook wel bekend als electrospray), waarbij een vloeistof onder de invloed van een sterk elektrisch veld wordt opgebroken tot kleine geladen druppeltjes (diameter ~ 1µm), zie Figuur 2. Dit elektrische veld wordt aangelegd door verschillende elektroden op hoogspanning te zetten, variërend van 2 kV tot 14 kV. Het blijkt dat met EHDA er relatief weinig energie en vloeistof nodig zijn om het creëren van geladen druppels efficiënt te laten verlopen. In theorie kan elke vloeistof gebruikt worden als sproeimedium, maar aangezien de EWICON een duurzame en dus voor velen ook milieuverantwoordelijke rol gaat spelen, ligt het voor de hand om water te kiezen.
+
+Er ontstaat echter een probleem bij het gebruik van water als sproeivloeistof voor EHDA. Dit heeft te maken met de oppervlaktespanning, die bij water veel hoger ligt dan bij andere gangbare vloeistoffen. Waar dit op neerkomt, is dat water zich veel moeilijker laat opbreken in kleine geladen druppels. Dit heeft als gevolg dat het elektrische veld significant hoger moet zijn om te sproeien met EHDA. Hiervoor moesten de elektroden op hogere spanningen gezet worden en dat bracht zodanige complicaties met zich mee dat effectief sproeien met water nagenoeg onmogelijk was. Om toch te kunnen werken en onderzoeken aan een EWICON systeem, werd er besloten om tijdelijk als sproeimedium een mengsel van 70% water en 30% ethanol te gebruiken. Ethanol is namelijk met een lagere oppervlaktespanning van 2.0•10-2 Nm-1 veel geschikter voor EHDA dan water met 7.2•10-2 Nm-1.
+
+Resultaten
+
+Dit mengsel is met succes gebruikt in een implementatie van het EWICON systeem, waarbij er uiteindelijk een positief rendement behaald is. Hierbij is er gemeten met verschillende windsnelheden variërend van 4 m/s tot 14 m/s, waarbij is gebleken dat het uitgangvermogen van de EWICON dan ook toeneemt en dat de EWICON dus met succes gebruik maakt van de toename in windvermogen.
+
+In absolute waarde zijn de vermogens nog in de orde van milliwatts, maar het is belangrijk om te realiseren dat er gewerkt wordt met windoppervlaktes van enkele tientallen cm2. Hier is dus ook maar voor enkele tientallen aan milliwatts aan windvermogen in opgeslagen.
+
+Toekomst
+
+Uiteindelijk moeten er twee belangrijke punten gerealiseerd worden om de EWICON een haalbaar alternatief voor de conventionele windturbine te laten zijn: de EWICON zal geschikt gemaakt moeten worden voor het gebruik van water. In de laatste paar maanden is hier flinke vooruitgang in geboekt en momenteel is er een systeem ontworpen dat gedemineraliseerd water redelijk effectief kan versproeien. Hierdoor is het mogelijk dat het rendement nu licht positief is, waar het eerst zeer negatief was. Verdere optimalisatie van het nieuwe systeem door middel van simulaties en experimenten moet ervoor gaan zorgen dat EHDA met water vergelijkbare resultaten geeft als EHDA met water/ethanol. De EWICON zal uiteindelijk opgeschaald moeten kunnen worden naar windoppervlaktes vergelijkbaar met conventionele turbines, welke nu al varieren van 50 tot 10.000 m2. Als eerste aanzet zal er gewerkt worden aan een prototype met een oppervlakte van enkele vierkante meters.
+
+Het onderzoek naar de EWICON heeft in ieder geval laten zien dat het een interessant alternatief kan zijn naast de conventionele draaiende windturbine. En misschien zal over een niet al te lange tijd het straatbeeld wel lijken op onderstaande impressie.

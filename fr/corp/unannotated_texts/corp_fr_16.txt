@@ -1,0 +1,415 @@
+EXPOSÉ DES MOTIFS
+
+1. CONTEXTE DE LA PROPOSITION
+
+1.1 Contexte général
+
+La fraude et autres activités illégales portant atteinte aux intérêts financiers de l'Union constituent un grave problème préjudiciable au budget de l'Union et, de ce fait, au contribuable. L'objectif du budget de l'Union, qui est d'améliorer les conditions de vie et de stimuler la croissance et l'emploi, est mis en péril si les fonds sont détournés, surtout en période de responsabilisation et d'assainissement budgétaires et de réformes structurelles en faveur de la croissance. D'après le rapport 2010 de la Commission sur la protection des intérêts financiers de l'Union, les cas de fraude présumée représentent chaque année quelque 600 millions d'EUR, tant en recettes qu'en dépenses, malgré le cadre juridique en vigueur. Il est à supposer que le montant réel est encore plus élevé puisque tous les cas ne sont pas détectés et signalés.
+
+L'Union se doit de protéger l'argent du contribuable de la manière la plus efficace possible, en exploitant toutes les possibilités offertes par le traité sur l'Union européenne. Le préjudice subi par le budget de l'UE nécessite des mesures visant à garantir une protection effective et équivalente des intérêts financiers de l'Union, y compris, si nécessaire, des mesures de droit pénal. Malgré le développement de l'acquis de l'UE dans ce domaine, qui inclut la fraude, la corruption et le blanchiment de capitaux, les États membres ont adopté des règles divergentes, entraînant souvent des écarts dans les niveaux de protection prévus par leurs régimes juridiques internes. Cette situation montre qu'il n'existe pas de niveau de protection équivalente des intérêts financiers de l'Union et que les mesures prises contre la fraude n'ont pas atteint le degré de dissuasion requis.
+
+Par exemple, en ce qui concerne la fraude, les États membres ont intégré des définitions de cette infraction dans de nombreuses formes différentes de législation, qui vont du droit pénal général, où peuvent figurer des infractions spécifiques ou génériques, au code pénal fiscal. Des divergences similaires peuvent s'observer en ce qui concerne les niveaux de sanctions applicables à ces formes de criminalité dans les différents États membres:
+
+EM: Sanctions
+
+AT: Peine d'emprisonnement maximale de 6 mois (art. 146 StGB), 3 ans (art. 147, par. 1 et 2, StGB) ou 10 ans (art. 147, par. 3, et art. 148 StGB); peine d'emprisonnement maximale de 3 ou 5 ans et amende pouvant atteindre le double du montant éludé (art. 7 AEG).
+
+BE: Peine d'emprisonnement comprise entre 1 mois et 5 ans (art. 450 du code des impôts sur les revenus), peine d'emprisonnement comprise entre 2 mois et 3 ans (art. 451 du code des impôts sur les revenus) et amendes (art. 259, 260 et 261 de la loi générale sur les douanes et accises).
+
+BG: Peines d'emprisonnement de 1 à 8 ans (art. 209 et 210 du code pénal), de 3 à 10 ans (art. 211 du code pénal), de 2 à 8 ans (art. 212 du code pénal) et de 3 à 10 ans (art. 212, par. 3, du code pénal).
+
+CY: Peine d'emprisonnement de 5 ans (art. 300 du code pénal), peine d'emprisonnement maximale de 3 ans et/ou amende ne dépassant 5 125,80 EUR.
+
+CZ: Peine d'emprisonnement maximale de 2 ans (art. 209 - 212 du code pénal).
+
+DK: Peine d'emprisonnement ne dépassant pas 1 an et 6 mois (art. 279 et 289A du code pénal) ou 8 ans en cas d'infraction grave.
+
+EE: Amende ou peine d'emprisonnement maximale de 3 ans (art. 209 du code pénal) ou 5 ans (art. 210 du code pénal).
+
+FI: Amende ou peines d'emprisonnement de 14 jours à 2 ans (chap. 36, art. 1er, chap. 29, art. 1er, et chap. 29, art. 5, du code pénal) et de 4 mois à 4 ans en cas d'infraction grave.
+
+FR: Peine d'emprisonnement maximale de 5 ans et amende de 375 000 EUR (art. 313-1 à 313-3 du code pénal) et peine d'emprisonnement maximale de 7 ans et amende de 750 000 EUR en cas d'infraction grave.
+
+DE: Peine d'emprisonnement maximale de cinq ans ou amende (art. 263 du code pénal).
+
+EL: Peines d'emprisonnement de 10 jours à 5 ans, de 3 mois à 5 ans (art. 386, par. 1, du code pénal) et de 2 à 5 ans en cas d'infraction grave.
+
+HU: Peine d'emprisonnement maximale de 2 ans (art. 318 du code pénal) ou 5 ans (art. 314 du code pénal).
+
+IR: Peine d'emprisonnement ne dépassant pas 5 ans (art. 42 de la loi de 2001).
+
+IT: Peine d'emprisonnement de six mois à trois ans et amende comprise entre 51 et 1 032 EUR (art. 640, par. 1, du code pénal), peine d'emprisonnement de 1 à 6 ans (art. 640 bis du code pénal).
+
+LV: Peine d'emprisonnement maximale de trois ans, arrestation, travail d'intérêt général ou amende n'excédant pas soixante fois le salaire minimal mensuel (17 074,20 EUR) (art. 177 de la loi pénale).
+
+LT: Travail d'intérêt général ou amende, peine restrictive de liberté, arrestation ou peine d'emprisonnement maximale de 3 ans (art. 182 du code pénal) ou 8 ans (en cas d'infraction grave).
+
+LU: Peine d'emprisonnement comprise entre 1 mois et 1 an ou amende de 500 à 30 000 EUR (art. 490 du code pénal), peine d'emprisonnement comprise entre 1 mois et 1 an ou amende de 500 à 10 000 EUR (art. 498 du code pénal).
+
+MT: Peine d'emprisonnement de 4 mois à 1 an (art. 298, par. 1, du code pénal), peine d'emprisonnement maximale de 18 mois et paiement d'une amende de 2 329,37 à 34 940,60 EUR (art. 298 du code pénal), peine d'emprisonnement de 7 mois à 2 ans (art. 308 du code pénal), peine d'emprisonnement de 1 à 6 mois ou amende (art. 309 du code pénal).
+
+NL: Peine d'emprisonnement maximale de 1 an (art. 328 du code pénal), 2 ans (art. 334 du code pénal), 3 ans (art. 360 du code pénal), 4 ans (art. 227 et 326 du code pénal) ou 6 ans (art. 225, 336 et 359 du code pénal) ou amendes d'un montant maximal de 76 000 EUR.
+
+PL: Peine d'emprisonnement d'une durée comprise entre 3 mois et 5 ans (art. 297 du code pénal).
+
+PT: Peine d'emprisonnement maximale de 3 ans ou amende (art. 217 du code pénal).
+
+RO: Peine d'emprisonnement comprise entre 6 mois et 12 ans (art. 215 du code pénal) (cas de base).
+
+SI: Peine d'emprisonnement minimale de trois mois et maximale de 3 ans (art. 229 KZ-1), peine d'emprisonnement maximale de trois ans (art. 211 KZ-1), peine d'emprisonnement maximale de cinq ans (art. 228 KZ-1), amende ou peine d'emprisonnement maximale de trois ans (art. 231 KZ-1).
+
+SK: Peine d'emprisonnement maximale de 2 ans (art. 221 du code pénal), peine d'emprisonnement de 1 à 5 ans (art. 222-225).
+
+ES: Peine d'emprisonnement allant de 6 mois à 3 ans (art. 252 du code pénal).
+
+SE: Peine d'emprisonnement maximale de 2 ans (chap. 9, art. 1er, du code pénal).
+
+UK: Condamnation sommaire: peine d'emprisonnement maximale de douze mois et/ou amende (art. 1er de la loi de 2006 sur la fraude); déclaration de culpabilité par voie d'acte d'accusation: peine d'emprisonnement maximale de dix ans et/ou amende.
+
+De telles divergences ont une incidence négative sur l'efficacité des politiques de l'Union visant à protéger ses intérêts financiers, comme le montre l'analyse d'impact qui accompagne la présente proposition. Le fait de définir des infractions communes à tous les États membres réduirait les risques de pratiques divergentes, car cela permettrait de garantir une interprétation uniforme et de répondre de façon homogène aux exigences en matière de poursuites. On renforcerait en outre l'effet dissuasif et le potentiel répressif des dispositions en la matière, tout en décourageant les contrevenants en puissance d'exercer leurs activités illicites intentionnelles dans des juridictions plus clémentes au sein de l'Union.
+
+De même, disposer d'une protection équivalente des intérêts financiers est important pour la crédibilité des institutions, organes et organismes de l'Union et pour la légitimité de l'exécution budgétaire. Par conséquent, la présente proposition ne doit pas seulement couvrir la fraude au sens strict du terme, mais aussi d'autres formes d'agissements illégaux liées à la fraude qui peuvent nuire au budget de l'UE, notamment la corruption, le blanchiment de capitaux et l'entrave aux procédures de passation de marchés publics. L'élément déterminant est l'existence d'un profit réalisé au détriment du budget de l'UE et donc aux dépens des contribuables.
+
+La présente proposition de nouvel instrument juridique est en outre justifiée par la nécessité d'adopter des mesures concrètes pour mettre en œuvre l'approche stratégique globale de la Commission en matière de lutte antifraude. C'est pourquoi la Commission propose la présente directive.
+
+1.2 Contexte juridique
+
+Les premiers éléments de la protection pénale des intérêts financiers de l'Union ont été introduits en 1995 par la convention relative à la protection des intérêts financiers des Communautés européennes et par les protocoles qui l'ont accompagnée (textes désignés ci-après sous le terme global «convention PIF»). Ladite convention PIF a ensuite été ratifiée par la quasi-totalité des États membres, pour lesquels elle est entrée en vigueur. Parmi les mesures générales de droit pénal qui s'y rapportent figure la décision-cadre 2005/212/JAI du Conseil du 24 février 2005 relative à la confiscation des produits, des instruments et des biens en rapport avec le crime, que la Commission a proposé de remplacer par une directive concernant le gel et la confiscation des produits du crime dans l'Union européenne pour les États membres participants.
+
+Ce cadre a été complété par des mesures générales de droit pénal de l'Union visant à lutter contre certaines activités illicites particulièrement préjudiciables à l'économie légale, telles que le blanchiment de capitaux et la corruption, qui, même si elles ne portent pas spécifiquement sur la protection des intérêts financiers de l'Union, contribuent également à leur sauvegarde.
+
+En mai 2011, la Commission a diffusé une communication sur la protection des intérêts financiers de l'Union par le droit pénal et les enquêtes administratives, qui était accompagnée d'un document de travail des services de la Commission. Ces documents font état d'une multiplicité de dispositions portant sur des définitions d'infractions et des sanctions pénales, qui se sont développées dans toute de l'Union européenne en vertu de l'actuel cadre juridique. Ils indiquent aussi que la Commission envisage le droit pénal comme un des éléments permettant de remédier à cette situation.
+
+La communication «Vers une politique de l'UE en matière pénale», de septembre 2011, propose un cadre général pour accueillir la teneur et la structure du droit pénal de l'UE, ainsi que des principes généraux pour la législation pénale de l'Union, à savoir la nécessité pour le droit pénal de l'UE de ne pas aller au-delà de ce qui est nécessaire et proportionné au regard de ses objectifs.
+
+Un corpus de droit administratif voué à la lutte contre les activités illégales aux dépens des intérêts financiers de l'Union a été progressivement mis en place. Le règlement (CE, Euratom) n° 2988/95 fixe des règles administratives visant à contrecarrer les activités illégales portant atteinte aux intérêts financiers de l'Union, s'accompagnant de réglementations administratives sectorielles. Outre les instruments horizontaux susmentionnés se rapportant spécifiquement à la protection des intérêts financiers de l'Union, il existe un certain nombre d'instruments de droit administratif de l'UE qui contiennent des dispositions applicables aux activités illégales portant atteinte aux fonds publics de l'Union.
+
+2. RÉSULTATS DES CONSULTATIONS DES PARTIES INTÉRESSÉES ET DE L'ANALYSE D'IMPACT
+
+2.1 Consultation des parties intéressées
+
+La Commission a consulté à plusieurs reprises les parties prenantes, notamment des universitaires spécialistes du droit pénal, le 25 octobre 2011, et des fonctionnaires des États membres, lors d'une réunion qui s'est tenue à cet effet le 6 décembre 2011 avec la participation de représentants de la commission des libertés civiles, de la justice et des affaires intérieures du Parlement européen. Les points de vue des ministères publics des États membres ont été recueillis au moyen de questionnaires, de même qu'à l'occasion du «Forum of the Prosecutors-General» organisé par Eurojust à La Haye le 23 juin 2011, et une nouvelle fois le 16 décembre 2011. Par ailleurs, la Commission a rencontré des représentants de l'Association des contribuables d'Europe lors d'une réunion d'experts qui s'est tenue le 25 janvier 2012.
+
+Les experts ont mis l'accent sur de graves déficiences dans le cadre juridique régissant la protection des intérêts financiers de l'Union, notamment en ce qui concerne les délais de prescription en matière de poursuites. Les universitaires ont souligné l'importance du principe aux termes duquel on ne devrait appliquer le droit pénal qu'en dernier recours, en prêtant dûment attention aux principes de subsidiarité et de proportionnalité. Comme le droit pénal constitue un mécanisme de contrôle social très sévère, qui touche profondément aux libertés civiles fondamentales, il faut l'utiliser comme une mesure de dernier recours et l'appliquer de manière à protéger les intérêts fondamentaux dans le respect des libertés civiles et dans l'intérêt des citoyens. Les experts des États membres ont globalement soutenu l'objectif poursuivi par la Commission, qui est de préserver l'argent du contribuable et les intérêts fondamentaux méritant une protection équivalente dans l'ensemble de l'Union européenne. Les praticiens, quant à eux, étaient pour la plupart sensibles à l'importance que représente une législation pénale claire, procurant un cadre homogène, qui devrait être complétée par des mesures procédurales visant à remédier aux déficiences qu'ils avaient recensées dans ce contexte. Ce dernier aspect est pris en compte dans le programme de travail de la Commission, qui prévoit une initiative distincte sur les mesures procédurales pour la protection des intérêts financiers de l'Union en 2013. L'Association des contribuables d'Europe a indiqué qu'elle soutenait fermement la Commission dans son intention de mieux préserver les intérêts financiers de l'Union contre tout usage irrégulier, ainsi que dans son approche visant à définir un cadre pénal global, qui soit dissuasif, en faveur de la protection des intérêts financiers de l'Union.
+
+2.2 Analyse d'impact
+
+La Commission a analysé l'impact de plusieurs options stratégiques, sur la base des résultats d'une étude extérieure, achevée en février 2012. Après avoir passé en revue les options envisageables, l'analyse d'impact conclut qu'il convient de privilégier une solution qui, en particulier, développerait certains types d'infractions liées à la fraude, instaurerait des sanctions minimales et harmoniserait les délais de prescription.
+
+3. ÉLÉMENTS JURIDIQUES DE LA PROPOSITION
+
+3.1 Base juridique
+
+La proposition repose sur l'article 325, paragraphe 4, du traité sur le fonctionnement de l'Union européenne (TFUE).
+
+L'article 325 définit la compétence qu'a l'UE de prendre les mesures nécessaires, «qui sont dissuasives», dans les domaines de la prévention de la fraude et de toute autre activité illégale portant atteinte aux intérêts financiers de l'Union et de la lutte contre celles-ci. Son paragraphe 4 détermine la procédure législative permettant d'arrêter les mesures nécessaires en vue d'offrir une protection effective et équivalente. Cette disposition prévoit en outre une base juridique pour légiférer sur la fraude et toute autre activité illégale portant atteinte aux intérêts financiers de l'Union dans les domaines de la prévention de la fraude et de la lutte contre celle-ci. Dans ce contexte, le terme de fraude doit s'entendre au sens large, comprenant aussi certaines infractions pénales liées à la fraude.
+
+La lutte contre les activités illégales portant atteinte aux intérêts financiers de l'Union est un domaine d'action très particulier étant donné que la disposition figure dans un chapitre spécial du traité consacré à «La lutte contre la fraude» au sein du titre «Dispositions financières». De même, le terme «dissuasif» ne figure nulle part ailleurs dans le traité. Il en découle que, dans ce domaine particulier, l'Union dispose d'un large éventail d'outils. Cette particularité est encore accentuée par l'article 310, paragraphe 6, du TFUE, qui, dès le premier article du titre «Dispositions financières», souligne la nécessité de lutter («combattent») contre les activités illégales portant atteinte aux intérêts financiers de l'Union.
+
+L'article 325 vise à défendre l'intérêt unique qui est l'objet de cette priorité politique, à savoir les fonds publics de l'Union, qu'il s'agisse de recettes ou de dépenses.
+
+La protection des fonds publics de l'UE constitue un intérêt solidaire au niveau de l'Union, qui est différent de la somme des intérêts financiers nationaux des États membres. Pour ces raisons, le traité confère à l'Union des compétences fortes lui permettant d'arrêter des «mesures» «qui sont dissuasives» et «offrent une protection effective» (article 325, paragraphe 1) et «équivalente» (article 325, paragraphe 4). Cette protection à caractère dissuasif, effectif et équivalent comporte, par nature et du point de vue historique (voir convention PIF de 1995), une dimension pénale. Celle-ci est nécessaire pour l'effet dissuasif qu'elle crée: on peut ainsi supposer que, devant la menace que représentent les sanctions pénales et les répercussions qu'elles auraient sur leur réputation, les contrevenants potentiels seraient en premier lieu fortement incités à renoncer à commettre l'acte illégal. En conséquence, l'article 325 confère le pouvoir d'arrêter des dispositions de droit pénal dans le cadre de la protection des intérêts financiers de l'Union contre toutes formes d'atteintes illicites, ce qui n'était pas le cas avec la disposition correspondante de l'article 280, paragraphe 4, du traité CE.
+
+Si le traité lui-même ne donne pas de définition des intérêts financiers de l'Union, ce terme, qui renvoie à une notion plus vaste que le «budget», lequel est mentionné ailleurs dans le traité (par exemple à l'article 310, paragraphe 1, deuxième alinéa), désigne tous les fonds gérés par l'Union européenne ou pour le compte de celle-ci.
+
+La présente proposition remplace la proposition de directive relative à la protection pénale des intérêts financiers de la Communauté.
+
+3.2 Subsidiarité, proportionnalité et respect des droits fondamentaux
+
+Une action de l'Union est jugée nécessaire sur la base des facteurs indiqués ci-dessous.
+
+Les intérêts financiers de l'Union se rapportent aux actifs et aux engagements gérés par l'Union ou pour son compte, de sorte que, par nature, ils sont placés d'entrée de jeu au niveau de l'Union et donc bien plus «au cœur de l'Union» qu'un secteur dont les règles font l'objet d'une harmonisation dans les États membres. Ils sont davantage comparables, tant sur la forme que sur le fond, à des règles sur l'autoprotection des institutions, organes et organismes de l'Union, notamment en termes de sécurité physique ou informatique. En conséquence, les intérêts financiers de l'Union ne peuvent être raisonnablement pris en charge par les seuls États membres. Dans la même logique, dans son article 310, paragraphe 6, et son article 325, paragraphes 1 et 4, le TFUE lui-même part de la nécessité d'une action législative de l'Union pour définir des mesures dissuasives et équivalentes visant à protéger les intérêts financiers de l'Union contre les activités illégales. Par ailleurs, en vertu de l'article 48 du règlement (CE, Euratom) n° 1605/2002 du Conseil, la Commission européenne est pleinement responsable de l'exécution, en recettes et en dépenses, du budget de l'Union.
+
+L'Union est la mieux placée pour protéger ses intérêts financiers, compte tenu de ses règles spécifiques applicables dans ce domaine, notamment les règles budgétaires du règlement financier, les règles générales sur la protection des intérêts financiers par le droit administratif et les règles sectorielles relatives à la protection des intérêts financiers dans les différents domaines politiques susceptibles d'être touchés. À cela peuvent s'ajouter des dispositions de droit pénal pour la protection des intérêts financiers de l'Union dans la mesure où elles feraient l'objet d'un rapprochement. Il convient de prêter une attention particulière au principe général de subsidiarité pour la législation de l'UE en ce qui concerne le droit pénal. Ainsi, l'UE ne peut légiférer que si l'objectif ne peut pas être atteint plus efficacement par des mesures prises au niveau national, régional ou local, et si, en raison de l'échelle ou des effets de la mesure proposée, cet objectif peut être mieux réalisé au niveau de l'Union. Seule l'Union est en mesure d'élaborer une législation contraignante, visant le rapprochement des dispositions nationales, qui soit applicable dans l'ensemble des États membres, et de créer un cadre juridique pouvant contribuer à combler les lacunes actuelles, notamment l'absence d'équivalence, qui est contraire aux objectifs du traité énoncés à l'article 325, paragraphe 4, du TFUE.
+
+La présente proposition a des effets sur les droits et principes suivants de la Charte des droits fondamentaux de l'Union européenne: le droit à la liberté et le respect de la vie familiale (en cas de condamnation de l'auteur d'une infraction à une peine d'emprisonnement), la liberté professionnelle et la liberté d'entreprise (en cas d'interdiction d'exercer imposée à la personne condamnée), le droit de propriété (en cas de condamnation à fermer l'entreprise à l'origine des infractions, d'amendes pénales à la suite d'une condamnation et de confiscation), la légalité et la proportionnalité des délits (du fait de nouvelles définitions d'infractions) et le droit à ne pas être jugé deux fois pour une même infraction (en raison de l'interaction avec les régimes de sanctions administratives). Ces interférences sont justifiées parce qu'elles visent à répondre à des objectifs d'intérêt général reconnus par l'Union (voir article 52, paragraphe 1, de la Charte) et, en particulier, à fournir des mesures effectives et dissuasives pour la protection des intérêts financiers de l'UE. Compte tenu de l'absence d'améliorations en ce qui concerne les niveaux des fraudes et irrégularités et de l'inefficacité des mesures actuellement en vigueur en vertu de la convention PIF, il est nécessaire d'adopter des mesures de droit pénal pour prévenir et combattre la fraude et les agissements illégaux qui s'y rapportent. On a soigneusement veillé à ce que ces mesures n'excèdent pas ce qui est nécessaire pour atteindre cet objectif et à ce qu'elles soient proportionnées.
+
+3.3 Choix des instruments
+
+Pour définir des dispositions pénales harmonisées dans le domaine de la protection des intérêts financiers de l'UE, tout en laissant aux États membres un certain degré de souplesse quant aux moyens d'imposer des dispositions plus strictes, l'instrument adéquat est une directive.
+
+3.4 Dispositions particulières
+
+Article 1: Objet – cette disposition définit l'objet et le champ d'application de la présente proposition, tout en précisant qu'elle s'applique uniquement à la protection des intérêts financiers de l'Union.
+
+Article 2: Définition des intérêts financiers de l'Union – cette disposition procure une définition des intérêts financiers de l'Union qui s'applique à l'ensemble de l'acte. La Cour de justice de l'Union européenne a confirmé l'existence d'un lien direct entre, d'une part, la perception des recettes de la taxe sur la valeur ajoutée dans le respect du droit applicable de l'Union et, d'autre part, la mise à disposition du budget de l'Union des ressources TVA correspondantes, dès lors que toute lacune dans la perception des premières se trouve potentiellement à l'origine d'une réduction des secondes. En conséquence, la fraude en matière de TVA est à considérer comme portant atteinte aux intérêts financiers de l'UE, de sorte qu'elle relève de la présente proportion de directive.
+
+Article 3: Fraude portant atteinte aux intérêts financiers de l'Union - cette disposition définit les comportements frauduleux à ériger en infractions pénales dans les États membres.
+
+Article 4: Infractions pénales liées à la fraude qui portent atteinte aux intérêts financiers de l'Union – cette disposition concerne les activités illégales dans le contexte de la prévention de la fraude et de la lutte contre celle-ci.
+
+Cet article prévoit qu'un comportement malhonnête de la part d'un soumissionnaire dans le cadre d'un marché public doit relever du droit pénal dans les États membres. Il recouvre tout comportement similaire à une fraude, à travers laquelle des informations vraies, quoique fondées sur des renseignements obtenus indûment d'une autorité publique, sont communiquées à un organisme soumissionnaire dans le cadre d'une procédure d'attribution. Même si une telle disposition existe déjà dans plusieurs États membres, le niveau des sanctions varie fortement de l'un à l'autre (par exemple, dans l'un d'entre eux, la peine d'emprisonnement est fixée à une journée tandis que, dans un autre, elle est d'une durée minimale de trois ans). Selon les estimations, le manque d'efficacité de la législation en la matière entraîne une perte annuelle de 40 millions d'EUR pour le budget de l'Union. La manipulation des appels d'offres entre soumissionnaires, qui fait déjà l'objet de mesures répressives et de sanctions au niveau de l'Union et des États membres, restera en dehors du champ d'application de la directive.
+
+En outre, s'inspirant largement de la convention PIF et de ses protocoles, l'article 4 définit la notion de corruption, qui doit elle aussi être érigée en infraction pénale dans les États membres. Il ressort des législations nationales mettant en œuvre la convention de 1995 relative à la protection des intérêts financiers des Communautés européennes et ses protocoles, ainsi que de la jurisprudence en la matière, que les définitions de la corruption passive et de la corruption active figurant dans cette convention doivent être étoffées. Contrairement à ce que prescrit la convention PIF, il ne sera pas nécessaire que le comportement soit «contraire aux devoirs officiels» pour relever de cette disposition. Une disposition spécifique est nécessaire étant donné que la corruption constitue un problème particulièrement grave dans le domaine des intérêts financiers de l'Union. L'article 4 donne en outre une définition du détournement qui, bien que ne constituant pas une fraude au sens strict, recouvre le comportement d'un agent public qui détourne des fonds ou des biens de leur destination prévue, dans l'intention de porter atteinte aux intérêts financiers de l'Union européenne. Il est également fait référence à la législation sur le blanchiment de capitaux, notamment le blanchiment du produit des infractions criminalisées pour la directive, de sorte que ce type de blanchiment de capitaux sera érigé en infraction pénale dans les États membres. On garantira ainsi l'application d'un même régime de sanctions à l'ensemble des infractions pénales qui nuisent aux intérêts financiers de l'Union.
+
+Cet article définit la notion d'agent public, qui inclut non seulement les personnes investies d'un mandat législatif, administratif ou judiciaire ou exerçant une fonction de service public pour l'Union ou dans un État membre, mais aussi celles qui exercent une telle fonction dans un pays tiers. Ainsi, les intérêts financiers de l'Union nécessitent également une protection en cas de corruption active ou passive, ou de détournement de fonds, vis-à-vis des personnes qui, dans les pays tiers, gèrent des fonds de l'Union.
+
+Article 5: Incitation, complicité et tentative - cette disposition, applicable aux infractions susmentionnées, fait obligation aux États membres d'incriminer aussi des formes de préparation de ces infractions et de participation à celles-ci. Pour la majorité des infractions, la responsabilité pénale pour tentative est exclue, cet élément étant déjà couvert par les définitions élémentaires des infractions en question.
+
+Article 6: Responsabilité des personnes morales - applicable à l'ensemble des infractions susmentionnées, cette disposition impose aux États membres de faire en sorte que les personnes morales puissent être tenues pour responsables de ces dernières, tout en excluant que cette responsabilité se substitue à celle des personnes physiques.
+
+Article 7: Sanctions applicables aux personnes physiques – s'appliquant à l'ensemble des infractions susmentionnées, cette disposition impose aux États membres d'infliger des sanctions effectives, proportionnées et dissuasives, conformément à la jurisprudence de la Cour de justice, et de définir un jeu minimal de sanctions pénales pour les personnes physiques. Les sanctions prévues sont proportionnées à la gravité des infractions et correspondent à celles prévues actuellement dans la majorité des États membres. L'article 7 précise en outre certains aspects de la relation entre la directive et les sanctions disciplinaires prises pour d'autres motifs.
+
+Article 8: Seuils minimaux applicables aux peines d'emprisonnement - s'appliquant à l'ensemble des infractions susmentionnées, cette disposition prévoit des durées minimales d'emprisonnement pour des infractions particulièrement graves, en fonction des seuils fixés pour chaque délit. L'instauration de niveaux minimaux permettra de garantir, dans toute l'Union, la cohérence des sanctions infligées dans les États membres pour un type d'agissements donné, de sorte que les intérêts financiers de l'Union bénéficieront d'une protection effective et équivalente dans toute l'UE. La criminalité économique – y compris la fraude – constitue un domaine dans lequel les sanctions pénales peuvent avoir un effet particulièrement dissuasif, car il est à prévoir que les contrevenants potentiels évalueront quelque peu les risques encourus avant de passer à l'acte. Par conséquent, l'instauration de sanctions minimales est jugée nécessaire pour garantir une dissuasion efficace dans toute l'Europe. La sanction minimale de six mois reste proportionnée à la gravité des infractions et permet en outre l'émission d'un mandat d'arrêt européen et l'exécution de celui-ci pour les infractions énumérées à l'article 2 de la décision-cadre relative au mandat d'arrêt européen, ce qui garantit une coopération aussi efficace que possible entre les autorités judiciaires et les services répressifs.
+
+Article 9: Types de sanctions minimales à l'encontre des personnes morales - il s'agit d'une disposition similaire à celle de l'article 7, applicable aux sanctions infligées aux personnes morales.
+
+Article 10: Gel et confiscation - applicable à l'ensemble des infractions susmentionnées, cette disposition implique l'existence de moyens de geler et de confisquer les produits et instruments de ces infractions.
+
+Article 11: Compétence – cette disposition repose sur les principes de territorialité et de personnalité. Applicable à l'ensemble des infractions susmentionnées, elle implique l'existence de fondements, en termes de compétence, permettant aux autorités judiciaires d'ouvrir des enquêtes, d'engager des poursuites et de renvoyer en jugement les affaires se rapportant aux intérêts financiers de l'Union. Étant donné que la présente directive n'autorise pas les États membres à engager des poursuites dans les cas de fraude ne relevant pas de leur compétence, les États membres et la Commission partageront avec les pays tiers concernés les éléments de preuve relatifs aux actes frauduleux commis par des non-ressortissants de l'Union en dehors du territoire de celle-ci et coopéreront afin qu'une action en justice soit menée par les autorités compétentes de ces pays.
+
+Article 12: Prescription des infractions portant atteinte aux intérêts financiers de l'Union - applicable à l'ensemble des infractions susmentionnées, cette disposition nécessite la fixation d'un délai de prescription minimal, tout en régissant le délai de prescription pour l'exécution des sanctions infligées à la suite d'une condamnation définitive.
+
+Article 13: Recouvrement – cette disposition précise que la présente directive ne porte pas préjudice à l'obligation faite aux États membres de veiller à récupérer les montants versés irrégulièrement à la suite des infractions définies dans la directive, et ce indépendamment de la disposition de l'article 12 sur la prescription pénale.
+
+Article 14: Interaction avec d'autres actes juridiques applicables de l'Union – cette disposition clarifie la question de l'interaction entre les régimes de sanctions pénales et les régimes de sanctions administratives.
+
+Article 15: Coopération entre les États membres et la Commission européenne (Office européen de lutte antifraude) – la teneur de cet article est le reflet précis de la disposition sur la coopération entre les États membres et la Commission, qui figure dans le deuxième protocole à la convention PIF. L'insertion de cette disposition est nécessaire car l'article 16 abroge la convention et ses protocoles.
+
+Article 16: Abrogation des conventions pénales relatives à la protection des intérêts financiers des Communautés européennes - cette disposition abroge la convention PIF de 1995 et ses protocoles.
+
+4. INCIDENCE BUDGÉTAIRE
+
+La présente proposition n'a aucune incidence immédiate sur le budget de l'Union. Elle vise cependant à prévenir les pertes dues à des activités illégales portant atteinte aux intérêts financiers de l'Union en renforçant l'effet de dissuasion et en améliorant l'efficacité des autorités pénales des États membres sous l'angle répressif, ainsi qu'à faciliter le recouvrement en cas de pertes avérées imputables à des activités illégales portant atteinte aux intérêts financiers de l'Union.
+
+2012/0193 (COD) Proposition de DIRECTIVE DU PARLEMENT EUROPÉEN ET DU CONSEIL relative à la lutte contre la fraude portant atteinte aux intérêts financiers de l'Union au moyen du droit pénal LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L'UNION EUROPÉENNE, vu le traité sur le fonctionnement de l'Union européenne, et notamment son article 325, paragraphe 4, vu la proposition de la Commission européenne, après transmission du projet d'acte législatif aux parlements nationaux, vu l'avis de la Cour des comptes européenne, statuant conformément à la procédure législative ordinaire, considérant ce qui suit:
+
+(1) La protection des intérêts financiers de l'Union concerne non seulement la gestion des crédits budgétaires, mais s'étend aussi à l'ensemble des mesures affectant ou mettant en péril les actifs de l'UE, ainsi que ceux des États membres lorsqu'ils sont destinés à soutenir ou stabiliser leur économie ou leurs finances publiques dans un contexte pertinent pour les politiques de l'Union.
+
+(2) Afin d'assurer une protection efficace, proportionnée et dissuasive des intérêts financiers de l'Union, le droit pénal des États membres devrait continuer à compléter la protection offerte par le droit administratif et civil contre les types les plus graves d'agissements liés à la fraude, tout en évitant les incohérences dans et entre ces secteurs du droit.
+
+(3) La protection des intérêts financiers de l'Union nécessite une définition commune de la fraude qui couvre les comportements frauduleux affectant les dépenses comme les recettes du budget de l'UE.
+
+(4) La fraude en matière de taxe sur la valeur ajoutée (TVA) réduit les recettes fiscales des États membres et, partant, les montants issus de l'application d'un taux uniforme à l'assiette TVA de ces États membres. Comme le confirme la jurisprudence de la Cour de justice, un lien direct existe entre la perception des recettes de TVA dans le respect du droit applicable de l'Union et la mise à disposition du budget de l'Union des ressources correspondantes, dès lors que toute lacune dans la perception des premières se trouve potentiellement à l'origine d'une réduction des secondes. La directive couvre par conséquent les recettes provenant de la TVA dans les États membres.
+
+(5) La prise en compte de la forte incidence qu'exerce, sur les intérêts financiers de l'UE, cette diminution illégale de la ressource propre fondée sur la TVA et l'application des seuils définis dans la présente directive doivent être interprétées conformément au principe de proportionnalité, compte tenu de la nature spécifique et de la méthodologie employée pour le calcul de cette ressource propre, et notamment du traitement différencié des États membres.
+
+(6) Les intérêts financiers de l'Union peuvent être mis à mal lorsque, dans le cadre de l'attribution d'un marché public ou de l'octroi d'une subvention, un soumissionnaire ou un demandeur présente aux autorités responsables des informations fondées sur des renseignements obtenus indûment, directement ou indirectement, auprès de l'organisme compétent, en vue de contourner ou de fausser les règles en vigueur. Un tel comportement, bien que très similaire à la fraude, ne constitue pas nécessairement un délit de fraude à part entière de la part du soumissionnaire, étant donné que l'offre remise peut être parfaitement conforme à toutes les exigences. La manipulation des appels d'offres entre soumissionnaires enfreint les règles de concurrence de l'Union et les dispositions équivalentes des législations nationales; étant soumise à des mesures répressives et des sanctions prises par les pouvoirs publics dans toute l'Union, cette pratique devrait rester en dehors du champ d'application de la présente directive.
+
+(7) La législation antiblanchiment de l'Union s'applique pleinement au blanchiment du produit des infractions pénales visées dans la présente directive. La référence à cette législation devrait garantir que le régime de sanctions mis en place par la présente directive s'applique à l'ensemble des infractions pénales affectant les intérêts financiers de l'Union.
+
+(8) La corruption constitue une menace particulièrement grave pour les intérêts financiers de l'Union qui peut, dans de nombreux cas, être également liée à un comportement frauduleux. Il est par conséquent nécessaire de prévoir une incrimination particulière de ces agissements. Il y a lieu de veiller à ce que les infractions en cause soient couvertes, indépendamment du fait que le comportement soit ou non contraire aux devoirs officiels. En ce qui concerne les délits de corruption passive et de détournement de fonds, il est nécessaire d'inclure une définition des agents publics qui couvre toutes les personnes investies d'un mandat officiel qui sont nommées, élues ou employées sur la base d'un contrat, ainsi que celles qui, sans être investies d'un mandat officiel, fournissent des prestations au nom des pouvoirs publics et d'autres organismes publics pour les citoyens ou dans l'intérêt public en général, comme les contractants participant à la gestion des fonds de l'Union.
+
+(9) Les intérêts financiers de l'Union peuvent être mis à mal par certains types de comportement d'un agent public, qui visent à détourner des fonds ou des biens de leur destination prévue, dans l'intention de porter atteinte auxdits intérêts. Par conséquent, il est nécessaire de prévoir une définition précise des infractions qui couvre de tels comportements.
+
+(10) Certaines infractions à l'encontre des intérêts financiers de l'Union sont, dans la pratique, souvent étroitement liées aux infractions relevant de l'article 83, paragraphe 1, du traité et de la législation de l'Union fondée sur cet article. Il y a dès lors lieu de veiller, dans le libellé des dispositions, à la cohérence avec cette législation.
+
+(11) Dans la mesure où les intérêts financiers de l'Union peuvent également être affectés ou menacés par des comportements imputables à des personnes morales, celles-ci devraient être responsables des infractions pénales, telles que définies dans la présente directive, qui sont commises pour leur compte.
+
+(12) Afin de protéger les intérêts financiers de l'Union par des mesures équivalentes qui sont dissuasives dans l'ensemble de l'Union, les États membres devraient en outre prévoir certains types et niveaux minimaux de sanctions lorsque sont commises les infractions pénales définies dans la présente directive. Les niveaux de sanctions ne devraient pas excéder ce qui est proportionné pour ces infractions, et un seuil exprimé en valeur monétaire, en dessous duquel l'incrimination n'est pas nécessaire, devrait dès lors être instauré.
+
+(13) La présente directive n'affecte pas l'application adéquate et efficace de mesures disciplinaires. Les sanctions qui ne peuvent pas être assimilées à des sanctions pénales peuvent être prises en compte, conformément à la législation nationale, lors de la condamnation d'une personne pour l'une des infractions définies par la présente directive dans des cas individuels; pour les autres sanctions, le principe «ne bis in idem» devrait être pleinement respecté. La présente directive n'incrimine pas les comportements qui ne sont pas également soumis à des sanctions disciplinaires ou à d'autres mesures concernant une violation des devoirs officiels, lorsque ces sanctions disciplinaires ou autres mesures peuvent être appliquées aux personnes en cause.
+
+(14) Les sanctions à l'encontre des personnes physiques, dans les cas les plus graves, devraient comporter des peines d'emprisonnement minimales et maximales. Ces cas graves devraient être définis par référence à un préjudice global minimal déterminé, exprimé en valeur monétaire, qui doit avoir été causé au budget de l'Union, et éventuellement à d'autres budgets, par l'agissement criminel. L'instauration de peines minimales et maximales est nécessaire pour que les intérêts financiers de l'Union bénéficient d'un niveau équivalent de protection dans toute l'Europe. La sanction minimale de six mois permet d'émettre et d'exécuter un mandat d'arrêt européen pour les infractions énumérées à l'article 2 de la décision-cadre relative au mandat d'arrêt européen, ce qui garantit une coopération aussi efficace que possible entre les autorités judiciaires et les services répressifs. Les sanctions auront également un effet fortement dissuasif sur les criminels potentiels à travers toute l'Europe. Des sanctions plus sévères devraient être prévues pour les cas où l'infraction a été commise dans le cadre d'une organisation criminelle au sens de la décision-cadre 2008/841/JAI du Conseil.
+
+(15) Compte tenu notamment de la mobilité des contrevenants et des bénéfices découlant des activités illégales portant atteinte aux intérêts financiers de l'Union, ainsi que de la complexité des enquêtes transfrontalières que cela implique, tous les États membres devraient établir leur compétence et fixer les règles applicables aux délais de prescription nécessaires pour leur permettre de lutter contre ces activités.
+
+(16) Afin d'assurer la cohérence de la législation de l'Union et de préserver le principe selon lequel personne ne doit être puni deux fois pour les mêmes faits, il est nécessaire de clarifier la relation entre les sanctions infligées en vertu de la présente directive et les autres dispositions administratives pertinentes relevant du droit de l'Union. La directive devrait être sans préjudice de l'application de mesures, sanctions et amendes administratives spécifiques relevant du droit de l'Union.
+
+(17) Sans préjudice d'autres obligations imposées par la législation de l'Union, il est nécessaire de prévoir des dispositions adéquates concernant la coopération entre les États membres et la Commission en vue d'assurer une action efficace contre les infractions pénales, définies dans la présente directive, qui portent atteinte aux intérêts financiers de l'Union, notamment l'échange d'informations entre les États membres et la Commission.
+
+(18) La convention relative à la protection des intérêts financiers des Communautés européennes du 26 juillet 1995 et ses protocoles des 27 septembre 1996 et 29 novembre 1996 devraient être abrogés et remplacés par la présente directive.
+
+(19) La bonne mise en œuvre de la présente directive par les États membres implique le traitement de données à caractère personnel par les autorités nationales compétentes et l'échange de telles données entre, d'une part, les États membres et, d'autre part, les organismes compétents de l'Union. Le traitement des données à caractère personnel à l'échelon national entre les autorités nationales compétentes devrait être réglementé par la législation nationale, dans le respect de la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel du 28 janvier 1981 et de son protocole additionnel (STE n° 181). L'échange de données à caractère personnel entre les États membres devrait répondre aux exigences de la décision-cadre 2008/977/JAI du Conseil. Dans la mesure où les données à caractère personnel sont traitées par les institutions, organes et organismes de l'Union, ceux-ci devraient se conformer au règlement (CE) n° 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données et aux règles applicables en matière de secret de l'instruction judiciaire.
+
+(20) L'effet dissuasif visé par l'application de sanctions pénales requiert une prudence particulière en ce qui concerne les droits fondamentaux. La présente directive respecte les droits fondamentaux et observe les principes reconnus, en particulier, par la Charte des droits fondamentaux de l'Union européenne, notamment: le droit à la liberté et à la sûreté, la protection des données à caractère personnel, la liberté professionnelle et le droit de travailler, la liberté d'entreprise, le droit de propriété, le droit à un recours effectif et à accéder à un tribunal impartial, la présomption d'innocence et les droits de la défense, les principes de légalité et de proportionnalité des délits et des peines, ainsi que le droit à ne pas être jugé ou puni pénalement deux fois pour une même infraction. La présente directive cherche en particulier à garantir le respect absolu de ces droits et principes et doit être mise en œuvre en conséquence.
+
+(21) La présente directive s'applique sans préjudice des dispositions sur la levée des immunités prévues par le traité, le protocole sur les privilèges et immunités de l'Union européenne, le statut de la Cour de justice et les textes pris pour leur application, ou de dispositions semblables intégrées dans le droit national.
+
+(22) La présente directive est sans préjudice des règles et principes généraux du droit pénal national relatifs à l'application et l'exécution des peines selon les circonstances concrètes de chaque cas.
+
+(23) Étant donné que l'objectif de la présente directive ne peut pas être atteint de manière suffisante par les seuls États membres et peut donc, en raison des dimensions et des effets de l'action, être mieux atteint au niveau de l'Union, celle-ci peut prendre des mesures conformément au principe de subsidiarité consacré à l'article 5 du traité sur l'Union européenne. Conformément au principe de proportionnalité tel qu'énoncé audit article, la présente directive n'excède pas ce qui est nécessaire pour atteindre cet objectif,
+
+ONT ADOPTÉ LA PRÉSENTE DIRECTIVE:
+
+Titre I: Objet et définition
+
+Article premier Objet
+
+La présente directive établit les mesures nécessaires pour prévenir et combattre la fraude et les autres activités illégales portant atteinte aux intérêts financiers de l'Union en définissant des infractions et des sanctions pénales.
+
+Article 2 Définition des intérêts financiers de l'Union
+
+Aux fins de la présente directive, on entend par «intérêts financiers de l'Union», l'ensemble des recettes perçues et des dépenses exposées qui relèvent:
+
+(a) du budget de l'Union;
+
+(b) des budgets des institutions, organes et organismes institués dans le cadre des traités ou des budgets gérés et contrôlés par eux.
+
+Titre II: Infractions pénales dans les domaines de la prévention de la fraude portant atteinte aux intérêts financiers de l'Union et de la lutte contre cette fraude
+
+Article 3 Fraude portant atteinte aux intérêts financiers de l'Union
+
+Les États membres prennent les mesures nécessaires pour que les comportements suivants, lorsqu'ils sont intentionnels, soient passibles de sanctions en tant qu'infractions pénales:
+
+(a) en matière de dépenses, tout acte ou omission relatif:
+
+(i) à l'utilisation ou à la présentation de déclarations ou de documents faux, inexacts ou incomplets, ayant pour effet la perception ou la rétention indue de fonds provenant du budget de l'Union ou des budgets gérés par l'Union ou pour son compte,
+
+(ii) à la non-communication d'une information en violation d'une obligation spécifique, ayant le même effet, ou
+
+(iii) au détournement de dépenses ou d'engagements financiers à des fins autres que celles pour lesquelles ils ont été accordés;
+
+(b) en matière de recettes, tout acte ou omission relatif:
+
+(i) à l'utilisation ou à la présentation de déclarations ou de documents faux, inexacts ou incomplets, ayant pour effet la diminution illégale de ressources du budget de l'Union ou des budgets gérés par l'Union ou pour son compte,
+
+(ii) à la non-communication d'une information en violation d'une obligation spécifique, ayant le même effet, ou
+
+(iii) au détournement d'un avantage légalement obtenu, ayant le même effet.
+
+Article 4 Infractions pénales liées à la fraude qui portent atteinte aux intérêts financiers de l'Union
+
+1. Les États membres prennent les mesures nécessaires pour que soit passible de sanctions, en tant qu'infraction pénale, toute communication d'informations ou absence de communication de ces informations à des entités ou autorités chargées d'attribuer un marché public ou d'octroyer une subvention impliquant les intérêts financiers de l'Union, par des soumissionnaires ou des candidats ou par des personnes œuvrant ou associées à l'élaboration des réponses à des appels d'offres ou des demandes de subvention de ces participants, lorsque cet acte est commis intentionnellement dans le but de contourner ou de fausser l'application des critères d'éligibilité, d'exclusion, de sélection ou d'attribution.
+
+2. Les États membres prennent les mesures nécessaires pour que le blanchiment de capitaux, tel que défini à l'article 1er, paragraphe 2, de la directive 2005/60/CE du Parlement européen et du Conseil, concernant des biens provenant des infractions couvertes par la présente directive soit passible de sanctions en tant qu'infraction pénale.
+
+3. Les États membres prennent les mesures nécessaires pour que les comportements suivants, lorsqu'ils sont intentionnels, soient passibles de sanctions en tant qu'infractions pénales:
+
+(a) le fait, pour un agent public, directement ou par interposition de tiers, de solliciter ou de recevoir des avantages, de quelque nature que ce soit, pour lui‑même ou pour un tiers, ou d'en accepter la promesse, pour accomplir ou ne pas accomplir un acte de sa fonction ou un acte dans l'exercice de sa fonction, qui porte atteinte ou est susceptible de porter atteinte aux intérêts financiers de l'Union (corruption passive);
+
+(b) le fait, pour quiconque, de promettre ou de donner, directement ou par interposition de tiers, un avantage, de quelque nature que ce soit, à un agent public, pour lui-même ou pour un tiers, pour qu'il accomplisse ou s'abstienne d'accomplir un acte de sa fonction ou un acte dans l'exercice de sa fonction qui porte atteinte ou est susceptible de porter atteinte aux intérêts financiers de l'Union (corruption active).
+
+4. Les États membres prennent les mesures nécessaires pour que l'acte intentionnel d'un agent public, consistant à engager ou dépenser des fonds ou à s'approprier ou utiliser des biens d'une manière contraire aux fins prévues pour ces derniers et dans l'intention de porter atteinte aux intérêts financiers de l'Union, soit passible de sanctions en tant qu'infraction pénale (détournement).
+
+5. Aux fins du présent article, on entend par «agent public»:
+
+(a) toute personne exerçant une fonction de service public pour l'Union ou dans un État membre ou un pays tiers et investie d'un mandat législatif, administratif ou judiciaire;
+
+(b) toute autre personne exerçant une fonction de service public pour l'Union ou dans un État membre et un pays tiers qui n'est pas investie d'un tel mandat et qui participe à la gestion des intérêts financiers de l'Union ou aux décisions relatives à ceux-ci.
+
+Titre III: Dispositions générales concernant les infractions pénales dans les domaines de la prévention de la fraude portant atteinte aux intérêts financiers de l'Union et de la lutte contre cette fraude
+
+Article 5 Incitation, complicité et tentative
+
+1. Les États membres prennent les mesures nécessaires pour que le fait d'inciter à commettre les infractions pénales visées au titre II ou de s'en rendre complice soit passible de sanctions en tant qu'infraction pénale.
+
+2. Les États membres prennent les mesures nécessaires pour que la tentative de commettre l'infraction pénale visée à l'article 3 ou à l'article 4, paragraphe 4, soit passible de sanctions en tant qu'infraction pénale.
+
+Article 6 Responsabilité des personnes morales
+
+1. Les États membres prennent les mesures nécessaires pour que les personnes morales puissent être tenues pour responsables des infractions pénales visées au titre II, lorsque ces dernières sont commises à leur profit par toute personne, agissant soit individuellement soit en tant que membre d'un organe de la personne morale, qui exerce un pouvoir de direction en son sein, sur la base:
+
+(a) d'un pouvoir de représentation de la personne morale;
+
+(b) d'un pouvoir de prendre des décisions au nom de la personne morale; ou
+
+(c) d'un pouvoir d'exercer un contrôle au sein de la personne morale.
+
+2. Les États membres prennent également les mesures nécessaires pour que les personnes morales puissent être tenues pour responsables lorsque le défaut de surveillance ou de contrôle de la part d'une personne visée au paragraphe 1 a rendu possible la commission de l'une des infractions pénales visées au titre II, au profit de ladite personne morale, par une personne soumise à son autorité.
+
+3. La responsabilité de la personne morale en vertu des paragraphes 1 et 2 n'exclut pas les poursuites pénales contre les personnes physiques qui sont les auteurs des infractions pénales visées au titre II ou qui sont pénalement responsables en vertu de l'article 5.
+
+4. Aux fins de la présente directive, on entend par «personne morale» toute entité dotée de la personnalité juridique en vertu du droit applicable, exception faite des États ou des entités publiques dans l'exercice de leurs prérogatives de puissance publique et des organisations internationales publiques.
+
+Article 7 Sanctions applicables aux personnes physiques
+
+1. En ce qui concerne les personnes physiques, les États membres veillent à ce que les infractions pénales visées au titre II soient passibles de sanctions pénales effectives, proportionnées et dissuasives, incluant les amendes et les peines d'emprisonnement définies à l'article 8.
+
+2. Pour les délits mineurs impliquant un préjudice ou des avantages d'un montant inférieur à 10 000 EUR et ne présentant pas de circonstances particulières de gravité, les États membres peuvent prévoir des sanctions autres que pénales.
+
+3. Le paragraphe 1 s'entend sans préjudice de l'exercice des pouvoirs disciplinaires par les autorités compétentes à l'encontre des agents publics.
+
+4. Les États membres veillent à ce que les sanctions d'une autre nature, qui ne peuvent être assimilées à des sanctions pénales et qui ont déjà été infligées à la même personne pour le même comportement, puissent être prises en considération lors de la condamnation de ladite personne pour une infraction pénale visée au titre II.
+
+Article 8 Seuils applicables aux peines d'emprisonnement
+
+1. Les États membres prennent les mesures nécessaires pour que les infractions pénales visées à l'article 3 et à l'article 4, paragraphes 1 et 4, qui impliquent des avantages ou un préjudice d'au moins 100 000 EUR, soient passibles des sanctions suivantes:
+
+(a) une peine minimale de six mois d'emprisonnement au moins;
+
+(b) une peine maximale de cinq années d'emprisonnement au moins.
+
+Les États membres prennent les mesures nécessaires pour que les infractions pénales visées à l'article 4, paragraphes 2 et 3, qui impliquent des avantages ou un préjudice d'au moins 30 000 EUR, soient passibles des sanctions suivantes:
+
+(a) une peine minimale de six mois d'emprisonnement au moins;
+
+(b) une peine maximale de cinq années d'emprisonnement au moins.
+
+2. Les États membres prennent les mesures nécessaires pour que les infractions pénales visées au titre II soient passibles d'une peine maximale d'au moins dix années d'emprisonnement lorsqu'elles ont été commises dans le cadre d'une organisation criminelle au sens de la décision-cadre 2008/841/JAI.
+
+Article 9
+
+Types de sanctions minimales à l'encontre des personnes morales
+
+Les États membres prennent les mesures nécessaires pour qu'une personne morale déclarée responsable au sens de l'article 6 soit passible de sanctions effectives, proportionnées et dissuasives, qui incluent des amendes pénales ou non pénales et éventuellement d'autres sanctions, notamment:
+
+(a) des mesures d'exclusion du bénéfice d'un avantage ou d'une aide publics;
+
+(b) des mesures d'interdiction temporaire ou définitive d'exercer une activité commerciale;
+
+(c) un placement sous surveillance judiciaire;
+
+(d) une mesure judiciaire de dissolution;
+
+(e) la fermeture temporaire ou définitive d'établissements ayant servi à commettre l'infraction.
+
+Article 10 Gel et confiscation
+
+Les États membres veillent à ce que les produits et instruments des infractions visées au titre II soient gelés et confisqués conformément à la directive …/…/… [du Parlement européen et du Conseil concernant le gel et la confiscation des produits du crime dans l'Union européenne].
+
+Article 11 Compétence
+
+1. Les États membres prennent les mesures nécessaires pour établir leur compétence à l'égard des infractions pénales visées au titre II lorsque:
+
+(a) l'infraction a été commise, en tout ou en partie, sur leur territoire; ou
+
+(b) l'auteur de l'infraction est l'un de leurs ressortissants.
+
+2. Dans le cas visé au paragraphe 1, point b), les États membres prennent les mesures nécessaires pour s'assurer que l'établissement de leur compétence n'est pas subordonné à la condition que les poursuites ne puissent être engagées qu'à la suite d'une déclaration de la victime faite sur le lieu de l'infraction ou d'une dénonciation émanant de l'État sur le territoire duquel l'infraction a été commise.
+
+3. Les États membres veillent à ce que leur compétence couvre les cas dans lesquels une infraction a été commise au moyen de technologies de l'information et de la communication auxquelles l'accès a été obtenu à partir de leur territoire.
+
+Article 12 Prescription des infractions portant atteinte aux intérêts financiers de l'Union
+
+1. Les États membres prévoient un délai de prescription d'une durée d'au moins cinq années à compter de la date à laquelle l'infraction a été commise, pendant laquelle l'enquête, les poursuites, le jugement et la décision judiciaire sur les infractions visées au titre II et à l'article 5 restent possibles.
+
+2. Les États membres veillent à ce que la prescription puisse être interrompue et qu'un nouveau délai commence à courir à la suite de tout acte d'une autorité nationale compétente, y compris le lancement effectif d'une enquête ou de poursuites, jusqu'à au moins dix ans à compter de la date à laquelle l'infraction a été commise.
+
+3. Les États membres prennent les mesures nécessaires pour qu'une sanction infligée à la suite d'une condamnation définitive pour une infraction pénale visée au titre II et à l'article 5 puisse être exécutée pendant une période de temps suffisante, qui doit être d'au moins dix ans à compter de la date de ladite condamnation.
+
+Article 13 Recouvrement
+
+La présente directive s'entend sans préjudice du recouvrement des montants indûment versés dans le cadre de la commission des infractions pénales visées au titre II.
+
+Article 14 Interaction avec d'autres actes juridiques applicables de l'Union
+
+L'application de mesures, sanctions et amendes administratives prévues par le droit de l'Union, en particulier celles au sens des articles 4 et 5 du règlement n° 2988/95 du Conseil, ou par des dispositions de droit interne adoptées conformément à une obligation spécifique relevant du droit de l'Union, s'entend sans préjudice des dispositions de la présente directive. Les États membres veillent à ce que toute procédure pénale engagée sur la base des dispositions nationales mettant en œuvre la présente directive n'affecte pas l'application correcte et effective de mesures, sanctions et amendes administratives qui ne peuvent être assimilées à des actions pénales, prévues par le droit de l'Union ou par des dispositions nationales d'application.
+
+Titre IV: Dispositions finales
+
+Article 15
+
+Coopération entre les États membres et la Commission européenne (Office européen de lutte antifraude)
+
+1. Les États membres collaborent mutuellement avec la Commission dans le domaine de la lutte contre les infractions pénales visées au titre II. À cette fin, la Commission prête toute l'assistance technique et opérationnelle nécessaire afin de faciliter la coordination des investigations engagées par les autorités nationales compétentes.
+
+2. Les autorités compétentes des États membres peuvent échanger des éléments d'information avec la Commission aux fins de faciliter l'établissement des faits et d'assurer une action efficace contre les infractions pénales visées au titre II. La Commission et les autorités nationales compétentes tiennent compte, pour chaque cas spécifique, des exigences du secret de l'instruction et de la protection des données. À cette fin, lorsqu'un État membre fournit des informations à la Commission, il est en droit de fixer des conditions spécifiques régissant l'utilisation de ces informations par la Commission comme par tout autre État membre auquel ces informations pourraient être transmises.
+
+Article 16 Abrogation des conventions pénales relatives à la protection des intérêts financiers des Communautés européennes
+
+La convention relative à la protection des intérêts financiers des Communautés européennes du 26 juillet 1995, y compris ses protocoles des 27 septembre 1996, 29 novembre 1996 et 19 juin 1997, sont abrogés avec effet au [date d'application visée à l'article 17, paragraphe 1, deuxième alinéa].
+
+Article 17 Transposition
+
+1. Les États membres adoptent et publient, au plus tard le […], les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte de ces dispositions.
+
+Ils appliquent ces dispositions à compter du […].
+
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.
+
+2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine couvert par la présente directive.
+
+Article 18 Entrée en vigueur
+
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.
+
+Article 19 Destinataires
+
+Les États membres sont destinataires de la présente directive.
+
+Fait à Bruxelles, le
+
+Par le Parlement européen Par le Conseil
+
+Le président Le président

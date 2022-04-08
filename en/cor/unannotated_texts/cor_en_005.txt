@@ -1,0 +1,899 @@
+52012SC0195
+
+COMMISSION STAFF WORKING PAPER IMPACT ASSESSMENT (Part I) Accompanying the document Proposal for a Directive of the European Parliament and of the Council on the protection of the financial interests of the European Union by criminal law / /2012/0195 final /  
+
+1. Introduction
+
+This Impact Assessment Report is for a measure on the protection of EU financial interests which would improve implementation of existing rules, or set additional criminal law rules on, illegal activities such as fraud, corruption, money laundering and further related offences, to the extent relevant for EU public money. This measure aims at setting a common and proportionate level of protection by deterrence. This will not only strengthen the effectiveness of EU budgetary and financing rules, but it will also ultimately benefit the overall credibility of EU finance in times of austerity, and of criminal justice, by setting a level playing field for the protection of taxpayers' money throughout the EU. This report commits only the services involved in its preparation and does not prejudge the form of any decision to be taken by the Commission.
+
+What is the scope of the analysis?
+
+This Impact Assessment Report is based on an analysis of illegal activities affecting EU public money, i.e. money spent or not collected in spite of legal obligations to the contrary, and the criminal law frameworks aiming to sanction such activities. This includes, but is not limited to, activities amounting to intentional fraud, corruption and money laundering, which are the criminal offences currently legally defined by the EU in this policy area. Some illegal activities affecting EU public money are not now covered by any criminal offence definition.
+
+2. Procedural issues and consultation of interested parties
+
+2.1. Policy context
+
+Since 1999, the European Anti-Fraud Office (OLAF) has been equipped with a mandate on illegal activities affecting EU financial interests limited to administrative investigations.[1] A body of administrative law for the fight against illegal activities at the expense of EU public money has developed consequently. It is based on Regulation (EC, Euratom) No 2988/95, which sets out administrative rules for dealing with illegal activities at the expense of EU public money[2] throughout the policy field. It is flanked by sectoral administrative rules[3].
+
+The administrative component of protection EU financial interests was complemented by a criminal law dimension. In 1995-1997, the Council adopted the Convention for the protection of the financial interests of the European Communities and accompanying protocols (hereinafter collectively referred to as the "PIF Convention").[4] The PIF Convention was subsequently ratified by, and entered into force with respect to, almost all Member States,[5] so that it may legitimately be termed as an acquis of the criminal law protection of EU financial interests.[6]
+
+This framework was complemented by general EU measures for the fight against certain illegal activities particularly harmful to the licit economy, such as money laundering[7] and corruption[8], albeit not specific to the protection of EU financial interests, nor to criminal law.
+
+In 2001 the Commission submitted a proposal for a Directive on the criminal-law protection of the Community's financial interests[9], which aimed to bring into the ambit of the then "first pillar" law some core provisions of the PIF Convention. This proposal was not actively pursued by the Council because it believed that the European Community at the time lacked competence. The new step in this policy area comes in a context of austerity, where a structured response to losses of taxpayer money is particularly urgent: In May 2011, the Commission issued a Communication on the protection of financial interests of the European Union by criminal law and by administrative investigations[10] accompanied by a Staff Working Document[11]. These documents insist on the patchwork of provisions which has developed across the EU, and set out that, given the obligation to act for the effective protection of EU financial interests as set out in the Lisbon Treaty, the Commission would consider criminal law as one of the elements to improve this state of play. The Communication "Towards a European criminal policy" pointed out the specificities of criminal law measures in general, and how these can be taken into account in legislative work.[12]
+
+The Commission's annual "fight against fraud" reports, the latest of which covers 2010[13], contain factual information in this field, which regularly triggers Resolutions of the European Parliament calling for more effective anti-fraud polices, in particular regarding the criminal offence of fraud understood as a purposeful wrongdoing.[14] Given the current times of difficult economic propects, the Commission is emphasising the protection of EU financial interests as one of the strategic policies to ensure sound public finances and thus that taxpayer money allocated to the EU is not wasted, but spent as appropriately and efficiently as possible.[15]
+
+The Commission took into account the previously performed analysis in the context of the 2001 Commission proposal for a Directive on the criminal-law protection of the Communities' financial interests[16] as well as the Parliament's opinion in first reading on the 2001 proposal[17], following the report of the budgetary control committee[18], which lead to the submission of an amended Commission proposal.[19]
+
+2.2 Chronology of the Impact Assessment Report
+
+2.2.1. Consultation of stakeholders
+
+The Commission has conducted specialist stakeholder consultations: Academic experts were consulted in a dedicated meeting organised by the Commission services in Brussels on 25 October 2011. Member State experts were convened by the Commission services for a consultative meeting in Brussels on 6 December 2011, which was also attended by the secretariat of the EP's LIBE committee. Views of Member States' prosecution services were gathered through questionnaires and discussion at the Forum of the Prosecutors-General convened by Eurojust in The Hague on 23 June 2011 and again on 16 December 2011. The Commission also invited representatives of the Taxpayers' Association of Europe, who in the meeting held on 25 January 2012 expressed strong support for the Commission's objective and approach, and also gave concrete examples of recurrent cases of misallocation of public money now not covered by criminal law.
+
+Academic experts confirmed certain deficiencies of the existing legal framework for the protection of EU financial interests (provisions concerning abuse of public procurement procedures, lacking provisions on third-country jurisdiction, time limitation, etc.) whilst underscoring the importance of the principle whereby criminal law should only be used as a last resort, with due attention for the principles of subsidiarity and proportionality.[20]
+
+Member State experts were generally supportive of the objective pursued by the Commission, i.e. safeguarding taxpayers' money. Only two Member States argued that prior implementation of the Eurojust Decision[21] and the Framework Decision of settlement of conflicts of jurisdiction[22] would be preferable, and this Report will explain why this suggestion is not retained in the policy options. A number of Member States confirmed that a wide definition of "official" was useful and pointed to the relevance of confiscation as a sanction. Both remarks, on substance, were taken into account in options no. 4 and 5 below, and this Impact Assessment Report accordingly introduced an element of conflict avoidance into options 4 and 5.[23] As regards practitioners, there was a widely shared perception that clear criminal law providing a level playing field was a relevant element, and that it should be complemented by measures in the procedural field to respond to the deficiencies they identified in this context.[24] The latter point is reflected in the Commission's work programme whereby there will be a separate initiative on procedural measures for the protection of EU financial interests in 2013.
+
+2.2.2. Studies and publications
+
+The Commission contracted out a study to gather evidence in the context of the Commission's preparations towards an impact assessment, the final report of which was delivered on 23 December 2011. Further circumstantial evidence was provided by the preliminary report of the "Euroneeds study" performed by the Max-Planck-Institute for international criminal law in Freiburg upon request of the Commission.[25] This study provides in particular empirical analysis of the practices of investigating and prosecuting authorities in the Member States when dealing with cases related to the protection of EU financial interests and serious cross-border offences.
+
+Also the work performed with Commission support in the context of the study on a "Corpus Juris introducing penal provisions for the purpose of the financial interests of the European Union" (1997)[26] was taken into account, albeit with due caution in the light of the Treaty changes having taken place meanwhile and empirical developments since. The Corpus Juris study team of experts had elaborated a set of thirty-five penal rules designed to ensure a fair, simple and efficient system of protection of the EU financial interests. These rules follow guiding principles as built up in the case-law of the EU Court of Justice and the European Court of Human Rights. The follow-up project to the "Corpus Juris" study (2000)[27] offers further indication on the main systemic criminal law challenges of the protection of EU financial interests by criminal law. This study provides comparative criminal law research, and assessments of the feasibility of EU legislation such as the Corpus Juris in this context. It also contains national reports covering the fifteen Member States of the time and transversal reports on the main issues on the cooperation among the Member States and the EU.
+
+The Commission further took into account a study on "How does organised crime misuse EU funds?" conducted in 2011 on behalf of the European Parliament[28], which contains useful insight into typical cases of organised crime affecting EU financial interests.
+
+2.2.3. Internal consultation
+
+An Interservice Steering Group was created, inviting representatives from DG Justice, OLAF, the Secretariat-General, the Legal Service and all operational or otherwise affected services (i.e., DG AGRI, DG BUDG, DG CLIMA, DG COMM, DG COMP, DG DEVCO, DG DIGIT, DG EAC, ECHO, EEAS, DG ECFIN, DG ELARG, DG EMPL, DG ENER, DG ENTR, DG ENV, ESTAT, DG HR, DG HOME, IAS, DG INFSO, JRC, DG MARE, DG MARKT, DG MOVE, DG REGIO, DG RTD, DG SANCO, DG TAXUD, DG TRADE). ISSG meetings were held on 18 January 2012, 8 February 2012 and 29 March 2012. At the meetings and in direct communication with individual DGs who expressed particular interests, comprehensive feedback was received which has been taken into account throughout this report.
+
+The Commission's Impact Assessment Board convened on 14 March 2012 to discuss this initiative and subsequently issued comments on a previous draft of this Report, in particular on the scale of the problem, on proportionality and on the integration of stakeholder consultation results, which were taken into account in this Report. As a result, this Report now contains a clearer explanation of certain assumptions underlying the assessment of financial impacts, an additional analysis of the evolution of irregularities which have affected EU financial interests over time, a more detailed approach to the fundamental rights aspects involved in the various policy options, a more comprehensive justification of the legal basis and of compliance with the principle of subsidiarity, a clarification on the reasons for the choice of particular sanction levels in certain policy options, a taking into account of the possible differences between national and EU financial interests protection in the proportionality analysis of the policy option concerned and, in Annex, a full list of the implementation issues found by the Commission regarding the PIF Convention in all Member States.
+
+3. Problem definition
+
+The EU loses money to illegal activities, both on revenue and expenditure side, and thus is less credible in its budgetary restraint efforts, despite the criminal law provisions set out previously in the PIF Convention. These factors are linked to an insufficient deterrent effect of existing provisions protecting the EU financial interests, to enforcement gaps of existing prohibitions relating to EU money, and to low recovery rates of defrauded money. The underlying causes are insufficient outreach of criminal law provisions, an incomplete set of offence definitions, unfair divergence of sanctions among Member States, and excessive impediments to the application of criminal law for the protection of EU financial interests.
+
+The financial interests of the European Union are negatively affected if money due to the EU is not collected for it, or if money or assets of the EU are misallocated in breach of legal rules. Too often, and despite previous efforts to curb the phenomenon, this is indeed taking place, due to illegal activities which are serious and frequent enough to warrant a resolute response.
+
+3.1 The scale of the problem
+
+According to the statistics collected by OLAF on the basis of reports from Member States, from EU expenditures (EAGF, EAFRD, ERDF, ESF and the Cohesion Fund) and revenues (TOR) implemented or collected by Member States alone, a total of 13,631 cases of illegal activities involving EU funds (so-called "irregularities") took place in 2010. These cases caused a cumulated damage to EU public money of approximately € 2.07 billion[29]. The number of reported cases and amounts involved has increased since 2008, with the average value of each case almost doubling over that period from € 87,934 in 2008 to € 152,112 in 2010. Within the amount of the illegal activities in 2010 suspicion of fraud amounted to € 617 million of EU public money potentially lost to crime.
+
+Basis for the estimates of losses incurred:
+
+The limitations of available data mean that it is not possible to report actual figures for the total number and value of financial crimes. Instead, indicative estimates are derived based on a combination of published in the OLAF annual report on fraud, unpublished case data from OLAF, national legal research undertaken by the study team and responses from stakeholder consultations. Caution should therefore be used in interpreting these indicative estimates. They provide a reasonable but only indicative estimation of the volume of financial crimes involving EU funds. A substantial share, though not all of these losses can be stopped or recovered by additional criminal law measures.
+
+EU money is lost for a variety of reasons. Some of these cannot be addressed by this initiative, but will be by future initiatives. This is the case in particular for questions relating to cooperation between national authorities involved and OLAF[30]. Some of these reasons are also beyond EU remit, such as human resources issues in the judiciary. Among the reasons which are addressed by this initiative, some are fully addressed, and some can only be partially so:
+
+The initiative addresses the currently insufficient scope and incomplete set of criminal law offences concerning fraud and related crimes, which reduce deterrence and recovery levels. The initiative can only partially address the lack of mutual trust between judiciaries, which has a bearing on cooperation and thus on enforcement. Further issues partially addressed are the low detection and low follow-up levels (i.e., the phenomenon whereby cases on the protection of EU financial interests appear to be not sufficiently vigourously pursued by some judicial authorities[31]), which negatively impact on deterrence, enforcement and recovery levels. Here criminal law set out at EU level can be an essential contribution in that it helps to reduce disparities across the normative landscape of the EU, and thus encourages judiciaries of the Member States to cooperate better. These problems will be comprehensively addressed if this initiative is viewed together with separate Commission initiatives, which add further angles of attack, such as in particular the one on procedural law foreseen in 2013.[32]
+
+Basis for estimates of the amount of losses which could be avoided by criminal law:
+
+An empirical demonstration of exactly how much EU public money could be recovered, or losses of it be avoided, by criminal law measures is not possible due to the absence of, and methodological challenges in generating, empirical data on the preventive effect and thus financial impact of any given criminal law provision.[33] Criminal law does not save nor recover money as such, but it exerts influence on individuals who might otherwise or do commit illegal acts, and it gives tools to investigators in order to enforce recovery which would otherwise remain theoretical. The causal link between criminal law and avoidance of losses is therefore dependent on human beings acting in accordance with it, which makes empirical demonstration difficult. However, a reasoned and robust estimate is possible. Such an estimate can be based on acriminological analysis, which also looks into behavioural effects of legal norms.
+
+It appears reasonable to assume that not all the losses of EU funds to illegal activities (i.e. around € 2 billion reported for 2010) can be avoided or recovered by criminal law. But given that current criminal law does not cover all relevant illegal conducts, and that the economic operators have a reputation to lose when subject to the stigmatising role and criminal law, it is consistent with behavioural science that additional criminal law rules which make such illegal conducts more often a crime with serious consequences, that a relevant reduction can be achieved. under a very cautious and conservative assessment, it does indeed appear reasonable to consider, in the light of criminological research on economic and financial crime, that at least half the total misallocations of funds are based on inappropriate conduct of persons involved (as opposed to mere mistakes), and that a substantial share of at least half to two thirds of that amount (i.e. 25 to 33% of the total amount) is amenable to being prevented or recovered by criminal law legislation threatening shame, disruption and allowing better investigation and enforcement. As a result, the scale of the problem being addressed by this initiative on criminal law can be of a volume of € 500 million per year, which amounts a one-quarter to one-third of the funds lost to irregularities overall.[34] These figures remain estimates which should not be interpreted as forecasting a definite reduction of losses, in particular since the overall amount of irregularities is subject to strong variations over the years, although the general long-term tendency is a growing number of irregularities.[35]
+
+3.2 The substance of the problem being addressed by this initiative
+
+As this Impact Assessment Report will explain in more detail below, the protection of EU financial interests is generally not strong enough. As shown by the evolution of irregularities over time[36], potential and actual perpetrators too often find the risk of being caught, seriously effectively sanctioned and their illegal proceeds recovered as too low to act as an effective deterrent. The deterrent effect is even lower in some Member States than in others which is inappropriate for EU public money which should be protected equivalently everywhere in the EU (Article 325(4) TFEU).
+
+To the extent criminal law can address these reasons, earlier legislative efforts at EU level, and the Treaty obligation of Member States to fight illegal activities affecting EU financial interests by measures which shall act as a deterrent (Article 325(1) TFEU), have proven insufficient in this regard. They do not create sufficient basis to sanction equivalently, so that mutual trust remains low, which reduces cooperation between Member States.
+
+The PIF Convention, which mainly aims to criminalise fraud affecting EU public money, and its protocols on corruption and money laundering, are the only criminal law instruments at EU level in this area so far. Although they contain solid definitions of the particular offences they cover (fraud, corruption, money laundering), they have not sufficiently contributed to curbing the money loss described above.
+
+Whilst most Member States now did ratify the PIF Convention, transposition measures of the Convention have remained incomplete in most of the Member States, as the Second Implementation Report of 2008 shows.[37]
+
+Moreover, even if they were fully implemented, the PIF Convention and its protocols only cover a limited sub-section of illegal conduct at the expense of EU financial interests (fraud, corruption, money laundering, which have been transposed with the same scope and definition in the present initiative) and miss out on many relevant phenomena (such as fraud at the expense of the EU committed by non-nationals in third countries, corrupt practices of service providers to EU institutions, collusive practices between tenderers, specific serious offences often committed by negligence, inadequate time-limitation rules etc.) which have been encountered regularly in practical experience, as will be further explained below.
+
+The problem can be broken down into the following specific aspects, which relate to the various deficiencies in the means of protecting EU public money.
+
+3.2.1 Insufficient deterrence
+
+In Article 325(1) TFEU, the Treaty calls for measures for the protection of EU financial interests "which shall act as a deterrent", while the Court has traditionally used the synonym term of "dissuasive"[38]. This means that the EU and its Member States are under an obligation to create strong disincentives against any illegal conduct affecting EU public money.
+
+How can potential perpetrators be convinced not to cause illegal damage to EU financial interests? A hands-on explanation of deterrence:
+
+Given that security policies cannot and, for reasons of fundamental rights, must not lead to total control of all potential perpetrators, thus forcibly preventing crime from taking place, public policies seek to influence conduct in a way which results in voluntary refraining from the commission of illegal acts. This is the task of "deterrence".
+
+While criminology has cast doubt on the deterring potential of the threat of punishment alone, modern science[39] does indicate that the "fear of being caught", "certainty of sentencing" and/or "be shamed" by thorough criminal investigations, proceedings, trial, conviction and/or a criminal record, as well as the risk of being "disrupted" in the course of their illegal business, can have an effect on potential perpetrators' decision as to whether to cross the Rubicon into intentional illegality, particularly regarding individuals enjoying a relatively good reputation or social status.
+
+Deterrence against intentional acts requires (i) legal provisions containing appropriate legal definitions of illegal conduct and associated sanction levels, (ii) at least vague notions of the existence of such provisions on the part of the person to be deterred and (iii) an expected practice of actual enforcement of these provisions by the authorities.
+
+The level of fraud (i.e. an intentional illegal conduct) at the expense of EU money, over the last years, has at least remained stable. In the period from 2009 to 2010[40], fraud increased by 220%. This increase is partially due to a cyclical effect and the figures for 2010-2011 consequently show a slight decrease. However, these figures also show that deterrence against illegal activities affecting the EU's financial interests is clearly insufficient. This holds true also for members of civil services in Europe, including some EU officials, who have been shown to be involved in illegal schemes at the expense of taxpayers' money, despite their high moral and statutory obligations.[41]
+
+3.2.2 Insufficient enforcement: deficiencies in investigation and follow-up of offences
+
+(a) Insufficient investigation remit
+
+The apparent "zero fraud" outcome again reported 2010 in the management of EU funds by a number of Member States[42] raises serious doubts about the detection capacities regarding criminal activities affecting EU financial interests, as the European Parliament has noted already regarding earlier reports.[43] Insufficient investigation remit (i.e. the range of cases to which criminal investigation powers apply) contributes to this outcome in the field of EU financial interests because criminal investigators can only work where criminal law applies.[44]
+
+(b) Insufficient follow-up possibilities
+
+The table in Annex III (extracted from the OLAF operational report 2011) indicates strongly varying, and on average remarkably modest, outcomes of judicial proceedings involving offences affecting EU financial interests in the Member States. An average of 43.9% of cases transmitted by OLAF were dismissed across all Member States. Up to 50% acquittals (from all judicial actions) can be noted in OLAF actions transferred to Member States, with an average acquittal rate of 14% throughout the EU. Whilst dismissal or acquittal can be legitimate, it is striking that for cases with similarly well-established evidence made available by OLAF to the respective national judicial authorities, such widely differring, and in general quite lenient outcomes can occur. This in turn would point to a substantial number of cases warranting criminal sanctioning, which lead to no sanctioning at all, in particular due to deficiencies in criminal laws. Among an empirically meaningful group of interviewees from police and judicial services across the EU, there is a perceived tendency to put complex cases involving cross-border cooperation "on the bottom of the pile",[45] and financial interests cases are regarded as particularly complex: 34% of interviewed practitioners reported that such cases fail because of legal issues in a European context.[46] This is confirmed by actual dismissal rates for purely legal reasons (as opposed to lack of evidence or innocence of a suspect).[47]
+
+3.2.3 Insufficient recovery
+
+Recovery of EU funds is one of the measures to be taken when those funds are illegally spent. Based on a conviction for criminal behaviour, the chances of a successful financial recovery are much better. The European Commission publishes information reported by Member States on the results of the actions by national authorities to recover amounts unduly paid to beneficiaries[48]. The data provide an indication of the recovery of EU funds lost to illegal activities.
+
+Recovery rates increased slightly between 2009 and 2010 on the expenditure side, to 40% in the agriculture sector, and to 70% in cohesion policy funds implemented by Member States.[49] On the revenue side, the recovery rate for Traditional Own Resources increased slightly to 46 % in 2010 which might further increase due to recovery being still ongoing.[50] However, these recovery levels are still too low taking into account the long-standing existence of administrative regimes to prevent losses and recover amounts subject to irregularities, as contained in particular in Regulation (EC, Euratom) No 1605/2002 on the Financial Regulation applicable to the general budget of the European Communities,[51] Commission Regulation (EC) 1848/2006 concerning irregularities and the recovery of sums wrongly paid in connection with the financing of the common agricultural policy and[52] Council Regulation (EC) No 1083/2006 laying down general provisions for the European Regional Development Fund, the European Social Fund and the Cohesion Fund.[53]
+
+An empirical demonstration of exactly how much EU public money could be recovered, or losses of it be avoided, by criminal law measures is not possible due to the absence of, and methodological challenges in generating, empirical data on the preventive effect and thus financial impact of any given criminal law provision.[54] Criminal law does not save nor recover money as such, but it exerts influence on individuals who might otherwise or do commit illegal acts, and it gives tools to investigators in order to enforce recovery which would otherwise remain theoretical. The causal link between criminal law and avoidance of losses is therefore dependent on human beings acting in accordance with it, which makes empirical demonstration difficult. However, a reasoned and robust estimate is theoretically possible and has been made in section 3.3 below. Such an estimate can be based on a criminological analysis, which also looks into behavioural effects of legal norms.
+
+3.3 Underlying causes of the problem being addressed
+
+There is clear indication that malfunctions of the sanctioning system are involved in the weak deterrence, enforcement and recovery record. Consultation of practitioners indicates that the above issues are caused by (i) insufficient criminal law coverage and sanctioning levels for typical illegal conduct, as well as (ii) lacking level playing field.
+
+From a criminal law perspective, the shortcomings of the sanctioning system mentioned by practitioners translate into insufficient outreach (i.e., criminal law coverage of each offence), an incomplete set of offence definitions (i.e., criminal law coverage by extra offences), unfair types and levels of sanctions and excessive impediments to application (i.e., too low or too different sanctions across the EU).
+
+Issues which make criminal law ineffective:
+
+(1) Insufficient outreach regarding perpetrator and place of commission
+
+(2) Incomplete set of criminal offence definitions covering the various illegal conducts concerned
+
+(3) Inadequate sanction types and levels achieving foreseeable and sufficiently significant, though not excessive, consequences.
+
+(4) Excessive impediments to application regarding time-limitation and way of commission
+
+As regards the protection of EU financial interests, all of these weaknesses can be found in the current criminal law frameworks of the Member States[55], which are insufficiently strengthened by the PIF Convention.
+
+3.3.1 Cause A: Insufficient outreach of criminal offences
+
+Due to certain gaps existing in the current criminal law framework of some Member States, the punishment of perpetrators cannot take place everywhere in the EU.
+
+(a) Who is liable?
+
+There are important differences in the current choices by Member States of who is made subject to criminal liability for offences relating to the protection of EU financial interests across the EU. As a result, some Member States have an excessively narrow scope of protection which does not deter all those potentially involved, and which creates enforcement gaps by reducing investigation and follow-up remit. The lack of level playing field leads to a slowing down of judicial cooperation and thus stalling investigations, which in turn reduces the likelihood of investigations and prosecution being pressed forward until judgment. Thus for instance the creation of a series of legal persons located in various countries, which contribute to money laundering and which under current circumstances can channel assets away from the EU public purse, and hide from investigators the beneficial owner of a corrupt practice or a fraudulent misallocation of taxpayers' money, can lead to very complex investigations which require mutual legal assistance.[56] Given however diverging rules on, for instance, the liability of financial decisionmakers or legal persons, the authority of a Member State which can prosecute under its national law in such a case would not obtain assistance for obtaining evidence from a Member State which cannot. In the consultative meeting with Member States, one Member State who does apply criminal liability to legal persons also pointed to the advantage of the easier recovery for victims of this approach.
+
+(i) Only certain "officials" covered by anti-corruption provisions
+
+A key issue in this context is the definition of official, which is the basis for liability involving corrupt practices. For instance, certain Member States' legislation does not provide for the punishment of all corrupt elected office holders (Austria, where members of the national parliament cannot be held liable). Moreover, some Member States, by choosing a narrow concept of "official" linked to status rules rather than to activity (Bulgaria), also refrained from covering service providers linked to public institutions by service contract for the purpose of corruption offences. In further Member States the full assimilation of EU and national officials is doubtful (Belgium, Cyprus, Denmark, Greece, France, Italy, Luxembourg, Austria and Portugal).[57] This makes it more challenging for investigative authorities to apply the law because there needs to be extra investigation (including possibly witness hearings, search and seizure measures) on the precise set of the suspect's obligations, and of the fact that he knew about these obligations at the time of commission, or may even exempt certain categories of public servants entirely from criminal liability. This aspect was confirmed in a consultative meeting with Member States, where a number of experts (without objection of others present) praised the benefits of a "functional" definition of officials, as opposed to one which is rigid and statute-bound. 
+Case example:
+
+OLAF dealt with a case concerning an EU official responsible for the management of certain funds within the Human Resources and Security DG. Based on the evidence that the EU official was responsible for falsifying documents and the misappropriation of EU funds, OLAF transmitted the case to the competent judicial authorities.
+
+The Supreme Court held that the relevant norm criminalising the misappropriation of funds was not applicable to officials of international organisations as they were not encompassed by the concept of "public official".
+
+These deficiencies result in a lack of deterrence for perpetrators falling outside the scope of the existing definitions of "officials", assuming that there is a minimum level of knowledge of the criminal law framework. Thereby they create losses of an estimated order of magnitude of € 12.5 million per year for the EU budget (considering the number of Member States concerned by this gap, relying on expert judgment about the importance of this gap and considering the extent of losses in individual Member States, see also assumptions and breakdown in Annex V[58]).
+
+(ii) Restricted liability of managers and organisations
+
+The rules on when managers and their organisations can be held liable for the involvement of their organisation in crime differ widely across the EU.
+
+As regards managers, some Member States apply restrictive definitions which require that they hold a certain formal level of power in the organisation (e.g. Portugal), or only hold them criminally liable when they know and support the concrete criminal conduct of their subordinates (e.g. Germany) which unduly restricts liability to those holding official powers (e.g. sub-delegated authorising officers, CFOs), when in fact the deliberate illegality can just as well, if not easier, be committed at the preparatory stage (e.g. by members of an evaluation committee, assistants of the board etc., who do not hold powers with effect outside the organisation).
+
+This appears as a problem given that in the area of financial crime it is reasonable to assume, on the basis of circumstantial empirical evidence, that financial decisionmakers who are potentially liable very carefully inform themselves about the criminal law framework so as to avoid slipping into illegality (increase in demand on preventive criminal law advice from lawyers in corporate crime matters, which now represents up to 70% of the specialised lawyers' business).[59] As a result there may be a less careful approach of decisionmakers when handling EU money, and thus a lack of deterrence.
+
+When, in addition, problems in finding and admitting evidence prevent sanctioning of the actual perpetrator within the organisation, this can imply total impunity and therefore absence of enforcement and ensuing recovery problems. This leads to estimated losses of € 12.5 million for the EU budget annually (see breakdown in Annex V[60]).
+
+As regards legal persons, Member States do not provide for the same way of organising liability of legal persons (i.e. companies, associations etc.). Some do in administrative proceedings only (Bulgaria, Germany, Latvia), the others also in criminal proceedings. As a result, investigation powers (such as search and seizure, access to bank accounts etc.) vary, and are sometime insufficient, when targeting legal persons. This is problematic in the field of financial crime at the expense of EU financial interests, where numerous, and in particular the most serious cases, involve multiple shell companies aiming to hide the real beneficiaries of illegal activities.[61] In the consultative meeting with Member States, an expert from a country which does apply criminal liability to legal persons also indicated that this helped to obtain recovery allowing the victims to be compensated (which remained without objection from others present).
+
+This happens not only because legal persons have usually more financial means (assets, cash money) than natural persons, but also because the rules on the liability of legal persons offer an easier legal base for the victim to claim the compensation.
+
+Functioning of organised criminal schemes involving shell companies:
+
+(i) Companies used to commit offences:
+
+In order to elude value-added tax (VAT) payments and/or illegally obtain VAT reimbursements, multiple companies are set up by organised criminal groups in different Member States. One common scheme is for such companies to sell VAT-free across internal borders, then the receiving company sells on within their Member State charging VAT, and disappears again before the tax administration can recover the VAT as it should (so-called "missing trader schemes").[62] This indirectly affects EU financial interests because Member State contributions to the EU budget are calculated on the basis of their VAT intake. Similar schemes can arise to elude customs, which directly affect EU financial interests through traditional own resources.
+
+→ Here the companies are themselves perpetrators. The unavailability of criminal proceedings directed against legal persons is therefore reducing deterrence and enforcement levels.
+
+(ii) Companies used to conceal proceeds of crime:
+
+Chains of multiple companies set up in various jurisdictions are frequent actors in transactions aiming to conceal illegal origin and whereabouts of proceeds stemming from criminal activities.[63]
+
+→ Here the companies are used to hide the proceeds of crime. The unavailability of criminal proceedings directed against legal persons is therefore reducing enforcement and recovery levels.
+
+Losses (or lower recovery) that result from the lack of investigative powers against legal persons in some Member States are estimated at approximately € 140 million per year (see assumptions and breakdown in Annex V[64]).
+
+(b) Where does liability arise?
+
+Some Member States lack the necessary jurisdictional rules to prosecute crimes committed abroad, unless one of their nationals was the perpetrator or the victim (e.g. Netherlands), or a particular type of offence is concerned (e.g. Cyprus, UK). EU financial interests therefore can be difficult to prosecute from within these EU Member States when cross-border cases or acts in third countries are at hand.
+
+Case example:
+
+In a case concerning an international consulting company, also involved in other cases opened by OLAF, which was set up to advise in European projects, OLAF found evidence that a third country official provided privileged information regarding tender procedures to the consulting company and received favours amounting to € 100,000 for doing so. With this background the company was able to provide privileged information to its clients, who then won contracts worth € 4 million and financed with EU public money.
+
+Whereas it is possible to prosecute the consulting company for active corruption in the Member State of its establishment, this was not the case for the prosecution of the third country official for passive corruption, because the EU Member State's judiciary did not have jurisdiction over this case. As a result, the EU could only incompletely follow up on crimes committed at the expense of its budget.
+
+It is not possible at present to establish clearly the loss of the EU budget, as the trial in the Member State is still ongoing; however, without the corrupted act the EU could have probably saved the difference between the normal value of the contract and the value inflated because of the illicit intervention.
+
+As a result, deterrence on perpetrators acting from outside the EU, who do not have EU citizenship, is nearly totally absent. Even within the EU, deterrence can be negatively affected because various judiciaries can foreseeably get entangled in competence discussions. In such situations, criminal law provisions remain lettres mortes and entail lack of enforcement. Recovery in criminal proceedings, too, is impossible if jurisdiction is missing. Practitioners highlighted this aspect as one of the relevant stumbling blocks to effective prosecution of crime affecting EU public money. This leads to losses for the EU budget that can be estimated at approximately € 17.3 million annually (see assumptions and breakdown in Annex V[65]).
+
+3.3.2 Cause B: Incomplete set of criminalised conducts
+
+The PIF Convention and its Protocols provide solid definitions of fraud, corruption and money laundering, albeit sometimes insufficiently transposed into national law, there are none at EU level for the other relevant related offences. The following account distinguishes the implementation-related issues (a) from those issues where even full implementation of the PIF Convention could not address the problem (b).
+
+(a) Insufficient implementation of existing definitions
+
+Even with regard to offences which are adequately defined in EU legislation, the implementing national definitions of offences which can affect the EU's financial interests are dissimilar throughout the EU. The Commission's report on the implementation of the PIF Convention highlighted this by pointing out the incomplete transposition of the PIF Convention within the EU[66](e.g. lacking coverage of all types of expenditure by the fraud offence in Italy, too demanding intent requirements for fraud in Belgium).[67] This is due partially to lacking awareness, practitioners' guidance and partially to lacking clarity of the PIF Convention, and its status as "third pillar" instrument predating the Lisbon Treaty which reduces EU influence on Member States transposition. As a consequence, interpretative issues leading to stalemate situations have arisen in OLAF investigations, whenever the definitions contained in national penal codes did not comply with the former.
+
+Case example:
+
+The definition of documentary fraud adopted in a certain Member State is too narrow when compared to the definition contained in the PIF Convention.
+
+In a particular case concerning a tender procedure for services to be charged several million € in this Member State, a consortium of companies submitted documents containing false information with regard to their technical expertise and past professional achievements.
+
+On the one hand, the documents at stake could not be considered as official documents, which means they are out of scope of "documentary fraud" in the sense of the relevant national provisions, as the documents were not drawn up by an official working for a legal entity and the cosortium; on the other hand, the offence of forgery of a private document did not apply either, as such a document would have to have been used "in order to prove the existence or non-existence, or termination or amendment of a certain right or obligation or some legal relation", which was not the case. Moreover, prosecution for fraud was not possible given that the definition contained in the penal code of this Member State requires the misleading of a particular individual, which did not seem to have been the case.
+
+The amount that the EU will lose due to this specific case,at this stage cannot be determined precisely
+
+These cases mainly create an enforcement issue, which in turn reduces deterrence, thus leading to an estimated € 31 million of losses for the EU budget annually (see assumptions and breakdown in Annex V[68]).
+
+(b) Insufficient number of offences at all defined at EU level
+
+The PIF Convention does not define the following illegal conducts which reflect conduct recurrently observed in practice, and which seriously damages or threatens to damage EU financial interests: embezzlement/ misappropriation, breach of professional secrecy, obstructing public tender procedures, conflict of interest and abuse of power. The lack of uniform definitions can lead to some Member States imposing stricter regimes than others in order to protect the EU's financial interests, and in some even to a total lack of protection. Practitioners thus have pointed to the insuffiency of existing criminal offence definitions as one of the issues of the current framework.
+
+For all offence types referred to below, an indicative description of the conduct concerned may be found in Annex I.
+
+(i) Embezzlement/misappropriation
+
+This offence criminalises theft-like conduct of staff entrusted with handling public money, who then channel funds away from its intended purposes. Such conduct, although substantially fraudulent, is not necessarily covered by the technical definition of fraud (according to which someone has to be misled), nor by the corruption definition (where an advantage must have been received from an outsider), nor the money laundering offence (where money has to have an illegal source). However, the behaviour that is sanctioned under this offence is very close to fraud, equally reprehensible, and equally harmful to the EU budget.
+
+Previous specialist academic work therefore has considered this offence as relevant[69], and its assumed relevance is consistent with current experience of OLAF where certain elements of fraud or corruption were missing in some serious cases. Only Cyprus, France, Ireland, Latvia and Poland currently include both definitions in their national legislation, though France, Latvia and Poland include the offence of misappropriation within their national legal system. In some Member States restrictions apply, as reference is made to an object, money or property which has been 'entrusted' to that person. This leads to unclear levels of protection for EU money which reduces the deterrent effect and enforcement potential of such provisions. In these Member States, perpetrators from among EU staff, or otherwise working for or on behalf of the institutions, can get away with only disciplinary consequences (limited to their professional life), or none at all (when they are contractors without statutory link allowing disciplinary action, or when disciplinary action is no longer possible or effective after long criminal proceedings having led nowhere).
+
+Case example:
+
+A public administrator has the availability of a credit card linked to a bank account where also EU funds are deposited to fund public projects. He uses repeatedly this credit card for personal purchases, as he believes that nobody will ever check the amount of the EU funded part of the account.
+
+Losses for the EU budget can be estimated at approximately € 15.1 million annually (see assumptions and breakdown in Annex V[70]).
+
+(ii) Breach of Professional Secrecy
+
+This offence criminalises the unlawful disclosure of certain sensitive information by public servants. In all the Member States breach of professional secrecy constitutes a criminal offence, but the following deficiencies were identified in some Member States, if applied to EU financial interests.
+
+In some Member States, the scope of the offence appears to be restricted by the information to which it relates. Rather than covering secrets generally, the offence relates to data (Romania) or information which the person is duty-bound by law or other statutory instrument or by order or provision issued under a law or statutory instrument to keep secret, as in the case of the Swedish provision. This means that in cases relating disclosure of information harming EU financial interests, the national concept of secrecy is applied even though financial management rules of the EU are concerned.
+
+This creates deterrence and enforcement gaps, because the national concepts of secrecy are narrower than the EU Staff Regulations' general duty of non-disclosure (Article 17 of the EU Staff Regulations). This is relevant because in cases where concrete advantages received by corrupt officials may not be proven, whilst traces of illegal communication with their counterparts can be traced. For instance, a (proven) email of an EU official with illegally outbound information to a tenderer in return for an (unproven) cash payment could not lead to punishment. Previous specialist academic work therefore has considered this offence as relevant[71].
+
+An estimated € 6.3 million of losses results annually for the EU budget (see assumptions and breakdown in Annex V[72]).
+
+(iii) Abusing public tender procedures
+
+The criminal offence of abusing public tender procedures is only covered, to some extent, in 14 Member States. The 13 Member States that do not at all define this offence are: Bulgaria, Finland, Greece, Hungary, Ireland, Latvia, Lithuania, Malta, the Netherlands, Portugal, Slovenia, Sweden and the UK. General offences do not usually apply because some elements conditioning their application are not met, e.g. fraudulent misrepresentation or a certain proven amount of damage to the EU budget.
+
+While there is a body of EU (administrative) competition law prohibiting such conduct when it amounts to a cartel (Article 101 TFEU, Regulation (EC) No 1/2003), this only applies to collusive practices impacting cross-border trade and distorting competition as such.
+
+However, below the threshold of cases relevant from a competition perspective, collusive practices can nonetheless damage EU financial interests considerably, when one considers the inefficient allocation of resources linked to tendering procedures skewed by illegal interaction between tenderers. The European Parliament has particularly highlighted illegal practices in the area of public procurement as a growing concern from the perspective of EU financial interests in its 2011 resolution on the fight against fraud.[73] Academic experts also recommend such an offence definition.[74] The non-existence of this offence type as a matter of criminal law thus leads to a lack of deterrent effect and enforcement capabilities in the Member States concerned. This entails an estimated € 40 million of losses for the EU budget annually (see assumptions and breakdown in Annex V[75]).
+
+Case examples:
+
+Case A):
+
+Mr. A, a private consultant, bribes some officials in charge of a procurement procedure in order to know the criteria for adjudicating the tender. Subsequently, he gets in touch with company B, which is not involved in the previous bribery, "selling" the information. At that point, the company B submits its offer which is the best and is awarded the tender. Company B cannot be charged with fraud, as company B neither submitted any "false, incorrect or incomplete statement or document"( the documents are formally and substantially genuine), nor provided any information in violation of an obligation (as there is no obligation to declare that the information was illegally obtained).
+
+The case rather concerns the provision of true information but with the aim of circumventing or skewing the selection criteria.
+
+
+Case B):
+
+In a procurement or grant procedure an interested person , participating with one of its companies, "convinces" another bidder to withdraw his offer, so that the tender is awarded to the company owned by the interested person.
+
+In addition to the charge of "extortion" the conduct does not amount to "fraud Even in this case, it cannot be said that the offer of the winning company is "false, incorrect or incomplete". The offer itself is genuine and the information it contains is true. But it is a case of complicity in obstruction of public procurement, to withdraw information or to provide information (the information of the withdrawal) with the aim of circumventing the tender procedure.
+
+(iv) Favouritism/abuse of power
+
+The offence of favouritism or abuse of power was not found at all in the legislation of 20 Member States. This is problematic because general offences do not usually apply to such conduct, given that certain elements conditioning their application are missing, e.g. receiving an advantage in return for a "favour" (which prevents punishment for corruption), or a certain proven amount of damage to the EU budget (which prevents punishment for fraud). The recommendation of academic experts thus is to have such an offence[76], and this is supported by some case experience of OLAF. Indeed, some deterrence gaps and enforcement difficulties appear for the Member States in question (Estonia, Greece, Hungary and the UK).
+
+Case example:
+
+This case concerned an international consulting company, also involved in other cases opened by OLAF, which was set up to advise in European projects. It turned out in the course of this particular investigation that an EU Delegation official who was in charge of the implementation of EU funded projects transmitted privileged information regarding tender procedures to the consulting company. With this background the company was able to give unfair advantage to its clients, who won contracts worth € 4 million financed with EU public money, thanks to information which was not available to other tenderers.
+
+It was not possible to prosecute the EU Delegation official as the offence of favouritism did not exist in the Member State which had jurisdiction to prosecute him. Therefore only disciplinary proceedings, with less severe consequences, could be initiated. The absence of applicable criminal offence definitions also resulted in the absence of recovery by seizure or confiscation.
+
+As a result of this case, the EU is likely to loose a certain amount, although it is impossible at this stage to quantify this loss.
+
+Unavailability of a specific offence of favouritism or abuse power leads to losses for the EU that are estimated at about € 40.5 million annually (see assumptions and breakdown in Annex V[77]).
+
+3.3.3 Cause C: Unfair types and levels of sanctioning
+
+Though consistency and fairness should be guaranteed in the application of criminal sanctions and penalties relating to fraud (see Article 325 TFEU and Article 49 of the EU Charter of Fundamental Rights), imposed penalties for fraud of the same seriousness, against the same EU public money are currently not equivalent across the EU and range from small fines to long prison sentences (see list in Annex V). Member States apply different sanctions and penalties, some of which cannot be considered proportionate nor dissuasive.
+
+This is both an issue of insufficient implementation of the PIF Convention (with regard to the deterrent effect of sanctions for fraud, corruption and money laundering), and a weakness of the Convention itself (with regard to the precise sanction levels, and offences other than fraud, corruption and money laundering). For instance in Belgium, the sanction levels were therefore very lenient (which touches upon Article 2(1) of the PIF Convention).[78] In addition to the resulting arbitrariness of sanctioning, depending on where in the EU a perpetrator happens to be prosecuted for having illegally dealt with EU money, the lack of level playing field also reduces mutual trust of judicial authorities who need to cooperate to solve cross-border cases relating to EU financial interests.
+
+National legal research has highlighted the low and, additionally, strongly diverging criminal sanctions and penalties which exist in the Member States.
+
+As confirmed by a number of prosecutors, the penalties in some jurisdictions are regarded as insufficient to act as an effective deterrent against the loss of EU funds as would be required by Article 325(1) of the Treaty. This holds true when the sanction levels are so low that they do not create any disruption of (illegal) activities any more. This is the case in particular for the absence of minimum imprisonment ranges (such as in the Czech Republic for corruption, or in Hungary for breach of professional secrecy, or in Bulgaria for favouritism). In general, any sentencing range which would frequently results in sentences easy to served during leave or holidays and which does not entail a risk of extradition or surrender under the European Arrest Warrant[79] system, can be regarded as ineffective from a deterrence point of view, because they do not imply the required stigmatising or disrupting effect. Maximum sentences of only a few months (such as in Austria) are unsatisfactory for the same reasons, given that courts, for reasons of proportionality, rarely hand down judgments applying the maximum sentence. These issues are compounded by a lower level of mutual trust between the judiciaries, given the disparate levels of sanctioning, which reduces the impetus to seek or grant judicial cooperation, and thus creates enforcement and recovery issues.
+
+This aspect is compounded by issues arising from discrepancies in sanction levels.[80] These discrepancies can be expected to benefit particularly strongly the most serious offenders, i.e. transnational organised crime groups involved in offences at the expense of EU financial interests, which include multiple corporate structures and intermediaries benefiting from professional legal advice or expertise. These types of criminal groups are indeed reported to be strongly involved in fraudulent conduct at the expense of taxpayer money, through various schemes requiring cross-border corporate mobility and tax law expertise.[81]
+
+Case example:
+
+OLAF investigated several cases of large-scale fraud involving textiles imported from China. The fraud scheme involved the importation of textiles from China, firstly, by understating the value of the products in order to evade customs duties of approximately € 300 million, and, secondly, the fraudsters also illegally evaded the payment of value-added tax (VAT). The goods were subsequently cleared in the Member State of arrival without paying the VAT and were then transported into another Member State of destination, where the VAT would have had to be paid by the recipient. However, in this scheme the majority of recipients were either non-existent or disappeared from the scene after a short period in operation.
+
+The cases showed that the fraudsters later avoided – after some successful prosecutions for fraud – some Member States and continued their textile fraud schemes in other Member States with more lenient sanctions. This mirrors the lack of equivalence in the criminal law rules across the EU.
+
+As a result the EU is likely to have lost a significant amount of money, although it is impossible at this stage to identify a precise amount, as many criminal proceedings are still ongoing.
+
+This issue (insufficient and differring sanction types and levels taken together) leads to an estimated € 49.7 million of losses for the EU budget annually (see assumptions and breakdown in Annex V[82]).
+
+3.3.4 Cause D: Excessive impediments to application of criminal law
+
+Criminal cases relating to EU financial interests are often taking a long time to investigate and prosecute. They are also too often abandoned altogether at an early, although the evidence would not warrant so. This phenomenon cannot be stopped entirely, but, weighing the seriousness of the conduct at stake, excessive hurdles to application may be noted.
+
+(i) Inadequate prescription rules
+
+The rules on prescription govern the maximum time period within which a particular offence can be prosecuted and punished. The prescription rules applying to EU financial interest cases in the Member States differ strongly, both as regards the length of the limitation period after which an offence cannot be prosecuted anymore (e.g. 1 year for misappropriation in Austria, 12 years for the same offence in the Netherlands), and the question of whether the period is prolonged once investigative measures are taken or trial begins (e.g. in Italy there is no such prolongation during trial). As was highlighted by prosecutors, this is not adequate to the structure of investigations in cases affecting EU financial interests, which are similar in complexity and duration regardless of the concrete offence, and involve additional similar delays across the board due to (i) reporting periods for financial programmes of at least one year and (ii) often OLAF investigations of 2-3 years before criminal justice becomes active. Therefore time-limitation periods below an initial 5 years (such as in Austria, 1 year for misappropriation, and France, 3 years) do not realistically permit detection in time. Also, a lack of prolongation of time prescription periods once criminal proceedings begin (allowing at least a doubling of the initial prescription period to 10 years) prevents sustainable prosecution of the criminal offences in this context.
+
+Case example:
+
+OLAF investigated several cases involving allegations of serious fraud in the framework of the European Agricultural Guidance and Guarantee Fund, with various companies who fraudulently applied to, and received financing from, the EC for agricultural projects between 1992 and 1997. Thorough criminal proceedings took place in Member State A, whereby all the defendants were charged in 2005, 8 years after the last acts occurred, with aggravated fraud amounting to € 3.1 million. Yet all the defendants had to be acquitted due to a new prescription law which was passed while the proceedings were ongoing, and which shortened the the length of prescription time from 10 to 6 years maximum without prolongation once criminal proceedings begin, thus suddenly making the ongoing case time-barred.
+
+Convictions to imprisonment for fraud took place in the same case in another Member State which did not have the same restrictive statute of limitations.
+
+As a result the EU lost a significant amount of money, probably some hundreds of thousands of euro. However, due to the specificity of the case, it is difficult to identiy a precise amount.
+
+Excessively short, or unprolongable, time-limitation periods necessarily result in a serious loss of deterrent effect vis-à-vis perpetrators aware of judicial practice (in particular organised groups involved in complex customs fraud or money laundering schemes), as well as enforcement gaps and negative impact on recovery which, given it often would be a consequence of conviction, cannot occur. An estimated € 6.2 million of unnecessary losses arise for the EU budget annually from this aspect (see assumptions and breakdown in Annex V[83]).
+
+(ii) Inadequate limitation to liability for intentional conduct
+
+Some of the Member States' laws regarding most serious conducts affecting EU financial interests only require punishment of intentional conduct, despite the possibility for, and adequacy to demand from, the actors involved also to avoid certain kinds of unintentional infringements. In other fields of law which equally feature the possibility and adequacy of requiring careful conduct, unintentional acts are often criminalised, such as regarding physical injury[84], traffic offences[85] or, on the basis of EU law, protection of the environment by criminal law[86]. For the protection of EU financial interests, this problem arises in case of money laundering as regards the illegal origin of funds (which is already criminalised in some Member States, e.g. in Germany and, concerning regulated sectors, in the United Kingdom). In such circumstances, persons involved can be legitimately and realistically required to check where large amounts of money that they process come from, or to refuse them if the source is unknown or unconvincing. This is already the state of EU administrative law under the second money laundering directive[87], which is currently insufficiently mirrored in criminal law. 
+"Deterrence" against unintentional acts?
+
+As to unintentional illegal acts, legislation providing for sanctions in case of negligence may have a "warning sign effect" which would increase awareness of risks of illegality in decisive moments of a given activity, thus reducing the likelihood of the undesired illegal outcome materialising. One may therefore speak of a deterrent effect in the sense of a "warning".
+
+The current lack of criminal punishment for conduct involving the acceptance and processing of funds, the illegal origin of which is negligently not known, encourages reckless attitude in matters involving EU money, and thus a lack of deterrent effect (in the sense of an absence of warning effect). It also reduces detection of crime and thus enforcement levels of existing offence types. This deficiency leads to an estimated € 125 million of losses for the EU budget annually (see assumptions and breakdown in Annex V[88]).
+
+(iii) Complexity and inconsistency risks of existing rules
+
+A substantial share of prosecutors interviewed in a recent study (34%) point to problems of interpretation arising in the application of existing provisions for the protection of EU financial interests,[89] which are complex across the EU. This results in difficulties of judicial cooperation, slowness of the proceedings and unfairness in the outcomes. These phenomenona can reasonably be linked back to weak and unclear drafting of the PIF Convention, as well as of the divergencies in Member State provisions outside the current scope of the PIF Convention, and the ensuing risks of inconsistency as foreshadowed by a pending case at the Court of Justice[90].
+
+These weaknesses due to inconsistency risks contribute to a lack of deterrent effect among perpetrators who are aware of judicial practice, and they reduce recovery levels since the judicary becomes foreseeably entangled in interpretation problems. They can be estimated to impact EU financial interests by € 18.6 million (see assumptions and breakdown in Annex V[91]).
+
+3.4 How would the problem evolve in the base-line scenario?
+
+Under the current framework continued, one might expect an improvement in the implementation status of the PIF Convention. The last Member State not yet to have ratified the Convention –the Czech Republic– has engaged in internal procedures to do so. Moreover, one could hope in the long run to improve the implementation status of the Convention by tackling certain identified weaknesses of the transposition measures of the Member States, in the normal course of Commission business as guardian of the Treaties.
+
+It might also be possible in the base-line scenario to seek, together with the Member States, a better implementation of certain other existing EU instruments mentioned by a small number of Member States in stakeholder consultations, i.e. the amendments to the Council Decision setting up Eurojust[92] (which generate more information at Eurojust's disposal and sets up its on-call response capabilities) and the Framework Decision on the prevention and settlement of conflicts of exercise of jurisdiction in criminal proceedings[93] (which sets out procedures for cases dealt with by more than one Member State). However, such improvements would not impact on the problems described in this Report, in particular not the problem of deterrence due to insufficient criminal offence definitions and the lack of enforcement in certain cases by any of the Member States because of missing jurisdiction:
+
+The base-line scenario would not in any way enlarge protection to the identified areas subject to particularly damaging and/or serious illegal activities at the expense of EU money, which are not covered by the PIF Convention. It thus would not allow tackling the low number of investigations and proceedings now engaged in the field of EU financial interests' protection.
+
+This scenario would also fail to solve the lack of a level playing field regarding protection of EU money across the Member States within the areas now already covered by the PIF Convention, to the extent this uneven playing field mirrors weaknesses of the Convention itself in terms of lacking precision of definitions and unambitious minimum sanction types and levels. As a result, the deterrent effect against the offence types currently contained in the PIF Convention would remain as relatively low as it is. There would also be a persisting incentive for potential perpetrators to move to more lenient jurisdictions within the EU to exercise their intentional illegal activities.
+
+Finally, this scenario would not address the issues of clarity as they now exist with the PIF Convention and its transposing measures in the Member States. This in turn would mean that the problems of overly long and too often unnecessarily dismissed cases would not be reduced.
+
+3.5 Does the EU have the power to act?
+
+3.5.1 The legal basis
+
+The EU's competence to enact "the necessary measures in the fields of prevention of and fight against fraud affecting the financial interests of the Union with a view to affording effective and equivalent protection in the Member States and in all the Union's institutions, bodies, offices and agencies" which "act as a deterrent" is set out in Article 325 of the Treaty on the Functioning of the European Union.[94]
+
+Contrary to the pre-Lisbon Treaty version of the provision[95], Article 325(4) of the Treaty on the Functioning of the European Union now does not exclude measures impacting on "the application of national criminal law". Against this backdrop, recent legal writing concurs that criminal law measures are covered by Article 325.[96]
+
+The fight against illegal activities affecting the financial interests of the Union is a specific priority policy as the provision's prominent positioning in the Treaty indicates. It is specific because nowhere else in the Treaty the term "deterrent" appears. It is a priority because it benefits from a special chapter dedicated to "combatting fraud" in the title on "financial provisions". This peculiarity is further strengthened by Article 310(6) TFEU which already in the very first article of the Title on financial provisions underscores the need to fight illegal activities affecting EU financial interests ("shall counter").
+
+The purpose of Article 325 is to protect the single interest which this priority policy is about, i.e. EU public money, wherever it should be collected or spent.
+
+The protection of EU public money is a solidarity interest at EU level which is different than the sum of the Member States' national financial interests. For these reasons, the Treaty confers upon the Union strong powers to adopt "measures" which "act as a deterrent" and "afford effective" (Article 325(1)) and "equivalent protection" (Article 325(4)).[97] Deterrent, effective and equivalent protection comprises by nature, and historically (see PIF Convention of 1995), a criminal law dimension, since criminal law is needed as a basis to create a risk for potential perpetrators to be caught under emberassing circumstances, and thus a disincentive to commit the illegal act in the first place (see above, box on deterrence research in section 3.2.1). Therefore Article 325 includes the power to enact criminal law provisions in the context of the protection of EU financial interests against all angles of illegal attacks which can be envisaged.
+
+EU financial interests are not defined by the Treaty itself, but it is clear from the wider wording than the "budget", which is used elsewhere in the Treaty (e.g. Article 310(1) second subparagraph) that all funds managed by or on behalf of the Union are covered[98].
+
+3.5.2 Subsidiarity: Why the EU is better placed to take action than Member States
+
+It is considered that there is a need for EU action based on the following factors:
+
+The EU financial interests relate to assets and liabilities managed by or on behalf of the European Union. Thus, the EU financial interests are by nature, and from the start, placed at EU level. As such, they are even more "EU-centred" than a field subject to harmonisation of rules in the Member States. They are more comparable in form and substance to rules on the EU institutions', bodies', offices' and agencies' self-protection, such as in terms of physical or IT-security. As a result, they cannot reasonably be dealt with by the Member States alone. It goes in line with this assessment that the Treaty itself presumes in Articles 310(6) and 325(1) and (4) TFEU the necessity of EU legislative action for setting out equivalent and deterrent measures to protect EU financial interests against illegal activities.
+
+The EU is best placed to protect its financial interests, taking into account the specific EU rules which apply in this field. These include the budgetary rules of the Financial Regulation, the general rules on the protection of financial interests by administrative law, and sectoral rules on the protection of financial interests in the various policy areas which can be affected. This applies also to the extent that criminal law provisions for the protection of EU financial interests might be rendered more similar. Only the EU is in a position to develop binding approximation legislation with effect throughout the Member States, and thus to create a legal framework which would contribute to overcoming the weaknesses of the current situation, including in particular the lack of equivalence which is inconsistent with the Treaty objectives set out in Article 325(4) TFEU.
+
+The particular added value of EU provisions on criminal law in this area could reside in the novelty of defining relevant additional offences and sanction types and levels, which would apply similarly throughout the Member States, thus completing and learning the lessons from the experience with the PIF Convention whilst contributing to a more level playing field.
+
+4. Objectives
+
+Objectives:
+
+General: To prevent and reduce loss of money for the EU To increase credibility of EU budgetary responsibility
+
+Specific: To appropriately increase deterrence of prohibitions relating to the EU financial interests, in compliance with the EU Charter of Fundamental Rights To better enforce the prohibitions of certain conducts illegally affecting EU public money by improving investigation results, including identification of suspects and detection of beneficiaries of illegal transactions, in compliance with the EU Charter of Fundamental Rights To adequately improve levels recovery of EU public money subject to illegal acts, in compliance with the EU Charter of Fundamental Rights To ensure equivalence and fairness of provisions protecting EU financial interests across the EU To contribute to increasing mutual trust between the Member States' judiciaries To increase awareness of the rules governing the protection of EU financial interests among investigators and potential perpetrators
+
+Operational: A measure to protect EU financial interests should include the following elements: It should provide sufficiently wide scope to cover the groups of perpetrators which most seriously and/or frequently damage EU public money It should adequately enlarge the number of offences so as to cover the most seriously damaging and/or frequent types of conduct affecting EU pubmic money It should provide for sanction types and levels sufficient to ensure fairness in the protection of EU public money everywhere in the EU, whilst ensuring proportionality It should contain clear and appropriate flanking rules to facilitate enforcement
+
+5. Policy options and their impact
+
+5.1 Overview of broad policy options
+
+We have considered 5 options:
+
+Option 1: Retention of the status quo (base-line scenario)
+
+Option 2: Soft law to raise awareness of relevant provisions among potential perpetrators and practitioners, and facilitate their understanding and application including by an exchange of best practices and information;
+
+Option 3: A legislative measure converting the PIF Convention and its protocols into an instrument under the new Treaty rules, while improving consistency of the provisions contained therein;
+
+Option 4: A legislative measure requiring clarification, appropriate expansion of the scope and strengthening of the sanction levels of national criminal provisions for the protection of EU financial interests;
+
+Option 5: A legislative measure on exhaustive and directly applicable criminal law.
+
+In accordance with the Communication from the Commission on the Strategy for the effective implementation of the Charter of Fundamental Rights by the European Union[99], this Impact Assessment Report also examines the impact on the Fundamental Rights of the options proposed, in particular in the light of the 'fundamental rights check list' presented in the Communication. As will be described for each option individually, the policy options all affect fundamental rights as set out in the Charter, although not in an unjustifiable manner. Mainly the right to liberty (Article 6), the freedom to choose an occupation (Article 15), the right to conduct a business (Article 16), the right to property (Article 17), principles of legality and proportionality of criminal offences (Article 49), the right not to be tried and punished twice (Article 50) are concerned by criminal law measures for the protection of EU financial interests. It should be noted from the outset, however, that these provisions neither protect a "right to illegal business" nor prohibit proportionate criminal sanctions, even involving deprivation of liberty and confiscation, from being taken, as long as the criminal liability for illegal conduct is clear, known in advance and not applied twice.
+
+5.2 Discarded options
+
+(a) These options do not consider a "roll-back" option repealing the criminal law measures of the PIF Conventon, given the unanimous position of all Member States and stakeholders that criminal law is a vital component to the fight against fraud and other illegal activities affecting public money, as well as the available figures and reasoned estimates which point to better protection by criminal law. Given moreover that the EU is prevented from prohibiting Member States to criminalise certain conduct (Article 67(1) TFEU), Member States would almost certainly continue to apply their criminal law as it now stands. The "roll-back" option therefore would not have any impact other than reducing the number of legislative measures at EU level.
+
+(b) The addition of negligence as a type of conduct triggering criminal liability by default was discarded as disproportionate. The deterrent effect of negligent criminal liability being limited to a "warning signal" as described in section 3.2.1 above, the substantial enlargement of the scope of criminal sanctions to unintentional conduct for all offences appeared too far-reaching to be warranted by the expected benefit in effectiveness of the legal framework. Thus the indiscriminate application of negligence to all offence types, with the same sanction levels as for intentional conduct was considered contrary to Article 49(3) of the EU Charter of Fundamental Rights and had to be discarded. Instead the analysis of the Impact Assessment Report is focused on a case-by-case approach to negligence, in the context of one specific offence type, with regard to its way of commission and to the particular threat to financial interests such an offence causes.
+
+5.3 Description and impact analysis of policy options
+
+5.3.1 Policy option 1: Retention of the status quo (base-line scenario)
+
+Content: No action would be taken at EU level other than that foreseen by the existing framework, i.e. normal continuation of implementation efforts of the PIF Convention.
+
+Expected Impact
+
+Effectiveness in meeting objectives None to very low. Only slight implementation improvements until 1 December 2014, within existing, limited scope of PIF Convention. But none of causes A (insufficient outreach), B (incomplete set of offences), C (sanctions) or D (application) would be tackled directly. Thus deterrence and recovery issues would likely remain unaltered. Implementation of the Convention could however improve as of 1 December 2014, when the transitional period of the Lisbon Treaty expires, thus allowing stronger follow-up by the Commission upon transposition deficiencies, which would in turn improve enforcement levels in the Member States.
+
+Impact on fundamental rights Not more than now (rights to liberty and family life regarding the existing criminal offences leading to imprisonment, freedom to choose an occuption and to conduct a business regarding the consequences of conviction for fraud, corruption or money laundering, right to property, legality and proportionality of criminal offences, right not to be tried twice regarding the application of the fraud, corruption and money laundering offences)).
+
+Financial and economic impact None.
+
+Intrusiveness in domestic justice systems None.
+
+Proportionality N/A
+
+5.3.2 Policy option 2: Soft law to raise awareness
+
+Content: Raising awareness among generalist professionals of criminal law for relevant provisions, as well as among potential perpetrators, and facilitating their understanding and application by increased and specific training of national investigators and prosecutors, including training of trainers by EU staff, an exchange of best practices and case information, and the preparation with the help of the Commission of practitioners' guidelines compiling the best practices collected from Member States regarding the transposition of the provisions of EU law.
+
+Expected Impact
+
+Effectiveness in meeting objectives Low, as it would only contribute to better application of EU provisions within their existing narrow scope. Only cause D (application) would be approached to some extent, while causes A (insufficient outreach), B (incomplete set of offences) and C (sanctions) would remain untouched. Thus deterrence, enforcement and recovery issues would likely be almost unaltered, save for some limited collateral improvements of enforcement and recovery levels by higher efficiency within the existing framework.
+
+Impact on fundamental rights Low to medium (rights to liberty and family life regarding the existing criminal offences leading to imprisonment, freedom to choose an occuption and to conduct a business regarding the consequences of conviction for fraud, corruption or money laundering, right to property, legality and proportionality of criminal offences, right not to be tried twice regarding the application of the fraud, corruption and money laundering offences)), including in addition to the current state-of-play an impact on data protection as regards improvements of information exchange on PIF cases, which would however be justifiable with appropriate safeguards, including purpose limitation.
+
+Financial and economic impact € 37.2 million gains at EU level; € 3.08 million extra costs at EU level (due to meeting organisation, travel expenses, working time of officials etc.) for Commission; positive net result for Member States with a view to efficiency gains (better use of prosecutors' time).[100]
+
+Intrusiveness in domestic justice systems Minimal.
+
+Proportionality Given the lack of binding measures, the proportionality requirement is unproblematically complied with.
+
+5.3.3 Policy option 3: A legislative measure converting the PIF Convention into an instrument under the new Treaty rules, while improving consistency of the provisions contained therein
+
+Content: Integrating provisions of the PIF Convention and its protocols within the new Treaty framework, while improving consistency of the provisions on fraud, corruption and money laundering contained therein (this means in particular applying the same minimum sanction levels and jurisdiction clauses to all these offences, and bringing their implementation status in the Member States within the normal ambit of ECJ review powers). The improved consistency can be expected to slightly enlarge the scope of application of some provisions in the Member States and to facilitate application of transposing rules of the Member States, and to create a more level playing field across the Member States. This in turn would improve mutual trust and facilitate judicial cooperation, which positively impacts on detection and follow-up of offences, and thus on enforcement and recovery levels.
+
+Expected Impact
+
+Effectiveness in meeting objectives Slightly higher effectiveness for enforcement than the base-line scenario only regarding better implementation tools before the transitional rules of the Treaty expire on 1 December 2014; modest effectiveness regarding better deterrence and recovery because streamlining definitions and integrating the text into the Lisbon Treaty framework would facilitate application by the prosecution services. Only causes A (insufficient outreach) and D (application) would be tackled directly, while causes B (incomplete set of offences) and C (sanctions) would not be touched upon except to a limited extent for fraud, corruption and money laundering. Thus deterrence levels would likely improve only very slightly, while enforcement and recovery levels could improve somewhat more.
+
+Impact on fundamental rights Not more than now (rights to liberty and family life regarding the existing criminal offences leading to imprisonment, freedom to choose an occuption and to conduct a business regarding the consequences of conviction for fraud, corruption or money laundering, right to property, legality and proportionality of criminal offences, right not to be tried twice regarding the application of the fraud, corruption and money laundering offences), except to the extent that streamlining definitions would marginally broaden their scope.
+
+Financial and economic impact[101] A positive impact on EU budget of an estimated € 17.2 million as a result of better enforcement and recovery in return for an estimated zero regular cost (cost of judicial workload at Member States level, minus efficiency gains).[102]
+
+Intrusiveness in domestic justice systems None.
+
+Proportionality Given the weighing between: -the minimal additional intrusiveness compared to the existing framework (only in the area of the streamlined definitions, and regarding the possibility of ensuring implementation more effectively), and -the great structural relevance for the integrity, spending capacity and reputation of the Union, as well as the obligation of sound financial management on behalf of the taxpayer, the measure would not be excessive compared to the objective pursued, but insufficiently effective.
+
+5.3.4 Policy option 4: A legislative measure requiring clarification, appropriate expansion of the scope and strengthening of the sanction levels of national criminal provisions for the protection of EU financial interests
+
+The content of this option, to the extent it exceeds the existing criminal law rules, is inspired by practitioners' suggestions, Member States' contributions, comparative law research and academic contributions.[103] Triangulating these sources has led to overlapping references to the elements set out in more detail hereinafter.
+
+Content: Legislative instrument requiring clarification, appropriate expansion of the scope, introduction of specific new offence types and strengthening sanction types and levels of national criminal provisions for the protection of EU financial interests. More particularly, this would involve the following individual measures, which reflect the problems of lack of deterrence, lack of enforcement and lack of actual recovery of lost amounts:
+
+(a) Broader scope of offences
+
+This option would clarify the range of people (including legal persons, decision-makers and all public servants, as opposed to only officials) and situations (also abroad by means of a jurisdictional clause) to which the offences apply. More particularly, decision-makers within an organisation managing EU money could cause the legal person's liability for their role or lack of preventive action within criminal proceedings. This option would guarantee sufficient liability of legal persons regardless of whether this is done administratively or under criminal law, and encourage Member States to make legal persons liable in criminal proceedings.
+
+(b) New offence definitions
+
+In addition, the option would proceed to require Member States to add to their criminal law arsenal a precise definition of the recurring fraud-related offence types of misappropriation and abuse of public procurement procedures[104] to the extent involving EU money. In the definitions which will be proposed, inadequate restrictions currently applying in national laws would be overcome, to the extent relevant for the protection of EU financial interests. This concerns for instance the restrictive condition now applicable in some Member States whereby for the misappropriation offence to apply property has to be "entrusted" to a person,
+
+(c) Appropriate sanction types and levels
+
+Further elements of this option which would set minimum sanction types (imprisonment ) and levels in line with best practices in Member States (at least a minimum of 6 months and at least a maximum of 5 years imprisonment and confiscation of assets in serious intentional cases involving minimum damage consistent with other EU instruments and the seriousness of each of the offences: fraud, , misappropriation, abuse of public procurement prodecures at least € 100,000, corruption and money laundering at least € 30,000 ). Also appropriate accompanying measures (as e.g. confiscation) would be provided for under this option.
+
+How does the Commission identify sanction levels which can be regarded as deterring?
+
+-Comparative analysis of existing Member State provisions (see Annex V), which yields the the range of possible sanction types and levels, in the light of the shared constitutional and judicial traditions;
+
+-From among those, best practices of Member States are identified on the basis of expert and practitioner contributions (e.g. satisfaction of practitioners in France and Germany with sanction ranges available there, dissatisfaction of practitioners with certain sanction ranges elsewhere);
+
+-The outcome is then adapted, where necessary, by reference to recent OLAF experience, academic work or specific horizontal EU policy considerations (e.g. minimum sanctions required for extradition or surrender, minimum thresholds set in anti-money laundering legislation). 
+
+-Here, a 6 months minimum sanction level was identified as the lowest (and thus most proportionate) possible figure which still allows a practical prospect of permitting surrender among EU Member States under the European Arrest Warrant.[105] Under this instrument, only penalties higher than 4 months can trigger surrender, which –taking into account mandatory sentencing reductions available in some Member States depending on circumstances[106]– leads to a normal minimum level of 6 months for the system to work in all cases of convictions for cases pertaining to the protection of EU financial interests. A level of 6 months is also the lowest realistic penalty to still exert a deterring effect in the sense of stigmatising and disrupting effect, because –taking into account early releases from prison after a part of the sentenced time is served– any lower figure might allow perpetrators to serve their sentence almost in the normal course of their annual working/holiday cycle.
+
+(d) Flanking measures to avoid application impediments
+
+Application of the rules would be adequately facilitated by providing prescription rules consistent with complexity and average duration of investigations in cases relating to EU public money, by introducing a standard prescription period of 5 years combined with a rule applying which can prolong the prescription period to a maximum of 10 years once investigations have begun. This is in line with best practices in Member States. Moreover, a specific rule ensuring compatibility with administrative sanction regimes (to avoid impunity arising from procedural delays and contradictions) would complement this policy option, thus addressing complexity and preventing inconsistencies, including a specific rule for the abuse of public procurement procedures ensuring consistency with the leniency policy of administrative anti-trust policies under Article 101 TFEU..
+
+Expected Impact
+
+Effectiveness in meeting objectives Medium to high effectiveness in reducing losses of EU money and restoring credibility of budgetary restraint efforts, without however taking all theoretically possible criminal law measures nor fully harmonising the sanction types and levels. All causes A-D are addressed by this option, thus considerably impacting on deterrence, enforcement capabilities and recovery levels: -Wider definitions of existing offences would overcome the limitations of scope which have lead to relevant gaps (cases relating to non-statutory servants as opposed to officials, to EU officials as opposed to national officials, where no prosecution has been possible at all). This would improve equivalence of the sanctioning playing field across the EU as well as mutual trust between the judiciaries and thus facilitate enforcement and recovery in cross-border cases; -Defining new relevant fraud-related offences concerning the losses of EU financial resources as criminal will mean allowing prosecutors to investigate and bring to court serious illegal acts affecting EU financial interests which so far were not amenable to criminal sanctioning in all Member States at all or in the same way: deterrence from such acts is likely to be very high. It integrates that expected comparative effect of criminal law vs administrative sanctions (fines etc.), whereby in financial crime as here criminal provisions can have a higher likelihood of creating such deterrent effects, because of (i) a widely shared sense in society that it has strong detrimental effects on reputation, in particular for the typically socially previously well placed offenders in the field of financial crime, to be tried or convicted for a criminal offence ("stigmatising effect"), (ii) the harsh sanctions potentially resulting from such conduct ("higher disruption risk") and (iii) the stricter investigative procedure, allowing in particular to better trace illegal transactions ("higher detection risk"); -The streamlining and lifting sanction types and levels to a minimum level consistent with effective enforcement (extradition, actual prison terms to be served) would create strong disincentives among potential corporate-level offenders and thus deterrent effects, where now an unenforceable criminal offence definition cannot (because the sanction levels are too low to actually yield sentencing to imprisonment, or to entail extradition or surrender). It also improves equivalence of the sanctioning playing field across the EU and thus mutual trust between the judiciaries, which facilitates enforcement and recovery in cross-border cases; -Flanking measures allowing to effectively apply the criminal offence definitions (in particular where crimes now cannot be prosecuted for adequate periods of time before lapsing) improve enforcement and recovery levels, because they allow prosecuting even complex cases entirely, and they prevent inconsistencies which would otherwise jeopardise legal proceedings. Moreover, the minimum approximation of Member States provisions across all offence types relevant for the protection of EU financial interests will increase mutual trust between judiciaries, which will in turn have positive impacts on conduct of transnational proceedings. The new common definitions of criminal offences and the harmonised system of sanctions as laid down in the legislative proposal will contribute to minimising the concerns of the practioners in handling cross-border cases. In the Communication on the Protection of the EU financial interests by criminal law and administrative investigations of 26.5.2011 (COM(2011)293 final), the Commission reported that a survey showed that nearly 60% of judges and prosecutors in the MS consider the transnationality of a case as a problem due to the difficulties in the relationships with the authorities of other MS; this explaines why these cases are not prioritiesed. A better level of harmonisation in the criminal offences and sanctions will help to dissolve these concerns and will facilitate prioritisation of the cases.
+
+Impact on fundamental rights Medium impact on fundamental rights (rights to liberty and family life by possible imprisonment of convicted perpetrators, freedom to choose an occupation and to conduct a business by possible disqualifications of convicted perpetrators, right to property by possible shutting down of illegal businesses, criminal fines upon conviction and confiscation, legality and proportionality of criminal offences because new offence definitions are set out, right not to be tried twice because of interplay with administrative sanction regimes). These measures serve to meet objectives of general interest recognised by the Union (see Article 52 para. 1 of the Charter), and in particular to provide effective and deterring measures for the protection of EU financial interests. In the context of increasing amounts of irregularities and fraud suspicion and in light of the ineffectiveness of the current measures under the PIF Convention (as laid out in the Problem Definition), the measures do not go beyond what is necessary to achieve this objective. All provisions on criminalisations and sanctions will be drafted in a clear and predictable manner, ensuring legal certainty. Explicit safeguards would be laid down in the EU legislative instrument itself, specifying the right to an effective remedy and to a fair trial, including the rights of the defence, ensuring an equivalent level of effective judicial protection by national courts.
+
+Financial and economic impact[107] A level of financial benefit (avoided or recovered losses) can be estimated to be an annual € 470.7 million[108] at EU level. Economic benefits include the indirect impact on licit economy, through better availability of EU funds which would otherwise have been defrauded. The regular organisational and administrative cost of this option (in particular work surplus for national investigators, prosecutors and judges by reference to Council of Europe cost-per-case figures) can be assessed to be of € 29.2 million at Member State level[109]. One-off cost at Member States level would be an estimated € 18.2 million for legislative implementation.[110]
+
+Intrusiveness in domestic justice systems Relatively modest, as Member States could implement in keeping with their national legal traditions and even go beyond the definitions, sanction types and levels of the instrument. The option does not intrude into the procedural criminal law of the Member States, nor is it requiring changes to principles of national criminal laws. Rather, it would give additional tools to prosecutors to act under their normal national procedure. More particularly: the broadened scope, new offence types and sanction types and levels would require adaptations of the criminal codes of most Member States, but without creating systemic upheaval because the instrument would leave leeway for implementation and more severe approaches. A precise list of the Member States where each of the indidual measures of this option would require legislative change, and to what extent, is contained in the Annexes to this Report.[111] As the criminal offence of abuse of power is found only in a limited number of Member States, the harmonisation of this offence would be slightly more intrusive as it would compel a number of Member States to introduce a criminal offence unknown to their respective national systems. As far as the offences of breach of professional secrecy, liability of financial decision makers and abuse of office are concerned, their harmonisation could be considered slightly more intrusive as these offences are not typically linked to fraudulent behaviour. The jurisdiction clause would require adaptation of most Member States' criminal law frameworks (except those already applying the principle of universal jurisdiction for cases related to financial interests), but only with effect limited to offences for the protection of EU financial interests, which are specific enough to warrant such an exception. The requirement of legal persons' sanctioning in criminal proceedings would only require changes in Bulgaria, Germany and Latvia, but it would largely respect those Member States' choice concerning the choice of liability given that it would not challenge the "principle of guilt"[112](because the nature of the sanction could be non-criminal, even if handed down by a criminal court after prosecutorial investigation). It is modeled on the framework as currently applied in Italy. Member States which already apply liability of legal persons in criminal proceedings have confirmed its usefulness (in particular France). The envisaged rule on consistency with administrative sanctions is directly inspired by Member State input (Austria). The fact that such an instrument would remain limited to EU financial interests, thus in theory allowing Member States different rules for national financial interests, does not force a discriminatory approach among Member States. They remain free to adapt also their national financial interests to this level of protection, or to protect EU financial interests at a higher level with a view to the possible differences in the seriousness of conduct in individual cases, to the extent their national consitutional rules allow so.
+
+Proportionality Given the weighing between: -the adequate increased coverage by criminal offence definitions, and the adequate, credible minimum sanction levels, without excessive extension to unintentional conduct or to conduct of persons not directly responsible or involved in management of EU public money, and -the great structural relevance for the integrity, spending capacity and reputation of the Union, as well as the obligation of sound financial management on behalf of the taxpayer, and the benefits of increased clarity in the legal framework, the measure would be proportionate to the objective pursued. This holds true with respect to the changes required in any of the Member States, none of which would have to modify the basic tenets of their criminal law systems.
+
+5.3.5 Policy option 5: A legislative measure on exhaustive and directly applicable EU criminal law for the protection of its financial interests
+
+Content: Legislative instrument providing directly applicable EU criminal law provisions identical to those of policy option 4, but additionally with exhaustive sanction frames, i.e. including "maximum-maximum sanction levels", based on best practices of Member States, taking into account both seriousness of the conduct and proportionality (a minimum of 6 months and a maximum of 5 years imprisonment for cases of fraud, abuse of office, misappropriation, abuse of public procurement prodecures and breach of professional secrecy worth at least € 50,000, for corruption of at least € 25,000, or for money laundering as of € 15,000).
+
+Expected Impact
+
+Effectiveness in meeting objectives A single criminal law framework for the protection of EU financial interests, with wide yet precise definitions and sufficiently deterring sanctions types and levels would apply. All causes A-D are overcome by this option, thus very considerably impacting on deterrence, enforcement capabilities and recovery levels. The expected beneficial financial impact is similar to the preceeding option because it also contains sufficiently broad and new offence definitions, deterrent sanction types and levels and reduces impediments to application (deterrence, enforcement and recovery levels).
+
+Impact on fundamental rights Relatively high (rights to liberty, family life, freedom to choose an occuption and to conduct a business, right to property as for the previous option; legality and proportionality of criminal offences, right not to be tried twice with particularly direct relevance for the drafting of EU legislation), in that EU legislation as such would be grounds for criminal prosecution and conviction, thus making the drafting of
+criminal law legislation at EU level particularly sensitive, in keeping with the principle of legality, and the principle of certainty derived from it, ("found guilty of a criminal offence under Regulation (EU) No xyz…"). Whilst such an approach would appear justifiable in the light of the objective pursued, and given the knowledge of actors involved about the EU source or destination of the funds they are damaging or threatening, it is a far-reaching measure that raises questions as to its proportionality in terms of fundamental rights impact.
+
+Financial and economic impact Considering the uncertainty surrounding the assessments, the estimate of the positive financial impact of € 477.5 million at EU level is considered the same as for option 4. Regular organisational and administrative cost of € 29.2 million at Member State level is also to the same as option 4.[113]
+
+Intrusiveness in domestic justice systems Substantial impact in that national criminal justice systems would have to apply directly EU criminal law, with its potentially diverging systemic approach and terminology. Member States have pointed out that any solution should respect their legal traditions and criminal law system. A directly applicable set of criminal law rules, which the judge would have to apply instead of the national criminal code, would create substantial interference with these traditions and systems because they cannot possibly correspond to all the Member States' national approaches. It would likely also face consistutional challenges in some Member States, as the national legislator cannot co-decide on the exact structure content of directly applicable criminal law provisions.[114]
+
+Proportionality Given the great structural relevance for the integrity, spending capacity and reputation of the Union, as well as the obligation of sound financial management on behalf of the taxpayer, the proportionality requirement would still be complied with under the condition that -the drafting would provide sufficient clarity and have the same legal effect in all language versions, which entails a particular effort of legal-linguistic checks, and -the scope of application cautiously limits the scope of the instrument to financial interests of the EU in a narrow sense, so as to minimise the impact on national legal systems. However, an important proportionality challenge – though not outright disproportion – arises in that the estimated beneficial impact of option no. 5 is only slightly greater than for option no. 4, whilst the interference with national legal systems is considerably higher.
+
+The following box provides a comparison of the substantial differences between Policy Options 4 and 5.
+
+→ The main difference between option 4 and option 5 lies in the varying leeway for Member States, who under option 4 may largely maintain for PIF offences their normal criminal law system and drafting approach and surpass the severity of the EU text, whilst option 5 is characterised by exhaustive rigidity of the EU rules, which would have to be applied as such by the Member States' prosecutors and criminal courts
+
+Policy Option 4 Policy Option 5
+
+Directive Regulation: would ensure widened protection, whilst allowing Member States to go further  would provide a single, immovable set of rules on the criminal law protection of EU financial interests; would provide minimum definitions of offences, on which Member States can expand, for instance by adding serious cases or liability for negligent conduct would impose exhaustive definitions of the offence types covered; would contain minimum rules on sanction types and levels would lay down rigid sanction types and levels; would contain ancillary provisions to be transposed by the Member States in keeping with their legal traditions would contain an exhaustive and isolated set of ancillary provisions, in some cases possibly different from national criminal legislation traditions, and to be found elsewhere than in the national criminal code
+
+Member States' prosecutors and courts would apply the national transposing measures in the national criminal legislation Member States' authorities would apply the provisions of the Regulation directly
+
+6. Comparative assessment of policy options
+
+The table below sets out a comparison of the relative rating of the 5 policy options as described in part 5.3 against the specific and operational objectives as defined in part 4. The policy options are classified according to their potential to meet the objectives defined in part 4, with three checkmarks (PPP) indicating highest relative potential. Ratings for expected effectiveness in achieving the objectives are given equal weight in the final sum.
+
+The rating takes into account, in particular, the expected beneficial effects of each of them on the level of deterrence against illegal activities affecting EU financial interests. .
+
+Objectives/costs Policy option 1: Status quo Policy option 2: Policy option 3: Policy option 4: Policy option 5:
+
+Impact on fundamental rights Low Low to medium[115] Medium Medium to high High
+
+Financial and Economic impact per year[116] (see tables in Annex V for full explanation) For the EU: 0 For the EU: + € 37.2 million € - € 3.08 million For the EU: + € 17.2 million For the EU: +€ 470.7 million For the EU: +€ 477.5 million ( considered not significantly different from option 4)
+
+For Member States: 0 For Member States: +€ 4.4 million For Member States: -€ 2.6 million For Member States[117]: -€ 29.2 million For Member States[118]: -€ 29.2 million
+
+Intrusiveness in domestic justice systems 0 Low Low Medium High
+
+Options 4 and 5 are both effective in achieving all the general and specific objectives. In terms of efficiency, however, option 4 offers the more balanced relation between intrusiveness, on one hand, and effectiveness, on the other hand. Therefore, option 4 is the preferred option.
+
+7. The preferred option
+
+Summary of the preferred policy option 
+
+The preferred policy option would involve a combination of the following elements: This would address the following causes of section 3.3 above:  This would help to achieve the following objectives of section 4 above:
+
+Approximating criminal laws of the Member States while allowing them substantial leeway to adapt the provisions to their national criminal law framework Cause A-D Equivalence and fairness of sanctioning, mutual trust among the Member States
+
+Broader scope of offences 
+
+Up-to-date, clear definition of EU financial interests Cause A  Enforcement, awareness
+
+Functional scope of corruption offence Cause A Enforcement, recovery
+
+Apply liability to legal persons for offences affecting EU financial interests Cause A Enforcement, recovery
+
+New offence definitions 
+
+Add the offence of "misappropriation" Cause B Deterrence, enforcement, recovery
+
+Add the offence of "abuse of public procurement procedures" Cause B Deterrence, enforcement, recovery
+
+Appropriate sanctions 
+
+Foresee specific minimum sanction types and levels for the criminal offences defines Cause C Deterrence, recovery
+
+Flanking rules adequately facilitating application 
+
+Minimum time-limitation and suspension rules Cause D Deterrence, enforcement
+
+Extend geographical scope of jurisdiction of EU judiciaries to all offences affecting EU financial interests Cause D Enforcement, recovery
+
+Include a rule ensuring compatibility with administrative sanctioning system Cause D Compliance with Fundamental Rights
+
+Policy option no. 4 could be combined with elements of the soft law approach set out in policy option no. 2, with which it is both compatible and mutually reinforcing. This is not a necessity in order to address the problems set out in section 3 above, but a possibility in due course to increase effectiveness of the legislative means. Policy option no. 4 also leaves room for a complementary initiative in procedural law, as announced in the Commission's Work Programme[119], which will be facilitated by a level playing field in criminal law.
+
+8. monitoring and evaluation
+
+Potential risks to implementation by Member States in keeping with the transposition period will be identified in an Implementation Plan accompanying a proposal for the Directive which sets out relevant measures by the Commission aimed at countering these risks.
+
+Providing for a robust monitoring and evaluation mechanism is crucial to ensure that the rights envisaged in the Directive are complied with in practice as well as in legislation. The Directive will stipulate that Member States should report on the effective implementation. Data provided by the Member States under their existing reporting obligations to OLAF (Article 325(5) TFEU), Eurostat, Eurobarometer and the Council of Europe will enable the formation of a useful baseline for monitoring the situation, including the ex post assessment of the initiative's effectiveness when compared to earlier reporting outcomes. Besides quantitative data provided by Member States, other possible sources of qualitative information on compliance will be gathered from the Justice Forum, OLAF and Eurojust.
+
+Moreover, the Commission envisages carrying out a specific empirical study with emphasis on data collection one to three years into the implementation of the proposal. In order to gain in-depth quantitative and qualitative insights into the effectiveness of the proposal, this study will analyse the following indicators:
+
+1. Number of cases, and amounts involved (as compared to total amounts involved), where one a criminal investigation and/or proceeding was commenced under the heading of a provision within the scope of the Directive;
+
+2. Number of cases, and amounts involved (as compared to total amounts involved), where a criminal proceeding under the heading of a provision within the scope of the Directive was dismissed before trial stage, and reason for such dismissal;
+
+3. Number of cases, and amounts involved (as compared to total amounts involved), where a criminal proceeding under the heading of a provision within the scope of the Directive was brought to court by the competent authority;
+
+4. Number of cases, and amounts involved (as compared to total amounts involved), where a criminal proceeding under the heading of a provision within the scope of the Directive was dismissed by the court without judgment;
+
+5. Number of cases, and amounts involved (as compared to total amounts involved), where a criminal proceeding under the heading of a provision within the scope of the Directive led to a judgment, and outcome and, if applicable, sanction type and level of such judgment.
+
+The data would enable the Commission to evaluate the actual compliance in Member States not only with this legislation, but also with the underlying Treaty obligations (effective, proportionate and dissuasive measures for the protection of EU financial interests, which are equivalent across the EU, as well as respect for the rights, freedoms and principles enshrined in the EU Charter of Fundamental Rights).
+
+ANNEX I: Glossary and parameters of the protection of EU financial interests by criminal law
+
+What are the EU financial interests?
+
+The EU financial interests are not defined in the Treaty. Existing legislative practice cover both the general budget of the EU and the special budgets managed by the EU, namely: revenues (e.g. agricultural levies, sugar contributions, customs duties); expenditures (e.g. subsidies, aid, direct payment); assets (movables, immovables, EIB bonds).
+
+These interests can be affected either by reducing or losing assets or revenue accruing from resources, or by an unjustified item of expenditure.
+
+What are the working definitions for the offence types mentioned in the report
+
+– In relation to expenditure, fraud consists of any intentional act or omission relating to: the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the misappropriation or wrongful retention of funds from the general budget of the European Communities or budgets managed by, or on behalf of, the Union; non-disclosure of information in violation of a specific obligation, with the same effect; and the misapplication of such funds for purposes other than those for which they were originally granted.
+
+– In relation to revenue, fraud consists of any intentional act or omission relating to: the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the illegal diminution of the resources of the general budget of the European Communities or budgets managed by, or on behalf of, the Union; non-disclosure of information in violation of a specific obligation, with the same effect; and misapplication of a legally obtained benefit, with the same effect.
+
+– Money laundering means the following conduct: the conversion or transfer of property, knowing that such property is derived from criminal activity or from an act of participation in such activity, for the purpose of concealing or disguising the illicit origin of the property or of assisting any person who is involved in the commission of such activity to evade the legal consequences of his action; the concealment or disguise of the true nature, source, location, disposition, movement, rights with respect to, or ownership of property, knowing that such property is derived from criminal activity or from an act of participation in such activity; the acquisition, possession or use of property, knowing, at the time of receipt, that such property was derived from criminal activity or from an act of participation in such activity; and participation in, association to commit, attempts to commit and aiding, abetting, facilitating and counselling the commission of any of the actions mentioned in the foregoing paragraphs.
+
+– Passive corruption consists of "the deliberate action of an official, who, directly or through an intermediary, requests or receives advantages of any kind whatsoever, for himself or for a third party, or accepts a promise of such an advantage, to act or refrain from acting in accordance with his duty or in the exercise of his functions in breach of his official duties in a way which damages or is likely to damage the Union financial interests".
+
+– Active corruption consists of "the deliberate action of whosoever promises or gives, directly or through an intermediary, an advantage of any kind whatsoever to an official for himself or for a third party for him to act or refrain from acting in accordance with his duty or in the exercise of his functions in breach of his official duties in a way which damages or is likely to damage the Union' financial interests shall constitute active corruption."
+
+– Embezzlement is the stealing or inappropriate channelling of money/assets. For the purposes of this report, it is assumed to include the following elements: involves property belonging to another; entrusted to them due to position or otherwise (i.e. not just restricted to
+public officials); and converted to their own use or otherwise embezzled/misappropriated.
+
+– Favouritism/abuse of power relates to the procurement of contracts to family members, friends, business partners, political contacts etc. in the light of business proceedings. It is assumed to include: use of a certain position held; person secures benefit for themself or another through this position held; and failure to disclose favouritism.
+
+– Abuse of public procurement procedures relates to collusion in national tender procedures involving EU money. It is assumed to include the following: where a person acts contrary to procurement rules; tries to influence/create unjustified preferential conditions /negotiate more favourable condition; and gains unlawful benefit or causes detriment to others.
+
+How can the phenomenon be measured?
+
+The main empirical data available for the protection of EU financial interests stem from reporting obligations of the Member States. All these figures can only serve as a first indication of the real scale of the phenomenon, since they are based on a self-auditing process and are likely in any event to miss a substantial number of illegal activities which were not detected.
+
+– Irregularities is a category referring to cases of EU money spent or not collected in breach of financing rules. It should be noted that these cases include mistakes, without criminal or legitimately criminalisable character. Therefore, this figure gives a first indication of the scale of the problem, but does not explain it exhaustively. However, the persistently high and even increasing figure, despite simplification of financing procedures, would point to a relatively substantial, yet difficult to quantify, share of illegal activities with intentional or negligent element.
+
+– Suspicion of fraud, i.e. one of the relevant types of intentional criminal conduct[120]. This figure is equally subject to caution, as it depends on the qualification of certain events as fraudulent conduct by the Member States, and it only covers occurrences exceeding 10,000 €. In the context of the previous Commission report on the fight against fraud for 2009[121], the European Parliament expressed surprise at some Member States reporting zero fraud having been committed at the expense of certain EU funds in their respective jurisdictions[122]. Moreover, it should be noted that the limitation of the reported figures to "fraud" (as opposed to other criminal activities affecting EU financial interests) leads to a further restriction of the reporting, which in some cases may limit the perception compared to the real scale of the problem. One may therefore assume that the scale of the criminal illegality is indeed even higher than the figures relating to fraud as reported to the Commission by the Member States.
+
+– Recovery rates as compared to the irregularities reported record the money returned to the EU, which was misspent intentionally or unintentionally. With the exception of the agricultural sector, these rates do not distinguish whether the money was recovered ultimately from the perpetrator or only from the Member State in charge of correct management of EU funds.
+
+ANNEX II: Current LevelS of Sanctions in Member States and conditions for their harmonisation
+
+1. How do sanction levels vary?
+
+Fraud: the sanctions vary from a maximum of 6 months imprisonment in Austria to a maximum of 12 years imprisonment in Romania.
+
+Corruption: even leaving aside extreme cases among Member States in order to make the sample empirically more meaninful, no minimum term at all and a maximum imprisonment term of 2 years exists applies for bribery in the Czech Republic, while in in Luxembourg the term of imprisonment for corruption ranges from between 5 to 10 years.
+
+Money laundering: the lowest maximum term of imprisonment imposed is that set in Finland of two years, while in Austria the term of imprisonment can be up to 20 years.
+
+Misappropriation: where the offence exists, and again leaving out extremes, range from a maximum imprisonment term of 2 years in Lithuania to imprisonment of up to 10 years plus a fine in France.
+
+Concerning those Member States who criminalise the obstruction of public tender procedures, the sanctions also vary from a mere administrative fine in Bulgaria to a maximum of 5 years in a number of Member States including Germany, Luxembourg, Slovakia and Spain.
+
+2. What are conditions and limitations for enacting criminal law at EU level?
+
+Even if and to the extent the Treaty permits in principle EU legislation on criminal law to be adopted, some additional conditions must be satisfied for this very specific area of law.
+
+Criminal investigations and sanctions may have a significant impact on citizens' rights and include a stigmatising effect. Therefore, criminal law must always remain a measure of last resort (ultima ratio). This is reflected in the general principle of proportionality (as embodied in the Treaty on European Union). As a result, the legislator needs to analyse whether measures other than criminal law measures, e.g. sanction regimes of administrative or civil nature, could not sufficiently ensure the policy implementation and whether criminal law could address the problems more effectively.
+
+Moreover, any EU legislation on criminal law must observe the EU Charter of Fundamental Rights, which contains a specific Title on Justice (Title VI), and refrain from requiring or encouraging Member States to enact transposing law which would itself be inconsistent with those Fundamental Rights. Those Fundamental Rights are namely the right to an effective remedy, the right to fair trial, the presumption of innocence, the respect for the rights of the defence, the principles of legality and proportionality regarding each specific criminal offence and penalty, and the guarantee against double jeopardy.
+
+ANNEX III: Overview of existing EU legislation
+
+Criminal law
+
+Convention of 26 July 1995 on the Protection of the European Communities' financial interests
+
+First Protocol of 27 September 1996 to the Convention on the protection of the European Communities' financial interests on corruption
+
+Second Protocol of 19 June 1997 to the Convention on the protection of the European Communities' financial interests on money laundering
+
+Administrative law
+
+Council Regulation (EC, Euratom) No 2988/95 on the protection of the European Communities' financial interests
+
+Council Regulation (EC) No 1073/1999 and (Euratom) No 1074/1999 concerning investigations conducted by OLAF – outlining the Objectives and tasks of the Office, laying down definitions and procedures for Administrative, External and Internal investigations, setting the organisational structure of the Office and its financing; and
+
+Interinstitutional Agreement of 25 May 1999 between the European Parliament, the Council of the European Union and the Commission of the European Communities concerning internal investigations by OLAF - the object of the Agreement is to guarantee that internal investigations can be carried out under equivalent conditions in the three institutions and in all the other Community bodies, offices and agencies.
+
+Legislation laying down a bases for on-the-spot checks and inspections:
+
+Regulation 2185/96 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests
+
+Legislation relating to the notification of irregularities and the recovery of sums wrongly paid: Regulation 1848/2006 concerning irregularities and the recovery of sums wrongly paid in connection with the financing of the common agricultural policy[123]– applies to expenditure under the EAGF and the EAFRD.
+
+sectoral
+
+Regulation 1150/2000 amended by Regulation 2028/2004 on the system of the Communities' own resources
+
+Regulation 515/97 modified by Regulation 766/2008 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural matters
+
+Regulation 1290/2005 on the financing of the Common Agricultural Policy
+
+Regulation 1083/2006 laying down general provisions for the European Regional Development Fund, the European Social Fund and the Cohesion Fund
+
+Regulation 1605/2002 on the Financial Regulation applicable to the general budget of the European Communities
+
+Council Regulation (EEC) No 2913/92 on a Community Customs Code
+
+ANNEX IV : statistics on case activity
+
+Outcome of criminal proceedings in cases transmitted by OLAF to national authorities
+
+All actions following submission by OLAF Actions with judicial decisions following submission by OLAF
+
+ANNEX V: Consultation table
+
+1. The Commission has conducted specialist stakeholder consultations:
+
+Academic experts were consulted in a dedicated meeting organised by the Commission services in Brussels on 25 October 2011.
+
+Member State experts were convened by the Commission services for a consultative meeting in Brussels on 6 December 2011, which was also attended by the secretariat of the EP's LIBE committee.
+
+The views of Member States' practitioners in prosecution services were taken into account through questionnaires and discussions at the Forum of the Prosecutors-General convened by Eurojust in The Hague on 23 June 2011 and again on 16 December 2011.
+
+Representatives of the Taxpayers' Association of Europe were invited to the Commission on 25 January 2012.
+
+2. The views of other services were sought through meetings of an inter-service steering group held on 18 January 2012 and 8 Feburary 2012.
+
+Summary report on the meeting with academic experts on the protection of EU financial interests by criminal law
+
+Brussels, 25 October 2011, 9:30-17:00
+
+4 academic experts from European universities were present to discuss with Commission representatives (DG Justice and OLAF)
+
+1. General principles of EU legislation as applied to the protection of EU financial interests by criminal law
+
+Professors posed the question why financial interests were chosen as a first topic to form EU criminal law provisions on it. Commission explained it is the result of political priority and unsatisfactory situation of spending EU money but that they are at the same time looking also on the other areas.
+
+Criminal law is an area where diversity within Europe is great. Therefore, academics were dealing with the question whether there is a need to harmonise sanctions on EU level, seeing that administrative sanctions already exist. Study on criminal law provisions in 27 MSs in relation to offences has shown a lack of equivalence in sanctions and statutes of limitation. The main problem lies in unsatisfactory enforcement of criminal law on the national level. Prosecutors in MSs tend to consider cases based on PIF Convention as less important since they are too complicated to solve. It means we already have sufficient implementation in MSs, but very low enforcement so the EU could take only enforcement in its hands. It means that adoption of the new legislation cannot solve situation if MSs will not enforce. It can only simplify prosecution in the MSs.
+
+Further discussion was focused on the general principles of subsidiarity and proportionality. As regards the principle of subsidiarity, legal basis is there but it does not mean that this principle is justified. Evidence that needs for criminal law provision in the field of EU financial interests exist is necessary. There are also big differences in the competences given in the Treaty. Art. 83 TFEU [definition of criminal offences and sanctions in the areas of particularly serious crime with a cross-border dimension] is very general since aims and competences are not specified, while Art. 325 TFEU [countering fraud and any other illegal activities affecting the financial interests of the Union] can play a very prominent role. Criminal law based on Art. 325 could actually have a status of supranational criminal law. This Article is also more static which gives another reason to find a good justification for reformation of this provision.
+
+The question is also how to deal with proportionality and possible interaction of the EU criminal law with administrative sanctions also sourcing from EU law, seeing that we have ne bis in idem principle in Art. 50 of the EU Charter of Fundamental Rights. OLAF is in favour of system implied under administrative procedure, but they see the need for certain criminal sanctions as well.
+
+In some MSs is allowed to have both types of procedures at the same time but that is not possible on the EU level. Therefore, we would need clear provisions on that, a way to impose different types of sanctions together as well as to make clear division of competences between the EU and MSs. Moreover, there could be a coordinator on a national level who would give competence to certain national authority in each case. The European Public Prosecutor's Office could be an advantage in this field as well.
+
+2. Particular offences and their scope
+
+In practice, the question of "prosecutability" arises due to limitations of jurisdiction for offences committed with foreign elements, time-limitation and difficulties to trace the beneficial owner of assets held or acquired by a legal person. The problems are that certain offences expire before fraud is detected and that MSs almost never deal with extra-territorial cases even though they have jurisdiction. Moreover, they talked about a proposal for allocation of jurisdiction to avoid negative and positive conflicts of jurisdiction (maybe as a centralised "competence of last resort" in a court of one particular Member State). Professors also agreed that to compel MSs by a Directive to set out their transposition measures in a separate body of law would be difficult to reconcile with a Directive as legislative instrument.
+
+Participants also discussed rules on criminal liability of legal persons but again the problem is that some of the MSs exclude prosecution of legal entities. Also issue of criminal liability for negligence was mentioned but the questions are whether that would increase effectiveness and how to actually connect negligence with fraud. The problem is also to prove that EU financial interests were really affected and whether effect on financial interests covers also substantiated risks, which participants agreed it does – if one takes into account on the sanctions side the lower threshold to commit such offences.
+
+Summary of views of Member States experts on
+
+the protection of EU financial interests by criminal law as expressed in the consultative meeting in Brussels, 6 December 2011 and/or subsequently in writing
+
+Views taken into account are those expressed by Member State experts present at the meeting of 6 December (all except UK, NL, CY, EL, ES, FI, LT, SI), and hose received in writing thereafter (AT, DE, FI, FR, LV)
+
+1) General remarks
+
+On the scope of the problem:
+
+Important objective to protect taxpayer money, the problems are common to cross-border financial crime (IE, SE), EU financial interests crime has risen lately (LV)
+
+Implementation of existing, and coherence with preventive and procedural measures should be ensured (AT, FI, LV, CZ)
+
+national legal traditions should be taken into account when legislating on criminal law (FI)
+
+Admissibility of evidence and recovery should be improved (SK)
+
+On national state-of-play:
+
+PIF Convention about to be ratified (CZ)
+
+PIF Convention just ratified (MT)
+
+Implementation issues solved (IE)
+
+2) On Offence types
+
+MSs presented their legal framework (HU, FR, SK, AT, MT, DE, BE, SE)
+
+Functional definition of public servant advantageous (as opposed to one depending on status as official) (AT, DE, FR, SK)
+
+Embezzlement and abuse of office most relevant offences in practice, because they do not require evidence of an advantage for the public servant (as would corruption) (AT)
+
+3) On sanction levels
+
+Judicial leeway must be maintained (BE)
+
+Confiscation and recovery very important and currently not sufficient (AT, BE, SK)
+
+4) On general rules
+
+Extension of jurisdiction to third countries possible (AT, BE, SE), but dependence on judicial cooperation (AT, SE)
+
+Time-limitation: MSs explained their framework (BE, SK, SE), and highlighted the existence of too short time-limitation periods in some countries (DE) and the importance of interrupting of the period of time-limitation in case of investigative measures (AT)
+
+Liability of legal persons in criminal proceedings: FR pointed out that its main reason was to recover amounts for victims more easily, in particular in negligence cases, and that when cumulated with sanctions of physical persons did not lead to a lowering of the latter's sanction level. 
+
+5) On interplay administrative and criminal sanctions
+
+Any EU criminal law instrument would have to be compatible with EU rules of administrative law which could be considered "sanctions", and Article 6 of Regulation 2988/95 could serve as a source of inspiration in this regard. In particular, the ne bis in idem rule and the privilege of non-self incrimination would have to be safeguarded (AT, FI).
+
+Summary of contributions on the protection of EU financial interests by
+criminal law
+
+from Prosecutors-General
+
+To the consultative meeting of 16 December 2011 Eurojust, The Hague
+
+(N.B.: this is an excerpt concerning only the substantive criminal law aspect of discussions)
+
+Problems faced by the national judicial authorities: the Forum expressed concerns in relation to the many challenges encountered both at EU and national levels. Major challenges for criminal investigations and prosecutions in the fight against crime affecting the EU financial interests are: the increasing complexity of investigations; the problem of disparities in the statute of limitations affecting cross-border cooperation; the lack of common definitions of crimes in this area, and different levels of sanctions; the difficulties arising in the use of evidence collected by means of administrative investigations; and difficulties linked to jurisdiction.
+
+Possible legal measures to facilitate investigations and prosecutions: the need for modernising legal provisions and procedures to enhance effectiveness of prosecutions and investigations was emphasized. A majority of the Forum Members also expressed the need for further approximation of crime definitions (for instance swindling, fraud, VAT fraud, misappropriation, illegitimate obtaining of funds, and corruption) and penalties as well as of some procedural rules (e.g. status of witnesses, length of replies to letters of request). Furthermore, due to their specificities and complexity, certain types of crimes such as manipulation of the market, price inflation and conflicts of interest would justify the adoption of specific legislative measures at EU level.
+
+Report on the consultative meeting with
+
+the Taxpayers' Association of Europe (TAE)
+
+on the protection of EU financial interests by criminal law
+
+Brussels, 25 January 2012
+
+Summary: TAE very positive about initiative and suggesting to go further
+
+Detail:
+
+The TAE was most concerned about the complex financial system of the EU and argued that in particular agricultural and structural funds needed to be simplified
+
+The TAE believes that the institutional set-up is insufficient: Court of Auditors and OLAF produce good quality reports, but weaknesses regarding follow-up by EU and Member States
+
+According to the TAE, prosecutors are not always able or willing to investigate these cases, EPPO is therefore highly desirable
+
+According to the TAE, blacklisting of fraudulent subsidy applicants and tenderers is desirable (publication of names should be condition for subsidy or contract)
+
+According to the TAE, there is lacking competition in public procurement procedures
+
+On criminal law in particular, the TAE made the following remarks:
+
+The principle of strengthening the criminal law framework for the protection of taxpayer money is the right approach
+
+The broadening of the scope of existing offences would be useful
+
+New offence types of misappropriation, abuse of office, abuse of public procurement procedures and breach of professional secrecy are all viewed as very helpful additions, but TAE underscored their even wider suggestion of criminalising "waste of public money" by office holders.
+
+Decisionmakers having misappropriated public money should be liable to reimburse lost amounts
+
+Thus the Convention and its protocols were part of the 2005 accession treaty's list of conventions of which the new Member States would become parties, see point 3 of Annex I to the Accession Treaty of Bulgaria and Romania of 25 April 2005, OJ L 157, 25.6.2005, p. 46.
+
+[7] Directive 91/308/EEC, later repealed and replaced by Directive 2005/60/EC of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing, OJ L 309, 25.11.2005, p. 15.
+
+[8] Commission Decision of 6.6.2011 establishing an EU anti-corruption reporting mechanism, C(2011) 3673 final.
+This figure cumulates revenue (€ 393 million) and expenditure-related (€ 1,807 million) irregularities reported, see table 1, page 10, of COM(2011)595 final. It should be noted that this figure is without prejudice to later recovery by the EU from national budgets (by deduction from EU payments to that Member State). However, the taxpayer who contributed to both national and EU budgets remains damaged.
+
+
+[34] It is assumed that changes in substantive criminal law could potentially result in around one-quarter to one-third of the funds lost to irregularities being avoided or recovered (approximately €500 million). In the absence of any data, statistics, evidence or research studies to support an alternative estimate, this assumption was 'tested' at an expert workshop. These figures were then applied to each Member State's share of losses and it was assumed that no less than 0.3 per cent and no more than 0.6 per cent of total EU money handled by each Member State (that is, the total EU expenditure and revenues) could be protected from financial crimes via changes in substantive criminal law in any single Member State.
+
+As opposed to the general criminal law provisions in the Treaty in article 83 TFEU, Article 325 TFEU does not result in a géométrie variable of application in the Member States, because the opt out protocols relating to some Member States do not apply in the Title which contains article 325 TFEU.
+
+[95] The old Article 280(4) of the Treaty establishing the European Community read as follows, with the part in bold now having disappeared from its successor provision, Article 325(4) TFEU "4. The European Parliament and the Council, acting in accordance with the ordinary legislative procedure referred to in Article 251, after consulting the Court of Auditors, shall adopt the necessary measures in the fields of the prevention of and fight against fraud affecting the financial interests of the Community Union with a view to affording effective and equivalent protection in the Member States and in all the Union's institutions, bodies, offices and agencies. These measures shall not concern the application of national criminal law or the national administration of justice."
+
+[101] The cost of any legislative option includes the following: developing legislation – this relates to the cost of lawyers for drafting new legislation / changing existing legislation; administrative costs at an EU and national level – this includes the costs of informing, providing guidance to and training practitioners, the costs associated with monitoring and recording and the costs of transmitting information; compliance costs at an EU and national level – this includes costs at an EU level to implement the policy options, and costs at national level to implement the policy options (for example, the costs of an increased long-term workload in relation to investigations and prosecutions of financial crimes); and other costs – these relate largely to the administration of justice.
+
+
+[107] Given that by nature, complete data on illegal activities are unavailable, it should be noted that these figures are indicative and based on certain assumptions confirmed as reasonable by experts, such as the ratio of criminal activity within the irregularities reported by Member States which permitted to calculated a total possible positive impact for EU public money. On this basis, and in the light of the relative importance of each of the elements of the option for the work of practitioners, the individual figures for expected avoidance of losses were developed. Further explanation and breakdown can be found in Annex V at table 8.5, all elements except no. 1-6, 14 and 21 and annex 7-8 thereto. As regards the distribution of costs between various Member States, it should be assumed that these are spread unequally, depending on the number of changes which would have to be introduced in their respective national laws. This is distinguished in annex 7 to Annex IV per Member States by three degrees of cost impact (C1-C3). It should further be noted that compliance costs of companies and invididuals are assumed to be nil, because criminal law provisions only add sanctioning and investigation powers to existing prohibitions.
+
+[108] This estimate reflects the beneficial impact of the option taken in isolation (i.e. without soft law elements of option 2 which could be cumulated with option 4).
+
+Since a Recommendation is non binding, it is difficult to foresee the impact of such an instrument (even one containing very prescriptive norms) on fundamental rights, as this impact would depend on the extent to which any given Member State would implement the provisions of the Recommendation, which is very difficult to predict with any degree of precision.
+
+[117] This does not take into account potential indirect benefits on reduced loss of national public money, in particular in mixed financing schemes (EU & national money) which would benefit as a whole from the deterrent effect of the EU legislation, even if it only applies to the EU part of the financing.
+[120] Reporting obligations of Member States only apply to this type of criminal conduct. Therefore losses of EU public money due to criminal activities can be assumed to be higher, albeit to a non-measurable extent.
+
+ANNEX VI: Study by external contractor to gather information and data contributing to the preparation of an Impact Assessment Report
+
+ANNEX VII: Staff Working Document SEC(2008)188 annexed to the Second Implementation Report on the Convention for the protection of the Communities' financial interests COM(2008)77
+
+ANNEX VI: Study by external contractor to gather information and data contributing to the preparation of an Impact Assessment Report
+
+(N.B.: The impact assessment report builds on an external study "on the legal framework for the protection of EU financial interests by criminal law" (RS 2011/07, finalized by the consultant GHK on 4 May 2012). The study is public and can be accessed from the European Commission (DG Justice, Directorate B).) 
+ANNEX VII: Staff Working Document SEC(2008)188 annexed to the Second Implementation Report on the Convention for the protection of the Communities' financial interests COM(2008)77
+
+(N.B.: This Annex is integrated as an embedded pdf file. Please double-click on the image below to open when working on screen, or print the pdf file once opened by double-clicking for working off-screen)
+
+ANNEX VIII: Staff Working Document SEC(2011)621 accompanying the Communication on the protection of EU financial interests by criminal law and by administrative investigations COM(2011)293
+
+ANNEX IX: Evolution of irregularities affecting EU financial interests over time, as reported by Member States to OLAF
+
+ANNEX VIII: Staff Working Document SEC(2011)621 accompanying the Communication on the protection of EU financial interests by criminal law and by administrative investigations COM(2011)293
+
+(N.B.: This Annex is integrated as an embedded pdf file. Please double-click on the image below to open when working on screen, or print the pdf file once opened by double-clicking for working off-screen)
+
+ANNEX IX: Evolution of irregularities affecting EU financial interests over time, as reported by Member States to OLAF
+
+Source: Annual Commission fight against fraud reports
+
+Note: Figures add the amounts reported by MSs for all areas of the budget, and in particular revenue and expenditure related irregularities. The figures distinguish suspicion of fraud and other irregularities when the underlying report does so, otherwise figures include both fraud suspicion and other irregularities.
+

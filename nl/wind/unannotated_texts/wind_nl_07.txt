@@ -1,0 +1,1051 @@
+Impedantie van de grond bij monopiles voor offshore windturbines
+
+William Beuckelaers
+
+Thesis voorgedragen tot het behalen van de graad van Master of Science in de ingenieurswetenschappen: bouwkunde, optie Civiele techniek
+
+Samenvatting
+
+Door de ambitieuze doelstellingen van de Europese Unie om de ecologische voetafdruk van de mens op de aarde te verminderen, kent de offshore windindustrie de laatste jaren een sterke groei. Het meest voorkomende funderingstype voor offshore windturbines is de monopile. Bij gebrek aan betere richtlijnen worden de controles voor een monopile fundering berekend aan de hand van de p - y methode, die zijn oorsprong heeft in de olie- en gasindustrie. Deze methode is echter niet ontworpen voor de dimensies die gebruikelijk zijn bij monopiles. Door de vele beperkingen van deze methode worden monopiles momenteel overgedimensioneerd. Naast het economische nadeel, kan de overdimensionering ook leiden tot meer resonantie van de structuur waardoor deze in extremis zou kunnen falen door vermoeiing. Om in de toekomst meer economische monopile funderingen te dimensioneren, is een correcte schatting van de eigenfrequenties en de modale demping van groot belang.
+
+De eigenfrequenties van de structuur worden sterk beïnvloed door de funderingsstijfheid en de gronddemping draagt voor een groot deel bij tot de totale modale demping. Om deze aspecten te berekenen wordt in deze thesis een model ontwikkeld dat de grondreactie rond de monopile in rekening brengt met randelementen. De grond is in dit model lineair elastisch gemodelleerd en sluit perfect aan bij de funderingspaal. Door deze aannames is dit model enkel geldig onder lage belastingen. Dit model is vervolgens toegepast op een offshore windturbine in het Belwind windpark voor de Belgische kust.
+
+Aangezien het ontwikkelde model zeer rekenintensief is, wordt een aangepaste methode voorgesteld die de grondreactie van het randelementenmodel goed benadert. Aan de hand van deze aangepaste methode kan zowel de funderingsstijfheid als de gronddemping onder een kleine belasting eenvoudig worden bepaald.
+
+
+Lijst van acroniemen
+
+
+1P Rotorfrequentie
+3P Frequentie van een voorbijgaande wiek
+AM Aangepaste methode
+API American Petroleum Institute
+BE Randelementen
+CPT Cone Penetration Test
+DNV Det Norske Veritas
+E Engelse vertaling
+EU Europese Unie
+FA Fore-aft (voor-achterwaarts)
+FE Eindige elementen
+FRF Frequentierespons functie
+GF Gravitaire fundering
+GL Germanischer Lloyd
+HAT Hoogste astronomische getij
+IEC International Electronical Commission JONSWAP Joint North Sea Wave Project
+LAT Laagste astronomische getij
+MP Monopile
+OWT Offshore windturbine
+SPT Standard Penetration Test
+SS Side-side (zijwaarts)
+
+
+Hoofdstuk 1
+
+
+Inleiding
+
+
+Offshore windenergie in Europa en België
+
+Met het rapport 'Onze Gemeenschappelijke Toekomst' introduceerde de Wereldcommissie voor Milieu en Ontwikkeling (ook bekend als de commissie Brundtland) in 1987 de term duurzame ontwikkeling. Deze term wordt in het rapport omschreven als "een ontwikkeling die tegemoetkomt aan de noden van het heden zonder de behoeftevoorziening van de toekomstige generaties in het gedrang te brengen". Hiertoe is een langetermijnvisie nodig voor de economische ontwikkelingen op wereldschaal, waarbij milieu-, economische en sociale aspecten niet los van elkaar gezien kunnen worden.
+
+Sinds deze commissie werd de internationale gemeenschap zich steeds meer bewust van de impact van de mens op de aarde. Dit resulteerde in het klimaatverdrag van Rio (1992) dat tot doel heeft de emissies van broeikasgassen te reduceren en de daarmee ongewenste gevolgen van klimaatverandering te voorkomen. Binnen dit kaderverdrag is in 1997 het Kyoto-protocol overeengekomen waarbij tegen 2012 (ondertussen verlengd tot 2020), de uitstoot aan broeikasgassen moet reduceren met 5.2% ten opzichte van het niveau in 1990.
+De Europese Unie (EU) heeft in de klimaatconferenties steeds een leidinggevende rol gespeeld. De EU heeft hiervoor verschillende redenen: Europa is nog steeds sterk afhankelijk van energie-import en heeft er dus alle belang bij om zijn energieproductie te verhogen, daarnaast heeft de klimaatverandering een sterke impact in Europa door de stijging van de zeespiegel en het smelten van de gletsjers. Om deze redenen heeft de EU de 20/20/20 doelstellingen opgesteld: tegen 2020 moet de EU (1) zijn uitstoot van broeikasgassen met 20% terugdringen ten opzichte van het niveau in 1990, (2) 20% meer energie-efficiënt zijn en (3) zijn aandeel duurzame energie tot 20% optrekken.
+Door deze doelstellingen kent Europa momenteel een sterke opmars in duurzame energiebronnen. De offshore windindustrie is hierbij één van de voornaamste alternatieve energiebronnen geworden. Zo heeft het Verenigd Koninkrijk reeds meer dan 1000 windturbines geplaatst op zee (E: offshore wind turbines, OWT's) en in Denemarken zijn er dat meer dan 500. Andere landen zoals Duitsland, Nederland, België, Zweden en Frankrijk volgen deze trend. figuur 1.1 geeft een overzicht van het aantal geïnstalleerde en geplande windturbines voor de kusten van West-Europese landen.
+
+Figuur 1.1: Overzicht van het aantal geïnstalleerde en geplande windturbines op zee voor de kusten van de West-Europese landen in 2009.
+
+In de Belgische territoriale wateren zijn verschillende concessies vrijgemaakt voor OWT's. Deze concessies zijn gelokaliseerd aan de grens met de Nederlandse territoriale wateren (figuur 1.2). Deze locatie heeft de meest gunstige windcondities en de layout is loodrecht georiënteerd op de voornaamste windrichting uit het zuidwesten (figuur 1.3), wat de energieproductie ten goede komt. De windparken staan verder ook in gebieden met een gunstige geologie voor de stabiliteit van deze structuren, meer informatie hierover is te vinden in de geologische studie van Le Bot et al.
+Tegen 2020, bij de voltooïng van deze windparken, zal de offshore windenergie in België een vermogen hebben van meer dan 2000 MW. Naar schatting zou dit een productie van ruimschoots 6.6 TWu moeten opleveren, wat overeenstemt met ongeveer 7 % van het bruto Belgische elektriciteitsverbruik. Een overzicht van de windturbines per concessie is gedetailleerd in tabel 1.1.
+
+Offshore windenergie in Europa en België
+
+Figuur 1.2: Kaart van Belgische concessies voor offshore windenergie.
+
+Figuur 1.3: Procentuele verdeling van de windrichtingen in 2012 op het Zeebrugge Meteopark.
+
+1.
+Inleiding
+
+Tabel 1.1: Overzicht van de Belgische windparken per concessie waarbij er onderscheid is gemaakt tussen de drie ondersteunende structuurtypes: gravitaire fundering (GF), monopile (MP) en jacket structuren.
+
+Concessie
+Huidige staat
+Structuurtype
+Aantal turbines
+Vermogenper turbine [MW]
+Totaalvermogen [MW]
+C-power fase I	Operationeel sinds begin 2009	GF
+C-power fase II	Operationeel sinds oktober 2012	Jacket
+C-power fase III	Operationeel sinds september 2013	Jacket
+Belwind fase I	Operationeel sinds december 2010	MP
+Belwind fase II	Vergunning verleend	MP
+Northwind	Onder constructie	MP
+Norther	Vergunning verleend	MP
+Rentel	Vergunning verleend	
+Seastar	Vergunning verleend	
+Mermaid	Concept / Vroege planning
+Ondersteunende structuurtypes
+
+Ondersteunende structuurtypes
+
+In figuur 1.4 zijn de drie voornaamste ondersteunende structuurtypes weergegeven die alle drie reeds in België zijn toegepast.
+
+Figuur 1.4: Voornaamste ondersteunende structuurtypes voor OWT's. Van links naar rechts: jacket, monopile en gravitaire fundering.
+
+Jacket structuren worden typisch gebruikt in de offshore olie- en gasindustrie. Voor het ontwerp van deze structuren werd door het American Petroleum Institute (API) de 'Recommended Practice for Planning, Designing and Constructing Fixed Offshore Platforms' ontwikkeld. De fundering neemt de belasting op met funderingspalen aan de hoeken van de structuur die voornamelijk axiaal belast worden. Door de brede basis kan het kantelmoment opgenomen worden met relatief smalle palen. De funderingspalen kunnen voor ('pre-piling') of na ('post-piling') de plaatsing van de jacket geïnstalleerd worden. Pre-piling heeft het voordeel dat alle funderingspalen van een windpark in één fase worden geplaatst. Hierbij zorgen installatietemplates voor een precieze plaatsing van de funderingspalen. Dit type van ondersteunende structuren wordt voornamelijk gebruikt op diepere locaties (> 30 m).
+
+Monopile structuren zijn specifiek ontwikkeld voor OWT's. De monopile is een stalen holle buis die in de grond wordt gedreven en waarop een transitiestuk wordt geplaatst. Dit transitiestuk vormt de verbinding tussen de funderingspaal en de toren (sectie 1.4). Het kantelmoment wordt opgenomen door de laterale reactiekracht van de grond op de fundering. De berekening van de laterale kracht gebeurt volgens de p - y methode uit de ontwerpstandaard van het API. Deze methode is ook overgenomen in de 'Offshore Standard - Design of Offshore Wind Turbine Structures' van Det Norske Veritas (DNV). Monopiles zijn zeer slanke structuren: de diameter aan de zeebodem ligt meestal tussen 4 en 6 m en de hub van de rotor ligt vaak meer dan 100 m boven de zeebodem. Om te voldoen aan alle ontwerpeisen zoals minimale eigenfrequentie en maximale verplaatsing aan de zeebodem, moet de diameter van de monopile sterk toenemen op grotere diepte. Deze eisen zorgen ervoor dat monopiles typisch gebruikt worden op minder diepe locaties (< 30 m).
+
+Gravitaire funderingen bieden weerstand tegen het kantelmoment door hun grote eigengewicht en hun brede basis. Dit type van funderingen is gebruikt voor de eerste (experimentele) fase van het Belgische windpark C-power. Dit type is minder economisch gebleken dan andere opties en zorgt voor extra moeilijkheden bij de ontmanteling van de structuren.
+
+Redenen voor onderzoek naar de fundering van monopiles
+
+Monopile funderingen staan in voor 76% van de ondersteunende structuren voor OWT's (figuur 1.5). Dit komt omdat de OWT's tot nu toe vaker in de ondiepe locaties zijn geïnstalleerd. In de toekomst zullen de OWT's vaker op diepere locaties geïnstalleerd worden. Door de recente ontwikkelingen voor monopile structuren met betrekking tot het transitiestuk en de berekening van de fundering, wordt verwacht dat de monopile ook op diepere locaties economisch voordelig zal zijn waardoor dit funderingstype ook in de toekomst dominant blijft.
+
+Figuur 1.5: Verdeling van de ondersteunende structuurtypes voor OWT's eind 2013.
+
+De kost van de ondersteunende structuren samen met de assemblage, het transport en de installatie maakt ongeveer 38% van de totale projectkost uit (figuur 1.6). Elke vermindering in paallengte of wanddikte van de fundering heeft een belangrijke impact op de kost omdat hierdoor zowel de staalkost als de assemblage-, transport- en installatiekost verminderen.
+
+Figuur 1.6: Kostenverdeling voor OWT's.
+
+Voor lateraal belaste palen (monopiles), schrijven de API en de DNV de zogenaamde p - y methode voor. Hierin staat p voor de reactiekracht die bij een zekere verplaatsing y optreedt. De methode gebruikt een Winkler model met niet-lineaire veren. Deze methode werd in de jaren 70 gekalibreerd voor flexibele palen met een kleine diameter zoals die in de olie- en gasindustrie gebruikt worden. Dit is in tegenstelling tot de grote-diameter palen die zich stijver gedragen bij monopiles.
+
+De 'Guideline for the Certification of Offshore Wind Turbines' van de Germanischer Lloyd (GL) beschrijft welke aspecten bestudeerd moeten worden voor lateraal belaste palen in de offshore windindustrie: (1) statische en dynamische grondweerstand, (2) liquefactie en (3) grondstijfheid. De ontwerpstandaard van de GL biedt echter geen ontwerpmethode voor de berekeningen van deze aspecten.
+
+Lopend onderzoek in verschillende onderzoekseenheden (PISA, SOLCYP, . . . ) neemt de beperkingen van de huidige ontwerprichtlijnen voor monopile funderingen onder handen om meer economische funderingsontwerpen te ontwikkelen in de nabije toekomst. Onderzoekseenheden zoals DUWIND en BRUWIND zijn meer gericht op andere aspecten van de windturbines zoals de aerodynamica en de generatoren om ook de kostprijs van offshore windenergie te reduceren.
+
+Terminologie voor OWT's met een monopile fundering
+
+De terminologie die in deze thesis gebruikt wordt is gegeven in figuur 1.7.
+
+Figuur 1.7: Terminologie voor een OWT met monopile fundering.
+
+Het onderste deel van de structuur bestaat uit een monopile die in de grond gedreven wordt. Op de bodem wordt meestal erosiebescherming aangebracht om een erosieput rond de monopile te vermijden. De bovenste grondlagen dragen immers voor een groot deel bij aan de stijfheid van de fundering en de uiterste weerstand hiervan.
+
+Een gecementeerde verbinding koppelt het transitiestuk met de monopile (figuur 1.7). Het transitiestuk wordt gebruikt om de installatie van de toren boven de monopile te vergemakkelijken. Op het transitiestuk zijn verschillende functionele elementen aangebracht: de aanlegsteiger, de ladder en het platform voor onderhoud. Vaak wordt ook een J-vormige buis (E: J-tube) gebruikt om de electriciteitskabels van de turbine te beschermen.
+
+Bovenop het transitiestuk wordt de toren gemonteerd. De rotor en de gondel (E: nacelle) worden dan hierop geïnstalleerd. Figuur 1.8 geeft een meer gedetailleerd beeld van de rotor en de gondel weer.
+
+Figuur 1.8: Terminologie van de rotor en de gondel.
+
+De gondel (E: nacelle) herbergt alle mechanische en elektrische apparatuur, waaronder de generator, de versnellingsbak (E: gear box), de giermotor (E: yaw drive) en de rem (E: brake). De instelhoek van de wieken (E: pitch) kan worden aangepast om hogere rotorsnelheden te vermijden die de generator kunnen beschadigen en om de windturbine een constante energie te laten produceren.
+
+Doel en opbouw van de thesis‌
+
+De methode voor het funderingsontwerp van offshore monopiles kent vele beperkingen zoals reeds aangegeven in sectie 1.3. Deze thesis heeft tot doel een beter inzicht te krijgen in de stijfheid van de fundering bij kleine verplaatsing en de stralingsdemping in de grond. De funderingsstijfheid bij kleine verplaatsing is bepalend voor de eigen-frequenties van de structuur wat op zijn beurt een rechtstreekse impact heeft op de afmetingen van de monopile. Daarnaast is een betere kennis van de demping op de structuur noodzakelijk om het staal van de structuur te controleren op vermoeiing.
+
+Hoofdstuk 2 geeft een overzicht van de verschillende belastingen die op de structuur aangrijpen en de verwachtte dempingsmechanismen.
+
+Hoofdstuk 3 bespreekt de ontwerpmethode in de huidige praktijk. Hierbij wordt een algemeen overzicht gegeven van de voornaamste stappen bij het ontwerp waarna er dieper wordt ingegaan op de berekening voor het funderingsontwerp.
+
+Hoofdstuk 4 illustreert enkele belangrijke aspecten bij het funderingsontwerp aan de hand van een eenvoudig model van de structuur.
+
+Hoofdstuk 5 vergelijkt de initiële funderingsstijfheid volgens de huidige ontwerpmethode met enkele alternatieve formuleringen uit de literatuur.
+
+Hoofdstuk 6 bespreekt de ontwikkeling van het funderingsmodel om de initiële funderingsstijfheid en de stralingsdemping in de grond te berekenen. Hierbij wordt eerst het Novak model besproken om vervolgens over te gaan naar een FE-BE model dat de grondreactie beter in rekening brengt.
+
+Hoofdstuk 7 vergelijkt verschillende funderingsmodellen voor een windturbine in het Belwind windpark. Hierbij wordt extra aandacht besteed aan de eigenfrequenties van de structuur en de verplaatsings-, momenten- en dwarskrachtenlijn in de monopile. Daarnaast wordt aan de hand van het FE-BE model ook een schatting gemaakt van de modale demping door stralingsdemping in de grond.
+
+Hoofdstuk 8 stelt een aangepaste methode voor om de funderingsstijfheid en de stralingsdemping in de grond te berekenen. Deze methode is opgesteld aan de hand van verschillende berekeningen met het FE-BE model en biedt een snelle en eenvoudige methode voor het berekenen van de funderingsstijfheid en de stralingsdemping.
+
+Hoofdstuk 9 vat de belangrijkste conclusies van deze thesis samen en geeft enkele voorstellen die een nuttige bijdrage kunnen leveren aan verder onderzoek naar funderingen voor offshore windturbines.
+
+Hoofdstuk 2
+
+
+Karakterisatie van de structurele belasting op OWT's
+
+
+Een OWT is onderworpen aan hevige weersomstandigheden. De wind resulteert in een grote statische en dynamische belasting ter hoogte van de gondel en op de toren. Daarnaast veroorzaken golven en stromingen een grote horizontale last op de structuur. De richting van deze hydrodynamische lasten kan afwijken van de windrichting door bijvoorbeeld 'swell waves' die afkomstig zijn van een storm op een andere locatie, daarnaast is de richting van de stroming ook onafhankelijk van de windrichting. In noordelijke gebieden kan ijs ook een zware last op de structuur zijn. De frequentieinhoud van de belasting geeft bovendien ook aanleiding tot resonantie van de structuur.
+
+Figuur 2.1: Illustratie van de belastingen op de structuur.
+
+Aerodynamische belasting en demping‌
+
+De wind genereert een belasting op de onderdelen boven de zeespiegel. De wind resulteert in een belasting op de wieken die wordt overgedragen op de gondel. Daarnaast is er ook een directe windlast op de gondel en een verdeelde last op de toren en het bovenste deel van het transitiestuk. Door de beweging van de structuur wordt er ook een last gegenereerd in de tegengestelde richting van de verplaatsing. Wanneer de structuur hierdoor energie kan dissiperen heet dit mechanisme aero-elastische demping.
+
+Variaties van windsnelheden over de levensduur
+
+De kansdichtheid van de windsnelheid wordt vaak beschreven met behulp van een Weibull verdeling. Integratie over deze verdeling maakt het mogelijk de kans te berekenen dat de windsnelheid zich tussen twee grenzen bevindt. De Weibull verdeling wordt gegeven als:
+
+waarin A en k parameters zijn om de verdeling te beschrijven en vw de windsnelheid is. De parameters voor deze verdeling worden bepaald uit windmetingen. Voor de Nederlandse territoriale wateren zijn deze parameters in kaart gebracht (figuur 2.2). De concessies voor windparken in België bevinden zich net voorbij de Zuid-Westelijke grens op deze kaart.
+
+Figuur 2.2: Weibullparameters voor de territoriale wateren van Nederland.
+
+De Weibull verdeling geeft een verkeerde schatting voor de extreme windsnelheden. Om de 5-jarige en 50-jarige windsnelheid te berekenen worden de gemeten extreme
+
+windsnelheden geëxtrapoleerd naar dit interval. Deze zijn van belang bij de controles van de structuur onder uiterste grenstoestand.
+
+Snelheidsprofiel en turbulente wind
+
+Voor het snelheidsprofiel van de wind vw (z) bestaan twee benaderingen. Beide benaderingen zijn gebaseerd op de gemiddelde windsnelheid vwr op een referentiehoogte zr . De ene benadering is een logaritmisch profiel waarbij een ruwheidslengte z0 gespecificeerd moet worden:
+
+De andere benadering is een machtsfunctie waarbij de machtscoëfficient αshear bepaald moet worden:
+
+
+Indien de referentiehoogte laag is, bestaat er een belangrijk verschil tussen beide profielen op grotere hoogten (figuur 2.3). Daarom zijn winddata op ashoogte van groot belang en moeten er duidelijke afspraken gemaakt worden bij het ontwerp voor de keuze van het snelheidsprofiel.
+
+Figuur 2.3: Vergelijking van logaritmisch snelheidsprofiel (blauw) met het snelheidsprofiel met een machtsfunctie (rood) voor een referentiehoogte van (a) 10 m en (b) 60 m.
+
+vw
+De windsnelheid is variabel in de tijd, daarom is er een turbulentie-intensiteit It gedefinieerd die gegeven wordt door: It = σ , waarin σ de standaarddeviatie is op de gemiddelde windsnelheid vw . De turbulentie-intensiteit is afhankelijk van de hoogte, de ruwheid van de locatie en van de windsnelheid. Bij hogere windsnelheden is het snelheidsprofiel meer uniform dan bij lagere windsnelheden. Dit laatste effect is in rekening gebracht in de ontwerpstandaard voor OWT's van de International Electrotechnical Commission (IEC), maar is nog niet vervat in de huidige ontwerpcodes voor het ontwerp van OWT's.
+
+Om deze turbulentie te simuleren bestaan twee modellen: het von Kármán en het Kaimal turbulentiespectrum. Het von Kármán turbulentiespectrum is gegeven door:
+
+
+waarin f de frequentie en Lv een lengteschaal is. Deze laatste parameter is beschreven in de ontwerpstandaarden. Het Kaimal turbulentiespectrum is gegeven door:
+
+
+Tussen beide spectra is er geen duidelijke voorkeur.
+
+Belasting op de structuur
+
+De belasting op de ondersteunende structuur bestaat uit twee delen: de belasting op ashoogte van de turbine en de verdeelde last op de toren en het transitiestuk.
+
+Belasting op ashoogte
+
+De belasting op ashoogte kan berekend worden aan de hand van het impedantiebehoud van de wieken (E: blade-element momentum theory). Als resultaat geeft dit de productie-curve in figuur 2.4. Hieruit volgt de belasting in functie van de windsnelheid. Bij de 'cut-in' windsnelheid is er genoeg kracht om windenergie te produceren. Het vermogen neemt toe bij grotere windsnelheden. Bij de 'rated output' snelheid wordt de instelhoek van de wieken aangepast om een constant vermogen te produceren. Boven de 'cut-out' windsnelheid wordt de windturbine stilgelegd om schade aan de windturbine te voorkomen.
+
+Figuur 2.4: Productie-curve van een windturbine.
+
+Om de dynamische belasting op de structuur te berekenen wordt directe tijdsintegratie toegepast. De productie-curve bepaalt hierbij de instelhoek van de wieken. De last op de structuur is met deze berekeningen afhankelijk van de 3D turbulente wind die opgegeven wordt.
+
+Doordat het windprofiel niet uniform is, ontstaat er een last met de frequentie waarbij een bepaalde wiek langsheen de snellere snelheidszone gaat. Deze frequentie is gelijk aan de rotorfrequentie van de windturbine (1P). Daarnaast ontstaat er ook een last met de frequentie waarbij elk van de wieken langs de snellere snelheidszone gaat. Deze frequentie heet de 'blade passing frequency' (3P). Aangezien de rotorsnelheid van de huidige windturbines varieert tussen een minimum- en maximumsnelheid, ontstaan de 1P- en 3P-zones (figuur 2.5). De eigenfrequenties van de structuur moeten uit deze zones liggen om resonantie te vermijden, daarom wordt op deze zones een marge genomen van 10% (sectie 3.1).
+
+Figuur 2.5: 1P en 3P zones voor de controle op eigenfrequenties.
+
+Verdeelde belasting op de toren en het transitiestuk
+
+De verdeelde belasting q op de toren en het transitiestuk wordt met de volgende formule berekend:
+
+waarin CD de drag coëfficient is, ρa de massadichtheid van de lucht is en D de diameter van de structuur is.
+
+Aero-elastische demping
+
+Door het heen en weer bewegen van de volledige structuur kan energie gedissipeerd worden via aero-elastische demping. Aero-elsastische demping draagt voor een belangrijk deel bij aan de demping op de eerste eigenmode van de structuur, waar de beweging van de gondel groot is. Op hogere eigenmodes is de verplaatsing van de gondel relatief kleiner waardoor andere dempingsmechanismen een grotere rol hebben. Door hun groot oppervlak dragen de wieken van de windturbine voor een groot deel bij aan de aero-elastische demping. De beweging van de toren draagt daarentegen voor een relatief klein deel bij aan de aero-elastische demping.
+
+Hydrodynamische belasting en demping‌
+
+De hydrodynamische belasting is vaak de grootste horizontale last op de structuur. De hefboom van deze belasting is echter kleiner dan de hefboom van de windbelasting waardoor het maximale moment aan de zeebodem voor beide belastingen in dezelfde grootteorde ligt. De hydrodynamische belasting wordt zowel gegenereerd door de golven als door de stroming.
+
+Belasting-spectra voor de golven
+
+Uit tijdsmetingen van de zeespiegel kan het energiedichtheidsspectrum van de golven worden berekend. De twee meest gebruikte vormen van dit spectrum zijn het Pierson-Moskowitz spectrum en het JONSWAP spectrum (Joint North Sea Wave Project). Deze twee spectra zijn weergegeven in figuur 2.6.
+
+Figuur 2.6: Vergelijking van het JONSWAP spectrum met het Pierson-Moskowitz spectrum.
+
+Pierson-Moskowitz spectrum
+
+Het Pierson-Moskowitz spectrum werd gemeten voor volledig ontwikkelde zeestatussen (E: sea-states). De zee heeft immers steeds een aanpassingstijd nodig om zich volledig te ontwikkelen. Hierdoor ligt de piek lager, maar is er meer energie te vinden in de hogere frequenties. Aangezien de eerste eigenfrequentie van de structuur zich voorbij de piek van het golfspectrum bevindt, zal er met het Pierson-Moskowitz spectrum meer resonantie van de structuur zijn wat een negatief effect heeft op de vermoeiing van het staal.
+
+JONSWAP spectrum
+
+Bij metingen op zee is de aanpassingstijd niet altijd groot genoeg om een Pierson-Moskowitz spectrum te ontwikkelen. Daarom sluiten de gemeten spectra vaker aan bij het JONSWAP spectrum. Wanneer meetdata van de site aantonen dat de zee meestal een JONSWAP spectrum heeft, kan dit aangenomen worden in de berekeningen, waardoor de vermoeiing minder zal zijn na de levensduur van de structuur.
+
+Voorspelling van de golven aan de hand van de wind
+
+Golven worden voornamelijk gegenereerd door de wind. Tussen beiden bestaat er een relatie die beschreven is door:
+
+waarin de dimensieloze significante golfhoogte H˜ , de dimensieloze significante periode T˜ en de dimensieloze fetch F˜ (afstand van een wateroppervlak waarover de wind in een constante richting waait) berekend worden via:
+
+In deze vergelijkingen is U10 de windsnelheid op 10 m boven de zeespiegel en is g de zwaartekrachtversnelling. In de vorige formules zijn m1 tot m4, k1 tot k4, H˜∞ en T˜ parameters die experimenteel bepaald werden. De waarden hiervoor zijn weergegeven
+in tabel 2.1.
+
+Tabel 2.1: Parameters voor de relatie tussen windsnelheid en de significante golfhoogte en golfperiode.
+
+
+Deze vergelijkingen kunnen op eenvoudige wijze de golfkarakteristieken bepalen op basis van enkel windgegevens. Voor een eerste benadering kan de fetch oneindig verondersteld worden. Deze methode kan gebruikt worden wanneer er geen gemeten gegevens zijn van de golven. Wanneer die wel ter beschikking zijn, worden de metingen bij voorkeur wel gebruikt.
+
+Golf- en stromingssnelheidsprofiel
+
+Snelheidsprofiel door golven
+
+Het snelheidsprofiel kan benaderd worden door gebruik te maken van de lineaire golftheorie. Een belangrijke aanname hierbij is dat de golfhoogte relatief klein moet zijn ten opzichte van de waterdiepte. Het horizontale snelheidsprofiel ug (z, t) wordt met deze theorie gegeven door:
+
+waarin a de golf-amplitude is, d de waterdiepte en k het golfgetal is dat berekend wordt via: k = 2π/λ met λ de golflengte. De oorsprong van de z-as ligt op de zeebodem en is naar boven gericht.
+
+Snelheidsprofiel door stroming
+
+In de ontwerpstandaarden voor OWT's is een snelheidprofiel met een machtsfunctie aangenomen voor de stroming:
+
+waarin us0 de stromingssnelheid is aan het oppervlak. Stromingen zijn sterk locatie-afhankelijk en hebben vaak een voorkeursrichting. Bij het ontwerp van een OWT moet hiermee rekening gehouden worden.
+
+Belasting op de structuur
+
+Met de snelheden door de golven en de stroming kan de belasting op de structuur berekend worden via de Morison vergelijking:
+
+waarin Cm de inertiecoëfficient is, Cd de dragcoëfficient, ρ het specifiek gewicht van water, V het volume en A het oppervlak is van het deel waarop de kracht aangrijpt. u is de som van de watersnelheid ten gevolge van de golven en de stroming. Voor structuren als monopiles is de hydrodynamische weerstandsterm (E: drag) verwaarloosbaar ten opzichte van de inertiële term. Hierdoor kan deze vergelijking gelineariseerd worden wat de analyse in het frequentiedomein vergemakkelijkt.
+
+Demping op de structuur
+
+Net als bij de demping door de wind is er ook een hydrodynamische kracht op de structuur die veroorzaakt wordt door de beweging van de paal. Deze kracht is in tegengestelde richting van de beweging en veroorzaakt daardoor demping op de structuur. Daarnaast worden golven weggestraald in het water wat een beperkte demping heeft op de modes van de structuur.
+
+IJsbelasting
+
+Op de Belgische territoriale wateren is er amper ijsvorming, daarom is dit deel niet uitvoerig besproken. In meer noordelijke gebieden kan ijs één van de belangrijke lasten zijn op de structuur: door de beweging van het ijs is er niet enkel een statische last, maar de zwakkere plaatsen in de ijsmassa kunnen ook zorgen voor een aanzienlijke dynamische last.
+
+Aardbevingslast
+
+In de Noordzee kunnen aardbevingen relatief groot zijn (figuur 2.7). Zoals aangegeven in de ontwerpstandaard van de GL moet er extra aandacht besteed worden aan de aardbevingslast bij gronden die gevoelig zijn voor liquefactie. De funderingen van offshore windturbines in België liggen meestal in dichtgepakt zand en stijve klei waardoor het risico op liquefactie relatief klein is.
+
+Figuur 2.7: Piekgrondversnelling in Vlaanderen voor een terugkeerperiode van 475 jaar (10% kans op overschrijding in 50 jaar), berekend op basis van het bronzoneringsmodel gebruikt in Eurocode 8.
+
+Grondreactie en -demping
+
+De lasten op de structuur moeten opgenomen worden door de fundering. De grond levert hiervoor de tegenreactie. De berekening van de grondreactie voor monopiles gebeurt tegenwoordig via de p - y curves. De fundering zorgt ook voor een belangrijk deel van de demping op de verschillende modes. De verschillende dempingsmechanismen in de grond zijn hier besproken.
+
+Stralingsdemping
+
+Stralingsdemping dissipeert energie door het wegstralen van golven. Een bekend voorbeeld hierbij is een druppel die op een watervlak valt. De kinetische energie wordt hierbij omgezet in golven die zich door het medium voortplanten. In de grond ontstaat er zo een combinatie van schuif-, druk-, Rayleigh- en Love-golven (figuur 2.8).
+
+Figuur 2.8: Illustratie van schuif-, druk-, Rayleigh- en Love-golven.
+
+Druk- of P-golven bestaan uit alternerende druk- en expansiezones. Bij drukgolven is de verplaatsing in dezelfde richting als de golf. In een elastisch medium planten ze zich voort met een snelheid van:
+waarin G de glijdingsmodulus, K de bulkmodulus en ρ de massadichtheid is van het elastisch medium. Bij schuif- of S-golven is de verplaatsing loodrecht op de voortplantingsrichting. Schuifgolven planten zich voort met een snelheid van:
+
+
+De snelheid van schuifgolven is dus steeds kleiner dan die van de drukgolven. Rayleigh- en Love-golven zijn beide oppervlaktegolven. Bij Rayleigh-golven is de verplaatsing in het medium zowel loodrecht op het oppervlak als in de voortplantingsrichting. Bij Love-golven is er enkel een transversale verplaatsing die evenwijdig is met het oppervlak. De amplitude van deze oppervlaktegolven neemt af dieper in het medium.
+In deze masterproef wordt het effect van deze demping op de verschillende modes geanalyseerd. Deze vorm van demping is sterk afhankelijk van de belastingfrequentie.
+
+Materiaaldemping
+
+Materiaaldemping of hysterische demping wordt veroorzaakt door de niet-lineariteit van de belastingcurve van de grond. Door de hysteresis-lus wordt energie gedissipeerd (figuur 2.9). Deze vorm van demping is dus sterk afhankelijk van de belastingsamplitude. Bij kleine verplaatsingen gedraagt de grond zich nog lineair elastisch, maar bij grotere verplaatsingen draagt deze vorm van demping een aanzienlijke deel bij aan de demping op de modes. Door de grotere demping zal de structuur minder last hebben van resonantie bij een hevige storm.
+
+Figuur 2.9: Genormaliseerde t - z curves volgens verschillende methoden onder een cyclische last (t - z: reactie-verplaatsing voor een funderingspaal onder axiale last).
+Door de niet-lineariteit van de grond ontstaat hier een hysteresis-lus.
+
+Waterinteractiedemping
+
+Naast de voorgenoemde dempingsmechanismen is er nog een demping te verwachten doordat de gesatureerde grond zich als een tweefasig medium gedraagt. Deze interactie kan een effect hebben in zeer waterdoorlatende gronden.
+2.6. Conclusie
+
+2.6 Conclusie 
+
+
+In dit hoofdstuk is een overzicht gegeven van de verschillende belastingen die op de structuur aangrijpen en de verwachtte dempingsmechanismen. De aerodynamische en de hydrodynamische belastingen zijn voor OWT's meestal de bepalende belastingen bij het dimensioneren van de structuur. De voornaamste dempingsmechanismen zijn de aero-elastische demping en de gronddemping.
+
+
+Hoofdstuk 3
+
+
+Ontwerpmethode in de huidige praktijk
+
+
+Algemene ontwerpmethode
+
+Het ontwerp van een OWT is zeer complex en wordt meestal uitgevoerd in een samenwerkingsverband met verschillende studiebureaus. Bij het ontwerp is er geen standaard methode. De ontwerprichtlijnen bieden echter wel inzicht in welke aspecten in rekening gebracht moeten worden. Figuur 3.1 geeft een algemene ontwerpmethode weer met de meeste belangrijke ontwerpaspecten. In de eerste stappen van het ontwerp worden de voornaamste ontwerpparameters met eenvoudige modellen berekend. De rekenintensiteit stijgt bij latere stappen waarbij de structuur geoptimaliseerd wordt.
+Op basis van een beperkt aantal gegevens over de site (eerste fase geofysisch en geotechnisch onderzoek, golfboeien en windmetingen van naburige velden of platformen) wordt in de eerste stap van figuur 3.1 het type van de substructuur gekozen: monopile, jacket, gravitaire fundering, enz. De waterdiepte is een zeer bepalende factor, waarbij voor kleine dieptes eerder een monopile fundering gekozen wordt en bij grotere diepten vaak voor een jacket of een ander structuurtype gekozen wordt. De grens hiertussen is redelijk vaag en vaak zal een voorontwerp van verschillende substructuren de uiteindelijke keuze bepalen. Vertrekkende van het type substructuur, de turbineparameters en de meteorologische data van de specifieke site kan de ashoogte en de platformhoogte worden berekend.
+De eigenfrequenties van de structuur moeten zo veel mogelijk uit de belastingsfrequenties liggen om resonantie te vermijden. De hydrodynamische belasting kan beschreven worden door een Piersson-Moskowitz of JONSWAP spectrum voor door wind gegenereerde golven. Van belang zijn ook de 1P en 3P zones die respectievelijk gerelateerd zijn aan de rotorfrequentie (1P) en de frequentie waarmee de wieken langs de toren gaan (3P). Deze zones zijn weergegeven in figuur 3.2. Op de zones is ook een bepaalde veiligheidsmarge genomen opdat de resonantie minimaal zou zijn. Frequenties lager dan de 1P zone liggen in de 'soft-soft' zone, tussen de 1P en de 3P zone ligt de 'soft-stiff' zone en voorbij de 3P zone ligt de 'stiff-stiff' zone. Om een economisch ontwerp te hebben dat structureel aan alle ontwerpeisen voldoet, wordt de eerste eigenfrequentie van de structuur in de 'soft-stiff' zone ontworpen. De tweede eigenfrequentie moet in de 'stiff-stiff' zone liggen.
+
+Figuur 3.2: Illustratie van de verschillende zones voor controle op eigenfrequenties.
+
+Op basis van de eisen voor de eigenfrequenties van de structuur kan in stap 4 een eerste schatting gemaakt worden van de diameter D van de monopile, de wanddikte tw en de funderingsdiepte L. Hierbij worden de volgende richtwaarden courant gebruikt: 80 < D/tw < 90, L = 8D. Deze waarden worden verder in het ontwerp geoptimaliseerd.
+In stap 5 wordt een balkmodel van de structuur gemaakt waarbij de grond rond de paal met veren wordt gemodelleerd. Om de eigenfrequenties van de structuur te berekenen wordt hierbij de initiële grondstijfheid gebruikt. Indien de eigenfrequenties niet voldoen, kan de diameter van de structuur worden aangepast. Deze is immers de meest bepalende factor voor de eigenfrequenties. Vergroten van de wanddikte heeft weinig effect omdat hierdoor zowel de massa als de stijfheid van de structuur proportioneel stijgen.
+De extreme belastingen op de structuur worden bepaald door een combinatie van wind-, golf-, stromings- en ijsbelastingen bij een bepaald waterniveau. De combinaties zijn weergegeven in figuur 3.3. Deze extreme belastingen zijn niet enkel afhankelijk van de meteorologische data, maar ook van de dimensies van de structuur.
+
+Figuur 3.3: Belastingscombinaties voor de berekening van de extreme belasting.
+
+De extreme belastingscombinaties kunnen worden omgezet in een combinatie van normaalkracht, dwarskracht en moment aan de inklemming op de zeebodem. Deze krachtencombinatie wordt in stap 7 opgelegd aan de fundering. De volgende criteria gelden voor de fundering: (1) maximale uitwijking en rotatie aan de zeebodem, (2) maximale paalvoetuitwijking en (3) het verticale tangentcriterium.
+De eerste twee criteria zorgen ervoor dat de constructie recht genoeg blijft zodat er geen problemen ontstaan voor het opereren van de windturbine. Daarnaast zorgt de beperking op de uitwijking er ook voor dat de plastische vervorming in de grond niet te groot wordt. Het laatste criterium geeft aan dat de funderingspaal minstens één maal verticaal moet komen te staan onder extreme belastingen. De laatste jaren is er veel kritiek op het verticale tangentcriterium aangezien de funderingspalen met grote diameter zich stijf gedragen waardoor de benodigde paallengte zeer groot is (en veel groter dan voor de andere criteria). Dit criterium zorgt echter wel voor de geldigheid van de p - y curves: indien de funderingspaal minstens één maal verticaal is over zijn lengte, zijn ook de rotatie en uitwijking aan de paalvoet beperkt ten opzichte van de rest van de funderingspaal. Hierdoor is er geen grote paalvoetreactie te verwachten die in de formules niet in rekening is gebracht. De controle op de stabiliteit van de fundering heeft vooral invloed op de funderingsdiepte.
+Naast de criteria voor verplaatsing eist de certificeerder vaak een maximale zetting van de fundering onder de lange-termijn cyclische belasting. Bij de p - y curves is er een factor toegepast die het draagvermogen onder cyclische belasting reduceert. Deze correctie is slechts gevalideerd voor een laag aantal cycli en is niet aangepast aan een groot aantal cycli. Verschillende auteurs hebben formuleringen voorgesteld om dit effect in rekening te brengen, maar een eenduidige en gecertificeerde methode ontbreekt.
+In de uiterste grenstoestand wordt het staal ook berekend op het bereiken van de vloeigrens en op globaal en lokaal uitknikken. Deze criteria zijn meestal niet kritiek in het ontwerp van een OWT.
+In de laatste stap wordt het staal gecontroleerd op vermoeiing. Hiervoor worden de belastingen op de windturbine gekarakteriseerd door verschillende zee-statussen die een bepaald percentage van het jaar voorkomen met een karakteristieke golfhoogte, golfperiode en windsnelheid. De zee-statussen worden gebruikt om de belastingen uit te rekenen die worden opgelegd aan de windturbine. Met deze belastingen wordt de vermoeiing ten gevolge van elk van deze zee-statussen berekend. In de huidige ontwerpmethode gebeurt deze berekening in het tijdsdomein. De vermoeiing in het staal wordt dan via rainflow-counting berekend.
+
+Funderingsontwerp voor lateraal belaste palen
+
+Algemeen overzicht
+
+De ontwerpstandaarden van het API en van DNV schrijven een Winkler model voor met niet-lineare veren waarmee de grondreactie wordt gekarakteriseerd. De methode dateert van 1970; de parameters werden toen gekalibreerd voor smalle, flexibele funderingspalen die typisch gebruikt worden in de offshore olie- en gasindustrie. Door een gebrek aan betere ontwerprichtlijnen werd deze methode overgenomen in de offshore windindustrie.
+Dit Winkler model wordt gebruikt in elk van de controles die in de voorgaande sectie werden besproken. De conventie die in deze masterproef gebruikt wordt verschilt van die in de huidige ontwerpcodes. De gebruikte conventie is weergegeven in figuur 3.4.
+
+Figuur 3.4: Gebruikte symboolconventie.
+
+In deze figuur zijn N , V en M respectievelijk de normaalkracht, dwarskracht en het moment in de balk. E is de elasticiteitsmodulus van het staal, I is het tweede orde traagheidsmoment van de paal, m is de verdeelde massa en q is de laterale verdeelde kracht. Uit het krachtenevenwicht in de x-richting volgt dat:
+
+Uit het momentenevenwicht volgt dat V = ∂M
+
+waardoor de partiële differentiaalvergelijking geschreven wordt als:
+
+Met de Euler-Bernoulli theorie kan het moment geschreven worden in functie van de
+verplaatsing. Deze theorie is geldig voor slanke structuren die lateraal belast zijn.
+
+Met deze vergelijking kan de partiële differentiaalvergelijking geschreven worden als:
+
+Wanneer ook tweede orde effecten in rekening worden gebracht ten gevolge van de normaalkracht, wordt partiële differentiaalvergelijking herschreven als:
+
+Op de structuur zijn zowel laterale krachten aanwezig van de belasting q als van de grondreactie p(u) (Figuur 3.5). De grondreactie wordt hier niet geschreven als p(y) om te voldoen aan de symboolconventie. In de verdere vergelijkingen wordt de negatieve z-as aangeduid met een asterix. In het statische geval kan de differentiaalvergelijking van de structuur geschreven worden als:
+
+Figuur 3.5: Model voor de berekening van de verplaatsing van de structuur.
+
+De geldigheid van de p-y methode is betwistbaar omwille van de volgende redenen:
+de parameters werden slechts gekalibreerd voor kleine diameter palen, (2) de
+initiële grondstijfheid is onafhankelijk van de diameter, (3) de initiële grondstijfheid voor eenzelfde wrijvingshoek stijgt lineair met de diepte, (4) er is geen extra stijfheid aan de paalvoet en (5) de ovalisatie van de funderingspaal wordt niet in rekening gebracht wordt met een Winkler model.
+
+Figuur 3.6: Illustratie van de p-y curves.
+
+waarin A de factor is om rekening te houden met statische of cyclische belasting. Deze wordt berekend via: A = 0.9 voor cyclische belasting en A = (3.0 - 0.8 z∗ ) ≥ 0.9
+voor statische belasting. pu is de uiterste grondweerstand en k is de initiële modulus van de grondreactie die afhankelijk is van de interne wrijvingshoek van zand (figuur 3.7). Deze wrijvingshoek wordt bepaald aan de hand van laboratoriumproeven of wordt afgeleid uit CPT testen.
+De initiële helling van de p-y curves is hierbij bepaald door de initiële modulus van de grondreactie te vermenigvuldigen met de diepte. De curve van de grondweerstand is begrensd door de uiterste grondweerstand. De uiterste grondweerstand in zand wordt berekend via:
+
+waarin subscript d en o respectievelijk staan voor diep en ondiep, γ is het effectieve gewicht van de grond, C1 tot C3 zijn coëfficienten die bepaald worden door figuur
+3.8 en D is de gemiddelde paaldiameter van de zeebodem tot op de diepte z∗.
+
+
+Figuur 3.7: Bepaling van de initiële modulus van grondreactie k in functie van de interne wrijvingshoek φ0 van het zand.
+
+
+Figuur 3.8: Bepaling van de coëfficienten C1, C2 en C3 in functie van de interne wrijvingshoek φ0 van het zand.
+
+3.2.3 p - y curves voor klei
+
+Het maximaal lateraal draagvermogen in klei wordt berekend via:
+
+
+waarin cu de ongedraineerde cohesie is. De grens tussen de ondiepe en de diepe zone is een dimensieloze empirische constante die tussen 0.25 en 0.5 ligt, de waarde wordt bepaald uit veldtesten. De p - y curves voor klei onder cyclische last volgen uit tabel 3.1 en zijn weergegeven in figuur 3.9.
+
+Tabel 3.1: p - y curves voor klei.
+
+
+In deze tabel is uc = 2.5 cD met c de rek bij de helft van de maximale spanning op een ongedraineerde druktest. Stijvere klei gedraagt zich bros waardoor de laterale weerstand snel kan afnemen. Bij grote verplaatsingen moet hier extra aandacht aan worden besteed.
+
+Figuur 3.9: Vorm van de p - y curves voor klei.
+
+3.3 Conclusie
+
+
+In dit hoofdstuk is de ontwerpmethode in de huidige praktijk besproken. Hierbij is een algemeen overzicht gegeven van de voornaamste stappen bij het ontwerp waarna er dieper is ingegaan op de berekening van het funderingsontwerp.
+
+Hoofdstuk 4
+
+
+Vereenvoudigd structuurmodel
+
+
+In een eerste stap van de structuuranalyse is een vereenvoudigd model gebruikt om het algemene gedrag van de structuur en de fundering te beschrijven. Dit model is geschematiseerd in figuur 4.1.
+
+Figuur 4.1: Illustratie van het vereenvoudigd model.
+
+In deze figuur is M de massa van de rotor en de gondel, L is de lengte van de structuur tot op de zeebodem en tenslotte zijn kr en cr de rotatieveer en -demper die de reactie van de fundering beschrijven. In dit model is de paal massaloos om een eenvoudige oplossing te bekomen.
+
+Analytische oplossing‌
+
+Doordat de paal massaloos is, heeft het model slechts één vrijheidsgraad. Hierdoor is een relatief eenvoudige oplossing mogelijk. Hoewel dit model sterk vereenvoudigd is, geeft het enkele belangrijke inzichten voor het algemeen gedrag van de structuur.
+Om de oplossing te vinden van dit model is de scheiding van variabelen toegepast, waarbij de verplaatsing van de structuur wordt geschreven in functie van de hoogte z en de tijd t als:
+
+
+Om het gedrag van de structuur te beschrijven, wordt de Euler-Bernoulli theorie gebruikt. Deze geeft immers een goede benadering voor slanke structuren die lateraal belast zijn. Voor de analytische oplossing wordt de normaalkracht in de paal niet in rekening gebracht. Aangezien de paal massaloos is en omdat er geen verdeelde belasting is, wordt de differentiaalvergelijking geschreven als:
+
+
+De oplossing van deze differentiaalvergelijking is een polynoom van de derde orde:
+
+In het tijdsdomein wordt enkel de homogene oplossing berekend. Aan de top van de structuur grijpt een horizontale harmonische last aan (FtopeiΩt), waardoor de oplossing van het model wordt gevonden onder de vorm:
+
+
+waarin i de imaginaire eenheid is en Ω de belastingfrequentie is. Voor de oplossing van dit probleem zijn vier randvoorwaarden nodig: twee aan beide uiteinden van de structuur. (1) Er is geen translatie toegelaten aan de paalvoet:
+
+Aan de paalvoet genereert de rotatieveer een tegenwerkend moment dat evenredig is met de rotatie. De rotatiedemper veroorzaakt een tegenwerkend moment dat evenredig is met de snelheid van de rotatie:
+
+Aan de top van de structuur grijpt een harmonische laterale last aan, de dwarskracht moet de belasting hier compenseren:
+
+Er is geen moment aan de top van de structuur:
+
+Met deze randvoorwaarden wordt de verplaatsing aan de top geschreven als:
+
+Dit kan herschreven worden als:
+
+ωEI is de eigenfrequentie in het geval dat de structuur ingeklemd is aan de zeebodem en ωkr is de eigenfrequentie in het geval dat er geen rotatiedemper is en dat de paalstijfheid oneindig is. ncr is de genormaliseerde demping van de demper. De eigenfrequentie van de ongedempte structuur ωtot kan afgeleid worden door de noemer van de verplaatsing gelijk te stellen aan nul. Deze frequentie kan berekend worden met:
+
+De eigenmode van de structuur kan eenvoudig afgeleid worden uit randvoorwaarde 1, 2 en 4:
+
+De demping van dit systeem kan niet even eenvoudig worden berekend als voor het standaard massa-veer-demper probleem. Daarom wordt de modale demping numeriek berekend via de 'half-power bandwidth' methode.
+
+'Half-power bandwidth' methode
+
+Met de 'half-power bandwidth' methode wordt de modale demping van de structuur bepaald uit de frequentierespons functie (FRF). Er zijn drie manieren waarop de modale demping kan worden uitgedrukt: (1) de amplificatie- of kwaliteitsfactor Q, (2) de dempingsratio (van de kritische demping) ζ en (3) het logaritmisch decrement δ. Deze waarden zijn gerelateerd via de volgende formules:
+
+waarin f0 de frequentie is bij de piek en ∆f de frequentiebreedte is tussen de punten die op 3 dB van de piek liggen (E: half-power points) f1 en f2 (figuur 4.2).
+
+Figuur 4.2: Berekening van de modale demping via de 'half-power bandwidth' methode.
+
+Analyse van het vereenvoudigd model
+
+Om inzicht te krijgen in het dynamisch gedrag van de structuur worden twee gevallen besproken waarvan de parameters gegeven zijn in tabel 4.1.
+
+Tabel 4.1: Parameters voor de twee gevallen.
+
+
+De eigenmode voor beide gevallen is weergegeven in figuur 4.3. Door de zachtere rotatieveer is de hoekverdraaiing aan de bodem hoger bij het eerste geval. In figuur 4.4
+
+is de FRF van de verplaatsing aan de top gegeven door een harmonische eenheidslast voor beide gevallen. De eigenfrequenties en modale demping zijn gegeven in tabel 4.2.
+
+Figuur 4.3: Eigenmodes voor geval 1 (blauw) en geval 2 (groen).
+
+Figuur 4.4: FRF van de verplaatsing aan de top van de structuur onder een harmonische eenheidslast voor geval 1 (blauw) en geval 2 (groen).
+
+Tabel 4.2: Berekende eigenfrequenties en modale demping voor beide gevallen.
+
+
+Uit deze tabel blijkt dat de eigenfrequentie een gecombineerd effect heeft van de funderingsstijfheid en de stijfheid van de paal. De flexibiliteit van de fundering reduceert de eigenfrequentie ten opzichte van de ingeklemde paal. Omwille van de gebruiksgrenstoestanden van de structuur is de fundering eerder stijf waardoor de eigenfrequentie aanleunt bij de eigenfrequentie van de ingeklemde paal. Daardoor is ook de helling van de curve in figuur 4.5 relatief klein rond de eigenfrequentie van de structuur. Dit verlaagt het effect van afwijkende grondkarakteristieken op de eigenfrequenties van de structuur. Er is immers steeds een inherente onzekerheid bij het funderingsontwerp.
+
+Figuur 4.5: Variatie van de eerste eigenfrequentie door de flexibiliteit van de fundering.
+
+De berekende eigenfrequenties uit vergelijking (4.12) en de eigenfrequenties uit de FRF corresponderen niet exact. Door de demping ligt de eigenfrequentie in de FRF enigszins hoger.
+Deze analyse toont aan dat, hoewel de rotationele demping in het eerste geval de helft is van die in het tweede geval, de modale demping toch hoger is. Door de zachtere veer is de rotatie aan de zeebodem groter waardoor de rotatiedemper een groter effect kan hebben op de modale demping. Dit is een belangrijk effect dat zal terugkomen in de meer geavanceerde modellen.
+
+In figuur 4.6 is de modale demping weergegeven in functie van de grootte van de rotatiedemper voor geval 1. Uit deze figuur blijkt dat de funderingsdemping een maximale invloed kan hebben op de modale demping van de structuur. Wanneer de funderingsdemping zeer groot wordt, is de reactiekracht van de demper groter dan de reactiekracht van de veer waardoor ook de eigenfrequentie van de structuur toeneemt (figuur 4.7).
+
+Figuur 4.6: Variatie van de modale demping in functie van de grootte van de rotatiedemper voor geval 1.
+
+Figuur 4.7: Variatie van de eigenfrequentie in functie van de grootte van de rotatiedemper voor geval 1.
+
+Conclusie
+
+Aan de hand van een vereenvoudigd model van de structuur illustreert dit hoofdstuk enkele belangrijke aspecten bij het funderingsontwerp: (1) de invloed van de funderingsstijfheid op de eerste eigenfrequentie, (2) de invloed van de funderingsstijfheid op de modale demping en (3) het effect van de funderingsdemping op de modale demping en de eerste eigenfrequentie van de structuur.
+
+Hoofdstuk 5
+
+
+Verbeterde beddingsconstante voor zand
+
+
+De fundering van een OWT kan op verschillende manieren gemodelleerd worden. Elke methode heeft hierbij zijn specifieke mogelijkheden en beperkingen. Winkler modellen hebben hun ingang gevonden in de huidige ontwerpmethode door hun eenvoudige implementatie. Grondmodellen die meer computerkracht vereisen zoals eindige elementen- (E: finite elements, FE) en randelementen- (E: boundary elements, BE) modellen worden gebruikt in het onderzoek naar de funderingen van OWT's.
+
+5.1 Huidige ontwerpmethode‌
+
+
+De huidige ontwerpmethode die terug te vinden is in de ontwerpstandaard van het API en DNV is gebaseerd op een Winkler fundering met niet-lineaire veren. Bij kleine laterale verplaatsing in zand wordt de beddingsconstante berekend door:
+
+Deze afleiding geeft aan dat de beddingsconstante Epy voor zand enkel afhankelijk is van de initiële grondstijfheid en de diepte. De beddingsconstante is in deze formulering onafhankelijk van de diameter van de funderingspaal.
+
+In klei wordt de beddingsconstante eveneens berekend als de initiële helling van de p - y curve (tabel 3.1):
+
+
+waarin het subscript 2 staat voor het tweede punt uit tabel 3.1. Uit vergelijking (3.9) volgt dat de beddingsconstante lineair toeneemt met de diepte in de zone boven Zr . De beddingsconstante is quasi onafhankelijk van de diameter.
+In dit model wordt de paalvoetreactie niet meegenomen, het verticale tangentcriterium beperkt evenwel het effect hiervan. Door de vele beperkingen van deze
+
+methode hebben verschillende onderzoekers gezocht naar een betere formulering van deze beddingsconstante.
+
+Methode van Sorensen et al.‌
+
+Sorensen et al. berekenden de beddingsconstante voor cohesieloze gronden met behulp van het FE programma FLAC 3D. De beddingsconstante is gegeven in de vorm:
+
+
+waarin a tot d gekalibreerde parameters zijn. zref en Dref zijn respectievelijk de referentiediepte en -diameter waarvoor de parameters in tabel 5.1 werden gekalibreerd.
+
+Tabel 5.1: Paramaters voor de methode van Sorensen et al.
+
+
+Deze methode geeft een niet-lineaire toename van de beddingsconstante met de diepte die overeenkomt met de stijging van de glijdingsmodulus van zand door toename van de effectieve spanning. Daarnaast is er ook een afhankelijkheid met de diameter van de paal die in de ontwerpstandaard van het API en DNV niet werd meegenomen.
+
+Methode van Kallehave et al.
+
+De methode van Kallehave et al. is gebaseerd op de huidige ontwerpmethode, met enkele aanpassingen die terug te vinden zijn in de methode van Sorensen et al. Deze methode is gebenchmarkt op monopiles in het Walney windpark. Uit de vergelijking van de gemeten en de berekende eerste eigenfrequentie blijkt dat de methode van Kallehave et al. een onderschatting geeft van ∼ 2 - 4%. De p - y curves resulteerden in een onderschatting van ∼ 5 - 7% op de eerste eigenfrequentie. De beddingsconstante is gegeven door:
+
+
+waarin k de initiële modulus van grondreactie is uit de huidige ontwerpmethode, zref
+en Dref zijn respectievelijk gelijk aan 2.5 m en 0.6 m zodat de formules nog steeds
+
+conform zouden zijn met de metingen die gebeurd zijn voor de berekeningen van de
+p - y curves. In deze methode worden correcties gemaakt voor de diepte en de
+diameter. Deze correcties zijn conform met de berekeningen van Sorensen et al.
+
+Vergelijking van de methoden
+
+Figuur 5.1 vergelijkt de beddingsconstante van de huidige ontwerpmethode met de methode van Sorensen et al. en de methode van Kallehave et al. Voor de berekening van de beddingsconstante is zand met een inwendige wrijvingshoek van 35◦ en een paaldiameter van 5 m genomen.
+
+Figuur 5.1: Vergelijking van de beddingsconstante met de huidige ontwerpmethode (blauw), de methode van Sorensen et al. (groen) en de methode van Kallehave et al. (rood) voor φ = 35◦ en D = 5 m.
+
+De methode van Sorensen et al. geeft inzichten in de vorm van de vergelijking, maar de stijfheid wordt ruwweg een factor 6 kleiner voorspeld dan bij de methode van Kallehave et al. die op zijn beurt resulteert in een onderschatting van ∼ 2 - 4% op de eerste eigenfrequentie in het Walney windpark. De stijfheid van de bovenste lagen is bepalend voor eigenfrequenties van de structuur, de methode van Kallehave et al. geeft hier een significant grotere beddingsconstante dan bij de huidige ontwerpmethode en de methode van Sorensen et al.
+De drie methoden zijn toegepast op een vereenvoudigd model van de structuur (figuur 5.2). Figuur 5.3 geeft de eerste eigenfrequentie van deze structuur weer in functie van de interne wrijvingshoek van het zand. De parameters van het model zijn gegeven in tabel 5.2. Het verdeelde gewicht m1, m2 en het tweede orde traagheidsmoment worden berekend via:
+waarin de massadichtheid van staal ρstaal en die van ρgrond respectievelijk gelijkgesteld zijn aan 7850 kg/m3 en 1900 kg/m3.
+
+Figuur 5.2: Model voor het berekenen van de eerste eigenfrequentie in functie van de interne wrijvingshoek volgens de drie methoden.
+
+
+
+
+Tabel 5.2: Parameters voor het berekenen van de eerste eigenfrequentie in functie van de interne wrijvingshoek volgens de drie methoden.
+
+
+Figuur 5.3: Eerste eigenfrequentie in functie van de interne wrijvingshoek volgens de huidige ontwerpmethode (blauw), de methode van Sorensen et al. (groen) en de methode van Kallehave et al. (rood).
+
+De eerste eigenfrequentie met de methode van Kallehave et al. ligt ruwweg 5% hoger dan de eerste eigenfrequentie berekend met de huidige ontwerpmethode. De figuur geeft ook het belang weer van een goede karakterisatie van de ondergrond.
+Een afwijking van 1◦ op de wrijvingshoek resulteert in een verschil van ruwweg 1% op de eerste eigenfrequentie.
+Voor de berekening van de eigenfrequenties van de structuur is het belangrijk om een zo goed mogelijke schatting van de grondparameters te gebruiken. Indien materiaalfactoren worden gebruikt op de grondparameters die een "veilige" schatting geven, zal de eerste eigenfrequentie onderschat worden. Hierdoor zal er meer resonatie zijn met de 3P zone waardoor de vermoeiing van het staal groter kan worden. Enkel een juiste schatting van de grondparameters zorgt daarom voor een veilig en optimaal ontwerp.
+
+Conclusie
+
+In dit hoofdstuk is de funderingsstijfheid volgens de huidige ontwerpmethode vergeleken met enkele alternatieve formuleringen in de literatuur. Uit metingen in het Walney windpark blijkt dat de huidige ontwerpmethode een onderschatting geeft van de beddingsconstante in zand waardoor de eerste eigenfrequentie van de structuur onderschat wordt. Daarom is er nood aan een verbeterde formulering voor de beddingsconstante in de ontwerpstandaarden.
+
+
+Hoofdstuk 6
+
+
+Ontwikkeling van het nieuw funderingsmodel
+
+
+Om de initiële funderingsstijfheid en de gronddemping op de structuur te bepalen wordt in dit hoofdstuk een nieuw funderingsmodel ontwikkeld. Hierbij is vertrokken van het Novak model dat een relatief eenvoudige beschrijving geeft van de grondreactie. Dit model wordt vervolgens vergeleken met een gekoppeld eindige elementenen randelementenmodel. Het nieuwe model wordt in eerste instantie ontwikkeld waarbij de structuur met balkelementen wordt gemodelleerd. Hierna wordt het balkmodel vergeleken met een 3D model van de fundering dat bestaat uit volume- en schaalelementen.
+
+Novak model
+
+Novak formuleerde een benaderende oplossing voor de reactiekracht op een paal in een homogene, lineair elastische halfruimte bij axiale en laterale verplaatsing. De halfruimte is onderverdeeld in infinitesimaal dunne laagjes die onafhankelijk van elkaar bewegen, voor elk van deze laagjes geldt de vlakke vervormingstoestand. De axiale en laterale verplaatsingen zijn ontkoppeld van elkaar. Hier is enkel de laterale grondreactie beschreven omdat de verticale verplaatsing bij de belangrijkste eigenmodes van een monopile verwaarloosbaar is. In de formulering van de laterale impedantie, is in het Novak model enkel rekening gehouden met P-golven. De lineair elastische halfruimte kan beschreven worden met 3 parameters: de massadichtheid van de grond ρ, de glijdingsmodulus G en de Poissoncoëfficient ν. De grondreactie heeft zowel een reëel als een imaginair deel die resulteren in de stijfheid en demping op de paal. De berekende demping is hier de stralingsdemping in de grond.
+
+Vergelijkingen voor het Novak model
+
+De grondreactie voor laterale verplaatsingen is geschreven als:
+
+Hierin zijn H(2), H(2) en H(2) Hankelfuncties van het tweede type. a0 is de dimensieloze frequentie:
+
+qN geeft een verhouding weer van de S- en P-golfsnelheid:
+
+
+Tenslotte wordt x0 gedefinieerd als:
+
+Vergelijking van de theorie van Novak met een balk op visco-elastische fundering
+
+De grondreactie heeft zowel een reëel als een imaginair deel dat respectievelijk aan de grondstijfheid en demping gerelateerd is. De vergelijking van een balk op visco-elastische fundering wordt in het tijdsdomein geschreven als:
+
+Deze vergelijking kan omgezet worden in het frequentiedomein via u(z, t) = Uˆ (z)eiΩt tot:
+Met de theorie van Novak wordt de differentialvergelijking in het frequentiedomein geschreven als:
+
+De stijfheid en demping van de visco-elastische fundering zijn dus geralateerd aan de parameters van de theorie van Novak door:
+
+Stijfheid en demping van het Novak model
+
+De grondstijfheid en -demping in het frequentiedomein met de theorie van Novak zijn weergegeven in figuur 6.1 voor de parameters in tabel 6.1. Deze waarden worden vergeleken met de grondreactie van een schijf bij laterale verplaatsing onder vlakke vervormingstoestand, berekend met een randelementenmodel.
+
+Tabel 6.1: Parameters voor de berekening van de equivalente grondstijfheid en gronddemping.
+
+
+Figuur 6.1: Equivalente grondstijfheid en gronddemping bij laterale verplaatsing met de theorie van Novak (rood) en met het randelementenmodel (blauw).
+
+De stijfheid stijgt bij toenemende frequenties, dit heeft een significant effect op de eigenfrequenties van de structuur. De demping van de grond daalt bij hogere frequenties. De stijfheid en demping uit het Novak model zijn ruwweg een factor 2 kleiner dan die berekend met het randelementenmodel. De reden hierachter is dat het Novak model enkel rekening houdt met P-golven bij laterale verplaatsing. In het randelementenmodel zijn zowel de P- als de S-golven in rekening gebracht waardoor de stijfheid hierbij groter is. In dit 2D model met Novak en met het randelementenmodel is er een singulariteit in het statische geval. Dit zorgt ervoor dat de impedantie minder betrouwbaar is bij de lage frequenties.
+
+Modale demping met Novak model
+
+Figuur 6.2 geeft het model weer voor de berekening van de modes en modale demping van de structuur. De parameters van de structuur zijn dezelfde als bij de Winkler modellen (tabel 5.2). De grondparameters zijn gegeven in tabel 6.1. De verschillende modes zijn weergegeven in figuur 6.3 samen met de eigenfrequenties en de demping op de modes die met de 'half-power bandwidth' methode zijn berekend. Voor de FRF is een harmonische laterale eenheidslast aangelegd op de knoop met de maximale verplaatsing voor de beschouwde mode (analoog aan sectie 4.3). De FRF heeft steeds een verloop dat gelijkaardig is aan figuur 4.2 en wordt daarom niet herhaald. De berekende demping is met dit model zeer hoog. De reslutaten worden in de volgende sectie vergeleken met het gekoppeld FE-BE model waarbij de impedantie van de grond beter wordt berekend.
+
+Figuur 6.2: Model voor de berekening van de eigenfrequenties en de modale demping.
+
+Figuur 6.3: Eerste drie eigenmodes met het Novak model.
+
+Gekoppeld FE-BE model
+
+Voor de berekening van de grond-structuur interactie van de monopile worden twee domeinen onderscheiden: (1) de funderingspaal met de ingesloten grond en (2) de grond buiten de funderingspaal. Het eerste domein wordt gemodelleerd met eindige elementen. In deze masterproef wordt gebruik gemaakt van de Matlab-toolbox StaBIL, die ontwikkeld is aan de Afdeling Bouwmechanica van de KU Leuven. Het tweede domein is gemodelleerd als een gelaagde, elastische halfruimte. Hiervoor wordt gebruik gemaakt van de Matlab-toolboxen BEMFUN en EDT die eveneens zijn ontwikkeld aan de Afdeling Bouwmechanica van de KU Leuven. BEMFUN is een toolbox voor het berekenen van randelementen (BE) op basis van het Betti-Rayleigh theorema. De grondreactie is gebaseerd op de Greense functies die worden berekend met EDT. EDT gebruikt de directe stijfheidsmethode om de golfvoortplanting in een gelaagde halfruimte te berekenen.
+
+Balkmodel van de structuur
+
+De structuur wordt in een eerste stap gemodelleerd als een balk. De ingesloten grond wordt in rekening gebracht als verdeelde massa over de lengte van de fundering. Figuur 6.4 geeft het randelementennet en het balkmodel van de structuur weer. De koppeling tussen de knopen van de balk en de randelementen is weergegeven in figuur 6.5.
+
+Figuur 6.4: Balkmodel van de structuur en het gekoppeld randelementennet.
+
+Figuur 6.5: Koppeling tussen de knopen van de balk en de knopen van de randelementen.
+
+De verplaatsingen in de knopen van de randelementen zijn gegeven door:
+
+Op het benedenvlak van de fundering is dezelfde methode toegepast. De verplaatsing van de grond aan de paalvoet volgt in dit model volledig de verplaatsing van de monopile. Op basis van deze vergelijkingen wordt een transformatiematrix Tr opgesteld die de vrijheidsgraden van de randelementen Uˆ BE koppelt aan de vrijheidsgraden van de balk Uˆ FE:
+
+De grondstijfheidsmatrix kan geschreven worden in de knopen van het balkmodel
+
+
+waarin I de eenheidsmatrix is, Tˆ en Uˆ de randelementen systeem matrices zijn en Tq de randelementen spanningstransfer matrix is. De systeemvergelijking voor het gekoppeld model wordt geschreven als:
+
+met KFE en MFE respectievelijk de stijfheids- en de massamatrix van het balkmodel.
+
+Validatie van het model
+
+Aan de hand van een model dat beschreven werd door Siefert and Cevear kan het randelementen model gevalideerd worden. Hiertoe wordt een starre cylindrische fundering gemodelleerd met een L/D ratio van 1. De Poissoncoëfficient van de grond is gelijk aan 0.25 en de dempingsratio op de primaire Dp en secundaire golf Ds zijn respectievelijk gelijk aan 0.5% en 1%. Deze waarden zijn gedefinieerd in functie van
+de Lamé constanten λ en G en hun complexe varianten λ∗ en G∗ als:
+
+Met dit model wordt de horizontale stijfheid Kh, de rotatiestijfheid Kr en de gekoppelde stijfheid Khr berekend, subscript 1 en 2 staan respectievelijk voor het reëel en het imaginair deel van de stijfheid. In figuur 6.6 daalt het reëel deel van de stijfheden bij grotere frequenties ten opzichte van het model van Siefert and Cevear, dit is te wijten aan de beperkte meshing in het randelementenmodel.
+
+Bij lage frequenties sluit de berekende impedantie zeer goed aan bij de literatuur. Aangezien de eigenfrequenties van monopiles in deze zone liggen, is het gebruikte randelementennet voldoende voor het modelleren van de grondreactie.
+
+Figuur 6.6: Berekende impedantiefuncties van een starre cylindrische fundering (blauw) en vergelijking met het model van Siefert en Cevear (rood).
+
+In figuur 6.7 zijn de berekende impedantiefuncties weergegeven voor de dimensies van de structuur in tabel 5.2 en de grondparameters in tabel 6.1. De dempingsratio voor de primaire en de secundaire golf zijn beide gelijk genomen aan 2%. De impedanties zijn berekend voor frequenties van 0 tot 10 Hz aangezien de eerste drie eigenfrequenties van een OWT meestal in deze zone liggen.
+Met de statische waarden van de impedanties wordt het balkmodel gevalideerd. De monopile is hiervoor star gemodelleerd en aan de zeebodem is een moment van 1 Nm opgelegd. De rotatie van de structuur met dit model is gelijk aan 2.02e - 12 rad.
+Uit de statische waarden van de impedantiefuncties volgt dat:
+
+
+De rotatie met deze formule is gelijk aan 1.95e - 12 rad wat goed overeenkomt met het balkmodel.
+
+Figuur 6.7: Impedantiefuncties voor een starre monopile fundering berekend met BEMFUN en EDT.
+
+Vergelijking met het Novak model
+
+Deze impedantiefuncties kunnen ook vergeleken worden met het Novak model. Het Novak model heeft echter de volgende beperkingen: (1) er worden enkel P-golven in rekening gebracht die zich horizontaal voortplanten, (2) de laagjes bewegen onafhankelijk van elkaar onder vlakke vervorming en (3) de paalvoetreactie wordt niet in rekening gebracht. Hierdoor verschillen de impedantiefuncties van Novak sterk met de berekende impedantiefuncties met de randelementen (figuur 6.8). De impedanties voor het Novak model worden berekend via:
+
+
+Figuur 6.8: Vergelijking van de berekende impedantiefuncties met BEMFUN en EDT (blauw) en met Novak (rood).
+
+De stijvere grondreactie bij de FE-BE berekeningen resulteert in hogere eigenfrequenties. Daarnaast zal de modale demping lager liggen omdat de fundering minder wordt gemobiliseerd en er dus minder energie weggestraald wordt. Het FE-BE model berust niet op de veronderstellingen die gemaakt zijn in het Novak model waardoor het FE-BE model de grondreactie beter benadert.
+
+Statische analyse van de structuur
+
+Voor de analyse wordt hetzelfde model gebruikt als in de berekeningen met het Novak model. Aan de structuur wordt een horizontale eenheidslast en een moment van 30 Nm opgelegd ter hoogte van de zeebodem. Een hefboom van 30 m is immers courant voor de belasting op een OWT die bestaat uit een aerodynamische en een hydrodynamische last. De resulterende verplaatsings-, momenten- en dwarskrachtenlijn van de fundering zijn weergegeven in figuur 6.9.
+
+Figuur 6.9: Verplaatsings-, momenten- en dwarskrachtenlijn onder een statische horizontale eenheidslast en een moment van 30 Nm aan de zeebodem.
+
+Het maximale moment is lager dan 30 Nm, dit komt doordat de grond een zeker tegenmoment genereert bij de rotatie van de paal.
+
+Berekening van de eigenfrequenties en modale demping
+
+Het ontwikkelde balkmodel kan gebruikt worden om de eigenfrequenties en modale demping van de structuur te bepalen. Hiervoor wordt een harmonische last aangelegd op de locatie waar de verplaatsing maximaal is bij de beschouwde mode. Vervolgens worden de eigenfrequenties en de modale dempingen bepaald uit de FRF van de knoop waar de kracht is aangelegd. De modes zijn weergegeven in figuur 6.10 samen met de eigenfrequenties. De berekening van de modale demping is uitgevoerd voor een materiaaldemping op de primaire en secundaire golf van 1% en 2%, de resultaten hiervan zijn gegeven in tabel 6.2. Aangezien de funderingsstijfheid groter is met het FE-BE model dan met het Novak model (figuur 6.8), liggen de eigenfrequenties hoger en de modale demping significant lager dan bij het Novak model. Uit tabel 6.2 blijkt dat de materiaaldemping dominant is op de eerste eigenmode, maar dat het effect hiervan afneemt bij de hogere modes. Bij de hogere modes wordt de structuur steeds meer gedempt door de stralingsdemping in de grond. De derde eigenmode is hierdoor zeer sterk gedempt.
+
+Figuur 6.10: Eerste drie eigenmodes van de structuur met het gekoppeld balkmodel.
+
+Tabel 6.2: Modale demping op het balkmodel door stralings- en materiaaldemping in de grond.
+
+
+3D model van de funderingspaal
+
+In het 3D model van de funderingspaal wordt de monopile gemodelleerd met schaalelementen en de grond hierbinnen met volume elementen. Met dit model kunnen verschillende effecten bestudeerd worden: (1) de spanningsverdeling in de monopile en (2) de paalvoetreactie die in dit model beter in rekening gebracht wordt. De bedoeling van dit model is om na te gaan of deze effecten significant zijn zodat hieruit blijkt of een meer geavanceerd model nodig is voor de modellering van de structuur.
+
+Het gekoppeld FE-BE model is geïllustreerd in figuur 6.11. Bovenop de monopile zijn de toren en het transitiestuk gemodelleerd als balkelementen. De fundering is gekoppeld aan randelementen om de grondreactie te berekenen. Alle grond- en structurele parameters zijn dezelfde als in het balkmodel.
+
+(b)
+
+Figuur 6.11: Gekoppeld 3D model van de structuur met fundering. (a) Overzicht van de volledige structuur en (b) close-up van de funderingspaal.
+
+Om het 3D model te vergelijken met het balkmodel is de verplaatsing van de fundering berekend onder een horizontale eenheidslast aan de gondel (figuur 6.12). Voor het 3D model is telkens de gemiddelde verplaatsing weergegeven van de knopen die op dezelfde hoogte liggen. De resultaten bekomen met beide modellen komen zeer goed overeen.
+
+Figuur 6.12: Verplaatsing van de fundering onder een eenheidslast aan de gondel met het balkmodel (blauw) en het 3D model (rood).
+
+Controle op de spanningsverdeling in de monopile
+
+Figuur 6.13a geeft de spanningsverdeling σzz langsheen de monopile weer. In figuur 6.13b is de spanningsverdeling langsheen een sectie weergegeven.
+
+(b)
+
+Figuur 6.13: Spanningsverdeling σzz langsheen (a) de volledige funderingspaal [N/m2] en (b) een sectie op een diepte van 10 m.
+
+De controle is uitgevoerd langsheen de volledige funderingspaal. De spanningsverdeling is steeds lineair waardoor een balkmodel een goede benadering geeft voor de spanningsverdeling in de monopile.
+
+Vergelijking van de paalvoetreactie
+
+Om de paalvoetreactie te vergelijken met het balkmodel is eveneens een statische horizontale eenheidslast aangelegd ter hoogte van de gondel. Vervolgens is nagekeken of de verplaatsing van de grond aan de paalvoet dezelfde is als die van de monopile (figuur 6.14).
+
+Verplaatsing van de volledige funderingspaal.
+
+Close-up van de verplaatsing aan de paalvoet
+
+Figuur 6.14: Controle van de grondverplaatsing aan de paalvoet.
+
+In de close-up van de verplaatsing aan de paalvoet is te zien dat de grond de verplaatsing van de monopile vrij goed volgt. Het verschil tussen de verplaatsing van de monopile en de grond in het midden van de paalvoet is 10.7%. Hieruit kan besloten worden dat de modellering van de structuur met balkelementen een vrij goede benadering is voor de berekening van de paalvoetreactie.
+
+Conclusie
+
+In dit hoofdstuk is een model ontwikkeld om de funderingsstijfheid en de stralingsdemping in de grond te berekenen. Hierbij is in eerste instantie het Novak model besproken. Bij lage frequenties is de laterale impedantie van de grond echter sterk onderschat. Daarom zijn twee FE-BE modellen ontwikkeld die de grondreactie beter in rekening brengen.
+In het eerste FE-BE model is de structuur met balkelementen gemodelleerd. In het tweede model is de fundering in 3D gemodelleerd met volume- en schaalelementen. Uit een vergelijking van deze twee modellen blijkt dat het FE-BE model met balkelementen een zeer goede benadering geeft voor het 3D model van de fundering. Het balkmodel wordt daarom gebruikt in de verdere analyses.
+
+Hoofdstuk 7
+
+
+Case study: BELWIND
+
+
+Aan de hand van confidentieel gedeelde data met dank aan het OWI-lab en Belwind, is een model gemaakt van een windturbine in het Belwind windpark (figuur 7.1). De data komen overeen met de windturbine die beschreven is door Devriendt et al. waarop de demping en eigenfrequenties bepaald werden. Hoewel de data goed genoeg zijn voor de studie in deze masterproef, moet hier wel opgemerkt worden dat niet alle parameters van het model correct zijn waardoor de resultaten niet altijd overeenkomen met de verwachte waarden.
+
+Figuur 7.1: Weergave van de OWT in Belwind (links), de locatie van het windpark (midden) en de layout van het windpark (rechts).
+
+Beschrijving van de windturbine
+
+In het Belwind windpark staan 55 Vestas V90 windturbines met een vermogen van 3 MW. Deze windturbines zijn ondersteund door monopiles. Figuur 7.2 geeft een schema weer van de windturbine met de belangrijkste ontwerphoogten. Figuur 7.3 geeft de gronddata weer op deze locatie. De monopile is gefundeerd in dichtgepakt zand met een grote wrijvingshoek. Op een diepte van 15 m ligt een stijve kleilaag met een dikte van 2 m.
+
+Figuur 7.2: Ontwerphoogtes van de windturbine.
+
+Figuur 7.3: Grondkarakteristieken in het Belwind windpark.
+
+In deze figuur is γ het effectief volumegewicht van de grond dat berekend wordt via γ = (ρsat - ρw )g met g de valversnelling, ρsat de gesatureerde massadichtheid van de grond en ρw de massadichtheid van het zeewater die gelijk genomen is aan 1025 kg/m3. Su is de ongedraineerde cohesie (cu) en de 'strain factor' is de rek bij de helft van de maximale spanning op een ongedraineerde druktest ( c).
+
+De monopile is 20.97 m in de grond gedreven en heeft een diameter van 5 m. De monopile heeft een conisch stuk waardoor de diameter van het transitiestuk en de toren lager liggen. Het transitiestuk is verbonden met de monopile via een groutverbinding (figuur 7.4). Hierboven is de toren gemonteerd, die een variabele diameter en wanddikte heeft. Het gewicht van de gondel, rotor, de platformen en ander secundair staal is in rekening gebracht met puntmassa's langsheen de structuur. De exacte massa's en afmetingen zijn terug te vinden in het confidentieel rapport van het OWI-lab.
+
+Figuur 7.4: Verbinding tussen het transitiestuk en de monopile.
+
+De gebruikte materiaalparameters zijn gegeven in tabel 7.1.
+
+Tabel 7.1: Materiaalparameters voor het model van de structuur.
+
+Model van de windturbine
+
+Op basis van de gegevens is een balkmodel gemaakt van de windturbine. Dit model houdt rekening met tweede-orde effecten ten gevolge van de normaalkracht in de structuur. Deze tweede-orde effecten hebben slechts een kleine impact (∼ 1%) op de eigenfrequenties. Figuur 7.5 geeft de eigenmodes met de eigenfrequenties weer voor de structuur indien deze ingeklemd is aan de zeebodem. Deze eigenfrequenties zijn een belangrijke referentie om de flexibiliteit van de fundering te evalueren.
+
+Figuur 7.5: Eigenmodes van de structuur die ingeklemd is aan de zeebodem.
+
+Huidige ontwerpmethode
+
+In eerste instantie is de fundering geanalyseerd aan de hand van de huidige ontwerpmethode. De resulterende beddingsconstante voor de grondparameters in Figuur 7.3 is weergegeven in Figuur 7.6. Ter hoogte van de kleilaag is de beddingsconstante significant lager dan ter hoogte van de omliggende zandlagen.
+
+Figuur 7.6: Beddingsconstante van de fundering volgens de huidige ontwerpmethode.
+
+Statische analyse
+
+De verplaatsings-, momenten- en dwarskrachtenlijn van de fundering onder een statische horizontale eenheidslast aan de gondel zijn weergegeven in figuur 7.7. Aangezien de gondel 96.03 m boven de zeebodem ligt, is het moment aan de zeebodem gelijk aan 96.03 Nm. Door de relatief kleine beddingsconstante in de bovenste lagen ligt het maximale moment enkele m's onder de zeebodem, dit is een van de kritische locaties in de vermoeiingsanalyse van de structuur. In de dwarskrachtenlijn is opnieuw te zien dat de beddingsconstante van de kleilaag beperkt is ten opzichte van de zandlagen. Uit de verplaatsing blijkt dat er zelfs onder kleine last niet voldaan is aan het verticale tangent criterium. Zoals eerder uitgelegd, is dit criterium zeer conservatief voor monopiles met een grote diameter en komt de stabiliteit van de fundering hier niet mee in het gedrang.
+
+Figuur 7.7: Verplaatsings-, momenten- en dwarskrachtenlijn van de fundering onder een statische horizontale eenheidslast aan de gondel met de huidige ontwerpmethode.
+
+Dynamische analyse
+
+Figuur 7.8 geeft de eerste 3 eigenmodes met de eigenfrequenties weer van de structuur. Door de flexibiliteit van de fundering liggen de eigenfrequenties gevoelig lager dan bij het ingeklemd model.
+
+Figuur 7.8: Eigenmodes van de structuur volgens de huidige ontwerpmethode.
+
+Variatie van de eigenfrequenties door getijden
+
+De eigenfrequenties van de structuur variëren door de getijdenwerking. Bij hoogste astronomische getij (E: highest astronomical tide, HAT) zijn de eigenfrequenties lager dan bij laagste astronomische getij (E: lowest astronomical tide, LAT). Deze variatie is te zien in de metingen van de structuur (figuur 7.10) voor de eigenmodes die geïllustreerd zijn in figuur 7.9. De SS modes zijn zijwaartse modes en de FA modes zijn modes in dezelfde richting als de gondel. 1 en 2 duiden respectievelijk op de eerste en de tweede eigenmode van de structuur. De FA2 mode is een mode waarbij de verplaatsing van de bladen dominant is, hierdoor is de eigenfrequentie van deze mode lager dan de SS2N en de FA2N mode. N wijst bij deze modes op een verplaatsing van de gondel (E: nacelle).
+
+Figuur 7.9: Gemeten modes van de structuur, FA: fore-aft mode, SS: side-side mode, N: mode met beweging van de gondel (E: nacelle), 1 en 2 duiden op de eerste en tweede eigenmode.
+
+Figuur 7.10: Gemeten eigenfrequenties op de structuur bij variërende waterdiepte.
+
+In figuur 7.11 is de variatie weergegeven van de berekende eigenfrequenties onder invloed van de waterhoogte. Om deze variatie te berekenen is de ingesloten massa van het zeewater gebruikt die gelijk met de zeespiegel toeneemt. Voor de fundering is hier de huidige ontwerpmethode gebruikt. De invloed van de waterhoogte is groter bij de tweede en de derde eigenmode dan bij de eerste. Deze variatie is bij de berekende eigenfrequenties minder uitgesproken dan bij de metingen omdat de toegevoegde watermassa rondom de monopile niet is meegerekend.
+
+Figuur 7.11: Relatieve variatie van de eigenfrequenties onder invloed van variërende waterhoogte. Blauw, rood en groen duiden respectievelijk op de eerste, tweede en derde eigenmode.
+
+Methode van Kallehave et al.
+
+Vele auteurs hebben opmerkingen gegeven op de huidige ontwerpmethode voor de bepaling van de grondstijfheid. Omdat de methode van Kallehave et al. een goede benadering geeft voor de eigenfrequenties bij monopiles in het Walney windpark, is de beddingsconstante in zand ook aan de hand van deze methode geëvalueerd (figuur 7.12). De beddingsconstante in klei is in dit model nog steeds dezelfde als in de huidige ontwerpmethode.
+
+Figuur 7.12: Beddingsconstante van de fundering met de huidige ontwerpmethode (blauw) en met de methode van Kallehave et al. voor zand (rood).
+
+Statische analyse
+
+Net als bij het funderingsmodel volgens de huidige ontwerpmethode, wordt hier een eenheidslast aangelegd aan de gondel. De resulterende verplaatsings-, momenten- en dwarskrachtenlijn zijn weergegeven in figuur 7.13.
+
+Figuur 7.13: Verplaatsings-, momenten- en dwarskrachtenlijn van de fundering onder een statische horizontale eenheidslast aan de gondel met de huidige ontwerpmethode (blauw) en met de methode van Kallehave et al. voor het zand (rood). De waarden komen overeen met de methode van Kallehave et al.
+
+Door de grotere beddingsconstante is de verplaatsing van de fundering kleiner dan bij de huidige ontwerpmethode. Uit de verplaatsingslijn blijkt dat er voldaan is aan het verticale tangent criterium onder kleine belasting. Door de grotere beddingsconstante ligt de momentenlijn lager dan de momentenlijn berekend met de huidige ontwerpmethode.
+
+Dynamische analyse
+
+De eigenmodes met de eigenfrequenties volgens deze methode zijn weergegeven in figuur 7.14. De eerste drie berekende eigenfrequenties volgens deze methode liggen respectievelijk 3.0%, 6.9% en 6.2% hoger dan bij de huidige ontwerpmethode. Ondanks de hogere beddingsconstante geeft deze methode een onderschatting van ∼ 2 - 4% op de gemeten eerste eigenfrequenties bij de windturbines in het Walney windpark.
+
+Figuur 7.14: Eigenmodes van de structuur volgens de methode van Kallehave et al.
+
+Gekoppeld FE-BE funderingsmodel
+
+Het gekoppeld FE-BE funderingsmodel berekent de verplaatsing van de structuur waarbij de grond zich lineair elastisch gedraagt en perfect bij de funderingspaal aansluit. Door gebruik te maken van randelementen wordt ook de stralingsdemping in de grond in rekening gebracht.
+
+Berekening van de elastische grondparameters
+
+Het randelementenmodel gebruikt de elastische grondparameters (G, ν en ρ). De glijdingsmodulus van de grond wordt berekend aan de hand van de correlaties voor de glijdingsmodulus bij kleine rekken Gmax in tabel 7.2.
+
+Tabel 7.2: Correlaties voor de berekening van de initiële glijdingsmodulus.
+
+In de formules van Seed et al. is (N1)60 het aantal slagen dat een SPT nodig heeft per 30 cm (E: 1 ft.) penetratie. De waarde is gehaald uit de empirische correlatie tussen de wrijvingshoek en (N1)60 voor grof zand van Terzaghi et al. (figuur 7.15). m is de gemiddelde effectieve spanning die berekend wordt via:
+
+
+de effectieve verticale spanning
+de effectieve horizontale spanning
+In de verdere berekeningen is de gemiddelde effectieve spanning verkeerdelijk berekend.
+
+Dit resulteert in een overschatting van de glijdingsmodulus met 9%. Door gebrek aan tijd zijn de verdere berekeningen niet herhaald met een correcte berekening van de gemiddelde effectieve spanning. De fout op de glijdingsmodulus is echter beperkt ten opzichte van de de foutenmarge op de correlaties voor de glijdingsmodulus (dit is verder besproken in de paragraaf 'opmerkingen bij de veronderstellingen'). Daarenboven wijken de resultaten voor de verplaatsings-, momenten- en dwarskrachtenlijn en de eigenfrequenties weinig af ten gevolge van deze overschatting van de glijdingsmodulus. De effectieve verticale spanning wordt berekend door:
+
+De effectieve horizontale spanning wordt berekend door:
+
+
+Figuur 7.15: Empirische correlaties tussen de wrijvingshoek en (N1)60.
+
+In de formule van Mayne and Rix is Pa de atmosferische druk die gelijkgesteld is aan 101.3 kPa, e0 is het poriëngetal dat gelijkgesteld is aan 1 en qc is de conusweerstand van een CPT die aan de hand van de volgende formules wordt geschat:
+
+
+waarin Nk gelijkgesteld is aan 15, dit is een typische waarde voor kleien in de Noordzee.
+De Poissonratio van zand en klei is respectievelijk gelijkgesteld aan 0.3 en 0.45 wat overeenkomt met ongedraineerd, quasi constant volume gedrag. Dit zijn typische waarden voor deze grondsoorten. De gesatureerde massadichtheid van dichtgepakt zand en stijve klei is respectievelijk gelijkgesteld aan 1942kg/m3 en 1891kg/m3, wat overeenkomt met de gronddata voor de windturbine in Belwind. Figuur 7.16 geeft de resulterende primaire en secundaire golfsnelheid van de grond weer in functie van de diepte. De schuifgolfsnelheid van de kleilaag ligt in dezelfde grootteorde van de omliggende zandlagen, de drukgolf daarentegen is significant sneller in de kleilaag.
+
+Figuur 7.16: Berekende primaire (blauw) en secundaire (groen) golfsnelheid van de grond voor gronddata van het Belwind windpark.
+
+Statische analyse
+
+De verplaatsings-, momenten- en dwarskrachtenlijn onder een statische horizontale eenheidslast aan de gondel zijn weergegeven in figuur 7.7. De momenten- en dwarskrachtenlijn liggen lager dan bij de vorige modellen. De maximale verplaatsing van dit model ligt tussen die met de huidige ontwerpmethode en de methode van Kallehave et al.
+
+Figuur 7.17: Verplaatsings-, momenten- en dwarskrachtenlijn van de fundering onder een statische horizontale eenheidslast aan de gondel met de huidige ontwerpmethode (blauw), met de methode van Kallehave et al. voor het zand (rood) en met het FE-BE model (groen). De waarden komen overeen met het FE-BE model.
+
+Dynamische analyse
+
+De eigenfrequentie en modale demping voor dit model zijn berekend met een harmonische eenheidslast die aangrijpt op de knoop waar de verplaatsing maximaal is voor de beschouwde mode. Uit de FRF kunnen vervolgens de waarden gehaald worden. Figuur 7.18 geeft de eerste drie eigenmodes weer met hun eigenfrequenties. De modale dempingen zijn berekend voor een materiaaldemping van 0.6%, 2% en 5% op de drukgolven Dp en op de schuifgolven Ds (tabel 7.3). De waarde van 0.6% is een typische waarde voor de initiële dempingsratio in zand (figuur 7.19). In tabel 7.4 zijn de gemeten waarden van de eigenfrequenties en modale dempingen gegeven.
+
+Figuur 7.18: Eerste drie eigenmodes met hun eigenfrequentie via het FE-BE model.
+
+Figuur 7.19: Dempingsratio in zand in functie van de schuifrek.
+
+Tabel 7.3: Berekende eigenfrequenties en modale dempingen op de structuur door stralings- en materiaaldemping in de grond.
+
+Tabel 7.4: Gemeten eigenfrequenties en modale dempingen op de structuur.
+
+
+Zoals verwacht uit de statische analyse, ligt de eigenfrequentie met deze berekeningsmethode tussen de twee vorige methoden. De berekende demping op de eerste eigenmode bij de initiële dempingsratio in zand is slechts een fractie van de totale demping op de structuur. Deze waarde is ook veel kleiner dan de geschatte demping in de grond door Versteijlen et al. (9.5%) en Damgaard et al. (3.63%). Dit valt te verklaren doordat de materiaaldemping in de grond dominant is voor de gronddemping op de eerste eigenmode. Onder grotere belastingen neemt de materiaaldemping toe waardoor de modale demping op de structuur toeneemt. Dit resultaat
+
+komt overeen met de stelling van Andersen dat de stralingsdemping verwaarloosbaar is bij frequenties onder 1 Hz. Bij de hogere modes is de stralingsdemping in de grond van groot belang. De demping op de tweede eigenmode is gelijk aan 7.05% wat iets lager is dan de totale demping op de FA2N en SS2N mode. De gronddemping is van groot belang voor deze tweede eigenmode omdat de grond hier veel meer gemobiliseerd wordt dan bij de eerste eigenmode. De derde eigenmode wordt zeer sterk gedempt door de stralingsdemping in de grond.
+
+Opmerkingen bij de veronderstellingen
+
+In het randelementenmodel is de grond lineair elastisch en sluit perfect aan bij de paal. Deze veronderstellingen zijn enkel geldig bij kleine verplaatsing van de structuur, waardoor de rekken in de grond klein blijven. Bij grotere verplaatsingen zal de glijdingsmodulus van de grond reduceren (figuur 7.20) en kan er 'gapping' zijn tussen de paal en de grond. In zand zullen de korrels de holten snel opvullen waardoor de respons van de fundering dan weer stijver kan worden.
+
+Figuur 7.20: Variate van de schuifmodulus bij grotere rekken.
+
+De geldigheid van het FE-BE model hangt daarom af van de amplitude van de belasting op de structuur. Bij relatief milde weersomstandigheden op zee is deze veronderstelling geldig, maar figuur 7.21 geeft aan dat de eerste eigenfrequentie afneemt bij grotere windsnelheden.
+
+Figuur 7.21: Variate van de eerste eigenfrequentie van een windturbine in het Walney windpark in functie van de windsnelheid.
+
+Voor de schatting van de glijdingsmodulus kunnen verschillende correlaties gebruikt worden (figuur 7.22). Daarnaast zijn deze correlaties ook slechts benaderende formules om data te schatten waarop veel scatter is. Vaak ligt de determinatiecoëfficient voor de correlaties rond 0.5. Daarom kan de glijdingsmodulus met de gebruikte correlaties ruwweg een factor 2 verkeerd geschat zijn.
+
+Figuur 7.22: Verschillende correlaties tussen N60 en de S-golfsnelheid.
+7.3. Analyse van de berekende eerste eigenfrequenties
+
+Analyse van de berekende eerste eigenfrequenties‌
+
+In tabel 7.5 zijn de berekende eerste eigenfrequenties samengevat en vergeleken met zowel de eerste eigenfrequentie bij het ontwerp als de gemeten waarden voor de eerste eigenfrequentie. De berekende eerste eigenfrequentie volgens de huidige ontwerpmethode verschilt 9.2% van de eerste eigenfrequentie bij het ontwerp. Dit duidt op een zekere modelafwijking. Een vergelijking met de gemeten eigenfrequentie is hierdoor niet mogelijk.
+
+Tabel 7.5: Vergelijking van de berekende eigenfrequenties onderling, met de eigenfrequentie in het ontwerp et met de metingen van Devriend et al.
+
+
+De berekende eigenfrequentie met de methode van Kallehave et al. ligt 3.0% hoger dan met de huidige ontwerpmethode. Dit verschil ligt aan de lage kant van de berekeningen voor windturbines in het Walney windpark waar een verschil van ∼ 3 - 5% berekend is. Dit is deels toe te schrijven aan de beddingsconstante van de kleilaag die in beide gevallen op dezelfde manier is berekend. De gemeten eigenfrequenties in het Walney windpark liggen dan weer ∼ 2 - 4% hoger dan met de methode van Kallehave et al.
+De eerste eigenfrequentie met het gekoppeld FE-BE model ligt 2.4% hoger dan met de huidige ontwerpmethode, dit is iets lager dan met de methode van Kallehave et al. Wanneer de glijdingsmodulus van de grond halveert of verdubbelt, ligt de eerste eigenfrequentie respectievelijk 3.5% lager of 2.3% hoger. Deze variatie geeft aan dat een goede karakterisatie van de grond noodzakelijk is voor het correct schatten van de eigenfrequenties. Naast de onzekerheid op de grondparameters treden er ook andere fenomenen op zoals verdichting van het zand waardoor de eigenfrequenties opnieuw zouden stijgen. De initiële schatting van de eerste eigenfrequentie met het FE-BE model blijkt wel een gelijkaardige toename te voorspellen als met de methode van Kallehave et al. Daarom kan besloten worden dat het FE-BE model een redelijke schatting geeft voor de eigenfrequenties van de structuur.
+
+Conclusie
+
+In dit hoofdstuk zijn verschillende funderingsmodellen vergeleken voor een windturbine in het Belwind windpark. Hierbij is extra aandacht besteed aan de eigenfrequenties van de structuur en de verplaatsings-, momenten- en dwarskrachtenlijn in de monopile.
+Met het FE-BE model is de berekende eerste eigenfrequentie in goede overeenstemming met het model van Kallehave et al. Door de onzekerheid op de gebruikte correlaties is er wel een foutenmarge op de resultaten. Een goede karakterisatie van de elastische grondparameters is daarom van groot belang. Met het FE-BE model ligt het krachtenverloop in de monopile significant lager dan met de huidige ontwerpmethode. Indien deze lagere waarden gebruikt worden in het ontwerp, kunnen monopiles economischer ontworpen worden.
+Met het FE-BE model is ook een schatting gemaakt van de modale demping op de structuur ten gevolge van gronddemping onder kleine belastingen. Op de eerste eigenmode is de invloed van de stralingsdemping zeer klein en speelt de materiaaldemping in de grond een grotere rol. Op de tweede eigenmode is de stralingsdemping in de grond dominant. De modale demping ten gevolge van stralingsdemping leunt immers dicht aan bij de gemeten modale demping op de structuur. De derde eigenmode is zeer sterk gedempt door stralingsdemping in de grond.
+
+Hoofdstuk 8
+
+
+Aanpassing van de huidige ontwerpmethode
+
+
+Uit de vergelijking van momentenlijnen in de case study blijkt dat de momenten met het FE-BE model significant lager liggen dan met de andere modellen. Metingen van de momentenlijn op monopiles in het Horns Rev windpark bevestigen deze lagere momentenlijn (figuur 8.1). Een aanpassing van de huidige ontwerpmethode die dit verschil berekent, heeft een grote invloed op de wanddikte voor monopiles.
+
+Figuur 8.1: Vergelijking van de gemeten momentenlijn met verschillende berekeningen voor een monopile in het Horns Rev windpark.
+
+In het FE-BE model is de grond lineair-elastisch en sluit perfect aan bij de funderingspaal. Elke rotatie van de monopile veroorzaakt hierdoor een tegenmoment. Dit is te zien in de sprongen van de momentenlijn in het FE-BE model aangezien hier de tegenreactie in de knopen is gelokaliseerd. Hierdoor ligt de dwarskrachtlijn ook lager dan bij de andere modellen. Dit effect kan in rekening worden gebracht door naast de verdeelde translatieveer (beddingsconstante) ook een verdeelde rotatieveer toe te voegen aan het Winkler model van de fundering.
+
+Formulering voor de funderingsstijfheid
+
+Figuur 8.2 geeft het model van de aangepaste methode weer. Een gelijkaardige methode werd voorgesteld door McVay and Niraula en door Lam. Deze methode is echter nog niet toegepast op monopile funderingen voor OWT's. De gebruikte symboolconventie is weergegeven in figuur 8.3.
+
+Figuur 8.2: Illustratie van de aangepaste methode.
+
+Figuur 8.3: Symboolconventie van de aangepaste methode.
+Formulering voor de funderingsstijfheid waarin kr de nieuw geïntroduceerde verdeelde rotatieveer is. Uit het momentenevenwicht volgt dat:
+
+De resulterende differentiaalvergelijking voor deze methode is:
+
+
+De verdeelde translatieveer ku werd door verschillende auteurs analytisch beschreven. Hieruit bleek dat deze onafhankelijk is van de diameter. Dit is in tegenstelling tot de formulering van Sorensen et al. en Kallehave et al. waarbij de beddingsconstante toeneemt met D0.5. Via een dynamische 2D analyse bij vlakke vervorming (waarbij een singulariteit is in het statische geval) wordt de volgende benaderende formule verkregen voor de beddingsconstante:
+
+
+met Dref =1m. Om de rotatieveer te bepalen is een verticale verplaatsing opgelegd die evenredig is met de hefboom tot het centrum van de schijf. Bij deze verplaatsing ontstaan enkel schuifgolven waardoor de rotatieveer onafhankelijk is van de Poissonratio. De rotatieveer is evenredig met D2 wat verklaard kan worden aan de hand van figuur 8.4.
+
+Figuur 8.4: Afhankelijkheid van de rotatieveer met de diameter.
+
+
+De verdeelde veren nemen evenredig toe met de glijdingsmodulus van de grond. De correlatie van Seed et al. geeft aan dat deze stijgt met z0.5. Bovenop de verdeelde veren zijn er extra veren aan de paalvoet en aan de zeebodem door de discontinuïteiten. Deze veren worden benaderd door de statische stijfheid van een schijf op een halfruimte:
+
+De veren zijn verdeeld over de monopile met een kwadratische functie om een betere benadering te geven voor de verdeling van de reactiekracht (figuur 8.5).
+
+Figuur 8.5: Verdeling van de veren aan de paalvoet en aan de zeebodem.
+
+De integraal van deze verdeelde veren komt overeen met de voorgaande vergelijkingen. Hierdoor is κ gelijk aan:
+
+De glijdingsmodulus voor de paalvoetreactie is gelijk genomen aan deze op de diepte van de paalvoet. Voor de reactiekracht aan de zeebodem is de glijdingsmodulus genomen op een diepte van 1D. Om een goede benadering te bekomen voor de reactiekracht op de monopile, zijn enkele correcties aangebracht op de verdeelde veren (tabel 8.1). De waarde van a is gegeven in tabel 8.2, hierbij staat subscript b voor 'boven' en o voor 'onder'.
+
+Tabel 8.1: Correcties op de translatie- en rotatieveren voor de aangepaste methode.
+
+
+Tabel 8.2: Waarden voor de parameter a in de aangepaste methode.
+
+Validatie van de berekende funderingsstijfheid
+
+Om de geldigheid van deze formules aan te tonen zijn twee gevallen besproken waarvan de parameters gegeven zijn in tabel 8.3. In figuur 8.6 en 8.7 zijn de verplaatsings-, momenten- en dwarskrachtenlijnen via het FE-BE model vergeleken met de aangepaste formulering. In beide gevallen is een horizontale eenheidslast opgelegd aan de zeebodem samen met een moment van 100 Nm. De glijdingsmodulus is gegeven op een referentiediepte van 1 m, deze stijgt met z1/2.
+
+Tabel 8.3: Parameters voor de twee gevallen om het aangepast model te valideren.
+
+Parameter
+Diameter
+Wanddikte
+Paallengte
+Glijdingsmodulus
+Poissonratio
+
+Figuur 8.6: Verplaatsings-, momenten- en dwarskrachtenlijn voor geval 1. Blauw: aangepast model, rood: FE-BE model, waarden komen overeen met het aangepast model.
+
+Figuur 8.7: Verplaatsings-, momenten- en dwarskrachtenlijn voor geval 2. Blauw: aangepast model, rood: FE-BE model, waarden komen overeen met het aangepast model.
+
+Uit de figuren blijkt dat het aangepast model een zeer goede benadering geeft voor zowel de verplaatings- als de momenten- en dwarskrachtenlijn via het FE-BE model.
+
+Berekening van de gronddemping‌
+
+Met de aangepaste methode voor de translatie- en rotatieveren wordt een grondstijfheidsmatrix Ks opgesteld. Om rekening te houden met de gronddemping wordt ook een dempingsmatrix Cˆ s opgesteld als een factor van de grondstijfheidsmatrix. Deze factor is via 'trial and error' gekalibreerd met het model van de windturbine in het Belwind windpark. De factor is afhankelijk van de belastingsfrequentie en van de dempingsratio op de druk- en schuifgolven in de grond die in de berekeningen gelijk verondersteld zijn:
+
+waarin M en K de massa- en stijfheidsmatrices zijn van de structuur en Kg de geometrische stijfheidsmatrix is om de tweede-orde effecten door normaalkracht in rekening te brengen. De resulterende eigenfrequenties met de modale demping voor de structuur in het Belwind windpark zijn gegeven in tabel 8.4. De waarden zijn hier ook vergeleken met de resultaten van het FE-BE model.
+
+Tabel 8.4: Berekende eigenfrequenties en modale dempingen op de structuur door stralings- en materiaaldemping in de grond met de aangepaste methode (AM) en met het FE-BE model.
+
+
+
+De eigenfrequenties en modale demping via de aangepaste methode komen redelijk goed overeen met het FE-BE model. Hierbij moet wel opgemerkt worden dat de berekening van de dempingsmatrix berust op een fitting van de resultaten en verder geen fysische betekenis heeft.
+
+Implementatie in het ontwerp van OWT's
+
+Het FE-BE model en de aangepaste methode die op basis van dit model is opgesteld, kunnen op twee stappen in het ontwerp worden toegepast (sectie 3.1).
+
+Controle op eigenfrequentie
+
+Met het FE-BE model kan een goede schatting gemaakt worden van de eigenfrequenties van de structuur. Om de onzekerheid op deze waarden te verminderen is een goede karakterisatie van de ondergrond noodzakelijk. De glijdingsmodulus kan bepaald worden door de schuifgolfsnelheid van de verschillende lagen op te meten.
+De aangepaste methode biedt een goede benadering voor de initiële grondreactie. Deze methode is gekalibreerd aan de hand van het FE-BE model. Voor een meer precieze berekening van de eigenfrequenties wordt het FE-BE model aangeraden.
+
+Controle op vermoeiing van het staal
+
+Voor de controle op vermoeiing van het staal is een goede kennis van de demping op de structuur van belang. De grootte van de pieken in de FRF bij de eigenfrequenties bepalen immers voor een groot deel de vermoeiing van het staal. In de huidige ontwerpmethode wordt de vermoeiing aan de hand van tijdssimulaties van de structuur berekend. De vermoeiing in het staal wordt berekend via rainflow-counting van de spanningen in de structuur in het tijdsdomein. In deze tijdssimulaties moet de demping op de verschillende modes van de structuur opgegeven worden. Deze demping bestaat onder andere uit de materiaaldemping in het staal, de stralingsdemping in het water en de gronddemping. Omdat deze berekening via een tijdssimulatie gebeurt, is de aero-elastische demping automatisch in rekening gebracht.
+Aan de hand van het FE-BE model kan de stralingsdemping in de grond berekend worden. Deze vorm van demping heeft een grote invloed op de hogere modes van de structuur. Het aangepast model voor de berekening van de gronddemping geeft een goede benadering voor het FE-BE model van het Belwind windpark. Mits verdere validatie en desnoods aanpassing van de formules, kan deze methode ook algemeen toegepast worden.
+Daarnaast is de reactiekracht van de grond van groot belang voor het momentenverloop langsheen de funderingspaal. Doordat de reactiekracht in de bovenste lagen groter is met het FE-BE model dan met de huidige ontwerpmethode, ligt de momentenlijn langsheen de monopile gevoelig lager. Hierdoor zal de vermoeiing langsheen de monopile lager zijn dan met de huidige ontwerpmethode. Dit resulteert in een kleinere benodigde wanddikte van de monopile.
+
+Conclusie
+
+In dit hoofdstuk is een aangepaste methode voorgesteld om de funderingsstijfheid en de gronddemping te berekenen onder kleine belastingen. De methode voor de funderingsstijfheid is gevalideerd voor verschillende grondparameters en dimensies van de funderingspaal. De methode voor de gronddemping is via 'trial and error' aan de resultaten van de monopile in het Belwind windpark gefit. Deze methode moet daarom verder gevalideerd en desnoods aangepast worden.
+In tegenstelling tot het FE-BE model, vereist het voorgestelde model weinig computerkracht en kunnen de eigenfrequenties en modale demping snel berekend worden. Dit laat optimalisatie toe bij het ontwerp van de structuur.
+
+Hoofdstuk 9
+
+
+Besluit
+
+
+Conclusies
+
+In deze masterthesis is de funderingsstijfheid en de gronddemping onder lage belastingen bestudeerd. Hiervoor is eerst een algemeen overzicht gegeven van de huidige ontwerpmethode voor OWT's, waarna dieper is ingegaan op de controles voor de fundering van een OWT. Uit een literatuurstudie blijkt dat de huidige p - y methode niet optimaal is voor het ontwerp van OWT's. Voor het bepalen van de eigenfrequenties van een OWT is de initiële grondreactie van groot belang. Verschillende auteurs hebben daarom een alternatieve benadering geformuleerd voor de beddingsconstante. In deze thesis is de grondreactie geëvalueerd aan de hand van een FE-BE model. Met dit model kunnen de eigenfrequenties en de modale demping van een OWT berekend worden. De grond gedraagt zich in dit model lineair elastisch en sluit perfect aan bij de funderingspaal. Deze zijn redelijke aannamen wanneer de lasten op de structuur beperkt zijn, bij metingen in het Walney windpark blijft de eerste eigenfrequentie immers relatief constant voor windsnelheden onder 12 m/s. Het FE-BE model is toegepast op een windturbine in het Belwind windpark. Uit een analyse van de resultaten volgen verschillende conclusies:
+
+De eerste eigenfrequentie met de methode van Kallehave et al. en met het FE-BE model ligt respectievelijk 3.0% en 2.4% hoger dan met de huidige ontwerpmethode. Dit resultaat duidt erop dat het FE-BE model een redelijke schatting geeft voor de eerste eigenfrequentie van de structuur.
+
+De gronddemping op de eerste eigenmode met het FE-BE model wordt gedomineerd door de materiaaldemping. Met een dempingsratio in de grond van 0.6% is de berekende modale demping amper 0.36%. Dit is slechts een fractie van de gemeten totale demping op de structuur die gelijk is aan 11.69% voor de FA1 mode en 15.65% voor de SS1 mode. De berekende waarde is ook lager dan de geschatte demping in de grond die berekend werd door Versteijlen et al. (9.5%) en Damgaard et al. (3.63%).
+
+De gronddemping op de tweede eigenmode met het FE-BE model is 7.05%. De demping op deze tweede eigenmode is gedomineerd door de stralingsdemping.
+
+De metingen van Devriendt et al. in het Belwind windpark geven een totale demping aan van 8.67% op de SS2N mode en 7.16% op de FA2N mode. Hieruit volgt dat de stralingsdemping in de grond dominant is voor de totale demping op de tweede eigenmode. Op de derde eigenmode zorgt de stralingsdemping in de grond voor een modale demping van 40.2%.
+
+Het FE-BE model geeft een goede benadering voor het bepalen van de eigenfrequenties en ook de berekende demping op de modes is van significant belang. Daarom is in deze masterproef een vereenvoudigde methode voorgesteld om zowel de grondreactie als de gronddemping te berekenen. Mits verdere validatie, biedt deze vereenvoudigde methode de mogelijkheid tot praktische toepassing bij het ontwerp van monopiles.
+
+Aanbevelingen voor verder onderzoek
+
+Validatie van het FE-BE model en opstellen van een verbeterde richtlijn
+
+De berekende eigenfrequenties met het FE-BE model zijn in goede overeenstemming met de verwachtte waarden voor de eigenfrequenties uit de literatuur. Daarnaast ligt de berekende gronddemping op de verschillende modes dicht bij de verwachtte waarde op basis van metingen en bestaand onderzoek. Uit de analyse van de windturbine in het Belwind windpark blijkt dat stralingsdemping in rekening gebracht moet worden bij de hogere modes van de structuur. Uit één case study kunnen echter moeilijk nieuwe richtlijnen worden opgesteld. Validatie van het model voor meerdere windturbines op verschillende locaties is nodig.
+Om een nieuwe richtlijn op te stellen voor windturbines is naast de initiële grondreactie ook een beschrijving nodig van de reactie bij toenemende belastingen. Binnen het PISA project wordt momenteel gewerkt aan een nieuwe formulering die de p - y methode zou vervangen voor het berekenen van monopile funderingen voor OWT's.
+De berekening van de gronddemping is een grote meerwaarde voor de controle van de structuur op vermoeiing. Daarom zou er bij het opstellen van de vernieuwde formulering ook aandacht moeten worden besteed aan de berekening van de stralings- en materiaaldemping in de grond.
+
+Berekening van de grondreactie bij toenemende verplaatsing
+
+Het FE-BE model berekent de lineair elastische grondreactie. Bij kleine belasting op de fundering is dit model geldig. Onder grotere belasting treden twee belangrijke fenomenen op: toename van de materiaaldemping en reductie van de glijdingsmodulus. Deze twee effecten kunnen iteratief berekend worden aan de hand van een randelementenmodel dat gekoppeld is aan een eindige-elementenmodel (figuur 9.1). Na een initële rek bij een zekere belasting worden voor elk van de elementen de materiaaldemping en de glijdingsmodulus opnieuw geëvalueerd. Deze parameters worden vervolgens iteratief aangepast bij toenemende belasting tot convergentie optreedt. Hierbij is van belang dat de rekken voorbij de grens met de randelementen beperkt blijven.
+
+Materiaaldemping
+
+Door de niet-lineariteit van de grond is er een zekere hysteresis-lus die aanleiding geeft tot materiaaldemping (figuur 2.9). Aan de hand van correlaties tussen de schuifrek en de dempingsratio van de grond kan deze demping geëvalueerd worden (figuur 7.19). Deze materiaaldemping stijgt naarmate de belasting groter wordt. Het effect van de materiaaldemping is vooral dominant voor de demping op de eerste eigenmode van de structuur.
+
+Reductie glijdingsmodulus
+
+Bij grotere rekken reduceert de glijdingsmodulus van de grond (figuur 7.20). De reductie resulteert in een lagere grondreactie waardoor de eigenfrequenties onder grotere belasting dalen. Figuur 7.21 toont aan dat de reductie van de eerste eigenfrequentie relatief beperkt blijft onder hoge belastingen. De studie levert desalniettemin een bijdrage voor onderzoek naar OWT's in minder geschikte gronden. Daarnaast zal het effect van de reductie op de glijdingsmodulus toenemen naarmate monopiles worden geïnstalleerd met een kleinere funderingsdiepte. Inzicht in de grootte van de reductie kan hier van significant belang zijn.
+
+Figuur 9.1: Model voor het berekenen van de reductie in schuifmodulus en toename van de materiaaldemping.

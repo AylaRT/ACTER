@@ -1,0 +1,141 @@
+REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL based on Article 9 of Council Framework Decision 2003/568/JHA of 22 July 2003 on combating corruption in the private sector
+
+Introduction
+
+Background
+
+Council Framework Decision 2003/568/JHA of 22 July 2003 on combating corruption in the private sector aims, according to recital 10 of its Preamble, '…to ensure that both active and passive corruption in the private sector are criminal offences in all Member States, that legal persons may also be held responsible for such offences, and that these offences incur effective, proportionate and dissuasive penalties.'
+
+At its heart is the requirement that Member States criminalise two types of conduct, which can be summarised as follows (Article 2 of the Framework Decision): promising, offering or giving a bribe to a person in the private sector in order that he or she do something or refrain from doing something, in breach of that person's duties; requesting or receiving a bribe, or the promise of such, while working in the private sector, in order to do something, or refrain from doing something, in breach of one's duties.
+
+Article 9(1) of the Framework Decision required Member States to take the necessary measures to comply with its provisions before 22 July 2005. Article 9(2) required them to transmit to the Council and the Commission the text of the provisions transposing into national law the obligations imposed on them under the Framework Decision.
+
+Purpose of the report and method of evaluation
+
+In 2007 the Commission completed the first implementation report on the Framework Decision. The answers provided by the Member States indicated that the level of implementation was very poor. In 2007 only two Member States had correctly transposed its provisions into their domestic legislation.
+
+Since then, the Stockholm Programme has been adopted, calling upon the Commission to develop a comprehensive anti-corruption policy and establish a mechanism to evaluate Member States' efforts to fight corruption. It therefore seemed necessary to evaluate the implementation of this important instrument in the Member States.
+
+On 19 May 2009 the Commission sent a letter to all Member States requesting updated information on national measures implementing the Framework Decision, in order to prepare the second implementation report, planned before 31 December 2009. Not all Member States sent their notifications in time, thus obliging the Commission to postpone the publication of the report. Moreover, when laws had been adopted in the meantime, Member States did not automatically notify the Commission of this fact. It was therefore necessary to supplement the official notifications with other information available in order to check implementation of the Decision. This additional information on the implementation of the Framework Decision has been gathered from available legislation, the GRECO III Round of Evaluation Reports and, in some cases, the OECD Working Group on Bribery reports.
+
+At the time of drafting, all Member States except ES, DK and LT had notified their transposition measures. ES did not provide any information in 2007 or for the current report. In the absence of new information, the evaluation of DK and LT remains the same as for the 2007 report.
+
+The report concentrates on Articles 2 to 7 (with a brief reference to Article 10 where relevant), and records the declarations made by Member States under Articles 2 and 7. It does not discuss Articles 8, 9 or 11, as these provisions do not require implementation. The evaluation criteria adopted by the Commission for this report are the general criteria adopted in 2001 to evaluate the implementation of framework decisions (practical effectiveness, clarity and legal certainty, full application and compliance with the time limit for transposition). Secondly, criteria specific to this Framework Decision are also used, further details being provided in the following analysis of the individual articles.
+
+EVALUATION
+
+Article 2 – Active and passive corruption in the private sector
+
+General remarks
+
+Article 2 is a key provision of the Framework Decision. It defines offences involving active and passive corruption, when carried out in the course of business activities. The scope of application of Article 2(1) includes business activities in both profit and non-profit entities .
+
+However, Member States could declare that they would limit the scope to conduct involving a distortion of competition in relation to the purchase of goods or commercial services. The declarations were valid till June 2010. Since the Council did not take a decision to extend their validity, the Commission assumes that they are no longer valid, so the Member States that have submitted such a declaration will have to amend their national legislation (such declarations had been made by DE, AT, IT and PL).
+
+As in 2007, implementation of Article 2 proved highly problematic for Member States. In 2007, only 2 Member States (BE, UK) had correctly transposed all elements of the offence. Currently 9 Member States (BE, BG, CZ, FR, IE, CY, PT, FI, UK) have correctly transposed all of them.
+
+Member States found it particularly difficult to capture the full meaning of the phrases 'directly or through an intermediary' and 'a person who in any capacity directs or work' in their national legislation.
+
+The seven component requirements of Article 2(1) are listed below.
+
+Article 2(1)(a) – active corruption | Article 2(1)(b) – passive corruption |
+
+'Promising, offering or giving' 'Directly or through an intermediary' 'A person who in any capacity directs or works' 'For a private-sector entity' 'An undue advantage of any kind' 'For that person or for a third party' 'Perform or refrain from performing any act, in breach of that person's duties' | 'Requesting or receiving or accepting the promise of' 'Directly or through an intermediary' 'While in any capacity directing or working' 'For a private-sector entity' 'An undue advantage of any kind' 'For oneself or for a third party' 'Perform or refrain from performing any act, in breach of that person's duties' |
+
+Detailed analysis
+
+Article 2(1)(a) – active corruption
+
+12 Member States (BE, BG, CZ, DK, IE, EL, FR, CY, PT, FI, SI, UK) meet all seven requirements of the definition of active corruption. The most problematic elements of transposing Article 2(1)(a) appear to be covering the full scope of 'promising, offering or giving' and 'perform or refrain from performing any act, in breach of that person's duties.'
+
+NL limited the offence to instances where the employer or principal was not informed of the case. LU requires that the employer is not aware and does not approve of the criminal behaviour. DE, AT, IT and PL had limited the scope of application in line with Article 2(3). DE limited the scope to acts relating to the purchase of goods or commercial services; AT limited the offence to 'legal acts' and PL limited the offence to behaviour resulting in losses, unfair competition or inadmissible preferential action. DE has informed the Commission that new legislation to meet this requirement of the Framework Decision is pending.
+
+In addition the Commission notes the following problems in transposition: EE does not cover offering a bribe, intermediaries, or performing/refraining from performing of the duties in breach of one's duties; IT does not cover offering of a bribe, intermediaries, persons who work in the private sector, or any third party for whom the bribe is intended; LV does not cover the element of promising a bribe and also limits the offence to cases where the offer/promise was accepted. 'A responsible employee ... or a person authorised', as noted in the 2007 assessment, does not seem to include all employees, and thus does not fully capture the wording 'any person who in any capacity directs or works(…)'; HU does not refer to 'offering' an advantage or to 'directly or indirectly'; RO does not make reference to a third part advantage; SK does not specifically address offering a bribe or advantage.
+
+Article 2(1) (b) – passive corruption
+
+12 Member States (BE, BG, CZ, IE, FR, CY, MT, PT, SI, SK, FI, UK) fully comply with Article 2(1)(b).
+
+In addition, the following was noted: DE has made a declaration that is no longer valid; EE does not refer to intermediaries, 'requesting' a bribe and undue advantage; EL does not cover a third-party advantage; IT does not cover intermediaries, a third-party advantage, 'working' and 'requesting' a bribe; LV – acceptance of an offer is not included in LV legislation; LU limits the scope of the Article (see Article 2(1)(a)); HU does not address 'directly or indirectly'; NL – advantage is to be concealed from the employer (narrower than in the Article); AT – more information is needed on intermediaries. In addition, 'servant/agent' of a private sector entity does not seem to cover those who direct such an entity.
+
+Article 2(2)
+
+Article 2(2) establishes that Article 2(1) applies to business activities in both profit and non-profit entities. Some Member States make explicit reference to the inclusion of non-profit entities in their legislation while others have worded their legislation in such a broad way that non-profit entities are not excluded. Overall, 16 Member States have fully transposed this provision (BE, BG, CZ, DE, EE, IE, FR, CY, HU, MT, NL, PL, PT, RO, FI, UK). In some cases, the wording of the legislation appears broad enough to cover this provision, but additional explanation would be necessary (EL, IT, LV, MT, AT, SK, SE).
+
+Article 2(3)
+
+Under Article 2(3), four Member States had already made a declaration (DE, IT, AT, PL) for the previous report. The declarations were valid until 22 July 2010 (Article 2(4)). Under Article 2(5), the Council was to review Article 2 in due time before 22 July 2010 to decide whether such declarations could be renewed. As the Council took no such decision, the Commission considers that the declarations have expired and that Member States need to amend their legislation accordingly.
+
+Article 3 – Instigation, aiding and abetting
+
+Article 3 focuses on secondary participation in corruption through instigation, aiding and abetting. It does not address attempted offences.
+
+The overall level of transposition was already high in 2007, when 18 Member States have transposed this article. Currently, all 26 Member States that provided information (ES did not supply any information) comply with Article 3. Those countries which provided little or no information, but were found to comply in the 2007 report, are still considered to be fully compliant. The Commission is not aware of any changes in the legislation since 2007.
+
+Article 4 – Penalties and other sanctions
+
+Article 4 requires that private sector corruption offences be punishable by criminal penalties which are 'effective, proportionate and dissuasive' (Article 4(1)). It also requires Member States to ensure that passive and active corruption in the private sector is punishable by a maximum penalty of at least one to three years of imprisonment (Article 4(2)). Article 4(3) requires Member States, in accordance with their constitutional rules and principles, to prohibit temporarily, in certain circumstances, natural persons from pursuing the particular or comparable business activity in a similar position or capacity.
+
+In 2007, a number of Member States, in the information they provided on Article 4(1), overlooked the penalties for offences under Article 3. At that time, only eleven Member States (DK, EE, FI, DE, IE, IT, LT, LU, NL, PL, SE) had fully transposed Article 4. The majority of Member States met the requirements of Article 4(3).
+
+Since then, considerable progress has been made. 22 Member States (BE, BG, CZ, DE, DK, EE, EL, IE, FR, IT, CY, LU, LT, HU, NL, PL, PT, SI, SK, FI, SE, UK) have fully transposed this article into their domestic law.
+
+These Member States provide for penalties and other sanctions, as required in Article 4(1). LV, MT, AT and RO did not provide sufficient information to assess whether the sanctions imposed cover also instigation, aiding and abetting (Article 3). ES did not reply.
+
+26 Member States have transposed Article 4(2). ES was not evaluated.
+
+22 Member States have fully transposed Article 4(3), LV has transposed it partly, MT has not transposed it and CY and AT did not provide enough information. ES did not provide any information.
+
+Article 5 – Liability of legal persons
+
+Article 5 provides for the liability of legal persons in relation to both active and passive corruption. Member States have to ensure that legal persons are liable when bribery is committed for their benefit by any person who is 'acting either individually or as a part of an organ of the legal person' and has a leading position in that legal person (Article 5(1)). Member States have to ensure that a legal person can also be liable in cases where the commission of the offence was made possible because of lack of supervision or control (Article 5(2)). The liability of legal persons does not exclude criminal proceedings against natural persons involved as perpetrators, instigators or accessories (Article 5(3)).
+
+In 2007 only five Member States (LT, LU, NL, PL, SI) had fully transposed Article 5.
+
+While there has been significant progress since 2007, overall poor transposition of Article 5 is still a matter of concern for the Commission. 15 Member States have fully transposed Article 5 (BE, DE, IE, EL, CY, LT, LU, NL, AT, PL, PT, RO, SI, SE, UK). 8 Member States have transposed it partly (BG, DK, EE, FR, LV, HU, MT, FI). CZ and IT have not transposed it. SK did not provide sufficient information and ES did not submit any reply.
+
+23 Member States (all except CZ, IT, no data available for SK, ES) have established liability for legal persons, as provided for in Article 5(1).
+
+As many as 15 Member States have transposed Article 5(2) (BE, DE, IE, EL, CY, LU, AT, PL, PT, SI, SE, UK, LT, NL). RO was requested to provide further clarifications as to whether the wording of its legislation (which appears to be compliant) covers the liability of legal persons in cases of lack of control. FR, SK and LV did not provide sufficient information and CZ, IT, BG, EE, IT, HU, FI, and MT were considered not to have fully transposed Article 5(2).
+
+20 Member States (BE, BG, DE, EE, IE, EL, FR, CY, LV, LU, HU, MT, NL, AT, PL, PT, RO, SI, SE, UK) have transposed Article 5(3). It has not been transposed by CZ and IT, while SK, DK and FI did not provide sufficient information for assessment.
+
+The analysis was hampered by a lack of information from Member States, particularly in relation to Articles 5(2) and 5(3). The Commission notes that many Member States do not refer directly in their legislation to the case of lack of supervision or whether or not corporate liability excludes the liability of the natural person.
+
+SK informed the Commission that the criminal liability of legal persons was included in the draft amendments to the Criminal Code and Criminal Procedure Code prepared by the SK government, but that the adoption process had been suspended between 9 April 2008 and 20 May 2009 pending a Constitutional Court decision. Following the ruling of the Constitutional Court, the legislation seems to have changed, but the Commission has not been notified of any of the changes, nor has it received the new text. It was therefore impossible to assess compliance with Article 5.
+
+Article 6 – Penalties for legal persons
+
+Article 6 requires Member States to establish effective, proportionate and dissuasive sanctions for legal persons (criminal or non-criminal) for active and passive corruption, instigation and abetting and for making commission of the offence possible through lack of supervision or control. It also gives examples of sanctions which may be imposed, such as exclusion from public benefits or aids, disqualification from the practice of commercial activities, judicial supervision, or a judicial winding-up order.
+
+In 2007, 5 Member States (DK, LT, NL, PL, SI) had fully transposed Article 6. Further information was requested from a number of Member States in order to assess their position. For the Member States that did not provide any further information, the evaluation in the 2007 report was maintained.
+
+Currently, 16 Member States (BE, DK, DE, IE, EL, FR, LT, LU, NL, AT, PL, PT, RO, SI, SE, UK) have transposed Article 6. However, further clarification is required from RO and UK.
+
+5 Member States (BG, EE, LV, HU, FI) have partly met the requirements of Article 6. FI was requested to provide further clarifications as to the limitations of corporate liability.
+
+4 Member States (CZ, IT, CY, MT) have not transposed Article 6. ES did not supply any information. SK has not notified its new law on the criminal liability of legal persons, so it was impossible to assess whether or not SK meets the requirements of this article.
+
+The level of implementation of Article 6(1), obliging Member States to establish penalties for legal persons for active/passive bribery, is higher than for Article 6(2), since 20 Member States have implemented its provisions. Only 14 Member States have implemented Article 6(2) (BE, DK, DE, IE, EL, FR, NL, AT, PL, PT, RO, SI, SE, UK). 4 Member States (LV, BG, HU, SK) did not provide sufficient information or did not refer to liability in cases of lack of supervision at all. EE, CZ, CY, IT and MT have not transposed Article 6(2) and FI meets the requirements partially.
+
+Article 7 - Jurisdiction
+
+Article 7 requires Member States to take the necessary measures to establish jurisdiction over an offence falling under the scope of this Framework Decision, where the offence has been committed in whole or in part on its territory, by one of its nationals, or for the benefit of a legal person that has its head office in its territory. Member States have a margin of discretion in applying the last two jurisdiction rules.
+
+In 2007, on the basis of the information supplied, only 3 Member States (DK, DE, UK) had transposed this Article.
+
+Currently only 9 Member States (BE, CZ, DK, DE, IE, LU, HU, NL, UK) have fully transposed Article 7. It seems that 15 Member States (BG, EE, EL, FR, IT, CY, LV, MT, PL, PT, RO, SI, SK, FI, SE) have partly transposed the article, but in many cases there was not enough information on every provision to fully assess compliance. 10 Member States (DK, DE, EE, FR, LT, HU, AT, FI, SE, UK) have decided not to apply certain jurisdiction rules (when the offence has been committed by one of its nationals or committed for the benefit of a legal person with its head office in the territory of the Member State). In general, considering the lack of information provided, it was not possible for the Commission to draw a clear picture of the implementation of this provision. Member States are requested to submit more precise information in order to allow the Commission to carry out an in-depth evaluation.
+
+Article 10 – Territorial application
+
+No further information was provided as to when Gibraltar will transpose the instrument. The UK stated that this will be done as soon as legislative time allows.
+
+CONCLUSIONS
+
+The assessment is limited to the transposition of specific provisions into the domestic legislation. Due to lack of comparable statistics and figures on cases of corruption in the private sector, it was not possible to assess the practical impact of the transposition of the provisions of this Framework Decision.
+
+As far as the transposition itself is concerned, it is still not satisfactory, despite some progress achieved. The main problem lies in weak transposition of some elements of Articles 2 and 5. With regards to the transposition of Article 5 , the assessment was mainly carried out against the national criminal law provisions, as notified by the Member States. Although aware that the sanctions referred to in Article 5 may also be of administrative or civil nature, the current assessment relied only on the available data notified by the Member States.
+
+The Commission recalls the importance of fighting corruption in the private sector and calls upon Member States to adopt without delay all the necessary measures in this regard.
+
+The Commission invites all Member States to consider this report and to provide all further relevant information to the Commission and to the Council. In addition, the Commission invites Member States that have since adopted new legislation to notify these measures to the Commission and to the Council.

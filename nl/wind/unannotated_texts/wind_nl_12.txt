@@ -1,0 +1,216 @@
+Inleiding
+Op plaatsen waar veel wind is, zie je ze vaak staan: windmolens. Op de voorpagina van dit hoofdstuk zie je twee varianten afgebeeld. De bovenste is een windmolen is een type uit de 18e eeuw. De ander is er één uit 2006.  Vroeger werden windmolens gebruik om goederen te malen. Zo kan je bij een nog werkende 'oude' molen vaak heel lekkere bloem kopen. Voor dat malen worden 2 grote stenen schrijven over elkaar heen bewogen (een gemaal genaamd). De windmolens van tegenwoordig hebben een ander doel: elektriciteit opwekken. Hiervoor wordt gebruik gemaakt van een turbine. Dat is een grote dynamo. Deze nieuwe typen windmolens worden windturbines genoemd. 
+
+Algemene opbouw windmolen
+In dit hoofdstuk wordt uitgegaan van onderstaande algemene benamingen voor de aangewezen onderdelen van de windmolen.
+				
+oude Hollandse molen
+windturbine
+
+Technisch onderzoek
+Wanneer je naar een windturbine kijkt, lijkt het een heel simpel product: een mast met drie wieken. Maar schijn bedriegt. Elke dag worden er in windtunnels experimenten gedaan die voor een nog betere opbrengst moeten zorgen tegen lagere kosten. Ook de mast is een stukje vernuft. Door het Gigantische gewicht van de gondel (tot wel 140 ton) en de grootte van de mast, zijn er andere eisen aan de mast dan vroeger. De mast heeft op dit moment een hoogte van 100 meter. En daar blijkt een barrière te zijn. Figuur1b laat zien dat het onderste stuk van de mast een grotere diameter heeft dan vlak onder de gondel. In Figuur 2 wordt een stuk mast vervoerd op een dieplader. Deze combinatie past al bijna niet meer onder bruggen door. Bij een nog grotere mast, gaat dit niet meer passen.
+
+Figuur 2 Een stuk mast op een dieplader
+Een Nederlands bedrijf heeft een oplossing bedacht. Die ronde stukken worden in gedeeltes gemaakt en op plaats van bestemming in elkaar gezet. Dit is een ingewikkeld en nauwkeurig proces. Het is dan ook nog niet zo dat deze methode op grote schaal toegepast wordt.
+
+Zelfs voor de kleur van de turbine heeft er veel onderzoek plaats gevonden. Om te zorgen dat de windturbine zo min mogelijk opvalt wordt er een kleur gekozen die "niet-opvallend grijs" wordt genoemd. Het effect van deze kleur is te zien op de voorpagina: de achterste windturbine valt maar weinig op.
+
+Al dit onderzoek heeft er voor gezorgd dat het rendement van een moderne 3-wiek turbine stukken meer is dan die van de oude 4-wiek.
+
+Vraag
+Verzamel informatie over de opbouw van "oude" en de "nieuwe" windmolens. Beschrijf hiermee de technische opbouw.
+
+Het onderzoek
+Het moet je nu wel duidelijk zijn dat er behoorlijk wat onderzoek gedaan is om tot het ontwerp te komen dat op het moment veel gebruikt wordt.
+Met het onderzoek dat jij nu gaat uitvoeren doe jij een aantal onderzoeken, die er in de loop der jaren zijn uitgevoerd, na. De onderzoeken gaan over de ontwikkeling van windmolen tot windturbine. De volgende onderzoeksvragen komen aan bod:
+(De onderzoeksvragen worden uitgelegd in het betreffende hoofdstuk)
+Hoeveel windenergie bevat bewegende lucht?
+Moet de kop van de molen tegen de wind in staan of juist onder een hoek van 90o?
+Welk type blad kan het beste gebruikt worden?
+Wat moet de stand van die bladen dan zijn?
+Wat is het effect van het aantal bladen?
+Wat doet de elektrische belasting met het rendement van de molen?
+Hoeveel procent van de windenergie kan er met een windturbine omgezet worden in elektriciteit?
+Na het uitvoeren van het onderzoek kan je beredeneren wat voor type windturbine het meest geschikt is voor het opwekken van elektriciteit. Maak van je resultaten een kort verslag.
+
+Leerdoelen
+Onderzoeken opstellen en uitvoeren;
+Wat is windenergie en wat kan je er mee;
+Hoe zet je windenergie om en met welk rendement;
+Hoe kan je komen tot productverbetering.
+
+Beroepsmogelijkheden en studies
+Een paar beroepsmogelijkheden zijn:
+Productontwikkelaar bij GE-wind of harakosan;
+Constructeur van turbine onderdelen;
+Onderzoeker voor het optimaliseren van windparken bij ECN of TU-delft;
+Zelfstandig ondernemer en kom met een heel nieuw idee.
+Mogelijke studies zijn: Technische Natuurkunde, Werktuigbouwkunde, Elektrotechniek of aanverwante studies.
+1 Hoeveel windenergie bevat bewegende lucht?
+Windenergie is de grootste energieleverancier onder de duurzame bronnen die geen CO2 uitstoot. Erg goed voor het klimaat dus. Maar, hoeveel windenergie (= kinetische energie) bevat bewegende lucht? Dit is het eerste onderzoek dat je uit gaat voeren.
+
+Om antwoord op deze vraag te kunnen geven moeten we eerst een verband opstellen tussen de bewegende lucht en de energiedichtheid van de wind.
+
+De kinetische energie die een bewegend voorwerp bezit, is afhankelijk van de massa en de snelheid van het voorwerp.
+Dit geldt natuurlijk ook voor lucht. Omdat de massa van een kubieke meter lucht gelijk is aan de dichtheid (in kg/m3) daarvan, geldt voor de kinetische energie van een kubieke meter lucht.
+Hierin is ρ de dichtheid van de lucht in kg/m3 en v de gemiddelde luchtsnelheid in m/s.
+
+Het volume aan wind dat door een oppervlak A stroomt, is gelijk aan het oppervlak maal de verplaatsing per seconde ofwel . De hoeveelheid energie die per seconde stroomt is gelijk aan het vermogen P. 
+ [W]
+Erg handig is het vermogen per vierkante meter: 
+ [W/m2] 
+hierin is:
+= vermogensdichtheid van de wind [W/m2]
+ρ = dichtheid van lucht = 1,2 [kg/m3] bij 20oC
+v = windsnelheid [m/s]
+
+Met deze formule en de gegevens over windsnelheid kan je dan de energiedichtheid bepalen.
+
+Opdracht
+Eén van de instrumenten in de koffer is een windsnelheidsmeter. Neem hem mee naar buiten en meet de windsnelheid.
+Bepaal de gemiddelde windsnelheid op 10 en 100 meter hoogte bij jullie in de omgeving. Bedenk ook de reden van deze twee hoogtes. De figuur van 10 meter is bijgevoegd in Bijlage X, de gegevens voor 100 meter zijn te vinden op www.senternovem.nl en dan zoeken naar windkaart.
+In de koffer zit een ventilator. Meet de luchtsnelheid die uit de ventilator komt op 19 cm afstand. Probeer de windsnelheden zoals hiervoor opgezocht te behalen. 
+Noteer bij deze snelheden de instelstanden van de ventilator. 
+Geef bij nog drie instelstanden de luchtsnelheid.
+Reken deze 5 snelheden om naar de energiedichtheid van wind ().
+
+2 De oude Hollandse windmolen
+Op een aantal plaatsen in Nederland zie je ze nog staan: 
+de oude Hollandse windmolen. Een werkplaats met op de kop 4 wieken. De kop is draaibaar zodat de wieken in de juiste stand t.o.v. de wind gezet kunnen worden. Het draaien van de kop gebeurt handmatig. Een best zwaar en intensief karwij. De wieken bestaan uit twee delen. Een vaste plaat met daaraan een hekwerk. Aan dit hekwerk worden wanneer nodig doeken gemaakt om meer wind te vangen. Het remmen van de wieken gebeurt via een remschijf die iets weg heeft van een trommelrem op een fiets. Het remmen gebeurt handmatig.
+In open gebieden komen de wieken bijna tot aan de grond. In een dorp is er een extra stal onder het bouwwerk geplaatst om zo boven de andere gebouwen uit te komen. Op deze manier vangt de molen ook op deze gebieden voldoende wind. 
+
+De oude Hollandse molen is tegenwoordig een monument. Tot voor kort heeft dit type molen echter een lange tijd hard werk gedaan. Van graan malen tot het maken van oliën uit olie houdende zaden en van het maken van papier tot aan het droogpompen van grote meren. Een stukje Hollands glorie dus. Hoe 'goed' is deze molen eigenlijk?
+
+Met 'goed' wordt in dit stukje het rendement van de molen bedoeld. Om deze vraag te kunnen beantwoorden, wordt in deze lesmodule een "gemaal" gesimuleerd met een zware turbine. Doordat het elektrisch vermogen makkelijk te meten is kan het rendement van dit type molen makkelijk bepaald worden.  
+
+Vraag
+
+Rendement van een windturbine
+In het inleidende hoofdstuk van de module ………., hebben jullie geleerd dat het rendement de verhouding is tussen het nuttig te gebruiken energie en de ingestopte energie. In formulevorm: .
+Voor elektriciteit uit windenergie is het vermogen dat geleverd wordt de nuttige energie. De inkomende energie is de vermogensdichtheid van de wind maal het oppervlak dat bestreken wordt door de wieken (zie Figuur 3) . In formulevorm is dit: . 
+
+In de windsector spreekt men overigens van vermogenscoëfficiënt (Cp) in plaats van rendement (η)
+
+Let op: 
+
+
+Figuur 3 werkzaam oppervlak van een windturbine
+Opdracht 
+Maak naar eigen inzicht de Hollandse molen na. (Leg op papier je constructie vast zodat je meting nagedaan kan worden op een ander moment.)
+Bepaal het rendement van deze molen bij een windsnelheid die in jullie omgeving op 10 meter hoogte heerst. Gebruik een wiekhoek van 60o. Belast de turbine met een elektrische weerstand van 100 Ω.
+Hoeveel elektriciteit zal deze molen in het echt leveren? 
+Gegevens van deze molen: 
+lengte van een wiek: 6 meter, 
+hoogte bouwwerk: 10 meter, 
+gemiddelde windsnelheid:  zie jullie omgeving (vorige opdracht)
+
+3 Snellopendheid
+Het elektrische vermogen dat de generator (in de windturbine) levert, hangt onder andere af van de draaisnelheid van de wieken. Een 4 wiek turbine reageert anders op een windsnelheid dan een 3 wiek turbine. Je kan daarom de twee turbines niet zo maar met elkaar vergelijken. Om alle turbines toch met elkaar te kunnen vergelijken, heeft men de grootheid snellopendheid (λ) geïntroduceerd. Deze grootheid is een samenvoeging van onder andere de windsnelheid, het type rotor en de diameter van de rotor. Omdat in dit onderzoek alleen de vorm van de wieken anders is, mogen we de snellopendheid definiëren als het (rotor) toerental gedeeld door de windsnelheid (). Het toerental van de rotor is af te leiden uit een spanning geleverd door de "tachogenerator" op de windturbine. De relatie tussen spanning en toerental is in onderstaande grafiek weergegeven.
+
+
+Figuur 4 toerental van de rotor
+
+Opdracht
+Maak een rendementskarakteristiek van de windturbine bij onderstaande condities. In de rendementskarakteristiek wordt η (of Cp) tegen λ uitgezet.
+
+Condities:
+Gondel van de turbine in de wind (zie volgend hoofdstuk);
+4 rechte wieken;
+Instelhoek 60o;
+Lastweerstand: 0 - 100 Ω in stappen van 10 Ω;
+
+Werkwijze:
+Stel een meetplan op. Gebruik hiervoor de handleiding ….
+Voer de metingen uit en noteer de resultaten;
+Maak de karakteristiek.
+
+4 Stand van de gondel
+Een windturbine kan op twee manieren  in de wind staan. Met de gondel in de wind, of, zoals van een watermolen bekend is, onder een hoek van 90o t.o.v. de stromingsrichting. Wanneer de gondel in de wind staat, wordt de turbine bestempeld als windturbine werkend op het "liftprincipe". Staat de turbine onder een hoek van 90o, dan werkt de turbine op het "weerstandprincipe". Beiden principes zijn afgebeeld in Figuur 5.
+
+  
+      			
+Figuur 5 windmolen met het liftprincipe, en het weerstandsprincipe
+In dit onderzoek bekijk je welk principe het grootste vermogen afgeeft. Immers, bij een windturbine is het doel om zo veel mogelijk elektriciteit op te wekken in een zo kort mogelijke tijd.
+
+Opdracht
+Onderzoek welk principe het grootste vermogen levert (vermogenskarakteristiek: P tegen R) en welke situatie het beste rendement (rendementskarakteristiek) heeft.
+
+Condities:
+
+Liftprincipe
+Weerstandsprincipe
+Aantal wieken
+4
+4
+Vleugel vorm
+recht
+recht
+Instelhoek (bladen)
+45o
+90o
+windsnelheid
+8,5 m/s
+8,5 m/s
+lastweerstand: 
+0 - 100 Ω in stappen van 10 Ω
+
+Werkwijze:
+Stel een meetplan op. Gebruik hiervoor de handleiding ….
+Voer de metingen uit en noteer de resultaten;
+Maak de karakteristieken en trek conclusies.
+
+5 Invloed van de wieken
+Tijdens de vorige onderzoeken heb je kennis kunnen maken met de windturbine en een aantal bij behorende belangrijke grootheden (Cp, λ, P, U, I, R). Een belangrijk onderdeel moet nog onderzocht worden: de wieken. Hoeveel wieken moet hij hebben? Onder welke stand moeten die wieken dan staan? En welke vorm moeten die wieken hebben? Deze vragen ga je nu beantwoorden.
+
+Opdracht
+Onderzoek de volgende aspecten:
+Welk type blad kan het beste gebruikt worden?
+Moet de bolle of holle kant voor?
+Wat is de beste stand van de wieken?
+Wat is het effect van het aantal bladen?
+Om antwoord te kunnen geven heb je rendementskarakteristieken nodig.
+
+Werkwijze
+Stel een meetplan op. Gebruik hiervoor de handleiding ….
+Voer de metingen uit en noteer de resultaten;
+Maak 'slimme' grafieken (met de te vergelijken karakteristieken in 1 grafiek) en trek de conclusies.
+6 De moderne windturbine
+Hiervoor heb je een aantal onderzoeken gedaan die ook gedaan worden bij het ontwikkelen van de moderne windturbine. 
+
+Opdracht:
+Als je het nog niet gedaan hebt, voeg de uitkomsten van de afzonderlijke onderzoeken bij elkaar en geef aan welke (en de redenatie) combinatie de beste windturbine op zou leveren.
+
+De moderne windturbine heeft meestal drie aërodynamische wieken die afhankelijk van de actuele rotatiesnelheid een iets andere hellingshoek aan nemen. Op deze manier kan de turbine optimaal werken. 
+In onderstaande grafiek zie je de rendementskarakteristieken van een aantal typen windmolens.
+
+Figuur 6 Vermogenscoëfficiënt Cp als functie van de snellopendheid λ voor verschillende windturbines
+
+Af en toe zie je ook een moderne 2-wieker staan. Deze heeft ongeveer dezelfde opbrengst. De keuze tussen 2 of 3 wieken is dan ook geen opbrengst kwestie, maar heeft te maken met geld en acceptatie. twee wieken betekent een wiek minder dus minder kosten. Daartegen heeft de 2-wieker een snellere rotatiesnelheid nodig om goed te presteren. Een sneldraaiende rotor is onrustiger om te zien en maakt meer geluid. De omwonende bewoners zijn dus eerder geneigd om een 3-wieker te accepteren dan een 2-wieker.
+
+In grafiek X is duidelijk te zien dat de moderne 3-wiek turbine een hogere opbrengst heeft dan de oude Hollandse molen. Als eindonderzoek ga je nu de opbrengst bepalen van een moderne windturbine. 
+
+Opdracht
+Bouw de moderne 3-wiek turbine. (Leg op papier je constructie vast zodat je meting nagedaan kan worden op een ander moment.)
+Bepaal de opbrengst en het rendement van deze molen bij een windsnelheid die behoort bij jullie omgeving op 100 meter hoogte. Gebruik een wiekhoek van 75o. Belast de turbine met een elektrische weerstand van 30 Ω.
+Hoeveel elektriciteit zal deze molen in het echt leveren? 
+Gegevens van deze molen: 
+lengte van een wiek: 40 meter, 
+hoogte mast: 100 meter, 
+gemiddelde windsnelheid: de genomen windsnelheid bij de proef. 
+Vergelijk de uitkomst van de moderne windturbine met die van de oude windturbine. Komt dit overeen met de resultaten in Figuur 6? Probeer eventuele afwijkingen te verklaren. Ter info: er is gekozen voor 2 verschillinde weerstanden. Dit is om de werkelijkheid meer na te bootsen. Leg dit uit.
+7 Savonius windturbine
+De Savonius windturbine wordt vaak in bijzondere ontwerpen gemaakt en is dan tevens een kunstwerk of reclame. Ook zie je de Savonius vaak staan als 'doe het zelf' projecten. 
+
+          
+
+
+Opdracht
+Onderzoek van de Savonius turbine:
+de werking;
+het aandrijf principe;
+het rendement t.o.v. de moderne 3-wiek;
+de reden dat deze twee typen (kunst en 'doe het zelf') gebouwd worden.
+
+werkwijze
+Voor het oplossen van deze vragen zul je weer een meetonderzoek moeten uitvoeren en tevens het internet raadplegen.
+Het meetonderzoek wordt uitgevoerd via al eerder beschreven methode. De te gebruiken materialen zitten in de leskoffer.

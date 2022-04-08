@@ -1,0 +1,28 @@
+Chronisch	B
+hartfalen	I
+is	O
+een	O
+veelvoorkomende	O
+diagnose	B
+met	O
+een	O
+stijgende	O
+incidentie	B
+en	O
+met	O
+een	O
+slechte	O
+prognose	B
+.	O
+
+Patiënten	B
+met	O
+chronisch	B
+hartfalen	I
+maken	O
+veel	O
+gebruik	O
+van	O
+gezondheidszorgvoorzieningen	B
+.	O
+

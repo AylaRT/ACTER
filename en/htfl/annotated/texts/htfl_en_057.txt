@@ -1,0 +1,11 @@
+Frailty and risk for heart failure in older adults: the health, aging, and body composition study.
+OBJECTIVE:
+The aim of this study was to assess the association between frailty and risk for heart failure (HF) in older adults.
+BACKGROUND:
+Frailty is common in the elderly and is associated with adverse health outcomes. Impact of frailty on HF risk is not known.
+METHODS:
+We assessed the association between frailty, using the Health ABC Short Physical Performance Battery (HABC Battery) and the Gill index, and incident HF in 2825 participants aged 70 to 79 years.
+RESULTS:
+Mean age of participants was 74 ± 3 years; 48% were men and 59% were white. During a median follow up of 11.4 (7.1-11.7) years, 466 participants developed HF. Compared to non-frail participants, moderate (HR 1.36, 95% CI 1.08-1.71) and severe frailty (HR 1.88, 95% CI 1.02-3.47) by Gill index was associated with a higher risk for HF. HABC Battery score was linearly associated with HF risk after adjusting for the Health ABC HF Model (HR 1.24, 95% CI 1.13-1.36 per SD decrease in score) and remained significant when controlled for death as a competing risk (HR 1.30; 95% CI 1.00-1.55). Results were comparable across age, sex, and race, and in sub-groups based on diabetes mellitus or cardiovascular disease at baseline. Addition of HABC Battery scores to the Health ABC HF Risk Model improved discrimination (change in C-index, 0.014; 95% CI 0.018-0.010) and appropriately reclassified 13.4% (net-reclassification-improvement 0.073, 95% CI 0.021-0.125; P = .006) of participants (8.3% who developed HF and 5.1% who did not).
+CONCLUSIONS:
+Frailty is independently associated with risk of HF in older adults.

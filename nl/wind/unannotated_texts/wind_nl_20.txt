@@ -1,0 +1,88 @@
+Real-time processimulator voor windturbinebesturingen
+
+Modellering en Implementatie
+
+
+Inleiding
+
+Door de verdere opschaling en offshore plaatsing bevatten moderne windturbines steeds meer regel- en besturingstechnische oplossingen. Het intensief testen van deze complexe besturingsalgoritmen wordt steeds belangrijker om de inbedrijfstelling op locatie goed te laten verlopen, zeker voor offshore gesitueerde windturbines.
+
+Een real-time processimulator, simuleert het windturbinegedrag met een zodanig detail en snelheid dat het eraan gekoppelde windturbinebesturingssysteem een 'echte' windturbine ervaart, juist ook tijdens abnormale omstandigheden zoals componentfalen en extreme windvlagen. Het testen van besturingssoftware kan hiermee al tijdens het ontwerpen van een turbine plaatsvinden en veilig en comfortabel worden uitgevoerd. Dit verhoogt de betrouwbaarheid en beschikbaarheid van een windturbine. Daarnaast kan het besturingssysteem op basis van testbevindingen vergaand geoptimaliseerd worden. Dit komt ten goede aan de opbrengst (minder stilstand) en mechanische belastingen (geavanceerde regelalgoritmen).
+
+Dit algemeen rapport verwijst naar een bijbehorend Engelstalig rapport waarin de technische ontwikkeling uitvoerig worden beschreven. Naast een beknopte samenvatting van dat rapport (hoofdstuk 3) wordt de commerciële uitvoering (hoofdstuk 4) en de realisatie van de indirecte energieverdienste (hoofdstuk 5) beschreven.
+
+
+
+Inhoudelijk eindrapport
+
+Voor een uitvoerige technisch inhoudelijke rapportage wordt verwezen naar het rapport 'Real-time Process Simulator for Evaluation of Wind turbine Control Systems'. In dit hoofdstuk wordt daarom volstaan met een samenvatting van dit rapport.
+
+Tijdens het project is een real-time processimulator van een volledige windturbine ontwikkeld. De modulaire softwaremodules zijn ontwikkeld met Matlab en geïmplementeerd in Simulink ten behoeve van tijddomein simulaties. De flexibiliteit en gebruikersvriendelijkheid van Simulink maakt overdracht gemakkelijker en wijzigingen of uitbreidingen kunnen betrekkelijk eenvoudig worden doorgevoerd.
+
+Er is een groot aantal software modules ontwikkeld voor real-time processimulatie. Deze modules kunnen worden aangewend om een typische implementatie op te zetten voor ieder (gangbaar) type windturbine. De modules voorzien in real-time simulatie van de windturbine, de zogenaamde hulpsystemen ('peripheral devices') en de externe bronnen ('driving sources'). Helaas was het vanwege de uitzonderlijke hectiek op de windturbinemarkt niet mogelijk om samen met een industriële partner een hardware implementatie van de processimulator te realiseren. Wel is de implementatie zodanig gerealiseerd dat het automatisch naar een real-time omgeving zoals dSpace of xPC-target kan worden gecompileerd. Dit is een beproefde en industrieel geaccepteerde methode.
+
+Er is een specifieke TURBU Offshore applicatie ontwikkeld voor het genereren van een geïntegreerd lineair constructief model van de turbinerotor, aandrijftrein en ondersteuningsconstructie in een werkpunt. Er worden meerdere constructieve modellen voor een aantal werkpunten bepaald. Tijdens simulatie worden deze modellen simultaan berekend en geïnterpoleerd. Het geïntegreerde model berekent alle mechanische interacties tussen rotor, aandrijftrein en ondersteuningsconstructie en berekent dynamische responsies op de aerodynamische en hydrodynamische belastingen en op de belastingen teweeggebracht door de hulpsystemen. De relatief lage orde lineaire modellen kunnen op voorhand worden geconfigureerd en resulteren in tijd efficiënte simulaties.
+
+De aerodynamische en hydrodynamische conversie modellen zijn vanwege hun sterk niet lineaire karakter als niet lineaire modellen geïmplementeerd. Het aerodynamisch conversie model is gebaseerd op de Blade Element Momentum theorie (BEM) en converteert windsnelheden naar externe krachten en koppels op de bladelementen; er wordt rekening gehouden met de zogeffecten ('dynamic inflow'). Het hydrodynamische model is gebaseerd op de 'Morison vergelijking' en zet de golfsnelheid en golfversnelling om naar externe krachten op de torenelementen.
+
+Het simuleren met bladeffectieve windsnelheden is een effectieve manier gebleken voor real-time simulatie. De bladwindsnelheden bevatten roterende bemonsteringseffecten door turbulentie, torenpassage, windschering en scheve aanstroming.
+
+Een golf generatiemodel is ontwikkeld om offshore situaties te kunnen simuleren. Het model is gebaseerd op het spectrum voor wateroppervlakverheffing in samenhang met Airy's lineaire golf theorie, die oppervlakverheffing koppelt aan golfsnelheid en golfversnelling. Zoals in werkelijkheid, kan de golf- en waterstroomrichting verschillen van de gemiddelde windrichting.
+
+Het elektrische systeem is gemodelleerd met modules voor een dubbelgevoede inductie generator, converter (rotor), transformator (stator) en kabel. Snelle dynamica is kenmerkend voor elektrische systemen. Om de rekenlast te beperken wordt er daarom naar een niet-roterend referentie assenstelsel getransformeerd (Park transformatie). Hoewel het elektriciteitsnet vooralsnog star is verondersteld, is het model voorbereid voor responsies ten gevolge van transiënten in het elektriciteitsnet.
+
+De modellen voor turbine specifieke hulpsystemen zoals pompen, motoren, kleppen, remmen en warmtewisselaars zijn gebaseerd op hun quasi stationair gedrag. De bijhorende parameters zijn gemakkelijk te bepalen voor engineers. The modellen kunnen omgaan met discontinuïteiten die optreden bij schakelende elementen en Coulombse wrijving. Typische turbineaanpassingen zijn eenvoudig door te voeren vanwege de generieke en modulaire opbouw van modellen voor vloeistofsystemen, verliezen en warmte-uitwisseling.
+
+Er zijn generieke modellen gemaakt voor het thermische gedrag van de tandwielkast, de mechanische rem en de generator. Deze modellen bepalen op basis van vermogensverliezen de temperaturen op verschillende plaatsen in een systeem. Hierbij wordt eerste orde dynamica verondersteld. De benodigde parameters (warmtegeleidingen en warmtecapaciteiten) worden ontleend aan nominale stationaire situaties.
+
+Verdere ontwikkelingen worden uitgevoerd in het kader van het Europese onderzoeksproject UPWIND en het SenterNovem project SUSCON binnen het kader van het lange termijn onderzoeksprogramma EOS.
+
+De real-time processimulator is tevens een toepassing waar via modelinterpolatie, door TURBU berekende, lineaire modellen gebruikt worden voor niet-lineaire tijddomein simulaties. Ook zijn de dynamische modellen van het ERAO project opgenomen voor elektrisch en netzijdig gedrag. In werkpakket 5 van het project UPWIND worden de lineaire modellen ter validatie vergeleken met andere benaderingen. In het lopende project SUSCON worden de generieke modellen ('turbine dynamic systems') momenteel gebruikt om nieuwe regelstrategieën te ontwikkelen.
+
+Commerciële uitvoering project
+
+Door verdere opschaling en het plaatsen op offshore locaties, bevatten moderne windturbineconcepten steeds meer regel- en besturingstechnische oplossingen. Omdat intensief testen van deze complexe besturingsalgoritmen noodzakelijk is geworden, is het nut en de behoefte van een real-time processimulator in de loop der jaren daarom alleen maar toegenomen. Dit is gedurende de uitvoering van het project bevestigd tijdens de Dutch Wind Workshops, bezoeken aan internationale windturbine fabrikanten en EWEC conferenties. Ook is er al tijdens het project een vereenvoudigde versie uitgegeven aan een fabrikant om real-time testen aan een regelsysteem uit te voeren.
+
+Eerder was het voorzien om industriële partijen al tijdens de ontwikkeling nauw bij de real-time processimulator te betrekken; enerzijds om voldoende praktische relevantie te waarborgen en anderzijds voor het gezamenlijk uitvoeren van een case-study. Een case-study betreft een volledige testopstelling van een processimulator (hardware en software) met een daaraan gekoppeld windturbinebesturingssysteem (inclusief turbinesoftware). De hiervoor benodigde intensieve samenwerking met windturbinefabrikant(en) was vanwege de (inter)nationale markt hectiek voor de betrokken industriële partijen helaas niet haalbaar.
+
+Wel hebben de industriële partijen inzage gegeven in de uitvoeringsvormen van actuatoren sensoren en hulpsystemen, waardoor er naast generieke software ('turbine dynamic systems') ook modulaire turbine specifieke software is ontwikkeld ('peripheral devices'). Omdat juist de ontwikkeling van deze softwaremodules een struikelblok blijkt te zijn bij fabrikanten, zullen de projectresultaten al op korte termijn waardevol zijn. Temeer omdat de softwaremodules zodanig zijn geïmplementeerd dat compilatie naar real-time platforms volgens een beproefde procedure geautomatiseerd kan plaatsvinden (bijvoorbeeld xPC-target, dSpace).
+
+ECN streeft na om op korte termijn een bilateraal project te starten met een windturbinefabrikant om de ontwikkelde software modules (ECN) in een real-time platform (fabrikant/ECN) te implementeren en te testen met een gekoppeld windturbinebesturingssysteem (fabrikant).
+
+
+De realisatie van de indirecte energieverdienste
+
+Innovativiteit
+
+De processimulator simuleert het windturbinegedrag met een zodanig detail en snelheid dat het gekoppelde windturbinebesturingssysteem een 'echte' windturbine ervaart, juist ook tijdens abnormale omstandigheden (zoals componentfalen, extreme windvlaag). De modulaire opzet en de integratie van gerealiseerde softwaremodulen zijn specifiek voor een real-time simulatie ontwikkeld en geïmplementeerd. De innovativiteit van de processimulator wordt gekenmerkt door de integrale behandeling van: efficiënt geïntegreerd lineair structureel model voor de rotor, drive-train en ondersteuningsconstructie in een werkgebied; een interpolatiemethode tussen deze lineaire modellen niet-lineaire aerodynamische en hydrodynamische conversiemodellen een blad effectief windsnelheidsmodel, waarin roterend bemonsteren van turbulentie, torenpassage, windschering en scheve aanstroming; een golf generatiemodel voor offshore situaties een elektrisch systeem model in een niet-roterend referentie assenstelsel voor een dubbelgevoede asynchrone inductiegenerator, converter, transformator en kabel; quasi stationaire en eenvoudig te parameteriseren modellen voor typische apparaten zoals pompen, motoren, kleppen, remmen en warmtewisselaars; modellen voor discontinue verschijnselen zoals schakelaars en Coulombse wrijving; generieke modellen voor thermisch gedrag van warmte ontwikkelende systemen, zoals generator, rem en tandwielkast.
+
+Windturbinefabrikanten kunnen deze Matlab en Simulink softwaremodules voor real-time processimulatie aanwenden en inpassen in hun turbine ontwerpprogrammatuur. Tijdens het ontwerpen van nieuwe turbines of het modificeren van bestaande turbines kan windturbinebesturingssoftware dan eerder en uitgebreider getest worden. Er ontstaan mogelijkheden om vroegtijdig het windturbinebesturingsalgoritme te optimaliseren (opbrengst, belastingen) waardoor de betrouwbaarheid en beschikbaarheid van de windturbine wordt verhoogd. Tevens kan de inbedrijfstelling worden versneld. Door gebruik van de projectresultaten wordt bijgedragen aan het beperken of zelfs voorkomen van implementatievertragingen van grootschalige (offshore) windparken.
+
+Knelpunten
+
+Om de kostprijs van (offshore) windenergie te verlagen is verdere opschaling van windturbines noodzakelijk. Geavanceerde regelingen zijn in staat om de turbinebelastingen relatief laag te houden zodat door toepassing van lichte structuren de dimensies en massa's zo laag mogelijk blijven.
+
+Veel inbedrijfstellingen van prototypen windturbines of eerste series lopen aanzienlijke vertragingen op door onvoorziene problemen. Afwijkend componentgedrag, onvolkomenheden in software en installatiefouten zijn op moeilijk toegankelijke locaties (offshore) lastig op te lossen en te verhelpen. Daarnaast zijn weersomstandigheden vaak tegengesteld aan de gewenste testomstandigheden en kunnen tests riskant zijn voor zowel turbine als mens.
+
+Door gebruik te maken van de projectresultaten, hetgeen met name intensiever testen vooraf impliceert, kan de inbedrijfstelling worden versneld.
+Kostprijs duurzame energie
+
+Verwachte effect op de toepassing van windenergie
+Het gebruik van real-time processimulatie bij het ontwerpen en modificeren van grote windturbines draagt op twee manieren bij in het verlagen van de kostprijs van windenergie: rendementsverhoging van de windturbine door meer productie-uren; kostprijsreductie door verlaging van turbinebelastingen.
+
+Rendementsverhoging wordt bereikt doordat een kwalitatief verbeterd besturingssysteem met inbegrip van optimalisaties (op basis van inzichten verkregen met processimulaties), zich consistenter gedraagt (minder onterechte uitbedrijfnames) en een hogere efficiëntie tot gevolg heeft (meer productie-uren).
+
+Kostprijsverlaging is eveneens een gevolg van kwalitatief verbeterde besturingssystemen door processimulaties. Het resulteert in minder (niet voorzien) onderhoud (bijvoorbeeld tandwielkast, lagers) vanwege lagere belastingen van windturbinesystemen en -componenten (minder overschrijdingen ontwerpgebied, minder vaak hoogbelastende 'emergency stops').
+
+Indirecte energieverdienste
+Voorafgaand aan het project is de bijdrage ten aanzien van vermeden primaire energie en emissies bepaald volgens een binnen ECN Windenergie geharmoniseerde methodiek.
+
+Real-time processimulatie draagt vanwege haar integrale rol binnen een windturbine op de meerdere wijzen bij aan reductie van primaire energie en emissies: wegnemen knelpunt (zie 5.2); rendementsverhoging (zie 5.3.1); kostenverlaging (zie 5.3.1).
+
+De verwachte consequenties, als het inbedrijfstellingsknelpunt niet wordt weggenomen, worden met name offshore verwacht omdat juist hiervoor de prototypes in ontwikkeling zijn. De vermeden primaire energie was eerder berekend op basis van voorkomen implementatievertraging, ter grootte 10%, van offshore windenergie voor de Nederlandse overheidsdoelstelling. De hieraan te grondslag liggende schattingen worden nog steeds als realistisch gezien: bij 40% van de te plaatsen windturbines die bijdragen aan de overheidsdoelstelling wordt implementatievertraging voorkomen door gebruik van de projectresultaten. De industriële belangstelling van en de contacten met fabrikanten die een groot marktaandeel hebben nemen toe; door gebruik te maken van het simulatiegereedschap wordt verwacht dat de inbedrijfstellingsperiode met 25% wordt gereduceerd (9 maanden in plaats van 12 maanden).
+
+Daarbij blijft het conservatief om slechts de bouw van één prototype te veronderstellen. Door hiermee rekening te houden zou de energieverdienste van processimulatie groter worden.
+
+Rendementsverbetering door toepassing van processimulatie wordt onshore (modificaties aan bestaande windturbines) en met name offshore (nieuwe generaties windturbines) verwacht. De vermeden primaire energie wordt berekend op basis van verhoging van de belastingsfactor met 1% onshore en 2% offshore. Door de trend naar een sterk actief geregeld windturbineconcept zijn deze aannames nog steeds realistisch.
+
+Kostprijsverlaging door toepassing van processimulatie wordt met name offshore verwacht. De vermeden primaire energie wordt berekend op basis van gereduceerde onderhoudskosten met 4% ten opzichte van de huidige onderhoudskosten. Eveneens door de trend naar een sterk actief geregeld windturbineconcept zijn deze aannames nog steeds realistisch.

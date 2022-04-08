@@ -1,0 +1,17 @@
+Evaluatie van de medicatie bij patiënten die minstens één jaar gediagnosticeerd zijn met hartfalen
+Inleiding: 
+Hartfalen is een aandoening met een hoge morbiditeit, mortaliteit en een steeds toenemende prevalentie. De European Society of Cardiology publiceerde in 2008 vernieuwde richtlijnen voor de behandeling van chronisch hartfalen. Uit eerder onderzoek blijkt dat patiënten over het algemeen te weinig behandeld worden volgens de richtlijnen. 
+
+Doelstelling: 
+Het doel van dit project was om de farmacotherapie van patiënten met hartfalen die nauw opgevolgd worden door hun cardioloog, te evalueren en te vergelijken met de internationale richtlijnen. 
+
+Methodologie: 
+In dit onderzoek werd gebruik gemaakt van gegevens opgenomen in de medische dossiers van patiënten die minstens 1 jaar gediagnosticeerd waren met hartfalen, die een LVEF van 40% of minder hadden en die in 2009 op consultatie geweest waren op de afdeling cardiologie van UZLeuven. 
+
+Resultaten: 
+122 patiënten werden geïncludeerd. De meest voorkomende comorbiditeit was nierfalen (36.9%); 38.5% had geen enkele comorbiditeit. 
+77,9% van de patiënten werd behandeld met ACE-inhibitoren, waarvan 64,2% optimaal behandeld werd. 15,6% van de patiënten werd behandeld met een angiotensine-II-receptorantagonist, 47,4% daarvan optimaal. Deze patiënten vertoonden allen een intolerantie voor ACE-inhibitoren. 94,3% van de patiënten werd behandeld met een betablokker, 31,3% kreeg een optimale dosis. 44,3% van de patiënten werd behandeld met de aldosterone-antagonist spironolactone. 
+Enkel de aanwezigheid van diabetes mellitus vertoonde een significant negatief verband met het optitreren van betablokkers. Andere factoren zoals COPD, leeftijd en geslacht konden niet in verband gebracht worden met het al dan niet optimaliseren van de therapie. 
+
+Conclusie: 
+Een groot deel van de patiënten wordt niet volledig conform de richtlijnen behandeld. Er werd in deze studie maar één significante oorzaak gevonden voor het niet optitreren van bètablokkers, namelijk de aanwezigheid van diabetes mellitus. De studiepopulatie is niet representatief voor de Belgische populatie omwille van de strikte opvolging in UZLeuven. Een gelijkaardige studie binnen een huisartsenpopulatie zou allicht een ander beeld geven.

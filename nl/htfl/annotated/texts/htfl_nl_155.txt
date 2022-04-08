@@ -1,0 +1,12 @@
+De validiteit van de gemodificeerde Shuttle Wandel Test bij patiënten met chronisch hartfalen
+Inleiding
+Het maximale zuurstofopnamevermogen (VO2-piek) is een gangbare methode om de functionele capaciteit bij een patiënt met chronisch hartfalen (CHF) vast te stellen en daarmee het succes van een interventie te evalueren.
+Aan laboratoriumtests voor het bepalen van de VO2-piek kleven echter enkele praktische bezwaren. De Shuttle Wandel Test (SWT) is als (veld)test ontwikkeld om op een eenvoudige en betrouwbare manier de functionele capaciteit van patiënten te bepalen. Bij patiënten met CHF is de zuurstofopnamekinetiek vertraagd. Om die reden is de SWT gemodificeerd (mSWT).
+Doel
+Doel van dit onderzoek was het bepalen van de constructvaliditeit van de mSWT bij patiënten met CHF.
+Materiaal en methoden
+Er werd een 'single group measurement design' gebruikt. Bij 44 patiënten (33 mannen) met CHF (NYHA klasse 2-3) werden de mSWT en de ergometrietest afgenomen, op 2 verschillende dagen. De gemiddelde leeftijd van de patiënten bedroeg 61,0 jaar (SD: 9,2) met een gemiddelde ejectiefractie van 27,6% (SD: 8,2). Tussen de mSWT en ergometrietest werd de Pearson's product moment correlatiecoëfficiënt (r) berekend.
+Resultaten
+Een goede samenhang werd gevonden (met correctie voor leeftijd, ejectiefractie en 'body mass index') tussen: 1) de gelopen afstand (in meters) op de mSWT en de VO2-piek (ml/kg-1/min-1) gemeten in het laboratorium (r = 0,76; p < 0,001 [95%-B I : 0,60-0,87]) en 2) de arbeid (K J ) geleverd op de mS W T en het vermogen (maximale wattage) geleverd op de fietsergometer (r = 0,85; p < 0,001 [95%-BI: 0,74-0,92]).
+Conclusie
+De symptoom-gelimiteerde mSWT is een valide veldtest voor het meten van de functionele capaciteit bij patiënten met CHF. De samenhang tussen de resultaten van de fietsergometertest en de mSWT is het grootst wanneer respectievelijk het vermogen en de geleverde arbeid als uitkomstmaat wordt gebruikt.

@@ -1,0 +1,9 @@
+Apport de l'échocardiographie Doppler dans le diagnostic de l'insuffisance cardiaque aiguë à fonction systolique conservée du sujet âgé
+
+Objectif : Évaluer la valeur diagnostique de l'étude Doppler du flux trans-mitral et des nouveaux indices faisant appel à la mesure de la vitesse de propagation du flux de remplissage du ventricule gauche en TM couleur (Vp) dans l'insuffisance cardiaque aiguë à fonction systolique conservée du sujet âgé.
+
+Méthodes : La protidémie (P, g/l) et les indices Doppler E/A, E/Vp et 1000/(2 × IRT + Vp) (E et A : pics de vélocité du flux mitral ; IRT : temps de relaxation isovolumique) ont été mesurés lors de l'instauration du traitement chez 94 patients (78 ± 13 ans) avec fraction d'éjection supérieure à 50 %, 56 en œdème pulmonaire et 38 avec affections respiratoires aiguës.
+
+Résultats : La faisabilité de E/A, E/Vp et 1000/(2 × IRT + Vp) était respectivement de 73, 90 et 89 %. Les sensibilité, spécificité et précision de E/A ≥ 1, E/Vp ≥ 2 et 1000/(2 × IRT + Vp) ≥ 6 étaient respectivement de 94–56–72 %, 84–86–85 % et 92–86–89 % dans le diagnostic d'œdème pulmonaire chez les patients avec oncocitémie normale définie par P ≥ 60 g/l, et de 41–50–43 %, 37–86–50 % et 22–100–42 % chez les patients avec hypo-oncocitémie (p < 60 g/l).
+
+Conclusions : La contribution de E/A reste limitée dans le diagnostic de l'insuffisance cardiaque aiguë à fonction systolique conservée du sujet âgé par la fréquence de la fibrillation auriculaire et la confusion entre profils normal et normalisé. Les nouveaux indices combinés sont valides chez ces patients mais doivent être interprétés en fonction de l'état oncotique plasmatique estimé par la protidémie.

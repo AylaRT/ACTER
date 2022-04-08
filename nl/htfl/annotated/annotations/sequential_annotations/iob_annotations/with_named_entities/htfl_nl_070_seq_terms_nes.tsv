@@ -1,0 +1,25 @@
+Onderzoek	O
+naar	O
+hulpverlening	B
+hartfalenpatiënt	B
+
+Patiënten	B
+met	O
+hartfalen	B
+die	O
+hartfalenpoli's	B
+bezoeken	O
+bemand	O
+door	O
+onder	O
+andere	O
+hartfalenverpleegkundigen	B
+,	O
+worden	O
+niet	O
+minder	O
+vaak	O
+opnieuw	O
+opgenomen	B
+.	O
+

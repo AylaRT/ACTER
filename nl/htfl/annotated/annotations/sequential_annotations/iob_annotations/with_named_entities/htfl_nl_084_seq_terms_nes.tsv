@@ -1,0 +1,41 @@
+Statine	B
+niet	O
+effectief	O
+bij	O
+systolisch	B
+hartfalen	I
+
+Niet-gerandomiseerd	B
+onderzoek	O
+suggereerde	O
+dat	O
+statines	B
+een	O
+positief	O
+effect	O
+hebben	O
+op	O
+de	O
+hartfunctie	B
+bij	O
+patiënten	B
+met	O
+hartfalen	B
+.	O
+
+Bij	O
+de	O
+grote	O
+,	O
+gerandomiseerde	B
+onderzoeken	O
+werden	O
+hartfalenpatiënten	B
+echter	O
+juist	O
+uitgesloten	O
+vanwege	O
+theoretische	O
+risico's	O
+.	O
+

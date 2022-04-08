@@ -1,0 +1,558 @@
+EUROPEAN COMMISSION
+EUROPEAN ANTI-FRAUD OFFICE (OLAF)
+
+Directorate D Policy
+Unit D.2 Fraud Prevention
+
+Identifying conflicts of interests in public procurement procedures for structural actions
+
+
+A practical guide for managers
+
+elaborated by a group of Member States' experts coordinated by OLAF's unit D2- Fraud Prevention
+
+DISCLAIMER:
+
+This is a working document drafted by a group of Member States' experts with support from OLAF. It is intended to facilitate the implementation of operational programmes and to encourage good practice. It is not legally binding on the Member States but provides general guidelines with recommendations and reflects best practice.
+
+These general guidelines are without prejudice to national legislation and should be read and may be adapted taking into account the national legal framework.
+
+This guidance is without prejudice to the interpretation of the Court of Justice and the General Court or decisions of the Commission.
+
+Executive summary
+
+
+This guide was drafted under a new collaborative working procedure involving experts from the Member States, OLAF and Commission DGs in charge of structural actions. The objective is to improve the quality of output from the ad hoc COCOLAF meetings by drafting practical documentation that the Member States and the Commission can use as benchmarks, administrative tools, guidance and support to strengthen their anti-fraud measures/strategies.
+
+Another motive for the guide was that the legislative proposals for cohesion policy 2014-2020 require Member States to develop anti-fraud measures in relation to the management of EU structural actions.
+
+Conflicts of interests in public procurement were identified as one subject of interest to Member States. A workshop involving experts from 10 different Member States pointed to the need for a guide to identifying conflicts of interests and mitigating the risks of such situations. This guide is the result of that common work.
+
+It provides recommendations for managers and officials in the managing and contracting authorities on identifying and handling conflicts of interests with regard to public procurement financed by the EU budget under structural actions and cohesion policy programmes. It covers all types of public procurement, irrespective of the amount involved.
+
+It is not binding on Member States but aims to provide a common approach to handling conflicts of interests for the managing and contracting authorities, without prejudice to national legislation.
+
+This guide is intended as a useful and practical tool for the public officers, focusing on the main points raised at the workshop: Definition of a conflict of interests. Need of declarations related to conflict of interests: it is recommended to require each person participating in a procurement procedure to fill in a declaration of absence of conflict of interests. Procedures and tools for checking the declarations A list of red flags that may help to identify situations in which there is a conflict of interests.
+
+The guide gives four examples of real cases intended to help explain what a 'conflict of interest situation' is and to raise awareness among staff.
+
+Introduction
+
+
+This guide was drafted under a new collaborative working procedure involving experts from the Member States, OLAF and Commission DGs in charge of structural actions. The objective is to exchange good practice and draft practical documentation that Member States and the Commission can use for administrative tools, guidance and support to boost anti-fraud measures/strategies.
+
+Conflicts of interests have become a recurrent concern, especially in public procurement for structural actions, because they can cause serious harm to the public budget and to the reputation of the EU and the country concerned.
+
+In cooperation with the Member States, OLAF held a workshop bringing together 10 experts from 10 different Member States with practical experience in managing such situations. Based on their knowledge, they drew up a list of the main points on which there was a need to exchange good practice.
+
+DGs REGIO, EMPL, MARE and HOME were also associated in the process. OLAF's Fraud Prevention Unit (OLAF/D2) coordinated the work.
+
+The outcome was this practical guide to managing conflicts of interests, for managers dealing with public procurement for structural actions and cohesion policy programmes funded by the EU.
+
+The guide is aimed at managers and staff in (a) the managing authorities and (b) beneficiary authorities acting as contracting authorities for procurement procedures. It covers all operations co-financed by the Structural Funds or the Cohesion Fund and all types of public procurement, irrespective of the amount involved. However, the level of requirements and scope of verification must take into account the need to find a balance between: necessary checks; value of the procurement; procurement being subject or not to public procurement regulations, and simplification and reduction of administrative burden for beneficiaries. This practical guide is the result of the fruitful exchange between the experts. It is available to all Member States and relevant stakeholders e.g. through the SFC2007 anti- fraud platform and to Commission departments via OLAF's website.
+
+The guide ties in with legislative proposals on cohesion policy 2014-2020, which require the Member States to put in place effective and proportionate anti-fraud measures taking into account any risks identified.
+
+
+Definitions
+
+
+The notion of conflict of interests is not harmonized across the European Union. Some Member States (like Romania) give definitions in their criminal law while others (e.g. France and the United Kingdom) do not. But this does not mean that they have no criminal incrimination to tackle this issue. For example, the United Kingdom has legislation to deal with this, but it takes the form of an offence called "misuse of public office", which can cover more than just conflict of interests and could be enforced if the conflict resulted in corrupt behaviour.
+
+The Organisation for Economic Cooperation and Development (OECD) proposed a definition: 'A "conflict of interest" involves a conflict between the public duty and private interests of a public official, in which the public official has private-capacity interests which could improperly influence the performance of their official duties and responsibilities.'
+
+The European Union law defines the concept for the purposes of implementing the general budget of the EU.
+
+The definition applies to all types of public procurement financed with EU funds for structural actions and cohesion policy, irrespective of the amount involved.
+
+Article 57(2) of the Financial Regulation applicable to the general budget of the European Union (Regulation No 966/2012) gives a definition of conflict of interests for the purposes of spending and managing the EU's budget. It states: '1. Financial actors and other persons involved in budget implementation and management, including acts preparatory thereto, audit or control shall not take any action which may bring their own interests into conflict with those of the Union.
+
+(…)
+
+2. For the purposes of paragraph 1, a conflict of interests exists where the impartial and objective exercise of the functions of a financial actor or other person, as referred to in paragraph 1, is compromised for reasons involving family, emotional life, political or national affinity, economic interest or any other shared interest with a recipient'.
+
+Conflicts of interests and corruption are not the same thing. Corruption usually requires an agreement between at least two partners and a bribe/payment/advantage of some kind. A conflict of interests arises where a person may have the opportunity to put private interests before his or her professional duties.
+
+OECD has also identified three types of conflict of interests : An actual conflict of interests involves a conflict between the public duty and private interests of a public official, in which the public official has private-capacity interests which could improperly influence the performance of his/her official duties and responsibilities. An apparent conflict of interests can be said to exist where it appears that a public official's private interests could improperly influence the performance of his/her duties but this is not in fact the case. A potential conflict of interests arises where a public official has private interests which are such that a conflict of interest would arise if the official were to become involved in relevant (i.e. conflicting) official responsibilities in the future.
+
+A conflict of interests in public procurement procedure which is not properly addressed has an impact on the regularity of the procedures. It leads to the breach of the principles of transparency, equal treatment and/or non-discrimination that a public contract has to respect as laid down in article 102 of the Financial Regulation.
+
+Examples
+
+The spouse of a contracting authority's desk officer in charge of monitoring a tendering procedure works for one of the bidders.
+
+A person owns shares in a company. This company takes part in a tendering procedure in which this person is appointed as a member of the evaluation committee.
+
+The head of a contracting authority has spent a week's holiday with the CEO of a firm which bids in a tendering procedure launched by the contracting authority.
+
+An officer in a contracting authority and the CEO of one of the tendering firms have responsibilities in the same political party.
+
+The managing authorities should supervise the beneficiaries' running of procurement procedures to ensure that it is smooth and fair. (Note: all references to managing authority in the document shall be understood as a reference to managing authority or any intermediate body to whom managing authority has delegated its tasks). Beneficiaries must ensure transparency and fair treatment for all tenderers. The managing authorities should react quickly and carry out relevant checks if they discover anomalies. This does not imply that there is a conflict of interests but only that the situation needs to be clarified and appropriate measures taken.
+
+2- Declarations relating to conflicts of interests
+
+
+2.1 Basic elements of a comprehensive framework for managing conflicts of interests in public procurement for structural funds
+
+
+Conflict of interests' situations can lead economic operators to lose confidence in public procurement for structural actions and discourage honest operators from bidding.
+
+Therefore managing authorities are recommended to put in place a policy related to conflicts of interests to mitigate the risks and to tackle possible cases.
+
+Such a policy should address prevention, detection, management and sanctions of conflict of interests. It should be established within each body functioning as a part of the management and control system of an Operational Programme and should be recommended to beneficiaries conducting procurement procedures, regardless of their legal form.
+
+The policy shall take into account the legal provisions of the Member State concerned and also guidelines and best practices referred to in this document.
+
+The Managing Authorities are recommended to ensure that a conflict of interests policy is established in Operational Programmes under their responsibility, in particular taking into account the obligations stipulated in Article 114 (4) (c) of [new General Regulation]
+
+A policy document regarding conflict of interests in procurement procedures should address a number of issues. It should cover the whole procurement process and the management of the subsequent contracts; meet the requirements of the national procurement regulations and the EU Public Procurement directives; include a specific chapter dedicated to declarations of absence of conflict of interests; include reference to gifts and hospitality, which can also be deemed to be inducements. This can be during, before or after any procurement process and during the management of any subsequent contract or procurement; ensure that the body maintains records of any conflicts which have arisen, to evidence how they were dealt with and with what appropriate action. The policy of maintaining records will allow future conflicts to have a reference point; include reference to the sanctions resulting from undeclared conflicts of interests. Sanctions must be appropriate and a deterrent to breaching the rules; include an Annex giving some common examples of such conflicts; address the situations when staff leaves a public sector organisation, in particular a post in Government or Local Government (so-called "revolving door" situations): it is an obligation not to reveal confidential information staff have learned as a result of their job. They must not benefit from any subsequent conflicts of interests which may occur after they leave employment.
+
+The policy document related to conflict of interests must be one of the basic documents which staff receives, either at their induction when they join the organisation, when they take up a post involving procurement of services, goods or works in that organisation, or a post involving management of such contracts or framework contracts.
+
+Example in the United Kingdom
+
+There is a general code of conduct for Civil Servants, echoed in the Devolved Administrations with similar codes for their officials.
+
+This code requires a standard of behaviour which includes the sort of conduct expected by officials dealing with procurement. It applies to all aspects of a civil servants work – much of which always involves dealing with the public, money or areas where it is essential to treat everyone fairly.
+
+All Government Departments advise all their employees of this code, although no one actually signs an undertaking to abide with the terms of the code. However, it is considered to be part of the contractual relationship between employer and employee.
+
+The main ethical requirements of honesty, integrity and impartiality easily apply to procurement, but it is understandable that specific declarations or undertakings are required of individuals directly involved in procurement activities.
+
+Policy regarding declarations of absence of conflict of interests
+
+Managing authorities should require contracting authorities to put in place a procedure for declarations of absence of conflict of interests, as part of their public procurement procedures. They should give contracting authorities guidance on the declaration procedure.
+
+This guidance should clearly cover certain points.
+
+Who is responsible for filing and signing the declaration?
+
+Any person involved in one or other stage of public procurement procedures (preparation, elaboration, implementation or closure) should sign a declaration and give it to the person in charge of the procurement procedure.
+
+The obligation should apply at least to the following people: the head of the contracting authority and anyone to whom he/she delegates his/her duties, members of the management board, staff contributing to preparing/drafting the tender documents, members of the evaluation committee, experts performing any task connected with preparing the tender documents and/or evaluating the bids.
+
+What circumstances may be considered an actual, potential or apparent conflict of interests?
+
+The description of the circumstances should be based on the definition given in Article 57 of the Financial Regulation, but also take into account the national legislation in force. If there have been previous cases or specific difficulties linked to cultural national aspects further clarification should be provided supported by examples.
+
+At what stage of the procurement procedure should the declaration be filed?
+
+Filing a declaration of absence of conflict of interests should be considered at each stage of the procurement procedure (preparation, evaluation, monitoring and closure).
+
+The manager responsible for procurement should be responsible for asking each person who becomes involved in a procurement procedure to file a declaration of absence of conflict of interests, and for collecting the declarations.
+
+The manager should ensure that the person is well aware of the need to declare any change in the situation without delay. The declaration may be drafted from scratch or using a template at any time when it becomes relevant.
+
+How do you check a declaration of absence of conflict of interests?
+
+The policy should set out rules for checking staff declarations of absence of conflict of interests (e.g. employment history, family status) and external experts' declarations of absence of conflict of interests.
+
+It should include some guidelines on the person responsible for carrying out the checks, the method to be used and the timing.
+
+Contracting authorities should be given guidelines on circumstances where conflicts of interests are not clear-cut (e.g. an employment history in partner companies to the tenderer).
+
+How do you monitor the declaration of absence of conflict of interests?
+
+The institution should draft procedures for storing and monitoring declarations of absence of conflict of interests, such as a special register or a management information system tool for each public procurement procedure. A person not involved directly with procurement should be designated to monitor the declarations procedure and ensure up to date records are maintained.
+
+What sanctions apply if someone fails to disclose any situation of conflict of interests?
+
+The policy should refer to the sanctions in the relevant national legislation — administrative and/or criminal in the case of non-disclosure of a conflict of interests or of a false declaration. A clear distinction should be made between cases involving staff and those involving external experts or partners.
+
+Staff behaviour should be ruled by a code of ethics. The code should include a definition of conflict of interests and the relevant sanctions. Disciplinary measures should be provided for. They may range from a written note to warnings or fines, and even demotion or dismissal. In each case, they must comply with the national legislation.
+
+Internal guidelines should cover cases of misconduct by external experts and set out the action to be taken and the sanctions to be applied. Contracts signed with such experts should include clauses providing for sanctions for misconduct. The sanctions may range from early termination of the contract to exclusion from participating in procurement procedures for a number of years (e.g. five to ten).
+
+What action must be taken if a risk of conflict of interests is identified or a conflict of interests is declared/detected before or during the procedure?
+
+Subject to the relevant national law, relevant measures to safeguard the public procurement procedure should be taken. The following steps should be considered, depending on the existence or not of a declaration of absence of conflict of interests, the nature of the conflict of interests and the stage of the procedure: where appropriate discussing the elements of facts with the person concerned to clarify the situation; excluding the person concerned from the public procurement procedure, whether he/she is a staff member or an external expert, change in division of duties and responsibilities among the staff; cancelling the procurement procedure.
+
+Excluding an employee/expert from proceedings should be considered not only if there is an actual conflict of interests but in any case that gives grounds for doubts about his/her impartiality.
+
+In very exceptional cases, it might not be possible to exclude an official or an expert because of a lack of resources or specialised experts in certain fields. In that case, the contracting authority should ensure that its decision is fully transparent, set precise limits to the employee/expert's input and ensure that the final decision is based on transparent and fair evidence.
+
+The policy should also require staff to notify the relevant authorities if a conflict of interests occurs.
+
+All action taken in response to conflict of interests situations in a given public procurement procedure should be documented.
+
+Example in the Slovak Republic
+
+The declaration by members of the selection commission in the procurement process — regulated by the Public Procurement Act (§ 40).
+
+A member of the commission cannot be a person who is or in the year prior to his/her appointment as a member of the commission is or has been: a tenderer as a natural person; a statutory body of a tenderer that is a legal entity, or a member of the statutory body, or a member of the supervisory body or other body of that tenderer; a partner of the legal entity or a member thereof who is a tenderer or a silent partner of the tenderer; an employee of the tenderer, or an employee of an entrepreneurs' interest grouping of which the tenderer is a member; an employee of the Office for Public Procurement, except for contracts awarded exclusively for the needs of that Office.
+
+A commission member must not be the person close to persons referred to in letters a) to d), and the person against whom may have been doubts about his/her impartiality in relation to the tenderer or candidate, especially if the person was involved in the preparation of documents in a given procurement on the part of the candidate or tenderer, or which may be favored or harmed in relation with the result of the award.
+
+Having taken note of the list of tenderers, the member of the commission must submit a declaration on his/her honour to the contracting authority or contracting entity in which he/she confirms that no circumstances, pursuant to this Act, preventing him/her from being a member of the commission have occurred, or shall inform the contracting authority or contracting entity that circumstances, pursuant to this Act, preventing him from being a member of the commission have occurred.
+
+A member of the commission must notify the contracting authority or contracting entity, without unnecessary delay, of the fact that circumstances preventing him/her from being a member of the commission have occurred, should such circumstances occur during the public procurement procedure.
+
+Declarations of absence of conflicts of interests
+
+It is highly recommended that people be asked to sign a declaration of absence of conflict of interests as soon as they take part in the procedure. This is an obligation to be met without delay to safeguard the procedure and the person him/herself. People are — theoretically — more inclined to declare a conflict of interests if they are aware of the obligations entailed by signing a declaration of absence of conflict of interests.
+
+A declaration of conflict of interests would, by nature, be voluntary, which might be very uncertain. It would be more difficult to demonstrate intentionality at a later stage in the event of fraudulent conduct.
+
+Therefore the following paragraphs concern only the declaration of absence of conflict of interests.
+
+The declaration of absence of conflict of interests should contain the definition of a conflict of interests set out in the Financial Regulation and all the requirements of any code of conduct or ethics applicable to the process and related to conflict of interests.
+
+The declaration should give: a clear reference to the procurement procedure concerned; the signatory's full name, date of birth, position in the organisation, and function in the public procurement procedure; the date of signature.
+
+The declaration should enable the signatory to declare officially: whether to his/her knowledge he/she is in an apparent/potential/actual conflict of interests linked to the procurement procedure referred to; whether there are circumstances that might place him/her in an apparent/potential/actual conflict of interests in the near future; and that he/she commits to declaring immediately any potential conflict of interests in the event of any circumstance that might lead to such a conclusion.
+
+The declaration should include a reference to the disciplinary/administrative/criminal sanctions for making a false declaration.
+
+It may also include an undertaking of confidentiality, if the person is likely to be dealing with commercially confidential data from a tenderer/bidder in the course of the procurement procedure.
+
+An explanatory note should be attached to the declaration to give signatories clear and firm guidance on: the organisation's policy, including the purpose of the declaration; the legal requirements of any regulations, including clarifications of certain issues deriving from the definition: family, emotional life etc. (for example, the relationships constituting family membership may vary between Member States and this needs to be set out within the cultural context (2nd or 3rd degree for example)); the code of conduct governing management of conflicts of interests in the organisation; the consequences of non-disclosure of a conflict of interests; the procedure in the event of a change in the situation and especially when, how and to whom to declare any conflict of interests that arises.
+
+The note should give some examples of conflict of interests' situations.
+
+A model declaration is set out in Annex 1. It is based on a model used by the European Commission but might need to be amended to meet national requirements.
+
+Explaining the role of the declaration of absence of conflict of interests to staff
+
+It should be made clear to staff that the declaration of absence of conflict of interests is a tool to prevent conflicts of interests, meant to: raise awareness of the risk of conflicts of interests among employees; point to areas of risks to be considered in management supervision; protect employees from being accused of non-disclosure of a conflict of interests at a later stage; protect the procurement procedure and co-financed project from irregularities and therefore safeguard the financial interests of the EU and the Member States.
+
+It is of paramount importance that all staff of the managing authorities and beneficiaries running procurement procedures are made aware of possible and potential conflict of interests situations, their implications, how to act in such cases and what the potential sanctions are.
+
+The occurrence of a conflict of interests is not necessarily illegal in itself. It is, however, irregular to take part in a procedure while being aware of a conflict of interests. It is therefore necessary to disclose any potential conflict of interests before taking any part in the procurement procedure and to take appropriate preventive measures.
+
+General staff training material or dedicated online training modules should include a specific chapter on the issue. It should cover conflicts of interests in general, as conflicts of interests can occur in other fields such as recruitment procedures. It should be an opportunity to explain the role of the declaration of absence of conflict of interests to staff.
+
+Continuous training would maintain and increase awareness and thus keep staff aware all the time of possible new situations of conflict of interest. Nonetheless, management should set up specific and effective mechanisms to monitor and to detect any breaches of conflict of interests rules and to apply sanctions accordingly. Management needs to establish a clear chain of responsibility together with effective control mechanisms.
+
+Following up and updating the declaration of absence of conflict of interests
+
+Conflicts of interests change over time. It could be the case that at the beginning of the procurement process, one of the procurement officials did not have any conflict of interests, either actual or potential or apparent. However, during the process, circumstances change and for instance, he/she or a family member may have been hired by one of the potential bidders. Because the situation changes, it is crucial that adequate declarations of absence of conflict of interests are followed up and updated.
+
+If an employee obtains new information during the procedure (e.g. about economic operators proposed as subcontractors in a bid) or there is a change in circumstances (e.g. entry into a legal or de facto relationship that did not exist at the start of the procedure), he/she must declare the apparent/potential/actual conflict of interests to his/her superior immediately. The model may or may not be used. The employee must be excluded from further proceedings and — if necessary and possible — any relevant stages of the procedure that he/she participated in need to be repeated.
+
+The organisation would be well advised to keep a register of declarations of conflict of interests for the relevant procurement procedure.
+
+3- Checking the declaration of absence of conflict of interests against other sources of information
+
+
+The declaration of absence of conflict of interests needs to be checked. Making the declaration may give the contracting authorities a false impression of assurance and the person who filed it a false sense of release. It is important that people know that their declarations may be checked, as this should have a disincentive effect.
+
+The checks performed will depend on the managing authority and/or contracting authority's capacity and resources. They should be proportionate, achieving a balance between the need for checking, and the need to keep matters simple and reduce the administrative burden on beneficiaries taking into account the value of the procurement being or not subject to public procurement rules.
+
+When?
+
+Conflicts of interests can influence any phase of the decision-making process in procurement procedures.
+
+The contracting authority should consider performing two types of checks: for prevention: to detect apparent/potential/actual conflicts of interests; for sanction/remedy: to detect conflicts of interests, to sanction the person concerned and to remedy any wrong caused by the conflict of interests.
+
+For these reasons, they need to set up internal mechanisms that allow a permanent and periodical assessment of the situations in which staff are involved in the decision- making process. They should have built-in mechanisms, such as: periodical completion of questionnaires to assess whether staff are alert to and can identify situations of apparent/potential/actual conflict of interests, in order to raise awareness and ensure the system is 'clean'; checklists for officials involved in decision-making to fill in before they make a decision; these lists allow them to better assess any situation of apparent/potential/actual conflict of interests.
+
+These should be complemented by 'ex post' mechanisms to check whether there have actually been any conflicts of interests.
+
+Ex post mechanisms should focus on the declaration of absence of conflict of interests, which should be examined in the light of other information: outside information (i.e. information about a potential conflict of interests provided by outsiders who have no connection with the situation that generated the conflict of interests); checks performed on certain situations showing a high risk of conflict of interests, based on internal risk analysis or red flags (see Section 4); random checks.
+
+How?
+
+When identifying people who might have a conflict of interests, the following categories should be considered: staff members of the contracting authority, staff of procurement service providers and of other service providers who are directly involved in conducting the procurement procedure; the chair of the contracting authority and members of the authority's decision- making bodies who, without necessarily being directly involved in the procurement procedure, may nevertheless influence the outcome.
+
+Types of ex post checks for conflict of interest situations may consist in: checks by the management authority/payment agency: standard/regular checks performed when examining the beneficiary's request for payment (which also comprises evidence of the public procurement procedure), by means of checklists (which should list separately all the conflict of interests situations referred to in EU and national law); specific checks triggered by outside information on a potential conflict of interests or red flags; specific checks triggered by specific information or elements found in the course of other incidental/indirect checks; planned checks, included in the annual control programme based on risk analysis; random checks.
+
+Risk-scoring using ARACHNE
+
+Managing authorities could consider using ARACHNE, a specific data mining tool offered by the Commission to identify projects which might be at risk of conflict of interests. ARACHNE is a risk-scoring tool which can make project selection and management checks more efficient, and further strengthen fraud identification, prevention and detection.
+
+checks performed by the beneficiary's internal control staff: specific checks following outside information; specific checks following an official report as a result of other incidental/indirect checks performed; planned checks included in the annual control programme based on risk analysis, and random checks.
+
+In addition to checks based on checklists, other checks should be based on the official's declaration of absence of conflict of interests, taking into consideration data and information from: the organisation itself: correlating personal data, other organisations: correlating information obtained from national database on the identity of persons, databases on economic operators (like company registers), the tax administration's database, etc…
+
+Without prejudice to national legislation, interinstitutional cooperation protocols may be concluded with other institutions to get access to more information.
+
+open data sources (including background checks using the internet) which can offer information about the official's connections and personal circumstances that could give rise to or point to a conflict of interests.
+
+Examples of sources of information
+
+the Commercial Register and the Trade Register; Internet database providing information on the relationships between individual companies and their statutory representatives and managing directors;
+
+an in-house database maintained to collect information about recipients of non- repayable financial contributions, and contractors (ITMS or a one-off database set up for specific purposes);
+
+published media information.
+
+Any manager facing a potential conflict of interests situation involving a staff member should favour a 'soft' approach where appropriate and discuss the issue openly with the person concerned. The aim of this discussion is to find out if there is a risk of conflict of interests that would jeopardise the procedure and/or the official's situation. If so, the manager must decide on the most appropriate measures to safeguard both the interests of the organisation and those of the official.
+
+If a manager has gathered sufficient proof of deliberate misconduct by the official he/she might report the case directly to the relevant authorities and take appropriate action to safeguard the public procurement procedure (see section 3.4 for further steps).
+
+Use of information from whistleblowers and the media
+
+Whistleblowers and the media are sensitive to the existence of personal connections between various players involved in public procurement procedures and can provide consistent information about situations that might affect the decision-making process of the contracting authorities.
+
+Information obtained from whistleblowers and the media is not evidence per se. If the authorities (particularly managing authorities, or management/control bodies in contracting authorities) receive this kind of information they should immediately use the means at their disposal to check whether the information can be confirmed and could have an impact on the procedure. They should use all data sources at their disposal to check whether the information is correct.
+Depending on the seriousness of the situation, they might immediately inform the judicial or relevant authorities.
+
+From an investigation point of view, whistleblowers and media information should be considered sources of notification for opening internal/external checks.
+
+In order to make it easier for whistleblowers and the media to inform the authorities about a potential conflict of interests, the managing authorities or other competent authorities could introduce or use free phone or internet-based fraud notification systems or other channels.
+
+What to do if a conflict of interests is seriously suspected
+
+The authority may have the power to carry out administrative checks or investigations. If it does not, it must send the information to the appropriate authorities without delay.
+
+If checks fail to substantiate the information, the authority can close the case, but may use the information to correlate it with other data and perform risk analysis aimed at identifying sensitive areas.
+
+If the results of the checks confirm the initial information and the conflict of interests has administrative kind, in line with national law the authority may: take disciplinary or administrative action/sanction against the official concerned, cancel the contract/act affected by the conflict of interests and repeat the part of the public procurement procedure in question, correlate its findings with other data and use them to perform risk analysis make public what has happened, in order to ensure that decisions are transparent and to prevent and deter any potential similar occurrences.
+
+If the conflict of interests is of criminal nature, the authority should, in addition to the measures set out above, in line with national law: inform the prosecutor in order to launch criminal proceedings; monitor the administrative aspects of the case; correlate its findings with other data and use it to perform an internal risk; analysis.
+
+4- Red flags
+
+
+What are red flags and how are they used?
+
+A red flag is an indicator of possible fraud or corruption. It is an element or a set of elements that are unusual by nature or vary from the normal activity. It is a signal that something is out of the ordinary and needs to be examined further.
+
+A variety of red flags may appear in public procurements. They can show anomalies in bidding documents, e.g. bids from supposedly different bidders that are faxed from the same telephone number; financial records, e.g. invoices paid in amounts that exceed the contract value; the behaviour of project staff, e.g. putting pressure on the evaluation committee to select a given contractor.
+
+The presence of red flags should make staff and managers more vigilant: they should take the necessary action to confirm or deny that there is a risk of conflict of interests. It is extremely important to react to them. It is the responsibility, first, of the contracting authorities, and, secondly, of the managing authorities, to remove any doubts that the red flag has raised.
+
+The existence of a red flag does not mean that fraud has occurred or may occur, but that the situation needs to be checked and monitored with due diligence.
+
+Red flags in public procurement procedure
+
+This section discusses typical cases of suspected fraud concerning conflicts of interests in different phases of the procedure with examples of what happens in practice.
+
+Some of these red flags may appear commonplace; they can apply to lots of situations, not just conflicts of interests. It is important to keep in mind that the red flags are indicators aiming at carrying out first level checks to waive the doubts or confirm the likelihood of occurrence of a fraud or irregularity. The following red flags should lead to checks dedicated to waive or confirm the possibility of occurrence of a conflict of interests.
+
+Preparation and launch of the procedure
+
+The issue of conflicts of interests must be raised right from the preparation stage of the procedure. When the tender documents are being drafted, the contracting authority may need some outside studies or request opinions from outside sources. To some extent, they may base the documents for the tender procedure on reports drafted by outside experts. The contracting authority must also decide on the type of procedure and draft contract notices, contract documents, specifications and a draft contract.
+
+The contracting authority should take the necessary measures to prevent conflicts of interests right from the very first stage of preparation of the documents.
+
+Risks linked to a conflict of interests
+
+Someone who takes part in drafting the documents may directly or indirectly try to influence the tender procedure to allow, say, a relative, friend, or commercial or financial partner, to take part.
+
+Red flags
+
+The person in charge of drafting the tender documents / a senior official insists on hiring an outside firm to help draft the documents although it is not necessary.
+
+Two or more preparatory studies are requested on the same subject from external firms and someone puts pressure on staff to use one of these studies in drafting the tender documents.
+
+The person in charge of drafting the documents organises the procedure in such a way that there is no time to revise the documents carefully before the tender procedure is launched.
+
+Two or more contracts for identical items are issued over a short period of time for no apparent reason, resulting in a less competitive procurement method being used.
+
+A negotiated procedure is chosen, even though an open procedure is possible.
+
+There are unjustified selection or award criteria that favour a particular firm or bid.
+
+The rules on providing goods or services are too strict, allowing only one firm to bid.
+
+An employee of the contracting authority has relatives who work for a firm which may bid.
+
+An employee of the contracting authority worked for a firm which may bid, just before joining the contracting authority.
+
+Example: One of the tenderers takes part in the preparation procedure and gains some additional information before the procedure is launched. This denies other bidders a fair chance of winning the tender, and is a conflict of interests.
+
+Risks linked to a conflict of interests
+
+Information on the tendering procedure may be leaked.
+
+Red flags
+
+Unusual behavior of an employee insisting on getting information on the tendering procedure although he is not in charge of this procedure.
+
+An employee of the contracting authority has relatives who work for a firm which may bid.
+
+An employee of the contracting authority worked for a firm which may bid, just before joining the contracting authority.
+
+Example: A member of staff takes part in drafting or correcting the public procurement documents, then resigns and joins a company which submits a bid soon afterwards.
+
+SUGGESTIONS:
+
+Review bidding documents for red flags.
+
+Ensure that audit rights and contractual remedies are included, as appropriate.
+
+The call procedure, the evaluation of the tenders and the final decision
+
+After the deadline for the receipt of tenders, the contracting authority checks the tenders submitted for compliance and evaluates them. Where appropriate, the contracting authority asks tenderers to remedy deficiencies or supply specific information or further explanation. The contracting entity decides which final tenders are valid, based on the criteria given in the notice. The evaluation committee makes a written assessment and recommendation. The decision to award the contract is taken by the decision-maker appointed within the contracting authority.
+
+Risks linked to a conflict of interests
+
+The bids received may be tampered with to conceal a bidder's failure to meet the deadline or to provide all the documentation required.
+
+A member of the evaluation committee may try to mislead or put pressure on the other members to influence the final decision, for example by giving a wrong interpretation of the rules.
+
+Red flags
+
+The official documents and/or certificates of receipt of the documents have obviously been changed (e.g. crossing-out).
+
+The evaluation committee members do not have the necessary technical expertise to evaluate the submitted bids and are dominated by one individual.
+
+Subjective elements are overrepresented in the criteria system.
+
+Some obligatory information from the winning bidder is missing.
+
+Some information provided by the winning bidder relates to contracting authority staff (e.g. an employee's address)
+
+The winning bidder's address is incomplete, e.g. there is only a PO box address, no telephone number, and no street address (might be shell companies).
+
+The specifications are very similar to the winning bidder's product or services, especially if the specifications include a set of very specific requirements that very few bidders could meet.
+
+Few of the companies that bought the bidding documents submit bids, especially if more than half of them drop out.
+
+Unknown companies with no track record win the contract.
+
+SUGGESTIONS:
+
+Ensure that committee members are selected in accordance with the established project implementation manual.
+
+Ensure the project procurement officer is available to the evaluation committee to answer any procedural questions.
+
+Confirm that the evaluation committee has the necessary technical expertise to evaluate the bids.
+
+Check that committee members sign a declaration stating that they do not have a conflict of interests in performing their duty, such as any current or past affiliation with any of the bidders.
+
+Performance, amendment and modification of public contracts
+
+Any contract awarded under a public procurement procedure must be implemented in full accordance with the requirements laid down in the call for tender and the technical specifications and within the time frame set in the call. Parties may be authorised to amend part of the contract slightly, if they are able to prove that the amendment was not originally foreseeable and ensure reasonable sustaining and economic balance.
+
+Risks linked to a conflict of interests
+
+The contract is not drafted according to the rules and/or the technical specifications and tender documents.
+
+The contract is poorly executed. 
+The contract is poorly monitored.
+False certificates are accepted.
+
+Red flags
+
+Standard contract clauses (audit, remedies, damages, etc.) are changed.
+
+The methodology and work plan are not attached to the contract.
+
+The name and legal status of the firm is changed and the desk officer in charge does not question this.
+
+Numerous or questionable change orders for a specific contractor are made, and approved by the same project official.
+
+In international projects, there is a long, unexplained delay between the announcement of the winning bidder and the signing of a contract (this may indicate that the contractor is refusing to pay or is negotiating on a demand for a bribe).
+
+Substantial changes are made to technical specifications or to the Terms of Reference.
+
+The quantity of items to be delivered is reduced, without a commensurate reduction in payment.
+
+Labour hours are increased, with no corresponding increases in the materials used.
+
+The contract is missing or the documentation supporting a purchase is inadequate.
+
+A contracting employee's behaviour when dealing with the file is unusual: he/she is reluctant to answer management questions about unexplained delays and missing documents.
+
+There are many administrative reviews and cancelled procurement procedures.
+
+There are any changes to the quality, quantity or specification of goods and services in the contract that deviate from the bidding document (terms of reference, technical specifications, etc.)
+
+SUGGESTIONS:
+
+Evaluate any requests for change order, check their legitimacy and ask for supporting documents, as appropriate, before agreeing to the change order.
+
+On monitoring missions to high-risk projects, ask clients to inform the bank of any change orders issued to any of the signed contracts, for any amount.
+
+Use supervision missions by the task team to check that key goods, works, and services outputs actually exist. Reviews can confirm that the progress of the work is consistent with the completion certificates issued, that supporting documentation is adequate, that officers are correctly certifying that goods and services have been received on time.
+
+Require independent annual technical, financial, and procurement audits of high-risk projects.
+
+Include site visits by technical experts in supervision missions.
+
+Introduce contract management training for project officials.
+
+As part of a procurement and financial management review, specifically check the supervision of contract management — payment listings by contract or contractor, checks for duplicate payment, and certification of goods and services received.
+
+Introduce strict complaints-handling procedures and publicise them.
+Annex 1: Model declaration of absence of conflict of interests
+
+
+Title of contract:
+
+Reference: (Call for tenders No):
+
+I, the undersigned .............................., having been appointed to the opening board / appointed to the evaluation committee / given the responsibility of assessing (exclusion) and (selection) criteria / appointed to monitor the operations / authorised to amend part of the contract for the abovementioned public contract, declare I am aware of Article 57 of the Financial Regulation, which states that:
+
+'1. Financial actors and other persons involved in budget implementation and management, including acts preparatory thereto, audit or control shall not take any action which may bring their own interests into conflict with those of the Union.
+
+Where such a risk exists, the person in question shall refrain from such action and shall refer the matter to the authorising officer by delegation who shall confirm in writing whether a conflict of interests exists. The person in question shall also inform his or her hierarchical superior. Where a conflict of interests is found to exist, the person in question shall cease all activities in the matter. The authorising officer by delegation shall personally take any further appropriate action.
+
+2. For the purposes of paragraph 1, a conflict of interests exists where the impartial and objective exercise of the functions of a financial actor or other person, as referred to in paragraph 1, is compromised for reasons involving family,5 emotional life, political or national affinity, economic interest6 or any other shared interest with a recipient.7'
+
+[Insert national rules ……….which state that: …….. (if/as applicable)]
+
+I hereby declare that, to my knowledge, I have no conflict of interests with regard to the operators who have [applied to participate in this procurement procedure] [submitted a tender for this procurement], whether as individuals or members of a consortium, or the subcontractors proposed.
+
+To the best of my knowledge and belief, there are no facts or circumstances, past or present, or XX degree family relationship, marriage or registered civil partnership. Contractual relationship or paid or unpaid consultancy currently applicable. Including voluntary work, member of a board or directive council. that could arise in the foreseeable future, which might call into question my independence in the eyes of any party.
+
+I confirm that if I discover or should it become apparent during the course of the selection / criteria / [opening] evaluation process / performance of or amendment to the contract that such a conflict exists or has arisen, I will declare it immediately to the board / committee and if a conflict of interests is found, I will cease to take part in the evaluation process and all related activities.
+
+I also confirm that I will keep all matters entrusted to me confidential. I will not disclose any confidential information that is revealed to me or that I have discovered. I will not make any adverse use of the information given to me. Specifically, I agree to hold in trust and confidence any information or documents disclosed to me or discovered by me or prepared by me in the course of or as a result of the evaluation and I agree that it will be used only for the purposes of this evaluation and will not be disclosed to any third party. I also agree not to retain copies of any written information supplied.
+
+Signed (date and place): ............................
+
+Name: ..................................
+
+Function
+Annex 2: Examples
+
+
+Case No 1
+
+The Romanian Department for the fight against fraud (DLAF) was informed by the Ministry of Regional Development and Tourism of a potential conflict of interests in an ERDF-financed project.
+
+The project beneficiary was a county council, and the financing contract concluded in 2009 was for the rehabilitation and modernisation of 50 km of county roads.
+
+Following a national public procurement procedure, conducted under national law on the award of the public procurement contracts, public works concession contracts and services concession contracts, the beneficiary awarded the EUR 10 million works contract to contractor S.
+
+Once work began, S asked the beneficiary to agree to replacing the ballast supplier initially appointed, with another company, F, citing economic reasons, and obtaining the project supervisor's approval for the change.
+
+Shortly after that, S asked the beneficiary to also allow the construction material used to be change from stone quarry to stone ballast and provided testing reports for this construction material, which was also to be supplied by F. The approval of the designer and the project supervisor had been obtained in advance.
+
+The county council drafted the following documents regarding these two changes: reports signed by the project coordinator, approved and signed by the president of the county council; an addendum to the works contract, signed by the president of the county council, stipulating the new supplier for the construction materials.
+
+The DLAF's investigations revealed that F was owned by two people, each holding 50 % of the shares, one of whom was the son-in-law of the president of the county council, the beneficiary of the project.
+
+The DLAF concluded that there was a conflict of interests because the documents accepting F as the supplier for the construction materials had been signed by the president of the county council, who had a first-degree affinity relationship with one of the joint owners of F.
+
+Case No 2
+
+The Romanian DLAF was informed by the Ministry of Regional Development and Tourism, of some illegal issues in a project financed through the PHARE 2000 economic and social cohesion programme.
+
+The project beneficiary was an economic operator, Z, and the financing contract was concluded to support the certification of the quality management system of 12 small and medium-sized construction companies.
+In order to award the certification services contract under national public procurement law, the beneficiary appointed an evaluation committee consisting of five members, who signed declarations of confidentiality and impartiality.
+
+DLAF found that one of the members of the evaluation committee was an auditor who had concluded cooperation agreements with the winning tenderer.
+
+This breached several provisions of the applicable Practical Guide, Applicant's Guide and an annex to the Grant Agreement, because one member of the evaluation committee awarding the contract had a conflict of interests by being in a contractual relationship with one of the tenderers.
+
+Case No 3
+
+The Romanian DLAF was informed by the Ministry of Regional Development and Tourism of some indications of fraud in a project financed through a regional operational programme, Priority Axis 2, with the aim of modernising part of a county road, the beneficiary being a county council.
+
+The design services contract was awarded through a public procurement procedure under the national law regarding the award of the public procurement contracts, public works concession contracts and services concession contracts. The qualifying criterion was the 'most economically advantageous tender'.
+
+The winning tenderer, P undertook not to subcontract any part of the contract, but shortly it was concluded he subcontracted parts of it to A.
+
+Two public officers who served as members of the evaluation committee for the procurement procedure were employed by A — the winning tenderer's subcontractor.
+
+The Management Authority withheld payment for the services provided by A because of the conflict of interest situation between the evaluation committee members and the subcontractor.
+
+The DLAF considered this was a conflict of interests under national law. The fact that the two public servants of the county council had taken part in the decision to award the service contract to P had been of indirect material benefit to the company that employed them, A.
+
+Case No 4
+
+The Romanian DLAF was informed by an intermediate body for the sectoral operational programme Human Resources Development of a potential conflict of interests in a project financed through Priority Axis 3. The project aimed to introduce a set of innovative techniques and methods to improve entrepreneurial capacity among entrepreneurs and providing support for small and medium-sized enterprises from two regions.
+
+The beneficiary was a university whose legal representative was the rector, Mr C.
+
+For the project's information activities, the university, as the employer, concluded an individual work contract with Mr C, as the employee.
+
+As the rector of the university, Mr C then appointed the implementation team for the project, of which he was also part.
+
+By signing the individual work contract, on one hand as rector and legal representative of the employer and, on the other hand as an employee and member of the project implementation team, Mr C effectively signed a contract with himself and thereby obtained a direct material advantage, i.e. the promise of an extra salary, for himself.
+
+Under the University Charter (which implements the National Education Law), the university is a public interest institution and the rector is its executive manager. The DLAF therefore considered there were grounds for prosecution for a criminal offence under national law.

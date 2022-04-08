@@ -1,0 +1,11 @@
+Clinical characteristics and outcomes of young and very young adults with heart failure: The CHARM programme (Candesartan in Heart Failure Assessment of Reduction in Mortality and Morbidity).
+OBJECTIVES:
+This study sought to determine the characteristics and outcomes of young adults with heart failure (HF).
+BACKGROUND:
+Few studies have focused on young and very young adults with HF.
+METHODS:
+Patients were categorized into 5 age groups: 20 to 39, 40 to 49, 50 to 59, 60 to 69, and ≥70 years.
+RESULTS:
+The youngest patients with HF were more likely to be obese (youngest vs. oldest: body mass index ≥35 kg/m(2): 23% vs. 6%), of black ethnicity (18% vs. 2%), and have idiopathic-dilated cardiomyopathy (62% vs. 9%) (all p < 0.0001). They were less likely to adhere to medication (nonadherence in youngest vs. oldest: 24% vs. 7%, p = 0.001), salt intake, and other dietary measures (21% vs. 9%, p = 0.002). The youngest patients were less likely to have clinical and radiological signs of HF during hospitalization. Quality of life was worse, but all-cause mortality was lowest in the youngest age group (3-year mortality rates across the respective age categories: 12%, 13%, 13%, 19%, and 31%, respectively). Compared with the referent age group of 60 to 69 years, both all-cause and cardiovascular mortality were lower in the youngest group even after multivariable adjustment (hazard ratio: 0.60, 95% confidence interval: 0.36 to 1.00; p = 0.049, and hazard ratio: 0.71, 95% confidence interval: 0.42 to 1.18, p = 0.186, respectively). Three-year HF hospitalization rates were 24%, 15%, 15%, 22%, and 28% in ages 20 to 39, 40 to 49, 50 to 59, 60 to 69, and ≥70 years, respectively (p < 0.0001).
+CONCLUSIONS:
+Beyond divergent etiology and comorbidities, younger patients exhibited striking differences in presentation and outcomes compared with older counterparts. Clinical and radiological signs of HF were less common, yet quality of life was more significantly impaired. Fatal and nonfatal outcomes were discordant, with better survival despite higher hospitalization rates.

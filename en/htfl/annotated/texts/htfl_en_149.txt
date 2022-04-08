@@ -1,0 +1,17 @@
+Hospital-to-Home: a hospital readmission reduction program for congestive heart failure.
+OBJECTIVE:
+To decrease the 30-day readmission rate following hospital stay for congestive heart failure, which in the United States approaches 30 percent nationally. In addition to indicating possible suboptimal care of patients with this condition, there are significant economic considerations.
+DESIGN:
+Prospective, non-randomized, two-center pilot project.
+SETTING:
+General hospital and cardiac specialty hospital, both located in a community of 150,000 population in predominantly rural South Dakota.
+PARTICIPANTS:
+All patients admitted between June 7, 2010 and June 6, 2011 with a diagnosis of congestive heart failure.
+INTERVENTION:
+An intensive transitions of care program was implemented to ensure adequate self-management training of patients and appropriate out-patient follow-up and monitoring of the patient by the health care system.
+MAIN OUTCOME MEASURE:
+30-day all-cause readmissions.
+RESULTS:
+A statistically significant 42 percent relative reduction in 30-day readmission rate was documented for those patients participating in the pilot program. This represented a net economic savings, even accounting for the added cost of the intervention.
+CONCLUSIONS:
+An intensive transitions of care program decreases the 30-day readmission rate for patients with congestive heart failure in a non-urbanized Midwestern state like South Dakota.

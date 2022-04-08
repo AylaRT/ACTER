@@ -1,0 +1,415 @@
+EXPLANATORY MEMORANDUM
+
+1. CONTEXT OF THE PROPOSAL
+
+1.1 General context
+
+Fraud and related illegal activities affecting the Union's financial interests pose a serious problem to the detriment of the Union budget and thereby of taxpayers. The objective of the Union budget to improve living conditions and to generate growth and jobs is endangered if money is misused. This especially holds true in times of fiscal consolidation and responsibility and structural reforms for growth. According to the 2010 Commission report on the protection of the Union's financial interests, suspected fraud amounts to approximately 600 million euro annually on the revenue and expenditure side despite the legal framework in place. It can be assumed that the actual amount is even higher as not all cases are detected and reported.
+
+The Union needs to defend taxpayers' money in the most efficient way, making use of all possibilities offered by the Treaty on European Union. The damage to the EU budget calls for action to ensure equivalent and effective protection of the Union's financial interests, including criminal law as far as this proves necessary. Despite the development of an EU acquis in this area which includes fraud, corruption and money laundering, Member States have adopted diverging rules and consequently often diverging levels of protection within their national legal systems. This state of affairs shows that there is no equivalent protection of the Union's financial interests, and that measures against fraud have not reached the necessary level of deterrence.
+
+For example, with respect to fraud the Member States have included definitions of this crime in many different forms of legislation, ranging from general criminal law, which may include specific or generic offences, to criminal tax codes. A similar divergence can be noted with respect to the levels of sanctions, which are applicable to these forms of crime in the different Member States:
+
+MS: Sanctions
+
+AT: Imprisonment up to 6 months (§ 146 StGB), 3 years (§ 147 (1) and (2) StGB), 10 years (§§ 147 (3), 148 StGB); Imprisonment up to 3 resp. 5 years and fine up to the double amount of the evaded amount (§ 7 AEG).
+
+BE: Imprisonment from 1 month to 5 years (Article 450 Income Tax Code), Imprisonment from 2 months to 3 years (Article 451 Income Tax Code) and fines (Articles 259, 260 and 261 of the General Law on customs and excise tax).
+
+BG: Imprisonment of 1 to 8 years (Article 209, 210 CC), Imprisonment of 3 to 10 years (Article 211 CC), Imprisonment of 2 to 8 years for (Article 212 CC), Imprisonment of 3 to 10 years (Article 212(3) CC)
+
+CY: Imprisonment of 5 years (Article 300 CC), Imprisonment of up to 3 years or a fine that does not exceed €5,125.80 or both
+
+CZ: Imprisonment of up to 2 years (§ 209 - 212 CC)
+
+DK: Imprisonment not exceeding 1 year and 6 months (Article 279 Penal Code) (Article 289A Penal Code), 8 years in aggravated cases
+
+EE: Fine or imprisonment of up to 3 years (§209 Penal Code), 5 years ((§210 Penal Code)
+
+FI: Fine or imprisonment from 14 days to 2 years (Ch.36, Section 1 CC), (Ch.29, Section 1 CC) (Ch.29, Section 5 CC), 4 months to 4 years in aggravated form
+
+FR: Imprisonment of maximum 5 years and fine of €375,000 (Article 313-1 to 313-3 CC), maximum 7 years and fine of €750,000 in aggravated form
+
+DE: Imprisonment of not more than 5 years or a fine (§263 GCC)
+
+EL: Between 10 days and 5 years, 3 months to 5 years (Article 386(1) CC), 2 years to 5 years in aggravated form
+
+HU: Imprisonment of up to 2 years (§318 CC), 5 years (§314 CC).
+
+IR: Imprisonment not exceeding 5 years (Section 42 of the 2001 Act)
+
+IT: Imprisonment of 6 months to 3 years and a fine of from € 51 to € 1,032.00 (Article 640.1 C.P), imprisonment from 1 to 6 years (Article 640 bis C.P)
+
+LV: Imprisonment for a term not exceeding 3 years, or custodial arrest, or community service, or a fine not exceeding sixty times the minimum monthly wage (€17,074.20) (Section 177 Criminal Law)
+
+LT: Community service or a fine, or restriction of liberty, or arrest, or imprisonment for a term of up to 3 years (Article 182 CC) or up to 8 years (serious crime)
+
+LU: Imprisonment from 1 month to 1 year or fine from €500 to €30,000 (Article 490 CC), Imprisonment from 1 month to 1 year or fine from €500 to €10,000 (Article 498 CC)
+
+MT: Imprisonment from 4 months to 1 year (Article 298(1) CC), Imprisonment for a term not exceeding 18 months and payment of a fine of €2,329.37 to €34,940.60 (Article 298C CC), Imprisonment from 7 months to 2 years for (Article 308 CC), Imprisonment from 1 to 6 months or a fine (Article 309 CC)
+
+NL: Imprisonment not exceeding, 1 year (Article 328 PC), 2 years (Article 334 PC), 3 years (Article 360 PC), 4 years (Articles 227, 326 PC) or 6 years (Articles 225, 336, 359 PC) or fines of up to €76,000
+
+PL: Imprisonment for a term of between 3 months and 5 years (Article 297 Penal Code)
+
+PT: Imprisonment up to 3 years or a fine (Article 217 CC)
+
+RO: Imprisonment between 6 months and 12 years (Article 215 CP) (basic case)
+
+SI: Imprisonment for not less than 3 months and not more than 3 years (Article 229 KZ-1), Imprisonment for not more than 3 years (Article 211 KZ-1), Imprisonment for not more than 5 years (Article 228 KZ-1), Fine or imprisonment for not more than 3 years (Article 231 KZ-1)
+
+SK: Imprisonment of up to 2 years (Section 221 CC), Imprisonment of 1 to 5 years (Section 222-225)
+
+ES: Imprisonment of 6 months to 3 years (Article 252 CC)
+
+SE: Imprisonment for at most 2 years (Ch.9, Section 1 Penal Code)
+
+UK: Summary conviction: imprisonment not exceeding 12 months, to a fine or to both (Section 1 Fraud Act 2006); Conviction on indictment: imprisonment not exceeding 10 years, to a fine or to both
+
+Such diversions have a negative impact on the effectiveness of the Union's policies to protect its financial interests, as demonstrated in the Impact Assessment accompanying this proposal. Common offences in all Member States would reduce the risks of divergent practice, as they would ensure a uniform interpretation and a homogeneous way to meet all the necessary prosecution requirements. They would also strengthen the deterrent effect and enforcement potential of relevant provisions, and reduce the incentive for potential perpetrators to move to more lenient jurisdictions within the Union to exercise their intentional illegal activities.
+
+Equivalent protection of its financial interests is also a matter of credibility of the Union's institutions, bodies, offices and agencies, and of ensuring a legitimate budget execution. Therefore, not only fraud in its strict sense should be covered by this proposal, but also other fraud-related forms of illegal behaviour through which the EU budget is damaged, including corruption, money laundering and obstruction of public procurement procedures. The decisive element is that a profit is made at the expense of the EU budget, and thus at the expense of all taxpayers.
+
+An additional reason for proposing a new legal instrument is the need to adopt concrete measures to implement the Commission's overall strategic approach to combating fraud. The Commission is therefore proposing this Directive.
+
+1.2 Legal context
+
+The first elements of criminal law protection of the Union's financial interests were introduced in 1995 with the Convention for the protection of the financial interests of the European Communities and accompanying protocols (hereinafter collectively referred to as the "PIF Convention"). The PIF Convention was subsequently ratified by, and entered into force with respect to, almost all Member States. Relevant general Union criminal law measures include the Council Framework Decision 2005/212/JHA of 24 February 2005 on Confiscation of Crime-Related Proceeds, Instrumentalities and Property, which the Commission proposed to replace by a Directive on the freezing and confiscation of proceeds of crime in the European Union for Member States participating therein.
+
+This framework is complemented by general Union criminal law measures for the fight against certain illegal activities particularly harmful to the licit economy, such as money laundering and corruption, which - although not specific to the protection of the Union's financial interests - also contribute to their protection.
+
+In May 2011, the Commission issued a Communication on the protection of the Union's financial interests by criminal law and by administrative investigations accompanied by a Staff Working Document. These documents point to the patchwork of provisions on crime definitions and criminal sanctions which has developed across the EU under the current legal framework. The documents also set out that the Commission would consider criminal law as one of the elements to improve this state of play.
+
+The Communication "Towards a European criminal policy" of September 2011 sets out a proposed general framework for the content and structure of EU criminal law, as well as general principles of EU criminal law legislation, namely the need that EU criminal law does not go further than what is necessary and proportionate in relation to its objectives.
+
+A body of administrative law for the fight against illegal activities at the expense of the Union's financial interests has developed gradually. Regulation (EC, Euratom) No 2988/95 sets out administrative rules for dealing with illegal activities at the expense of the Union's financial interests, flanked by sectoral administrative rules. In addition to the horizontal instruments specifically on the protection of the Union's financial interests referred to above, a number of administrative law instruments of the Union contain relevant provisions relating to illegal activities affecting the Union's public money.
+
+2. RESULTS OF CONSULTATIONS WITH INTERESTED PARTIES AND IMPACT ASSESSMENT
+
+2.1 Consultations with interested parties
+
+The Commission has consulted stakeholders on a number of occasions. The Commission has in particular consulted criminal law academics on 25 October 2011 as well as government officials from the Member States in a dedicated meeting on 6 December 2011. Representatives of the Civil Liberties, Justice and Home Affairs Committee of the European Parliament were also in attendance. Views of Member States' prosecution services were gathered through questionnaires and discussion at the Forum of the Prosecutors-General convened by Eurojust in The Hague on 23 June 2011 and again on 16 December 2011. The Commission has also met with representatives of the Taxpayers' Association of Europe in an expert meeting held on 25 January 2012.
+
+Experts have underlined significant weaknesses of the existing legal framework for the protection of the Union's financial interests. This was specifically the case as regards time limitation periods for prosecutions. Academic experts underscored the importance of the principle whereby criminal law should only be used as a last resort, with due attention to the principles of subsidiarity and proportionality. As criminal law constitutes a very stern mechanism of social control, deeply affecting fundamental civil liberties, it must be used as a measure of last resort and implemented in a manner that protects fundamental interests whilst respecting civil liberties and benefiting citizens. Member State experts were generally supportive of the objective pursued by the Commission, i.e. safeguarding taxpayers' money and fundamental interests worthy of protection equally across the European Union. Amongst practitioners, there was a widely shared perception that clear criminal law providing a level playing field was relevant, and that it should be complemented by measures in the procedural field to respond to the deficiencies they identified in this context. The latter point is reflected in the Commission's work programme which foresees a separate initiative on procedural measures for the protection of the Union's financial interests in 2013. The Taxpayers' Association of Europe expressed strong support for the Commission's intention to better safeguard the Union's financial interests against illegal misuse, as well as for its approach to set out a comprehensive, deterring criminal law framework for the protection of the Union's financial interests.
+
+2.2 Impact Assessment
+
+The Commission conducted an impact assessment of policy alternatives, taking into account the outcome of an external study which was completed in February 2012. After considering the possible options, the impact assessment concludes that a solution which in particular would extend the types of some fraud-related offences, introduce minimum sanctions and harmonise statutory limitation is to be preferred.
+
+3. LEGAL ELEMENTS OF THE PROPOSAL
+
+3.1 The legal basis
+
+The proposal is based on Art. 325(4) of the Treaty on the Functioning of the European Union.
+
+Article 325 sets out the EU's competence to enact the necessary measures in the fields of prevention of and fight against fraud and any other illegal activities affecting the Union's financial interests which "act as a deterrent". Article 325(4) provides for the legislative procedure to adopt the necessary measures with a view to affording effective and equivalent protection. It also provides for a legal base to legislate on fraud and any other illegal activities affecting the Union's financial interests in the fields of the prevention and the fight against fraud. The term fraud must in this context be understood in a broad sense, including also certain fraud-related criminal offences.
+
+The fight against illegal activities affecting the Union's financial interests is a very specific policy area, as the provision's positioning in a special chapter dedicated to "combating fraud" in the title on "financial provisions" in the Treaty indicates. Also, the term "deterrent" appears nowhere else in the Treaty. This shows that in this specific field, the Union has a broad array of tools at its disposal. This peculiarity is further strengthened by Article 310(6) TFEU which already in the very first article of the Title on financial provisions underscores the need to fight illegal activities affecting the Union's financial interests ("shall counter").
+
+The purpose of Article 325 is to protect the single interest which this priority policy is about, i.e. Union public money, wherever it should be collected or spent.
+
+· The protection of Union public money is a solidarity interest at Union level which is different from the sum of the Member States' national financial interests. For these reasons, the Treaty confers upon the Union strong powers to adopt "measures" which "act as a deterrent" and "afford effective" (Article 325(1) and "equivalent protection" (Article 325(4)). Deterrent, effective and equivalent protection comprises by nature, and historically (see PIF Convention of 1995), a criminal law dimension. Criminal law is needed in order to have a preventive effect in this area, where the threat of criminal law sanctions, and their effect on the reputation of potential perpetrators, can be presumed to act as a strong disincentive to commit the illegal act in the first place. Article 325 therefore includes the power to enact criminal law provisions in the context of the protection of Union's financial interests against all angles of illegal attacks, which was not the case in the correspondant Article 280 (4) in the EC-Treaty.
+
+· The Union's financial interests are not defined by the Treaty itself, but it is clear from the wider wording than the "budget", which is used elsewhere in the Treaty (e.g. Article 310(1) second subparagraph) that all funds managed by or on behalf of the Union are covered.
+
+This proposal replaces the proposal for a Directive on the criminal-law protection of the Community's financial interests.
+
+3.2 Subsidiarity, proportionality and the respect for fundamental rights
+
+It is considered that there is a need for Union action based on the following factors:
+
+The Union's financial interests relate to assets and liabilities managed by or on behalf of the Union. Thus, the Union's financial interests are by nature, and from the start, placed at Union level. As such, they are even more "Union-centred" than a field subject to harmonisation of rules in the Member States. They are more comparable in form and substance to rules on the Union institutions', bodies', offices' and agencies' self-protection, such as in terms of physical or IT-security. As a result, they cannot reasonably be dealt with by the Member States alone. It goes in line with this assessment that the Treaty itself presumes in Articles 310(6) and 325(1) and (4) TFEU the necessity of Union legislative action for setting out equivalent and deterrent measures to protect the Union's financial interests against illegal activities. Furthermore, under Article 48 of Council Regulation (EC, Euratom) No 1605/2002, the European Commission is fully responsible for implementation of all the revenue and expenditure of the Union budget.
+
+The Union is best placed to protect its financial interests, taking into account the specific EU rules which apply in this field. These include the budgetary rules of the Financial Regulation, the general rules on the protection of financial interests by administrative law, and sectoral rules on the protection of financial interests in the various policy areas which can be affected. This applies also to the extent that criminal law provisions for the protection of the Union's financial interests might be rendered more similar. The general subsidiarity requirement for EU legislation must be given special attention with regard to criminal law. This means that the EU can only legislate if the goal cannot be reached more effectively by measures at national or regional and local level but rather due to the scale or effects of the proposed measure can be better achieved at Unions level. Only the Union is in a position to develop binding approximation legislation with effect throughout the Member States, and thus to create a legal framework which would contribute to overcoming the weaknesses of the current situation, including in particular the lack of equivalence which is inconsistent with the Treaty objectives set out in Article 325(4) TFEU.
+
+The proposal is relevant to the following rights and principles of the Union Charter of Fundamental Rights: the rights to liberty and family life (by possible imprisonment of convicted perpetrators), the freedom to choose an occupation and to conduct a business (by possible disqualifications of convicted perpetrators), the right to property (by possible shutting down of businesses having committed offences), criminal fines upon conviction and confiscation, legality and proportionality of criminal offences (because new offence definitions are set out), the right not to be tried twice (because of interplay with administrative sanction regimes). These interferences are justified because they serve to meet objectives of general interest recognised by the Union (see Article 52 para. 1 of the Charter), and in particular to provide effective and deterring measures for the protection of Union's financial interests. In light of the lack of improvements as far as levels of irregularities and fraud are concerned and the ineffectiveness of the current measures under the PIF Convention, it is necessary to adopt criminal law measures to fight and prevent fraud and related illegal activitities. It has carefully been ensured that these measures do not go beyond what is necessary to achieve this objective and are thus proportionate.
+
+3.3 Choice of instruments
+
+In order to set out harmonised criminal law provisions in the field of the protection of the Union's financial interests, while allowing Member States a certain degree of flexibility as regards how to impose more stringent provisions, a Directive is the appropriate instrument.
+
+3.4 Specific provisions
+
+Article 1: Subject matter – this provision sets out the purpose and scope of this proposal, and in particular that it only applies to the protection of the Union's financial interests.
+
+Article 2: Definition of the Union's financial interests – this provision sets out a definition of the Union's financial interests which applies throughout the instrument. The European Court of Justice has confirmed that there is a direct link between, on the one hand, the collection of the Value Added Tax revenue in compliance with the applicable Union law, and on the other, the availability to the Union budget of the corresponding Value Added Tax resources, since any lacuna in collection of the first potentially causes a reduction in the second. Value Added Tax fraud therefore has to be considered as affecting the EU's financial interests and is therefore covered by this proposed Directive.
+
+Article 3: Fraud affecting the Union's financial interests – this provision provides for a definition of fraudulent behaviour to be criminalised in the Member States.
+
+Article 4: Fraud related offences affecting the Union's financial interests – this provision concerns illegal activities in the context of preventing and fighting fraud.
+
+It provides that dishonest conduct of tenderers in public procurement is to be criminalised in the Member States. It covers behaviour similar to fraud, whereby true information, albeit based on information unduly received from public authorities, is given to a tendering body in the course of a grant procedure. Such a provision already exists in a number of Member States, but the level of sanctions vary considerably (for example, from one day imprisonment in one State to a minimum of three years imprisonment in another). It has been estimated that the lack of efficient legislation on this point entails 40 million euro of losses for the Union budget annually. Bid-rigging behaviour between tenderers is already subject to enforcement action and sanctions at Union and Member State level and will remain outside the scope of the Directive.
+
+Article 4 also provides for a definition of corruption, largely based on the PIF Convention and its protocols, to be criminalised in the Member States. National laws implementing the Convention for the protection of the European Communities' financial interests of 1995 and its Protocols and relevant case-law indicate that the Convention's definitions of passive and active corruption need to be developed further. Contrary to the PIF Convention, it will not be required that the conduct is "in breach of official duties" to be covered by the provision. A specific provision is necessary here, since corruption is a particularly serious problem in the area of the Union's financial interests. Article 4 also provides for a definition of misappropriation, which covers conduct by public officials that does not constitute fraud in a stricter sense, and which consists in the misappropriation of funds or assets contrary to the purpose foreseen, with the intention to damage the Union's financial interests. A reference to anti-money laundering legislation with respect to money-laundering of the proceeds of the offences criminalised under the Directive is also made, so that such money laundering will be criminalised in the Member States. This will ensure that the same sanctions regime applies to all criminal offences against the Union's financial interests.
+
+The Article gives a definition of public officials, which includes not only persons that hold a legislative, administrative or judicial office or otherwise exercise public service function for the Union or in Member States, but also persons exercising such a function in third countries. Indeed, the Union's financial interests require protection also in case of active and passive corruption, or misappropriation of funds, with regard to persons in third countries to the extent that they manage Union funds.
+
+Article 5: Incitement, Aiding and Abetting, Attempt – this is a provision applicable to the offences mentioned above, which requires Member States to criminalise also forms of preparation of and participation in such offences. Criminal responsibility for attempt is excluded for the majority of the offences, since the basic crime definitions in question already cover elements of attempt.
+
+Article 6: Liability of legal persons – this is a provision applicable to all offences mentioned above, which requires Member States to ensure liability of legal persons, while excluding that such liability is alternative to that of natural persons.
+
+Article 7: Penalties for natural persons – this is a provision applicable to all offences mentioned above, which requires Member States to apply effective, proportionate and dissuasive sanctions, in line with jurisprudence of the Court of Justice, and to set out a certain minimum set of criminal sanctions for natural persons. The foreseen penalties are proportionate in relation to the considerable seriousness of the offences and are in line with the sanctions currently provided for in a majority of Member States. Article 7 also clarifies certain aspects of the relation between the Directive and disciplinary penalties decided on other grounds.
+
+Article 8: Minimum imprisonment ranges – these provisions apply to all offences mentioned above, and require certain minimum imprisonment terms for particularly serious offences, based on thresholds set out for each offence. The introduction of minimum sanctions will ensure consistency across the Union in terms of sanctions that apply in any Member State for a given type of conduct, with the effect that the Union's financial interests will be protected in an effective and equivalent manner throughout the Union. Economic crime – including fraud – is typically an area where criminal sanctions can have a particularly deterrent effect, as potential perpetrators can be expected to make a certain calculation of risks before deciding to engage in such criminal activities. The introduction of minimum sanctions is consequently considered necessary to ensure that an effective deterrence all over Europe can be achieved. The minimum sanction of six months remains proportionate in relation to the seriousness of the offences and also ensures that a European Arrest Warrant can be issued and executed for the offences listed in Article 2 of the Framework Decision on the European Arrest Warrant, thus ensuring that judicial and law enforcement cooperation will be as efficient as possible.
+
+Article 9: Minimum sanction types for legal persons – this is a provision similar to Article 7, applicable to sanctions for legal persons.
+
+Article 10: Freezing and confiscation – this is a provision applicable to all offences mentioned above, which requires the existence of means of freezing and confiscation of proceeds and instrumentalities from these offences.
+
+Article 11: Jurisdiction – this provision is based on the principles of territoriality and personality. It is applicable to all offences mentioned above, which requires the existence of competence bases for the judicial authorities which allow them to initiate investigations, pursue prosecutions and bring to judgment cases relating to the Union's financial interests. In view of the fact that this Directive does not allow for the prosecution of instances of fraud where Member States cannot exercise jurisdiction, Member States and the Commission will share evidence of fraudulent conduct committed outside the Union territory by non-EU citizens with the third country concerned and will cooperate with a view to the prosecution of such conduct in those countries by the competent authorities.
+
+Article 12: Prescription for offences affecting the Union's financial interests – this is a provision applicable to all offences mentioned above, which requires the establishment of a minimum period of prescription, as well as a provision on the prescription period for the enforcement of penalties following a final conviction.
+
+Article 13: Recovery – this provision clarifies that this Directive does not affect the obligation of Member States to ensure recovery of sums irregularly paid as a consequence of the offences included in this Directive, also irrespective of the criminal prescription provision included in Article 12.
+
+Article 14: Interaction with other applicable legal acts of the Union – this is a provision which clarifies the interaction between administrative and criminal sanctions regimes.
+
+Article 15: Cooperation between the Member States and the European Commission (European Anti-fraud Office) – this is a provision which closely mirrors the provision on cooperation between Member States and the Commission, as included in the Second protocol to the PIF Convention. The inclusion of this provision is necessary due to the repeal of the Convention and its Protocols by Article 16.
+
+Article 16: Repeal of the criminal law conventions for the protection of the European Communities' financial interests – this is a provision which repeals the PIF Convention of 1995 and its Protocols.
+
+4. BUDGETARY IMPLICATION
+
+This proposal has no immediate budgetary implications for the Union. Its aim is, however, to prevent losses caused by illegal activities affecting the Union's financial interests by increasing deterrence and making enforcement by criminal law authorities of the Member States more effective, as well as to facilitate recovery in cases where losses caused by illegal activities affecting the Union's financial interests have already occurred.
+
+2012/0193 (COD) Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the fight against fraud to the Union's financial interests by means of criminal law THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 325 (4) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national Parliaments, Having regard to the opinion of the European Court of Auditors, Acting in accordance with the ordinary legislative procedure, Whereas:
+
+(1) The protection of the Union's financial interests concerns not only the management of budget appropriations, but extends to all measures negatively affecting or threatening to negatively affect its assets, and those of the Member States to the extent they are designated to support or stabilise the economy or public finances of Member States with relevance to Union policies.
+
+(2) In order to ensure effective, proportionate and dissuasive protection of the Union's financial interests, criminal law in the Member States should continue to complement the protection under administrative and civil law for the most serious types of fraud-related conduct in this field, whilst avoiding inconsistencies, both within and among these areas of law.
+
+(3) The protection of the Union's financial interests calls for a common definition of fraud covering fraudulent conduct with respect to both expenditure and revenues at the expense of the EU budget.
+
+(4) Fraud affecting Value Added Tax (VAT) diminishes tax receipts of Member States and subsequently the application of a uniform rate to Member States' VAT assessment base. As confirmed by the Court of Justice jurisprudence, there is a direct link between the collection of VAT revenue in compliance with the Union law applicable and the availability to the Union budget of the corresponding resources, since any lacuna in the collection of the first potentially causes a reduction in the second. The Directive therefore covers revenue resulting from VAT receipts in the Member States.
+
+(5) The consideration of the substantial impact on the EU's financial interests resulting from the illegal diminution of the VAT-based own resource and application of thresholds contained in this Directive shall be read in line with the principle of proportionality, given the specific nature and methodology used for calculating that own resource, including differentiated treatment of Member States.
+
+(6) The Union's financial interests can be negatively affected where individual tenderers provide information to contracting or grant awarding authorities based on information unduly obtained directly or indirectly from the tendering body, with the aim of circumventing or skewing rules applicable to a public procurement or grant procedure. Such conduct is very similar to fraud, but does not necessarily need to constitute a full fraud offence on the side of the tenderer, since the provided bid may be completely in line with all requirements. Bid-rigging behaviour between tenderers violates Union competition rules and equivalent national laws; it is subject to public enforcement action and sanctions throughout the Union and should remain outside the scope of this Directive.
+
+(7) The Union money laundering legislation is fully applicable to laundering the proceeds of the criminal offences referred to in this Directive. A reference made to that legislation should insure that the sanction regime introduced by this Directive applies to all criminal offences against the Union's financial interest.
+
+(8) Corruption constitutes a particularly serious threat against the Union's financial interests, which can in many cases also be linked to fraudulent conduct. A particular criminalisation in this area is therefore needed. It must be ensured that the relevant offences are covered by the definition irrespective of whether conduct is in breach of official duties or not. As regards the offences of passive corruption and misappropriation, there is a need to include a definition of public officials covering all relevant officials, whether appointed, elected or employed on the basis of a contract, holding a formal office, as well as persons exercising the function of providing service from government and other public bodies to citizens, or for the public interest in general, without holding a formal office, such as contractors involved in the management of EU funds.
+
+(9) The Union's financial interests can be negatively affected by certain types of conduct of a public official which aim at misappropriating funds or assets contrary to the purpose foreseen, and with the intention to damage the Union's financial interests. There is therefore a need to introduce a precise definition of offences covering such conduct.
+
+(10) Some offences against the Union's financial interests are in practice often closely related to the offences covered by Article 83 (1) of the Treaty and Union legislation based on that Article. Coherence with such legislation should therefore be ensured in the wording of the provisions.
+
+(11) In as much as the Union's financial interests can also be damaged or threatened by conduct attributable to legal persons, they should be liable for the criminal offences, as defined in this Directive, committed on their behalf.
+
+(12) In order to protect the Union's financial interests equivalently through measures which should act as a deterrent throughout the Union, Member States should further foresee certain minimum types and levels of sanctions when the criminal offences defined in this Directive are committed. The levels of sanctions should not go beyond what is proportionate for the offences and a threshold expressed in money, under which criminalisation is not necessary, should therefore be introduced.
+
+(13) This Directive does not affect the proper and effective application of disciplinary measures. Sanctions that can not be equated to criminal penalties can be taken into account in accordance with national law when sentencing a person for one of the offences defined under this Directive in individual cases; for other sanctions, the principle of ne bis in idem should be fully respected. This Directive does not criminalise behaviour which is not also subject to disciplinary sanctions or other measures concerning a breach of official duties, in cases where such disciplinary sanctions or other measures can be applied to the persons concerned.
+
+(14) The sanctions for natural persons in more serious cases should foresee imprisonment ranges. These serious cases should be defined by referring to a certain minimum overall damage, expressed in money, which must have been caused by the criminal behaviour to the Union's and, possibly, other budget. The introduction of minimum maximum imprisonment ranges is necessary in order to guarantee that the Union's financial interests are given an equivalent protection throughout Europe. The minimum sanction of six months ensures that a European Arrest Warrant can be issued and executed for the offences listed in Article 2 of the Framework Decision on the European Arrest Warrant, thus ensuring that judicial and law enforcement cooperation will be as efficient as possible. The sanctions will also serve as a strong deterrent for potential criminals, with effect all over Europe. More severe sanction levels should be imposed for cases when the offence was committed within a criminal organisation in the sense of Council Framework Decision 2008/841/JHA.
+
+(15) Given in particular the mobility of perpetrators and of proceeds stemming from illegal activities at the expense of the Union's financial interests, as well as the complex cross-border investigations which this entails, all Member States should establish their jurisdiction and lay down rules concerning prescription periods necessary in order to enable them to counter these activities.
+
+(16) In order to ensure the coherence of Union law and safeguard the principle that no-one is punished twice for the same cause of action, there is a need to clarify the relation between penalties under this Directive and other relevant administrative measures under Union law. The Directive should be without prejudice to the application of specific administrative measures, penalties and fines under Union law.
+
+(17) Without prejudice to other obligations under Union law, there is a need for appropriate provision to be made for cooperation between Member States and the Commission to ensure effective action against the criminal offences defined in this Directive affecting the Union's financial interests, including exchange of information between the Member States and the Commission.
+
+(18) The Convention for the protection of the European Communities' financial interests of 26 July 1995 and the Protocols thereto of 27 September 1996 and 29 November 1996 should be repealed and replaced by this Directive.
+
+(19) Proper implementation of this Directive by the Member States includes the processing of personal data among the competent national authorities, its exchange between Member States, on the one hand, and between competent Union bodies on the other hand. The processing of personal data at the national level between national competent authorities should be regulated by national law respecting the Convention of the Council of Europe on the Protection of Individuals with regard to Automatic Processing of Personal Data of 28 January 1981 and its additional Protocol (ETS no 181). The exchange of personal data between Member States should meet the requirements of Council Framework Decision 2008/977/JHA. To the extent personal data are processed by Union institutions, bodies, agencies and offices, they should comply with Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data and with the applicable rules concerning the confidentiality of judicial investigations.
+
+(20) The intended dissuasive effect of the application of criminal law penalties requires particular caution with regard to fundamental rights. This Directive respects fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union and notably the right to liberty and security, the protection of personal data, the freedom to choose an occupation and right to engage in work, the freedom to conduct a business, the right to property, the right to an effective remedy and to a fair trial, the presumption of innocence and the right of defence, the principles of the legality and proportionality of criminal offences and penalties, as well as the prohibition of being tried or punished twice in criminal proceedings for the same criminal offence. This Directive seeks to ensure full respect for those rights and principles and must be implemented accordingly.
+
+(21) This Directive will apply without prejudice to the provisions on the lifting of the immunities contained in the Treaty, the Protocol on the Privileges and Immunities of the European Union, the Statute of the Court of Justice and the texts implementing them, or similar provisions incorporated in national law.
+
+(22) This Directive is without prejudice to the general rules and principles of national criminal law on the application and execution of sentences in accordance with the concrete circumstances in each individual case.
+
+(23) Since the objective of this Directive cannot be sufficiently achieved by the Member States alone and can therefore, by reasons of the scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary to achieve that objective.
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Title I: Subject matter and definition
+
+Article 1 Subject matter
+
+This Directive establishes necessary measures in the field of prevention of and fight against fraud and other illegal activities affecting the Union's financial interests by defining criminal offences and sanctions.
+
+Article 2 Definition of the Union's financial interest
+
+For the purposes of this Directive, 'the Union's financial interests' means all revenues and expenditures covered by, acquired through, or due to:
+
+(a) the Union budget;
+
+(b) the budgets of institutions, bodies, offices and agencies established under the Treaties or budgets managed and monitored by them.
+
+Title II: Criminal offences in the fields of prevention of and fight against fraud affecting the Union's financial interests
+
+Article 3 Fraud affecting the Union's financial interests
+
+Member States shall take the necessary measures to ensure that the following conduct, when committed intentionally, is punishable as a criminal offence:
+
+(a) in respect of expenditure, any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the misappropriation or wrongful retention of funds from the Union budget or budgets managed by the Union, or on its behalf,
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect, or
+
+(iii) the misapplication of liabilities or expenditure for purposes other than those for which they were granted;
+
+(b) in respect of revenue, any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the illegal diminution of the resources of the Union budget or budgets managed by the Union, or on its behalf,
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect, or
+
+(iii) misapplication of a legally obtained benefit, with the same effect.
+
+Article 4 Fraud related criminal offences affecting the Union's financial interests
+
+1. Member States shall take the necessary measures to ensure that any provision of information, or failure to provide such information, to contracting or grant awarding entities or authorities in a public procurement or grant procedure involving the Union's financial interests, by candidates or tenderers, or by persons responsible for or involved in the preparation of replies to calls for tenders or grant applications of such participants, when committed intentionally and with the aim of circumventing or skewing the application of the eligibility, exclusion, selection or award criteria, is punishable as a criminal offence.
+
+2. Member States shall take the necessary measures to ensure that money laundering as defined in Article 1 (2) of Directive 2005/60/EC of the European Parliament and of the Council involving property derived from the offences covered by this Directive is punishable as a criminal offence.
+
+3. Member States shall take the necessary measures to ensure that the following conduct, when committed intentionally, is punishable as a criminal offence:
+
+(a) the action of a public official, who, directly or through an intermediary, requests or receives advantages of any kind whatsoever, for himself or for a third party, or accepts a promise of such an advantage, to act or refrain from acting in accordance with his duty or in the exercise of his functions in a way which damages or is likely to damage the Union's financial interests (passive corruption);
+
+(b) the action of whosoever promises or gives, directly or through an intermediary, an advantage of any kind whatsoever to a public official for himself or for a third party for him to act or refrain from acting in accordance with his duty or in the exercise of his functions in a way which damages or is likely to damage the Union's financial interests (active corruption).
+
+4. Member States shall take the necessary measures to ensure that the intentional act by a public official to commit or disburse funds, or appropriate or use assets, contrary to the purpose for which they were intended and with the intent to damage the Union's financial interests, is punishable as a criminal offence (misappropriation).
+
+5. For the purpose of this Article, 'public official' means:
+
+(a) any person exercising a public service function for the Union or in Member States or third countries by holding a legislative, administrative or judicial office;
+
+(b) any other person exercising a public service function for the Union or in Member States or third countries, not holding such an office, participating in the management of or decisions concerning the Union's financial interests.
+
+Title III: General provisions relating to the criminal offences in the fields of prevention of and fight against fraud affecting the Union's financial interests
+
+Article 5 Incitement, aiding and abetting, attempt
+
+1. Member States shall take the necessary measures to ensure that inciting, aiding or abetting the criminal offences referred to in Title II is punishable as a criminal offence.
+
+2. Member States shall take the necessary measures to ensure that an attempt to commit the criminal offence referred to in Article 3 or in Article 4, paragraph 4, is punishable as a criminal offence.
+
+Article 6 Liability of legal persons
+
+1. Member States shall take the necessary measures to ensure that legal persons can be held liable for any of the criminal offences referred to in Title II committed for their benefit by any person, acting either individually or as part of an organ of the legal person, and having a leading position within the legal person, based on:
+
+(a) a power of representation of the legal person;
+
+(b) an authority to take decisions on behalf of the legal person; or
+
+(c) an authority to exercise control within the legal person.
+
+2. Member States shall also take the necessary measures to ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 1 has made possible the commission, of any of the criminal offences referred to in Title II for the benefit of that legal person by a person under its authority.
+
+3. Liability of a legal person under paragraphs 1 and 2 shall not exclude criminal proceedings against natural persons who are perpetrators of the criminal offences referred to in Title II or criminally liable under Article 5.
+
+4. For the purpose of this Directive, 'legal person' shall mean any entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations.
+
+Article 7 Penalties for natural persons
+
+1. As regards natural persons, Member States shall ensure that the criminal offences referred to in Title II shall be punishable by effective, proportionate and dissuasive criminal penalties, including fines and imprisonment as specified in Article 8.
+
+2. In cases of minor offences involving damages of less than EUR 10,000 and advantages of less than EUR 10,000 and not involving particularly serious circumstances, Member States may provide instead for other than criminal penalties.
+
+3. Paragraph 1 shall be without prejudice to the exercise of disciplinary powers by the competent authorities against public officials.
+
+4. Member States shall ensure that sanctions of another nature, that cannot be equated to criminal penalties, and which are already imposed on the same person for the same conduct, can be taken into account when sentencing that person for a criminal offence referred to in Title II.
+
+Article 8 Imprisonment thresholds
+
+1. Member States shall take the necessary measures to ensure that criminal offences as referred to in Articles 3 and 4, paragraphs 1 and 4, involving an advantage or damage of at least EUR 100,000 shall be punishable by
+
+(a) a minimum penalty of at least 6 months imprisonment ;
+
+(b) a maximum penalty of at least 5 years of imprisonment.
+
+Member States shall take the necessary measures to ensure that criminal offences as referred to in Article 4, paragraphs 2 and 3, involving an advantage or damage of at least EUR 30,000 shall be punishable by:
+
+(a) a minimum penalty of at least 6 months imprisonment;
+
+(b) a maximum penalty of at least 5 years of imprisonment.
+
+2. Member States shall take the necessary measures to ensure that the criminal offences referred to in Title II shall be punishable by a maximum penalty of at least 10 years of imprisonment where the offence was committed within a criminal organisation in the sense of Framework Decision 2008/841.
+
+Article 9
+
+Minimum sanction types for legal persons
+
+Member States shall take the necessary measures to ensure that a legal person held liable pursuant to Article 6 is subject to effective, proportionate and dissuasive sanctions, which shall include criminal or non-criminal fines and may include other sanctions, such as:
+
+(a) exclusion from entitlement to public benefits or aid;
+
+(b) temporary or permanent disqualification from the practice of commercial activities;
+
+(c) placing under judicial supervision;
+
+(d) judicial winding-up;
+
+(e) temporary or permanent closure of establishments which have been used for committing the offence.
+
+Article 10 Freezing and confiscation
+
+Member States shall ensure freezing and confiscation of proceeds and instrumentalities from the offences referred to in Title II in accordance with Directive …/…/... [of the European Parliament and of the Council on the freezing and confiscation of proceeds of crime in the European Union].
+
+Article 11 Jurisdiction
+
+1. Member States shall take the necessary measures to establish their jurisdiction over the criminal offences referred to in Title II where:
+
+(a) the offence is committed in whole or in part within their territory; or
+
+(b) the offender is one of their nationals.
+
+2. For the case referred to in point (b) of paragraph 1, Member States shall take the necessary measures to ensure that their jurisdiction is not subordinated to the condition that the prosecution can only be initiated following a report made by the victim in the place where the offence was committed, or a denunciation from the State of the place where the offence was committed.
+
+3. Member States shall ensure that their jurisdiction includes situations where an offence is committed by means of information and communication technology accessed from their territory.
+
+Article 12 Prescription for offences affecting the Union's financial interests
+
+1. Member States shall ensure a prescription period within which the investigation, prosecution, trial and judicial decision on offences referred to in Title II, and in Article 5, remain possible, of at least five years from the time when the offence was committed.
+
+2. Member States shall ensure that the prescription period shall be interrupted and commence anew upon any act of a competent national authority, including in particular the effective beginning of investigation or prosecution, until at least ten years from the time when the offence was committed.
+
+3. Member States shall take the necessary measures to enable the enforcement of a penalty imposed following a final conviction for a criminal offence referred to in Title II, and in Article 5, for a sufficient period of time that shall not be less than 10 years from the time of the final conviction.
+
+Article 13 Recovery
+
+This Directive shall be without prejudice to the recovery of sums unduly paid in the context of the commission of the criminal offences referred to in Title II.
+
+Article 14 Interaction with other applicable legal acts of the Union
+
+The application of administrative measures, penalties and fines as laid down in Union law, in particular those within the meaning of Articles 4 and 5 of Council Regulation No 2988/95, or in national law adopted in compliance with a specific obligation under Union law, shall be without prejudice to this Directive. Member States shall ensure that any criminal proceedings initiated on the basis of national provisions implementing this Directive shall not affect the proper and effective application of administrative measures, penalties and fines that cannot be equated to criminal proceedings, laid down in Union law or national implementing provisions.
+
+Title IV: Final provisions
+
+Article 15
+
+Cooperation between the Member States and the European Commission (European Anti-Fraud Office)
+
+1. The Member States and the Commission shall cooperate with each other in the fight against the criminal offences referred to in Title II. To that end the Commission shall lend such technical and operational assistance as the competent national authorities may need to facilitate coordination of their investigations.
+
+2. The competent authorities in the Member States may exchange information with the Commission so as to make it easier to establish the facts and to ensure effective action against the criminal offences referred to in Title II. The Commission and the competent national authorities shall take account in each specific case of the requirements of investigation secrecy and data protection. To that end, a Member State, when supplying information to the Commission, may set specific conditions covering the use of information, whether by the Commission or by another Member State to which that information may be passed.
+
+Article 16 Repeal of the criminal law conventions for the protection of the European Communities' financial interests
+
+The Convention on the protection of the European Communities' financial interests of 26 July 1995, including the Protocols thereto of 27 September 1996, of 29 November 1996 and of 19 June 1997, shall be repealed with effect from [day of application under Art. 17 (1) second sub-paragraph].
+
+Article 17 Transposition
+
+1. Member States shall adopt and publish, by … at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions.
+
+They shall apply those provisions from … .
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 18 Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 19 Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President

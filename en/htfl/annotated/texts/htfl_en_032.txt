@@ -1,0 +1,9 @@
+Effects of biventricular pacing on left heart twist and strain in a porcine model of right heart failure.
+BACKGROUND:
+Biventricular pacing (BiVP) improves cardiac output (CO) in selected cardiac surgery patients, but response remains variable, necessitating a better understanding of the mechanism. Accordingly, we used speckle tracking echocardiography (STE) to analyze BiVP during acute right ventricular pressure overload (RVPO).
+MATERIALS AND METHODS:
+In nine pigs, the inferior vena cava (IVC) was snared to decrease CO and establish a control model. Heart block was induced, the pulmonary artery snared, and BiVP initiated. Echocardiograms of the left ventricular midpapillary level were taken at varying atrioventricular delay (AVD) and interventricular delay (VVD) for STE analysis of regional circumferential strain (CS) and radial strain (RS). Echocardiograms were taken of the left ventricular base, midpapillary, and apex during baseline, IVC occlusion, and each BiVP setting for STE analysis of twist, apical and basal rotations, CS, RS, and synchrony. Indices were correlated against CO with mixed linear models.
+RESULTS:
+During IVC occlusion, CO correlated with twist, apical rotation, RS, RS synchrony, and CS (P < 0.05). During RVPO with BiVP, CO only correlated with RS synchrony and CS (P < 0.05). During AVD and VVD variations, CO was associated with free wall RS (P < 0.008). CO correlated with septal wall CS during AVD variation and free wall CS during VVD variation (P < 0.008).
+CONCLUSIONS:
+In an open chest model, twist, RS, RS synchrony, and CS analyzed by STE may be noninvasive surrogates for changes in CO. During RVPO, changes in RS synchrony and CS with varying regional strain contributions may be the primary mechanism in which BiVP improves CO. Lack of correlation of remaining indices may reflect postsystolic function.

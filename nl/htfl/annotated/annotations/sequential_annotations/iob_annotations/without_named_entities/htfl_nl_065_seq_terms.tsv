@@ -1,0 +1,43 @@
+Het	O
+effect	O
+van	O
+thalidomide	B
+op	O
+het	O
+hart	B
+
+Ontsteking	B
+en	O
+matrixverval	B
+spelen	O
+wellicht	O
+een	O
+rol	O
+bij	O
+chronisch	B
+hartfalen	I
+.	O
+
+Thalidomide	B
+heeft	O
+een	O
+matrixstabiliserende	O
+en	O
+ontstekingsremmende	B
+werking	O
+en	O
+zou	O
+daarom	O
+een	O
+verbetering	O
+van	O
+de	O
+hartfunctie	B
+kunnen	O
+geven	O
+bij	O
+patiënten	B
+met	O
+hartfalen	B
+.	O
+

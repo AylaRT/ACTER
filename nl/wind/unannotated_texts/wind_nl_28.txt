@@ -1,0 +1,175 @@
+Passieve mechanismen voor demping van bladzwaaitrillingen
+
+
+Abstract
+
+Zwaaitrillingen vormen een ernstig probleem voor stall turbines en kunnen onder bepaalde condities ook bij bladhoek geregelde turbines naar vaanstand optreden. De demping van deze trillingen kan worden verhoogd met een radiaal georiënteerd massa-veer-systeem. De werking berust op het Coriolis-effect. Het voordeel van zo'n radiaaldemper ten opzichte van reeds bestaande tangentiaaldempers is de veel grotere beschikbare ruimte voor montage in het blad.
+
+De werking van deze twee dempersystemen is vergeleken via een parameterstudie. Hierin is de gevoeligheid uitgezocht voor variaties in de massa, eigenfrequentie en dempingsgraad van het dempersysteem. De demperwerking is beoordeeld op grond van de bereikte effectieve dempingsgraad en de uitwijkingsgevoeligheid van de dempermassa. Het blijkt dat de tangentiaaldemper veel minder gevoelig is voor parameteronzekerheden en bovendien een veel sterker dempende werking heeft. Door de vereiste zeer nauwkeurige afstemming van de dimensonering van de radiaaldemper op de bladeigenschappen wordt verdere ontwikkeling niet zinvol geacht, mede omdat ook de dempende werking beperkt is.
+
+De gevoeligheidsanalyse van de tangentiaaldemper voor de diverse parametervariaties draagt bij tot verhoging van het inzicht dat vereist is om deze succesvol toe te passen.
+
+INTRODUCTIE
+
+Het hier beschreven onderzoek betreft de waardebepaling van een alternatieve methode voor het passief dempen van zwaaitrillingen in de rotorbladen. Het behoort tot het door NOVEM gefinancierde project 2020-01-12-10-003, 'Ontwerpgereedschap voor het integraal ontwerpen van windturbineregelingen' (ECN projectnummer 7.4153). Zwaaitrillingen vormen een ernstig probleem voor stall turbines. Echter ook bij bladhoek geregelde turbines naar vaanstand treden er condities (werkpunten) met zeer geringe of zelfs negatieve aerodynamische demping in zwaairichting. Het hangt dan van de turbulentiegraad af in hoeverre de bladtrillingen aangroeien; bij lage turbulentie blijft een turbine immers langer werkzaam rond een bepaald werkpunt.
+
+De onderzochte dempingsmethode is passief en berust op krachtwerking in zwaairichting door een radiaal georiënteerd massa-veer-demper-systeem (Coriolis-effect). De aanleiding om deze methode te onderzoeken is het gegeven dat een blad in radiale richting veel meer ruimte biedt om een dempersysteem te huisvesten dan in tangentiële richting. Tangentieel georiënteerde passieve bladdempers bestaan reeds maar blijken moeilijk betrouwbaar te kunnen worden gëımplementeerd. In dit rapport wordt een vergelijk gemaakt tussen deze twee 'blad-individuele' dempingsmethoden.
+
+Andere bestaande methoden om bladtrillingen in zwaairichting te dempen zijn niet blad-individueel maar berusten op krachtwerking op de rotornaaf. Nadeel hiervan is dat alleen die bladtrillingen worden gedempt die op de naaf 'door het dempersysteem worden waargenomen'. Via het elektro-mechanisch tegenkoppel kunnen bijvoorbeeld alleen collectieve, ook wel asymmetrisch genoemde, zwaaitrillingen worden gedempt. Symmetrische zwaaitrillingen leiden niet tot variaties in het aandrijvende koppel en kunnen dan ook niet met het generatorkoppel worden aangepakt. Omdat deze trillingen wel dwarskrachtsvariaties op de rotornaaf veroorzaaken kan een dempingssysteem met zijwaartse oriëntatie in de gondel hiervoor worden ingezet (patent NEG-Micon op vloeistofdemper). Dit laatste dempingssysteem is dan weer niet geschikt voor collectieve zwaaitrillingen.
+MODEL VOOR PAMETERSTUDIE
+
+De effectiviteit en gevoeligheid van een radiaaldemper wordt vergeleken met die van een tangentiaaldemper. Hiervoor is een geimplementeerd model nodig van beide systemen inclusief dat van het blad voor wat betreft de zwaaibeweging. Daarnaast is een analysemethode noodzakelijk. In de eerste twee paragrafen worden de modelvergelijkingen voor de radiaal- en tangentiaaldemper gegeven. In de daarop volgende twee paragrafen worden parameters gedefinieerd voor de effectiviteit.
+
+Modelvergelijkingen radiaaldemper
+
+Figuur 2.1 geeft de ligging van de radiaaldemper in het rotorblad weer. Het werkingsprincipe kan worden verklaard uit deze figuur. De bladzwaai-dynamica is hierbij gemodelleerd als een star lichaam dat met een rotatieveer en -demper verbonden is met de rotornaaf; het starre lichaam is in de figuur gesymboliseerd door de bladmassa mb op de 'traagheidsstraal' R. De rotatieveer en demper worden gesymboliseerd door stijfheid γb [Nm/rad] en demperconstante κb [Nm/(rad/s)].
+Bij constant toerental Ω en afwezigheid van bladzwaai (φ˙ = 0) zal de dempermassa een radiale positie r0 + x0 aannemen waarbij de centrifugaalkracht op de dempermassa md precies gecompenseerd wordt door de demperveer met stijfheid cd [N/m]: md · Ω2 · (r0 + x0) = cd · x0 (2.1)
+
+Een verhoging van de rotatiesnelheid met φ leidt tot een grotere centrifugaalkracht waardoor de dempermassa naar buiten beweegt met snelheid x. Deze dempermassa wordt 'meegenomen' in tangentiële richting door het roterende blad, waardoor het radiaaldemper-huis een reactiekracht op het blad zal uitvoeren tegen de richting van φ in. Dit wordt het Coriolis-effect genoemd. Tevens wordt de tangentiële snelheid van de dempermassa verhoogt als gevolg van de toerentaltoename. Voor de totale contactkracht Fd tussen blad en demper geldt dan (2.2).
+
+Naast deze contactkracht wordt door de wind het koppel Tb in zwaairichting veroorzaakt. De bewegingsvergelijking voor de zwaaibeweging wordt dan: (2.3). Met Jb gelijk aan het product van de bladmassa mb en het kwadraat R2 van de traagheidsstraal.
+
+De radiaaldemper ondervindt in radiaalrichting alleen de centrifugaalkracht. Naast massa md en stijfheid cd heeft de radiaaldemper dempingswerking via de demperconstante kd [N/(m/s)]. De bewegingsvergelijking wordt dan: (2.4). De modelvergelijkingen voor de parameterstudie worden verkregen door linearisatie waarbij Ω constant wordt verondersteld. De gemiddelde radiale positie r0 + x0 van de dempermassa wordt verder rd genoemd. Tevens wordt gebruik gemaakt van de gecorrigeerde bladzwaaitraagheid J 0 en demperstijfheid c0 : (2.5)
+
+structurele en aerodynamische demping bladzwaai
+
+
+demper systeem
+
+
+lumped model bladzwaai
+
+vooraanzicht rotorblad
+
+Figuur 2.1 Layout van radiaal georiënteerd dempersysteem tegen zwaaitrillingen
+
+
+
+
+De volgende gekoppelde lineaire bewegingsvergelijkingen zijn dan geldig: (2.6)
+
+Modelvergelijkingen tangentiaaldemper
+
+De tangentiaaldemper bestaat ook uit een massa-veer-systeem, echter nu in tangentiaal richting aangebracht in het blad. De dempermassa heeft relatieve uitwijking y op straal rd. De versnelling van md in tangentiaalrichting.
+Voor de contactkracht Fd tussen blad en demperhuis geldt dan: (2.7). Het blad ondervindt naast deze contactkracht op straal rd ook het windkoppel Tb.
+De nu tangentieel geöriënteerde dempermassa ondervindt alleen krachten door veer- en demperwerking. De modelvergelijkingen worden dan: (2.8).
+
+Deze vergelijkingen zijn reeds lineair. Ze worden alleen geherrangschikt en er wordt gebruik gemaakt van het gecorrigeerde bladtraagheidsmoment J 0 : (2.9)
+
+Parameter voor bladzwaai-effectieve demping
+
+Het doel van de modellen is om na te gaan in hoeverre de demping van de bladzwaaibeweging te verhogen is door verstandige keuzes voor de demperparameters md, kd en cd. Hiervoor wordt de exponentiële dempingsgraad βzw als parameter gebruikt. Zonder dempersysteem gelden de volgende uitdrukkingen voor dempingsgraad βzw en het daarmee samenhangede tijdverloop φ(t) van het vrije vervolg voor de bladzwaaitrilling (K en ψ bepaalt door beginwaarden.
+
+De afname van de trillingsamplitude bedraagt dan bij zeer goede benadering per periode (logaritmisch decrement). De periodetijd volgt uit de voor demping gecorrigeerde eigenfrequentie 
+
+ongedempte eigenfrequentie in rad/s: (2.11)
+
+Tabel 2.1 geeft voor een aantal waarden van de dempingsgraad de bijbehorende waarde voor het logaritmisch decrement en voor de daarvoor veel gebruikte benadering 2πβzw:
+
+Tabel 2.1 Dempingsgraad, logaritmisch decrement en benadering bij lage dempingsgraad
+
+Voor de beoordeling van de demperwerking dienen we deze dempingsgraad te bepalen voor de gekoppelde demper- en bladzwaaivergelijking (β eff ). De relatief eenvoudige uitdrukking voor βzw in het geval van het blad zonder demper is nu niet van toepassing. De totale modelorde is nu vier in plaats van twee, hetgeen betekent dat er sprake is van twee eigenbewegingen met elk een eigen dempingsgraad. Het is dan niet duidelijk welke dempingsgraad of welke combinatie van toepassing is voor de bladzwaaitrilling. Echter, door terug te gaan naar waar het eigenlijk om gaat, kunnen we de bladzwaai-effectieve dempingsgraad β eff toch bepalen.
+
+Zoals eerder vemeld bepaalt de dempingsgraad de afname van de trilingsamplitude per periode indien er geen aanstoting (meer) plaatsvindt. Bij de windturbine hebben we te maken met voortdurende aanstoting als gevolg van turbulentie. Bij zeer laagfrequente variaties T LF in het aandrijvende zwaai-koppel buigt het blade 'quasi-statisch', dat wil zeggen alsof de variatie een constant niveau aanneemt. Alleen de stijfheid speelt dan een rol: (2.12). Waar het nu om gaat is de verhouding tussen deze quasi-statisiche versterking en de dynamische versterking bij meer hoogfrequente variaties in Tb. In de eigenfrequentie is de dynamische versterking het hoogst (αω0). De dempingsgraad voor het blad zonder demper bepaalt eenduidig de verhouding tussen deze dynamische en de statische versterking: (2.13).
+
+Met overdrachtsfunctie-analyse kan deze verhouding ook voor het gekoppelde blad-demper-model worden bepaald. Hiervoor wordt eerst de overdrachtsfunctie van windkoppel naar bladzwaai-uitwijking bepaald door gebruik te maken van de differentiaal-operator.
+
+Voor de radiaaldemper wordt de snelheid x˙ van de dempermassa hierbij als volgt uitgedrukt in de bladzwaaisnelheid: (2.14).
+
+Substitutie hiervan in de bladvergelijking levert:
+
+Door nu de differentiaal-operator te vervangen door de Laplace operator s wordt de overdrachtsfunctie van Tb naar φ verkregen: (2.16)
+Voor de tangentiaaldemper wordt de versnelling y¨ van de dempermassa als volgt uitgedrukt in de bladzwaaiversnelling 
+
+Substitutie hiervan in de bladvergelijking, vervanging van de differentiaaloperator door de Laplace operator levert, en herrangschikking levert de overdrachtsfunctie: (2.18).
+De versterking van de overdrachtsfunctie voor freqentie ω is gelijk aan de grootte. De effectieve dempingsgraad βzw wordt dan als volgt teruggerekend uit deze overdrachtsfunctie:
+
+
+Parameter voor demperactiviteit
+
+Een tweede doel van de modellen is om na te gaan welke uitwijkingen de dempermassa ondergaat. De maximale uitwijking moet natuurlijk 'binnen het blad passen'. De parameter die hieraan verbonden wordt is de maximale dynamische versterking van de variatie in het windkoppel naar de dempermassa-uitwijking (αˆ). Hiervoor dient de betreffende overdrachtsfunctie beschikbaar te zijn. De overdrachtsfunctie van windkoppel naar dempermassa-uitwijking wordt op soortgelijke wijze verkregen als voor de bladzwaai-uitwijking in de vorige paragraaf. Voor de radiaaldemper, met uitwijking x, geldt dan: (2.20).
+
+Voor de tangentiaaldemper, met uitwijking y, geldt: (2.21).
+
+De maximale dynamische versterking wordt uitgedrukt in [m/kNm]. Voor de demperactiviteit-parameter geldt dan voor maximale versterking): (2.22).
+DEMPINGSVERHOGING EN DEMPERACTIVITEIT
+
+Het model voor beoordeling van de passieve bladdempersystemen kan pas gebruikt worden als het geparametriseerd is. In de eerste paragraaf van dit hoofdstuk worden de relevante machineparameters gegeven voor een windturbine in de multi MW klasse. Tevens worden karakteristieke ontwerpwaarden bepaald voor de demperparameters en de daarbij behorende 'nominale demperwerking'. In de daarop volgende paragraaf wordt een parameterstudie beschreven waarin respectievelijk de massa, eigenfrequentie en dempingsgraad van het dempersysteem zijn gevarieerd.
+
+Turbineparameters en startwaarden demperparameters
+
+Uit het vorige hoofdstuk bleek al dat slechts enkele turbineparameters vereist zijn om op het blad aangebrachte passieve bladdempersystemen te kunnen vergelijken. Dit zijn het toerental Ω, het bladzwaai-traagheidsmoment Jb en de bladzwaai-equivalente rotatieveeren rotatiedemperconstante κb en γr mb in de bladwortel. Daarnaast is de rotorstraal Rb vereist voor de uiterste ligging van het dempersysteem. Omtrent de demperconstante bestaat vaak onzekerheid. Deze wordt aerodynamisch bëınvloed en wel afhankelijk van het werkpunt, waarbij zowel dempingsverhoging als dempingsverlaging kan optreden. Hierom wordt elke parametervariatie voor een aantal dempingsconstanten doorgevoerd. Tabel 3.1 geeft de gebruikte waarden van de machine-parameters, met de daarmee corresponderende ongedempte bladeigenfrequentie ωb0 en dempingsgraad.
+
+Tabel 3.1 Turbineparameters voor dempervergelijk
+
+toerental
+traagheidsmoment
+rotatieveerconstant
+eigenfrequentie
+dempingsconstante
+dempingsgraad
+
+De bepaling van de potentiële dempingsverhoging en daarbij behorende demperactiviteit, alsmede de gevoeligheid voor parametervariaties, vereist weloverwogen keuzes voor de demperparameters. Het 'optimum' kan namelijk alleen gevonden of goed benaderd worden als dit omvat wordt door het bereik van de parameterstudie. Uitgebreid vooronderzoek met de gebruikte turbineparameters heeft geleid tot de volgende uitgangspunten voor de parameterstudie: (gecorrigeerde) demper-eigenfrequentie = gecorrigeerde blad-eigenfrequentie:
+
+dempingsgraad βd bedraagt 0.02 voor radiaal- en 0.15 voor tangentiaaldemper;
+dempermassa md bedraagt 100 kg voor radiaal- en tangentiaaldemper.
+De (effectieve) straal rd waarop de demper wordt gemonteerd bedraagt onveranderlijk 40 m.
+
+
+Deze parameterkeuzes leiden tot de zo gedefinieerde 'nominale demperwerking'. Figuur 3.1 toont in de linkergrafiek de potentiële bladzwaai-effectieve dempingsgraad βeff als functie van de natuurlijke bladzwaai-dempingsgraad βzw; de rechtergrafiek bevat de daarbij behorende maximale versterking αˆ voor de demperuitwijking.
+
+
+Figuur 3.1 Effectieve dempingsgraad βeff van de eerste buigzwaaimode; tangentiaaldemper met βd = 0.15, radiaaldemper met βd = 0.02; beide dempers met eigenfrequentie ωd0 gelijk aan zwaai-eigenfrequentie en massa md van 100 kg.
+
+Het blijkt dat de radiaaldemper de bladzwaai-effectieve dempingsgraad slechts met ca. 0.01 kan verhogen terwijl deze verhoging ca 0.06 bedraagt voor de tangentiaaldemper. Bij een natuurlijke demping van kleiner dan -0.01 kan de radiaaldemper de bladzwaaibeweging niet meer stabiliseren. Daarnaast is de verwachte demperuitwijking 10 tot 20 keer groter voor de radiaaldemper. Of dit laatste een probleem is zal moeten blijken uit berekeningen met een aerodynamische code onder reële turbulentie.
+
+3.2 Variatie van massa, eigenfrequentie en dempingsgraad in dempersysteem
+
+De volgende parametervariaties zijn uitgevoerd rond de nominale parameters van het dempersysteem uit de vorige paragraaf.
+
+massa van demper varieert van 25 tot 200 kg, fig. 3.2);
+
+eigenfrequentie van demper varieert tot ±0.7rad/s (radiaal) en tot ±3.5rad/s
+(tangentiaal) rond nominaal, fig. 3.2;
+
+dempingsgraad van demper varieert van 0.005 tot 0.05 (radiaal) en van 0.05 tot
+0.25 (tangentiaal), fig. 3.2)
+
+DEMPINGSVERHOGING EN DEMPERACTIVITEIT
+
+De drie gerefereerde plots bevatten in elke grafiek steeds 2 keer 7 curves; elke curve behoort bij een bladdempingsgraad, welke varieert van -0.02 tot +0.02 (zie tabel 3.1.)
+
+Dempermassa
+
+Voor beide dempertypes blijkt bij een dempermassa van minder dan 100kg de effectieve demping snel lager te worden. De winst bij dempermassa's groter dan 100 kg is niet zo groot meer. Het is wel zo dat bij een bladdemping van -0.02 de radiaaldemper een massa nodig heeft van 200 kg om te stabiliseren.
+
+
+Figuur 3.2 Effectieve dempingsgraad βeff en maximale versterking voor dempermassa uitwijking bij variatie dempermassa
+
+Eigenfrequentie demper
+
+Het blijkt dat de radiaaldemper veel gevoeliger is voor een gewijzigde eigenfrequentie dan de tangentiaal demper. Door variatie in toerental en constructieve onzekerheden, zowel in het blad als de demper, is het zeer de vraag of de radiaaldemper zou kunnen werken. Met name bij negatieve bladdemping is de gevoeligheid naar de eigenfrequentie erg groot. Een (opmerkelijk) gegeven voor de tangentiaaldemper is dat de beste demperwerking bereikt wordt bij een dempereigenfrequentie die ca. 0.7 rad/s lager is dan de gecorrigeeerde bladeigenfrequentie.
+
+Dempingsgraad demper
+
+De dempingsgraad van de demper kan zeker niet willekeurig worden gekozen. Voor de radiaaldemper blijkt het optimum tussen de 0.015 en 0.020 te liggen en voor de tangentiaaldemper tussen de 0.12 to 0.14. Deze gevoeligheid is een complicerende factor bij toepassing: de weersomstandigheden kunnen immers de dempingsgraad bëınvloeden en uitgezocht dient te worden of dempersystemen kosteneffectief geconstrueerd kunnen worden met een goed voorspelbare, gewenste dempingsgraad.
+
+
+Figuur 3.3 Effectieve dempingsgraad βeff en maximale versterking voor dempermassa uitwijking bij variatie demper-eigenfrequentie
+
+Figuur 3.4 Effectieve dempingsgraad βeff en maximale versterking voor dempermassauitwijking bij variatie dempingsgraad van demper
+
+CONCLUSIE
+
+De werking van radiaal en tangentiaal georiënteerde dempersystemen voor onderdrukking van bladzwaaitrillingen is vergeleken. Hiervoor is een parameterstudie uitgevoerd rond weloverwogen gekozen nominale condities. Voor multi MW turbines kunnen beide dempersystemen een negatieve dempingsgraad tot -0.01 (logaritmisch increment van 6%) omzetten naar een positieve dempingsgraad bij een demper massa van 100 kg. De eigenfrequentie van het dempersysteem dient daarbij ongeveer gelijk te zijn aan de bladzwaaieigenfrequentie.
+
+Het blijkt dat de tangentiaaldemper veel minder gevoelig is voor parameteronzekerheden en bovendien een veel sterker dempende werking heeft; negatieve dempingsgraden tot -0.02 (log increment 12%) vormen geen probleem. Voor een bladeigenfrequentie van ca 3Hz mag de eigenfrequentie van de tangentiaaldemper ca. 0.5 Hz afwijken terwijl dit voor de radiaaldemper slechts 0.1 Hz is. Daarnaast kan de tangentiaaldemper de dempingsgraad ophogen van -0.01 tot ca. 0.06 terwijl de radiaaldemper niet verder komt dan ca. 0.01 (logaritmisch decrement 27% en 6%). Door de vereiste zeer nauwkeurige afstemming van de dimensonering van de radiaaldemper op de bladeigenschappen wordt verdere ontwikkeling niet zinvol geacht, mede omdat ook de dempende werking beperkt is.
+
+De gevoeligheidsanalyse van de tangentiaaldemper voor de diverse parametervariaties draagt bij tot verhoging van het inzicht dat vereist is om deze succesvol toe te passen.
+
+
+AbstractZwaaitrillingen vormen een ernstig probleem voor stall turbines en kunnen onder bepaalde condities ook bij bladhoek geregelde turbines naar vaanstand optreden. De demping van deze trillingen kan worden verhoogd met een radiaal georiënteerd massa-veer-systeem. De werking berust op het Coriolis-effect. Het voordeel van zo'n radiaaldemper ten opzichte van reeds bestaande tangentiaaldempers is de veel grotere beschikbare ruimte voor montage in het blad.
+De werking van deze twee dempersystemen is vergeleken via een parameterstudie. Hierin is de gevoeligheid uitgezocht voor variaties in de massa, eigenfrequentie en dempingsgraad van het dempersysteem. De demperwerking is beoordeeld op grond van de bereikte effectieve dempingsgraad en de uitwijkingsgevoeligheid van de dempermassa. Het blijkt dat de tangentiaaldemper veel minder gevoelig is voor parameteronzekerheden en bovendien een veel sterker dempende werking heeft. Door de vereiste zeer nauwkeurige afstemming van de dimensonering van de radiaaldemper op de bladeigenschappen wordt verdere ontwikkeling niet zinvol geacht, mede omdat ook de dempende werking beperkt is.
+De gevoeligheidsanalyse van de tangentiaaldemper voor de diverse parametervariaties draagt bij tot verhoging van het inzicht dat vereist is om deze succesvol toe te passen.
+
+windturbine, zwaaitrillingen, passieve demping, radiaaldemper

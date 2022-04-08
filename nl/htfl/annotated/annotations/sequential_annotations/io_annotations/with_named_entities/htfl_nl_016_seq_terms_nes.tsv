@@ -1,0 +1,46 @@
+hypertensie	I
+,	O
+hartfalen	I
+Hypertensiebehandeling	I
+voorkomt	O
+hartfalen	I
+,	O
+hypertensie	I
+hartfalen	I
+
+Hypertensie	I
+leidt	O
+vooral	O
+tot	O
+CVA	I
+en	O
+hartfalen	I
+en	O
+speelt	O
+een	O
+veel	O
+geringere	O
+rol	O
+in	O
+het	O
+ontstaan	O
+van	O
+coronarialijden	I
+.	O
+
+Behandeling	O
+van	O
+hypertensie	I
+zou	O
+dus	O
+de	O
+incidentie	I
+van	O
+CVA	I
+en	O
+hartfalen	I
+sterk	O
+moeten	O
+verlagen	O
+.	O
+

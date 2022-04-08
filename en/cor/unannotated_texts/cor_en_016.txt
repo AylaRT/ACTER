@@ -1,0 +1,766 @@
+
+Money Laundering Awareness Handbook for Tax Examiners and Tax Auditors
+
+
+2009
+
+ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT
+
+The OECD is a unique forum where the governments of 30 democracies work together to address the economic, social and environmental challenges of globalisation. The OECD is also at the forefront of efforts to understand and to help governments respond to new developments and concerns, such as corporate governance, the information economy and the challenges of an ageing population. The Organisation provides a setting where governments can compare policy experiences, seek answers to common problems, identify good practice and work to co-ordinate domestic and international policies.
+
+The OECD member countries are: Australia, Austria, Belgium, Canada, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Korea, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Portugal, the Slovak Republic, Spain, Sweden, Switzerland, Turkey, the United Kingdom and the United States. The Commission of the European Communities takes part in the work of the OECD.
+
+
+Preface
+
+The purpose of this handbook is to raise the awareness level of tax examiners and auditors on money laundering. It provides guidance in identifying money laundering during the conduct of normal tax audits. It also describes the resources and tools that are available for effective detection and deterrence. While the handbook does not detail criminal investigation methods, it does describe the nature and context of money laundering activities so that tax examiners and auditors can better understand how their contribution can assist criminal investigators in countering money laundering.
+
+Tax administrations can adapt the handbook to suit their particular circumstances and to take into account the varying roles that tax administrations have in relation to reporting unusual or suspicious transactions, receiving suspicious transaction reports and investigating money laundering offences. To aid this adaptation key areas of the handbook have been highlighted for "Country Specific Insertions".
+
+While the aim of this handbook is to raise the awareness of tax examiners and tax auditors about the possible implications of transactions or activities related to money laundering and tax crimes, the handbook is not meant to replace domestic policies and procedures.
+
+This handbook is available on the CTPA website www.oecd.org/ctp/taxcrimes. Versions in different languages will also be available here.
+
+
+Introduction
+
+Fighting crime
+
+
+Traditionally the job of fighting crime has focused on solving crimes. However, since the 1990s, crime fighters have also sought to deter criminals by paying more attention to the confiscation of proceeds of crime. And more recently, with the introduction of unusual or suspicious transaction reporting by the regulated sector, often the flow of money or goods is investigated even before a criminal offence has been detected.
+
+Why criminals need to launder money
+
+
+A person who commits a crime will initially try to prevent their actions from being noticed by the tax department, police and/or law enforcement authorities. If the person is arrested or taxed on the proceeds of crime, they will try to avoid having the criminal proceeds traced back to their origin and avoid their confiscation.
+
+When criminals want to spend the proceeds of their crime, they face a dilemma: how to spend or invest large sums of money without evidence of a legitimate source of income that could draw the attention of tax examiners or auditors. Alternatively, criminals' ability to expend cash on the purchase and use of high value goods or investments may bring them to the attention of law enforcement authorities. The tax department can start a tax audit and issue a tax reassessment while law enforcement authorities can initiate a criminal investigation into the origin of the money.
+
+In order to be able to spend money openly, criminals will seek to ensure that there is no direct link between the proceeds of their crime and the actual illegal activities. They may also seek to construct a plausible explanation for an apparent legal origin of the money that they possess. In this way, criminals seek to "launder" their proceeds of crime before spending or investing it in the legal economy.
+
+Money Laundering
+
+Definition
+
+
+The Financial Action Task Force (FATF) is an inter-governmental body whose purpose is the development and promotion of policies to combat money laundering and terrorist financing. It is the body that sets and monitors international standards for anti-money laundering regulations. The FATF has defined "money laundering" as the processing of criminal proceeds to disguise their illegal origin in order to legitimise the ill-gotten gains of crime.
+
+OVERVIEW OF MONEY LAUNDERING
+
+PLACEMENT LAYERING INTEGRATION INTEGRATION
+
+SOURCES OF INCOME
+
+GOAL
+Deposit Criminal Proceeds Into Financial System
+
+GOAL
+Conceal the Criminal Origin of Proceeds
+JUSTIFICATION
+
+GOAL
+Create an Apparent Legal Origin for Criminal Proceeds
+INVESTMENT
+
+GOAL
+Use Criminal Proceeds for Personal Benefit
+
+Tax Crimes
+Fraud
+Embezzlement
+Drugs
+Theft
+Bribery
+Corruption
+Change of Currency
+Change of Denominations
+Transportation of Cash
+Cash Deposits
+Wire Transfers
+Withdrawals in Cash
+Cash Deposits in Other Bank Accounts
+Split and Merge Between Bank Accounts
+Creating Fictitious Loans, Turnover/Sales, Capital Gains, Deeds, Contracts, Financial Statements
+Disguise Ownership of Assets
+Criminal Funds Used In Third Party Transactions
+Liquidity - Cash at Hand
+Consumption
+Investments
+
+Why combat money laundering?
+
+
+Criminals accumulate significant sums of money by committing crimes such as drug trafficking, human trafficking, theft, investment fraud, extortion, corruption, embezzlement and tax fraud. Money laundering is a serious threat to the legal economy and affects the integrity of financial institutions. It also changes the economic power in certain sectors. If left unchecked, it will corrupt society as a whole. Fighting money laundering serves several purposes.
+The social importance
+
+Crime causes tangible and intangible damage to third parties, individuals and society as a whole. Money laundering can result in reducing the public's confidence in certain professions such as lawyers, accountants and notaries and economic sectors such as real estate, hospitality and banks and other financial institutions. Investing the proceeds of crime may also distort competition between businesses and entrepreneurs. Money laundering allows the criminal to start, continue and expand activities in legitimate sectors of the economy. It may create a perception that crime pays and may also have a stimulating effect on our youth starting a criminal career.
+
+To identify tax crimes
+
+Unusual transactions can be an indication of tax crimes in the past and can lead to the identification of those involved.
+
+To identify other crimes and criminals
+
+Taxing the income of criminals according to tax rules alone will not lead to the identification of potential money laundering. It will not stop crime from happening or from being profitable. The detection of unusual transactions may assist in identifying criminals and their illegal activities. Sharing information with law enforcement authorities can lead to the start of a criminal investigation.
+
+To locate and confiscate criminal assets
+
+Identifying unusual transactions can provide insight into the flow of money and the destination of laundered criminal proceeds into assets such as real estate, vehicles, yachts and bank accounts. This will assist law enforcement authorities in seizing those assets during a criminal investigation.
+
+Legal context
+
+
+In the vast majority of countries there is a legal framework for combating money laundering and it is a separate criminal offence in the penal code. The penal code states which activities in relation to proceeds of crime are forbidden and lists the relevant crimes covered, known as predicate offences to money laundering. Predicate offences can be defined as "all offences" named in the penal code or can be limited to "serious crime offences" or a threshold related to the penalty of imprisonment or a combination of these approaches.
+
+The legislation may include tax crimes as a predicate offence to money laundering. It is also possible that tax crimes are not mentioned as a predicate offence. This means that transactions with money solely derived from a tax crime (e.g. non reported sales) might not be considered as money laundering offences. This does not mean that the tax administrations in those countries have no role in combating money laundering. Money derived from crimes mentioned as a predicate offence could still be identified by tax examiners or auditors and there may also be tax implications.
+
+It may be appropriate to insert here country specific detail on the legal context.
+The money laundering process
+
+
+The objective of tax fraudsters and of those involved in a wide range of criminal activities is to disguise the source of money and to convert the "dirty money" and "wash it" into a form that will be difficult to retrace its origins such as placing the "dirty money" in bank accounts, real estate, stocks, insurance premiums and other assets, which can be used later without raising suspicion. Whether the crime is a tax crime or is related to trafficking in narcotics, illegal sales of weapons, corruption or any of a vast range of criminal activities, the basic process that money launderers use to turn illicit proceeds into apparently legal monies or assets is globally accepted as having three stages: placement, layering and integration. These are the three phases of money laundering. The integration phase may be further divided into two sub-phases: justification and investment.
+
+Placement
+
+The goal in this stage is to deposit criminal proceeds, generally cash, into a bank account at home or abroad. For this purpose, cash could be switched into other valuables like trade goods, diamonds, gold bars or cheques. It could also be exchanged into other currencies, in larger denominations and/or split up in smaller sums which allow easy transportation by cash couriers. The cash or other valuables can be transported abroad, away from the country where the crime was committed, to the country of residence of the criminal or a specific country where cash can be easily deposited or invested. Transportation can be by car, plane (passengers or cargo) or by using an underground banking system. For all of these acts, criminals can use third parties, either individuals or corporations. Money derived from fraud, like tax fraud or investment fraud, could easily be money held in a bank account and capable of being exchanged electronically. Not all criminal proceeds are in the form of cash or even money. Goods from theft can be exchanged for other valuables.
+
+Layering
+
+The goal in this stage is the concealment of the criminal origin of the proceeds. Therefore, money can be transferred and split frequently between bank accounts, countries, individuals and/or corporations. Money can also be withdrawn in cash and deposited into bank accounts with other banks. It is common to use bank accounts in countries with strict banking secrecy laws and to nominate offshore corporations as the bank account holders.
+
+Integration: Justification
+
+The goal in this stage is to create an apparent legal origin for the criminal proceeds. This can be done by:
+
+Doing business with yourself (falsifying sources of income, capital gains and/or
+loans);
+
+Disguising the ownership of assets, and
+
+Using criminal proceeds in transactions with third parties.
+
+The money launderer creates an apparent legal origin of the money by fabricating transactions (invoices, bookkeeping and agreements), with the use of false and fabricated
+documents such as invoices, reports, contracts, agreements, deeds as well as written or spoken statements. Common justification methods used are:
+
+Fabricating a loan: loan-back or back to back;
+
+Fabricating a rise in net worth: buying and selling real estate and other items, fabricating
+casino winnings, lottery prizes, inheritance, etc.;
+
+Disguising the ownership of assets and interest in businesses (constructions with
+foreign legal entities, e.g. offshore companies or relatives as legal owner);
+
+Price-manipulating (over- and under-invoicing);
+
+Manipulating turnover/sales by commingling illicit and legal sources of income.
+
+Integration: Investment
+
+The goal in this final stage is to use criminal proceeds for personal benefit. Cash or electronic money can be used for:
+
+Safekeeping: cash on hand;
+
+Consumption: day to day expenditures, lifestyle, jewellery, vehicles, yachts, art;
+
+Investing: bank accounts, real estate, stocks, securities, receivables, funding of legal
+and illegal business activities.
+
+Criminals may want to display their wealth and wealthy lifestyle by acquiring "badges of wealth" such as luxury homes, vehicles, boats, jewellery, etc. Criminals will seek to launder the proceeds from their crimes to pay for these in order to avoid detection by the tax or law enforcement authorities.
+
+Money laundering trends
+
+
+The traditional methods of money laundering have centred on the use of cash based businesses and this remains an important area. However, criminals will continue to seek out innovative methods to exploit weaknesses in financial systems and to try to keep ahead of the investigators. Real estate, loans and trade based money laundering are preferred methods for criminals to launder the proceeds of crime and tax fraud. These are described later. The use of credit cards issued by offshore banks has increased and can expect criminals to explore the vulnerabilities of new technology based products such as electronic money and internet-based trading and gambling.
+
+Role of Tax Examiners and Auditors
+
+Introduction
+
+
+The role of tax examiners or auditors in checking taxpayers' books and records for tax assessments puts them in a unique position to identify not only tax crimes, but also money laundering and other financial crimes. Auditors can help combat money laundering by identifying and then reporting unusual or suspicious transactions in accordance with domestic law and practice. This handbook provides a tool for auditors to detect money laundering, but the identification of money laundering indicators in a case may also help auditors to detect past tax evasion.
+
+Raising knowledge and awareness
+
+
+Tax auditors or tax examiners are often well placed to identify the first signs of possible money laundering and tax crimes. Generally their education and training allows them to detect suspicious transactions. While the aim of this handbook is to raise the awareness of tax examiners and tax auditors about the possible implications of transactions or activities related to money laundering and tax crimes, the handbook is not meant to replace domestic policies and procedures. Rather, tax examiners or auditors will carry out their duties in accordance with the policies and procedures in force in their country.
+
+Tax examiners or auditors must be aware of the need to distinguish between appearance and reality. It is useful to remember the following distinctions:
+
+Fact: an event or act whose reality has been established;
+
+Assertion: an opinion in the form of a statement or document such as: invoices, loan agreements, deeds, tax returns;
+
+Assumption: a presumption or a supposition;
+
+Conclusion: a deduction made based on facts or assertions.
+
+Sorting the available information in this manner can assist tax examiners or auditors in avoiding conclusions based on assertions or assumptions instead of verified facts. The most important tool for tax examiners or auditors is to bring critical thinking to the forefront:
+
+To evaluate the assertions made;
+
+To question and investigate their own assumptions as a hypothesis;
+To draw conclusions based on their knowledge of the techniques used by money launderers and tax criminals.
+
+The importance of detecting unusual transactions
+
+
+The proceeds of a crime may become apparent to tax examiners or auditors. Such visibility is related to:
+
+Cash movements such as transporting, exchanging, depositing or spending;
+
+The use of known money laundering methods or processes;
+
+The increase in income and/or capital gains;
+
+Unusual possessions (e.g. works of art, expensive vehicles), unusual loan arrangements and increased prosperity that is not proportionate to legitimate income.
+
+Detection of "dirty" money focuses primarily on unusual transactions that indicate possible money laundering. 'Unusual' means that a transaction differs from the norms of a certain industry or the habits of an individual, taking into account their background, normal activities or declared income. Deviation from normal or expected behaviour may indicate risk. The greater the deviation in behaviour and the more frequent the occurrence of unusual situations, the greater the risk for money laundering. Subsequent assessment is required.
+
+In general, unusual transactions have certain characteristics, to make it possible to conceal and to justify the illegal origin of the money, the flow of money, the possession of the money or assets derived from it:
+
+The fact that the origin of the funds is not clear;
+
+The fact that the identities of the parties are not clear;
+
+The transaction does not fit the person's background or legal income, and
+
+The fact that there is no economical or logical explanation for the transaction.
+
+To identify unusual transactions, these general characteristics are transformed into money laundering indicators:
+
+Money laundering indicators for individuals
+
+Tax return examination and pre-audit indicators
+
+Audit indicators
+
+Specific indicators on real estate
+
+Specific indicators on cash
+
+Specific indicators on international trade
+
+Specific indicators on loans
+
+Specific indicators on professional service providers.
+The reporting of unusual transactions
+
+
+The reporting of unusual transactions by tax examiners or auditors will differ within jurisdictions and the requirement to report will be either mandatory or discretionary. All tax examiners and auditors should make themselves aware of these requirements so that appropriate action is swiftly taken.
+
+It may be appropriate to insert here country specific detail on reporting of unusual transactions.
+
+Completing or referring the audit
+
+
+Tax examiners or auditors should adhere to their country's legislation, policies and procedures when considering whether any further audit steps can or should be undertaken. If appropriate, the audit should be referred to the appropriate body for a criminal investigation either on the predicate offence or money laundering. Many tax administrations may conduct their own criminal investigation related to tax crimes and money laundering.
+
+International exchange of information
+
+
+Tax examiners or auditors should be aware of the international flows of money related to national and international crime. Exchange of information between tax administrations of countries, sometimes referred to as mutual assistance, is of great importance in the fight against tax crimes and money laundering. Where there are legal instruments for exchange of information in place, tax examiners or auditors should consider passing on information spontaneously to another country regarding unusual transactions that are relevant for that country, through the competent authority for exchange of information.
+
+For example, a citizen of the one country owns real estate property in another country. The latter supplies the home country of the citizen with all the relevant data, like the notarial deed, the value of the property and information about the mortgage. This enables the home country of the citizen to judge the taxpayers fiscal and financial position, especially regarding the origin of the capital.
+
+Tax auditors should also consider making a request for information from a foreign tax administration if there are issues about cross border activities or transactions. Here is an example:
+
+A citizen of a country has been granted a loan by a private individual from another country without paying interest or repayments. This is unusual and the home country of the citizen could ask questions about the fiscal and financial position of the lender abroad, to establish the existence of the loan and the origin of the money.
+
+
+Money Laundering Indicators for Individuals
+
+Introduction
+
+
+When performing the audit or examining the tax return there are factors to consider that will assist in identifying possible cases of money laundering. These factors or "indicators" may require simple observation skills as well as the examination of the taxpayer's documentation. When individuals spend their criminal proceeds on the acquisition or use of assets and do not have enough legitimate income to explain their expenditures, this is regarded as "unusual use" or "unusual possession" of assets. This in turn raises suspicion. Some criminals will attempt to conceal the origin of the funds by creating an apparently legitimate origin. Pretending that the origin of the funds is legitimate can be done by using criminal money to carry out business transactions with oneself or with third parties.
+
+Indicators
+
+
+Unusual income
+No income or low income compared to normal cost of living
+Taxpayer appears to be living beyond their means
+
+Unusual rise in net worth
+Inheritance from a criminal family member
+Fictitious inheritance
+Voluntary disclosure by known criminals or their relatives
+Gambling and lottery gains
+
+Unusual possession or use of assets
+A person with low income owns or uses expensive assets (car, boat, real estate)
+A person owns assets located abroad, not declared in their tax return
+
+Unusual debt
+Obtaining a mortgage on a relatively low income
+Obtaining a loan from unidentified parties
+
+Unusual transactions
+Buying assets (e.g. a house) on a relatively low income
+Buying assets (e.g. a house) far below market value
+Getting a mortgage on a relatively low income
+Party in property flipping transaction with no real estate background (see Specific Indicators on Real Estate, Example)
+Cash transaction with an unknown person (fictitious sale)
+Information from external sources (e.g. law enforcement, media)
+
+Examples
+
+
+Taxpayer appears to be living beyond their means
+
+A low family income usually indicates that there are limited opportunities for buying, owning or consuming expensive assets. Perhaps the expensive items were bought with additional income from crime. The following are examples of such discrepancies:
+
+A shareholder's financial contributions to a business are not in line with the individual's tax returns;
+
+There is an accumulation of personal wealth when the only known source of funds is from a business source that cannot support it;
+
+An examination of personal bank records does not show funds available to support the life style;
+
+A taxpayer uses offshore credit/debit cards and the source of funds to support the account cannot be identified.
+
+In this example, the illegal proceeds are deposited into a domestic bank account which has not been declared to the tax authorities. These funds are then transferred to an offshore bank account where the money can be withdrawn and used to fund a further offshore bank account which is linked to a credit or debit card. The credit card can be used anywhere to make use of the criminal proceeds.
+
+
+Tax Return Examination and Pre-Audit Indicators
+
+Introduction
+
+
+This section reviews the main indicators in the context of planning for the audit as there are many questions that cannot be answered until the auditor actually begins the audit. There is potential for tax examiners or auditors to identify money laundering indicators at the start of the audit process. These indicators might be built into the initial checks that are carried out to confirm the scope of the audit and the issues to be audited. Some of these preliminary indicators can relate to tax crimes as well as to other criminal activities. When carrying out an audit of an enterprise, the auditors may also audit the individual tax affairs of the business owners. Money linked to tax crimes (e.g. by unrecorded sales) may become visible at some time in the future, for instance, through a personal loan to the company or detected in an unreported personal capital gain on the disposal of an asset acquired with questionable funds by the owner of the company. Other money laundering indicators for individuals can be found under Money Laundering Indicators for Individuals above.
+
+Indicators
+
+
+Unusual off-balance items
+Non-transparent ownership (see Examples below)
+Ownership by relations/partners of criminals
+International structure with no apparent commercial, legal or tax benefits
+Purchase or sale of the companies' shares at a price far above or below estimated value (see Examples below)
+Companies/directors registered at a foreign company service provider's address
+Information from external sources
+
+Unusual balance sheet items
+Ownership contributions of capital are not supported by previous tax returns
+Interest accumulating on loans receivable or loans payable
+Large cash holdings which are excessive for the business
+
+Unusual profit and loss items
+High rise in turnover/sales
+High rise in profit margin
+Business ratio of costs and sales not in line with industry
+
+Examples
+
+
+Non-transparent ownership
+
+When shareholder relationships are transparent, the true beneficial owner is visible. This beneficial owner will also declare their shares and any income earned from the business on their income tax return. If transparency is absent, the identity of the true beneficial owner is hidden. Criminals conceal the assets of criminal origin in this way so they can continue to use or enjoy the assets or obtain a return on their illegal money. The lack of transparency in a shareholder relationship is an indicator for the concealment of assets with a criminal origin.
+
+An important tool for the concealment of the true beneficial owner is the use of offshore entities, such as trusts or offshore corporations. An offshore corporation is a legal entity incorporated in a foreign jurisdiction and usually only conducts economic activities outside the country in which it was incorporated. Such companies play an important role in the concealment, shifting and investment of criminal proceeds as well as in the concealment of the true beneficial owners. An offshore corporation can be quickly established and managed by a local company service provider also acting as a nominee director, often located in a tax haven or strict bank secrecy jurisdiction and with no obligations for publication of annual accounts. This case illustrates the techniques used:
+NON-TRANSPARENT OWNERSHIP
+PLACEMENT LAYERING INTEGRATION INTEGRATION
+JUSTIFICATION
+INVESTMENT
+ILLICIT SOURCE OF INCOME
+OFFSHORE BANK ACCOUNT
+Offshore Company
+INFLATED SHARES
+DOMESTIC BANK ACCOUNT
+Domestic Company	
+SALARY OR DIVIDENDS TO OWNER
+LAUNDERED PROCEEDS
+
+In the case illustrated, the criminal wants to launder $200 000 of illicit income. These funds are deposited in an offshore bank account controlled by offshore company "A" which is owned by the criminal. The criminal wants to have these funds available to them in their home country. The funds are subsequently wired to a domestic bank account by company "A" for the purchase of shares in company "B" which is also owned by the criminal. An inflated value of $200 000 is placed on the shares of company "B". Company "B" now has $200 000 in its account available to the criminal. These funds are now laundered and can be integrated as seen above.
+
+Purchase or sale of the companies' shares at a price far above or below estimated value
+
+Criminals also invest their money in legitimate corporations. They may be interested in a legitimate corporation to earn a return on their criminal proceeds, or because they want to decrease their exposure to risk from their other activities. A legitimate corporation can also be used for criminal activities and criminals do attempt to launder money in the buying, financing and running of legitimate companies. An indicator is the buying of shares at a price way below estimated value, or net worth of the company. The balance of the true price may be paid "under the table". Another indicator is a relatively high capital gain compared to the length of time the company was owned. This may indicate the use of criminal proceeds at the time of purchase. In this situation a simulated capital gain is being bought by asking the buyer to pay an inflated price while refunding the inflated portion of the price to the buyer with the proceeds of crime.
+
+
+Audit Indicators
+
+Introduction
+
+
+In the course of conducting the pre-audit review and developing the audit plan, it is not uncommon to identify unusual indicators which should be examined during the audit. During the audit, the examination of individual transactions may disclose tax risks as well as money laundering indicators.
+
+Indicators
+
+
+Unusual transactions and parties
+Entrepreneur demonstrates poor knowledge about their business
+Transaction in goods or services not fitting company's profile
+Transaction without an evident commercial basis
+Transaction or agreements without relevant supporting documents
+Transactions with offshore companies
+Transaction with suspected criminals or their partners
+Non-transparent / non-identifiable customers, creditors or lenders
+Transactions with business associates or customers that share a common address
+Transactions identified as asset sales but assets cannot be substantiated
+
+Unusual money flows
+Payments to or from third parties who are not involved in the transaction
+Payments to or from unrelated offshore companies or accounts
+Company bank account used as a cash flow-through account
+Non-transparent or non-verifiable origin of the money
+Denominations and currency not the norm in the industry
+Bank deposits not declared as turnover (sales)
+Money flows without apparent economic reason or supporting documentation
+Unusual use of credit cards or debt instruments
+
+Unusual turnover/sales
+Significant increase in (anonymous) cash turnover/sales (see Examples below)
+Large cash payments received for luxury goods sold
+Large cash payments received for goods never delivered (fictitious buyer)
+Transactions without an evident commercial basis or supporting documentation on file
+Transactions and agreements without related costs or relevant supporting documentation
+Transactions with suspected criminals or their partners
+Transactions in goods or services not fitting company's profile
+General description on invoices relating to large cost items
+Cost of sales invoiced by non-transparent corporations
+Profit sharing agreements with no relevant economic base
+Lack of relevant supporting documentation
+Costs made not leading to turnover/sales
+
+Examples
+
+
+Significant increase in (anonymous) cash turnover/sales
+
+
+In this scheme the proceeds of crime are recorded as sales. Because the proceeds of crime are mostly cash, in many cases cash sales are fabricated so that clients and the origin of the money cannot be identified. In the example illustrated above, a superficial examination of the information and records available may appear very straightforward and may not raise suspicion that money is being laundered.
+
+What is actually happening is that the criminal is depositing the illicit funds into the business bank account along with funds from genuine sales. The illicit funds are recorded in the books and records as if the money came from genuine turnover and the overstated income is reported in their tax returns. The company may not have to pay tax on this increased income if the company has trading losses available or where false deductions are also created.
+
+
+Specific Indicators on Real Estate
+
+Introduction
+
+
+Real estate has long been the preferred choice of criminals for hiding ill-gotten gains, and manipulating property prices is one of the oldest known ways to transfer proceeds illegally between parties to a deal. Beyond the emotional appeal there are other factors: the relatively high monetary value, the likelihood that the value will appreciate over time and the opportunities to conceal ownership. The following techniques of money laundering are identified.
+
+The purchase
+
+In purchasing a property the criminal will seek to launder proceeds by providing a portion of the purchase price (from criminal proceeds) in cash "under the table", with the formal sale documents showing the balance of the purchasing price. The purchase of real estate by offshore companies, where the shareholder and the origin of the money is concealed, is also a way of using criminal proceeds.
+
+Financing
+
+A popular form of money laundering is by financing through loan back. This is when a criminal borrows their own criminal money. This is simply done by creating a loan agreement between the criminal or their representative and an apparent third party. Foreign offshore corporations controlled by the criminal are most commonly used as the third party lender.
+
+Renovations and use of real estate
+
+The owner of the property has it altered and pays for renovations with criminal money. Another possibility is where the criminal rents a home and pays for it in cash with the proceeds of crime.
+
+Selling
+
+Selling real estate property to an offshore corporation, for a price that is much higher than the real market price, creates a seemingly legitimate capital gain. Selling real estate property to a third party for a price above market value, while giving a cash rebate at the same time, will also create a seemingly legitimate capital gain.
+Concealment of ownership
+
+The criminal will attempt to conceal their assets, wealth or the origin of the funds used to finance the purchase. Examples include:
+
+Straw man/ straw men or nominees, perhaps a relative of the criminal or a corporation, often offshore, is used as the registered owner of the real estate property. The criminal is therefore able to remain anonymous.
+
+Third party bank accounts or trust accounts, administered by notaries or lawyers, are used to conceal the origin of money to acquire the property.
+
+Rental of real estate
+
+Luxury homes can be rented and the lease can be in the name of a third party or in the name of the criminal. The rent is paid in cash, out of criminal proceeds. This may be more apparent in new real estate developments.
+
+Indicators
+
+
+Unusual transactions and parties
+
+Unusual possession
+Non-transparent ownership
+Lack of income in relation to purchase price
+Persons with criminal records or background
+Social network of a criminal person
+Fast-growing portfolio
+
+Unusual transactions
+Unusual parties to the transaction
+Unusual transaction prices
+Unusual transaction results
+
+Unusual financing
+Unusual origin of the funds
+Unusual lender
+Unusual borrower
+Unusual loan agreement
+Unusual financing result Unusual occupant or user Unusual statements given
+Example
+
+
+Property flipping
+
+Property flipping means that two or more transactions relating to the same property take place within a relatively short period of time. Property flipping can be used to launder criminal proceeds. The buyer pays more than the price which is documented in the purchase agreement and the notarial deed. When the buyer subsequently resells the property for the same price that they actually paid, it appears that they have made a profit. As a result of this transaction, the criminal proceeds have been converted to a seemingly legitimate amount of deposit money.
+
+
+In this example the criminal seeks to launder $200 000 with the apparent legitimate purchase and subsequent sale of a property. The property seller receives full market value
+$700 000) for the property, but agrees to receive an "under-the-table" cash payment of
+$200 000 and a formal payment of $500 000 along with notarial documents listing the sale as $500 000. When the buyer subsequently resells the property for the same price that they actually paid ($700 000), it appears that they have made a profit.
+
+
+Specific Indicators on Cash
+
+Introduction
+
+
+It is common knowledge that drug trafficking generates large amounts of cash in small denominations and, depending on the country where the sales are made, in certain currencies. The proceeds of other types of crime like theft, investment fraud and tax fraud can also generate large amounts of cash. Payments between criminals will be largely in cash. As a result the criminal is left with the problem of having to clean all this dirty money. Consequently, focusing on the cash can lead to the detection of criminals, their proceeds, their criminal activities and their money laundering activities.
+
+The possession of cash has advantages for the criminal. These are its anonymity regarding origin, possession and use. For criminals, the anonymity of the origin gives them the opportunity to create the appearance that the money was derived from an apparent legitimate source. For example, fictitious loans can be set up or illicit funds can be comingled with legitimate sales receipts where taxes may even be paid. Furthermore, possession of cash and its use does not usually leave a connecting paper trail and the owner's identity is not recorded.
+
+Cash also has disadvantages. It is common knowledge that the possession and the use of large sums of cash or its' possession and the use of large denominations of a currency can point to proceeds of crime. Also, the particular currency used could point to a specific country of origin where the bearer of the money does not have any economic presence. A significant problem with regard to cash is its limited spending and investing possibilities. Due to the risk of counterfeit, theft and the high cost of handling cash, businesses are not willing to accept large payments in cash. Also, anti-money laundering regulations where the identification and reporting of transactions is required make it risky for the criminal to spend the money carelessly.
+Indicators
+
+
+Unusual origin of the funds
+Cash received from countries with a high level of corruption or political instability
+Countries with a well-developed financial system
+
+Unusual possession
+Amount, denomination, currency do not fit the bearers' background
+
+Unusual method of transportation
+Concealed transportation of cash
+Clear safety risk in method of transportation
+Costs of transportation compared to alternative methods of transport
+
+Unusual explanations given
+No explanation given for the origin of the cash, incomplete, unlikely or partly incorrect explanation
+No correspondence or supporting documentation in relation to the origin or owner
+
+Unusual destination and spending
+Countries of risk (drug producing, ineffective anti-money laundering regulation, strict banking secrecy)
+Cash received in countries which do not fit bearers' background
+Cash spent on luxury items
+
+Unusual cash flows within corporations
+Cash turnover/sales not to be expected in industry
+Large increase in cash turnover/sales from non-identifiable customers
+Large increase in turnover/sales combined with costs of sale paid by bank
+Deposits or drafts in cash in denominations or currency not to be expected in the industry
+Cash deposits which are not registered as turnover/sales
+Foreign loans received in cash and in local currency
+High cash investment by foreign owner of lender
+An occasional high cash transaction (turnover/sales, cost invoice)
+
+Examples
+
+
+The laundering of cash consists of:
+
+Converting the cash into other denominations or currencies using exchange offices, banks, the black market and through the use of cash driven businesses;
+Physical movement and transportation by car or plane using couriers, specialized value transportation companies;
+
+Depositing money in the banking system through the use of "straw men" (nominees), the use of cash driven businesses or the use of the "smurfing" technique;
+
+Creating an appearance of a legitimate origin by creating fictitious loans or fabricating cash turnover;
+
+Making cash purchases.
+
+
+In this example illicit funds are "smurfed" into domestic bank accounts in amounts below the threshold where the bank would make a report of an unusual or suspicious transaction. From there the money is transferred to off-shore bank accounts where the funds are used to make a "loan" to the criminal. All these acts can be committed by the criminal or by a third-party, domestically and/or abroad.
+
+Countries of risk
+
+Certain countries are considered to be attractive to criminals for their criminal activities and/or money laundering purposes. These are countries that are known for the production and exportation of illegal drugs; cash will flow back to the criminal organisations in the drug-producing countries. The list will also include countries where effective anti-money
+laundering controls are not yet in place and which the criminal will consider attractive for depositing money as well as countries geographically close to the illegal activity with strict banking secrecy laws and a lack of transparency. Having a bank account in such a risk country may indicate money laundering. Cash in small denominations or cash in currencies of countries where individuals or corporations do not have registered legal activities can indicate that the proceeds are from the sale of drugs. The amount of cash, the denominations and currencies can lead to problems with transportation, issues relating to an apparent legal origin or for spending the money. For these reasons illicit money will be exchanged into larger denominations and/or into another currency. Normally such a transaction may be identified as suspicious by the customs agent or the bank receiving the deposit, but the tax auditors may also detect money laundering here by seeing a pattern of transactions over a period of time.
+
+Here is an example based on a real case. A person is travelling from Colombia, the country of risk, to Paris declaring EUR 125 000 in notes of 500. The story the traveller told is that the amount is from legitimate foreign exchange activities in Colombia. He said that he was transporting cash in Euros from Colombia to Europe; he deposits the money into his bank account in Europe, flies back to Colombia and withdraws the cash from ATM machines (automated teller) in the local currency. The local currency is then exchanged on the local black market for Euros at a profitable rate. Once again, the individual flies back to Europe and deposits the money into his bank account. All the while, cash is being declared at customs, profits are being declared and taxes are paid.
+
+From a fiscal point of view, there are no issues but the excessive amount of currency exchanged and physically transported, the large denominations and the country of origin, Colombia, should raise suspicion. Because the real story is that this person was helping a large drug organisation in Colombia to change their proceeds, paid in Euros, into local currency to make payments possible (production, transport, security, investing) in Colombia.
+
+Specific Indicators on International Trade
+
+Introduction
+
+
+In international literature, money laundering through trade is known as 'Trade Based Money Laundering'. It is seen by various organisations, such as the FATF and the World Customs Organization as a key method to move and/or launder large amounts of money derived from crime. The movement of money can be visible through the payment of expenses and visible or not, by moving money via air transportation, road transportation or by smuggling with goods.
+
+Criminal proceeds often need to be transferred to another country, a criminal transaction must be settled or funds must at some time come back to the criminal. These are reasons for criminals to move capital with the capabilities and constructed legitimacy of international trade. The techniques are discussed hereafter.
+
+Over- and under-invoicing
+
+By making over- or under-valuations of imports or exports, capital can be moved and laundered in the form of goods or money flows. Over- and under valuation may take the form of adjustments to price, quantity, quality or a combination thereof.
+
+The goods identified on the invoice may not be the goods actually imported or exported. The documents can contain a price that corresponds to the specified goods but the actual market value of the goods imported or exported may be many times higher or lower. Physical observation is necessary in order to confirm that the goods shipped are the same as the goods invoiced. Goods shipped may actually be strategic goods, goods with restrictions (quotas), goods with a higher import duty or prohibited goods such as raw materials for drugs, weapons and fictitious goods.
+
+Multiple Billing
+
+Multiple billing (or multiple invoicing) is a technique where multiple invoices are created for the same goods. This technique is used to evade import duties or to launder the proceeds of crime.
+
+Fictitious transactions
+
+Finally, transactions can be fictitious. The goods are never delivered or the services are never performed. Yet, with an invoice on hand, funds can be transferred or received. This serves to move money safely through corporate accounts, to falsify profits, to cover up or
+
+settle possible illegal activities. With current technology, it is easy to modify existing invoices or produce fictitious invoices. Information on corporations that is needed to create an invoice is readily available. It is also easy to set up a foreign corporation to deliver or receive goods or services when, in fact, they are neither delivered nor received.
+
+Indicators
+
+
+Unusual origin or destination of goods
+Country is not known for importing or exporting that type of goods
+Risk countries
+
+Unusual supplier or buyer
+Newly formed corporations with large imports and exports
+Volume or type of goods does not fit suppliers' or buyers' profile
+Offshore companies as supplier or buyer
+
+Unusual transportation of goods
+High costs of transportation compared to the value of the goods
+Size or nature of goods does not fit in the method of transportation
+
+Unusual description of goods
+Major differences between customs filings and invoices
+Major differences between description of goods on the invoice and the actual goods transported
+Risky goods: high value goods
+
+Unusual pricing
+Major difference between declared value and market value
+Major difference between insured value and invoice
+
+Unusual financing/payments
+A difference between the origin of the goods and the destination of the money (vice versa)
+A difference between the amount of money paid and the amount invoiced
+A payment made by an offshore company or from an offshore account
+Commission payments to a third party without supporting documentation or economic justification.
+
+
+Specific Indicators on Loans
+
+Introduction
+
+
+Borrowing money does not make one rich and paying debts does not make one poor. Loans therefore are primarily of interest for tax purposes where there are visible affiliated relationships, which lead to questions about the shifting of profits, limiting of the interest deductibility and the placement of informal capital. Also in relationships that are not visible or non-affiliated, loans can be interesting from a tax point of view. The relevant factors for tax purposes are:
+
+The existence of a loan;
+
+The qualification of the loan as a loan or as informal capital;
+
+The deductibility of interest and, in doubtful debts, the deductibility of the principal amount.
+
+Loan structures are widely used to launder criminal funds by disguising the criminal origin of the funds. Criminal money which is concealed or income from drug trafficking can be used to finance real estate or finance the operation of a company without taxation. The relevant factors for money laundering are:
+
+The existence of a loan;
+
+The criminal origin of the funds;
+
+The knowledge about the criminal origin.
+
+A structure with loans is simple and inexpensive to set up. The most common loan structures in which criminally obtained money plays a role are briefly discussed below.
+
+Loan back
+
+The loan back transaction is the best known form of money laundering by means of a loan and is the one most likely to be encountered. Through this arrangement one "borrows" one's own criminal money back without it being visible to the outsider. This is done by creating a loan agreement with a "friendly relationship" or "family abroad". The most common lender in this context is the foreign offshore corporation that has a bank account in a country with strict banking secrecy laws.
+
+
+In this example the criminal is holding large sums of cash they wish to launder. This cash is deposited in various bank accounts in amounts that will not attract the attention of regulators. These amounts are then wired to a foreign bank where they are consolidated in an account controlled by foreign company "A" which is in turn controlled by the criminal. These funds are loaned back to the criminal's domestic company "B" for use by the criminal. The source of these funds appears on the books of company "B" as a loan payable to "A".
+
+Back-to-back loan
+
+A back-to-back loan is a loan where pre-existing collateral, such as a foreign bank balance, a cash deposit of a sum of cash, is the security for the lender. If the security consists of assets that are acquired directly or indirectly from any crime, there is money laundering. In contrast to the loan back, the lender is an independent third party.
+
+Criminal interference
+
+In addition to the real involvement of one party (loan-back) or two parties (back-to- back) there may also be a criminal third party - in the background - that plays a role. This criminal interference achieves the financing of legitimate business activities through loans, supply of capital or comingling of illegal funds and legal funds. For example a criminal with cash proceeds of crime makes it available to legal entity A, with the request to provide a
+loan from its own resources to B. The criminal's cash serves as a guarantee or collateral for lender A. The criminal obtains - without being visible - the investment or other use of the funds through B.
+
+Indicators
+
+
+Unusual origin of the flow of funds
+Countries with strict banking secrecy laws and/or offshore financial centres
+Money flow is not from the country of the lender
+Money flows through a third party trust account for no apparent reason
+
+Unusual lender
+Non-transparent ownership of the lender
+Lender is a non-financial institution (not related to borrower)
+The lender is from a country with an offshore financial centre or a country with strict banking secrecy laws
+
+Unusual financing
+No alternatives for financing are being explored
+Unusual contracting partner / no business or family ties with country of origin
+Absence of supporting documentation between contracting parties
+No written loan agreement
+Identity of lender is unknown (non-transparent lender)
+Absence or lack of sufficient collateral
+No realistic repayment schedule
+Interest rate differs significantly from the market rate
+Absence of supporting documentation between the contracting parties
+Loan comes in cash
+Nature of the use of the funds by the borrower
+Interest payments and repayments do not occur or schedules are not being respected
+No measures for debt collection are taken
+Repayment is made without an actual flow of money to the lender
+Large write-off by the lender either shortly after granting the loan or after years and the security provided was insufficient
+Absence of supporting documentation between contracting parties
+
+Unusual borrower
+People with a low income compared to the loan and mortgage obligations
+Persons with criminal records or background
+
+Unusual occupant or user of what is funded
+Lack of income in relation to rent at market rate
+Persons with criminal records or background
+Social network of criminals
+
+Unusual statements
+No explanation given, incomplete, unlikely or partly incorrect
+Explanation given is not easily verifiable
+
+Specific Indicators on Professional Service Providers
+
+Introduction
+
+
+Professional service providers are corporations or individuals (entrepreneurs) who provide specialised services, which can include:
+
+Legal service providers:
+
+Legal advice;
+
+Legal assistance.
+
+Financial service providers:
+
+Advice in tax matters;
+
+Completion of tax returns;
+
+Bookkeeping, preparing and auditing the company accounts.
+
+Trust or company service providers:
+
+Forming and selling corporations or other legal persons;
+
+Acting or arrang ing for another person to act as a director or secretar y of a company;
+
+Providing a registered office, business address, correspondence or administrative address;
+
+Acting as a trustee or a similar legal arrangement;
+
+Acting as a nominee company director, secretary or shareholder for the ultimate beneficial owner.
+
+A criminal will at some stage require the expertise of a professional service provider. The involvement of a professional service provider is legally required in certain transactions, for
+instance, the services of a notary when completing a real estate transaction. The involvement of a professional service provider in a transaction is attractive for criminals because of:
+
+The nature of the services rendered which might assist in the money laundering process;
+
+The name and reputation of an industry or group of professionals which raises confidence and gives the transaction a certain appearance of legitimacy;
+
+The confidentiality maintained by certain professional service providers;
+
+The third par t y tr ust accounts available from cer tain professional ser v ice providers.
+
+Criminals may request services from unsuspecting professional service providers. There are, on the other hand, professional service providers who will knowingly provide services for criminals to help them conceal the flow of criminal money.
+
+Indicators
+
+
+Unusual service provided by a professional service provider Unusual professional service provider chosen for service Unusual reward for a professional service provider
+Unusual transaction, income or assets of the professional service provider

@@ -1,0 +1,9 @@
+Change in readmissions and follow-up visits as part of a heart failure readmission quality improvement initiative.
+OBJECTIVES:
+The study objectives were to quantify the change in 7-day follow-up visits and 30-day readmissions as part of a hospital quality improvement initiative and to characterize events at 7-day follow-up visits. Some data suggest that outpatient assessments of patients with heart failure within 7 days of hospital discharge may prevent readmissions, although little is known about patient needs at 7-day follow-up visits.
+METHODS:
+We performed a single-center, retrospective chart review of all heart failure discharges at the University of Connecticut Health Center (398 patients) the year before (2008) and the year after (2011) a quality improvement initiative that included mandatory 7-day follow-up visits. We quantified the change in 30-day readmission rate after the initiative, frequency of 7-day follow-up visits, and events at follow-up visits.
+RESULTS:
+The average age of patients with heart failure was 79.9 years in 2011, with 45.9% having systolic heart failure. Thirty-day all-cause readmissions decreased from 27.5% to 19.1% after our quality improvement initiative (P = .024). Frequency of 7-day follow-up visits increased from 19.6% to 46.9% (P < .01). Eighty-one percent of 7-day visits occurred in the University of Connecticut Heart Failure Center with a cardiologist or heart failure nurse practitioner. Fifty-one percent of patients had blood work drawn, and 26% had a medication dose changed. Only 13% of patients had no discrepancy between the discharge and follow-up medication lists.
+CONCLUSIONS:
+Our hospital's 30-day readmission rate for patients with heart failure decreased in parallel with an increase in 7-day follow-up visits. Patients with heart failure were complex and often had diagnostic testing and medication changes at follow-up visits.

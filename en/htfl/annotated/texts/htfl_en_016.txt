@@ -1,0 +1,17 @@
+Remote monitoring after recent hospital discharge in patients with heart failure: a systematic review and network meta-analysis.
+CONTEXT:
+Readmission to hospital for heart failure is common after recent discharge. Remote monitoring (RM) strategies have the potential to deliver specialised care and management and may be one way to meet the growing needs of the heart failure population.
+OBJECTIVE:
+To determine whether RM strategies improve outcomes for adults who have been recently discharged (<28 days) following an unplanned admission due to heart failure.
+STUDY DESIGN:
+Systematic review and network meta-analysis.
+DATA SOURCES:
+Fourteen electronic databases (including MEDLINE, EMBASE and PsycINFO) were searched to January 2012, and supplemented by hand-searching relevant articles.
+STUDY SELECTION:
+All randomised-controlled trials (RCTs) or observational cohort studies with a contemporaneous control group were included. RM interventions included home telemonitoring (TM) (including implanted monitoring devices) with medical support provided during office hours or 24/7 and structured telephone support (STS) programmes delivered via human-to-human contact (HH) or human-to-machine interface (HM).
+DATA EXTRACTION:
+Data were extracted and validity was assessed independently by two reviewers.
+RESULTS:
+Twenty-one RCTs that enrolled 6317 patients were identified (11 studies evaluated STS (10 of which were HH, while 1 was HM), 9 studies assessed TM, and 1 study assessed both STS and TM). No trial of implanted monitoring devices met the inclusion criteria. Compared with usual care, although not reaching statitistical significance, RM trended to reduce all-cause mortality for STS HH (HR: 0.77, 95% credible interval (CrI): 0.55, 1.08), TM during office hours (HR: 0.76, 95% CrI: 0.49, 1.18) and TM24/7 (HR: 0.49, 95% CrI: 0.20, 1.18). Exclusion of one trial that provided better-than-usual support to the control group rendered each of the above comparisons statistically significant. No beneficial effect on mortality was observed with STS HM. Reductions were also observed in all-cause hospitalisations for TM interventions but not for STS interventions. Care packages generally improved health-related quality-of-life and were acceptable to patients.
+CONCLUSIONS:
+STS HH and TM with medical support provided during office hours showed beneficial trends, particularly in reducing all-cause mortality for recently discharged patients with heart failure. Where 'usual' care is less good, the impact of RM is likely to be greater.

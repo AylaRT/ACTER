@@ -1,0 +1,13 @@
+Une forte variation de la validité des données administratives pour documenter l'insuffisance cardiaque
+
+Historique
+De nombreuses études se fient à des données administratives pour repérer les patients souffrant d'insuffisance cardiaque (IC).
+Objectif
+Procéder à une analyse systématique des études qui ont évalué la validité des données administratives pour documenter l'IC.
+Méthodologie
+Des articles révisés par des pairs rédigés en anglais (1990 à 2008) validant les codes de données administratives de la Classification internationale des maladies (CIM)-8, 9 et 10 étaient inclus dans l'étude. Un comité d'experts a déterminé les codes du CIM qui devraient être inclus pour définir l'IC. La fréquence des codes du CIM pour l'IC était calculée au moyen de jusqu'à 16 champs de codage diagnostique inscrits dans les données canadiennes sur les congés des patients pendant les exercices financiers 2000–2001 et 2005–2006.
+Résultats
+Entre 1992 et 2008, plus de 70 codes de CIM différents pour définir l'IC ont été utilisés dans 25 études publiées. Vingt et une études ont validé les données canadiennes sur les congés des patients, trois études, les réclamations des médecins et deux études, les données sur les soins ambulatoires. Dix-huit études ont fait état de la sensibilité (plage de 29% à 89%). La spécificité et la valeur prédictive négative étaient supérieures à 70% dans 17 études. Dix-neuf études ont indiqué une valeur prédictive positive (plage de 12% à 100%). Dix études ont précisé les valeurs kappa (plage de 0,39 à 0,84).
+Pour ce qui est des données canadiennes sur les congés des patients, les codes 428 et I50 du CIM-9 et du CIM-10 ont permis de recenser une IC dans 5,50% et 4,80% des dossiers de congé, respectivement. Les autres codes liés à l'IC du CIM-9 et du CIM-10 n'avaient pas de répercussions sur la prévalence d'IC.
+Conclusion
+Les codes 428 et I50 du CIM-9 et du CIM-10 étaient les plus utilisés pour définir l'IC dans les données de congé hospitalier. La validité des données administratives pour documenter l'IC variait selon les études et les sources de données évaluées.

@@ -1,0 +1,539 @@
+cursus Duurzame Energie in ontwikkelingslanden
+
+
+Hoofdstuk 3
+Windenergie
+
+Inleiding
+Wind is een onuitputtelijke bron van energie. Het lijkt nergens vandaan te komen en het lijkt nergens heen te gaan, maar toch is het er altijd. Al eeuwen lang maakt de mens gebruik van deze duurzame vorm van energie. Denk maar eens aan de Vikingen die met hun zeilschepen de zeeën bevoeren. Toen in de 7e eeuw na Chr. de eerste windmolens werden gebouwd in China en Perzië bleek de wind nuttig te zijn voor een veelvoud van toepassingen, van het malen van graan tot het droogleggen van plassen en meren.
+Hoewel tegenwoordig windenergie naar de achtergrond lijkt te zijn verdreven door de energiewinning uit fossiele brandstoffen, zal het door zijn permanente en goedkope karakter met name in ontwikkelingslanden een belangrijke rol blijven spelen. Naast de grote elektriciteitsopwekkende windturbines die we in het westen vooral kennen, bewijzen de kleinschalige windmolens hun nut maar al te goed bij hele elementaire processen (irrigatie, watervoorziening en laagpotentiële stroomopwekking). In dit hoofdstuk gaan we in op deze kleine windmolens, toegepast in ontwikkelingslanden.
+
+Windenergie kan worden aangewend voor verschillende doeleinden. Ruwweg zijn er twee belangrijke toepassingen: het gebruik van windmolens voor het opwekken van elektriciteit (windgenerators) en voor het oppompen van water(windpompen). Daarnaast kan windenergie worden toegepast voor het aandrijven van werktuigen, bijvoorbeeld voor het malen van graan (oude bekende toepassing in Nederland) of het aandrijven van een houtzagerij. In dit hoofdstuk worden alleen de windpomp en de windgenerator besproken. In de rest van dit hoofdstuk zal achtereenvolgens worden ingegaan op de wind (§1), de windmolen in het algemeen (§2), de windpomp (§3) en de windgenerator (§4). Als laatste komt nog het onderhoud (§5) van windmolens aan bod.
+
+Hoe de wind waait
+Waar komt de wind eigenlijk vandaan? Uiteindelijk wordt de wind veroorzaakt door de zon. Zonnestralen verwarmen de aarde die op haar beurt de lucht verwarmt. Warme lucht wil opstijgen en geeft daardoor een lagere luchtdruk. De lucht koelt af, wordt zwaarder en zal daardoor dalen. Het resultaat is een gebied met hogere luchtdruk. Door temperatuurverschillen ontstaan er dus verschillen in luchtdruk. De lucht zal zich verplaatsen van hogere naar lagere luchtdruk en daardoor ontstaat er wind.
+Doordat de zon de aarde ongelijkmatig verwarmt, begint de wind in de atmosfeer te bewegen. De warme lucht van de evenaar wordt naar de polen gebracht en de koude poollucht naar de evenaar. Deze circulatie zorgt ervoor, dat de polen niet te koud en het gebied rond de evenaar niet te warm worden. De lucht beweegt echter niet rechtstreeks van de evenaar naar de polen en terug. De wind wordt beïnvloed door het draaien van de aarde. De wind die van de evenaar naar het noorden waait, wordt een beetje naar het oosten gedraaid door het draaien van de aarde. De warme lucht die van de evenaar naar de polen wordt geblazen, koelt af. Op 30º noorder- en zuiderbreedte daalt de lucht terug naar het aardoppervlak.
+
+Niet al de lucht wordt van daaruit teruggeblazen naar de evenaar. Het rondje dat door de wind geblazen wordt, wordt een cel genoemd. Er zijn op aarde drie van deze cellen.
+
+de Hadley cel (1)
+De cel ligt tussen de evenaar en 30º noorder- en zuiderbreedte. De wind aan de oppervlakte van de aarde in deze cel wordt passaatwind genoemd.
+de Ferell cel (2)
+De cel ligt tussen de 30 en 60 º noorder- en zuiderbreedte. De wind in deze cel is in de winter sterker. De lucht draait bij de 30º grens, en waait naar de polen. Bij 60º stijgt de lucht op en waait terug naar de 30º grens. Niet alle lucht waait terug. Een deel van de lucht uit de Ferell cel wordt opgenomen in de Poolcel.
+
+de Poolcel (3)
+De Poolcel ligt op de polen. Tot 60º noorder- en zuiderbreedte. Op 60º stijgt de lucht op, boven de pool daalt de lucht. De winden in deze cel zijn normaal gesproken koud en droog.
+
+Zoals hiervoor is beschreven buigt de draaiing van de aarde de luchtstromen af. De winden naar de evenaar toe komen daardoor uit het oosten, de zgn. passaatwinden. Tussen de 30º en 60º noorder- en zuiderbreedte komt de lucht van warme tropische gebieden en koude poolgebieden bij elkaar. Hierdoor kan het weer snel veranderen, de ene keer droog en warm, de andere keer nat en koud. De wind in deze gebieden komt meestal uit het westen. Dit zijn zgn. heersende winden. Door o.a. bergen, bewolking, kustlijnen e.d. worden deze winden afgebogen. In vele gebieden zal de windrichting dan ook variëren.
+
+Mondiale winden
+
+poolse oostenwinden
+heersende westenwinden
+windstilten
+noord-oost passaat
+zuid oost passaat
+windstilten
+heersende westenwinden
+poolse oostenwinden
+
+De wind op een bepaalde locatie is afhankelijk van zowel mondiale als locale winden.
+Mondiale winden zijn steeds terugkerende winden die over grote gebieden tegelijkertijd waaien. Ze worden o.a. veroorzaakt door de draaiing van de aarde, de draaiing van de aarde om de zon en door de enigszins ronde vorm van de aarde. Lokale winden zijn afhankelijk van het landschap. Een goed voorbeeld zijn bergachtige gebieden, die de wind sterk kunnen beïnvloeden.
+
+Geschiedenis van windenergie
+Windenergie heeft zijn nut in het verleden maar al te goed bewezen. Al eeuwen wordt windenergie gebruikt bij zeilboten, het pompen van water, het malen van zaden en graan en tegenwoordig ook voor het opwekken van elektriciteit.
+De eerste windmolens werden gebruikt in Perzië (het huidige Iran) in de 5e eeuw na Christus, voor het vermalen van graan. Vanaf daar verspreidde het gebruik van windmolens zich door de Islamitische wereld. In de 11e eeuw na Chr. werden windmolens intensief gebruikt in het hele Midden Oosten en in de 13e eeuw werden ze ook geïntroduceerd in Europa. Tijdens de Middeleeuwen hebben ze een belangrijke rol gespeeld bij het malen van graan, het zagen van hout en natuurlijk…het voor Nederland zo kenmerkende droogmalen van land. Maar in het begin van de 19e eeuw, na de uitvinding van de stoommachine en de opkomst van fossiele brandstoffen, ging de populariteit en de ontwikkeling van windmolens met rasse schreden achteruit. Ondanks dat zijn eind 19e eeuw in Amerika veel windmolens in gebruik genomen voor de irrigatie van landbouwgrond en de watervoorziening voor vee. De oliecrisis van 1973 zorgde echter voor een hernieuwde interesse in windenergie omdat de ooit zo goedkope fossiele brandstoffen enorm duur werden.
+
+Traditionele toepassing van een windmolen op een boerderij
+Tegenwoordig heeft windenergie door de toenemende bezorgdheid over het milieu een plek verworven in veel overheidsprogramma's. Waterpompende windmolens worden nog steeds wereldwijd veel gebruikt. Verkoopcijfers wijzen op een wereldwijde verkoop van 5.000 tot 10.000 waterpompende windmolens per jaar. De markt voor elektriciteitsgenerende windmolens is snel groeiend, vooral in Europa, waar momenteel enorme turbines van enkele megaWatts elektriciteit per molen aan het net leveren. De installatie van kleinere windmolens in ontwikkelingslanden neemt ook aanzienlijk toe. Op afgelegen plaatsen bijvoorbeeld, waar geen elektriciteitsaansluiting is of de prijs ervan onacceptabel hoog is, doen kleinschalige windgeneratoren het goed. Vooral de kleine (50W) stand-alone batterij-opladende windmolens nemen aanzienlijk in aantal toe.
+
+Voor- en nadelen van windenergie
+De voornaamste voordelen van windenergie zijn: de meeste technologie op het gebied van windenergie is oud en goed ontwikkeld; windturbines opereren automatisch, vragen weinig onderhoud en kunnen daardoor voor lange tijd zonder nieuwe investeringen; er is geen brandstof nodig, waardoor de gebruikskosten erg laag zijn; de technologie is eenvoudig en robuust; windmolens kunnen in ontwikkelingslanden zowel geheel als gedeeltelijk worden geproduceerd (bijvoorbeeld de kop geïmporteerd en de toren lokaal geproduceerd); er wordt geen CO2 of andere schadelijke bij-producten geproduceerd.
+
+Enkele nadelen van windenergie zijn: afhankelijk van de geografische ligging en lokale geschiktheid; de krachtvoorziening kan aanzienlijk variëren waardoor er opslag nodig is (zoals waterreservoirs of batterijen); in perioden met lage windsnelheden, kan het vermogen van de windturbines te laag zijn om aan de vraag te voorzien. Een back-up systeem is dan nodig (bijv. een handpomp, dieselpomp of diesel generator), die de kosten dan weer verhogen; niet overal is de potentiële markt groot genoeg om de technische kennis en apparaten te ondersteunen die nodig zijn voor een eenvoudige uitvoering; de aanschafkosten zijn vaak hoog in vergelijking met alternatieven zoals een dieselgenerator. Dit maakt windenergie een onaantrekkelijke investering voor kapitaalarme mensen, ondanks de mogelijk lagere kosten op lange termijn.
+
+Vermogen van de wind
+Het vermogen van de wind door oppervlak A is afhankelijk van de windsnelheid (m/s) en de lucht- dichtheid ρ. De kinetische energie (bewegingsenergie) per seconde ofwel het kinetische vermogen van wind wordt in formule weergegeven door:
+
+Pkin = ½ . ρ . A . v3 (W) waarbij ρ = dichtheid van lucht ≈ 1,2 kg/m3
+
+A = oppervlakte in m2
+v = windsnelheid in m/s
+
+In onderstaande tabel zijn voor een aantal windsnelheden het bijbehorende energieaanbod berekend bij een aangenomen luchtdichtheid van 1,2 kg/m3.
+
+Windsnelheid in m/s	Beaufort	Energieaanbod in W/m2
+zwakke wind
+matige wind
+vrij krachtig
+harde wind
+storm
+Windsnelheid
+Uit de vorige tabel blijkt duidelijk de grote invloed van de windsnelheid op het potentiële vermogen van de wind. De derdemacht betekent dat, als de windsnelheid op een bepaalde locatie verdubbelt, de energie in de wind 8 keer zo hoog wordt! Het moge duidelijk zijn dat goede windgegevens noodzakelijk zijn om na te gaan hoeveel vermogen uit de wind gehaald kan worden.
+
+De windsnelheid kan worden gemeten met een anemometer (zie figuur hiernaast). De anemometer bestaat uit drie of vier halve, holle bollen die bevestigd zijn aan een verticaal draaibaar asje. Het toerental van het asje is een maat voor de windsnelheid.
+
+Nog eenvoudiger, maar minder nauwkeuriger is de wildse vaan. Deze meter wordt in de wind gehouden met een windvaan. Plaat A is scharnierend opgehangen. Bij toenemende windsnelheid wordt de hoek tussen de plaat en de verticale stand steeds groter. De hoek is dus een maat voor de windsnelheid.
+
+Anemometer
+De windkracht wordt vaak uitgedrukt in de z.g. schaal van Beaufort. Deze schaal is ontwikkeld door de Ier Sir Francis Beaufort in 1805. Oorspronkelijk werd dit gebruikt om windsnelheden op zee uit te drukken, maar nu wordt hij ook op land gebruikt. De windkracht wordt op 10 meter boven land gemeten. In onderstaande tabel is een overzicht gegeven van de schaal van Beaufort.
+
+Windkracht	Beschrijving	Windsnelheid in m/s
+Windstil	< 0.5
+Lichte wind	0.5-1.5
+Lichte wind	2-3
+Matige wind	4-5
+Matige wind	6-8
+Vrij krachtige wind	9-10
+Krachtige wind	11-13
+Harde wind	14-17
+Stormachtige wind	18-20
+Storm	21-24
+Zware storm	25-28
+Zeer zware storm	29-33
+Orkaan	> 33
+Wildse vaan
+
+Voor het vaststellen van toepassingen voor wind- energie is het vaak zinvoller om de gemiddelde jaarlijkse windsnelheid op een bepaalde plek te weten. Dit kan bijvoorbeeld worden opgevraagd bij een weerstation, bij een universiteit of een vliegveld in de buurt. Hierbij dient wel rekening te worden gehouden met het feit dat bijvoorbeeld vliegvelden op relatief vlakke, dus winderige locaties liggen, waardoor de windsnelheid niet representatief hoeft te zijn voor de regio. In ontwikkelingslanden doen weerstations vaak windmetingen voor landbouwdoeleinden, waarbij ze de windsnelheid meten op 2 meter boven de grond. Aangezien de rotor van een windmolen een stuk hoger zit (vaak hoger dan 6 meter) zijn deze gegevens niet altijd geschikt voor windenergie toepassingen.
+In sommige gevallen kan het belangrijk zijn om ook de verdeling van de wind over de seizoenen te weten, bijvoorbeeld voor een wateroppompende windmolen. Het kan zijn dat het droge seizoen ook het seizoen is met weinig wind. In dat geval is de gemiddelde jaarlijkse windsnelheid geen goede graad- meter, maar is de gemiddelde windsnelheid in het droge seizoen van belang. Hiernaast is een voorbeeld te zien van de verdeling van de windsnelheid over een jaar.
+
+Voor het selecteren van een goede plek voor een windmolen, komt er echter meer kijken dan alleen de gemiddelde windsnelheid en de seizoensverdeling. De geschiktheid voor toepassingen voor windenergie zijn erg locatie-specifiek. Het is dan ook vaak nodig om ter plekke uitgebreide windmetingen te doen (bijvoorbeeld met een anemometer). Heuvels, bomen en andere obstakels kunnen een grote invloed hebben op de stroming van de wind zoals in onderstaande figuur is te zien.
+
+Voorbeeld van een verdeling van de gemiddelde windsnelheid per maand over een jaar
+
+goed slecht
+
+Invloed van obstakels op de stroming van de wind
+Windmolens
+
+Inleiding
+In een windmolen wordt kinetische energie van de lucht omgezet in mechanische energie. Deze mechanische energie kan gebruikt worden om een werktuig aan te drijven, bijvoorbeeld een generator, een pomp of een graanmolen. Dit geschiedt doormiddel van één of meer wieken. Deze worden door de wind in beweging gezet. Meestal bewegen de wieken zich in een ronddraaiende beweging. In dit geval wordt de ronddraaiende constructie van de wieken de rotor genoemd. Een uitzondering vormt de zgn. flapping vane windpomp. Deze 'molen' heeft geen rotor maar een arm met een scharnierende vaan, die door de wind op en neer wordt bewogen.
+
+Onderdelen van een windmolen
+De belangrijkste onderdelen van een windmolen zijn:
+
+Flapping vane windpomp
+De toren. Deze zorgt ervoor dat de molen hoog boven de grond zit en daardoor goed wind vangt.
+De rotor. Deze vangt de wind en gaat daardoor draaien, en zet de bewegingsenergie in de wind zo om in mechanische energie. De rotor wordt gevormd door een of meerdere wieken.
+Belasting. Hierin wordt de energie die wordt gevangen door de rotor nuttig gebruikt. Dit kan bijvoorbeeld een pomp of een elektrische generator zijn.
+Overbrenging. Deze zorgt ervoor dat de rotor en de generator of pomp aan elkaar gekoppeld worden. Dit kan bijvoorbeeld een tandwielkast of een krukas zijn, soms is alleen een as voldoende.
+Een installatie om de windmolen op de wind gericht te houden. Voor kleine windmolens in ontwikkelingslanden is dit meestal een vaan, maar er zijn ook andere mogelijkheden.
+Een stormbeveiliging. Deze moet ervoor zorgen dat de krachten op de windmolen beperkt worden bij harde wind. Hier zijn verschillende mogelijkheden voor.
+
+Verschillende types windmolens
+
+
+Er zijn in de loop der tijd talloze types windmolens ontwikkeld. Hieronder worden een aantal types kort besproken.
+
+De horizontale as windmolen
+Dit is waarschijnlijk het meest bekende type windmolen. Dit type komt met verschillende aantalen wieken voor. Degenen met weinig wieken worden vooral gebruikt voor elektriciteit opwekken, die met veel wieken voor het oppompen van water.
+
+De verticale as windmolens
+De verticale as windmolens zijn verruit in de minderheid, toch worden ze hier kort genoemd. De twee belangrijkste types zijn de Darrieus rotor en de Savonius rotor. Beide hebben als voordeel dat de windrichting niet uitmaakt voor de werking, ze hoeven dus niet te kruien. De Savonius-rotor is erg inefficiënt en de draaisnelheid is beperkt. De Darrieus heeft als nadeel dat het niet uit zichzelf begint te draaien. Dit kan opgelost worden door er een kleine Savonius-rotor aan te koppelen.
+
+Overige types
+Naast de genoemde types, die nog redelijk vaak voorkomen zijn er nog allerlei andere ideeën geweest, bijvoorbeeld om een trechter voor een windmolen te zetten zodat de wind geconcentreerd wordt. Het is echter over het algemeen makkelijker om de wieken van de rotor te verlengen, al zal de molen dan wel een lager toerental hebben. Er zijn wildere ideeën zoals een wagen met een zeil met een generator aan de wielen.
+
+Savonius rotor
+
+Darrieus rotor
+
+Kruien
+
+
+Omdat de wind niet altijd uit dezelfde richting komt, betekent dit dat de molen moeten kunnen draaien, dit heet kruien. Verticale as windmolens werken bij iedere windrichting, zij hoeven dus niet te kruien. Er zijn verschillende systemen ontwikkeld om een windmolen op de wind gericht te houden. De meeste Oudhollandse molens worden met de hand op de wind gezet, het is echter handiger om dat automatisch te laten gebeuren. Bij kleine windmolens gebeurt dit meestal met een vaan achter de rotor.
+
+Enkele manieren om te kruien: Handkruien; Dit wordt vooral toegepast waar een nagenoeg constante windrichting heerst. Indien de windrichting te veel afwijkt, wordt de rotor met de hand in de juiste stand gezet.
+Door een windvaan; De windvaan houdt de rotor op de wind doordat de vaan zichzelf opstelt in de windrichting. In deze stand ondervindt de vaan de minste luchtweerstand.
+Windservo; Deze bestaat uit een kleinere rotor (de kruimolen) die haaks op de rotor is geplaatst.
+Wanneer de rotor niet loodrecht op de wind staat, dan vangt de kruimolen wind waardoor die zal gaan draaien. De kruimolen verdraait de stand van de rotor via een overbrenging, totdat deze weer loodrecht op de wind staat. De kruimolen vangt dan geen wind meer en stopt.
+Door het zelfrichtend effect van de rotor. De rotor is hierbij achter de toren opgesteld. De wind houdt de rotor dus in de goede positie.
+
+Stormbeveiliging
+
+
+Bij hoge windsnelheden worden de krachten op de windmolen erg groot. Tenzij de molen extreem zwaar en sterk (en dus duur) uitgevoerd wordt, zullen deze krachten op één of andere manier beperkt moeten worden. Dit houdt in dat het oppervlak en de draaisnelheid van de molen beperkt moeten worden. Vaak gebeurt dit door de molen uit de wind te draaien, zodat de wind er langs waait in plaats van er tegenaan. Er zijn verschillende methodes ontwikkeld om dit voor elkaar te krijgen. De vaan, die de molen normaal in de wind houdt kan bijvoorbeeld bij harde wind wegklappen. Windmolens zonder een stormbeveiliging hebben meestal een korte levensduur. Een molen moet beschermd zijn tegen hoge windsnelheden om de kracht op de rotor en het toerental van de rotor te begrenzen.
+
+Voorbeeld van een stormbeveiliging
+Er zijn vele soorten stormbeveiligingen. Globaal kan er een onderscheid gemaakt worden in: Handbeveiliging. Bij storm moet de molen met de hand stil gezet worden. Bijvoorbeeld bij een molen met zeilen als wieken worden de zeilen ingerold. Halfautomatische beveiliging. Bij te hoge windsnelheden beveiligt de molen automatisch, maar moet na de storm met de hand teruggezet worden in de normale stand.
+Automatische beveiliging. De molen beveiligt zichzelf geheel automatisch bij storm en bij zachtere winden gaat de molen automatisch terug in de normale stand.
+
+De werking van stormbeveiligingen kan als volgt zijn:
+De rotor draait bij hoge windsnelheden uit de wind, daardoor vangt die minder wind.
+Remkleppen op de wieken of op afzonderlijke armen. Bij hoge windsnelheden verdraaien de remkleppen dusdanig dat ze veel luchtweerstand veroorzaken en zodoende de rotor afremmen.
+Het blokkeren van de rotor zodat deze helemaal niet meer draait.
+
+Toren
+
+
+De rotor wordt meestal op een toren geplaatst om:
+Boven obstakels zoals begroeiing e.d., uit te komen en zodoende meer wind te kunnen vangen.
+Te voorkomen dat de draaiende wieken iemand kunnen raken.
+
+Het gedeelte van de molen dat op de toren staat en waaraan de rotor is bevestigd wordt de kop genoemd. Er zijn meerdere torenconstructies mogelijk, zie onderstaande figuur.
+
+Verschillende types torens
+
+Windmolenterminologie
+In dit gedeelte worden enkele termen uitgelegd, die veel worden gebruikt bij windmolens. O.a. de vermogenscoëfficiënt (Cp), de snellopendheid (λ) en de ontwerpwindsnelheid komen aan bod. Er zal met name in worden gegaan op de het belang van deze variabele bij het kiezen van de juiste molen.
+
+Vermogens coëfficiënt Cp
+
+
+De windmolen zet niet alle bewegingsenergie van de wind om in mechanische energie. Anders zou de lucht achter de windmolen geen bewegingsenergie meer hebben en dus stilstaan. Er zou dan geen lucht langs de rotor stromen. Het gedeelte van de windenergie dat wordt 'onttrokken' door de rotor wordt uitgedrukt in de vermogenscoëfficiënt Cp. Het vermogen van een windmolen kan op deze manier worden uitgedrukt in de formule:
+
+Protor = Cp . ½ . ρ . A . v3 (W)
+
+In deze formule is A het rotoroppervlak. Dit is niet gelijk aan het oppervlak van de wieken, maar aan het hele oppervlak die de wieken bestrijken als ze draaien.
+De Cp-waarde geeft als het ware het rendement van de rotor weer en kan in theorie maximaal 0,59 bedragen. Door allerlei verliezen is deze in de praktijk lager. De maximale Cp-waarde van een type molen wordt bepaald door de vorm van de rotor. Deze Cp waarde treedt echter alleen op als de verhouding tussen windsnelheid en het rotortoerental precies goed is. Voor andere verhoudingen is de
+Cp-waarde lager. Dit verband kan weergeven worden in een zogenaamde Cp-λ-curve. λ is de snellopendheid van de rotor: de snelheid van de punten van de wieken gedeeld door de windsnelheid.
+
+snelheid van uiteindes van wieken		toerental.π.Diameter
+λ =	windsnelheid	=	windsnelheid
+
+De snellopendheid
+
+
+In onderstaande grafiek worden de Cp-λ curves van een aantal types windmolens gegeven.
+
+Cp-λ curve
+
+Ter illustratie kijken we naar het verschil tussen een rotor met veel wieken en één met drie wieken. Het eerste wat opvalt is dat de maximale Cp waarde van de veel-wieker een stuk lager is dan die van de drie-wieker. De veelwieker is dus minder efficiënt. Toch worden molens met veel wieken veel gebruikt om water op de pompen. De reden daarvoor is dat de maximale waarde van Cp bij een lagere snellopendheid optreedt. Als beide windmolens dezelfde ontwerpwindsnelheid hebben (dit is de windsnelheid waarbij Cp maximaal is) dan zal de veel-wieker bij die snelheid relatief langzaam draaien en de drie-wieker snel. Er wordt ook wel gezegd dat de veel-wieker een langzaamloper is en de drie-wieker een snelloper.
+Het vermogen van een windmolen is evenredig aan de draaisnelheid vermenigvuldigd met het koppel dat de molen levert. Bij een langzaamloper is de draaisnelheid klein, het koppel zal dus relatief groot zijn. Dit is belangrijk voor waterpompende windmolens. De pomp vraagt meestal een groot koppel om de waterkolom omhoog te kunnen tillen, de snelheid is van minder belang. Bij elektriciteitsopwekking is het tegenovergestelde het geval. De meeste generatoren werken het best met een hoge snelheid en een laag koppel. Daarom zijn elektriciteitsopwekkende windmolens meestal snellopers.
+
+De ontwerpwindsnelheid
+
+
+Zoals in de vorige paragraaf is besproken heeft ieder rotortype een maximale-Cp waarde, die optreedt bij een waarde van de snellopendheid. Die waarde kan echter zowel optreden bij een hoog toerental en hoge windsnelheid, als bij een laag toerental en een lage windsnelheid. Dit is afhankelijk van de belasting.
+Neem bijvoorbeeld een waterpompende windmolen. Je kunt die molen gebruiken met een kleine pomp, die per omwenteling van de molen maar een klein beetje water oppompt. Dan zal de molen maar weinig wind nodig hebben om te beginnen met draaien (lage startsnelheid), en ook bij een vrij lage windsnelheid de meest gunstige snellopendheid bereiken. Gaat het harder waaien dan zal de molen minder efficiënt werken. Dezelfde molen met een grotere pomp zal bij lage windsnelheden minder efficiënt werken, en bij hogere windsnelheden efficiënter. Voor generatoren geldt iets dergelijks.
+Bij het ontwerpen van een windmolen wordt meestal een ontwerpwindsnelheid gekozen. De kenmerken van de belasting worden hier dan op aangepast, zodanig dat bij de ontwerpwindsnelheid de windmolen maximaal efficiënt is.
+Of de windmolen geschikt is voor een gebied met lage of hoge windsnelheid wordt vooral bepaald door de ontwerpwindsnelheid. Het effect van de ontwerpwindsnelheid op de opbrengst per jaar en op hoe vaak de windmolen draait is weergeven in de onderstaande grafiek. Dit is twee keer gedaan, één keer voor een gemiddelde windsnelheid van 4 m/s en één keer voor 7 m/s. Deze grafiek is gemaakt voor een vereenvoudigde situatie en geldt dus niet voor alle windmolens en belastingen, toch geeft deze grafiek een indicatie van het effect van de ontwerpsnelheid.
+
+Verband tussen ontwerpwindsnelheid en opbrengst en draaipercentage
+
+Ontwerpwindsnelheid m/s
+
+Bij deze grafiek valt het volgende op te merken:
+De ontwerpwindsnelheid waarbij de molen de maximale opbrengst per jaar oplevert, is niet gelijk aan de gemiddelde windsnelheid, maar iets hoger. Dat komt doordat de hogere windsnelheden veel energierijker zijn. Het is dus belangrijker dat de windmolen efficiënt is bij hoge windsnelheden dan bij lage windsnelheden.
+Als de ontwerpwindsnelheid zo gekozen wordt dat de jaaropbrengst maximaal is, dan draait de molen maar ongeveer 25% van de tijd. Als de windmolen de enige bron van energie is, dan kan dit een probleem zijn. Bij een elektriciteitsopwekkende windmolen zijn dan bijvoorbeeld veel accu's nodig om in periodes met weinig wind toch elektriciteit te hebben. Het kan dan toch handiger zijn om een lagere ontwerpsnelheid te kiezen.
+Als een windmolen is ontworpen voor een gebied met gemiddeld 4 m/s, dan zal die het ook doen bij een gemiddelde windsnelheid van 7 m/s. Hij zal echter lang niet zoveel opwekken als een molen die ontworpen is voor 7 m/s gemiddeld.
+Een windmolen met een ontwerpsnelheid van 9 m/s, is ideaal voor een gebied met 7 m/s gemiddeld (als het gaat om de jaaropbrengst). Maar diezelfde windmolen in een gebied met 4 m/s zal bijna nooit werken en de jaaropbrengst zal zeer teleurstellen.
+
+Dit geeft aan dat het zeker in gebieden met weinig wind belangrijk is om een windmolen te kiezen die daar ook voor ontworpen is. Ook geeft het aan dat het belangrijk is om schattingen van gemiddelde windsnelheden niet zomaar voor waar aan te nemen. Als die schattingen wat optimistisch waren, dan is dat desastreus voor de opbrengst van de molen.
+
+Andere belangrijke windsnelheden
+
+
+De ontwerpwindsnelheid geeft een indicatie of een windmolen geschikt is voor een bepaald gebied. Deze wordt echter meestal niet gegeven door fabrikanten. Wel wordt vaak de volgende windsnelheden gegeven: Cut-in windspeed: Dit is de windsnelheid waarbij de molen begint te produceren.
+Rated windspeed: Dit is de windsnelheid waarbij de molen de rated-power levert. Dit is het vermogen dat de fabrikant aangeeft op de windmolen. Vaak is dit het maximale vermogen, maar soms is het maximale vermogen nog wat hoger.
+Furling windspeed: Dit is de windsnelheid waarbij de stormbeveiliging in werking treedt.
+Daardoor neemt de opbrengst plotseling sterk af. Niet alle stormbeveiligingssystemen hebben een duidelijke Furling windspeed.
+Cut-out windspeed: Dit is de windsnelheid waarbij de windmolen ophoudt met werken, de stormbeveiling is dan volledig in werking. Niet alle windmolens hebben een echte cut-out windspeed.
+Survival windspeed: Dit is de hoogste windsnelheid waarbij de molen nog heel blijft.
+De vermogenscurve
+
+
+In sommige gevallen wordt ook een vermogenscurve gegeven. Deze curve geeft bij iedere windsnelheid het vermogen. Hieronder staat een voorbeeld van zo'n curve. Aan de hand van deze curve kan een schatting gemaakt worden van de jaaropbrengst. Hiervoor is wel een windverdeling nodig. Als alleen de gemiddelde windsnelheid bekend is, kan een schatting worden gemaakt van de windverdeling met behulp van een Rayleigh-verdeling. De meeste windverdelingen lijken hier op. Deze verdeling is getoond onder de vermogenscurve.
+
+Een vermogenscurve
+
+De Rayleigh verdeling als benadering van het voorkomen van verschillende windsnelheden
+
+Percentage van de gemiddelde windsnelheid
+
+Rayleigh verdeling
+De verwachte jaaropbrengst kan berekend worden door een aantal windintervallen (bijvoorbeeld tussen 10 en 14 m/s) te kiezen, en per interval te bepalen hoeveel uur per jaar de windsnelheid binnen dat interval valt. Dan kan voor een windsnelheid in het midden van het interval (in het voorbeeld 12 m/s) uit de vermogenscurve afgelezen worden wat het vermogen bij die windsnelheid is. Dit kan dan vermenigvuldigd worden met het aantal uren per jaar en gesommeerd worden. Dit geeft de verwachtte jaaropbrengst. In onderstaande tabel staat een voorbeeld. Hiervoor is de vermogenscurve van de vorige pagina gebruikt. Er is uitgegaan van een gemiddelde windsnelheid van 15 mph (mijl per uur) en een Rayleigh verdeling zoals op de vorige pagina.
+
+Windpompen
+
+Inleiding
+Een windmolen kan gebruikt worden om water op te pompen. Een waterpompende windmolen wordt ook wel 'windpomp' genoemd. In ontwikkelingslanden is dit de meest gebruikte toepassing van windenergie. De figuur hiernaast geeft een beeld van de meest gebruikelijke vorm van windpompen: een windmolen met horizontale rotoras en een windvaan om het in de wind te richten. Het aantal bladen van de rotor van een windpomp varieert van 4 tot 24. De rotor is via een overbrenging gekoppeld aan een pomp, waardoor de draaiende beweging wordt omgezet in een pompende beweging. In deze paragraaf zullen eerst de meest gebruikte pompen worden besproken. Daarna wordt achtereenvolgens ingegaan op de opbrengst, de opslag, de overbrenging, haalbaarheid en de toepassingen van windpompen.
+
+Pompen
+
+De zuigerpomp
+rotor
+vaan
+toren
+opslagtank
+put
+pomp
+
+Waterpompende windmolen
+
+Het meest toegepaste type pomp is de enkelwerkende zuigerpomp (zie onderstaande figuur). Deze pomp bestaat uit een zuiger, een cilinder en twee kleppen, namelijk de zuiger- en de voetklep. In A staat de zuiger in de bovenste stand en gaat omlaag. De zuigerklep gaat open en de voetklep wordt dichtgedrukt. In B gaat de zuiger omlaag waarbij het water door de zuiger stroomt. In C gaat de zuiger van de onderste stand omhoog. De zuigerklep wordt dichtgedrukt en de voetklep gaat open. In D drukt de zuiger het water omhoog en wordt 'nieuw' water aangezogen via de geopende voetklep. Hierna begint de cyclus opnieuw.
+
+Werking enkelvoudige zuigerpomp
+
+Een krukas zet de draaiende beweging van de rotor om in een op- en neergaande beweging voor de zuigerpomp. Een molen met deze pomp kan herkend worden aan het grote aantal wieken. (8 tot 24) Dit grote aantal wieken is noodzakelijk, omdat bij het op gang komen veel kracht nodig is. De hoek van de wieken ten opzichte van de wind is zodanig dat er veel koppel (kracht) en weinig toeren wordt geleverd. De rotor draait langzaam vergeleken met andere typen en men spreekt daarom van een lage snellopendheid (zie §3.2.3). Soms wordt een vertragingsmechanisme gebruikt (een soort versnellingsbak) om het geleverde koppel verder te vergroten. De startwindnelheid is door het grote aantal wieken laag, zodat bij weinig wind de rotor al draait en er water wordt gepompt.
+Vooral in situaties waarbij een groot hoogteverschil moet worden overbrugd en de watervraag relatief laag is, wordt gekozen voor de zuigerpomp.
+
+Naast enkelwerkende bestaan er ook dubbelwerkende zuigerpompen. Deze pompen het water zowel bij op- als neergaande bewegingen omhoog. Zij hebben een veel ingewikkelder kleppensysteem dan een enkelwerkende zuigerpomp, maar zorgen wel voor een beter verdeelde mechanische belasting. Dubbelwerkende zuigerpompen worden veel minder toegepast. 
+
+Werking dubbelwerkende zuigerpomp
+
+uitvoer
+terugslagklep
+
+afgedichte zuiger
+
+invoer
+
+De Touwpomp
+
+
+De touwpomp is een erg eenvoudig en goedkoop te bouwen pomp die voor een groot deel uit afval materiaal gebouwd kan worden. Juist door zijn eenvoud kan de touwpomp gebouwd en onderhouden worden door niet technisch onderlegde personen, hoewel enige praktische handigheid vereist is.
+In de figuur hiernaast is de principe-opbouw van een touwpomp te zien. Een touwpomp bestaat uit een (opvoer)buis waardoor een touw loopt waaraan zuigertjes zijn bevestigd. De buis reikt aan de onderkant in het (grond)water en aan de bovenkant steekt hij een eind boven de grond uit. De zuigertjes die aan het touw zijn bevestigd passen met een kleine speling (0,2…0,5mm) in de buis. Door nu het touw door de buis te trekken, zal doordat de zuigertjes de buis min of meer afsluiten, een onderdruk worden gecreëerd waardoor water mee omhoog wordt genomen. Een waterfilmpje tussen de zuiger en de buiswand zorgt voor de smering en draagt ook bij aan de afsluiting tussen de zuigertjes en de buis. Aan de bovenkant loopt het touw over een wiel waarmee het touw door de buis wordt getrokken. Aan de onderkant van de buis bevindt zich een constructie die er voor zorgt dat het touw soepel in de buis glijdt. De touwpomp kan met eenvoudige materialen worden toegepast tot een diepte van zo'n 40 meter. Hoe dieper het water zich bevindt des te kleiner de diameter van de opvoerbuis moet zijn. Dit omdat er anders een te groot gewicht aan water aan het touw hangt en dit niet meer met de hand ophoog gepompt kan worden.
+
+wiel
+
+afvoerbuis
+
+opvoerbuis invoerblok
+
+Werking touwpomp
+
+touw zuigertjes
+
+pompstang/ aandrijfas
+water uitvoer
+
+
+water invoer
+overbrenging
+
+water invoer
+pompstang/ aandrijfas
+
+rotor stator
+
+Schroef van Archimedes
+
+water invoer
+
+Monopomp
+
+Enkele andere pompen
+
+
+Afhankelijk van de omstandigheden en de toepassing kan gekozen worden voor andere types pompen. In bovenstaande figuur staan voorbeelden van enkele pompen die worden aangedreven door een roterende pompstang. Het voordeel van deze types pompen is dat ze rustig werken en een continu debiet leveren, waardoor de krachten in de pompstang geen grote pieken vertonen.
+
+De juiste pomp kiezen
+
+
+Over het algemeen zijn zuigerpompen geschikter voor het overbruggen van grotere hoogteverschillen, bij een kleinere watertoevoer per tijdseenheid. Voor het pompen van water over een klein hoogteverschil (minder dan 2 meter) kunnen de centrifugaalpomp of de schroef van Archimedes geschikte opties zijn. Het kiezen van de meest geschikte pomp is echter van veel variabelen afhankelijk. Niet alleen het windregime, de benodigde watertoevoer en het hoogteverschil zijn van belang, ook de aanschafkosten en de mogelijkheid tot het zelf produceren spelen een rol. Een monopomp bijvoorbeeld is moeilijk te produceren en is daarmee niet geschikt voor locale productie. Daarnaast speelt de betrouwbaarheid (de gevoeligheid voor beschadiging van de pomp) een aanzienlijke rol. Hoe vaak moet onderhoud of reparaties gepleegd worden en van welke aard zijn deze reparaties? Voor moeilijke reparaties is men al snel afhankelijk van een locale service, terwijl voor het repareren van een touwpomp weinig specifieke technische kennis vereist is.
+Opbrengst
+
+Vermogen en debiet
+
+
+Als de gemiddelde windsnelheid en het rotoroppervlak bekend zijn, kan het gemiddelde vermogen P van een waterpompende windmolen met de volgende vuistregel berekend worden.
+
+
+rotoroppervlak 
+rotordiameter
+gemiddelde windsnelheid
+
+De waarde 0,1 in de formule gaat uit van een typische windmolen. In de praktijk kan deze waarde variëren van 0,05 tot 0,15. Voor een windpomp is het echter van meer belang om te weten hoeveel water per tijdseenheid gepompt kan worden, oftewel het debiet. Het maximale debiet Φ (gedefinieerd als de hoeveelheid water in m3 per seconde) kan als volgt berekend worden.
+
+
+Is nu de (dagelijkse, maandelijkse of jaarlijkse) gemiddelde windsnelheid bekend, dan is de water opbrengst globaal te berekenen met bovenstaande formule. Andersom kan, als de behoefte aan water bekend is, uitgerekend worden wat de mimimaal benodigde rotordiameter is.
+
+Voorbeeld: een windmolen met een diameter van 5 meter (A ≈ 20 m2) in een regio met een gemiddelde windsnelheid van 5 m/s, levert volgens de formule 250 Watt op (0,1 x 20 x 53).
+Met een bron van 10 meter onder de grond en een opslagtank 5 meter boven de grond, is het debiet 250 / (9810.15) = 0,0017 m3/s. Dit is gelijk aan 6,1 m3 per uur of 50.000 m3 per jaar.
+
+
+Een handige formule om de dagopbrengst te berekenen is: Φdag = 0,69. vgem .D
+
+
+Waterbronnen
+
+Voor de opbrengst van de molen is ook de capaciteit van de waterbron van belang. De bron kan een rivier zijn, een meer, een irrigatiekanaal, een put of een boorgat (grondwater). De capaciteit van de bron moet groter zijn dan die van de windpomp, om te voorkomen dat de bron droog komt te staan. Een pomp die regelmatig 'droog' pompt slijt snel en levert bovendien niks op.
+
+De windmolen wordt over het algemeen direct boven de bron geplaatst. De hoeveelheid water die kan worden opgepompt per tijdseenheid hangt onder andere af van de diepte van het waterpeil in de bron. Hoe dieper geboord moet worden voor de bron, des te kleiner de diameter van het boorgat kan zijn. Deze diameter is bepalend voor de grootte van de pomp en de hoeveelheid water die opgepompt kan worden. Bronnen kunnen volgens onderstaande tabel op diepte worden ingedeeld:
+
+Aantal meters onder grondoppervlak
+waterpompcapaciteit
+kenmerken
+Ondiepe bronnen
+Zijn meestal hand gegraven
+Half-diepe bronnen
+De diameter van het boorgatvarieert van 50 tot 150 mm en is bepalend voor de grootte van de pomp.
+Diepe bronnen
+Opslag
+
+Omdat wind over het algemeen een erg onregelmatige bron van energie is, is de opbrengst van een windpomp niet automatisch gelijk aan de behoefte. Behoefte aan water bestaat niet alleen wanneer het waait, ook in windstille periodes zal er behoefte zijn aan water. Om ook in deze periodes aan de behoefte te kunnen voldoen is er opslag van water nodig. Het water dat de molen meer pompt dan er op dat moment nodig is, kan hiervoor gebruikt worden. Drinkwater voor mensen moet zodanig bewaard worden dat er geen vervuiling kan optreden. Het water kan dan bijvoorbeeld worden opgeslagen in een watertoren die goed is afgesloten voor eventuele vervuiling van buiten. Voor irrigatie of voor drinkwater van vee zijn de kwaliteitseisen niet zo streng. Het water kan hier in open voorraadtanks of in bekkens opgeslagen worden. In de figuren hiernaast staan voorbeelden van opstellingen van windpompen.
+
+Windpomp met watertoren
+
+De optimale opslagcapaciteit is niet zo eenvoudig te bepalen. Daarvoor zijn allereerst nauwkeurige windgegevens nodig, bijvoorbeeld van de uurlijkse gemiddelde windsnelheden. Verder is het nodig de behoefte aan water nauwkeurig te kennen en ook de kosten van opslag met verschillende capaciteiten. Zijn deze gegeven niet voorhanden, dan is men genoodzaakt een ruwe schatting te maken van de benodigde capaciteit. Een goede richtlijn voor irrigatie bijvoorbeeld is een opslagcapaciteit van 1 à 2 gemiddelde dagopbrengsten.
+
+Opslagtank boven de windpomp
+
+Back-up energie-voorziening
+
+
+De berekeningen voor de opbrengst van een windpomp (§3.3.3.) leveren een gemiddelde jaarlijkse opbrengst. Echter, de wind waait niet gelijkmatig op de zelfde snelheid, waardoor de opbrengst gedurende een jaar aanzienlijk kan fluctueren Er zullen dagen zijn dat er te weinig wind is om de molen te laten draaien, terwijl het op andere dagen zo hard kan waaien dat de molen voor de veiligheid uit de wind wordt gedraaid.
+
+Windpomp met aanvoerpijp over afstand
+Voor een gedeelte kunnen deze fluctuaties worden opgevangen door opslagtanks, maar het is niet altijd economisch rendabel is om de opslagcapaciteit voldoende groot te maken voor een constante opbrengst door het jaar. De economische grootte van een opslagtank is eigenlijk nooit meer dan het watergebruik voor 3 dagen. Tijdens windstille periodes van meer dan 3 dagen is er dus een vervangende energievoorziening nodig, om te garanderen dat er genoeg water beschikbaar is. Een vaak voorkomende combinatie is de windpomp met een dieselgenerator als back-up. De windmolen kan dan gezien worden als een besparing op de dure brandstof (deze moet geïmporteerd worden), maar is geen vervanging voor de dure generator zelf. Men zal na moeten gaan of de aanschaf- en onderhoudskosten van de windmolen en de opslagtank opwegen tegen de besparing aan de brandstofkosten.
+
+Haalbaarheid
+De haalbaarheid is de kans van slagen op de beoogde baten van de molen. Voor de haalbaarheid zijn veel aspecten van belang, o.a. technische, economische en sociale aspecten
+
+Technische Aspecten
+
+
+Deze zijn vooral de lokaal aanwezige middelen zoals gereedschappen, materialen, reserve-onderdelen en kennis. Wordt de molen lokaal geproduceerd, dan zijn deze aspecten van groot belang bij de keuze voor het type molen. De constructie van de molen mag niet te ingewikkeld zijn, de materialen die voor de molen gebruikt worden, moeten zo veel mogelijk lokaal gekocht kunnen worden. Voor de nodige bewerkingen is een eenvoudig uitgeruste werkplaats vereist. De technische aspecten zijn ook van belang voor de installatie, het onderhoud en reparaties. Dit geldt ook voor windmolen die kant en klaar gekocht zijn. Het VLOM-concept (Village Level Operation and Maintenance) speelt een belangrijke rol. Doelstelling van dit concept is dat onderhoud en reparaties op dorpsniveau mogelijk zijn, dus door de gebruikers zelf uitgevoerd kunnen worden. De haalbaarheid wordt daardoor een stuk groter.
+
+Economische aspecten
+
+
+In een kosten-baten analyse moet een afweging worden gemaakt of de voordelen op wegen tegen de kosten en of de molen kan concurreren met andere vormen van watervoorziening. Factoren die hierbij een rol spelen zijn de aanschaf- en installatiekosten, de onderhouds- en reparatiekosten, de gebruikskosten, de levensduur en de opbrengsten.
+
+Windpompen zijn erg moeilijk met elkaar te vergelijken, omdat ze vaak gemaakt zijn voor specifieke omstandigheden. Ze kunnen zijn ontworpen voor verschillende windsnelheden, voor verschillende hoeveelheden opgepompt water, etc. Een manier om windpompen onderling te vergelijken is te kijken naar de kosten per m2 rotor. Als vuistregel voor de kosten van een windpomp kan gebruikt worden: $400 per m2 rotoroppevlak (rotordiameter < 5 m).
+In de onderstaande tabel is een richtlijn weergegeven van de relatieve kosten van windpomp onderdelen.
+
+Machine(kop, rotor, windvaan, overbrenging)
+Toren
+Pomp en pijpen
+
+Tabel: Overzicht van de relatieve kostprijs van de onderdelen van een windpomp van verschillende groottes.
+
+Sociale aspecten
+
+
+In veel gevallen is een windmolen te duur voor de armste boeren. Introductie van windmolens voor boeren met iets meer grond dan de armsten kan de concurrentie-positie van de armste boeren verslechteren.
+Een boer, die een windmolen gaat gebruiken, wordt daarmee naast de zon en de regen, ook afhankelijk van de wind. Hier moet men mee leren omgaan. Bij een molen met een handbediende stormbeveiliging moet de gebruiker oppassen wanneer er storm op komst is en de molen op tijd uit de wind draaien. De gebruiker moet voor het onderhoud zorgen, door het zelf te doen of door iemand in te huren die hiervoor is opgeleid.
+Overbrenging
+De overbrenging dient voor de koppeling tussen de rotor en de pomp. In onderstaande figuur is een constructie weergegeven die de roterende beweging van de rotor omzet in en een op- en neergaande beweging met behulp van een krukas (o.a. voor zuigerpompen).
+Pompen zoals de centrifugaalpomp en de monopomp hebben een roterende pompstang. De overbrenging vindt dan meestal plaats met behulp van een haakse tandwieloverbrenging.
+
+tegengewicht rotoras
+
+krukas pompstang
+
+Overbrenging
+
+Toepassingen
+De meest gebruikte toepassing voor windpompen is drinkwater voor mensen en vee. Andere toepassingen zijn irrigatie, drainage en viskwekerijen. Drinkwater voor vee is een traditionele toepassing die in het begin van de 20e eeuw de reden is geweest dat er door heel Amerika en Australië duizenden windpompen zijn gebouwd. Ze zijn zo populair geworden doordat vee van water kan worden voorzien zonder dat er ook maar iemand voor nodig is, gedurende een lange periode. Een kleine windpomp kan een kudde van 100 koeien van water voorzien.
+De mogelijkheid om windpompen te gebruiken voor irrigatie van landbouwgrond hangt af van de 'match' tussen gewas en windseizoen. Gewassen hebben water nodig op bepaalde voorspelbare tijdstippen in het jaar. Op die tijdstippen moet er genoeg wind zijn om de gewassen van water te voorzien met een windpomp. Het gewassenpatroon kan eventueel enigszins worden aangepast om beter op het windseizoen aan te sluiten. Irrigatie kan plaatsvinden door sprinkler-installaties of door open kanalen die het water van de pomp of opslagtank over het land verspreiden.
+Drinkwater met windpompen voor mensen heeft veel voordelen. Er hoeft weinig omgezien te worden naar de pomp zelf, terwijl een bescheiden pomp al een groot aantal mensen van water kan voorzien. Een goed ontworpen windpomp van 5 meter hoog, kan met een gemiddelde windsnelheid van 3,8 m/s en een opvoerhoogte van 25m wel 1200 mensen van water voorzien. De investeringskosten van de molen zijn dan zo'n $2 per persoon, terwijl een goed onderhouden windmolen wel 20 jaar mee kan gaan. Ondanks dat worden windpompen in ontwikkelingslanden nog relatief weinig gebruikt voor menselijk drinkwater. Het is duidelijk dat op dit gebied nog goede groeimogelijkheden zijn.
+Windgeneratoren
+
+Inleiding
+Elektriciteitsopwekking met windmolens zit in een stroomversnelling. Met name de grootschalige toepassing voor directe levering aan het hoogspanningsnet. De kennis omtrent windmolens en stroomopwekking is enorm toegenomen, zowel van de grote windgeneratoren (>1 MW) als de kleinere systemen.
+In vergelijking met windpompen, wordt de windgenerator nog weinig toegepast in ontwikkelingslanden. Grootschalige systemen zijn daar vanwege de technische complexiteit en de hoge kosten moeilijk toepasbaar. Kleine windgeneratoren bieden wel perspectief, omdat de constructie relatief eenvoudig is en zelfbouw in beeld komt. Qua kostprijs en prestatie zal een windgenerator moeten concurreren met een dieselgenerator. Gezien het wisselend karakter van de windsnelheid zijn deze zg. stand alone windmolens veelal acculaders.
+
+Windgenerator
+Zeker als de elektriciteitsbehoefte een regelmatig karakter heeft, zoals bijvoorbeeld voor verlichting of een dagelijks proces. Achtereenvolgens zullen enkele veelgebruikte generatoren worden besproken, wordt ingegaan op de overbrenging en de opslag van windgenerators en zal worden gekeken naar de toepassing en haalbaarheid van windgenerators in ontwikkelingslanden.
+
+Generatoren
+Bij een windgenerator drijft de rotor een stroomgenerator aan. De rotor zet windenergie om in rotatie- energie. De generator op zijn beurt zet de rotatie-energie uit het rotoroppervlak om in elektrische energie. Om dit voor elkaar te krijgen heeft een stroomgenerator een magnetisch veld nodig. Dit veld kan op verschillende manieren worden opgewekt, elk met hun eigen voor- en nadelen.
+
+Autodynamo's
+
+
+Toepassing: kleine windgeneratoren tot + 500 W Stand - alone molens.
+Veel kleine zelfbouwwindgeneratoren tot ca. 500 W hebben een wisselstroom - autodynamo als generator. Deze werkt met elektromagneten op de draaiende rotor-as (het zg. anker), die een driefase wisselstroom opwekken in drie wikkelingen in het stilstaande rotorhuis (de zg. stator). Via een diodebrug wordt de wisselstroom gelijkgericht. De gelijkstroom, die de elektromagneten nodig hebben levert de dynamo zelf aan het anker via koolborstels.
+
+Autodynamo
+Sterk magnetisch veld
+Onafhankelijk van netspanning
+Laag rendement
+Hoog benodigd toerental
+Stroomverbruik voor elektromagneten
+Koolborstels nodig ( onderhoud)
+
+Asynchrone generatoren
+
+
+Toepassing: netgekoppelde molens.
+Dit type is voor grotere vermogens. Het magnetisch veld wordt opgewekt middels een (noodzakelijke) koppeling aan het elektriciteitsnet. De constructie is eenvoudig en goedkoop. Hier zitten de elektromagneten in de stator en de inductiewikkelingen op het anker. Het anker wordt aangedreven door de rotor. De motor levert pas stroom , als het toerental van het anker het synchrone toerental bereikt, dat wil zeggen: sneller gaat lopen dan het wisselend magnetisch veld. Dit zg. aanlooptoerental, is afhankelijk van het aantal noord - zuidpoolparen van het anker. Meer poolparen betekent een lager aanlooptoerental, maar ook grotere afmetingen van de generator.
+
+Asynchrone generator
+Vrijwel onderhoudsvrij (geen koolborstels)
+Matig rendement
+Netkoppeling nodig
+
+Permanent magneet generatoren (PMG's)
+
+
+Toepassing: generatoren van 500 W tot boven 1 kW, stand-alone molens.
+De elektromagneten op het anker van het dynamotype zijn vervangen door permanente magneten. Deze generatoren zijn vaak speciaal ontworpen voor windmolens en de as is zo dik, dat er veel magneten op kunnen worden gemonteerd. Zo levert de generator zonder extra overbrenging voldoende spanning, ook bij een laag toerental. Omdat de magneten geen veldstroom nodig hebben, zijn er geen koolborstels nodig. Dat scheelt onderhoud.
+Het geleverde vermogen volgt het toerental. Dat is gunstig voor het rendement. Bij een hoog toerental ontstaat er wel warmte-ontwikkeling in de stator, wat een negatieve invloed heeft op het rendement.
+
+PMG
+Hoog rendement 
+Robuust ontwerp, dus bedrijfszeker
+Onderhoudsvrij
+Geschikt voor zelfbouw
+Onafhankelijk van netspanning
+Gevaar voor verlies van magnetisatie
+Niet geschikt voor grote vermogens
+
+Overbrenging
+Bij de elektromagneettypes ligt het toerental van de rotor vaak onder het aanlooptoerental van de generator, en zal het toerental via een overbrenging verhoogd moeten worden. Een grote overbrenging (toerental uitgaand / toerental ingaand) betekent wel een groot startkoppel. Als men kiest voor een kleine overbrenging of zelfs een directe koppeling tussen rotoras en generator, dan moet de snellopendheid van de rotor hoog zijn en/of de generator meerpolig. Een PMG wordt zonodig uitgerust met extra permanente magneten.
+
+De optimale overbrengingsverhouding is afhankelijk van de gekozen generator. Uitgaande van de ontwerpsnelheid, kiest men een overbrenging, die het optimale toerental voor de generator benadert. De overbrenging kan geschieden door middel van een ketting, tandwielen, V–snaar of een tandriem. Zie ook het hoofdstuk over waterkracht.
+
+Het is ook mogelijk, de omwentelingssnelheid van de rotor te beïnvloeden middels aanpassing van de hoek, waarmee de rotorbladen op de windrichting staan, de zogenaamde aanvalshoek. Vergroting van de aanvalshoek is gunstig bij lagere windsnelheden. Dit principe vind je ook terug bij het ontwerp van de rotorbladen. Een getordeerd rotorblad (sterker bij de as, minder bij de tip) geeft een optimaal koppel op ieder aangrijpingspunt van de wiek.
+
+Opbrengst
+De windgenerator zet windenergie om in elektrische energie, uitgedrukt in een gemiddeld elektrisch uitgangsvermogen Pel. De winbare elektrische energie over het rotoroppervlak is:
+waarbij
+
+Cp = vermogenscoëfficiënt
+ρ = luchtdichtheid (kg/m3)
+A = rotoroppervlak (m2) vgem = gemiddelde windsnelheid (m/s)
+Als de Cp waarde van de molen niet bekend is, kan m.b.v onderstaande vuistregel een goede indicatie gegeven worden van de opbrengst van een windmolen met rotoroppervlak A en gemiddelde windsnelheid vgem. Andersom kan relatief snel een schatting worden gemaakt van de benodigde rotordiameter bij een gegeven elektriciteitsbehoefte.
+
+
+Opslag
+De elektriciteit die wordt opgewekt door windgeneratoren hoeft niet direct te worden gebruikt, het kan worden opgeslagen. Elektrische energie kan op verschillende manieren worden opgeslagen, die veelal afhangen van wat in de omgeving mogelijk is. Als er een elektriciteitsnet aanwezig is, ligt teruglevering van de opgewekte stroom aan het net voor de hand. Men maakt gebruik van bestaande faciliteiten en de leveringszekerheid is groot. Dit is dé toepassing in de westerse wereld. Als er geen net ligt, maar er wel een waterreservoir mét debietmogelijkheden in de buurt is, kan water worden opgepompt met een elektromotor en teruggewonnen via een waterturbine. De beschreven kleinere windgeneratoren worden vaak geplaatst in afgelegen gebieden, waar geen elektriciteitsnet is. Dan ligt opslag in accu's voor de hand.
+
+Men maakt onderscheid tussen start-accu's en halftractie-accu's.
+
+Accu
+Het tractie type is voor een hoge aanvangsstroom, bijvoorbeeld voor een motor of een zuigerpomp. Het halftractietype is beter voor langdurige levering van continue stroomafname, bijvoorbeeld verlichting, radio of licht machinewerk. Het verschil zit in de dikte van de loodplaten. De extra dikke platen in een halftractie-accu verhogen het rendement voor stationaire toepassing tot 20%.
+
+De capaciteit van een accu wordt uitgedrukt in Ampère-uur (Ah). Als een halftractie-accu bijvoorbeeld 10 Ampère uur wordt geladen, kan er zo'n 8 uur worden gewerkt met een stroomvraag van 1 Ampère. Het aanbod van fabrikanten varieert van zeer klein tot boven 20 Ah.
+
+Er zijn verschillende typen accu's, waarvan de loodzuuraccu de meest voorkomende is, vanwege zijn lage prijs. De lood-calciumaccu rukt op, omdat het onderhoud minimaal is en de levensduur veel beter. De levensduur wordt vaak uitgedrukt in het aantal malen, dat de accu geladen en ontladen kan worden (het aantal cycli).
+Voor de levensduur van de gewone loodzuuraccu is het gebruik en onderhoud van groot belang: De accu mag niet teveel worden doorgeladen en niet te diep ontladen. De zuurconcentratie van het elektrolyt (zwavelzuur) mag niet te hoog zijn Het elektrolytniveau moet altijd hoger dan de platen staan.
+
+Aandachtspunten voor accu's in het algemeen
+Om teveel opladen en ontladen te voorkomen is een accubewaking nodig, die de verbinding tussen de generator en de accu op tijd in- en uitschakelt.
+Accu's uit bedrijf worden altijd volgeladen opgeslagen en tijdig bijgeladen. Ontladen loodaccu's zijn snel afval.
+De keuze voor onderhoudsvrije accu's heeft de voorkeur, vanwege de stroomleverings- betrouwbaarheid.
+Bij de aanschaf van een bepaald merk accu dient men te letten op het optimale temperatuurtraject.
+De leveringscapciteit loopt beneden en boven bepaalde kritische waarden snel terug.
+De accu mag niet bloot staan aan temperaturen boven 55 °C.
+Stem de accukeuze af op het soort werk en de verwachte windstille perioden.
+Toepassingen
+Windgeneratoren kunnen voor verschillende toepassingen worden gebruikt. Van radio's en de verlichting van huizen tot het aandrijven van grote machines en het leveren aan het elektriciteitsnet. Hieronder volgt een overzicht van generatoren van verschillende groottes met bijbehorende veel voorkomende toepassingen.
+
+Accu-opladen voor verlichting en communicatie in afgelegen gebieden
+Meerdere accu's tegelijk opladen en communicatie
+Verwarming en gebruik voor meerdere elektriciteitstoepassingen, mogelijk met accu's
+Stand alone elektriciteit generatie voor communicatie voor een compleet dorp
+Aansluiting op elektriciteitsnet, verkoop van elektriciteit aan energie bedrijf
+
+Haalbaarheid
+Om tot een afgewogen besluit te komen omtrent de aanschaf van een bepaald type windgenerator voor een bepaalde toepassing is een grondige veldanalyse de eerste stap.
+Actuele gemiddelde windinformatie van het gebied, liefst gerangschikt naar periode maakt duidelijk, of stroomvoorziening uit windenergie voldoende zekerheid biedt. Bovendien geeft het informatie omtrent de benodigde opslagcapaciteit die nodig is, om windleemten op te vangen. Een veldonderzoek ter plaatse is nodig voor de goede plaatsbepaling, zonder storende elementen als bos en ruw terrein
+
+Technische aspecten
+
+
+Het is voor eventuele zelfbouw, installatie, onderhoud en reparaties van belang welke technische middelen aanwezig zijn en over welke kennis lokale technici beschikken. Een systeem dat aansluit bij de plaatselijke mogelijkheden en kennis van materialen en arbeid heeft altijd de voorkeur. Dus een onderhoudsgevoelige molen met autodynamo gekoppeld aan een loodzuuraccu kan soms een beter alternatief zijn dan een onderhoudsvrije PMG met een onderhoudsvrije loodcalcium accu. Dit laat onverlet, dat beperkt onderhoud geld mag kosten, maar dan wel ondersteund vanuit de projectfinanciering over de begrote projectduur.
+
+Economische aspecten
+
+
+Een vuistregel voor de kosten van een windgenerator: US$ (333 + 3333 / D2) per m2 rotoroppervlak.
+Een accupakket komt hier nog bij. Uiteraard zijn de plaatselijke aanvoerlijnen van groot belang. Als vergelijkingscriterium geldt de lokale prijs van de dieselgenerator en de beschikbaarheid van brandstof. Voor een goede beslissing tussen de alternatieven is een kosten-batenanalyse ter plaatse nodig.
+Onderhoud
+Voor een langdurig gebruik van windmolens is regelmatig onderhoud vereist. Voor windpompen geldt dat extra onderhoud is vereist bij windpompen met een versnellingsoverbrenging en diepe boorgaten. Er gelden de volgende onderhoudsinstructies: de olie in de overbrenging moet minstens één keer in het half jaar worden nakeken en indien nodig, worden vervangen. De leren zuigers binnenin de zuigerpomp moeten elke 1 à 2 jaar worden vervangen als gevolg van slijtage. Vooral als er zand is vermengd in het opgepompte water moet hier extra goed naar worden gekeken, omdat hierdoor de zuigers en de cilinder extra snel slijten. Bij diepe boorgaten (dieper dan 30 meter) is het aan te raden om een pomp te gebruiken met een open bovenkant. De zuiger kan dan gemakkelijk naar boven worden gehaald door de opvoerbuis voor onderhoud. Een ander punt van aandacht is corrosie. Zorg er voor dat er de pomp zelf roestvrij blijft en vraag van tevoren aan de leverancier of de pomp is gemaakt om corrosie te weerstaan.
+
+Windgeneratoren zijn over het algemeen gemaakt voor minimaal onderhoud. Instructies van de leverancier dienen strikt opgevolgd te worden. Verder moeten de accu's regelmatig gecontroleerd worden op corrosie en het niveau van het elektrolyt.

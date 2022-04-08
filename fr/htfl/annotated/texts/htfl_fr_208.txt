@@ -1,0 +1,17 @@
+Amélioration de la fonction pompe ventriculaire droite par resynchronisation : étude par imagerie de déformation myocardique
+
+Objectifs
+
+La resynchronisation cardiaque (CRT) améliore très précocement la fonction ventriculaire gauche chez les patients en insuffisance cardiaque systolique mais peu d'informations sont disponibles sur la fonction ventriculaire droite (VD). Le but de ce travail a été d'évaluer par l'analyse de la déformation systolique myocardique (strain) l'effet précoce de la resynchronisation cardiaque (CRT) sur la fonction VD.
+
+Méthodes
+
+Cinquante patients présentant une insuffisance cardiaque systolique (classe NYHA III ou IV, FEVG inférieur à 35 %, QRS supérieur à 120 ms) ont été étudiés avant et trois mois après CRT. Les dimensions du VD ont été obtenues à partir des diamètres de l'anneau tricuspide et des mesures transverse et longitudinale du VD en incidence apicale. La fonction systolique VD a été quantifiée par l'excursion systolique de l'anneau tricuspide (TAPSE), sa vitesse systolique (Vs), et la mesure du strain systolique de la paroi libre du VD. L'asynchronisme mécanique intra-VD a été calculé par le délai entre les pics de strain systolique septal et latéral.
+
+Résultats
+
+Après trois mois de CRT, la FEVG a augmenté significativement (de 22 ± 6 à 27 ± 9 % ; p < 0,01) et les volumes télédiastoliques ont diminué (de 232 ± 73 à 219 ± 78 ml ; p < 0,05), uniquement chez les patients présentant un asynchronisme mécanique intra-VG avant implantation (n = 35). La CRT n'a pas modifié les dimensions du VD, mais a précocement amélioré la fonction VD avec une augmentation de Vs (de 5,3 ± 2,4 à 6,4 ± 1,8 cm s-1, p < 0,05) et du strain basal et médian de la paroi libre du VD (respectivement, de 23 ± 9 à 28 ± 9 % et de 20 ± 7 à 25 ± 8 % ; p < 0,05). Il est à noter que l'amélioration de la fonction VD après CRT est survenue chez des patients dont la sonde VD était en position septale et était corrélée au degré d'asynchronisme VD avant CRT (r = 0,74 ; p < 0,05).
+
+Conclusion
+
+La CRT améliore précocement la fonction VD avant toute modification des volumes VD chez les patients insuffisants cardiaques.

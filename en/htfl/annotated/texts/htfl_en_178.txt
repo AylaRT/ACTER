@@ -1,0 +1,11 @@
+Comment on "Baroreflex Activation Therapy for the Treatment of Heart Failure With a Reduced Ejection Fraction"
+OBJECTIVES:
+The objective of this clinical trial was to assess the safety and efficacy of carotid baroreflex activation therapy (BAT) in advanced heart failure (HF).
+BACKGROUND:
+Increased sympathetic and decreased parasympathetic activity contribute to HF symptoms and disease progression. BAT results in centrally mediated reduction of sympathetic outflow and increased parasympathetic activity.
+METHODS:
+Patients with New York Heart Association (NYHA) functional class III HF and ejection fractions < 35% on chronic stable guideline-directed medical therapy (GDMT) were enrolled at 45 centers in the United States, Canada, and Europe. They were randomly assigned to receive ongoing GDMT alone (control group) or ongoing GDMT plus BAT (treatment group) for 6 months. The primary safety end point was system- and procedure-related major adverse neurological and cardiovascular events. The primary efficacy end points were changes in NYHA functional class, quality-of-life score, and 6-minute hall walk distance.
+RESULTS:
+One hundred forty-six patients were randomized, 70 to control and 76 to treatment. The major adverse neurological and cardiovascular event-free rate was 97.2% (lower 95% confidence bound 91.4%). Patients assigned to BAT, compared with control group patients, experienced improvements in the distance walked in 6 min (59.6 ± 14 m vs. 1.5 ± 13.2 m; p = 0.004), quality-of-life score (–17.4 ± 2.8 points vs. 2.1 ± 3.1 points; p < 0.001), and NYHA functional class ranking (p = 0.002 for change in distribution). BAT significantly reduced N-terminal pro-brain natriuretic peptide (p = 0.02) and was associated with a trend toward fewer days hospitalized for HF (p = 0.08).
+CONCLUSIONS:
+BAT is safe and improves functional status, quality of life, exercise capacity, N-terminal pro-brain natriuretic peptide, and possibly the burden of heart failure hospitalizations in patients with GDMT-treated NYHA functional class III HF.

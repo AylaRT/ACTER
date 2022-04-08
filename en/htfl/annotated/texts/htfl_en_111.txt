@@ -1,0 +1,9 @@
+Effectiveness of Chinese herbal medicine as an adjunctive treatment for dilated cardiomyopathy in patients with heart failure.
+OBJECTIVES:
+To evaluate the effectiveness and safety of Chinese herbal medicine (CHM) as an adjunctive treatment for patients with dilated cardiomyopathy (DCM) and heart failure.
+DESIGN:
+Studies on biomedical treatment plus CHM versus biomedical treatment alone in treating patients with DCM and heart failure were retrieved from PubMed and other major databases (1980-2011). Meta-analysis was performed on the overall effects on effective rate, left ventricular ejection fraction, left ventricular diastolic end diameter, and other outcome measures.
+RESULTS:
+Twenty-seven studies with 1887 patients were included. Compared with biomedical treatment alone, biomedical treatment plus CHM showed significant improvement in effective rate (relative risk, 1.26; 95% confidence interval [CI], 1.19-1.34), left ventricular ejection fraction (%) (mean difference, 5.88; 95% CI, 3.92-7.85), left ventricular diastolic end diameter (mm) (mean difference, -2.78; 95% CI, -5.15 to -0.42), and other outcome measures. Most adverse events observed in the studies were not severe and resolved without special treatment.
+CONCLUSIONS:
+This meta-analysis indicated that biomedical treatment plus CHM is more effective than biomedical treatment alone in treating patients with DCM and heart failure. However, further studies with long-term follow-up, systemic adverse events evaluation, and other ethnic groups are still required to verify the efficacy and safety of CHM as an adjunctive treatment in all patients with DCM and heart failure.

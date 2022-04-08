@@ -1,0 +1,17 @@
+Optimisation du traitement médical après hospitalisation pour insuffisance cardiaque selon la fraction d'éjection ventriculaire gauche : le registre FUTURE
+
+Buts
+
+Il n'y a pas de recommandations scientifiques bien décrites auxquelles le cardiologue peut se référer en ce qui concerne le traitement de l'insuffisance cardiaque à fraction d'éjection préservée. Le but de cette étude a été de déterminer la façon dont les cardiologues prennent en charge le traitement médical des patients en fonction de leur FEVG après la sortie de l'hôpital.
+
+Méthodes
+
+FUTURE est un registre transversal réalisé sur des patients insuffisants cardiaques ambulatoires suivis par des cardiologues libéraux entre septembre 2007 et Août 2008. Les patients devaient avoir été hospitalisés au cours des 18 mois précédents, avec un diagnostic d'insuffisance cardiaque. Les données cliniques et le traitement médical (IEC, ARA2, bêtabloquants, diurétiques et antagonistes de l'aldostérone) ont été relevés à deux moments successifs (à la sortie de l'hôpital et à la consultation d'entrée dans l'étude) avec des informations précises sur les doses de médicaments.
+
+Résultats
+
+Des données complètes ont été obtenues chez 1137 patients insuffisants cardiaques par 424 cardiologues. L'âge moyen était de 72 ± 11 ans. La FEVG était abaissée (inférieure ou égale à 40 %) chez 56 % et préservée (supérieure à 40 %) chez 44 % des patients. À la sortie de l'hôpital aussi bien qu'à la consultation d'entrée dans l'étude, l'approche thérapeutique est apparue similaire dans les deux groupes. À la consultation d'entrée, le traitement était : bêtabloquants (74 %), IEC ou ARA2 (83 %), diurétique de l'anse (86 %) et antagonistes de l'aldostérone (31 %). La majorité des patients (62 %) recevait une combinaison de bêtabloquant et d'IEC ou ARA2 et 56 % avait atteint au moins 50 % de la dose cible pour chacun des traitements. Il n'y avait pas de différence majeure dans les traitements et dans les doses entre les deux groupes de patients avec FEVG basse ou préservée. Dans 15 % des cas où la dose de médicament n'a pas été augmentée, l'explication rapportée était une crainte des effets secondaires.
+
+Conclusion
+
+Quelle que soit la FEVG, FUTURE montre que l'approche du traitement de l'insuffisance cardiaque est similaire. Par rapport aux études antérieures, il est noté une amélioration dans l'utilisation des médicaments recommandés dans l'insuffisance cardiaque, en particulier les bêtabloquants. Toutefois, une amélioration est encore possible en ce qui concerne les doses administrées.

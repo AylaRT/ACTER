@@ -1,0 +1,1119 @@
+Aide à la détection des opérations financières susceptibles d'être liées à la corruption
+
+Sommaaire
+
+La corruption a longtemps été considérée par les acteurs économiques comme un mal nécessaireCe n'est que depuis une vingtaine d'années que la communauté internationale a pris conscience de l'importance qui s'attache à la lutte contre la corruption, dans la mesure où cette dernière entrave le développement économique, fausse le jeu de la libre concurrence et porte atteinte à la démocratie en remettant en cause l'Etat de droit et la confiance des citoyens dans leurs institutions.
+Depuis longtemps, la France dispose d'un arsenal juridique complet visant la répression des atteintes à la probitéElle a également soutenu, de façon active, l'élaboration de normes à l'échelon internationalAinsi ont été adoptées différentes conventions au sein de l'Union européenne, de l'Organisation pour la Coopération et le Développement Economiques (OCDE), du Conseil de l'Europe et, de l'Organisation des Nations Unies, dont elle est évidemment partie prenante.
+1CADRE LEGAL DE LA CORRUPTION
+
+A Instruments internationaux
+
+Concernant la corruption
+
+C'est tout d'abord au niveau de l'Union Européenne que a lutte contre la corruption est apparue comme un enjeu majeurLa convention relative à la protection juridique des intérêts financiers des Communautés (26/07/1995), qui invitait les Etats membres à prendre des mesures efficaces pour lutter contre la corruption, a été la première initiative en ce sensRépondant au souci de garantir une concurrence effective entre entreprises dans l'espace communautaire et une meilleure utilisation des deniers publics, cette première démarche au niveau européen n'avait toutefois qu'une portée limitée.
+
+A son tour, le Conseil de l'Europe s'est investi activement dans la lutte contre la corruptionA la suite des travaux du « Groupe multidisciplinaire contre la corruption », chargé de déterminer les mesures à inclure dans un programme d'action contre la corruption et de la rédaction de principes directeurs de lutte contre la corruption, la convention pénale du Conseil de l'Europe a été adoptée le 27 janvier 1999La convention civile a été, quant à elle, adoptée le 4 novembre 1999Ces deux conventions sont entrées en vigueur en France en août 2008.
+
+L'OCDE a également eu un rôle majeur dans la lutte contre la corruptionAinsi, la Convention sur la lutte contre la La convention de l'OCDE souffre, toutefois, d'un champ d'application trop étroit, puisque restreint au seul cadre des transactions commerciales internationalesSon objectif est en effet de créer des conditions concurrentielles égales pour l'ensemble des entreprises.
+
+Les Nations-Unies ont pour leur part élaboré un outil normatif à portée plus globaleC'est ainsi qu'a été adoptée le 31 octobre 2003 la Convention des Nations Unies Contre la Corruption, dite convention de « Mérida ».
+
+En France, plusieurs lois ont transcrit dans l'ordre juridique interne les normes internationales (la loi n°2000-595 du 30 juin 2000 (JORF du 1er juillet 2000), ainsi que la loi n°2007.1598 du 13 novembre 2007 (JORF du 14 novembre 2007)Dernièrement la loi n°2013-1117 du 6 décembre 2013 relative à la lutte contre la fraude fiscale et la délinquance économique et financière est venue compléter le dispositif en renforçant le rôle de la société civile dans la révélation des infractions, la protection des lanceurs d'alerte, et en aggravant les peines d'amende en matière de probité.
+
+B Corruption et trafic d'influence dans le code pénal
+
+FICHES DE SYNTHESE
+
+Fiche n° 1 CORRUPTION DANS LE SECTEUR PUBLIC
+
+Définition
+
+La corruption peut se définir comme l'agissement par lequel une personne investie d'une fonction déterminée, publique ou privée, sollicite/propose ou agrée/cède à un don, une offre ou une promesse, en vue d'accomplir, retarder ou omettre d'accomplir un acte entrant, d'une façon directe ou indirecte, dans le cadre de ses fonctions.
+
+Le droit pénal français distingue :
+
+la corruption active, article 433-1 du code pénal : situation dans laquelle une personne physique ou morale propose des dons, promesses ou avantages quelconques à une personne afin que cette dernière accomplisse, retarde ou s'abstienne d'accomplir un acte de sa fonctionEntre également dans le champ de la corruption active, le fait de céder aux sollicitations d'un « corrupteur passif », personne publique ou privée qui sollicite une contrepartie afin d'accomplir ou de s'abstenir d'accomplir un acte de sa fonction.
+
+la corruption passive, article 432-11 du code pénal : situation dans laquelle une personne publique ou privée sollicite ou accepte des dons, promesses ou avantages quelconques d'une personne (physique ou morale) afin qu'elle accomplisse, retarde ou s'abstienne d'accomplir un acte de sa fonction.
+
+Le délit de corruption active est consommé par de simples offres ou promesses du corrupteur, que ces dernières aient ou non été acceptées par l'autre partie.
+
+Le délit corruption passive est constitué, y compris si l'offre n'est pas suivie d'effetsLa notion de « tentative de corruption » est donc inopérante en la matière.
+
+Par ailleurs, ces délits sont constitués, y compris si l'avantage indu bénéficie, en tout ou partie, à un tiers (parent, proche voire une personne morale)Dans une telle hypothèse, le tiers est d'ailleurs passible de poursuites pénales du chef de recel au titre de l'article 321-1 du code pénal, s'il a connaissance de l'opération frauduleurse.
+
+Personnes en cause
+
+Corrupteur :
+
+Personne physique ou morale, nationale ou étrangère.
+
+Corrompu
+
+2.2.1 Corruption dans le cadre national
+
+Les textes visent trois catégories d'agents publics :
+
+« personnes dépositaires de l'autorité publique »investies par délégation de la puissance publique d'un pouvoir de décision ou de contrainte sur les individus et les choses, pouvoir qu'elles exercent de façon permanente ou temporaire ;
+
+« personnes chargées d'une mission de service public » non investies d'un pouvoir de décision ou de contrainte conféré par la puissance publique, mais exerçant une mission d'intérêt général).
+
+Fiche n° 1 suite
+
+« personnes investies d'un mandat électif public ».
+
+A titre d'illustration sont ainsi concernés :
+
+en leur qualité de dépositaire de l'autorité publique (« personne investie, par délégation de la puissance publique d'un pouvoir de décision et de contrainte sur les
+individus ou les biens de façon temporaire ou permanente ») : les membres du gouvernement, les magistrats, officiers ministériels dans mesure de leur concours à l'administration
+de la justice, les la officiers et agents de police, les agents des ministères, les fonctionnaires des impôts, les inspecteurs chargés des examens pour l'obtention du permis de conduire, les secrétaires de mairie, les agents des services techniques des communes et départements...
+
+en leur qualité de personne investie d'un mandat électif (« personne élue au sein d'une assemblée publique ou d'un organisme public, que ce dernier exerce des compétences au niveau national ou local ») : les sénateurs, députés, maires, conseillers municipaux, conseillers généraux, le président d'une chambre des métiers...
+
+en leur qualité de « personne chargée d'une mission de service public (« personne qui sans avoir reçu un pouvoir de décision ou de commandement conféré par la puissance publique exerce une fonction ou accomplit des actes, à titre temporaire ou permanent qui ont pour but de satisfaire à un intérêt général ») : les membres de chambres de commerce et d'industrie, les membres de commission formulant des avis aux autorités publiques dans le cadre de l'obtention d'habilitations, d'agréments ou d'autorisation – ex : commission départementale d'équipement commercial - , les membres de la Commission bancaire, de l'Autorité des marchés financiers...
+
+NB : corruption active / passive du personnel judiciaire Régime spécial prévu à l'article 434-9 du Code Pénal (sont concernés les magistrats, jurés, toutes personnes siégeant dans une formation juridictionnelle, greffiers, experts, médiateurs, conciliateur, arbitres).
+
+2.2.2 Corruption dans le cadre international
+
+Personnes dépositaires de l'autorité publique au sein d'un Etat étranger ou d'une organisation internationale ;
+
+Personnes chargées d'une mission de service public au sein d'un Etat étranger ou une organisation internationale ;
+
+Personnes investies d'un mandat électif au sein d'un Etat étranger ou d'une organisation internationale.
+
+NB : Régime spécial pour la corruption active et passive du personnel judiciaire.
+
+Activités délictueuses
+
+Nature de l'acte corrupteur :
+
+« Solliciter, agréer des offres, promesses dons ou avantages » (Corruption passive)
+
+« Proposer des offres, promesses, dons ou avantages… (Corruption active)
+
+Mais également, effectuer des pressions pour parvenir à ses fins (Cass.Crim.9 septembre 2009, n°09-86-280).
+
+Abandon de la nécessité de l'antériorité de l'offre corruptrice
+
+La « rémunération » acceptée ou sollicitée par le « corrompu » peut être postérieure à l'acte ou à l'abstention attendue du corrupteur.
+
+Est souvent évoquée la notion de «pacte de corruption»Il convient de relever que cette notion vise, le plus souvent, le cas où a pu être établie la preuve d'un accord entre corrupteur actif et corrupteur passif, étant entendu que corruption active et passive sont deux infractions distinctes, pouvant être poursuivies et sanctionnées indépendamment l'une de l'autreGénéralement, dans cette situation le « pot de vin » a été versé par le corrupteur actif au corrupteur passif antérieurement à l'accomplissement par ce dernier de l'acte de la fonctionPour cette raison, il a souvent été évoqué la notion de « pacte de corruption », fortement critiquée par les organisations internationales en charge de la lutte contre la corruption (OCDE, GRECO…) qui voyaient, au travers de ce concept, l'impossibilité de poursuivre les cas dans lesquels le versement du « pot de vin » interviendrait postérieurement à l'accomplissement de l'acte attendu du corrupteur passif.
+
+La loi du 17 mai 2011 a levé les ambigüités qui pouvaient subsister à la suite des modifications des incriminations introduites par la loi du 30 juin 2000 quant à l'exigence d'une antériorité du pacte de corruptionEn effet, il est désormais explicitement prévu par les textes incriminant et sanctionnant la corruption, comme d'ailleurs le trafic d'influence, que les offres, promesses, avantages quelconques peuvent avoir été versés postérieurementAussi, est-il souhaitable d'éviter l'usage du terme « pacte de corruption », trop marqué du sous-entendu, « préalable ».
+
+But des manœuvres corruptrices
+
+Accomplir ou s'abstenir d'accomplir un acte de fonction ou facilité par la fonction.
+
+Remarque : Il n'est pas nécessaire que le « corrompu » dispose d'un pouvoir de décision (ex : Cass.Crim-30 juin 2010-n°09-83-689) ;
+
+Prescription
+
+Délit instantané : 3 ans à compter du moment où les éléments de l'infraction sont réunis.
+
+NB : S'agissant de faits souvent anciens, l'obstacle de la prescription est contourné, en cas de manœuvre de dissimulation de l'infraction, par la jurisprudence de la Cour de Cassation qui a progressivement étendu la théorie du report de la prescription en matière d'infractions occultes aux faits de corruption et de trafic d'influence(Cass.Crim 6 mai 2009, le point de départ de la prescription est reporté au jour où l'infraction peut être constatée dans des conditions permettant l'exercice de l'action publique).
+Tableaux récapitulatifs
+
+CORRUPTION DANS LE CADRE NATIONAL
+Corruption dans le secteur public
+Cadre général	
+Corruption dans le cadre du fonctionnement de la justice
+
+Corruption active par un particulier sur un agent public national
+ET
+Céder à une corruption passive d'un agent public national qui sollicite un don
+
+Corruption passive par un agent public national qui sollicite ou agrée un don
+Corruption active d'un magistrat, juré, expert, arbitre… 
+ET
+Céder à une corruption passive d'un magistrat, juré, expert, arbitre… qui sollicite un don
+ET
+Corruption passive d'un magistrat, juré, expert… qui sollicite ou agrée un don
+
+Personne physique
+Personne morale
+personne physique
+
+Peines complémentaires
+
+
+CORRUPTION DANS LE CADRE INTERNATIONAL
+Corruption d'un agent public étranger ou international	Corruption active de personnel judiciaire international
+Corruption active
+ET
+Céder à une corruption passive	
+Corruption passive	
+Corruption active
+ET
+Céder à une corruption passive	
+
+Fiche n° 2 CORRUPTION DANS LE SECTEUR PRIVE
+
+Corrupteur :
+qualité indifférente, personne physique ou morale
+
+Corrompu : ne doit pas être un agent public ; doit exercer une activité dans le secteur privé : exercer une activité professionnelle ou sociale exercer une fonction de direction être acteur d'une manifestation sportive Tableaux récapitulatifs
+
+CORRUPTION DANS LE CADRE NATIONAL
+Corruption dans le secteur privé
+Corruption active par un particulier sur une personne exerçant dans le cadre d'une activité professionnelleou sociale
+et Céder à une corruption passive d'unepersonne exerçant dans le cadre d'une activité professionnelle ou sociale.	
+Corruption passive d'une personne exerçant dansle cadre d'une activité professionnelle ou sociale qui sollicite ou agrée.
+
+
+CORRUPTION DANS LE CADRE NATIONAL
+
+Corruption dans le domaine des paris sportifs
+
+Corruption active par toute personne qui promet ou offre, sans droit, à tout moment, des avantages quelconques, pour lui-même ou autrui, à tout acteur d'une manifestation sportive donnant lieu à des paris sportifs, afin que cette personne modifie le déroulement normalet équitable de cette manifestation.	
+Corruption passive par tout acteur d'une manifestation sportive donnant lieu à des paris sportifs qui accepte, sans droit, des avantages quelconques, pour lui-même ou autrui, afin de modifier le déroulement normal et équitable de cette manifestation.
+Personne physique 
+
+Fiche n° 3 TRAFIC D'INFLUENCE
+
+TRAFIC D'INFLUENCE DANS LE CADRE NATIONAL
+
+Définition
+
+Infraction voisine de la corruption
+
+Corruption : le corrompu monnaye un acte de sa fonction ;
+
+Trafic d'influence : le « trafiquant » monnaye sa qualité, son influence réelle ou supposée, pour influencer la décision qui sera prise par un tiers, la « personne cible »Cette dernière étant de bonne foi.
+
+Personnes en cause
+
+Bénéficiaire de l'avantage indu, personne physique ou morale
+
+Intermédiaire qui monnaye et abuse de son influence réelle ou supposée sur celui qui a le pouvoir de décision est :
+
+Dépositaire de l'autorité publique/chargé d'une mission de service public/investi d'un mandat électif public (art433-1-2 et 432-11-2 du Code Pénal) ;
+
+Fiche n° 3 suite
+
+« Quiconque », « une personne » (art433-2 et 434-9-1 du Code Pénal).
+
+« Personne cible », dans tous les cas : Une autorité ou administration publique ; Une personne qui participe au fonctionnement de la justice (art.434 du Code Pénal).
+
+NB : le trafic d'influence connait un volet actif ou passif selon que l'on se place : Du côté du bénéficiaire de l'avantage indu qui propose un avantage quelconque ou cède à l'intermédiaire (Trafic d'influence actif) ; Du côté de l'intermédiaire qui sollicite ou accepte sans droit un avantage quelconque pour abuser de son influence réelle ou supposée de sa fonction (Trafic d'influence passif).
+
+Eléments constitutifs de l'infraction : Communs à ceux de la corruption (qualité de l'intermédiaire, moyens utilisés par l'auteur de l'infraction, notamment).
+
+Eléments propres au trafic d'influence
+
+Abus de « l'influence réelle ou supposée »
+
+But poursuivi/faveur : « décisions, emplois, marchés ou tout autre décision favorable », « décision, avis favorable » pour le bénéficiaire.
+
+NB : interprétation extensive de la notion de décision favorable par la jurisprudence(Cass.Crim 19 mars 2008 n°07-82-124).
+
+Prescription
+
+Idem corruption : 3 ans, mais ce délai ne commence à courir en cas de dissimulation qu'à partir du jour où l'infraction peut être constatée (Cass.Crim 19 mars 2008, n°07-82-124).
+Tableaux récapitulatifs
+
+
+TRAFIC D'INFLUENCE DANS LE CADRE NATIONAL
+
+L' « intermédiaire », dépositaire de l'autorité publique, chargé d'une mission de service public, investi d'un mandat électif	
+L' « intermédiaire » est un particulier
+
+Trafic d'influence à l'occasion du fonctionnement de la justice
+Trafic d'influence actif (fournir un avantage quelconque ou céder à un trafic d'influence passif)
+
+
+TRAFIC D'INFLUENCE DANS LE CADRE NATIONAL
+L' « intermédiaire », dépositaire de l'autorité publique, chargé d'une mission de service public, investi d'un mandat électif
+
+TRAFIC D'INFLUENCE DANS LE CADRE INTERNATIONAL
+
+Personnes en cause
+
+« personne cible » disposant du pouvoir de décision :
+
+Dépositaire de l'autorité publique, chargé d'une mission de service public ou investie d'un mandat électif public au sein d'une organisation internationale (art 435-2 et 435-4 du Code Pénal) ou d'une juridiction internationale (art435-8 et 435-10 du Code Pénal) ;
+
+NB : Le trafic d'influence sur un agent public étranger ou d'une juridiction étrangère n'est pas sanctionnable.
+Tableau récapitulatif
+
+
+TRAFIC D'INFLUENCE DANS LE CADRE INTERNATIONAL
+
+Trafic d'influence en direction d'une personne dépositaire de l'autorité publique/chargée d'une mission de SP/ investie d'un mandat électif public au sein d'une organisation internationale	 
+
+Dispositif de détection et de lutte contre la corruption
+
+A Dispositif institutionnel : Le Service Central de prévention de la Corruption
+
+Structure interministérielle créée par la loi n° 93-122 du 29 janvier 1993, le Service Central de Prévention de la Corruption (SCPC) est placé auprès du ministre de la Justice.
+
+Il est dirigé par un magistrat de l'ordre judiciaire, composé de magistrats (des ordres judiciaires, financiers ou administratifs) et d'agents publics (administrateurs civils ou autres fonctionnaires) provenant de différents ministères (intérieur, finances, éducation nationale…)Les membres du SCPC sont soumis au secret professionnel.
+Le Service a pour missions :
+
+La centralisation des informations nécessaires à la détection et à la prévention des faits de corruption
+
+Il travaille, à cette fin, avec l'ensemble des ministères et autres acteurs concernés par la lutte contre la corruption (justice, intérieur, éducation nationale, économie…).
+
+La synthèse des informations ainsi recueillies par le SCPC et la typologie des mécanismes de fraudes qui en résultent sont publiées dans le rapport d'activité annuel édité par le ServiceCe document, remis au Premier ministre et au Ministre de la Justice puis rendu public, peut contenir également des propositions au Gouvernement (notamment de réformes législatives) en matière de politique de prévention de la corruption.
+
+Avis aux autorités administratives et concours à l'autorité judiciaire
+
+La loi du 29 janvier 1993 dispose que le SCPC peut être saisi de demandes d'avis par « les autorités administratives ».
+
+Le décret du 22 février 1993 relatif au SCPC énumère ces autorités : ministres ; préfets ; chefs des juridictions financières ; présidents de diverses commissions ou services de contrôle ou d'inspection; présidents et directeurs des établissements publics de l'État ; comptables publics ; élus locaux...
+
+Le SCPC prête également son concours, sur leur demande, aux autorités judiciaires saisies d'affaires de corruption ou d'infractions assimilées.
+
+Bien que ne constituant pas une expertise au sens procédural du terme, l'avis du S.C.P.Cfournit un audit technique aux autorités judicaires (parquets et juridictions saisies d'affaires de corruption et/ou infractions assimilées)Dans ce cas, l'intervention du SCPC ne se situe plus dans le champ de la prévention, mais constitue une aide à la prise de décision concernant la poursuite.
+
+Protection accordée aux donneurs d'alerte :
+
+Le terme « lanceur d'alerte » désigne la personne qui porte à la connaissance de son employeur, des autorités administratives ou judiciaires, de tiers (presse par exemple), des infractions réelles ou supposées dont elle a connaissance dans l'exercice de ses fonctions.
+
+Ces révélations peuvent mettre en cause la hiérarchie du lanceur d'alerte et sont susceptibles de ce fait de le rendre vulnérableIl doit donc être protégé afin qu'il ne soit pas l'objet de mesures de rétorsion en raison des révélations effectuées.
+
+Le dispositif de protection du donneur d'alerte de bonne foi à été renforcé par la loi du 11 octobre 2013, relative à la transparence de la vie publique, pour ce qui concerne la révélation de faits constitutifs de conflits d'intérêts, ainsi que par la loi du 6 décembre 2013 relative à la lutte contre la fraude fiscale et la grande délinquance économique et financière qui généralise le dispositif de protection à l'ensemble des crimes ou délits révélés par le donneur d'alerte dans le cadre professionnel,
+public ou privé : Révélation de situations de conflit d'intérêts dans le cadre professionnel public ou privé ; nullité de plein droit de la rupture du contrat de travail qui pourrait en résulter ; renversement de la charge de la preuve en cas de litige avec l'employeur (rémunération, stages, formation, reclassement, mesures discriminatoires…) Révélations de crimes ou délits dans le cadre professionnel, public ou privé ; généralisation de la protection du donneur d'alerte à la révélation de tous crimes ou délits, que cette révélation soit effectuée auprès de l'employeur, des autorités administratives ou judiciaires, à des tiers (presse par exemple); généralisation de la protection aux donneurs d'alerte du secteur public ou privé ; prohibition des mesures de rétorsion (mesures discriminatoires…) et renversement de la charge de la preuve en cas de litige avec l'employeur, public ou privé.
+
+En application de l'article 40-6 du code de procédure pénale, le lanceur d'alerte est mis en relation, à sa demande, avec le SCPC, lorsque l'infraction entre dans le champ de compétence du ServiceLa circulaire de la Direction des affaires criminelles et des grâces du ministère de la justice, en date du, 23 janvier 2014, précise que les parquets saisis d'une demande en ce sens doivent veiller à communiquer au lanceur d'alerte les coordonnées du SCPCToujours dans cette même circulaire, il est prévu que les parquets pourront parallèlement apprécier l'opportunité d'informer le SCPC de l'existence de ce signalement et, dans le respect du secret de l'enquête, de lui transmettre tout élément de contexte utile concernant les faits révélés et le contexte de la révélation.
+
+Les actions de sensibilisation et de formation
+
+Le Service conduit des actions de sensibilisation à destination des entreprises françaises, publiques ou privées, notamment dans le cadre de protocoles d'échange d'informations, de formation, de participation à des groupes de travail avec des organisations professionnelles, ou encore d'aide à l'élaboration de codes de déontologieCes actions sont également menées auprès des grandes écoles et universités françaises (ENA, ENM, Ecoles de police, Universités…)
+
+L'action internationale
+
+Depuis sa création en 1993, les diverses conventions internationales négociées et adoptées en matière de lutte contre la corruption ont conduit le SCPC à devenir un acteur de premier plan dans les mécanismes internationaux de coopération en matière de lutte contre la corruption.
+
+En effet, le Service est statutairement présent dans plusieurs enceintes internationales, en particulier dans le cadre de ifférents groupes de travail chargés du suivi des grandes conventions internationales dont l'objet est la lutte contre la corruption : CNUCC (groupe prévention de l'ONUDC), OCDE (groupe corruption, comité de la gouvernance publique), Conseil de l'Europe (GRECO) ou dans le cadre du groupe de travail anti-corruption créé en 2010 au sein du G20.
+
+En sus de sa participation aux travaux d'instances internationales, le SCPC accueille de nombreuses délégations étrangères et participe à des programmes de formation et d'assistance s'inscrivant dans des cadres bilatéraux ou multilatéraux.
+
+B L'exemple d'un dispositif opérationnel : la déclaration de soupçon au service TRACFIN
+
+
+L'action du service TRACFIN
+
+Le service Tracfin, créé en mai 1990, répond à la dénomination de cellule de renseignement financier nationale au sens du Groupe d'action financière (GAFI, créé en 1989 lors du sommet du G7) et de l'Union européenne à savoir une « cellule nationale centrale… chargée de recevoir et, dans la mesure de ses pouvoirs, de demander, d'analyser et de communiquer aux autorités compétentes les informations divulguées concernant un éventuel blanchiment de capitaux, un éventuel financement du terrorisme ou toute information requise par les dispositions législatives ou réglementaires nationales »Érigé en service à compétence nationale depuis le 6 décembre 2006, il est placé sous la tutelle du ministre chargé de l'économie et des finances.
+
+Service opérationnel chargé du traitement du renseignement et de l'action contre les circuits financiers clandestins, Tracfin est le centre unique de réception des déclarations de soupçon émanant de plus de 40 professions assujetties au dispositif de lutte anti-blanchiment (soit près de 200 000 professionnels), et notamment les déclarations de soupçon susceptibles de concerner des infractions de corruption.
+
+L'ordonnance n°2009-104 du 30 janvier 2009 qui a transposé en droit interne la troisième directive européenne relative à la lutte contre le blanchiment et le financement du terrorisme a profondément rénové le dispositif de lutte contre le blanchiment de capitaux et le financement du terrorisme et élargi les capacités d'investigation de Tracfin.
+Elle a notamment étendu le champ d'investigation du service en soumettant à la déclaration de soupçon toute opération dont le déclarant sait, soupçonne ou a de bonnes raisons de soupçonner qu'elle provient d'une infraction punie d'une peine d'emprisonnement supérieure à un an ou participe au financement du terrorisme (article L561-15 du code monétaire et financier).
+
+A partir de ces déclarations de soupçons, ou d'informations reçues par ses homologues étrangers, Tracfin a pour mission de recueillir, d'analyser, d'enrichir et d'exploiter tout renseignement propre à établir l'origine ou la destination délictueuse d'une opération, et notamment les opérations liées à la corruption transnationale.
+
+Les déclarations de soupçon ou les informations reçues sont ainsi tout d'abord introduites dans la base de données du Service et rapprochées avec d'éventuelles données préexistantesTracfin conserve effectivement les informations reçues pendant 10 ans, délai prorogé de 10 ans en cas de transmission à l'Autorité judiciaire.
+
+Si les informations reçues sont exploitables, les agents du Service les rapprochent de toute information utile recueillie dans les fichiers administratifs auxquels ils ont accès directement ou indirectement ou auprès des administrations partenaires (police judiciaire, douane, services de renseignement, administration fiscale, sociales…)Les bases ouvertes sont aussi exploitées.
+
+Au besoin, des cellules de renseignement financier étrangères peuvent être interrogées.
+
+Enfin, les agents recueillent, par l'exercice de leur droit de communication, et analysent tout document utile auprès des professionnels assujettis (relevés de comptes, actes notariés, statuts de société, documents d'expertise comptable, factures…) ou de toute administration ou personne chargée d'une mission de service public, telles les institutions financières et l'administration fiscale.
+
+Le droit de communication exercé par Tracfin :
+
+
+Le service TRACFIN peut demander l'obtention de toutes pièces et documents relatifs à une opération auprès de l'ensemble des professions mentionnées à l'article L.561-2 du Code monétaire et financier (CMF), soit pour reconstituer, à la suite de la réception d'une déclaration ou d'une information émanant de la sphère publique, l'ensemble des transactions effectuées par une personne physique ou morale, soit pour renseigner ses homologues étrangers.
+
+Tout document utile à l'accomplissement de sa mission doit ainsi parvenir à TRACFIN à sa demande (documents bancaires, acte de vente d'un bien immobilier, statuts d'une société, etc) (article L561-26 du Code monétaire et financier).
+
+Un délai peut désormais être fixé pour l'obtention des informations dans le cadre de l'exercice du droit de communicationS'il n'est pas juridiquement contraignant et n'emporte pas de sanction directe en cas de non-respect, l'absence systématique de réponse dans le délai imparti
+est néanmoins un indicateur utile à communiquer à l'autorité de contrôle appelée à apprécier l'application du dispositif par le professionnel concerné.
+
+Ces échanges sont strictement confidentiels :
+
+l'organisme sollicité est tenu de répondre à Tracfin sans en informer la personne physique ou morale visée par le droit de communication.
+
+la réponse peut être transmise au service par tous moyens de nature à garantir cette confidentialité (envoi postal par LRAR, ou par courriel à l'adresse : crf.france@finances.gouv.fr).
+
+Tracfin protège dans un système interne sécurisé toutes les données qui lui sont transmises.
+
+L'exercice du droit de communication suppose en effet le respect par Tracfin du principe de confidentialité des sourcesLe service a ainsi interdiction de divulguer l'identité de l'organisme qui lui transmis des informations, sauf circonstances exceptionnelles et légalement encadrées.
+
+Les agents du service Tracfin apportent donc une expertise documentaire approfondie non contradictoireEn effet, ils ne peuvent procéder à aucun transport sur les lieux, aucune audition ou perquisition.
+
+Le service peut également exercer un droit d'opposition à la réalisation de l'opération signalée dans toute information reçue par le service (déclaration de soupçon, informations
+reçues des administrations, des cellules de renseignement financier étrangères), et même sans déclaration de soupçon préalable du professionnel en charge de l'opérationLe délai pendant lequel l'opération est suspendue est de 5 jours ouvrables à compter de la notification de l'opposition au professionnel, avant que l'autorité judiciaire ne prenne le relais (article L561-25 du code monétaire et financier).
+
+L'exercice du droit d'opposition
+
+
+L'exercice éventuel de ce droit d'opposition suppose la réunion de deux conditions :
+
+l'opération financière considérée n'a pas encore été réalisée,
+
+et TRACFIN en est informé avant sa réalisation effective.
+
+Ce délai peut être prorogé par le Président du tribunal de grande instance de Paris, qui statue par voie d'ordonnance sur requête du directeur de TRACFIN ou du procureur de la République et qui fait l'objet d'une notification directe auprès du professionnel concerné.
+
+Le professionnel peut procéder à l'exécution de l'opération concernée si le service n'a pas notifié d'opposition ou si, au terme du délai ouvert par la notification de l'opposition, aucune décision du président du tribunal de grande instance de Paris ou aucune réquisition judiciaire délivrée par un juge d'instruction ou un juge des libertés et de la détention ne lui est parvenue.
+
+Dans la pratique, Tracfin exerce exceptionnellement ce droit d'opposition, les informations transmises par les professionnels nécessitant en général une analyse complémentaire pour être étayées et pour caractériser suffisamment une infraction.
+
+Lorsqu'il a été exercé, afin notamment d'éviter le transfert hors du territoire ou le retrait en espèces de sommes importantes, le droit d'opposition s'est fait en coordination avec les magistrats susceptibles d'ouvrir une enquête ou déjà saisis qui ont pris le relais avec des décisions de saisie des sommes.
+
+Lorsque ses investigations mettent en évidence des faits susceptibles de constituer une infraction punie de plus d'un an d'emprisonnement, y compris, en conséquence, les délits de corruption,Tracfin doit saisir le Procureur de la République par note d'informationEn effet, et conformément à l'article L561-23 du code monétaire et financier la finalité première de l'action de Tracfin demeure judiciaire.
+
+Depuis le décret n° 2011-28 du 7 janvier 2011, repris à l'article R561-34 du CMF, le conseiller juridique, magistrat judiciaire en détachement, rend un avis obligatoire, sauf en
+cas d'urgence, de nature à éclairer le directeur du service sur la caractérisation de l'infraction motivant la transmission au procureur de la RépubliqueCet avis purement consultatif ne lie aucunement l'Autorité judiciaire.
+
+De même, l'ordonnance du 30 janvier 2009 a consacré l'échange d'informations et de renseignements financiers entre Tracfin et diverses administrations et services publics ainsi qu'avec les cellules de renseignement financier étrangères par le biais des demandes entrantes.
+Les échanges d'informations avec les cellules de renseignement financier étrangères
+
+
+Dans le cadre de la coopération administrative, Tracfin est habilité à échanger des informations sur « des sommes ou opérations qui paraissent avoir pour objet le blanchiment d'une infraction punie d'une peine privative de liberté supérieure à un an ou le financement du terrorisme » avec les cellules de renseignement financier étrangères sur le fondement de l'article L.561-31 du CMF, voire sur la base d'accords bilatéraux conclus avec certaines d'entre entre elles.
+
+Si cette coopération est soumise à certaines exigences notamment en termes de réciprocité, de confidentialité et de respect de la vie privée et des droits fondamentaux des personnes, le statut administratif, policier ou judiciaire de la cellule de renseignement financier est sans aucune incidence sur cette coopération conformément aux prescriptions de l'Union européenne et du groupe Egmont.
+
+Ces échanges sont essentiels compte tenu de la dimension internationale des mécanismes de plus en plus complexes qui s'appuient, à dessein, sur la multiplication des transferts de fonds de pays à pays afin d'en dissimuler l'origine frauduleuse.
+
+Cependant, compte tenu de la primauté de l'entraide judiciaire, et conformément aux dispositions de l'article L561-31 du code monétaire et financier, la dissémination d'informations par Tracfin est limitée dès lors qu'il existe une procédure judiciaire en cours en FranceCette limitation ne concerne que les informations demandées par une CRF étrangère relatives aux mêmes personnes et aux mêmes faits que ceux visés dans la procédure judiciaireElle a vocation à éviter tout risque d'interférence avec la mise en œuvre d'une éventuelle entraide judiciaireNéanmoins elle ne prive pas Tracfin de la possibilité de communiquer à son homologue des informations qui permettraient aux autorités judiciaires françaises et à celles du pays requérant d'entrer en relation afin de coopérer plus rapidement (juridiction compétente en France, coordonnées du magistrat en charge du dossier, numéro d'enregistrement des procédures service d'enquête saisi, etc.).
+
+Sous réserve qu'elles soient en lien avec les faits visés à l'article L.561-15.I du code monétaire et financier, et en lien avec les missions de ces services,Tracfin peut également communiquer des informations aux autorités judiciaires, à l'administration des douanes, aux services de police judiciaire, aux services de renseignement spécialisés lorsque les faits sont susceptibles de révéler une menace contre les intérêts fondamentaux de la Nation en matière de sécurité publique et de sûreté de l'État, à l'administration fiscale et aux organismes sociaux, et enfin, aux services de l'Etat chargés de préparer et de mettre en œuvre une mesure de gel ou d'interdiction de mouvement ou de transfert de fonds, des instruments financiers et des ressources économiques (article L.561-29 du Code monétaire et financier).
+
+Le service peut aussi recevoir toute information lui permettant d'accomplir sa mission émanant des administrations de l'État, des collectivités territoriales, des personnes chargées d'une mission de service public,de l'Autorité judiciaire,des juridictions financières et des officiers
+de police judiciaires (article L561-27 du Code monétaire et financier).
+
+Enfin, Tracfin peut échanger toute information utile à l'accomplissement de leurs missions respectives avec les autorités de contrôle (Autorité de contrôle prudentiel, Autorité des marchés financiers), les ordres professionnels et certaines instances représentatives nationales (article L561-30 du Code monétaire et financier).
+
+Cet échange d'informations dans un cadre tant national qu'international renforce ainsi les capacités d'investigations du service, notamment dans le domaine de la corruption.
+
+Enfin, le décret n°2010-22 du 7 janvier 2010, relatif aux conditions d'application de mesures de gel des avoirs, a permis de compléter le dispositif réglementaire accompagnant l'ordonnance du 30 janvier 2009 : ce décret fixe, pour les personnes assujetties aux obligations de lutte contre le blanchiment des capitaux et le financement du terrorisme, les conditions dans lesquelles elles sont tenues d'appliquer les mesures de gel des avoirs ou d'interdiction de mouvement ou de transfert de fonds.
+
+A partir des déclarations de soupçon des professionnels assujettis, des informations reçues des différentes entités publiques ou personnes privées exerçant une mission de service public, et des demandes entrantes des cellules de renseignement financier étrangères reçues par le service, Tracfin dispose de moyens d'investigations relativement étendus pour détecter des infractions de corruption.
+
+Les professionnels assujettis au dispositif.
+
+Sont soumises au dispositif, les professions suivantes (article L.561-2 du CMF) : Banques et établissements de crédit ; Compagnies d'assurances et intermédiaires d'assurance Établissements de paiement ; Etablissements de monnaie électronique ; Mutuelles et institutions de prévoyance ; Entreprises d'investissement, conseiller en investissements financiers, sociétés de gestion de portefeuille ; Banque de France et Institut d'émission ; Changeurs manuels ; Agents immobiliers ; Responsable des casinos, cercles et sociétés de jeux (Pari Mutuel Urbain, Française des Jeux) et opérateurs de jeux en lignes ; Experts comptables et commissaires aux comptes ; Notaires, huissiers de justice, avocats au Conseil d'État et à la Cour de cassation, avocats, administrateurs et mandataires judiciaires, commissaires-priseurs judiciaires ; Opérateurs de ventes volontaires de meubles aux enchères publiques ; Marchands de pierres précieuses, matériaux précieux, antiquités et d'œuvres d'art ; Sociétés de domiciliation ; Agents sportifs.
+
+Les professionnels, autres que ceux précités, qui « réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux » sont tenus, par défaut et en application de l'article L.561-1 du CMF, de déclarer au procureur de la République les sommes, et les opérations s'y rapportant, qu'ils savent provenir d'une infraction entrant dans le périmètre déclaratif de l'article L.561-15 du CMFCette déclaration, dite « de certitude », qui s'apparente aux dispositions de l'article 40 du Code de procédure pénale, emporte pour le professionnel concerné les mêmes garanties de protection juridique que celles prévues pour le déclarant Tracfin.
+
+La situation spécifique des professions juridiques
+
+Par application des dispositions de l'article L.561-3 du CMF, les avocats au Conseil d'État et à la Cour de cassation, les avocats, les notaires, les huissiers de justice, les administrateurs et mandataires judiciaires et les commissaires-priseurs judiciaires sont soumis au dispositif seulement pour certains domaines de leurs activités, à savoir : lorsqu'ils participent pour leur client à toute transaction financière ou immobilière ou agissent en qualité de fiduciaire ; lorsqu'ils assistent leur client dans la préparation ou la réalisation de transactions concernant : l'achat et la vente d'immeubles et de fonds de commerce ; la gestion de tout actif de leur client ; l'ouverture de comptes bancaires, d'épargne ou de titres ; l'organisation d'apports en société ; la constitution, gestion ou direction de sociétés, des fiducies ou de toute autre structure similaire, la constitution ou la gestion de fonds de dotation.
+
+Le principe ainsi posé est néanmoins encore limité par des restrictions complémentaires : les notaires, huissiers de justice, administrateurs et mandataires judiciaires, commissaires-priseurs judiciaires sont dispensés de l'obligation de déclaration dès lors qu'ils procèdent à une consultation juridique, hormis si elle leur est demandée à des fins de blanchiment ou de financement du terrorisme mais se doivent de mettre en œuvre leurs obligations de vigilance sur lesquelles s'appuie notamment le droit de communication du service Tracfin.
+
+les avocats sont déliés de toute obligation dès lors que leur intervention se rattache à une procédure juridictionnelle « que les informations aient été reçues ou obtenues avant, pendant ou après cette procédure », ou lorsqu'ils donnent une consultation juridique sous réserve de l'exception précitée.
+
+Les limitations prévues demeurent relativement imprécises, en particulier par l'absence de définition en droit interne de la consultation juridique.
+
+Les obligations de vigilances des professionnels assujettis
+
+Les obligations de vigilance doivent être mises en œuvre par le professionnel avant même l'entrée en relation d'affaires, notion qui a été substituée à celle plus restrictive de « relation contractuelle ».
+
+Au terme de l'article L.561-2-1 du CMF, qui s'appuie sur la définition donnée par le législateur communautaire, le professionnel noue ainsi une relation d'affaires avec un client dès la prise de contact et avant même la conclusion du contrat si la relation professionnelle ou commerciale qui s'établit entre eux a vocation à s'inscrire dans la durée.
+
+L'entrée en relations d'affaires impose l'engagement par le professionnel d'une procédure de vigilance.
+
+L'obligation standard (articles L.561-5 et L561-6 et R.561-5 et suivants du CMF)
+
+La loi articule deux phases de vigilance pour les professionnels : une première ab initio au moment de l'entrée en relation avec la clientèle, et une seconde dans le suivi des clients et de leurs opérations.
+
+Les professionnels sont tenus, avant l'entrée en relation d'affaires ou avant d'assister leur client dans la préparation ou la réalisation d'une opération, de procéder :
+
+à l'identification du client de la relation d'affaires ou de l'opération sollicitéeCet impératif s'étend au « bénéficiaire effectif », à savoir « la personne physique qui contrôle, directement ou indirectement, le client ou de celle pour laquelle une transaction est exécutée ou une activité réalisée »(article L561-2-2 du CMF)La définition du bénéficiaire effectif est donnée aux articles R.561-1 à R.561-3 du CMF.
+
+à la vérification de son identité sur la base de la production de tout document écrit probant ;
+
+au recueil d'informations concernant l'objet et la nature de la relation d'affaire envisagée.
+
+A défaut d'obtention de telles données, le professionnel ne peut nouer la relation d'affaires, la poursuivre et exécuter des opérations.
+Il doit ensuite assurer une vigilance constante tout au long de la relation d'affaires permettant ainsi d'avoir une « connaissance actualisée » du client et d'assurer « un examen attentif des opérations » afin d'être en mesure d'évaluer la cohérence de ces dernières et de détecter celles devant faire l'objet d'une déclaration auprès du service Tracfin.
+
+La vigilance renforcée ou allégée
+
+Les obligations de vigilance peuvent désormais être modulées en fonction du risque attaché au client, au produit ou à l'opération que ce dernier soit prédéfini ou laissé à la libre appréciation du professionnel.
+
+Le risque faible (article L561-9 et R.561-15 et 16 du CMF)
+
+une liste de clients ou d'opérations qui présentent intrinsèquement une faible exposition au risque de blanchiment ou de financement du terrorisme sera arrêtée par décret en Conseil d'ÉtatL'incidence première d'une telle classification est d'exonérer le professionnel de toute contrainte de vigilance à leur encontreSi le service Tracfin ne peut donc escompter de déclaration, il ne pourra également obtenir communication des pièces ou documents qui, de facto, n'ont pas à être réunis et conservés.
+
+le professionnel a toute latitude pour réduire, en fonction de son appréciation, l'intensité de certaines mesures de vigilance (informations relatives à la nature et l'objet de la relation d'affaires ainsi que son suivi) mais devra néanmoins être en mesure de justifier de son choix, le cas échéant, notamment auprès de son autorité de contrôle.
+
+Le risque élevé
+
+Une intensification légale, consistant en l'application par le professionnel de mesures de vigilance complémentaires par rapport aux obligations standard, s'impose en toutes circonstances dans les situations suivantes (articles L561-10, L.56110 1 et L.561-10.2 du CMF) :
+
+le client ou son représentant légal n'est pas physiquement présent au moment de l'identification.
+
+le produit ou l'opération favorise l'anonymat, sans préjudice de la prohibition absolue des produits anonymes.
+
+l'opération pour compte propre ou pour compte de tiers est effectuée avec des personnes physiques ou morales, y compris leurs filiales ou établissements, domiciliées, enregistrées ou établies dans un État ou un territoire dont la liste sera arrêtée par décret.
+
+le client répond à la qualification de « personne politiquement exposée » au sens de l'article L.561-10 du CMF, à savoir « une personne résidant dans un autre Etat membre de l'Union européenne ou un pays tiers et qui est exposée à des risques particuliers en raison des fonctions politiques, juridictionnelles ou administratives qu'elle exerce ou a exercées pour le compte d'un autre Etat ou de celles qu'exercent ou ont exercées des membres directs de sa famille ou des personnes connues pour leur être étroitement associées »L'article R.561-18 du CMF précise les catégories de personnes ainsi concernées non seulement à titre principal, telles que « les chefs d'Etat et de gouvernement, les ministres, les parlementaires, les membres des cours suprêmes, constitutionnelles et des comptes, les ambassadeurs » …mais aussi celles qui, de par la nature de leurs liens, y sont assimilées.
+
+Il est important de mentionner que la recommandation 12 du Gafi inclut désormais dans la définition de « personne politiquement exposée » (PPE) les PPE nationales, ainsi que les membres de leur famille et les personnes qui leur sont étroitement associées.
+
+L'examen renforcé
+
+L'article L561-10-2 II du CMF précisé par l'article 561-19 du CMF maintient le principe de l'examen renforcé de certaines opérations que prévoyait la législation antérieure tout en en modifiant substantiellement les conditions de mise en œuvreAux conditions cumulatives de l'ancienne prescription légale ont été substituées des conditions alternatives dépourvues de tout seuil de valorisation (hier 150 000 euros).
+
+Lorsque le professionnel est en présence d'une opération complexe ou d'une opération portant sur un montant inhabituellement élevé ou qui lui paraît dépourvue de justification économique ou d'objet licite, il doit conduire un « examen renforcé », ce qui lui impose d'obtenir de son client les renseignements pertinents sur l'origine et la destination des fonds, l'objet de l'opération et l'identité de son bénéficiaire.
+
+Ce n'est qu'à l'issue de l'examen ainsi prescrit que le professionnel apprécie, en fonction de la pertinence des données recueillies ou du défaut d'obtention de celles-ci, la nécessité de procéder à une déclaration auprès du service Tracfin (article L.561-15 III du CMF).
+
+Les indicateurs de vigilance
+
+L'étape d'intégration des fonds issus de la corruption se manifeste de différentes manières et peut impliquer tous les professionnels assujettis à n'importe quelle étape du blanchiment du produit des infractions sous-jacentes telles la corruption ou le trafic d'influence.
+
+En matière de corruption, les dossiers traités par Tracfin peuvent porter soit directement sur les procédures d'attribution d'un marché, ou bien sur les conditions de son exécution, à travers les modalités de paiement retenues, l'utilisation de certains vecteurs ou bien encore le recours à une prestation spécifique en contrepartie.
+
+En outre, en la matière, le service est tout autant amené à traiter des dossiers ayant une portée locale que nationale, voire revêtant une dimension internationale comme dans le cas évoqué ci-avant.
+
+Dans ce type de dossier, le service a le plus souvent à faire à des sociétés privées opérant en relation directe avec des agents publics nationaux ou étrangers ayant la capacité de décider de l'attribution d'un marchéAinsi, les corrupteurs, qu'il s'agisse de sociétés commerciales et/ou de leurs dirigeants, sont le plus souvent de nationalité française et installées sur le territoire français.
+
+Les personnes corrompues, en France ou à l'étranger, sont généralement des personnes politiquement exposées, des fonctionnaires ou d'anciens fonctionnaires disposant d'une capacité d'influence et/ou de décisionLes flux financiers se présentent généralement sous la forme de virements ou de retraits d'espècesUne partie non négligeable des fonds peut faire l'objet d'un placement mais dans la plupart des cas, l'argent est retiré très rapidement en espèces, soit directement à partir du compte de l'entreprise corruptrice ou bien par l'entremise du compte de l'un de ses dirigeants, soit par le débit du compte en France de la personne corrompue qui peut, le cas échéant, exporter les devises vers son pays d'origine.
+Les Trois étapes du blanchiment
+
+
+
+PLACEMENT= introduire dans le système financier d'un pays des fonds provenant d'opérations délictueuses
+
+
+EMPILAGE = brouiller les pistes de l'origine des fonds par la multiplication des opérations bancaires ou financières successives faisant intervenir divers
+comptes
+
+
+INTEGRATION = investir des fonds d'origine frauduleuse dans les circuits légaux de l'économie et en tirer des bénéfices
+
+Concernant les personnes physiques
+
+Les personnes physiques sont davantage susceptibles de se rendre coupables de corruption passive que les personnes morales.
+
+De manière générale, elles occupent des fonctions publiques ou privées qui leur confèrent un pouvoir de décision important ou qui les fait intervenir dans le pouvoir décisionnelCette description englobe tant la sphère publique que la sphère privée comme les représentants de l'Etat et des collectivités territoriales, les fonctionnaires d'Etat et territoriaux, de la force publique, les officiers publics et ministériels, les personnes investies d'un mandat électif, les cadres d'entreprise, associés, mandataires sociaux…
+
+Les personnes chargées d'une mission de service public peuvent être également impliquées dans un pacte de corruptionIl s'agit par exemple, des administrateurs et mandataires judiciaires, les membres de commissions ou chargés de donner des avis à l'autorité publique ou de statuer sur ses demandes, les personnes qui appartiennent à des établissements publics…
+
+De nombreux dossiers de corruption passive ont également impliqué des personnes politiquement exposées (PPE), exerçant ou ayant exercé des fonctions publiques dans leur pays d'origineElles ne résident souvent pas en France et n'ont aucun lien avec l'hexagone, à part les opérations qu'elles y effectuentLes fonctions occupées sont celles de ministres, de politiciens et à titre général de hauts responsables
+d'administrations publiquesEn outre, il arrive fréquemment que des dirigeants d'une entreprise publique ou de droit étranger soient identifiés dans de tels dossiersLe recours à des tiers, notamment des membres de la famille de la PPE ou des personnes qui leur sont étroitement associées, afin de transférer des fonds, est une technique permettant d'opacifier les liens de corruption.
+
+Si la majorité des dossiers indique que les opérations sont effectuées par les personnes corrompues elles-mêmes, il convient également de souligner le recours accru à des professionnels (intermédiaires commerciaux, facilitateurs...)Il s'agit, dès lors, d'effectuer une analyse comparative entre les prestations effectuées et le montant de la rémunérationLa détection de ces tiers qui peuvent être multiples revêt une importance particulière.
+
+En ce qui concerne la corruption active, les éléments de vigilance semblent plus pertinents sur les opérations en ellesmêmes que sur les personnes.
+
+Concernant les personnes morales
+
+Les personnes morales demeurent la principale source de la corruption active du fait des avantages procurés par celle-ci dans le cadre de l'obtention de contrats favorablesToutefois, une nouvelle problématique est apparue : la corruption privée.
+
+Tout domaine d'activité est perméable à la corruption, qu'il s'agisse de sociétés dont l'activité est majoritairement tournée vers l'international ou d'entreprises à structure plus modeste orientées sur des secteurs régionaux.
+
+L'analyse des flux de corruption illustre également le rôle important des filiales de sociétés comme support de paiement de commissions illégalesEn effet, le besoin de se rapprocher des centres de décision et les restructurations ont conduit à un regroupement des filiales en sous-groupe au sein de structures régionales formant un écran de l'acte corruptifCette stratégie de camouflage se décline généralement par l'installation d'une société écran accompagnée d'un flux de fausses factures, de surfacturation de prestation de la part des fournisseurs ainsi que le recours à des virements de fonds par des centres off-shore.
+
+Les sociétés écran sont également au cœur des montages frauduleux dans le but de masquer les opérations de corruption et de blanchimentIl peut s'agir de personnes morales constituées en parfaite conformité avec l'ordre juridique du pays (trusts, fiducie, holdings...)Il peut également s'agir de sociétés qui n'exercent pas l'objet social pour lequel elles ont été crééesTel est le cas des sociétés internationales domiciliées dans des centres off-shore, bénéficiant ainsi d'un statut les exonérant de toute obligation dès lors que leur activité ne s'exerce pas dans l'Etat qui les abrite.
+
+Certains secteurs apparaissent particulièrement exposés au risque de corruptionIl s'agit notamment des secteurs de la construction, des industries extractives et du commerce internationalL'exposition, de longue date, de ces secteurs ne doit toutefois pas occulter l'existence d'un large spectre de secteurs sensibles, qu'il est difficile de recenser de manière exhaustive.
+
+Concernant les opérations en cause
+
+La connaissance des techniques utilisées par les auteurs de l'acte corruptif facilite la recherche de la preuve et rend plus difficile la mise en place de montages nécessaires à la corruption.
+
+Les personnes liées à un acte de corruption ont tendance à privilégier le recours au système bancaire pour réaliser leurs opérationsL'ouverture de comptes auprès d'institutions bancaires est ainsi très fréquente.
+
+Le schéma principalement utilisé consiste en des versements en espèces suivis de transferts de fonds vers l'étranger (corruption passive) ou en des transferts de fonds depuis l'étranger suivis de retraits d'espèces (corruption active).
+
+Dans le but d'éviter de laisser des traces bancaires, certains corrompus préfèrent le paiement en espèces plutôt qu'un chèque ou un virement et les utilisent pour leurs achats cou-
+rants en essayant de ne pas attirer l'attention sur un train de vie dispendieux.
+
+C'est notamment le cas de la corruption passive privée qui se matérialise généralement par des paiements effectués avant l'attribution des contratsLes manipulations permettant de détourner les appels d'offres sont particulièrement efficaces dans les secteurs économiques dans lesquels la sous-traitance est très utiliséeQuant aux fonds reçus par les corrompus, ils prennent le plus souvent la forme d'espèces ou de cadeaux (voyages…).
+
+La question des transferts de fonds est centrale puisque l'objectif principal de ces opérations est de dissimuler l'origine ainsi que la destination des fondsLa dimension internationale des opérations, avec l'utilisation de places financières off-shore (ouverture de comptes pour des sociétés sans réalité économique certaine, ou par des intermédiaires) illustre également la volonté d'opacifier les relations en externalisant la corruption.
+
+Dans ce contexte, les professionnels du chiffre sont en première ligne dans la lutte contre la corruption puisque les manipulations comptables permettent d'opacifier les montages financiers illégauxLes experts comptables, commissaires aux comptes doivent ainsi être attentifs à certains secteurs de gestion comme le processus des achats et immobilisations (création d'un fournisseur fictif, surfacturation d'une prestation…), le processus des ventes (fausses ventes, transferts de comptes à comptes…) ainsi que dans le processus d'embauche et de règlement salarial (salariés fictifs, manipulation des remboursements de frais…).
+
+La forte propension des blanchisseurs du produit de la corruption à utiliser le réseau bancaire ne doit toutefois pas marginaliser le recours à d'autres professions non financièresEn effet, le canal bancaire ne constitue qu'un des éléments de la chaîne du blanchimentC'est la raison pour laquelle les professionnels visés par l'article L.562-1 du Code monétaire et financier doivent être attentifs à chacune des phases du blanchiment.
+
+Mais l'étape d'intégration des fonds issus de la corruption se manifestant de différentes manières, peuvent aussi notamment être impliqués les notaires ou les agents immobiliers à l'occasion d'investissements immobiliersEn effet, le corrompu ou ses proches peuvent utiliser les fonds versés par la contrepartie illicite lors d'acquisitions immobilières en France et à l'étranger.
+
+Les professionnels des biens de grande valeur (secteur des antiquités, de la bijouterie, horlogerie, joaillerie, orfèvrerie et accessoires) ou de l'art (commissaires-priseurs, sociétés de vente volontaire) sont également susceptibles de participer
+à une opération de blanchiment des fonds issus de la corruptionLa phase d'intégration des fonds dans l'économie légale peut ainsi s'opérer par la technique de l'achat-revente d'œuvres d'art.
+
+Quelques Indicateurs de vigilance
+
+
+Des indicateurs d'alerte peuvent orienter la démarche des professionnels concernés par ce type d'opération dans la gestion de leur procédure interneCependant, au vu de la diversité des techniques employées, ceux-ci ne sauraient être exhaustifs et appellent à une attention renforcée de la part des intervenants de la lutte contre la corruption.
+
+Tout fonctionnaire étranger disposant d'un compte bancaire sur le territoire national et ne résidant pas de manière régulière sur ce territoire ;
+
+L'utilisation d'un compte personnel, situé à l'étranger, par une personne exerçant de hautes fonctions publiques pour recevoir des fonds en provenance de sociétés ;
+
+L'utilisation d'un compte ouvert à l'étranger au nom des dirigeants d'une société ou au nom d'une société ayant une activité locale afin d'effectuer des retraits d'espèces ;
+
+Attention nécessaire pour toutes les opérations en lien avec un contrat public ;
+
+Rémunération de personnes physiques sans lien apparent avec l'activité d'une société ;
+
+L'utilisation d'un compte personnel, situé à l'étranger, par une personne exerçant de hautes fonctions publiques dans le but de recevoir des fonds en provenance d'une société sans justification économique ;
+
+L'intervention de sociétés écrans ainsi que des opérations en lien avec des places off-shore facilitent l'utilisation de comptes de passage afin de rendre indétectables les transferts de fonds en provenance et/ou à destination de l'étranger ;
+
+L'absence d'intérêt économique à détenir des comptes bancaires en France, les intervenants étant établis à l'étranger ;
+
+Le transfert de trésorerie d'une société vers une filiale implantée à l'étranger ;
+
+Les transferts de fonds vers des comptes ouverts dans des établissements étrangers et en particulier dans des centres off-shore par des sociétés sans réalité économique certaine nécessitent une approche critique des pièces justificatives produites ;
+
+Compte bancaire, récemment ouvert, crédité d'un important flux sans justification économique ;
+
+Quelques Indicateurs de vigilance - suite
+
+
+Ouverture d'un compte suivi de peu ou pas de mouvements et qui devient subitement actif et sur lequel, en un laps de temps assez court, sont réalisés d'importantes opérations créditrices et débitrices ;
+
+La présentation de documents falsifiés (attention particulière sur des documents manuscrits) ;
+
+Le recours à des tiers, notamment des membres de la famille afin de transférer des fonds ;
+
+L'utilisation d'un compte tiers et le recours aux espèces répondent à une volonté de dissimulation de l'origine des fonds ;
+
+La constitution de fonds hors bilan, pratique utilisée pour payer des commissions occultes ;
+
+Le recours à des comptes en devises ;
+
+Achat d'une police à prime unique, en espèces, par des clients dont les ressources ne sont pas connues ;
+
+Souscription d'un contrat par un client particulièrement préoccupé de son droit à résilier celui-ci avant le terme ;
+
+Souscription d'un contrat avec paiement des primes à partir de centre financier offshore ;
+
+Souscription de contrats prévoyant le paiement de primes pour d'importants montants ;
+
+Souscription de contrats, dans un laps de temps très court, par les mêmes personnes ;
+
+Client accompagné par une tierce personne lors de la souscription d'un contrat ;
+
+Le souscripteur d'assurance n'est pas celui qui verse les primes ;
+
+Substitution, en cours de contrat, du bénéficiaire initial d'une police par une personne sans lien apparent avec le souscripteur ;
+
+Recours à de nombreux intermédiaires étrangers ;
+
+Résiliation de contrats avant leur échéance sans justification plausible et sans que le client ne s'inquiète de l'impôt ou d'autres pénalités qu'il devra payer ;
+
+Recours à des établissements spécialisés dans le prêt immobilier dont l'octroi n'est fait qu'à partir d'un contrôle sur pièces, rendant difficile le contrôle de faux documents
+
+Une acquisition immobilière est effectuée sans que le client n'ait vu le bien ;
+
+Quelques Indicateurs de vigilance - suite
+
+
+Le client utilise des noms différents lors du compromis de vente et de la vente ;
+
+Le client explicite des difficultés pour payer le prix de vente par virement ou chèque ;
+
+Des biens immobiliers sont vendus avec des marges bénéficiaires inhabituelles et/ou inadéquation avec la tendance du marché local et/ou national ;
+
+Le client a changé successivement d'interlocuteurs, dans un laps de temps court, sans explication valable ;
+
+Le client n'habite pas dans la région où le professionnel exerce ;
+
+Utilisation de sociétés étrangères lors de l'acquisition immobilière sans qu'une quelconque raison fiscale ne le justifie ;
+
+Le train de vie d'un fonctionnaire qui ne paraît pas en lien avec ses ressources déclarées
+
+
+La déclaration de soupçon à TRACFIN
+
+L'article L.561-15 du CMF prévoit que le professionnel assujetti est tenu, sur la base de son appréciation, d'alerter le service Tracfin et d'établir une déclaration « de soupçon » : elle porte sur les sommes ou opérations pour lesquelles le professionnel « sait, soupçonne ou à de bonnes raisons de soupçonner » qu'elles proviennent d'une infraction punie d'une peine privative de liberté supérieure à un an ou pourraient participer au financement du terrorismeLes tentatives de ces opérations doivent également faire l'objet d'une déclarationCe champ qui se rapproche du délit pénal de blanchiment (article 324-1 du code pénal) englobe la quasi-totalité des délits qui sont source de profits pour leurs auteurs et notamment la corruption, et le trafic d'influence.
+
+Le système repose sur une analyse au cas par cas des sommes et opérations, en fonction du profil de la relation d'affaires et de la classification des risques.
+
+C'est par une démarche pragmatique et graduée fondée sur
+son appréciation nourrie de son expertise et de son expérience et s'appuyant sur un dispositif interne de détection des anomalies, que le professionnel est tenu de détecter les opérations qui constituent des anomalies au regard du profil des relations d'affaires et d'établir, lorsqu'un soupçon est constitué, une déclaration de soupçon.
+
+Cette appréciation s'appuie sur les diligences des entités déclarantes qui sont tenues de détecter les opérations susceptibles de faire l'objet d'une déclaration, de les analyser au cas par cas et de procéder, le cas échéant, à ladite déclaration.
+
+Quels renseignements doivent figurer dans la déclaration de soupçon ?
+
+Le contenu de la déclaration est précisé à l'article R561-31 du code monétaire et financierElle doit notamment comporter, à peine d'irrecevabilité,
+
+la profession exercée par la personne qui effectue la déclaration par référence aux catégories mentionnées à l'article L561-2 ;
+
+les éléments d'identification et les coordonnées professionnelles du déclarant désigné conformément aux dispositions de l'article R561-23 ;
+
+le cas de déclaration par référence aux cas mentionnés aux I (déclaration de soupçon), II (déclaration de soupçon de fraude fiscale), et V (déclaration de soupçon complémentaire) de l'article L561-15 ;
+
+les éléments d'identification du client et, le cas échéant, du bénéficiaire effectif de l'opération qui fait l'objet de la déclaration ainsi que, dans le cas où une relation d'affaires a été nouée avec le client, l'objet et la nature de cette relation ;
+
+un descriptif de l'opération et les éléments d'analyse qui ont conduit à effectuer la déclaration ;
+
+lorsqu'elle porte sur une opération qui n'a pas encore été
+exécutée, le délai d'exécution de cette opération.
+
+Elle doit en outre être accompagnée de toute pièce ou document justificatif utile à son exploitation par le service TRACFIN.
+
+Le strict respect de ces dispositions est indispensable à l'exploitation de la déclaration par TRACFINLa clarté, la concision et la précision de la présentation de ces éléments dans la déclaration sont également particulièrement importantes.
+
+La déclaration doit, en outre, être faite de bonne foi ce qui suppose que le soupçon de corruption soit étayé, documenté et fondé sur des données fiables et vérifiées.
+
+La déclaration sera nourrie par les éléments ayant permis la détection des anomalies et ceux de l'analyse approfondie conduisant au soupçon de corruption.
+
+Qu'est-ce qu'un soupçon ?
+
+
+Le soupçon est le fruit d'une réflexion du déclarantIl résulte d'un doute qui le conduit à s'interroger sur la licéité de l'opération qui lui est demandéeCompte tenu des informations dont il dispose sur son client (identité, notoriété, profession, etc.) et des éléments, notamment financiers, concourant à cette opération, le professionnel doit procéder à une déclaration lorsqu'il ne peut exclure tout doute sur le caractère régulier ou licite de l'action ou de l'acte envisagé.
+
+La déclaration doit donc comprendre :
+
+tous les éléments objectifs relatifs aux flux déclarés à savoir :
+
+la synthèse des opérations et des mouvements,
+
+le développement des faits concernant ces opérations,
+
+la précision sur l'origine et la destination, certaine ou présumée, des fonds sur lesquels porte le soupçon
+
+une analyse argumentée du soupçon, c'est-à-dire, les éléments de faits particuliers qui ont conduit à s'interroger sur une opération a priori légale : en quoi cette opération est-elle suspecte ? Pourquoi l'origine des fonds peut-elle paraître douteuse ? En quoi les explications ou justifications apportées par le client sont-elles peu convaincantes ou crédibles ? etc.
+
+Les professionnels doivent donc s'abstenir de faire des déclarations qui sont uniquement motivées par des éléments de contexteAinsi, ne pourra faire l'objet d'investigations par le service :
+
+une déclaration de soupçon laconique faisant uniquement état de la réception d'une réquisition judiciaire ou d'une demande de renseignement émanant d'une administration ;
+
+une déclaration de soupçon qui procède d'un simple présupposé lié à l'activité du client, à son adresse ou à son pays de résidence ou d'enregistrement, sans autre précision sur le motif du soupçon.
+
+Il en est de même des déclarations émises en raison des difficultés entre l'établissement concerné et son client, ou du comportement de celui-ciSi le comportement d'un client peut constituer un indice intéressant, il ne peut, en aucun cas, suffire à motiver l'envoi d'une déclaration de soupçon.
+
+Comment effectuer la déclaration de soupçon ?
+La déclaration de soupçon peut être verbale ou écriteDepuis le 1er juin 2013, les professionnels assujettis du secteur
+financier (professionnels visés aux 1° à 6° de l'article L.561-2 du code monétaire et financier) à l'exception des intermédiaires d'assurance mentionnés au point 2° et des conseillers en investissements financiers mentionnés au point 6°, ont l'obligation, d'effectuer la déclaration en ligne via la procédure
+sécurisée Ermes (Echanges de renseignements par messages en environnement sécurisé) mise en place par Tracfin.
+
+Les professionnels du secteur non financier ainsi que les intermédiaires d'assurance et les conseillers en investissements financiers précités, devront, quant à eux, s'ils choisissent de ne pas utiliser Ermes, employer, depuis le 1er septembre 2013, impérativement le modèle de déclaration disponible en ligne sur le site de Tracfin (http://www.economie.gouv.fr/TRACFIN).
+
+En application des articles L561-18 et R561-31.II du code monétaire et financier, la déclaration de soupçon peut également être recueillie verbalement dans des conditions qui permettent au service Tracfin de s'assurer de la qualité du déclarant, c'est-à-dire exclusivement en présence de ce dernierMais ce mode de déclaration doit être utilisé s'il se justifie par les circonstances de la préparation ou de la réalisation de l'opération en cause.
+
+Par dérogation, l'avocat au Conseil d'Etat et à la Cour de cassation, ou l'avocat, communique la déclaration, selon le cas au président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, ou au bâtonnier de l'ordre auprès duquel l'avocat est inscritCes autorités transmettent ensuite la déclaration à Tracfin (article L561-17 du code monétaire et financier).
+
+Irrecevabilité d'une déclaration de soupçon
+
+
+Conformément à l'article L.561-31 du code monétaire et financier, le déclarant qui n'utiliserait pas la plateforme Ermes ou le formulaire dématérialisé obligatoire (pour les personnes mentionnées au 2° et au 6° à 17° de l'article L561-2 du Code monétaire et financier, le cas échéant), ou qui omettrait un ou plusieurs éléments d'informations obligatoires sera invité à régulariser sa déclaration dans un délai d'un mois.
+
+À défaut de régularisation dans ce délai, il sera informé par Tracfin de l'irrecevabilité de sa déclaration de soupçon, conformément à l'arrêté du 6 juin 2013Cette irrecevabilité entraînera des conséquences importantes pour le déclarant puisqu'elle le privera du bénéfice de l'exonération de responsabilité civile, pénale et professionnelle prévue à l'article L561-22 du Code monétaire et financier.
+
+Cette procédure d'irrecevabilité ne porte pas sur les éléments de fond de la déclaration tels que la qualité des informations adressées et l'analyse du soupçon, mais uniquement sur les mentions de forme.
+
+A quel moment la déclaration de soupçon doit-elle être effectuée ?
+
+Le principe posé par l'article L561-16 du code précité, alinéa premier est que la déclaration de soupçon est effectuée préalablement à l'exécution de l'opération, laissant ainsi à TRACFIN la possibilité d'exercer son droit d'oppositionLa personne assujettie doit donc s'abstenir d'effectuer toute opération dont elle soupçonne qu'elle pourrait être liée notamment à des faits de corruption ou de trafic d'influence, ou plus généralement.
+
+La déclaration peut toutefois porter sur des opérations déjà exécutées (article L561-16 alinéa 2 du code monétaire et financier) :
+
+lorsqu'il a été impossible de surseoir à son exécution ;
+
+quand son report aurait pu nuire au déroulement d'investigations en cours ;
+
+ou si le soupçon est apparu postérieurement à l'exécution de l'opération en question.
+
+Elle doit alors être adressée à TRACFIN sans délai (article R561-16 du code monétaire et financier) quitte à compléter ultérieurement, par un nouvel envoi complémentaire à TRAC-FIN, les informations communiquées.
+
+Statut de la déclaration de soupçon et protection du déclarant :
+
+L'article L.561-19 du CMF affirme explicitement le caractère confidentiel de la déclaration qui est opposable aux professionnels soumis au dispositif sous peine des sanctions prévues à l'article L.574-1 du même codeInterdiction leur est ainsi faite de révéler au propriétaire des sommes et à toute autre personne, l'existence d'une déclaration auprès de TRACFIN et les suites qui lui ont été réservées.
+
+La déclaration en tant que telle ne fait l'objet d'aucune divulgation externe par le service TRACFIN y compris dans l'hypothèse où, à l'issue des investigations menées sur son fondement, il saisit le procureur de la République par note d'information (article L.561-24 du CMF).
+
+Cette prescription constitue l'un des points d'équilibre majeur du dispositif national de lutte contre le blanchiment et le financement du terrorismeElle procède d'une volonté affirmée de prémunir l'auteur d'une déclaration contre d'éventuelles pressions ou représailles en excluant qu'un tel document, qui
+est le seul à comporter ses éléments d'identification, puisse être versé au dossier de procédure et être ainsi accessible aux personnes mises en examen ou prévenues.
+
+Ce principe est appliqué dans le cadre de toutes les investigations judiciaires que ces dernières aient ou non pour origine une note d'information du service TRACFIN.
+
+L'article L.561-19 du CMF prévoit ainsi que la déclaration n'est accessible à l'autorité judiciaire que sur réquisition auprès du service TRACFIN, et uniquement dans les cas où cette dernière est nécessaire à la mise en œuvre de la responsabilité du professionnel quand l'enquête judiciaire fait apparaître qu'il est lui-même impliqué dans le mécanisme de blanchiment ou de financement du terrorisme qu'il a révélé.
+
+Dans le même ordre d'idée, il est essentiel de veiller à ce que la déclaration ne puisse être saisie lors de perquisitions chez un professionnel, soit de manière volontaire, soit par inadvertance si ce dernier n'a pas pris le soin de procéder à sa dissociation du dossier « client », et à sa conservation sécurisée.
+
+La déclaration de soupçon établie de bonne foi exonère le professionnel de sa responsabilité professionnelle, civile ou pénaleEn contrepartie des obligations qui leur sont imposées, les professionnels disposent ainsi d'un régime protecteur afin de les prémunir contre l'éventuelle mise en cause de leur responsabilité.
+
+De même, sous réserve que la déclaration de soupçon ait été effectuée de bonne foi, le déclarant ne peut être poursuivi du chef de violation du secret professionnel (article L.561-22 du CMF) par un client ayant eu connaissance de manière incidente, voire illégale au regard des interdictions précitées, d'une déclaration le concernant.
+
+Cet article le prémunit également contre l'engagement éventuel de poursuites à son encontre du chef de dénonciation calomnieuse et étend ses effets, sans aucune ambiguïté, à la communication de pièces ou documents, sur sa demande, au service TRACFIN.
+3Typologies et jurisprudence
+
+Matérialisation de la corruption au travers des typologies observées
+
+
+La corruption se matérialise principalement par des virements, des remises de chèques, mais aussi sous forme d'espècesDans certains dossiers, un recours simultané à ces divers instruments peut également être observé.
+
+Les sommes concernées sont variables, elles oscillent entre quelques milliers d'euros et plusieurs centaines de milliers d'euros.
+
+L'opération de corruption peut-être isolée, facilement identifiable (1 chèque ou 1 virement 1 bénéficiaire) ou au contraire sophistiquée car noyée dans une multitude de transactions bancaires impliquant plusieurs sociétés (certaines spécialement créées pour l'occasion), et paysCelles-ci deviennent, par conséquent, plus difficilement repérables.
+
+En revanche, certaines opérations répétées peuvent être décelables plus facilement car sans
+A -juisntisfitcrautiomn eécnotnsominiqteuer.nationaux
+
+Dans certains dossiers, les personnes corrompues n'utilisent pas leurs comptes personnels pour recevoir leurs gratifications mais se servent des comptes de proches (comptes bancaires de leurs enfants ou conjoint), l'argent pouvant ensuite être re-transféré.
+
+Certains comptes peuvent être spécialement ouverts pour ce type d'opération (dans un établissement situé à l'étranger, voire dans un pays à fiscalité privilégiée).
+
+A Affaires marquantes et typologies
+
+
+Cas n°1 : recel d'abus de biens sociaux et corruption
+
+Flux à l'origine du soupçon de corruption
+
+L'attention du service a été appelée sur le caractère atypique de certains paiements reçus par Monsieur X employé de la commune Alpha en qualité de responsable des services de cette municipalité et de la communauté d'agglomération Béta dont il a été le secrétaire.
+
+Depuis l'automne N-2, le compte personnel de Monsieur X a été crédité par plusieurs opérations émanant de particuliersUne première étude effectuée par le service a permis de démontrer que les particuliers concernés avaient un rôle de simples intermédiaires dans le transfert de sommes ayant une origine commune, à savoir deux sociétés jumelles : A et B.
+Ainsi, par l'entremise de ces intermédiaires, les gérants des sociétés A et B ont adressé des versements réguliers à Monsieur
+XEn contrepartie, il semble que ces sociétés ont pu bénéficier de contrats de façon régulière avec la commune Alpha et la communauté d'agglomération BétaUne étude précise des comptes de Monsieur X a ensuite permis d'apprendre qu'il avait perçu dès N-2, outre les rémunérations en provenance de la communauté d'agglomération Béta en sa qualité de responsable communal, six chèques et cinq virements, tous de montants ronds oscillants entre 5 000 € et 15 000 € pour un total supérieur à 70 000€.
+
+Les recherches entreprises parallèlement par le service ont permis de révéler que l'origine des fonds ayant servi au financement de ces opérations provenait systématiquement de
+
+deux sources (les sociétés A et B précitées), dirigées par un monsieur Y.
+
+Si la majorité des personnes impliquées ne jouent donc qu'un rôle d'intermédiaire, l'utilisation simultanée de plusieurs comptes indique une volonté délibérée de dissimuler les paiements vers monsieur XAfin d'étayer cette hypothèse, une étude de l'activité des deux sociétés concernées a été entreprise afin de préciser l'objectif de ces mouvements financiers.
+
+Les recherches effectuées par les enquêteurs de Tracfin ont ainsi permis de découvrir que les sociétés A et B, exerçant respectivement leur activité dans les domaines de l'organisation de séjours touristiques et de la restauration, bénéficiaient de nombreux contrats avec des collectivités locales dont la
+commune Alpha et la communauté d'agglomération BétaCes investigations ont aussi mis en lumière qu'une partie du chiffre d'affaires était détournée vers un compte privé de Monsieur Y, lui permettant de financer indirectement par un système de « caisse noire », les intermédiaires.
+
+De plus, il s'est avéré que plusieurs marchés publics ne nécessitant pas une procédure d'appel d'offres du fait de leur montant limité avaient été obtenus par les sociétés A et B auprès de ces collectivités, ayant trait à l'organisation de cérémonies ou à d'opérations de communication spécifiquesA première vue, le préjudice estimé représentait un montant global de près de 700 000€Aux termes de cette enquête,Tracfin a pu identifier des opérations susceptibles de caractériser les délits d'abus de biens sociaux et de trafic d'influence.
+
+Schéma de blanchiment
+
+
+Cas n°2 : Corruption et attribution de marchés publics à l'étranger
+
+Flux à l'origine du soupçon de corruption
+
+La société de droit américain A est à la tête d'une pyramide de sociétés, toutes liées les unes aux autresPrésent dans environ 150 pays au travers de ses multiples filiales, le groupe emploie plus de 5 000 personnesPar l'entremise de sa société B dont l'objet principal est de prendre des participations et des intérêts dans toutes sociétés ou entreprises commerciales,
+industrielles, financières et de plusieurs sociétés et holdings installées en France, la société A détient 89 % du capital de la société C en nom collectif ayant pour activité « l'importation, l'exportation, la distribution et négoce de tous produits et matériels pour la biologie ».
+
+L'attention de Tracfin a été appelée sur des mouvements financiers impliquant la société CLes investigations effectuées par le service ont permis de révéler qu'au cours de la période 2005-2009, dans le cadre de contrats de prestation de ser-
+
+vices qui auraient permis à la société A l'obtention de marchés publics dans un pays émergent situés hors de l'Union européenne, la société C a adressé des flux très élevés de fonds à destination d'entités étrangèresL'examen de ces contrats, qui portent sur la fourniture de « matériel et réactif scientifique », a permis au service d'identifier sept structures capitalistiques, dont trois concentrent l'essentiel des fonds, ayant perçu d'importantes commissions au cours de cette période, atteignant un montant global supérieur à 11 millions d'euros.
+
+Le service a découvert que les sièges sociaux de ces sept établissements sont, pour une grande majorité d'entre eux, situés dans des zones dites « off-shore », ce qui induit une opacité quant à l'identification des donneurs d'ordreEn outre, leur domiciliation bancaire ne correspond pas nécessairement au pays du siège social.
+
+Les investigations menées par le service ont également permis de mettre en avant certains éléments sujets à interrogationAinsi, il est apparu que les commissions qui ont été versées sont totalement disproportionnées au regard des pratiques rencontrées sur les autres marchés d'import-export (jusqu'à 25% du montant total d'un contrat)Par ailleurs, certains contrats de prestations de services ont été signés entre les dits sociétés intermédiaires et un certain MX, représentant
+de la société C dans ce pays émergent (le tampon de la société française y figure), alors que ce dernier ne disposait d'aucun mandat pour la signature de tels actes.
+
+Ainsi, alors que MX, qui se serait donné la mort fin 2007, puis son successeur M.Y ne disposaient pas d'aucune délégation de signature de la part du représentant légal de la société A, les transferts correspondant au règlement de ces commissions ont tout de même été effectués depuis l'un des comptes bancaires de l'entité française.
+
+Depuis 2005, les sommes versées ont été fractionnées de manière homogène, ce qui constitue un indice supplémentaire.
+
+Enfin, outre le fractionnement des commissions, la proximité phonétique entre certaines sociétés intermédiaires, il est possible que d'autres entités fournisseurs/distributeurs de la société C aient vraisemblablement permis de camoufler le paiement de ces commissions.
+
+Les éléments financiers relevés par le service semblent s'inscrire dans un schéma de corruption lié à l'obtention de marchés publics à l'étrangerLes éléments rassemblés par le service ont été transmis à la justice.
+
+Schéma de blanchiment
+
+
+Cas n°3 : corruption d'une personne politiquement exposée étrangère
+
+Profil des intervenants
+
+Un haut fonctionnaire d'un pays A (PPE)
+
+Une société française dont l'activité est située dans le pays A
+
+Flux à l'origine du soupçon de corruption
+
+Une personne, exerçant de hautes fonctions dans un ministère d'un pays A ouvre un compte bancaire en France alors même qu'il n'y dispose pas d'une résidence régulière.
+
+Peu de jours après, ce compte est crédité par une société française dont l'activité est essentiellement localisée dans un pays A.
+
+En raison de l'absence de réponses précises quant à l'origine et la motivation d'un tel flux, la banque a refusé de créditer le compte et en a demandé la clôtureLe jour même, ce fonctionnaire recevait un virement de 1 000 euros via un établissement de transfert de fonds en provenance d'une société française.
+
+Critères d'alerte :
+
+Ouverture d'un compte bancaire par une personne ne disposant pas d'une résidence régulière en France ;
+
+Flux créditeurs sans logique économique peu de temps après l'ouverture de ce même compte.
+
+Cas n°4 : corruption d'un agent public étranger par une société d'import-export française
+
+Profil des intervenants
+
+Une société d'import-export française B
+
+Monsieur X, dirigeant de la société B
+
+Le ministère de la défense d'un pays A
+
+M.Y, ancien haut fonctionnaire du pays A
+Monsieur Z, particulier ayant entretenus des liens avec les dirigeants du pays A
+
+Flux à l'origine du soupçon de corruption
+
+Le compte en banque d'une société d'import-export française B enregistre, deux jours après son ouverture, un flux créditeur à hauteur de 150 000 euros à la suite de contrats passés avec le ministère de la défense d'un pays étranger A.
+
+Outre le fait que cette société B ne possède qu'un seul compte bancaire en France, les faibles règlements en faveur de fournisseurs (15 000 euros), ainsi que l'émission d'un chèque de 50 000 euros (représentant le tiers du flux crédité) en faveur d'un particulier, MZ, n'ayant plus d'activité professionnelle connue, mais ayant entretenu des liens personnels avec des dirigeants du pays A, mettent en lumière le fonctionnement atypique des mouvements financiers.
+
+De plus, le recours aux retraits d'espèces à hauteur de 45 000 euros (représentant 38 % des débits) ainsi que le virement de 20 000 euros (dont l'intitulé est « Commission sur marché ») à destination d'une personne, M.Y (ayant exercé de hautes fonctions publiques au sein du gouvernement du pays A qui aurait délivré le contrat pour la société française B), mettent en évidence un probable schéma de corruption d'agent public étranger.
+
+Enfin, le dirigeant de cette société, MX, a également procédé à un virement créditeur de 20 000 euros depuis le compte de la société B vers son compte bancaire personnel, suivi d'un retrait d'espèces du même montant, sans que la destination de ces fonds ne puisse, par essence, être connueDans un contexte probable de corruption, cette operation interpelle.
+Schéma de blanchiment
+
+
+Critères d'alerte
+
+Le compte bancaire d'une société enregistre des opérations atypiques : flux créditeurs internationaux suivis de retraits d'espèces sans justification économique.
+
+Chèques en faveur d'un particulier ayant eu des liens avec les dirigeants du pays A sans lien apparent avec l'activité économique de l'entreprise.
+
+Un virement à destination d'un haut fonctionnaire du pays dans lequel le marché avec le ministère de la défense a été passé et intitulé « commission sur marché ».
+
+Cas n°5 : corruption d'une personne politiquement exposée via un schéma financier complexe
+
+Profil des intervenants
+
+Un ancien ministre du pétrole d'un pays étranger (PPE)
+
+Une SCI enregistrée en France et dont l'ancien ministre est le gérant
+
+Une société A, dont le siège social se situe sur une place financière à fiscalité privilégiée et dont l'ancien ministre est l'ayant droit économique
+
+Flux à l'origine du soupçon de corruption
+
+Le service a été informé qu'un ancien ministre du pétrole d'un pays étranger, titulaire de plusieurs comptes bancaires, notam-
+ment en France, s'était fait mettre à disposition de fortes sommes d'argent depuis le compte d'une société A implantée sur une place financière à fiscalité privilégiée.
+
+De nombreux retraits d'espèces, ainsi que des flux créditeurs conséquents, ont ainsi mouvementé son compte bancaire en France.
+
+La présence de cette personne politiquement exposée (PPE) sur le territoire français a été détectée sur le fondement d'un signalement relatif aux mouvements importants d'une SCI, récemment crééeCet ancien ministre agissait, sous couvert d'un alias, en tant que gérant de cette sociétéLe compte de la SCI a été crédité d'un chèque de notaire, correspondant à la vente d'un bien immobilier, d'un montant nettement inférieur à son prix antérieur d'acquisition et en inadéquation avec la tendance du marché immobilier.
+
+Parallèlement, l'autorité judiciaire était rendue destinataire d'un rapport d'inspection du superviseur bancaire qui faisait état d'autres transferts de fonds émanant d'un établissement bancaire à l'étranger, ainsi que de l'absence de déclaration de soupçon de la part de ce dernierAu total, 6.100.000 dollars avaient été ainsi mis à la disposition de l'intéressé.
+
+Les investigations entreprises permettaient d'établir que cet ancien ministre était également l'ayant droit économique du compte bancaire de la société A et de plusieurs autres sociétés toutes étroitement liées entre elles.
+
+Une perquisition était effectuée, conjointement avec les services fiscaux, dans la mesure où l'intéressé était également soupçonné d'avoir une activité occulte d'intermédiaire dans le négoce de produits pétroliersA l'issue de cette perquisition, l'autorité judiciaire était saisie de faits connexes à ceux révélés par la cellule de renseignement financierIl était ainsi confirmé en particulier que l'intéressé était propriétaire, par le biais d'une SCI dont il assurait la gérance, d'un patrimoine immobilier très important en France.
+
+Au delà de la qualité d'ancien ministre du corrompu, l'affaire revêtait un caractère particulier du fait de la mise en cause publique de l'intéressé par le nouveau gouvernement de son pays d'origine qui dénonçait la mise en place d'un système de corruption dont il aurait été l'initiateur et l'un des principaux bénéficiaires (il aurait ainsi perçu 100 millions de dollars de commissions lorsqu'il était ministre du pétrole).
+
+Critères d'alerte
+
+Les comptes bancaires d'un haut responsable d'un pays étranger, enregistrent de nombreux retraits d'espèces ainsi que des flux créditeurs sans corrélation avec son activité déclarée.
+
+Sont observés des mouvements de fonds importants sur le compte bancaire d'une société civile immobilière (SCI).
+
+Cas n°6 : corruption d'une personne politiquement exposée dans le cadre d'un marché public avec des entreprises françaises
+Profil des intervenants
+
+MX, ministre de l'agriculture d'un pays étranger D
+
+Deux sociétés A et B du secteur informatique
+
+M.Y, particulier, ressortissant français
+
+Flux à l'origine du soupçon de corruption
+
+Une personne politiquement exposée (PPE), M.X, ministre de l'agriculture d'un pays D, ayant plusieurs comptes bancaires ouverts en France, reçoit régulièrement des virements de la part de sociétés françaises du secteur informatique (les sociétés A et B) dont l'objet social est sans rapport avec l'activité de l'intéressé.
+
+Les entreprises A et B ont obtenu des contrats dans l'État concerné, ainsi que dans des pays limitrophes, afin d'installer des systèmes informatiques.
+
+En outre, les comptes bancaires détenus par un proche de M.X, M.Y, au sein d'autres établissements bancaires français, sont au même moment, alimentés par des dépôts d'espèces conséquents.
+
+La cellule de renseignement financier, dans le cadre de ses démarches auprès de ses interlocuteurs, a d'ailleurs été informée que le train de vie dispendieux de M.X avait conduit à l'engagement d'une enquête à son encontre afin de déterminer l'origine de ses revenus.
+
+Schéma de blanchiment
+
+
+Critères d'alerte
+
+MX, PPE et ressortissant d'un Etat étranger dispose de comptes bancaires en France sans justification économique apparente.
+
+Les comptes bancaires sont mouvementés par des virements émanant de sociétés françaises ayant passé des contrats avec l'Etat étranger dans lequel MX exerce de hautes fonctions publiques.
+
+Les comptes sont alimentés par des montants ronds.
+
+Les comptes bancaires français détenus par un proche de l'intéressé sont alimentés simultanément par d'importants versements d'espèces, suivis d'importants retraits.
+
+Cas n°7 : utilisation de comptes bancaires dans des pays à fiscalité privilégiée pour le versement de commissions dans le secteur pétrolier
+
+Ce consultant, résidant dans un département rural mais également à l'étranger, est le président directeur général de deux sociétés implantées sur des places financières offshore.
+
+Celui-ci s'est spécialisé dans l'intermédiation financière privée pour le compte de plusieurs sociétés françaises (A et B) et à ce titre, perçoit des commissions.
+
+Pour la réalisation de ces opérations, cette personne utilise les deux sociétés citées précédemment Il a toutefois été relevé que les transferts financiers vers le compte d'une des sociétés sont nettement supérieurs aux rémunérations prévues par les contrats.
+
+C'est notamment le cas pour un contrat d'assistance et de conseil en vue de la préparation et de l'aboutissement d'un appel d'offres d'un contrat public d'un pays du continent africain.
+
+De plus, une forte somme a été virée par une multinationale sur le compte bancaire d'une autre société liée à l'entreprise
+Ce transfert s'est suivi d'un débit en faveur d'une personne physique titulaire d'un compte bancaire dans un pays offshore, vraisemblablement pour paiement de commissions.
+
+Or, il apparaît que le consultant était en contact avec un cadre supérieur d'une entreprise pétrolièreDe nombreux documents mettent ainsi en évidence le paiement de commissions pour l'achat de pétrole brutCelles-ci sont effectuées au profit d'un ressortissant de l'État producteurLes fonds sont ainsi virés par la société pétrolière vers la société X puis vers le compte de la personne physique.
+Celui-ci apparaît dans la presse internationale comme intermédiaire, à la fin des années 1980, dans le cadre de vente d'armes avec un pays en guerre civile.
+
+En ce qui concerne les opérations de blanchiment, il apparaît que la personne visée dans le secteur pétrolier, propriétaire d'un domaine, utilisait de nombreux fonds pour l'aménagement de sa propriété.
+
+En outre, l'utilisation de plusieurs placements financiers, des contrats d'assurance vie, une caution bancaire ainsi que l'achat d'œuvres d'art illustrent la diversité des techniques de blanchiment utiliséesDe nombreux professionnels, tant financiers que non financiers, ont ainsi été impliqués dans le processus de blanchiment.
+
+Le compte bancaire d'une personne se déclarant consultant dans le domaine pétrolier fait l'objet de virements créditeurs très importants de la part d'une société ayant plusieurs comptes bancaires situés sur des places financières offshore.
+
+Cas n°8 : soupçon de corruption d'un haut fonctionnaire en raison de son train de vie en inadéquation avec ses ressources déclarées
+
+Profil des intervenants
+
+Un haut fonctionnaire.
+
+Flux à l'origine du soupçon de corruption
+
+Les comptes bancaires d'un haut fonctionnaire ont enregistré de nombreux et importants dépôts d'espèces sans justification économique.
+
+En effet, en l'espace de quatre années celui-ci a crédité ses comptes de la somme de 350 000 euros en numéraire, représentant jusqu'à 20 % des flux financiers.
+
+En outre, certains éléments des flux débiteurs des comptes bancaires font apparaître la location de plusieurs coffres-forts dans différentes agences, la fréquentation de boutiques de luxe ainsi que de nombreuses dépenses fastueuses en inadéquation avec ses ressources officielles déclarées.
+
+De plus, le fonctionnaire ne peut expliquer de tels flux financiers par une activité scientifique, littéraire ou artistique ou encore d'une activité d'expertise ou de conseil lui permettant d'obtenir une dérogation à l'interdiction de cumuler des emplois et des rémunérations au titre de l'article 25 de la loi du 13 juillet 1983 ainsi que du décret-loi du 29 octobre 1936.
+
+Critères d'alerte
+
+Nombreux dépôts d'espèces sur le compte bancaire d'un haut fonctionnaire ;
+
+La location de plusieurs coffres forts dans plusieurs agences bancaires ;
+
+La fréquentation de boutiques de luxe ainsi que de nombreuses dépenses fastueuses.
+
+Cas n°9: perceptions de commissions occultes dans le cadre de transferts de joueurs de football
+
+Profil des intervenants
+
+MX, agent du joueur Z ;
+
+M.Y, agent sportif licencié ;
+
+MZ, joueur de football professionnel.
+
+Flux à l'origine du soupçon de corruption
+
+MX, ressortissant d'un pays A et résidant dans ce pays, a ouvert un compte bancaire en FranceCe compte a été crédité d'un virement de 200 000 euros émanant de M.Y, agent sportif licencié en France.
+Après enquête de Tracfin, il est apparu que 300 000 euros avaient été virés du compte bancaire d'un club de football du pays B vers lequel Monsieur Z, un joueur du pays A (pays de résidence de MX) venait d'être transféré, sur le compte bancaire de M.Y (agent sportif de joueurs de football licencié et mentionné sur les listes officielles)MY avait effectué un virement des deux tiers de ces fonds sur le compte bancaire français de M.X, soit 200 000 euros.
+
+L'étude environnementale de MX a permis de savoir que celui-ci exerçait la fonction d'intermédiaire dans les transferts internationaux de joueurs de football mais sans apparaître sur aucune liste officielle en tant qu'agent de joueur de licencié.
+
+L'enquête a permis de conclure que les fonds virés par le club de football du pays B sur le compte bancaire de M.Y correspondaient pour un tiers à une commission occulte versée à
+Y (100 000 euros), à charge pour ce dernier de reverser les deux tiers restants à MX dans le cadre d'une commission perçue lors du transfert du joueur d'un club du pays A vers le pays B.
+
+Schéma de blanchiment
+
+
+Critères d'alerte
+
+Ouverture d'un compte bancaire par une personne ne résidant pas en France ;
+
+Flux créditeurs en entre particuliers pour un montant important et injustifié ;
+
+Un transfert de joueur de football depuis le pays de résidence de l'un des deux particuliers connu comme un intermédiaire officieux dans les transferts internationaux de joueurs.
+
+Cas n°10 :Recel d'abus de bien sociaux et corruption passive
+
+Les comptes bancaires de sociétés propriétaires de journaux électoraux, favorables à une équipe municipale en place, ont été alimentés par des virements provenant de sociétés intervenant dans la gestion des eaux.
+
+Les investigations judiciaires ont permis de révéler que le maire de la commune avait bénéficié de nombreux dons et avantages pour un total de 2.9 millions d'euros émanant de sociétés : mise à disposition d'un appartement, de cours de langues étrangères dans un institut de grand renommée, de voyages en avions taxis, de croisières de luxe ainsi que le versement de fonds afin de combler le passif des sociétés gérant les journaux électoraux précités, confrontés à des difficultés financières.
+
+Les avantages ainsi octroyés étaient financés par des sociétés intervenant dans la gestion des eaux et ne pouvaient donc se justifier au regard de leur objet socialAucune prestation économique logique ne pouvait expliquer ces relations financières
+
+Or, il s'avérait que le conseil municipal de cette commune avait procédé à la délégation du service des eaux et de l'assainissement à une filiale commune de ces mêmes sociétésLa contrepartie du pacte de corruption pour les corrupteurs était ainsi l'accès au marché de l'eau de cette agglomération.
+
+Ces éléments ont mis en lumière à la fois les délits de recel d'abus de biens sociaux ainsi que de corruption passive.
+
+Cas n°11 : tentative de blanchiment du délit de corruption par un élu local via le compte bancaire de son conjoint.
+
+Profil des intervenants
+
+MX, gérant de la société A dans le secteur du bâtiment et des travaux publics et gérant de la société B (Société Civile Immobilière) ;
+
+M.Y, élu local ;
+
+Mme Y, épouse de M.Y.
+
+Flux à l'origine du soupçon de corruption
+
+MY, élu local a attribué un marché public à la société A dirigée par M XCette société a viré 40 000 euros sur le compte de la société B gérée par M X.
+
+Un chèque du même montant a ensuite été émis à l'ordre de Mme Y, sans justificationMme Y a ensuite a placé ces fonds sur un contrat d'assurance-vie.
+
+Schéma de blanchiment
+
+
+Critères d'alerte
+
+Société ayant une activité liée à l'attribution de marchés publics et donc sensible à la corruption.
+
+Patrimoine conséquent de M et Mme Y sans rapport avec leur situation.
+
+B Jurisprudence
+
+
+Corruption
+
+Corruption dans le secteur public
+
+Cour de cassation
+
+Corruption active
+
+La preuve d'un accord entre le corrupteur actif et passif est rapportée par les énonciations de l'arrêt de la Cour d'Appel, qui relève qu'une entreprise a effectué gratuitement au domicile d'un salarié d'EDF, personne chargée d'une mission de service public, des travaux en échange de renseignements sur des marchés envisagés par EDF.
+
+« Attendu que, d'autre part, dès lors que l'existence d'un pacte préalable de corruption se déduit des énonciations de l'arrêt et que constitue un acte facilité par la fonction, au sens de l'article 433-1 1° du code précité, le fait pour un salarié d'EDF, personne chargée d'une mission de service public, de fournir des renseignements sur les marchés envisagés par son entreprise, la cour d'appel, qui a caractérisé en tous ses éléments le délit de corruption active, a justifié sa décision ;
+
+D'où il suit que le moyen doit être écarté ; » (CassCrim.26 janvier 2011, n°10-80.155)
+
+Corruption passive
+
+Cass.Crim.9 mars 2011, n° 10-83.380
+
+Le délit de corruption passive n'implique pas que la façon dont ont été utilisés les avantages ou numéraires reçus soit démontrée; peu importe le résultat négatif des investigations bancaires menées sur le compte du prévenu ou l'absence de vérifications, au demeurant difficile à diligenter, des conditions de financement des jeux de hasard auxquels le prévenu se livrait de façon intempestive.
+
+Par ailleurs, la perception d'avantages en numéraire en contrepartie de la délivrance de documents français indus permet la condamnation de son auteur des chefs de corruption passive et de fourniture frauduleuse de document administratif par une personne chargée d'une mission de service public, les faits caractérisant des délits distincts, protégeant des intérêts différents.
+Le délit de corruption passive est distinct du délit de corruption activeDès lors, une décision de relaxe du délit de corruption passive prononcée par une juridiction ne constitue pas un élément nouveau de nature à faire naître un doute sur la culpabilité de la personne condamnée par une autre juridiction pour corruption active, s'agissant de délits distincts, susceptibles dans leurs éléments constitutifs, d'appréciation différente par chacune des juridictions qui en ont connu.
+
+« Attendu que MY fait valoir au soutien de sa requête que la décision de relaxe prononcée le 30 avril 2010 par la Cour de justice de la République au bénéfice de M.YY du chef de corruption passive constitue un élément nouveau, au sens de l'article 622 4° du code de procédure pénale, de nature à faire naître un doute sur sa culpabilité telle que retenue par l'arrêt susvisé en date du 18 septembre 2009 qui l'a condamné, en ce que les motifs de ces deux décisions sont en totale contradiction, celle rendue par la Cour de justice de la République excluant l'existence d'un pacte de corruption entre MY et MYY et celle rendue par la cour d'appel de Paris retenant l'existence d'une telle convention ;
+
+Que dès lors, la circonstance que la Cour de justice de la République a jugé, le 30 avril 2010, «qu'il n'est pas établi que le service rendu lors du financement de la campagne électorale en 1999 [par M.Y] ait conditionné l'autorisation accordée en 1994 [par MYY]» et que le délit de corruption passive n'était pas caractérisé à l'encontre de MPa, n'est pas de nature à remettre en cause la décision de culpabilité du chef de corruption active prise à l'encontre de M.Y par la cour d'appel de Paris dans son arrêt du 18 septembre 2009, les deux juridictions ayant souverainement apprécié différemment les éléments constitutifs des infractions poursuivies à l'encontre de chacun des protagonistes ;
+
+Qu'il y a lieu en conséquence de rejeter la requête; » (Cass.crim.6 juin 2011, n°OR-EV.97)
+
+Constitue la preuve d'un accord entre corrupteur actif et passif, la démonstration qu'il existait un dispositif liant les taux d'intérêts de prêts consentis par un établissement financier à un administrateur judicaire à la pratique de dépôts de fonds provenant de l'activité professionnelle.
+
+« Attendu que, pour déclarer Mme X coupable de corruption passive, l'arrêt énonce qu'elle a été nommée mandataire à la liquidation des entreprises en mars 1990, qu'elle a ouvert des comptes «commissaire à l'exécution du plan» à la SDBO et qu'elle a bénéficié de cinq prêts de 1990 à 1992 à des taux anormalement bas, pouvant être révisés en cas de cessation des relations commerciales avec la banque, ou comportant, pour l'un d'entre eux, une contre lettre mentionnant un taux différent de celui figurant sur l'acte notarié ; que les juges en déduisent que l'ensemble du dispositif liant les taux préférentiels obtenus à la pratique de dépôt de fonds provenant de l'activité professionnelle, en particulier des commissariats au plan, caractérisent un pacte de corruption liant la banque et la mandataire, qui a agi en toute conscience, comme cela résulte des clauses de fidélité et de la contre-lettre;
+
+Attendu qu'en l'état de ces énonciations qui caractérisent l'antériorité du pacte de corruption au dépôt des fonds sur les comptes de la banque, la cour d'appel, qui a répondu aux chefs péremptoires de conclusions dont elle était saisie, a caractérisé, en tous ses éléments, le délit de corruption dont elle a déclaré la prévenue coupable ;
+
+D'où il suit que les moyens doivent être écartés ; » (Cass.crim.16 juin 2011 09-87.292)
+
+Se rend coupable de corruption passive, l'agent EDF qui effectue des branchements clandestins moyennant rémunérationBien que ne disposant pas de pouvoir de décision, celui-ci était toutefois chargé d'accomplir des actes ayant pour but de satisfaire l'intérêt général.
+
+« Attendu que MY, chef de service de la société Électricité de France, est poursuivi pour avoir, étant chargé d'une mission de service public, détourné du matériel qui lui avait été remis en raison de cette fonction ou de cette mission, et sollicité, sans droit, directement des offres, promesses, dons, présents ou avantages quelconques pour accomplir ou s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction ;
+
+Attendu que, pour le déclarer coupable de ces infractions, l'arrêt prononce par les motifs repris aux moyens ;
+
+Attendu qu'en l'état de ces énonciations, relevant de son pouvoir souverain d'appréciation, dont il résulte que le prévenu était chargé d'accomplir des actes ayant pour but de satisfaire l'intérêt général, peu important qu'il ne disposât d'aucun pouvoir de décision, la cour d'appel, qui a caractérisé en tous leurs éléments, tant matériels qu'intentionnel, les délits poursuivis, a justifié sa décision ; » (Casscrim29 juin 2011 N°10-86.771)
+Autres decisions
+
+Condamnations – Cour d'appel / Tribunal correctionnel
+
+Tribunal correctionnel de Versailles, 8 février 2010
+
+Condamnation de plusieurs chefs d'entreprises ainsi que des cadres de collectivités locales, notamment des membres du conseil général dans une affaire de corruptionEn l'espèce, il était reproché aux fonctionnaires d'avoir reçu des sommes d'argent et d'avoir profité de voyages à l'étranger, en contrepartie d'informations privilégiées à l'occasion de la passation de marchés publics.
+
+Tribunal correctionnel de Strasbourg, 10 février 2010
+
+Condamnation pour corruption passive et détournement de fonds publics de six policiers municipaux qui prélevaient une partie des encaissements des droits de place dans les marchés publics, s'autorisant ainsi un 14ème mois de salaireDes commerçants ne payaient que la moitié du prix convenu avec la commune, en contrepartie de « pourboires » ou de la non réclamation de quittance.
+
+Tribunal correctionnel de Strasbourg, 6 mai 2010
+
+Condamnation de cinq fonctionnaires d'un conseil général pour corruption passiveCeux-ci avaient accepté des cadeaux de la part d'entreprises, afin de fausser le choix de la commission d'appel d'offresLors d'un contrôle de la chambre régionale des comptes, il était apparu que dans la majorité des cas, la commission d'appel d'offres ne faisait qu'avaliser les choix de ces fonctionnaires.
+
+12 Corruption dans le secteur privé
+
+Se rend coupable de corruption le salarié qui a usé de sa fonction pour percevoir de façon occulte, par l'intermédiaire d'une société créée au nom de son épouse, des ristournes alors qu'il avait pour mission de servir au mieux les intérêts de son employeur en lui procurant les meilleurs tarifs auprès des fournisseurs.
+
+« Attendu que, pour déclarer MX coupable du délit de corruption, l'arrêt énonce qu'il a usé de sa qualité de salarié pour percevoir des ristournes alors qu'il avait mission de servir au mieux les intérêts de son employeur en lui procurant les meilleurs tarifs auprès des fournisseurs et que cette perception, précédée d'un accord entre MMX , Y et le dirigeant de la société A, a été réalisée, de manière occulte, par l'intermédiaire d'une société créée au nom de son épouse ;
+
+Que, pour déclarer M.Y coupable de ce délit, l'arrêt énonce que celui-ci a lui-même décrit le mécanisme frauduleux consistant en un partage par moitié avec MX des ristournes obtenues de leurs fournisseurs et l'établissement de factures de commissions pour le compte de l'épouse de ce dernier ;
+
+Attendu qu'en l'état de ces énonciations, dont il résulte que les prévenus ont, de manière occulte, à raison de leur qualité de salarié, reçu des ristournes consenties par des fournisseurs, et qui caractérisent, en tous ses éléments constitutifs, notamment intentionnel, le délit de corruption, la cour d' appel a justifié sa décision ;
+
+Que le moyen doit, dès lors, être écarté ; » (Cass.crim 29 juin 2011, n°10-82.603)
+
+Trafic d'influence
+
+Ne constitue pas une activité de conseil en stratégie dans le cadre d'un contrat public relatif à l'armement, mais caractérise les éléments constitutifs du délit de trafic d'influence passif le fait, pour un particulier qui ne dispose pas de compétence particulières en matière d'armes et de munitions et alors qu'aucun document justifiant des prestations n'a été établi, de mettre à disposition un réseau d'influence et un carnet d'adresse en vue de faire obtenir un marché à une société par des interventions auprès de diverses autorités civiles et militaires.
+« Attendu que, pour déclarer le prévenu coupable de trafic d'influence passif, les juges énoncent que la mission confiée par la société T à la société S était particulièrement imprécise, que le prévenu a été le seul au sein de cette dernière société à travailler sur le contrat, alors qu'il a reconnu qu'il n'avait pas de compétence en matière d'armes et de munitions, qu'aucun document justifiant les prestations n'a été établi, que des rendez-vous ont été obtenus aux ministères de la défense, de l' intérieur et à la DGA mais que la rémunération était excessive au regard d'un simple rôle de mise en relation ou de recueil de renseignements ; qu'ils en déduisent que le prévenu a monnayé un réseau d'influence et un carnet d'adresses, en vue de faire obtenir à la société T, par des interventions auprès de diverses autorités civiles et militaires, le marché Sec.;
+
+Attendu qu'en l'état de ces énonciations, qui n'établissent pas une simple activité de conseil en stratégie dans le cadre d'un contrat public relatif à l'armement mais qui caractérisent les éléments constitutifs, tant matériels qu'intentionnel, du délit de trafic d'influence passif dont le prévenu a été reconnu coupable, la cour d'appel a justifié sa décision ; » (Cass.crim.4 mai 2011 n°10-85.381)
+

@@ -1,0 +1,9 @@
+Cross-talk between the heart and adipose tissue in cachectic heart failure patients with respect to alterations in body composition: a prospective study.
+OBJECTIVES:
+Cardiac cachexia (CC) is associated with changes in body composition. Lipolysis and increased energy expenditure caused by A- and B natriuretic peptides (NPs) have been suggested to play a role in CC. We tested the hypothesis that neurohormones and adipokines are associated with body composition in CC and that a progressive loss of fat free mass (FFM) and fat mass (FM) takes place.
+METHODS:
+Body composition with regard to FFM, FM, and body fat distribution was assessed by dual energy X-ray absorptiometry (DXA) in 19 non-diabetic patients with chronic heart failure (CHF) and CC and 38 controls (non-cachectic CHF and individuals with prior myocardial infarction-both n = 19) who were followed for 12 months. Biomarkers of neurohormonal stimulation, inflammation, and endothelial dysfunction were measured.
+RESULTS:
+N-terminal proBNP (NT-proBNP), midregional proANP (MR-proANP), and total adiponectin were elevated in CHF (p<0.001) and correlated inversely to BMI and FM. An inverse correlation was observed between pro-adrenomedullin (MR-proADM) and FFM. During follow up body weight was unaltered in all groups even though FM increased by 1.35 kg (p<0.05) and FFM decreased by 0.5 kg (p<0.05) in CC patients. The latter correlated inversely to baseline NT-proBNP, MR-proANP, and MR-proADM (p<0.05). No correlation to changes in FM was found.
+CONCLUSIONS:
+FM was associated with plasma NPs and total adiponectin at baseline; whereas changes in FM and FFM did not correlate to changes in NPs or adiponectin during follow up. Prospectively, FFM decreased but FM increased, despite stable body weight in CC.

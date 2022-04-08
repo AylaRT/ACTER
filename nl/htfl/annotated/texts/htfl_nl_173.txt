@@ -1,0 +1,15 @@
+Breed toepasbare beslisregel voor hartfalen in de huisartsenpraktijk
+
+Waarom dit onderzoek?
+Hartfalen komt veel voor en veroorzaakt sterfte, verlies van kwaliteit van leven en hoge zorgkosten. De diagnostiek en behandeling van hartfalen vinden meestal plaats in de huisartsenpraktijk, hoewel echocardiografie – hoeksteen van de diagnose – slechts beperkt beschikbaar is in de eerste lijn. Omdat regelmatig sprake is van onderdiagnostiek van hartfalen, is er behoefte aan ondersteunend diagnostisch gereedschap. De bestaande beslisregels zijn echter hoofdzakelijk onderzocht bij patiënten met vermoeden van hartfalen en niet bij ouderen met kortademigheid in het algemeen.
+
+Onderzoeksvraag
+Kan een beslisregel accuraat screenen op hartfalen bij ouderen met niet-acute kortademigheid?
+
+Hoe werd dit onderzocht?
+De onderzoekers verrichtten bij 585 65-plussers die hun huisarts consulteerden met niet-acute kortademigheid bij inspanning een gestandaardiseerd diagnostische onderzoek: anamnese, lichamelijk onderzoek, ecg en een NT-proBNP-bepaling. Deelnemers met een afwijkend ecg of een verhoogde NT-proBNP-waarde ondergingen echocardiografie. Een expertpanel van 2 cardiologen en 1 huisarts bepaalde vervolgens of er sprake was van hartfalen. De resultaten werden gebruikt voor validering en aanpassing van een bestaande beslisregel, die eerder was ontwikkeld in een groep 65-plussers met COPD. Daarna werd de generaliseerbaarheid van de aangepaste beslisregel onderzocht in de oorspronkelijke groep 65-plussers met COPD en in een groep 60-plussers met diabetes mellitus.
+
+Belangrijkste resultaten
+Bij 92 patiënten (15,7%) werd hartfalen gediagnosticeerd. De bestaande beslisregel kon patiënten met hartfalen goed onderscheiden van patiënten zonder hartfalen (C-statistiek: 0,84), maar schatte de kans op hartfalen in het algemeen te hoog. Het onderscheidend vermogen van de aangepaste beslisregel – waarbij 3 voorspellers aan de bestaande 6 waren toegevoegd en de totale score varieerde van 0 tot 35 (tabel) – was goed tot uitstekend (C-statistiek: 0,88). De waarde van 21 punten bleek een goed afkappunt: boven deze score was de positief voorspellende waarde 73% en een lagere waarde gaf een negatief voorspellende waarde van 87%. Vergeleken met de bestaande beslisregel voorspelde de aangepaste beslisregel bij meer patiënten terecht dat zij géén hartfalen hadden. De beslisregel deed het ook goed in de oorspronkelijke groep oudere COPD-ers en in de groep oudere diabeten (C-statistiek: respectievelijk 0,76 en 0,80).
+Consequenties voor de praktijk
+Deze verbeterde beslisregel stelt de huisarts in staat om met eenvoudig te verzamelen klinische informatie accuraat te bepalen welke ouderen met niet-acute kortademigheid verwezen moeten worden voor echocardiografie. De beslisregel is geschikt voor alle ouderen die de huisarts bezoeken met niet-acute kortademigheid.

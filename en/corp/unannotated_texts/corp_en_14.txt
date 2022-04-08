@@ -1,0 +1,368 @@
+The Commission presents, in cooperation with the Member States, this Annual Report on the Protection of the EU's Financial Interests under Article 325 of the Treaty on the functioning of the European Union.
+
+The purpose of this Report is to assess the extent to which EU funds are at risk of misuse through irregularities (including fraud) and to explain what is being done to address the issue. It covers both the expenditure and the revenue of the European Budget.
+
+Recent initiatives to protect the financial interests of the EU
+
+The Commission has recently taken a number of initiatives to improve the legal and administrative framework for the protection of the EU's financial interests: An amended proposal for a reform of the European Anti-Fraud Office (OLAF); The Commission Anti-Fraud Strategy (CAFS); The Communication on the protection of the financial interests of the EU by criminal law and administrative investigations.
+
+Irregularities affecting the Budget
+
+The analysis in this Report is based on data supplied by Member States, with the exception of the part dedicated to expenditure managed directly by the European Commission (EC).
+
+For the reporting year the overall financial impact of irregularities detected by control systems in the area of expenditure amounts to €1.8 billion (1.27 % of the allocations), as compared to €1.4 billion (1.13% of total allocations) in 2009. On the revenue side, the overall financial impact of irregularities is also higher than in 2009: €393 million (1.88% of total collected Traditional Own Resources, gross) as compared to €357 million (1.84% of total collected Traditional Own Resources, gross).
+
+Overall figures for 2010 indicate that the number of irregularities reported has increased for all sectors, with the exception of the pre-accession funds and Traditional Own Resources. The main reasons for this increase are the cyclical character of the programming of the Cohesion Funds, especially the closure of the 2000 – 2006 implementing period, and an overall increase in the volume and speed of reporting by (most) Member States following the implementation of the improved reporting system, known as the Irregularities Management System (IMS).
+
+Member States are required to report irregularities which they have identified and to indicate where these may constitute suspected fraud. The systems for reporting have been modernised and improved, which has led to an overall improvement in the quality of reporting. This in turn has led to an increase in the coverage and reliability of the analysis.
+
+While the overall picture is relatively reassuring, and demonstrates in particular that the Commission has the structures in place to deal with irregularities, it is clear that there are significant differences in the approaches adopted by Member States to the process of reporting irregularities. In some instances, these approaches call the adequacy of national reporting systems into question. These are indicated in detail in the Report and in the Commission Staff Working Paper Statistical Evaluation of Irregularities. It is also clear from the analysis of the threat of fraud that the need to combat criminal fraud continues to be very real and remains at the top of the agenda.
+
+It is also essential for the minority of Member States which are not yet using the electronic reporting system fully to do so as soon as possible.
+
+Improvement of anti-fraud systems
+
+Among the global amount of expenditure affected by irregularities, the estimated financial impact of cases of suspected fraud in expenditure has increased from €180 million in 2009 (0.13% of allocations) to €478 million in 2010 (0. 34% of allocations).
+
+Certain Member States continue to report very low suspected fraud rates. These Member States are invited to report on the manner in which the control systems are adapted to target areas where there is a high-risk of fraud and irregularities.
+
+The Commission intends to analyse the irregularity and anti-fraud control systems put in place by the Member States in the area of Cohesion Policy. The initial results of this analysis will be published in the Annual Report on the protection of the EU financial interests for the year 2011.
+
+Improvement in recovery procedures
+
+It is necessary to increase the efficiency of the recovery process, in particular in the area of Pre-accession funds. The Commission urges Member States and countries with low recovery rates to speed up procedures, make use of the available legal instruments and guarantees when irregularities are detected and seize assets in cases where debts are not paid.
+
+Introduction
+
+This Report presents information relating both to financial mismanagement and to criminal fraud, so that the reader can appreciate the overall context. In a wider sense, it also addresses measures intended to deter mismanagement and fraud and to improve systems both at EU and Member State level.
+
+The Treaty clearly states that the EU and the Member States share responsibility for the protection of the EU's financial interests and the fight against fraud. National authorities manage four-fifths of EU expenditure and collect Traditional Own Resources. In these areas, the Commission exercises overall oversight, sets standards and verifies compliance. Close cooperation between the Commission and the Member States is essential.
+
+A prime objective of this Report is therefore to assess the extent to which this cooperation has been achieved, as illustrated by the available data, and how such cooperation could be further improved.
+
+As in previous years, this Report includes both the latest information on irregularities detected by control systems and suspected fraud and on measures taken to deal with these, and a one-off analysis of a special topic. This year's special topic, agreed in advance between the Commission and the Member States, is 'the risk of double financing in the area of cohesion policy". Member States have contributed to the analysis via a questionnaire.
+
+This Report contains information derived from those irregularities and instances of suspected fraud which are reported by Member States. It does not estimate the actual level of irregularities and fraud in individual Member State as the European Parliament has requested. This is due to the fact that the Commission is not in a position to estimate actual levels of irregularities or fraud because of the extent and nature of available information and data received from the Member States.
+
+However, the Commission is willing to discuss with the Member States the possibility of measuring actual levels of irregularities and fraud, particularly where they may already undertake such exercises for their own purposes.
+
+The report is sent to the European Parliament and the Council, and is published. It is in four parts:
+
+The first part analyses the reporting on irregularities detected by the Member States in respect of those areas where Member States implement the budget (agricultural policy, cohesion policy and pre-accession funds) and of the collection of the EU's traditional own resources. It also analyses irregularities in expenditure managed directly by the Commission.
+
+The second part focuses on recovery of irregular amounts in 2010.
+
+The third part considers this year's special topic, namely the risk of double financing of projects in cohesion policy. It also discusses the follow-up measures to previous anti-fraud reports.
+
+The final part of the report presents an overview of the anti-fraud policies implemented in 2010 and of the new initiatives taken to ensure effective protection of the EU's financial interests against fraud and other illegal activities.
+
+The report is accompanied by three Commission Staff Working Papers.
+
+Reported cases on fraud and other irregularities
+
+In order to understand the data, it is essential to distinguish between fraud and other irregularities:
+
+Irregularity is any infringement of an EU provision by an economic operator which has, or would have, the effect of prejudicing the EU's financial interests.
+
+Fraud is an irregularity committed intentionally with the intention of illicit gain which constitutes a criminal offence. The Member States are required to identify those reported irregularities in which they suspect fraud. The actual financial impact of identified fraud can be measured only at the end of legal proceedings.
+
+Errors detected by the European Court of Auditors (ECA) are used by the ECA to establish error rates on the basis of a sample number of transactions. Error is not a term defined in anti-fraud. The statistics in this annual Report reflect the actual number of irregularities and suspected frauds reported by Member States to the Commission or detected by the Commission. The approaches of the Commission and the ECA are therefore not comparable.
+
+The data in this Report must be interpreted with cautions. The actual levels of irregularity are not known or estimated and therefore not given, but they are higher than the reported levels which are indicated. Equally, actual levels of fraud are not known or estimated. The figures given are for the levels of suspected fraud declared by Member States (including confirmed fraud). These levels of fraud suspected do not correspond to fraud confirmed as such at the conclusion of criminal proceedings, often many years later. This Report does not contain specific data on the latter. All the irregularities reported are subject to different forms of follow-up, by the Commission and the Member States.
+
+ Analysis of the reporting on fraud and other irregularities by the Member States and Commission services in 2010
+
+Member States are required by EU law to report suspicions of fraud and other detected irregularities affecting the EU financial interests in those areas where Member States implement the Budget, and for the collection of the EU's traditional own resources. The main expenditure sectors involved are Agriculture and Cohesion Policy. All irregularities involving more than €10,000 of EU resources must be reported to the Commission.
+
+There are two electronic systems for this reporting of irregularities, the Own Resources Database (OWNRES), which covers the Traditional Own Resources, and the Irregularity Management System (IMS), which covers the expenditure side of the budget where management is shared between the Commission and the Member States.
+
+The OWNRES database is also a key tool for obtaining data for global analyses of fraud and irregularities. The successful implementation of the IMS has significantly improved the quality of reporting, since it has rationalised the distribution of the workload related to the reporting obligations, accelerated the reporting process, and improved the completeness and overall quality of the communications.
+
+The quality of the reported irregularities has improved in general, although there are still some inconsistencies in relation to the classification of the cases into either irregularity or suspected fraud.
+
+In order to solve these difficulties, the Commission services will prepare a working document on the practicalities of the communication of irregularities.
+
+Finally, data on irregularities in expenditure managed directly by the Commission is extracted from the Commission's ABAC (Accrual Based Accounting) system.
+
+For more details on the reporting systems and methodology, see Commission Staff Working Paper to this report on Statistical evaluation of irregularities.
+
+
+Revenues
+
+Traditional own resources (TOR)
+
+Over 97% of all amounts of TOR established are collected without any particular problem.
+
+In 2010 the number of cases of irregularities (including suspected fraud) communicated to the Commission is lower than in the previous year, while the irregular amount reported is higher (see Chart 1). The Commission Staff Working Paper Statistical Evaluation of Irregularities comprises a detailed analysis of reported irregularities and cases of suspected fraud in this area.
+
+Chart 1: Irregularities, including suspected fraud, and related irregular amounts reported – 2006-2010
+
+The proportion of cases qualified as suspected fraud by the Member States has remained stable. The important differences in the figures communicated by the Member States strongly suggest that the classification of irregularity and fraud in the OWNRES database is not yet fully reliable owning to different interpretations of the relevant definitions. As already mentioned, a working document on the practicalities of the communication of irregularities will be prepared by the Commission services.
+
+Chart 2: Suspected fraud cases and related amounts reported – 2006-2010
+
+Differences among the Member States also appear when analysing the established and estimated irregular amounts reported in 2010. Several factors may influence those differences, including the type of traffic and trade, the level of compliance of economic operators, and the geographical location. These figures can also vary significantly from year to year. Individual bigger fraud cases that are detected in a particular year may have a considerable impact on the annual figures, especially in Member States with a smaller share of TOR collection. Another variable factor is the effectiveness with which the Member State's customs control strategies are set up to target high risk imports and to detect TOR related fraud and irregularity.
+
+In recent years the Commission has laid special emphasis on Member States' customs control strategies in its TOR inspections. The Commission is closely monitoring Member States' action in response to the observations made during Commission inspections.
+
+Follow-up:
+
+Member States' custom control strategies should continue to target high risk imports, thus further improving the detection rate of irregularities and of suspected fraud cases in the area of TOR.
+
+VAT
+
+In the field of taxation, Member States need to monitor and respond to both existing and new fraud trends. This involves both legal and operational considerations, such as administrative cooperation and exchanges of information, compliance policies, risk analysis and control strategies for all types of taxes as well as the fraud-proofing of legislation. The Commission has provided Member States with the legal framework they need in order to enhance cooperation on VAT. This also constituted the legal base for the setting up of EUROFISC, which is an operational network for rapid and targeted exchanges of information between all Member States on fraud cases, in particular VAT carousel fraud. Experts from the Member States cooperate in specific areas, issuing for early warnings on potential fraud cases and coordinating national activities. From January 2013, Member States authorities will have automated access to certain data held by other Member States, thus further speeding up information exchange. Finally, the Commission has suggested that a new approach should be developed, based in particular on voluntary compliance, risk assessment and monitoring, with the aim of reducing the involvement of Tax Authorities and lightening the administrative burden on business.
+
+The Green Paper on the future of VAT provides a good opportunity to give a new impetus to this reflection, by collecting input on potential concrete measures.
+
+Expenditure
+
+Agricultural expenditure
+
+In the area of agriculture, the number of cases of reported irregularities and the amounts affected, relative to the total amounts spent, differ substantially both between and within Member States.
+
+Last year the Commission called upon Finland, Austria and the Netherlands to improve reporting compliance. Those Member States have confirmed their commitment to report irregularities and their efforts to optimise the reporting process.
+
+Every quarter, the Commission (OLAF) performs quality checks and provides Member States with feedback on the quality of the reporting and missing data. The Commission stays in close contact with the Member States' designated liaison officers for the agricultural sector in order to provide Member States with the necessary support and to keep them up-to-date on the latest trends and developments.
+
+The reported number of cases of irregularities and suspected fraud increased, as did the related financial impact. The financial impact of suspected fraud was up from €13 million in 2009 to €69 million in 2010. The rise in the suspected fraud cases in 2010 (see below Chart 4) can be explained by the better reporting through the IMS reporting system and the fact that EU-10 and EU-2 Member States have started to report for this sector.
+
+Chart 3: Irregularities, including suspected fraud, and related irregular amounts reported – years 2006-2010
+
+In 2010, Italy and EU-12 Member States have qualified more than 90% of the reported cases as "suspected fraud". Certain big spending Member States such as France, Germany, Spain and United Kingdom continue to report a very low number of suspected fraud cases. France did not classify any of its 2010-cases as suspected fraud. This raises the question whether the reporting of a low number of cases of suspected fraud is due to the non-respect of reporting principles or to the ability of the control systems in place to detect fraud in the Member States.
+
+Chart 4: Suspected fraud cases and related amounts reported 2006-2010
+
+The Commission Staff Working Paper Statistical Evaluation of Irregularities comprises a detailed analysis of reported irregularities in relation to the financial year to which they belong. A special focus is dedicated to the financial years 2004-2005, which are considered as "finalised", meaning that audit plans have been completed, recovery procedures have been started and irregularities have been reported.
+
+Follow-up:
+
+France, Germany, Spain and United Kingdom are invited explain the low number of reported suspected fraud cases, and to report about the way in which the control systems are adapted to target areas with a higher risk of fraud and irregularities. Finland, the Netherlands and Poland should report more consistently, in particular in relation to personal data on individuals who have committed irregularities and fraud. In general, Member States should further improve the quality of reporting, given that in 2010 Member States took a step backwards in relation to the timely reporting of irregularities.
+
+Cohesion Policy
+
+Reported irregularities affecting the Cohesion Policy represent the largest share of all reported irregularities related to the expenditure part of the EU budget (approximately 70% of cases reported in 2010).
+
+In 2010 the increasing tendency concerning both reported irregularities and irregular amounts already noted in the previous year was confirmed (see Chart 5). Several reasons could explain this increase, but the most significant ones relate to the increase in control activities linked to the closure of the programming period 2000-2006, the full implementation of the programmes of the programming period 2007-2013 and the introduction of IMS.
+
+The detailed analysis of the methods for detecting irregularities suggests that control systems are now functioning more effectively.
+
+Analysis of those categories of irregularity which are the most reported shows that irregularity is most frequently identified in the implementation phase of the project cycle. However, the biggest impact in terms of value (financial impact) occurs in the selection or procurement phase.
+
+The analysis confirms the need for a review of the EU rules on public procurement in order to increase clarity and improve the conditions for implementation.
+
+Chart 5: Irregularities, including suspected fraud, and related irregular amounts reported – 2006-2010
+
+In terms of reported suspected fraud cases, the tendency highlighted in previous years is confirmed, with Italy, Germany and Poland reporting most of the cases. Germany is the most successful Member State in completing procedures for the establishment of fraud in relation to the programming period 2000-2006, followed by Poland and Italy.
+
+Chart 6: Suspected fraud cases and related amounts reported 2006-2010
+
+The following countries did not report any such case in 2010: Denmark, France, Malta, the Netherlands, Sweden and Slovenia. This shows that the classification of irregularities and suspected fraud cases in IMS is not yet fully reliable.
+
+The Financial Instrument for Fishery Guidance (FIFG) showed the highest fraud rate on the basis of reports received in 2010. The Commission Staff Working Paper Statistical Evaluation of Irregularities contains a detailed analysis of reported irregularities and cases of suspected fraud in this area.
+
+Follow-up
+
+The Commission supports Spain and France in their efforts to complete the implementation of IMS by the end of 2011 and invites Ireland to fully implement the system.
+
+The Commission will analyse the anti-fraud control systems put in place by the Member States in the area of cohesion policy. A questionnaire relating to this topic was sent to the Member States in July 2011. The results will be published in 2012 with the next annual report on the protection of the financial interests of the EU.
+
+Pre-accession funds
+
+Reported cases of irregularities and fraud
+
+In the area of pre-accession assistance, considerable progress was achieved in 2010 in the implementation of reporting via the IMS. Most of the Member States which benefited in the past from pre-accession assistance now have the possibility to submit irregularity reports through this reporting system. The quality of the irregularities communications received is satisfactory, in terms of both completeness and compliance.
+
+The number of reported irregularities and the related financial volume have decreased substantially in relation to 2009 for most funds. The exception is PHARE, for which the number of reported irregularities has remained stable, though the financial volume has decreased. This appears to be due to the phasing-out of EU-10 and EU-2 from the pre-accession assistance phase.
+
+Chart 7: Irregularities, including suspected fraud, and related irregular amounts reported – 2006-2010
+
+The majority of the newly reported cases are, as in 2009, related to the SAPARD fund in Romania and Bulgaria. However, an important development has been confirmed in Bulgaria, where irregularities and suspected fraud cases are now mainly being detected by national services. The situation in Romania is different, with a large proportion of irregularities and suspected fraud cases being detected following inspections by EU services or undertaken at their request. The Commission Staff Working Paper Statistical Evaluation of Irregularities comprises a detailed analysis of reported irregularities and cases of suspected fraud in this area.
+
+Chart 8: Suspected fraud cases and related amounts reported 2006-2010
+
+Follow-up:
+
+The Commission will continue to support the new Beneficiary Countries (Turkey, Croatia, FYROM and Montenegro) in their efforts to implement IMS for better reporting quality.
+
+Expenditure directly managed by the Commission
+
+This point concerns the data on recovery orders issued by the Commission services in relation to expenditure managed under 'centralised direct management'.
+
+Recovery order data suggests that despite an increase in the proportion of directly managed expenditure subsequently subjected to recovery orders, the identified irregularity rate remains low (0.17% in 2009 to 0.27% in 2010). Only 2.1% of the issued recovery orders were qualified by the Commission services as suspected fraud (approximately 0.02% of allocations).
+
+Recovery of irregular amounts in 2010
+
+The data in this chapter is based on the notifications of cases of irregularities by the Member States, and focuses on the results of the actions by national authorities to recover amounts unduly paid to beneficiaries (ie economic operators). The analysis excludes all recoveries of less than € 10,000, with the exception of the agriculture sector, for which recovery figures relate to all oustanding amounts.
+
+The present report is therefore different in scope from those other Commission documents which deal with recoveries made by the Commission from Member States, for example via financial corrections or clearance of accounts procedures.
+
+It is important to note that recovery rates are not comparable among sectors due to the different regulatory framework and recovery mechanisms applied (as explained in Table 2). Furthermore, certain mechanims introduced to speed up the recovery process have been applied for a shorter period of time (i.e. for the agriculture sector).
+
+Table 2: Recovery rates per sector — 2009 –2010
+
+2.1. Traditional own resources
+
+For Traditional Own Resources Member States are obliged to recover the established amounts which they register in the OWNRES database. The established amount to be recovered following irregularities detected in 2010 is €393 million (approximatelly 1.88% of the total amount of collected TOR gross for 2010). An amount of €180 million has already been recovered by the Member States. The recovery rate for 2010 at the time of publication is 46%.
+
+Member States' recovery action in the area of TOR is monitored through TOR inspections and through the procedure by which all amounts exceeding €50.000 that are finally irrecoverable are reported to the Commission. Member States are held financially liable for the losses of TOR occurred because of the weaknesses observed in their recovery action.
+
+Agriculture
+
+In the area of agriculture Member States recovered €175 million during the financial year 2010.
+
+A clearance mechanism ("50/50" rule, introduced via Regulation (EC) No 1290/2005 provides a strong incentive for Member States to recover undue payments from the beneficiaries as quickly as possible. As a result, by the end of financial year 2010, 42% of the new European Agricultural Guarantee Fund (EAGF) debts from 2007 and thereafter had already been recovered by the Member States.
+
+Nevertheless, the outstanding accumulated amount remaining to be recovered from beneficiaries by national authorities at the end of financial year 2010 was €1.2 billion, of which about € 0.3 billion has already been paid to the EU Budget by Member States under the 50/50 rule.
+
+During the years 2008-2010 the Commission audited the new clearance mechanism by means of on-the-spot checks on the national authorities responsible for 16 paying agencies in 12 Member States, and covering 89% of the total outstanding debt at the end of financial year 2010.
+
+In general, national authorities have adequate procedures for recovery. Deficiencies found during these controls are being followed up in the context of conformity clearance procedures.
+
+Cohesion policy
+
+Cohesion policy shows the highest recovery rate in the expenditure area in 2010 (over 60%).
+
+Cohesion policy is based on multi-annual programmes, with the consequence that some recovery procedures are delayed until the end of the programming period. Substantial difficulties were encountered after the end of the 1994-99 programming cycle. Indeed, procedures relating to one third of the financial impact of irregularities reported by Member States in relation to that period are not yet completed (EU contribution, € 0.5 billion). The Commission services are carrying out reconciliation procedures with a view to closing these cases. The recovery rate for the 1994-1999 programming cycle is currently 67%.
+
+The success of the improved procedures put in place for the programming period 2000-2006 is demonstrated by the fact that, only one year after the submission of the closure documentation by Member States to the Commission, 70% of the € 2.9 billion of unduly paid EU contribution has been recovered (or withdrawn from expenditure claims).
+
+Hungary, the Czech Republic and Slovenia have recovery rates around or below 20%. These Member States are invited to explain the reasons and to increase their efforts.
+
+Pre-accession funds
+
+The analysis of recoveries throughout the programming period 2002-2006 confirms the need for improvements in this area. The pre-accession funds show the lowest recovery rates for expenditure. Recovery rate for the year 2010 is at 10%, which is a lot lower than in the previous year (27%). Even if the recoveries for the past years are taken into account, the recovery rate remains low (around 30% accumulated for the years 2002-2006) and especially low for Bulgaria, Turkey, Lithuania, Latvia and Slovenia. In cases of suspected fraud, procedures are becoming even lengthier and more complex, as showed by the lower recovery rate (14% on average accumulated for the same period). Apart from the lengthy procedures linked to suspected fraud cases, another explanation for the low rates could be the failure by Beneficiary Countries to update the recovery information about irregularities.
+
+Beneficiary Countries are invited to explain the reasons for low recovery rates, to improve their recovery performances and to update the missing information on completed recovery procedures.
+
+Expenditure directly managed by the Commission
+
+For the recovery orders issued in 2010, full or partial recovery was recorded in almost all of the 791 cases, which represents an amount of almost € 25 million. The recovery rate in general increased to 58.5%, and the recovery rate following cases of suspected fraud is high (82.4%).
+
+The Commission will continue with the recovery procedures.
+
+Results of the questionnaire about cooperation with the Member States concerning the risk of double financing of projects in the area of cohesion policy
+
+Every year the Commission and the Member States choose a special topic which is developed in the report, drawing on the answers to a questionnaire addressed to the Member States. This year's special topic covers the risk of double financing of projects in the area of cohesion policy.
+
+For the complete answers of the Member States to the questionnaire and a more in-depth analysis of national practices, see the Commission Staff Working Paper to this report Implementation of Article 325 by the Member States in 2010.
+
+National legal framework
+
+All Member States confirmed that financing of the same expenses from two or more different sources is not allowed. The prohibition of "double financing" is sufficiently defined within their national legal framework and other national regulations.
+
+Where they detect cases of double financing of projects, Member States apply administrative and criminal sanctions, recover EU funds and prosecute the beneficiaries.
+
+Most Member States make use of double financing risk indicators. Member States generally advocate improved prevention by extending risk analysis, in the light of recommendations from the Commission and through the exchange of information on beneficiaries via shared databases.
+
+Information exchange
+
+All Member States reported on regular information exchange and operational cooperation between national authorities to prevent and reduce the risk of double financing of projects. Identification of attempts at double financing begins at the application and authorisation stage.
+
+The authorities administering the use of EU funds at the national, regional and local level may use the databases which hold general and financial information about projects co-financed by the EU and the beneficiaries. Information can also be obtained by other authorities, such as the police and the prosecution service. Some information is also available to the public.
+
+The majority of the Member States have also developed other electronic tools for collecting and analysing data about EU co-financed projects, which can be combined with external data resources (e.g. public internet sites, public databases).
+
+During the phases of publication, awarding and implementation of project contracts, information is transmitted between different national authorities and is exchanged with the European Commission through working groups and information systems.
+
+The use of the Central Exclusion Database (CED) by the Member States under Article 95 of the Financial Regulation is still very limited. Some Member States use national exclusion databases.
+
+The most common reason for exclusion from participation in procurement procedures was a beneficiary's failure to pay social contributions or taxes.
+
+Conclusions of the questionnaire: Member States' contributions to the report indicate that they have measures in place which should prevent double financing. These measures include legal provisions, risk analysis, administrative procedures, and cooperation between national authorities, information exchange and the use of electronic tools. However, more progress is needed on the identification of risk.
+
+All Member States are requested to start using the CED.
+
+Anti-Fraud Policies
+
+Implementation of anti-fraud policy initiatives in 2010
+
+Hercule II programme
+
+The Hercule II programme is the financial instrument managed by the Commission (OLAF) in the field of the protection of the EU financial interests and the prevention of related criminal activities, including cigarette smuggling. The mid-term evaluation of the Hercule II programme confirmed the value of this expenditure. It recommended that the successor to the Hercule II programme should continue to improve technical equipment in the Member States, finance access to databases essential for investigations by Member State authorities and OLAF, and combat cigarette smuggling and counterfeiting in line with the legally binding agreements with tobacco manufacturers.
+
+Customs
+
+The Commission has developed a number of IT tools to facilitate risk assessment and the detection of irregularities and fraud in the area of Customs (exchange of information, collaboration systems and databases). The main development in 2010 was the introduction of the "Mutual Assistance Broker" (MAB) which provides a common interface with national systems.
+
+The Commission conducts joint customs operations with the Member States. Around 40 million cigarettes, 1.2 tonnes of hand-rolled tobacco, 7.000 litres of alcohol and 8 million other counterfeit items were seized during a joint customs operation code-named "SIROCCO" which was coordinated by OLAF in June 2010. This operation also led to the arrest of three suspected cigarette traffickers.
+
+At the end of 2010, the Union re-launched the customs cooperation with China and Russia. Strategic Framework for Customs Cooperation were endorsed with both countries. In view of the mutual interest in economic integration, customs modernisation and convergence in line with international standards, the Frameworks are built on the basis of three broad priorities: 1) safe and fluid trade lanes, 2) risk management and fight against fraud and 3) investment in customs modernisation. A meeting of the EU-Russia Working Group on Customs Border Issues on 6 May 2011 led to agreement on practical initial actions to implement the Strategic Framework, including setting up an Early Warning Mechanism to prevent border congestion and creating joint expert groups to explore ways of cooperating on specific areas.
+
+State of ratification of the Convention on the protection of the EU financial interests
+
+Malta ratified the Convention on 20 January 2011. The Commission reiterates its invitation to the Czech Republic to join all other Member States in ratifying the Convention and invites Estonia to ratify the Protocol of 29 November 1996 on the interpretation by way of preliminary rulings by the Court of Justice of the European Communities.
+
+Commission anti-fraud policy in the context of enlargement
+
+In 2010, the Commission continued to ensure that anti-fraud policy was fully reflected in accession negotiations, in particular with Croatia and Turkey.
+
+The Commission monitored the implementation of the Croatian Anti-Fraud Strategy for the protection of the EU's financial interests for 2010-2012 and the Croatian Action Plan, approved in January 2010. Concerning Turkey, the Commission's efforts in 2010, as in previous years, have focused on improved irregularity analysis and reporting and the preparation of an anti-fraud national strategy. After the appointment of the Turkish Prime Ministry Inspection Board (PMIB) as an anti-fraud contact point in December 2009, intensified consultations have been organised by OLAF with Turkey on institutional and legislative anti-fraud developments.
+
+The Commission has co-financed the EU Project on the Establishment of International Law-Enforcement Coordination Units (ILECUs) in the Western Balkan candidate countries (Croatia, FYROM, Montenegro) and in potential candidate countries (Albania, Bosnia and Herzegovina, Serbia).
+
+The Commission expects intensified cooperation in the field of the protection of the EU's financial interests from Iceland and Montenegro which acquired candidate country status in 2011.
+
+Commission anti-fraud policy in the framework of the European Neighbourhood policy
+
+The Eastern Partnership constitutes a new development of the European Neighbourhood Policy towards Armenia, Azerbaijan, Belarus, Georgia, the Republic of Moldova and Ukraine. It aims at creating the necessary conditions to speed up political association and further economic integration between the EU and partner countries. The EU has been negotiating new Association Agreements with these countries under the aegis of the Eastern Partnership since 2009 (except with Belarus).
+
+In order to have a strong legal framework with clear commitments from the partner countries to ensure sound financial management of the funds they receive from the EU, the Commission has proposed new control and anti-fraud provisions in the Financial Cooperation Titles of these agreements.
+
+In 2010, after negotiation of a Financial Cooperation Title with Ukraine was closed in 2009, the Commission negotiated the Financial Cooperation Title with Moldova. Both Titles include these new control and anti-fraud provisions. Since 1st of January 2011, negotiations are carried out by the European External Action Service (EEAS) in close cooperation with the European Commission.
+
+The Commission and the EEAS will press for these provisions in the new Agreements with Armenia, Azerbaijan and Georgia when negotiations on the Financial Cooperation Title will start with these countries in early 2012.
+
+Fight against Illicit Trade in Tobacco Products
+
+To combat the counterfeit and smuggled tobacco products phenomenon, two cooperation agreements were signed in 2010 between the EU and 26 EU Member States with British American Tobacco and with Imperial Tobacco Limited in 2010. Previously agreements had been signed with Philip Morris International and Japan Tobacco International in 2004 and 2007 respectively. These legally binding agreements provide a comprehensive set of measures designed to limit the presence of the products of these companies on the illicit tobacco market and are consistent with the anti-contraband provisions of the World Health Organisation (WHO) Framework Convention on Tobacco Control (WHO FCTC); they also underpin the efforts of the EU to promote a strong Protocol to that Convention on Eliminating the Illicit Trade in Tobacco Products.
+
+The WHO FCTC is the first treaty negotiated under the auspices of the World Health Organization. It was adopted by the World Health Assembly in 2003 and entered into force on in February 2005. At the first meeting of the Conference of the Parties (COP) to the WHO Framework Convention on Tobacco Control (FCTC) in July 2007, the COP established an Intergovernmental Negotiating Body (INB) to negotiate a Protocol on the Elimination of the Illicit Trade in Tobacco Products based on Article 15 of the FCTC. The Commission (OLAF) has coordinated the EU position and, with the Council Presidency, represented the EU during the negotiation process. Four INB meetings have taken place, the most recent being in 2010. Although progress has been made, further negotiations on certain key elements of the Protocol are still necessary. The next INB will take place in 2012. The European Commission strongly supports the conclusion of a worldwide Treaty (the Protocol) on the Elimination of the Illicit Trade in Tobacco Products which is in line with the Commission's responsibility to protect the financial interests of the EU, including the fight against cigarette smuggling and counterfeiting.
+
+New anti-fraud policy initiatives
+
+Reform of OLAF
+
+The Commission adopted an amended proposal amending Regulation (EC) No. 1073/1999 and repealing Regulation 1074/1999 concerning investigations conducted by the European Anti-fraud Office (OLAF). In preparing the amended proposal, the Commission has taken account of the positions expressed by the European Parliament and the Council and of the conclusions of its Reflection paper presented in July 2010 which outlined possible solutions to take the current legislative process forward.
+
+Negotiations on the proposal were conducted under the Hungarian Council Presidency and are continuing under the Polish Presidency. The Commission will assist the legislator with the aim of achieving a final adoption by the end of 2011.
+
+Multi-annual Commission Anti-fraud Strategy (CAFS)
+
+On 24 June 2011 the Commission adopted a Communication on a Commission Anti-Fraud Strategy (CAFS). The strategy provides a framework for better protection of the EU financial interests across different policy sectors, focusing mainly on fraud prevention and detection. One of the main objectives of the CAFS is the establishment of sectoral anti-fraud strategies at Commission Directorate-General level.
+
+Communication on the protection of the financial interests of the EU by criminal law and by administrative investigations
+
+On 26 May 2011 the Commission adopted the Communication on the protection of the financial interests of the European Union by criminal law and by administrative investigations; this is an integrated policy to safeguard the taxpayers' money. The communication suggests the exploration of new legislative measures to protect the EU financial interests of the EU in the light of the Lisbon Treaty. Improvements to the criminal and administrative procedures, institutional arrangements (modernising Eurojust's capacities, establishing a specialised European prosecution authority, adapting OLAF's role to a new institutional set-up) and the substantive criminal law framework are being considered.
+
+Communication on Fighting Corruption in the EU
+
+Based on the Council's Stockholm Programme, on 6 June 2011, the Commission adopted a Communication on fighting corruption in the EU. It also set up a new mechanism, the EU Anti-Corruption Report, to monitor and assess Member States' efforts in tackling corruption. This should foster political engagement and help Member States to better enforce the existing legislation and to fully implement their international commitments. At the same time, the Commission adopted a Report on the implementation of Council Framework Decision 2003/568/JHA on combating corruption in the private sector and a Report on the modalities of EU participation in the Council of Europe Group of States against Corruption (GRECO).
+
+EU Green Paper on public procurement rules
+
+On 27 January 2011, the Commission launched a public consultation (Green Paper) on how procurement legislation could be updated and improved. It covered issues such as simplification of the rules, reduction of red tape, especially for small and medium sized enterprises, fight against favouritism, corruption and conflict of interests. The evaluation report on this consultation was adopted at the end of June 2011. The Commission will draw on the consultation in preparing its future legislative proposal on the reform of the EU public procurement rules.
+
+Action plan to fight against smuggling of cigarettes and alcohol along the EU Eastern border
+
+Smuggling, and especially cigarette smuggling is a major issue for the EU, which causes big losses to the national and EU budgets. The EU's Eastern Border is especially problematic in this context. The Commission has prepared an Action Plan to fight against smuggling at the EU's Eastern Border. Published in June 2011, it contains a structured and comprehensive overview of existing measures at Commission and Member States level, of remaining gaps and loopholes and suggestions from the Commission on what other actions could be undertaken at Commission or EU level. The Commission expects that the Action Plan will also have a broader effect, on the entire EU territory, and will contribute to the fight against criminal activity at a global level.
+
+The actions provided by the plan include capacity building and technical assistance actions, disincentives and awareness raising measures, and proposals to strengthen operational cooperation and to enhance international cooperation.
+
+General conclusion
+
+This Report shows that progress has been achieved in the past year with regard to the reporting of irregularities, due, in particular, to the implementation of better reporting systems by the Member States. It is also clear from the data received that progress has yet to be achieved, especially in the area of recovery where procedures are still relatively long.
+
+Finally, in 2010 and during the first part of 2011, the Commission has adopted and implemented a number of policy initiatives which will have a positive impact on the protection of EU's financial interests. The practical implementation of these initiatives has already begun and will require close cooperation between the EU institutions and the Member States. The first results of these policy initiatives will be presented in the next report covering the year 2011.
+
+For the employment of the term of "error" see the European Court of Auditors' Annual Report of the European Court of Auditors on the implementation of the budget concerning the financial year 2009, OJ C 303/02, 9.11.2010. Because of the different methods to collect the data, the European Court of Auditors and the Commission agree that the figures of the European Court of Auditors on errors and of the Commission on irregularities and financial corrections cannot be compared in a meaningful way (OJ C 303/02, 9.11.2010, point 1.50, p. 32,33) On the methodology of the Court see Annex 1.1 (Audit Approach and Methodology) OJ C 303/02, 9.11.2010, p. 34.
+
+A thematic report on Member States' customs control strategy synthesizing the results on the inspections carried out in 2009 and 2010 in all Member States has been presented in the Advisory Committee of Own Resources of 7 July 2011.
+
+According to Article 72 of the Financial Regulation, the authorisation of recovery is the act whereby the authorising officer by delegation or sub-delegation responsible instructs the accounting officer, by issuing a recovery order, to recover an amount receivable which he/she has established.
+
+Centralised direct management includes any EU expenditure from funds managed by the EU institutions (e.g. administrative expenditures of the institutions, programmes like Leonardo, Erasmus, the 7th Framework Programme for research and technological development, European Development Fund, etc). According to article 53 of the Financial Regulation (Council Regulation (EC, Euratom) No 1605/2002), this part of the budget can be implemented on a centralised basis, directly by the Commission services, or by delegating implementing tasks to third countries (decentralised management) or to international organisations (joint management).
+
+The figures relate to irregularities involving more than EUR 10,000 of EU financing. Furthermore mechanisms in place allow Member State to exclude from EU financing projects found to be irregular (withdrawals) and to reallocate these resources to other eligible projects.
+
+If a Member State fails to recover an unduly paid amount from the beneficiary within four years of the primary administrative or judicial finding (or, in the case of proceedings before national courts, within eight years), 50% of the non-recovered amount is charged to the budget of the Member State concerned within the framework of the annual financial clearance of the EAGF and EAFRD accounts.

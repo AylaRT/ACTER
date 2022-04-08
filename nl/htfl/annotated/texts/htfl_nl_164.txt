@@ -1,0 +1,19 @@
+DPP4-remming niet geassocieerd met verhoogd risico op hartfalen in type 2 diabetes
+Type 2 diabetes mellitus (T2DM) verhoogt niet alleen de kans op het ontwikkelen van hartfalen (HF), maar heeft ook een negatieve impact op de uitkomsten van patiënten met vastgestelde HF. De effecten van behandeling voor T2DM op HF uitkomsten is onduidelijk omdat het niet adequaat is onderzocht, maar mogelijke cardiovasculaire (CV) schade is gesuggereerd voor sommige glucoseverlagende middelen.
+De SAVOR-TIMI 53 en EXAMINE studies onderzochten CV uitkomsten in patiënten met T2DM die werden behandeld met DPP-4 remmers. In SAVOR-TIMI 53, beïnvloedde behandeling met saxagliptine niet het samengestelde eindpunt van CV sterfte, myocardinfarct (MI) of ischaemische beroerte in patiënten met T2DM en een geschiedenis van of risico op CV events, hoewel ziekenhuisopname voor HF vaker voorkwam dan in patiënten die placebo kregen (3.5% vs. 2.8%).
+In EXAMINE was alogliptine niet-inferieur aan placebo in het verlagen van het risico op het samengestelde eindpunt op CV sterfte, MI of beroerte (11.3% vs. 11.8%) in patiënten met T2DM en een recent acuut coronair syndroom (ACS) event. Dit betreft een analyse van HF uitkomsten in 5380 patiënten met een historie of hoog risico op CV aandoeningen in een vooraf gespecificeerde exploratieve en post-hoc analyse van EXAMINE. Een uitgebreid MACE samengesteld eindpunt werd gebruikt dat het eerste optreden van sterfte door alle oorzaken, niet-fatale MI, niet-fatale beroerte, urgente revascularisatie voor onstabiele angina en ziekenhuisopname voor HF combineerde. Veranderingen in NT-pro-BNP vanaf baseline tot 6 maanden werden ook bestudeerd.
+ 
+Belangrijkste resultaten
+
+Het risico op het exploratieve uitgebreide samengestelde MACE eindpunt en de componenten was vergelijkbaar in alogliptine- en placebobehandelde patiënten. Het risico op ziekenhuisopname voor HF optredend als eerste event was vergelijkbaar met beide behandelingen.
+Het risico op het post-hoc samengestelde eindpunt van CV sterfte en ziekenhuisopname voor HF was vergelijkbaar voor alogliptine en placebo, ongeacht geschiedenis van HF bij baseline.
+In diegenen zonder een HF geschiedenis, was het risico op ziekenhuisopname voor HF hoger in de alogliptinebehandelde groep, maar er werd geen interactie gezien tussen behandeling en geschiedenis met HF.
+Het risico op terugkerende ziekenhuisopname voor HF was vergelijkbaar in beide behandelgroepen (HR: 1.05, 95%CI: 0.82-1.34, P=0.707).
+Het risico op CV sterfte en ziekenhuisopname voor HF nam proportioneel toe met oplopende kwartielen van baseline BNP concentratie, en de frequenties in alle kwartielen waren vergelijkbaar voor alogliptine en placebo.
+CV sterfte kwam significant vaker voor in het vierde kwartiel voor placebo ten opzichte van alogliptine, terwijl de eerste drie kwartielen hetzelfde waren voor de beide middelen.
+Er werd in geen enkel BNP kwartiel verschil gezien tussen de behandelingen voor ziekenhuisopname voor HF.
+Concentraties van Nt-pro-BNP namen significant af vanaf baseline tot 6 maanden zowel met alogliptine (423 pg/mL tot 220 pg/mL na 6 maand, P<0.001) en met placebo (399 pg/mL tot 213 pg/mL, P<0.001).
+NT-pro-BNP niveaus waren hoger in patiënten met een historie van HF, en ze daalden vanaf baseline tijdens de 6 maanden, maar niet verschillend afhankelijk van de behandeling.
+Conclusie
+
+Deze analyse van EXAMINE laat zien dat alogliptine niet leidde tot meer HF morbiditeit en mortaliteit in patiënten met T2DM en een recent ACS event, noch tot verslechterde HF uitkomsten in patiënten met al bestaand HF. NT-pro-BNP concentraties daalden op vergelijkbare wijze in zes maanden met alogliptine en placebo. Hoewel dit een post-hoc analyse was, versterken de grote studiegroep, het hoge aantal events en de prospectief bevestigde uitkomsten deze geruststellende interpretatie.

@@ -1,0 +1,383 @@
+CIRCULAIRE 07.10.08/1
+
+Circulaire CAF N° 16/2008 dd. 07.10.2008
+ 
+Législation fiscale.
+Code de procédure pénale.
+Modification de la législation.
+Corruption.
+Lutte contre la corruption.
+Fonctionnaire.
+Obligations du fonctionnaire.
+ 
+
+SERVICE PUBLIC FEDERAL
+FINANCES
+
+Administration générale des impôts et du recouvrement
+
+Comité Anti-Fraude
+
+OBJET : Lutte contre la corruption
+
+A tous les fonctionnaires de l'Administration des affaires fiscales, de l'Administration de la fiscalité des entreprises et des revenus, de l'Administration des contributions directes, de l'Administration du recouvrement, de l'Administration de la TVA, de l'enregistrement et des domaines, de l'Administration du cadastre, de l'Administration des douanes et accises et de l'Administration de l'inspection spéciale des impôts.
+
+
+
+INTRODUCTION
+
+La loi du 11 mai 2007 adaptant la législation en matière de la lutte contre la corruption, a pour objet de transposer en droit belge certaines recommandations du Groupe de travail " corruption dans les transactions commerciales internationales " de l'Organisation de coopération et de développement économiques (OCDE) (ci-après dénommé " le Groupe de travail ") qui sont reprises en conclusion de son Rapport (phase 2) de 2005 sur l'application par la Belgique de la Convention de 1997 sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales et de la Recommandation de 1997 sur la lutte contre la corruption dans les transactions commerciales internationales.
+Ce rapport a été adopté par le Groupe de travail en juin 2005.
+Il est consultable sur le site de l'OCDE.
+
+Le Groupe de travail a toutefois noté quelques lacunes et a recommandé des améliorations dans certains domaines.
+En particulier, il a indiqué que le droit belge permettait sous certaines conditions la déductibilité fiscale des avantages indus versés à des agents publics. Il lui a paru d'une importance fondamentale que le droit fiscal belge adopte, dans les meilleurs délais, une interdiction générale de la déductibilité fiscale d'avantages de toute nature versés à un agent public étranger.
+Il a également insisté sur l'obligation pour la Belgique d'assurer une définition autonome de l'agent public étranger dans son droit national afin de couvrir le périmètre complet d'application requis par la Convention. Dans la même optique, il a recommandé que la Belgique prenne des mesures correctrices afin d'assurer la pleine efficacité des compétences extraterritoriales et universelles belges concernant les infractions de corruption des agents publics étrangers commises hors du territoire belge.
+
+La loi du 11 mai 2007 a été subdivisée de manière thématique et selon les dispositions concernées en un volet judiciaire (voir chapitre Ier) et un volet fiscal (voir chapitre III).
+
+Le chapitre II de la présente circulaire vise quant à lui à rappeler certains principes de base qui s'imposent à tout fonctionnaire dans l'exercice de ses fonctions vis-à-vis de la corruption.
+
+Le chapitre IV a pour but de donner aux agents un aperçu de certaines techniques utilisées en matière de corruption en vue de détecter et d'identifier les avantages financiers ou de toute nature consentis dans le cadre d'une corruption aux personnes qui exercent une fonction en Belgique ou à l'étranger.
+
+I. DEFINITION PENALE DE LA CORRUPTION
+
+1. Corruption envers une personne exerçant une fonction publique en Belgique
+
+La définition pénale des notions de corruption passive et de corruption active envers une personne exerçant une fonction publique est précisée à l'article 246 du Code pénal :
+
+« Art. 246. § 1er. Est constitutif de corruption passive le fait pour une personne qui exerce une fonction publique de solliciter ou d'accepter, directement ou par interposition de personnes, une offre, une promesse ou un avantage de toute nature, pour elle-même ou pour un tiers, pour adopter un des comportements visés à l'article 247.
+§ 2. Est constitutif de corruption active le fait de proposer, directement ou par interposition de personnes, à une personne exerçant une fonction publique une offre, une promesse ou un avantage de toute nature, pour elle-même ou pour un tiers, afin qu'elle adopte un des comportements visés à l'article 247.
+§ 3. Est assimilée à une personne qui exerce une fonction publique au sens du présent article toute personne qui s'est portée candidate à une telle fonction, qui fait croire qu'elle exercera une telle fonction, ou qui, en usant de fausses qualités, fait croire qu'elle exerce une telle fonction. »
+
+Même si le Pouvoir exécutif et les Autorités judiciaires estimaient d'ores et déjà que la définition de la corruption visait systématiquement l'octroi d'un avantage, le législateur a cependant confirmé expressément par l'article 3 de la loi du 11 mai 2007 que le paragraphe 2 de l'article 246 du Code pénal devait être interprété dans le sens qu'est également constitutif de corruption active le fait d'octroyer, directement ou par interposition de personnes, à une personne exerçant une fonction publique un avantage de toute nature, pour elle-même ou pour un tiers, afin qu'elle adopte un des comportements visés à l'article 247.
+
+Les comportements de la personne exerçant une fonction publique, qui sont prévus par l'article 247 du Code pénal, sont : l'accomplissement d'un acte de sa fonction, juste mais non sujet à salaire ; l'accomplissement d'un acte injuste, d'un crime ou d'un délit à l'occasion de l'exercice de sa fonction ou l'abstention de faire un acte qui rentrait dans l'ordre de ses devoirs ; l'usage de l'influence réelle ou supposée dont elle dispose du fait de sa fonction, afin d'obtenir un acte d'une autorité ou d'une administration publiques ou l'abstention d'un tel acte.
+
+2. Corruption envers une personne exerçant une fonction privée en Belgique
+
+Les éléments constitutifs de corruption passive et de corruption active envers une personne exerçant une fonction privée en Belgique sont précisés à l'article 504bis du Code pénal :
+
+« Art. 504bis. § 1er. Est constitutif de corruption privée passive le fait pour une personne qui a la qualité d'administrateur ou de gérant d'une personne morale, de mandataire ou de préposé d'une personne morale ou physique, de solliciter ou d'accepter, directement ou par interposition de personnes, une offre, une promesse ou un avantage de toute nature, pour elle-même ou pour un tiers, pour faire ou s'abstenir de faire un acte de sa fonction ou facilité par sa fonction, à l'insu et sans l'autorisation, selon le cas, du Conseil d'administration ou de l'Assemblée générale, du mandant ou de l'employeur.
+§ 2. Est constitutif de corruption privée active la fait de proposer, directement ou par interposition de personnes, à une personne qui a la qualité d'administrateur ou de gérant d'une personne morale, de mandataire ou de préposé d'une personne morale ou physique, une offre, une promesse ou un avantage de toute nature, pour elle-même ou pour un tiers, pour faire ou s'abstenir de faire un acte de sa fonction ou facilité par sa fonction, à l'insu et sans l'autorisation, selon le cas, du Conseil d'administration ou de l'Assemblée générale, du mandant ou de l'employeur. »
+
+Même s'il était déjà estimé par le Pouvoir exécutif et les Autorités judiciaires que la définition de la corruption visait systématiquement l'octroi d'un avantage (si une proposition d'octroi d'un avantage est déjà punissable, il semble alors logique que l'octroi immédiat de l'avantage, sans même qu'il y ait une promesse, le soit également), le législateur a cependant confirmé expressément par l'article 4 de la loi du 11 mai 2007 que le paragraphe 2 de l'article 504bis du Code pénal devait être interprété dans le sens qu'est également constitutif de corruption privée active le fait d'octroyer, directement ou par interposition de personnes, à une personne qui a la qualité d'administrateur ou de gérant d'une personne morale, de mandataire ou de préposé d'une personne morale ou physique, un avantage de tout nature, pour elle-même ou pour un tiers, pour faire ou s'abstenir de faire un acte de sa fonction ou facilité par sa fonction, à l'insu et sans l'autorisation, selon le cas, du conseil d'administration ou de l'assemblée générale, du mandant ou de l'employeur.
+
+3. Corruption envers une personne exerçant une fonction publique à l'étranger
+
+L'article 250 du Code pénal, tel que remplacé par l'article 5 de la loi du 11 mai 2007, incrimine la corruption qui concerne des agents publics étrangers en les assimilant aux agents publics belges :
+
+« Art. 250. Lorsque la corruption prévue par les articles 246 à 249 concerne une personne qui exerce une fonction publique dans un Etat étranger ou dans une organisation de droit international public, les peines seront celles prévues par ces dispositions. »
+
+L'abrogation de l'article 251 du code pénal par l'article 6 de la loi du 11 mai 2007 a pour effet de simplifier substantiellement l'applicabilité des dispositions pénales concernant la corruption, aux agents publics étrangers visés par la loi. En effet, en fusionnant l'ancien 250 (visant les agents publics étrangers) et l'ancien article 251 (visant les agents publics internationaux) en un seul article (l'article 250 nouveau), toute personne qui exerce une fonction publique dans un Etat étranger ou dans une organisation de droit international public est assimilée aux agents publics belges pour l'application des dispositions du Code pénal en ce qui concerne la corruption. La notion de "toute personne exerçant une fonction publique" est très large et couvre toutes les catégories de personnes qui, quel que soit leur statut, exercent une fonction publique, quelle qu'elle soit.
+
+4. Compétence des tribunaux belges
+
+L'article 10quater du titre préliminaire du Code d'instruction criminelle, remplacé par l'article 7 de loi du 11 mai 2007, précise la compétence des tribunaux :
+
+« Art. 10quater. § 1er. Pourra être poursuivie en Belgique toute personne qui aura commis hors du territoire :
+1° une infraction prévue aux articles 246 à 249 du Code pénal ;
+2° une infraction prévue à l'article 250 du même Code, lorsque la personne exerçant une fonction publique dans un Etat étranger ou dans une organisation de droit international public est belge ou lorsque l'organisation de droit international public pour laquelle la personne exerce une fonction publique a son siège en Belgique.
+§ 2. Tout Belge ou toute personne ayant sa résidence principale sur le territoire du Royaume qui, hors du territoire du royaume, se sera rendu coupable d'une infraction prévue à l'article 250 du code pénal pourra être poursuivie en Belgique, à condition que le fait soit puni par la législation du pays où il a été commis. »
+
+Le premier paragraphe introduit une compétence universelle du juge belge pour connaître des infractions commises à l'étranger par des Belges ou des étrangers, lorsqu'il s'agit de faits de corruption à l'encontre soit d'agents publics belges qui exercent leur fonction en Belgique, à l'étranger ou dans une organisation de droit international public, soit d'agents publics étrangers qui exercent leur fonction dans une organisation de droit international public ayant son siège en Belgique.
+
+Le second paragraphe restreint le principe d'universalité aux Belges ou aux personnes ayant leur résidence principale en Belgique en ce qui concerne les infractions de corruption à l'encontre de personnes non-belges qui exercent une fonction publique dans un Etat étranger ou dans une organisation de droit international public. Seuls des Belges ou des personnes ayant leur résidence principale en Belgique peuvent dans ce cas être poursuivis.
+
+II. PRINCIPES JURIDIQUES FIXANT LES OBLIGATIONS DU FONCTIONNAIRE VIS-A-VIS DE LA CORRUPTION
+
+1. Arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat
+
+L'article 7, § 1er de l'Arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, remplacé par l'Arrêté royal du 22 décembre 2000 et par l'Arrêté royal du 14 juin 2007, est la base des devoirs déontologiques des fonctionnaires de l'Etat.
+
+Cet article est libellé comme suit:
+
+« § 1er. L'agent de l'Etat remplit les fonctions avec loyauté, conscience et intégrité sous l'autorité de ses supérieurs hiérarchiques.
+A cet effet, il doit :
+1° respecter les lois et règlements en vigueur ainsi que les directives qui lui sont données dans le cadre de ces lois et règlements;
+2° formuler ses avis et rédiger ses rapports avec rigueur et exactitude;
+3° exécuter les décisions avec diligence et conscience professionnelle. ».
+
+L'article 29 du Code d'instruction criminelle fait partie des « lois et règlements en vigueur » qui doivent être respectés par tous les fonctionnaires et agents de l'Etat.
+
+L'article 8 de l'Arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, remplacé par l'Arrêté royal du 22 décembre 2000 et par l'Arrêté royal du 14 juin 2007, stipule :
+
+« § 1er. L'agent de l'Etat traite les usagers de ses services avec bienveillance. Dans la manière dont il répond aux demandes des usagers ou dont il traite les dossiers, il respecte strictement les principes de neutralité, d'égalité de traitement et de respect des lois, règlements et directives.
+Lorsqu'il est, dans le cadre de ses fonctions, en contact avec le public, l'agent de l'Etat évite toute parole, toute attitude, toute présentation qui pourraient être de nature à ébranler la confiance du public en sa totale neutralité, en sa compétence ou en sa dignité.
+§ 2. Même en dehors de l'exercice de ses fonctions, l'agent de l'Etat évite tout comportement contraire à la dignité de ses fonctions. Il évite aussi toute situation où, même par personne interposée, il pourrait être associé à des occupations contraires à la dignité de ses fonctions.
+§ 3. L'agent de l'Etat ne peut solliciter, exiger ou recevoir, directement ou par personne interposée, même en-dehors de ses fonctions mais à raison de celles-ci, des dons, gratifications ou avantages quelconques.
+L'alinéa 1er ne vise pas les cadeaux symboliques de faible valeur échangés entre agents dans l'exercice normal de leurs fonctions. »
+
+Aucune forme de discrimination n'est permise dans les contacts entre les membres du personnel et dans leurs contacts avec les contribuables.
+
+L'intégrité de l'Autorité est directement liée au principe de l'exercice de la puissance publique. L'intégrité est non seulement synonyme de probité et d'impartialité mais également d'équité, d'orientation vers le client, de compétence professionnelle, de crédibilité et de confiance.
+
+L'intégrité n'implique pas seulement que l'Autorité doit faire respecter la loi, mais également que celle-ci doit être un exemple en la matière : agir légitimement en faisant correctement usage de moyens et compétences. Le citoyen doit pouvoir avoir confiance en l'Autorité et en ses fonctionnaires.
+
+Une des tâches principales de l'Autorité est le respect de la loi. Il n'y a pas de principe plus logique que de donner l'exemple en premier lieu pour ceux qui font respecter la loi. Il n'est pas concevable de demander aux citoyens de faire preuve d'obéissance si l'Autorité, en la personne de ses fonctionnaires, essaie en même temps de contourner le respect de la loi de toutes sortes de manières.
+
+Les fonctionnaires doivent effectuer les missions qui leur sont confiées consciencieusement, loyalement et dans le respect de la légalité.
+
+L'intégrité des fonctionnaires suppose également que ceux-ci n'utilisent pas les moyens et facilités mis à leur disposition, à d'autres fins que celles pour lesquelles ils sont prévus. Cela veut dire, en d'autres termes, que des fonctionnaires ne peuvent accorder des avantages à eux-mêmes ou à un tiers.
+
+Les fonctionnaires et agents (fiscaux) ne peuvent solliciter, exiger ou recevoir, directement ou par personne interposée, dans l'exercice ou non de leurs fonctions mais à raison de celles-ci, des dons, gratifications ou avantages quelconques.
+
+Sans préjudice de l'application des lois pénales, toute infraction à la disposition précitée est sanctionnée, conformément à l'article 13 de l'Arrêté royal précité du 2 octobre 1937, d'une des peines disciplinaires fixées à l'article 77 du même arrêté.
+
+2. Code d'instruction criminelle
+
+2.1. Définition
+
+L'article 29 du Code d'instruction criminelle est formulé comme suit :
+
+« Toute autorité constituée, tout fonctionnaire ou officier public, qui, dans l'exercice de ses fonctions, acquerra la connaissance d'un crime ou d'un délit, sera tenu d'en donner avis sur-le-champ au procureur du Roi près le tribunal dans le ressort duquel ce crime ou délit aura été commis ou dans lequel l'inculpé pourrait être trouvé, et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs.
+
+Toutefois, les fonctionnaires de l'Administration des Contributions directes, les fonctionnaires de l'Administration de la Taxe sur la valeur ajoutée, de l'Enregistrement et des Domaines, les fonctionnaires de l'Administration de l'Inspection spéciale des Impôts et les fonctionnaires de l'Administration de la Fiscalité des entreprises et des revenus, ne peuvent, sans autorisation du directeur régional dont ils dépendent, porter à la connaissance du procureur du Roi les faits pénalement punissables aux termes des lois fiscales et des arrêtés pris pour leur exécution. ».
+
+Au sens de cet article, la dénonciation est la notification écrite par une Autorité publique ou un fonctionnaire public, qui n'est ni victime ni partie lésée, d'un crime ou d'un délit aux autorités judiciaires afin que celles-ci puissent le poursuivre.
+Si une victime ou une partie lésée, ou toute personne agissant en son nom, dénonce une infraction, il s'agit d'une plainte et non d'une dénonciation.
+La distinction entre ces deux notions réside dans le fait qu'un dénonciateur ne peut initier l'action publique alors qu'un plaignant peut le faire en se constituant partie civile auprès du juge d'instruction ou en citant directement le prévenu devant la juridiction pénale dans les cas où la loi le permet.
+
+La dénonciation est faite auprès du procureur du Roi (art. 29, alinéa 1er) ou d'une autre instance compétente pour exercer l'action publique, comme l'auditeur du travail en matière d'infractions relevant de sa compétence.
+Elle doit être adressée au procureur du Roi du lieu où le crime ou le délit a été commis ou du lieu où l'inculpé pourrait être trouvé (art. 29, alinéa 1er).
+Si le procureur du Roi ou l'autre instance requise est incompétent, il/elle transmettra néanmoins la dénonciation au magistrat compétent ou à l'instance compétente.
+Une dénonciation ne peut être retirée.
+Une fois qu'elle est dénoncée, l'autorité a effectivement connaissance de l'infraction en question.
+
+L'article 31 du Code d'instruction criminelle précise que le dénonciateur doit rédiger la dénonciation. Le procureur du Roi peut également la rédiger lui-même, s'il en est requis.
+Ces formalités ont pour but de responsabiliser le dénonciateur par rapport à sa dénonciation.
+
+2.2. La dénonciation officielle
+
+L'article 29 ne vise que la dénonciation officielle par les Autorités constituées, les fonctionnaires et les officiers publics, la dénonciation à titre privé étant traitée par l'article 30 du même Code. Cette disposition impose une obligation à toutes les Autorités constituées, à tous les fonctionnaires et agents ou officiers publics de dénoncer sur le champ, c'est à dire immédiatement les crimes et délits dont ils ont connaissance dans l'exercice de leurs fonctions. Cet article déroge ainsi à l'article 458 du Code pénal qui sanctionne les violations au secret professionnel.
+
+L'obligation de dénonciation officielle est très générale. Elle n'établit aucune distinction entre les Autorités civiles, militaires ou administratives, entre les officiers ou fonctionnaires publics, ni entre leurs grades.
+L'article 29, alinéa 1er, ne s'applique pas aux membres de la police revêtus de la qualité d'officier de police judiciaire, auxiliaires du procureur du Roi. En effet, en vertu de l'article 8 du Code d'instruction criminelle, ceux-ci sont chargés de rechercher les infractions, en rassembler les preuves, et en livrer les auteurs aux tribunaux chargés de les punir.
+
+L'obligation de dénonciation officielle ne concerne que les crimes et délits.
+Le fonctionnaire peut éventuellement signaler des infractions, des crimes ou des délits dont il a eu connaissance en dehors de l'exercice de ses fonctions ; cela sort toutefois du champ d'application de l'article 29, alinéa 1er et relève le cas échéant du champ d'application de l'article 30.
+
+La dénonciation officielle suppose la prise de connaissance d'un crime ou d'un délit, c'est-à-dire des indices d'éléments matériels et moraux de celui-ci.
+Elle peut se rapporter non seulement à un crime ou à un délit commis mais également à un crime ou à un délit en cours, par exemple la construction d'un bâtiment avant la délivrance d'un permis d'environnement.
+Si les éléments constitutifs d'une infraction ne sont pas présents, il n'y a évidemment aucune obligation de dénonciation. Par ailleurs, on n'attend pas du fonctionnaire qu'il enquête sur l'infraction et qu'il ne la révèle que lorsqu'il l'estime suffisamment établie ; il ne lui appartient pas non plus de se prononcer sur la culpabilité de certaines personnes.
+
+Si une dénonciation officielle semble nécessaire, elle doit être faite conformément à l'article 29, alinéa 1er « sur le champ », en d'autres termes sans délai.
+Cette obligation a pour but d'éviter que les preuves ne disparaissent.
+
+2.3. La dénonciation des délits fiscaux
+
+Jusqu'au 1er février 1987, l'obligation ordinaire de dénonciation de l'article 29, alinéa 1er, du Code d'instruction criminelle s'appliquait aux fonctionnaires fiscaux acquérant connaissance d'un crime ou d'un délit dans l'exercice de leurs fonctions.
+La loi du 4 août 1986 portant des dispositions fiscales a toutefois introduit un alinéa 2, entré en vigueur le 1er février 1987. Le nouvel article 29, alinéa 2, n'est qu'une des diverses dispositions qui ont donné naissance à une politique de poursuite très spécifique en matière fiscale (la " Charte du contribuable ").
+
+Dans sa version actuelle, l'article 29, alinéa 2 (modifié par la loi du 23 mars 1999), prévoit que les fonctionnaires de l'Administration des contributions directes, les fonctionnaires de l'Administration de la taxe sur la valeur ajoutée, de l'enregistrement et des domaines, les fonctionnaires de l'Administration de l'inspection spéciale des impôts et les fonctionnaires de l'Administration de la fiscalité des entreprises et des revenus obtiennent l'autorisation du directeur régional dont ils dépendent avant de pouvoir porter des infractions fiscales à la connaissance du procureur du Roi.
+Sans cette autorisation, l'action publique est non recevable.
+
+Par le biais de cette autorisation, le législateur entendait éviter tout abus de plainte de la part des fonctionnaires fiscaux en confiant à un fonctionnaire supérieur la tâche d'apprécier l'opportunité d'une dénonciation à la justice.
+A première vue, l'autorisation de dénonciation officielle d'infractions fiscales semble être une sorte de mesure interne aux administrations fiscales. En réalité, sa portée est plus étendue.
+Alors que l'article 29, alinéa 1er, impose une obligation de dénonciation générale sans nuance aux Autorités constituées, aux officiers et fonctionnaires publics, l'alinéa 2 confère un pouvoir d'appréciation de l'opportunité d'une dénonciation au directeur régional, qui doit décider s'il convient réellement de porter les faits à la connaissance de la justice.
+
+Il est à noter cependant que la corruption publique et la corruption privée, auxquelles a trait la présente circulaire, sont des infractions de droit commun.
+L'autorisation prévue à l'article 29, alinéa 2, ne s'applique qu'aux "faits pénalement punissables aux termes des lois fiscales et des arrêtés pris pour leur exécution".
+
+En d'autres termes, lorsqu'un fonctionnaire découvre un fait de corruption dans l'exercice de ses fonctions, il est soumis à l'obligation générale de dénonciation de l'article 29, alinéa 1er, et ne doit pas demander d'autorisation à son directeur régional.
+
+En effet, il y a lieu de bien distinguer les infractions de droit commun et les infractions fiscales. Le fonctionnaire peut découvrir l'existence d'une infraction de droit commun dans le cadre d'une procédure fiscale (existence de pots de vin, double comptabilité, détournement frauduleux,…). Ces infractions de droit commun révélées lors d'une procédure de taxation, doivent ainsi être également dénoncées sur le champ au procureur du Roi compétent en vertu de l'article 29, alinéa 1er du Code d'instruction criminelle. Les infractions fiscales qui en résultent le cas échéant ne pourront être dénoncées qu'avec l'autorisation du directeur régional compétent.
+Il n'y a donc pas lieu de surseoir à la dénonciation obligatoire des infractions de droit commun jusqu'à la prise d'une décision relative à la dénonciation des infractions fiscales. Ces dénonciations sont autonomes.
+
+Enfin, il n'appartient pas au fonctionnaire ou à l'agent qui dénonce des faits infractionnels au procureur du Roi de les qualifier, c'est à dire d'indiquer la nature de l'infraction (abus de confiance, escroquerie, prise d'intérêt, abus de biens sociaux,…). Quelle que soit la qualification, la dénonciation n'en demeure pas moins légitime et obligatoire.
+
+3. La politique fédérale préventive en matière d'intégrité
+
+En ce qui concerne les comportements qui ne peuvent être qualifiés de crimes ou de délits, soit les inconduites ou comportements non intègres, ou portant atteinte à la déontologie, le projet « politique d'intégrité pour l'organisation du pouvoir fédéral » approuvé par le Conseil des Ministres du 30 juin 2006 prévoira la manière de les dénoncer (à un organe interne et/ou externe des services publics fédéraux) tout en garantissant l'anonymat du « dénonciateur ».
+
+III. LES DISPOSITIONS FISCALES DE LA LOI DU11 MAI 2007 ADAPTANT LA LEGISLATION EN MATIERE DE LUTTE CONTRE LA CORRUPTION
+
+A. Texte légal
+
+Art. 8.- L'article 53 du Code des impôts sur les revenus 1992, modifié par les lois du 30 mars 1994, du 7 avril 1995 et du 20 décembre 1995, par l'arrêté royal du 20 décembre 1996 et les lois du 7 mars 2002, du 24 décembre 2002, du 28 avril 2003, du 10 mai 2004 et du 27 décembre 2004, est complété comme suit :
+« 24° les commissions, courtages, ristournes commerciales ou autres, vacations ou honoraires occasionnels ou non, gratifications, rétributions ou avantages de toute nature qui sont accordés, directement ou indirectement, à une personne :
+a) dans le cadre d'une corruption publique en Belgique, visée à l'article 246 du Code pénal ou d'une corruption privée en Belgique, visée à l'article 504bis du même Code ;
+b) dans le cadre d'une corruption publique d'une personne exerçant une fonction publique dans un Etat étranger ou dans une organisation de droit international public, visée à l'article 250 du même Code. ».
+
+Art. 9.- L'article 58 du même Code, modifié par la loi du 10 février 1999, est abrogé.
+
+Art. 10.- A l'article 205, § 2, alinéa 1er, 2°, du même Code, remplacé par l'arrêté royal du 20 décembre 1996 et modifié par les lois du 28 avril 2003 et du 2 mai 2005, les mots « 21° à 23° ; » sont remplacés par les mots « 21° à 24° ; ».
+
+Art. 11.- A l'article 207, alinéa 2, du même Code, remplacé par la loi du 24 décembre 2002, les mots « ni sur les avantages financiers ou de toute nature reçus visés à l'article 53, 24°, » sont insérés entre les mots « visés à l'article 79, » et les mots « ni sur l'assiette ».
+
+Art. 12.- L'article 219, alinéa 1er, du même Code, remplacé par la loi du 4 mai 1999, est complété par les mots «, et des avantages financiers ou de toute nature visés à l'article 53, 24°. ».
+
+Art. 13.- L'article 223, alinéa 1er, 3°, du même Code, abrogé par la loi du 15 décembre 2004, est rétabli sous la rédaction suivante :
+« 3° des avantages financiers ou de toute nature visés à l'article 53, 24°. ».
+
+Art. 14.- A l'article 225, alinéa 2, , du même Code, modifié par la loi du 30 mars 1994, par l'arrêté royal du 20 décembre 1996 et par les lois du 4 mai 1999, du 28 avril 2003 et du 15 décembre 2004, les 4° et 5°sont remplacés par les dispositions suivantes :
+« 4° au taux de 300 p.c. sur les dépenses non justifiées visées à l'article 223, alinéa 1er, 1°, et sur les avantages financiers ou de toute nature, visés à l'article 223, alinéa 1er, 3°;
+5° au taux visé à l'article 215, alinéa 1er, sur les cotisations, pensions, rentes et allocations visées à l'article 223, alinéa 1er, 2°, et sur les avantages financiers ou de toute nature visés à l'article 223, alinéa 1er, 3°; ».
+
+Art. 15.- A l'article 233, alinéa 2, du même Code, remplacé par la loi du 4 mai 1999, les mots « et les bénéfices dissimulés » sont remplacés par les mots «, les bénéfices dissimulés et les avantages financiers ou de toute nature ».
+
+Art. 16.- L'article 234, alinéa 1er, 4°, du même Code, est complété par les mots « et sur les avantages financiers ou de toute nature visés à l'article 53, 24° ; ».
+
+Art. 17.- A l'article 246, alinéa 1er, 2°, du même Code, remplacé par la loi du 4 mai 1999, les mots « et sur les bénéfices dissimulés » sont remplacés par les mots «, sur les bénéfices dissimulés et sur les avantages financiers ou de toute nature visés à l'article 233, alinéa 2, ».
+
+Art. 18.- A l'article 247, 3°, du même Code, modifié par la loi du 30 mars 1994, les mots « dépenses non justifiées visées » sont remplacés par les mots « dépenses non justifiées et les avantages financiers ou de toute nature visés ».
+
+Art. 19.- L'article 463bis, § 2, 1°, du même Code, remplacé par la loi du 12 août 2000, est abrogé.
+
+Art. 20.- La présente loi entre en vigueur le jour de sa publication au Moniteur belge, à l'exception de l'article 14 qui entre en vigueur à partir du 1er janvier 2006 en ce qui concerne les renvois à l'article 223, alinéa 1er.
+
+B. Commentaire
+
+1. Suppression du régime des commissions secrètes autorisées par arrêté ministériel
+
+Ce régime est supprimé à partir du 8 juin 2007 par abrogation des articles 58 et 463bis, § 2, 1°, CIR 92.
+(art. 9 et 19, loi 11.5.2007 - art. 58 et 463bis, § 2, 1°, CIR 92).
+
+2. Nouvelle non-déductibilité au titre de frais professionnels
+
+Pour tout contribuable assujetti en Belgique, constituent des frais professionnels non déductibles à partir du 8 juin 2007, les avantages financiers (commissions, courtages, ristournes commerciales ou autres, vacations ou honoraires occasionnels ou non, gratifications, rétributions) ou de toute nature consentis dans le cadre d'une corruption publique en Belgique, visée à l'article 246 du Code pénal, d'une corruption privée en Belgique, visée à l'article 504bis du même Code, ou d'une corruption publique d'une personne exerçant une fonction publique dans un Etat étranger ou dans une organisation de droit international public, visée à l'article 250 du même Code.
+(art. 8, loi 11.5.2007 - art. 53, CIR 92).
+
+3. Nouvelle « mauvaise » dépense non admise en matière de RDT et RME
+
+L'article 205, § 2, alinéa 1er, CIR 92, limite la déduction des « revenus définitivement taxés » (RDT) et des « revenus mobiliers exonérés » (RME) au montant des bénéfices de la période imposable tel qu'il subsiste après application de l'article 199 CIR 92, diminué des « mauvaises dépenses non admises » suivantes :
+1° les libéralités non déductibles à titre de frais professionnels, à l'exception des libéralités déduites des bénéfices en application des articles 199 et 200, CIR 92 ;
+2° les frais visés à l'article 53, 6° à 11°, 14° et 21° à 23°, CIR 92 ;
+3° les intérêts, redevances et rémunérations visés à l'article 54, CIR 92 ;
+4° les intérêts non déductibles visés à l'article 55, CIR 92 ;
+5° les cotisations et primes visées à l'article 52, 3°, b, CIR 92, et les primes y assimilées de certaines assurances-vie, dans la mesure où ces cotisations et primes ne satisfont pas aux conditions et limites fixées par les articles 59 et 195, CIR 92, ainsi que des pensions, pensions complémentaires, rentes et autres allocations en tenant lieu dans la mesure où ces sommes ne satisfont pas aux conditions et à la limite fixées par l'article 60, CIR 92 ;
+6° la partie des frais et moins-values afférents à l'utilisation des voitures, voitures mixtes et minibus visés aux articles 66 et 198bis, CIR 92, à l'exception des frais de carburant ;
+7° les ristournes considérées comme des bénéfices, visées à l'article 189, § 1er, CIR 92 ;
+8° les taxes visées à l'article 198, alinéa 1er, 4°, 8° et 9°, CIR 92.
+
+Les avantages financiers ou de toute nature visés au nouvel article 53, 24° CIR 92 sont ajoutés à l'article 205, § 2, alinéa 1er, 2°, CIR 92.
+(art. 10, loi 11.5.2007 - art. 205, § 2, alinéa 1er, 2°, CIR 92).
+
+4. Nouveau rejet d'exonération par d'autres déductions
+
+En vertu des dispositions actuelles de l'article 207, alinéa 2, CIR 92, aucune déduction notamment en matière de libéralités exonérées, de revenus définitivement taxés et de revenus mobiliers exonérés, de pertes professionnelles antérieures et de déduction pour investissement ni aucune compensation avec la perte de la période imposable, ne peut être portée en réduction des avantages anormaux ou bénévoles reçus d'une société liée, des dépenses non justifiées visées à l'article 219, CIR 92, et des bénéfices provenant du non-respect des obligations en matière de réserve d'investissement.
+Cette disposition a été modifiée dans le but que les avantages financiers ou de toute nature reçus, visés à l'article 219, CIR 92, ne puissent pas être exonérés par d'autres déductions.
+(art. 11, loi 11.5.2007 - art. 207, alinéa 2, CIR 92).
+
+5. Imposition au taux distinct de 309 p.c.
+
+Pour les contribuables assujettis à l'impôt des sociétés, à l'impôt des personnes morales et à l'impôt des non-résidents (sociétés et personnes morales), les avantages financiers ou de toute nature, visés au nouvel article 53, 24° CIR 92, subissent également la cotisation distincte de 309 p.c. prévue par les articles 219 et 463bis, § 1, 1°CIR 92.
+(art. 12 à 18, loi 11.5.2007 - art. 219, alinéa 1er , 223, alinéa 1er, 3°, 225, alinéa 2, 4° et 5°, 233, alinéa 2, 234, alinéa 1er, 4°, 246, alinéa 1er, 2°, 247, 3° et 463bis, § 2, 1°, CIR 92).
+
+6. Entrée en vigueur
+
+Les dispositions commentées de la loi du 11 mai 2007 entrent en vigueur à partir du 8 juin 2007 à l'exception des renvois à l'article 223, alinéa 1er CIR 92, qui entrent en vigueur à partir du 1er janvier 2006.
+
+(art. 20, loi 11.5.2007 - art. 56, 24°, 58, 205, § 2, alinéa 1er, 2°, 207, alinéa 2, 219, alinéa 1er, 223, alinéa 1er, 3°, 225, alinéa 2, 4° et 5°, 233, alinéa 2, 234, alinéa 1er, 4°, 246, alinéa 1er, 2°, 247, 3° et 463bis, § 2, 1°, CIR 92).
+
+IV. ASPECTS PRATIQUES DE RECHERCHE DE LA CORRUPTION
+
+L'objectif de ce chapitre destiné aux contrôleurs est de les avertir de certaines techniques utilisées en matière de corruption et de leur fournir des outils pour détecter et identifier les éléments de corruption donnés aux agents publics étrangers mais aussi ceux versés à des agents publics dans le contexte national.
+
+1. Indices de fraude ou de versement d'éléments de corruption
+
+Les indices de fraude peuvent consister en un ou plusieurs agissements délictueux à caractère intentionnel commis par le contribuable spécifiquement en vue d'une fraude fiscale. Les indices de fraude peuvent se répartir en deux catégories : les indices déterminants ou les actes déterminants. On ne peut en aucun cas mettre en évidence une fraude en l'absence d'actes déterminants.
+
+Les actes déterminants sont les agissements qui permettent d'établir qu'un processus particulier a été délibérément mis en œuvre en vue d'une tromperie, d'un subterfuge, d'un camouflage, d'une dissimulation, d'une quelconque tentative de faire apparaître des événements sous un jour différent ou de les rendre obscurs, ou encore de déformer la réalité.
+
+1.1. Frais ou déductions
+
+Ces indices peuvent prendre la forme d'une surestimation sensible de déductions ou consister dans le fait de prétendre à des déductions fictives.
+
+1.1.1. Méthodes de paiement
+
+On trouvera ci-après la présentation d'un certain nombre de méthodes de remise d'espèces à des agents publics. Il ne s'agit en aucune façon de méthodes nouvelles de même qu'elles ne représentent qu'une petite partie des méthodes employées, mais elles ont été retenues ici pour souligner la nécessité de recourir à des techniques d'enquête imaginatives pour mettre en évidence des cas de corruption d'agents publics.
+
+1° Echange de fonds par l'intermédiaire d'une entreprise légitime :
+
+Une entreprise contrôlée par un agent public paie une forte somme d'argent à une société indépendante en règlement de fausses factures au titre de soi-disant honoraires de conseil. Cette société établit alors des chèques au profit de l'un de ses responsables qui les encaisse à l'aide d'un agent d'une banque. Les espèces sont alors retournées aux responsables de la première entreprise parmi lesquels se trouve l'agent public.
+
+2° Virement de fonds par l'intermédiaire d'une entreprise fictive :
+
+Un compte bancaire est ouvert sous un nom fictif comme moyen de convertir des chèques en espèces. Les factures imprimées sous le faux nom de l'entreprise sont établies à titre de preuves d'achats. Les chèques émis au profit de l'entreprise fictive sont déposés et les espèces sont retirées.
+
+3° Paiement de frais de campagne :
+
+Un exemple de versement indirect de contribution politique consiste de la part du comité de campagne ou du candidat à remettre une facture non honorée pour une quelconque dépense de campagne, comme la location de camions de sonorisation ou l'impression de tracts, d'affiches, etc.
+
+4° Paiements indirects à des agents publics :
+
+Une méthode de paiement indirect à des agents publics consiste à effectuer des paiements au profit d'un cabinet juridique. Dans ce cas, l'avocat intervient en temps que simple intermédiaire au profit duquel des chèques sont émis en contrepartie de services juridiques ostensiblement rendus. Les paiements sont déposés sur les comptes financiers de l'avocat et des décaissements sont effectués de ces comptes au profit de l'agent public. Cette méthode est également utilisée en faisant appel à des entreprises de relation publique ou de publicité ou à des cabinets comptables.
+
+5° Versement indirect d'éléments de corruption :
+
+Une méthode consiste dans la formulation d'une demande de don pour un organisme sans but lucratif ou commercial par un agent public faisant partie des responsables de cet organisme.
+
+6° Surfacturation par rapport au prix effectif sur le marché :
+
+La différence entre la somme reçue et le prix normal est ensuite versée à un intermédiaire après déduction du bénéfice de l'entreprise concernée (la difficulté tient à l'identification de l'intermédiaire qui est rarement désigné en tant que tel dans les livres comptables de la société).
+
+7° Une charge supportée par une société est facturée comme des frais de garde de biens ou de surveillance du transport des marchandises ou des installations de la société dans le pays de réalisation du marché.
+
+8° L'intervention d'un bureau d'architectes pour l'installation ou le développement des infrastructures locales d'une entreprise, les paiements correspondants étant effectués au profit de comptes situés dans des paradis fiscaux.
+
+9° Les encaissements de redevances sont comptabilisés comme un engagement dans les livres comptables d'une société au lieu de figurer dans les revenus. Le paiement du soi-disant engagement est effectué avant la fin de l'exercice de la société. Le paiement est effectué auprès d'une société de gestion établie dans un paradis fiscal qui est présentée comme étant bénéficiaire du revenu de redevances. Le non-enregistrement des redevances dans les revenus ou le versement à la société de gestion en tant que charge sur les livres de la société n'ayant pas d'engagement à la fin de l'année peut rendre encore plus difficile la détection d'un versement à un agent public.
+
+1.1.2. Techniques de vérification
+
+Les techniques traditionnelles de vérification peuvent être utilisées pour découvrir les versements d'éléments de corruption. Cela suppose un examen attentif des divers comptes pour s'assurer de la validité des différentes charges et étudier quels postes spécifiques pourraient donner lieu à des subterfuges. Des services sont-ils véritablement fournis en contrepartie de certains paiements et si c'est le cas, les services sont-ils proportionnés aux paiements effectués à ce titre ? Il importe de se souvenir que les déboursements ne correspondent pas toujours à ce qu'ils semblent être. Une bonne enquête suppose d'approfondir l'analyse pour déterminer si le déboursement est légitime et s'il ne s'agit pas d'un simple mode d'acheminement par lequel les espèces peuvent être transférées jusqu'à un bénéficiaire en dernier ressort qui pourrait être un agent public.
+
+1° Services professionnels : toutes les pièces justificatives de sommes facturées au titre de services professionnels doivent être soigneusement examinées pour vérifier l'exactitude de leur description et des explications des services fournis ainsi que des éventuelles augmentations inhabituelles. On a constaté que de nombreuses entreprises « passaient en charge » des honoraires au titre de projets et d'affaires spécifiques pour un montant supérieur à ce qui aurait été normalement facturé pour le travail effectivement accompli. Cette surfacturation a été utilisée pour recouvrer des paiements politiques organisés d'avance ou des paiements à des agents publics effectués par des entreprises pour le compte du contribuable. Un indice peut aussi être l'existence des versements importants à des sociétés de consultants lorsque les factures ne sont pas précises.
+
+2° Frais de déplacement et de représentation : l'examen des comptes de charge a révélé que des paiements illégaux peuvent être déduits sous l'alibi de frais de voyage et de représentation. Les comptes de charges salariales et la correspondance ont servi à établir un itinéraire de certains salariés. La correspondance ainsi que les notes de frais des membres du Conseil d'administration sont soigneusement examinées pour mettre en évidence des manifestations, fonctions ou voyages politiques destinés au versement de contributions politiques. Toutes les sources évoquées précédemment ont servi à mettre en évidence une date, une heure et un lieu permettant de penser que le contribuable était impliqué dans une opération politique illégale. Tous les frais de déplacement liés à chaque manifestation particulière ont été extraits des pièces justificatives fournies par le contribuable. Les catégories suivantes ont été les principales sources d'ajustement :
+
+Frais de déplacement des dirigeants;
+Voyages en avion -- que ce soit par des salariés du contribuable ou payés directement pour les voyages d'un candidat politique;
+Frais de pilotage de l'avion privé du contribuable;
+Frais de certains salariés, y compris prélevés directement sur une carte de crédit.
+1.2. Emplois fictifs
+
+La masse salariale peut être gonflée pour diverses raisons, y compris le versement d'éléments de corruption. L'objectif est généralement le même : permettre à des fonds de sortir d'une entreprise sous forme de charge à déduire sans que le bénéficiaire n'acquitte l'impôt sur le revenu au titre de ce revenu. Cette méthode est couramment utilisée lorsque l'entreprise procédant au paiement exerce une activité qui ne comporte pas de ventes contre paiements en espèces et qui ne permet de faire sortir de l'argent que sous forme de règlements par chèques. Cette méthode pourrait servir de mécanisme de fraude fiscale permettant au contribuable d'obtenir des fonds nécessaires au versement d'éléments de corruption, pour le paiement de frais personnels ou le remboursements de dettes de jeu ou d'emprunts à des usuriers.
+
+Une autre façon de gonfler la masse salariale consiste à faire figurer dans le personnel des militants de partis politiques même si ces salariés n'assurent aucun service pour la société qui les rémunère. La même technique peut être utilisée pour des agents publics.
+
+Pour détecter des indices d'emplois fictifs, il convient d'accorder une attention particulière aux états salariaux :
+
+s'il y a un soupçon ou la connaissance de l'existence d'emplois fictifs, il convient de s'intéresser au parcours du chèque. Si les chèques sont encaissés à la même banque ou par l'intermédiaire d'autres parties, le bénéficiaire peut être connu auprès de la banque ou par les personnes qui endossent les chèques;
+si la société accorde à ses salariés un régime d'assurance-groupe, etc., il convient de vérifier les départs des salariés de façon à contrôler s'ils ont également été retirés de la masse salariale;
+une société peut continuer d'émettre des chèques au profit d'un salarié qui n'est plus dans l'entreprise. Il faut procéder à une sélection des salariés par sondage et comparer les endossements à diverses périodes de l'année;
+des membres du personnel-clé ou des cadres dirigeants peuvent être prêtés à des partis politiques pour assurer divers services tout en percevant leur salaire auprès de leur employeur. Il convient d'essayer de déterminer si les services assurés par les salariés ont été fournis pendant les périodes de rémunération concernées. La vérification des déclarations de remboursement de frais peut être utile pour déterminer le lieu géographique où se trouve le salarié à un moment particulier. Cette information peut servir de base à un entretien ultérieur avec le salarié.
+1.3. Livres comptables et pièces comptables
+
+Pour détecter les éléments de corruption, l'agent de contrôle recherchera les manipulations traditionnelles des livres comptables et des traces comptables, comme :
+
+la tenue de deux comptabilités parallèles ou l'absence de comptabilité;
+les fausses écritures ou les modifications apportées aux livres comptables et aux pièces comptables, les documents antidatés ou postdatés, les fausses factures, les fausses commandes, déclarations ou autres faux documents;
+l'absence de comptabilité tenue en bonne et due forme, les dissimulations de pièces ou le refus de remettre certaines pièces, etc.
+1.4. Comportement du contribuable
+
+Le comportement du contribuable peut aussi être utile pour déterminer notamment l'existence d'éléments de corruption, comme :
+
+les tentatives d'entraver le contrôle (par exemple, ne pas répondre aux questions pertinentes, annuler de façon répétée les rendez-vous ou refuser de fournir des pièces);
+le témoignage de salariés sur des pratiques commerciales irrégulières du contribuable;
+la destruction de livres et de pièces, notamment juste après le commencement du contrôle;
+le paiement de charges indues pour des agents ou mandataires;
+les commandes et documents connexes antidatés;
+les tentatives de corruption du contrôleur.
+1.5. Méthodes de dissimulation
+
+Un certain nombre de méthodes peuvent servir à dissimuler des éléments de corruption comme des opérations n'intervenant pas dans le courant normal des affaires, les opérations entourées de secret, les fausses inscriptions dans les livres du donneur d'ordre ou du bénéficiaire d'un transfert, l'utilisation de comptes bancaires secrets pour des revenus, les dépôts sur des comptes bancaires ouverts à des prête-noms et la réalisation de transactions commerciales sous de faux noms.
+
+2. Planification des contrôles et vérification du respect de la réglementation
+
+Au cours de la phase préalable de la planification des contrôles et de la vérification de toutes les déclarations, les supérieurs hiérarchiques des contrôleurs et les contrôleurs seront attentifs aux situations qui se prêtent à des opérations de paiement illégales ou indues, comme les versements d'éléments de corruption. Lorsque cela paraît convenable et nécessaire, les plans de contrôle envisageront les vérifications suivantes du respect de la réglementation :
+
+examiner les comptes rendus de vérifications internes et les documents de travail correspondants afin de déterminer si une quelconque référence est faite à la création d'une caisse secrète ou occulte de la société;
+étudier les doubles des comptes rendus remis par le contribuable à d'autres Autorités de tutelle publiques;
+accorder l'attention qu'il convient aux entités, opérations, accords contractuels ou conventions de tarification, virements avec l'étranger ainsi qu'au recours à des paradis fiscaux.
+AU NOM DU MINISTRE,
+L'Administrateur général des Impôts et du Recouvrement,
+
+Jean-Marc DELPORTE
+
+L'Administrateur général de la Documentation patrimoniale,
+
+Daniel DE BRONE
+
+ 
+

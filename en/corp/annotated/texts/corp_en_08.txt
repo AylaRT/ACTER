@@ -1,0 +1,155 @@
+DECISION (EU) 2016/456 OF THE EUROPEAN CENTRAL BANK
+
+of 4 March 2016
+
+concerning the terms and conditions for European Anti-Fraud Office investigations of the European Central Bank, in relation to the prevention of fraud, corruption and any other illegal activities affecting the financial interests of the Union (ECB/2016/3)
+
+(recast)
+
+THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK, Having regard to the Treaty on the Functioning of the European Union, Having regard to the Statute of the European System of Central Banks and of the European Central Bank, and in particular Article 12.3 thereof, Having regard to Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and the Council and Council Regulation (Euratom) No 1074/1999 (1), and in particular Article 4(1) and (7) thereof, Whereas:
+
+(1)
+Regulation (EU, Euratom) No 883/2013 provides that the European Anti-Fraud Office (hereinafter the 'Office') is to initiate and conduct administrative fraud investigations (hereinafter 'internal investigations') within the institutions, bodies, offices and agencies established by, or on the basis of, the Treaties for the purpose of fighting fraud, corruption and any other illegal activities affecting the financial interests of the Union. To that end, it investigates serious matters relating to the discharge of professional duties constituting a dereliction of the obligations of officials and other servants of the Union liable to result in disciplinary or, as the case may be, criminal proceedings, or an equivalent failure to discharge obligations on the part of members of institutions and bodies, heads of offices and agencies or staff members of institutions, bodies, offices or agencies not subject to the Staff Regulations of Officials and the Conditions of Employment of other servants of the Union (hereinafter the 'Staff Regulations').
+
+(2)
+For the European Central Bank (ECB) such professional duties and obligations, in particular the obligations relating to professional conduct and professional secrecy, are laid down in (a) the Conditions of Employment for Staff of the European Central Bank, (b) the European Central Bank Staff Rules, (c) Annex IIb to the Conditions of Employment concerning the Conditions of Short-Term Employment, and (d) the European Central Bank Rules for Short-Term Employment, and further guidance is given in (e) the Code of Conduct for the members of the Governing Council (2), (f) the Supplementary Code of Ethics Criteria for the members of the Executive Board of the European Central Bank (3), and (g) the Code of Conduct for the members of the Supervisory Board of the European Central Bank (4) (together referred to hereinafter as the 'ECB conditions of employment').
+
+(3)
+Article 4(1) of Regulation (EU, Euratom) No 883/2013 provides that in relation to protecting the Union's financial interests and fighting fraud and any other illegal activities affecting the financial interests of the Union, the Office 'shall carry out administrative investigations within the institutions, bodies, offices and agencies' in accordance with the conditions set out in Regulation (EU, Euratom) No 883/2013 and in the decisions adopted by each institution, body, office or agency. Article 4(7) of Regulation (EU, Euratom) No 883/2013 provides that each institution, body, office and agency is to adopt a decision which 'shall include, in particular, a rule concerning a duty on the part of officials, other servants, members of institutions or bodies, heads of offices or agencies, or staff members to cooperate with and supply information to the Office, while ensuring the confidentiality of the internal investigation'. In accordance with Union case-law, the Office may open an investigation only on the basis of sufficiently serious suspicions (5).
+
+(4)
+Pursuant to Recital 12 of Regulation (EU, Euratom) No 883/2013, investigations should be conducted in accordance with the Treaties, in particular Protocol No 7 on the privileges and immunities of the European Union, and should also respect the Staff Regulations, human rights and fundamental freedoms, in particular the principle of fairness, the right of persons involved to express their views on the facts concerning them and the principle that the conclusions of an investigation may be based solely on elements which have evidential value, as well as general principles common to the Member States and recognised by the Court of Justice of the European Union, such as, for instance, the confidentiality of legal advice (legal privilege). To that end, the institutions, bodies, offices and agencies should lay down the terms and conditions under which internal investigations are to be conducted.
+
+(5)
+Decision ECB/2004/11 (6) was adopted to lay down the terms and conditions under which internal investigations under Regulation (EC) No 1073/1999 of the European Parliament and of the Council (7) were to be conducted in the ECB. In order to take into account that Regulation (EC) No 1073/1999 has been repealed and replaced by Regulation (EU, Euratom) No 883/2013 and that new ECB bodies have been established since the adoption of Decision ECB/2004/11, there is a need to revise the current legal framework.
+
+(6)
+Council Regulation (EU) No 1024/2013 (8) established the Supervisory Board as an ECB internal body to plan and execute the specific tasks concerning policies relating to the prudential supervision of credit institutions conferred upon the ECB. On the basis of Article 24(1) and Article 25(5) of Regulation (EU) No 1024/2013, the ECB established an Administrative Board of Review (9) and a Mediation Panel (10). Furthermore, on the basis of Articles 3(1) and 143(1) of Regulation (EU) No 468/2014 of the European Central Bank (ECB/2014/17) (11), the ECB established joint supervisory teams for the supervision of each significant supervised entity or significant supervised group and on-site inspection teams. Subsequently, on the basis of Articles 9a and 9b of the Rules of Procedure of the European Central Bank (12) respectively, the ECB established an Ethics Committee (13) and an Audit Committee.
+
+(7)
+This Decision should apply to the members of joint supervisory teams and on-site inspection teams who are not subject to the ECB conditions of employment. Members of staff of national competent authorities who are members of joint supervisory teams and on-site inspection teams fall within the ECB's sphere of control in matters related to their work on tasks conferred upon the ECB under Regulation (EU) No 1024/2013. Article 6(1) of Regulation (EU) No 1024/2013 provides that the ECB is responsible for the effective and consistent functioning of the Single Supervisory Mechanism (SSM). Articles 6(1) and 146(1) of Regulation (EU) No 468/2014 (ECB/2014/17) provide that the members of joint supervisory teams and on-site inspection teams are subject to the instructions of the respective team coordinator. These provisions are based on Article 6(7) of Regulation (EU) No 1024/2013, which requires the ECB to adopt a framework to organise the practical arrangements for the implementation of the cooperation within the SSM.
+
+(8)
+In adopting this Decision, it is incumbent on the ECB to justify any restrictions on internal investigations affecting the specific tasks and duties entrusted to the ECB by Articles 127 and 128 of the Treaty and by Regulation (EU) No 1024/2013. Such restrictions should ensure the confidentiality necessary for certain ECB information and give effect to the legislator's intention of reinforcing the fight against fraud. Other than for these specific tasks and duties, the ECB should be treated, also for the purposes of this Decision, as a public entity similar to other Union institutions and bodies.
+
+(9)
+In exceptional cases, the circulation outside the ECB of some of the confidential information it holds in order to perform its tasks could seriously undermine the ECB's functioning. In such cases, the decision on granting the Office access to information or transmitting information to it should be taken by the Executive Board. Access should be granted to information that is more than one year old in areas such as monetary policy decisions, or operations related to the management of foreign reserves and interventions on foreign exchange markets. Restrictions in other areas, such as in relation to information concerning the tasks conferred upon the ECB by Regulation (EU) No 1024/2013, data received by the ECB from national competent authorities regarding the stability of the financial system or individual credit institutions, and information regarding the security features and technical specifications of current and future euro banknotes, should not be limited to specific periods of time. Although this Decision should limit to certain specific areas of activity the scope of information whose circulation outside the ECB could seriously undermine the ECB's functioning, it is necessary to provide for the possibility of adapting the Decision to cover unforeseen developments to ensure that the ECB continues to fulfil the tasks assigned to it by the Treaty.
+
+(10)
+This Decision should take into account that the members of the ECB's Governing Council and General Council who are not also members of the ECB's Executive Board exercise national functions in addition to their functions within the European System of Central Banks, and that the members of the ECB's Supervisory Board, Mediation Panel, joint supervisory teams and on-site inspection teams who are representatives of the national competent authorities of the participating Member States also exercise national functions in addition to their tasks under Regulation (EU) No 1024/2013. Exercising such national functions is a matter for national law, which falls outside the scope of the internal investigations of the Office. This Decision should therefore only apply to the professional activities of such persons undertaken in their capacity as members of the ECB's Governing Council, General Council, Supervisory Board, Mediation Panel, joint supervisory teams and on-site inspection teams.
+
+(11)
+This Decision should also take into account that the external members of the ECB's Administrative Board of Review, Audit Committee and Ethics Committee may exercise other functions in addition to their mandates. Exercising such functions falls outside the scope of the internal investigations of the Office. This Decision should therefore only apply to the professional activities of such persons undertaken in their capacity as members of the ECB's Administrative Board of Review, Audit Committee and Ethics Committee.
+
+(12)
+Article 37.1 of the Statute of the European System of Central Banks and of the European Central Bank (hereinafter the 'Statute of the ESCB') provides that members of the governing bodies and the staff of the ECB are required, even after their duties have ceased, not to disclose information of the kind covered by the obligation of professional secrecy. Article 27(1) of Regulation (EU) No 1024/2013 provides that members of the Supervisory Board, staff of the ECB and staff seconded by participating Member States carrying out supervisory duties, even after their duties have ceased, are subject to the same professional secrecy requirements. Article 22(1) of Decision ECB/2014/16 and Article 2(4) of Decision (EU) 2015/433 (ECB/2014/59) respectively provide the same for members of the ECB's Administrative Board of Review and their alternates and for members of the ECB's Ethics Committee. Paragraph 6 of the Audit Committee mandate (14) provides that the members of the Audit Committee shall not divulge any information of a confidential nature coming to their knowledge during the performance of their duties to persons or bodies outside the ECB/Eurosystem. Under Article 10 of Regulation (EU, Euratom) No 883/2013, the Office and its employees are subject to the same conditions of confidentiality and professional secrecy as those applying to ECB staff under the Statute of the ESCB and the ECB conditions of employment.
+
+(13)
+Under Article 7(3) of Regulation (EU, Euratom) No 883/2013, the national competent authorities, in conformity with national rules, give the necessary assistance to enable the staff of the Office to fulfil their tasks effectively. The Government of the Federal Republic of Germany and the ECB are signatories to a Headquarters Agreement dated 18 September 1998 (15), which implements Protocol No 7 on the privileges and immunities of the European Union in respect of the ECB and contains provisions regarding the inviolability of the ECB's premises, archives, and communications, and on the diplomatic privileges and immunities of the members of the ECB's Executive Board.
+
+(14)
+Given the replacement of Regulation (EC) No 1073/1999 by Regulation (EU, Euratom) No 883/2013 and the substantial number of amendments necessary, Decision ECB/2004/11 should be repealed and replaced by this Decision,
+
+HAS ADOPTED THIS DECISION:
+Article 1
+
+Scope of application
+
+This Decision applies to: members of the ECB's Governing and General Councils, in matters related to their function as members of these ECB decision-making bodies, members of the ECB's Executive Board, members of the ECB's Supervisory Board, in matters related to their function as members of that body, members of the ECB's Administrative Board of Review, in matters related to their function as members of that body, members of the ECB's Mediation Panel, in matters related to their function as members of that body, members of the ECB's Audit Committee, in matters related to their function as members of that body, members of the ECB's Ethics Committee, in matters related to their function as members of that body, members of the governing bodies or any member of staff of the national central banks or national competent authorities, who participate in the meetings of the ECB's Governing and General Councils and Supervisory Board as alternates and/or accompanying persons in matters related to that function (hereinafter jointly referred to as 'participants in the decision-making and other bodies'), and permanent or temporary ECB members of staff, who are subject to the ECB conditions of employment, persons working for the ECB other than on the basis of an employment contract, including members of staff of national competent authorities who are members of joint supervisory teams and on-site inspection teams, in matters related to their work for the ECB (hereinafter jointly referred to as 'relevant persons').
+
+Article 2
+
+Duty to cooperate with the Office
+
+Without prejudice to the relevant provisions of the Treaties, Protocol No 7 on the privileges and immunities of the European Union, the Statute of the ESCB and the Staff Regulations, with full respect for human rights, fundamental freedoms and the general principles common to the Member States and subject to the procedures laid down in Regulation (EU, Euratom) No 883/2013 and to the rules laid down in this Decision, participants in the decision-making and other bodies and relevant persons shall cooperate with and supply information to the Office, while ensuring the confidentiality of an internal investigation.
+Article 3
+
+Duty to report any information about illegal activity
+
+1.   Relevant persons who become aware of information which gives rise to a suspicion of the existence of possible cases of fraud, corruption or any other illegal activity affecting the Union's financial interests shall without delay provide either the Director Internal Audit, the senior manager in charge of their business area, or the member of the Executive Board who is primarily responsible for their business area with such information. The latter persons shall without delay transmit the information to the Director-General Secretariat. Relevant persons must in no way suffer inequitable or discriminatory treatment as a result of having communicated the information referred to in this Article.
+
+2.   Participants in the decision-making and other bodies who become aware of information as referred to in paragraph 1 shall inform the Director-General Secretariat or the President.
+
+3.   When the Director-General Secretariat or, where appropriate, the President receives information in accordance with paragraphs 1 or 2, they shall, subject to Article 4 of this Decision, transmit it without delay to the Office and inform the Directorate Internal Audit and, where appropriate, the President.
+
+4.   In cases in which a participant in the decision-making and other bodies or a relevant person has concrete information supporting the possible existence of a case of fraud or corruption or any other illegal activity within the meaning of paragraph 1, and, at the same time, has justified reasons to consider that the procedure provided for in the above paragraphs would prevent in that specific case the proper reporting of such information to the Office, they may report directly to the Office without being subject to Article 4.
+
+Article 4
+
+Cooperation with the Office with regard to sensitive information
+
+1.   In exceptional cases, in which the circulation of certain information outside the ECB could seriously undermine the ECB's functioning, the decision on whether to grant the Office access to such information or to transmit such information to it shall be taken by the Executive Board. This shall apply to: information concerning monetary policy decisions, or operations related to the management of foreign reserves and interventions on foreign exchange markets, provided that such information is less than one year old; information concerning the tasks conferred upon the ECB by Regulation (EU) No 1024/2013; data received by the ECB from the national competent authorities regarding the stability of the financial system or individual credit institutions; and information concerning the euro banknotes' security features and technical specifications.
+
+2.   Any such decision of the Executive Board shall take all relevant factors into account, such as the degree of sensitivity of the information required by the Office for the investigation, its importance for the investigation and the seriousness of the suspicion as presented by the Office, by the participant in the decision-making and other bodies or the relevant person to the President, and the degree of risk for the ECB's future functioning. If access is not granted, the decision shall state the reasons for this. With regard to data that the ECB receives on the stability of the financial system or individual credit institutions, the Executive Board may decide not to grant the Office access if it or the relevant national competent authority considers that disclosing the information concerned would place the stability of the financial system or the individual credit institution at risk.
+
+3.   In very exceptional cases that concern information related to a particular area of ECB activity, of equivalent sensitivity to the categories of information referred to in paragraph 1, the Executive Board may provisionally decide not to grant the Office access to such information. Paragraph 2 shall apply to such decisions, which shall be valid for a maximum of six months. Thereafter, the Office shall be granted access to the information concerned, unless the Governing Council has in the meantime amended the present Decision by adding the category of information concerned to the categories covered by paragraph 1.
+Article 5
+
+Assistance from the ECB in internal investigations
+
+1.   When initiating an internal investigation of the ECB, the Office's agents shall be granted access to the ECB's premises by the manager in charge of ECB security upon production of a written authorisation issued by the Director-General of the Office, which indicates the following:
+
+(a)
+the agents' identity and job title in the Office;
+
+(b)
+the subject matter and purpose of the investigation;
+
+(c)
+the legal bases for conducting the investigation and the investigative powers arising from those bases.
+
+The President, the Vice-President and the Director Internal Audit shall be informed immediately.
+
+2.   The Directorate Internal Audit shall assist the Office in the practical organisation of investigations.
+
+3.   Participants in the decision-making and other bodies and relevant persons shall supply any requested information to the Office's agents who are conducting an investigation, unless the requested information could be sensitive within the meaning of Article 4, in which case the Executive Board shall decide whether or not the information should be provided. The Directorate Internal Audit shall record all information supplied.
+
+Article 6
+
+Informing interested parties
+
+1.   Where the possible implication of a participant in the decision-making and other bodies or a relevant person in fraud, corruption and any other illegal activity within the meaning of Article 3(1) emerges, the interested party shall be informed rapidly provided that this will not be harmful to the investigation (16). In any event, conclusions referring by name to a participant in the decision-making or other bodies or a relevant person may not be drawn without the interested party being given the opportunity to express their views on all the facts relating to them, including any evidence existing against them. Interested parties have the right to remain silent, to refrain from incriminating themselves and to seek personal legal assistance.
+
+2.   In cases necessitating the maintenance of absolute secrecy for the purpose of the investigation and/or requiring the use of investigative procedures falling within the remit of a national judicial authority, compliance with the obligation to invite a participant in the decision-making or other bodies or a relevant person to express their views may be deferred for a limited period in agreement with the President or Vice-President.
+
+Article 7
+
+Information on the closing of an investigation with no further action taken
+
+If, following an internal investigation, no case can be made against a participant in the decision-making and other bodies or a relevant person against whom allegations have been made, the internal investigation shall be closed, with no further action taken, by decision of the Director-General of the Office, who shall inform the participant in the decision-making and other bodies or relevant person thereof in writing.
+
+Article 8
+
+Waiver of immunity
+
+Any request from a national police or judicial authority for waiver of applicable immunity from judicial proceedings of a participant in the decision-making and other bodies or a relevant person in possible cases of fraud, corruption and any other illegal activity affecting the financial interests of the Union shall be transmitted to the Director-General of the Office for his opinion. The Governing Council shall decide on any relevant waiver as far as participants in the decision-making and other bodies are concerned, and the Executive Board shall decide on any relevant waiver as far as relevant persons are concerned.
+
+Article 9
+
+Entry into force and repeal
+
+1.   This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2.   Decision ECB/2004/11 is repealed with effect from the twentieth day following the publication of this Decision in the Official Journal of the European Union.
+
+3.   References to Decision ECB/2004/11 shall be construed as references to this Decision.
+
+Done at Frankfurt am Main, 4 March 2016.
+The President of the ECB
+Mario DRAGHI
+(1)  OJ L 248, 18.9.2013, p. 1.
+(2)  Code of Conduct for the members of the Governing Council (OJ C 123, 24.5.2002, p. 9).
+(3)  Supplementary Code of Ethics Criteria for the members of the Executive Board of the European Central Bank (in accordance with Article 11.3 of the Rules of Procedure of the European Central Bank) (OJ C 104, 23.4.2010, p. 8).
+(4)  Code of Conduct for the Members of the Supervisory Board of the European Central Bank (OJ C 93, 20.3.2015, p. 2).
+(5)  Commission of the European Communities v European Central Bank, C-11/00, ECLI:EU:C:2003:395.
+(6)  Decision ECB/2004/11 of 3 June 2004 concerning the terms and conditions for European Anti-Fraud Office investigations of the European Central Bank, in relation to the prevention of fraud, corruption and any other illegal activities detrimental to the European Communities' financial interests and amending the Conditions of Employment for Staff of the European Central Bank (OJ L 230, 30.6.2004, p. 56).
+(7)  Regulation (EC) No 1073/1999 of the European Parliament and of the Council of 25 May 1999 concerning investigations conducted by the European Anti-Fraud Office (OLAF) (OJ L 136, 31.5.1999, p. 1).
+(8)  Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).
+(9)  Decision ECB/2014/16 of 14 April 2014 concerning the establishment of an Administrative Board of Review and its Operating Rules (OJ L 175, 14.6.2014, p. 47).
+(10)  Regulation (EU) No 673/2014 of the European Central Bank of 2 June 2014 concerning the establishment of a Mediation Panel and its Rules of Procedure (ECB/2014/26) (OJ L 179, 19.6.2014, p. 72).
+(11)  Regulation (EU) No 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for cooperation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities (SSM Framework Regulation) (ECB/2014/17) (OJ L 141, 14.5.2014, p. 1).
+(12)  Decision ECB/2004/2 of 19 February 2004 adopting the Rules of Procedure of the European Central Bank (OJ L 80, 18.3.2004, p. 33).
+(13)  Decision (EU) 2015/433 of the European Central Bank of 17 December 2014 concerning the establishment of an Ethics Committee and its Rules of Procedure (ECB/2014/59) (OJ L 70, 14.3.2015, p. 58).
+(14)  Available on the ECB's website at www.ecb.europa.eu
+(15)  Federal Official Journal (Bundesgesetzblatt) No 45, 1998 of 27.10.1998 and No 12, 1999 of 6.5.1999.
+(16)  Article 20 of Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1) applies to any restriction on information to be given to data subjects in the event of data processing.

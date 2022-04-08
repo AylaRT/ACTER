@@ -1,0 +1,741 @@
+Liste de publications
+Type : Revue internationale avec comité de lecture
+[1] Vincent COURTECUISSE, Mostafa EL MOKADEM, Benoît ROBYNS, Bruno FRANCOIS, Marc PETIT, Jacques DEUSE,"Supervision par logique floue d'un système éolien à vitesse variable en vue de contribuer au réglage primaire de fréquence", Revue Internationale de Génie Electrique, Hermès,n°4-5, Octobre 2008 [3] Vincent COURTECUISSE, Benoît ROBYNS, Bruno FRANCOIS, M PETIT, J DEUSE, "Variable speed wind generators participation in primary frequency control" Wind Engineering, Vol 32, n°3, 2008, pp299-318. [2] Mostafa EL MOKADEM, Vincent COURTECUISSE, Christophe SAUDEMONT, Benoît ROBYNS, Jacques DEUSE, "Experimental study of variable speed wind generator contribution to primary frequency control", Renewable Energy, Elsevier, 2008 Disponible sur http://www.science-direct.com/science [4] Vincent COURTECUISSE, Jonathan SPROOTEN, Benoît ROBYNS, Jacques DEUSE, "Experiment of a wind generator participation to frequency control", EPE Journal, Vol. 18, N°. 3, 10-2008 [5] Mostafa EL MOKADEM, Vincent COURTECUISSE, Christophe SAUDEMONT, Benoît ROBYNS, Jacques DEUSE, "Fuzzy Logic Supervisor Based Primary Frequency Control Experiments of a Variable Speed Wind Generator", Accepté pour publication dans IEEE Transactions on Power Systems, 2009
+
+
+
+Type : Conférence internationale avec acte
+[6] M NASSER, S BREBAN, Vincent COURTECUISSE, A VERGNOL, Benoît ROBYNS, M.RADULESCU ,"Experimental results of a hybrid wind/hydro power system connected to isolated loads ", 12th International Power Electronics and Motion Control Conference, EPE-PEMC 2008, Poznan, 1-3 septembre 2008, 9-2008 [7] Vincent COURTECUISSE, Benoît ROBYNS, M PETIT, Bruno FRANCOIS, J DEUSE, "Performance comparison of different wind generator based hybrid systems ", 12th International Power Electronics and Motion Control Conference, EPE-PEMC 2008, Poznan, 1-3 septembre 2008, 9-2008 [8] Vincent COURTECUISSE, Mostafa EL MOKADEM, Xavier GUILLAUD, F SALHA, Benoît ROBYNS ,"Use of real time simulation to validate primary frequency control with wind turbine", 2008 IEEE PES General Meeting, Pittsburg, 20-24 juillet 2008, 7-2008 [9] Vincent COURTECUISSE, Benoît ROBYNS, Marc PETIT, Bruno FRANCOIS, Jacques DEUSE, "Methodology to build fuzzy logic based supervision of hybrid renewable energy systems", 9th International Conference on Modeling and Simulation of Electric Machines, Converters and Systems, ELECTRIMACS 2008, 9-11 juin 2008, Québec, 6-2008 [10] Stefan BREBAN, Mehdi NASSER, Arnaud VERGNOL, Vincent COURTECUISSE, Benoît ROBYNS, M.RADULESCU, "Study of a grid-connected hybrid wind/micro-hydro power system ", 11th International Conference on Optimization of Electric and Electronic Equipment, OPTIM'08, Brasov, Roumanie, 22-24 mai 2008, 5-2008 [11] J HERBRETEAU, Vincent COURTECUISSE, Peng LI, Philippe DEGOBERT, Benoît ROBYNS, B.FRANCOIS, "Association of PV, gas micro turbine and short term storage system to participate in frequency control ", ICREPQ'08, Santander, 12-14 mars 2008, 3-2008 [12] Vincent COURTECUISSE, M EL MOKADEM, Christophe SAUDEMONT, Benoît ROBYNS, J DEUSE ,"Experiment of a wind generator participation to frequency control", First EPE-Wind Energy Chapter, Delft, 27-28 mars 2008, 3-2008 [13] Vincent COURTECUISSE, Mostafa EL MOKADEM, Benoît ROBYNS, Bruno FRANCOIS, Marc PETIT, Jacques DEUSE, "Association of wind turbine based dispersed generators and storage systems to participate in primary frequency control ", 12th Conference EPE 2007, Aalborg, 2 - 5 septembre 2007, 9-2007
+
+267
+
+[14] Mostafa EL MOKADEM, Vincent COURTECUISSE, Christophe SAUDEMONT, Benoît ROBYNS, Jacques DEUSE, "Experimental Study of Wind Generator Participation to Primary Frequency Control", Electromotion'07, Bodrum, Turquie,10-12 septembre 2007, 9-2007 [15] Vincent COURTECUISSE, Benoît ROBYNS, Bruno FRANCOIS, Sophie PLUMEL, Jacques DEUSE, "Fuzzy logic based primary frequency control of variable speed wind generators", International Conference on Power Engineering, Energy and Electrical Drives, POWERENG07, Setubal, Portugal, 12-14 avril 2007, 4-2007 [16] Vincent COURTECUISSE, Benoît ROBYNS, Sophie PLUMEL, Bruno FRANCOIS, Jacques DEUSE, "Capacity of a variable wind speed turbine to participate in primary frequency control" Sixth international workshop on large-scale integration of wind power and transmission networks for offshore wind farms, Delft, 10-2006
+
+Type : Conférence nationale avec acte
+[17] Vincent COURTECUISSE, Stefan BREBAN, Mehdi NASSER, Arnaud VERGNOL, Benoît ROBYNS, Mircea RADULESCU, "Supervision d'une centrale multisources basée sur l'association éolien, micro hydraulique et stockage d'énergie ", Colloque Electrotechnique du Futur, EF07, Toulouse, 6-7 septembre 2007, 9-2007 [18] Arnaud DAVIGNY, Vincent COURTECUISSE, Mostafa EL MOKADEM, Benoît ROBYNS, Jacques DEUSE, "Minimisation des fluctuations de fréquence dues aux générateurs éoliens", Colloque Electrotechnique du Futur, EF07, Toulouse, 6-7 septembre 2007, 9-2007
+
+Type : Conférence invitée
+[19] Benoît ROBYNS, Arnaud DAVIGNY, Christophe SAUDEMONT, Aymeric ANSEL, Vincent COURTECUISSE, B. FRANCOIS, S. PLUMEL, J. DEUSE, "Impact de l'éolien sur le réseau de transport et la qualité de l'énergie"» Actes des Journées Electrotechnique du Club EEA « Ouverture des marchés de l'Electricité », Gif-sur-Yvette, 15-16 mars 2006, 3-2006
+
+Type : Autre publication
+[20] Benoît ROBYNS, Vincent COURTECUISSE, Arnaud DAVIGNY, Mostafa EL MOKADEM, Christophe SAUDEMONT, "Comportement de l'éolien et perspectives", Journée SRBE-SEE « 4 novembre 2006 : retour d'expérience d'un blackout évité », Lille, 31 mai 2007., 5-2007
+
+268
+
+Bibliographie
+A.
+
+[ABA 06] A abarit, A. Ben Ahmed, A.H. Clément, V. Debusschere, G. Duclos, B. Multon, G. Robin (2006): Simulation of electricity supply of an Atlantic island by offshore wind turbines and wave energy converters associated with a medium scale local energy storage; Renewable Energy, Vol 31, pp.153-160. [ABB 06] Abbey, C.; Katiraei, F.; Brothers, C.; Dignard-Bailey, L.; Joos, G. "Integration of distributed generation and wind energy in Canada", Power Engineering Society General Meeting, 2006. IEEE, 18-22 June 2006. [ABO 05] ABOU CHACRA Fouad, Valorisation et optimisation du stockage d'énergie dans un réseau d'énergie électrique, Thèse de doctorat de l'Université Paris-Sud 11, le 4 juillet 2005. [ACK 05] T. Ackerman, « Wind power in power systems », Wiley, 2005 [ACK 07] Ackermann, T.; Abbad, J.R.; Dudurych, I.M.; Erlich, I.; Holttinen, H.; Kristoffersen, J.R.; Sorensen, P.E.;"European Balancing Act",Power and Energy Magazine, IEEE, Volume 5, Issue 6, Nov.-Dec. 2007 Page(s):90 - 103. [AIM 04] S. El Aimani, Modélisation de différentes technologie d'éoliennes intégrées dans un réseau de moyenne tension. Thèse présentée le 06 décembre 2004. [AKH 07] Akhmatov, V..; Eriksen, P.B.; "A Large Wind Power System in Almost Island Operation— A Danish Case Study", Power Systems, IEEE Transactions on, Volume 22, Issue 3, Aug. 2007 Page(s):937 - 943 [ALM 07] De Almeida, R.G.; Lopes, J.A.P.; "Participation of Doubly Fed Induction Wind Generators in System Frequency Regulation Power Systems", IEEE Transactions on Volume 22, Issue 3, Aug. 2007 Page(s):944 - 950 [ANA 06] Anaya-Lara O., Hughes F.M., Jenkins N. et Strbac G., « Contribution of DFIG-based wind farms to power system short-term frequency regulation [AND 08] Paulo André, José Mendes, « Integration of flywheels in the electrical system with the aim of maximising the penetration of renewable energy », 15 Avril 2008, Corse, France [ANS 04] A.Ansel, B.Robyns, 'Production décentralisée d'électricité au moyen d'une micro centrale hydraulique au fil de l'eau', 3EI, décembre 2004, p46-57 [ANS 06a] A. Ansel, B. Robyns, "Small hydroelectricity : from fixed to variable speed electromechanical drives," Electromotion, vol.13, n°2, 2006
+
+269
+
+[ANS 06b] A. Ansel, B. Robyns, "Modelling and simulation of an autonomous variable speed micro hydropower station." Mathematics and computers in simulation, vol. 71, issues 4 - 6, 19 June 2006. [ANS 06]A. Ansel, B. Robyns, "Small hydroelectricity : from fixed to variable speed electromechanical drives," Electromotion, vol.13, n°2, 2006. [AZM 05] Azmy, A.M.; Erlich, I. "Impact of distributed generation on the stability of electrical power system", Power Engineering Society General Meeting, 2005. IEEE, 12-16 June 2005 Page(s):1056 1063 Vol. 2
+
+B.
+
+[BAR 04] Barton, J.P.; Infield, "Energy Storage and Its Use With Intermittent Renewable Energy" Energy Conversion, IEEE Transaction on Volume 19, Issue 2, June 2004 Page(s): 441 - 448 [BAR 96] P. Bartholomeus, P. Lemoigne, C. Rombaut, « Etude des limitations en puissance des convertisseurs et apport des techniques multiniveaux », Actes du colloque Electronique de puissance du Futur, EPF'96, Grenoble, 1996, pp. 121 -126. [BAR 97] J-P Barret, P. Bornard et B. Meyer, « Simulation des réseaux électriques », Collection de la Direction des Etudes et Recherche d'Electricite de France, Edition EYROLLES,1997 [BEA WW] http://www.beaconpower.com/ [BLA 03] Alexandre Blatter, "Placement optimal de centrales de production et de stockage d'énergie électrique décentralisées dans un réseau électrique", Travaux d'étudiants réalisés au LRE, Responsable(s): Stéphane Gerbex, Prof. Alain Germond , 2003 [BOR 98] J. Borne, J. Rozinoer, J.-Y. Dieulot et L.Dubois, « Introduction à la commande floue », Edition Technip, 1998, ISBN : 2-7108-0721-1 [BOR] P. BORNARD, « Conduite d'un systéme de production-transport »,TI D4080 [BOU 00] A. Bouscayrol, X. Guillaud, J-P. Hautier, P. Delarue, « Macro Modélisation des conversions électromécaniques - Application à la commande des machines électrique », RIGE, Volume 3, n°2/2000, pp. 257-282. [BOU 06] Bousseau P., Belhome R., Monnot E., Laverdure N., Boëda D., Rove D., Bacha S., « Contribution of wind farms to ancillary service », CIGRE 2006, Paris, 27 août-1 septembre 2006 [BOU 07] G. Boukettaya, L. Krichen, A. Ouali, "Fuzzy logic supervisor for power control of an isolated hybrid energy production unit", International Journal of Electrical and Power Engineering" p 279-285, 2007 [BUH 94] Bühler H., «Réglage par logique floue », Lausane, Presses polytechniques et universitaires romandes, 1994.
+
+270
+
+C.
+
+[CAL 04] Roberto Caldon and Andrea Rossi Patria and Roberto Turri, « Optimal Control of a Distribution System with a Virtual Power Plant», Bulk Power System Dynamics and Control, Cortina. d'Ampezzo, Italy, August 2004. [CER 04] "Wind farm transmission grid code provisions" Rapport de commission de régulation de l'énergie Irlandais, juillet 2004 [CIM 05] G. Cimuca "Système inertiel de stockage d'énergie associé a des générateurs éoliens", Thèse présentée le 14 Décembre 2004. [CIM 06] G. Cimuca, C. Saudemont, B. Robyns, M. Radulescu, "Control and performance evaluation of a flywheel energy storage system associated to a variable speed wind generator", IEEE Transactions on Industrial Electronics. Vol. 53, No. 4, June 2006, pp:1074 - 1085. [COU 06] V. Courtecuisse, B. Robyns, S. Plumel, B. Francois and J. Deuse, "Capacity of a variable speed turbine to participate in primary frequency control", Sixth international workshop on largescale integration of wind power and transmission networks for offshore wind farms, Delft, October 26-27, 2006. [COU 07] V. Courtecuisse, S. Breban, M. Nasser, A. Vergnol, B. Robyns, M. Radulescu, "Supervision d'une centrale multisources basée sur l'association éolien, micro hydraulique et stockage d'énergie ", Colloque Electrotechnique du Futur, EF07, Toulouse, 6-7 septembre 2007, 9-2007. [CRAP 03a] Michel Crappe « Commande et régulation des réseaux électriques», edition Lavoisier, 2003 [CRAP 03b] Michel Crappe « Stabilité et sauvegarde des réseaux électriques », edition Lavoisier, 2003 [CRE 06] "Rapport d'enquête de la commission de régulation de l'énergie sur la panne d'électricité du samedi 4 novembre 2006", Paris, le 7 février 2007. Disponible en ligne : http://www.cre.fr/fr/documents/publications/rapports_thematiques
+
+D.
+
+[DAV 89] R. David et H. Alla, "Du grafcet aux réseau de Petri", Edition Hermes, 1989, ISBN 286601-195-3. [DAV 07] A. Davigny « Participation aux services systéme de fermes d'éoliennes à vitesse variable intégrant du stockage inertiel d'énergie » Thèse soutenue le 11 décembre 2007
+
+271
+
+[DEG 06] Ph. Degobert, S. Kreuawan, X. Guillaud, « Micro-grid powered by photovoltaic and micro trubine, International Conference on Renewable Energy and Power Quality", (ICREPQ'06), CDROM, Palma de Mallorca, Spain, April, 2006 [DES 08] M.K. Deshmukh and S.S. Deshmukh "Modeling of hybrid renewable energy systems", Renewable and Sustainable Energy Reviews, Volume 12, Issue 1, January 2008, Pages 235-249 [DEG 06] Ph. Degobert, S. Kreuawan, X. Guillaud, Micro-grid powered by photovoltaic and micro trubine, International Conference on Renewable Energy and Power Quality (ICREPQ'06), CD-ROM, Palma de Mallorca, Spain, April, 2006 [DOH 05] Doherty R., O'Malley M., « A new approach to quantify reserve demand in systems with significant installed wind capacity », IEEE Transactions on power systems, vol. 20, n° 2, 2005, pp. 587-595. [DRO 02] S.Drouilhet, M.Shirazi, "Wales, Alaska, Hihg-penetration wind-diesel hybrid power system", Rapport du National Renewable Energy Laboratory, Colorado, NREL/TP-500-31755, mai 2002.
+
+E.
+
+[ECR 02] Recherche ECRIN entreprise,« L'électronique de puissance vecteur d'optimisation pour les énergies renouvelables » , rapport de synthèse, mai 2002. [EDF 06] "Worldwide electricity production from renewable energy sources", Eight inventory, Edition 2006,dispiniblesur:http://www.energiesrenouvelables.org/observer/html/inventaire/Eng/methode.as [ELA 04] S. El Aimani, « Modélisation de différentes technologies d'éoliennes intégrées dans un réseau de moyenne tension », Thèse soutenue le 06 décembre 2004. [ELA 03] S. El Aimani, B. François, B. Robyns, F. Minne, « Modeling and Simulation of Doubly Fed Induction Generators for Variable Speed Wind Turbines integrated in a Distribution Network », Proceedings of the 10h European Conference on Power Electronics and Applications : EPE'2003, September 2 - 4, 2003, Toulouse (France), CD, ISBN 90-75815-07-7. [ERI 05] Eriksen P. B, Ackermann T., Abildgaard H., Smith P., Winter W. et Garcia J. R., "System operation with High wind penetration"IEEE power and energy magazine, novembre-decembre 2005. [EUR 01] "Energy storage. A key technology for decentralized power, power quality and clean transport", European Communities, 2001, ISBN 92-894-1561-4 [ESK 06] M. N.Eskander, T. F.El-Shatter, M. T.El-Hagry "Energy flow management of a hybrid Wind/PV/Fuel cell generation system" Energy Conversion and Management, Volume 47, Issues 9-10, June 2006, Pages 1264-1280 272
+
+[EWE 05] European Wind Energy Association "Grids integration report » December 2005.
+
+F.
+
+[FAG 04] E. Fagan, S. Grimes, J.McArdle, P.Smith et M.Stronge, « Grid code provision for wind generation in ireland », rapport de l'ESB National Grid, decembre 2004 [FAU 06] J.Fauchet, « Les plans d'exp'eriences pour le réglage de commandes 'a base de logique floue », Thése de doctorat soutenue le 26 septembre 2006, N° ordre : 2371 [FRA 06] B. Francois, B. Robyns, E. De Jaeger, F. Minne, « Technologies d'éolienne de forte puissance connectée au réseau de moyenne tension », REE, n°5, mai 2005, pp 65-74. [FU 91] Y. Fu, B. Robyns, "Digital Control of a PM Synchronous Actuator Drive System with a Good Power Factor", 13th IMACS Worl Congress on Computation and Applied Mathematics, 22-26 July 1991, Dublin.
+
+G.
+
+[GAR 03] Gardner P., McGoldrick, Higgins T et O Gallachoir, « The effect of increasing wind penetration on the electricity systems of the Republic of Ireland and Northern Ireland", Proceeding of the European Wind Energy council 2003, 16-19 juin, Madrid [GOI 08] A. Goikoetxea, M. Rodriguez, H. Bindner and A. Milo, "Design of control strategies to improve grid integration in fixed speed wind energy systems with battery storage", ICREPQ'08, Santander, 12-14 mars 2008, 3-2008.
+
+H.
+
+[HAN 05] A. Hansen, P. Sørensen, F. Iov, F. Blaabjerg, "Centralised power control of wind farm with doubly fed induction generators.", Renewable Energy, Volume 31, Issue 7, Pages 935-951. [HAU 99] J-P Hautier et J-P Caron, "Convertisseur statiques, méthodologie causale de modélisation et de commande", Edition technip, 1999. [HEI 06] S. Heier, "Wind energy convertion systems", Wiley, 2006. [HER 08] J. Herbreteau, V. Courtecuisse, L. Peng, Ph. Degobert, B. Robyns et B. Francois, "Association of PV, gas micro turbine and short term storage system to participate in frequency control" ICREPQ'08, Santander, 12-14 mars 2008, 3-2008. [HOL 04] Hannele Holttinen, « The impact of large scale wind power production on the Nordic electrical system », VTT Processes, Finlande, Décembre 2004.
+
+273
+
+I.
+
+[IPS 00] www.ucte-ipsups.org [ISH 00] William Isherwood, J. Ray Smitha, Salvador M. Acevesa, Gene Berrya, Woodrow Clarka, Ronald Johnsonb, Deben Dasb, Douglas Goeringb and Richard Seifertb ,"Remote power systems with advanced storage technologies for Alaskan villages ",Energy Volume 25, Issue 10, October 2000, Pages 1005-1020.
+
+J.
+
+[JOO 00] Joos, G.; Ooi, B.T.; McGillis, D.; Galiana, F.D.; Marceau, R, "The potential of distributed generation to provide ancillary services", Power Engineering Society Summer Meeting, 2000. IEEE, Volume 3, 16-20 July 2000 Page(s):1762 - 1767 vol. 3 [JEN 00] N. Jenkins, R. Allan, P. Crossley, D. Kirschen, G. Strbac, « Embedded generation », The Institution of Electrical Engineers (IEE), London, 2000.
+
+K.
+
+[KAN 01] C. Kana, M. Thamodoharan, A. Wolf, "System management of a wind-energy converter", IEEE on Power Electronics, vol. 16, no 3, may 2001. [KIN 06 ] Kinjo, T.; Senjyu, T.; Urasaki, N.; Fujita, H."Output levelling of renewable energy by electric double-layer capacitor applied for energy storage system", nergy Conversion, IEEE Transaction on Volume 21, Issue 1, March 2006. [KUN 97] Prabha Kundur, Power System Stability and Control, WCB/McGraw-Hill 1997.
+
+L.
+
+[LAF](Lafaille et al.) Hervé LAFAILLE, Jean Michel TESSERON, Jean-Yves DELABRE et JeanMarie COULONDRE « Gestion des interconnexions électrique en europe », Technique de l'ingénieur [LAL 05] Lalor G., Mullane A., O'Malley M., « Frequency control and wind turbine technologies », IEEE Transactions on power systems, vol. 20, n° 4, 2005, pp. 1905-1913. [LAV 05] N. Laverdure, Intégration des générateurs éoliens dans les réseaux faibles ou insulaire. Thèse présentée le 09 décembre 2005. [LEC 04] L. Leclercq, Apport du stockage inertiel associe à des éoliennes dans un réseau électrique en vue d'assurer des services systèmes. Thése présentée le 14decembre 2004.
+
+274
+
+[LEC 02A] L.Leclercq, B.Robyns, J.M.Grave, « Control based on fuzzy logic of a flywheel energy storage system associated with wind and diesel generators", Mathematics and Computers in Simulation, 63, 2003, pp.271-280, 2002 [LEC 02B] L.Leclercq, B.Robyns, J.M.Grave, "Fuzzy logic based control of a flywheel energy storage system based on an induction machine associated with wind and diesel generators" Proceedings of the 10th International Power Electronics and Motion Control Conference, EPEPEMC, 2002, Dubrovnik, 9-11 septembre 2002 (CD Rom). [LEI 06] Lei Y., Mullane A., Lightbody G. et Yacamini R., "Modeling of the wind turbine with double fed induction generator for grid integration studies". IEEE transactions on energy conversion, Volume 21, n°1, Mars 2006 [LUO 06] Luo C., Ooi B-T., « Frequency deviation of thermal power plants due to wind farms », IEEE Transactions on power systems, vol. 21, n° 3, 2006, p 708-716.
+
+M.
+
+[MAN 02] J.F. Manwell, J.G. McGowan, A.L.Rogers, "Wind energy explained", Wiley, 2002 [MAR] J,Martin, « Energies éoliennes », Technique de l'ingénieur [MAT 04] J. Matevosyan, T. Ackermann, L. Söder, S. Bolik, 'Comparison of International Regulations for Connection of Wind Turbines to the Network,' Nordic Wind Power Conference NWPC'04, 1-2, March 2004, Chalmers University of Technology, Göteborg, Sweden [MER] André MERLIN Electricité et énergies renouvelables : jusqu'où le réseau électrique actuel peut-il gérer des sources décentralisées ?, La Jaune et La Rouge, revue de l'amicale des anciens élèves de l'Ecole polytechnique, [MER 05] A. Merlin, « Renewables : to what extent can the existing French system cope with dispersed generation ? », Electra (CIGRE), n° 219, avril 2005, pp. 4 - 11. [MOG 05] Mogos, Emmanuel Florin (2005) Production décentralisée dans les réseaux de distribution, Doctorat génie électrique ENSAM, soutenue le 20 juillet 2005 [MOR 05] Morren, J.; de Haan, S.W.H.; Ferreira, J.A., "Contribution of DG units to primary frequency control", Future Power Systems, 2005 International Conference on [MOR 06] J. Morren, S W.H. de Haan and J.A. Ferreira, "Primary Power/Frequency control with wind turbine and fuel cells", IEEE PES General Meeting 2006, Montreal, Canada, June 2006. [MOG 05] Mogos, Emmanuel Florin (2005) Production décentralisée dans les réseaux de distribution, Doctorat génie électrique ENSAM, soutenue le 20 juillet 2005 [MOR 06] MORALES Dario, « Définition optimale des élémements d'un système décentralisé de production d'énergie électrique », Soutenu le 5 juillet 2006 275
+
+[MOR 06] J. Morren, S. W.H. de Haan, W. L. Kling, J. A. Ferreira, " Wind turbine emulating inertia and supporting primary frequency control," IEEETransactions on power systems, vol.21, N°1, February 2006, pp. 433-434. [MUL] B. Multon, X. Roboam, «Aérogénérateurs électriques », Techniques de l'ingénieur [MUL 05] Mullane A., O'Malley M., « The inertial response of induction machine based wind turbines », IEEE Transactions on power systems, vol. 20, n° 3, 2005, pp 1496-1503.
+
+N.
+
+[N96 96] Directive 96/92/CE du parlement européen et du conseil du 19 décembre 1996 concernant des règles communes pour le marché intérieur de l'électricité, Journal officiel n° L 027 du 30/01/1997 , p. 0020 - 0029 Disponible en ligne : http://www.ilr.etat.lu/elec/legal/pdf/dir-96-92.pdf [NOR 00] www.nordel.org
+O.
+
+[OUD 07] A. Oudalov, D. Chartouni and C. Ohler, " Optimizing a battery storage system for primary frequency control", IEEE Transaction on power system, VOL. 22, N°3, Août 2007
+
+P.
+
+[PAN 04] Yann PANKOW "Etude de l'intégration de la production décentralisée dans un réseau basse tension. Application au générateur photovoltaïque", Thèse, ENSAM, 12-2004 [PER 08] J. I.Perez, J. R. Wilhelmi et L. A. Arévalo, "Unit Commitment and generation dispatch of a hydropower plant in a competitive electricity market", ICREPQ'08, Santander, 12-14 mars 2008, 32008. [PRIG 97] « Les piles à combustible, Etat du développement et des recherches en cours », Michel Prigent, Editions TECHNIP, 1997, ISBN 2-7108-0792-0 [PUR 08] « Pure power : Wind enrgy scenario up to 2030, European Wind Energy Association, Mars 2008
+
+R.
+
+[RAP 05] C. Rap, « Variable localement, régulière globalement », Systèmes solaires, n°165, 2005, pp.36-38. [REB 07a] Y. G.Rebours, D. S.Kirschen, M. Trotignon and S. Rossignol, "A survey of Frequency and Voltage Control Ancillary Service-Part I: Technical Feature", IEEE transaction on power system, Vol.22, N°1., February 2007
+
+276
+
+[REB 07b] Y. G.Rebours, D. S.Kirschen, M. Trotignon and S. Rossignol, "A survey of Frequency and Voltage Control Ancillary Service-Part II: Technical Feature", IEEE transaction on power system, Vol.22, N°1., February 2007. [RIC 06] O. Richardo " Réglage coordonné de Tension dans les Réseau de Distribution à l'aide de la Production Décentralisée" Thése soutenue le 10 octobre 2006 [ROB 04a] Benoit Robyns, Patrick Bastard, "Production decentralise d'électricité : contexte et enjeux techniques", La revue 3EI n°39, Decembre 2004. [ROB 04b] Robyns B., Davigny A., Saudemont C., Ansel A., Courtecuisse V., Plumel S., Deuse J., « Impact de l'éolien sur le réseau de transport et la qualité de l'énergie », Actes des journées du club EEA , Gif sur Yvette, 26-28 mai 2004, Paris, Hermès, p. 53-68. [ROB 05] Benoît ROBYNS, Aymeric ANSEL, Christophe SAUDEMONT, Arnaud DAVIGNY, Gabriel CIMUCA, Mircea RADULESCU, Jean-Michel GRAVE, "Apport du stockage de l'énergie à l'intégration des éoliennes dans les réseaux électriques. Contribution aux services systèmes", Revue de l'Electricité et de l'Electronique, REE, N°. 5, pages. 77-85, 5-2005. [ROB 95] B. Robyns, Y. Fu, F. Labrique, H. Buyse, "Commande numérique de moteurs synchrones à aimants permanents de faible puissance", Journal de Physique III - T5, n°8, August 1995. [RTE 04]RTE, France, Mèmento de la sûreté électrique 2004. Disponible en ligne : http://www.rtefrance.com.
+
+S.
+
+[SAA 99] Hadi Saadat, Power System Analysis, WCB/McGraw-Hill 1999 [SAB 07_a] J-C. Sabonnadière, N. Hadjsaïd, « Lignes et réseaux électrique 1 » edition lavoisier, 2007 [SAB 07_b] J-C. Sabonnadière, N. Hadjsaïd, « Lignes et réseaux électrique 2 » edition lavoisier, 2007 [SAB 06] Sabonadiére et al, " Nouvelle technologies de l'énergie 1 : les énergies renouvelables », edition lavoisier, 2006 [SAB 07_2] « Nouvelles technologies de l'énergie 2 : stockage et technologies à émission réduite », Jean-Claude Sabonnadiére, Edition Hermes Lavoisier, 2007, ISBN 978-2-7462-1502-3 [SAB 07_4] J-C Sabonnadiére « Nouvelles technologies de l'énergie 4 », Edition Hermes, 2007, ISBN 978-2-7462-1502-3 [SAU 04] C. Saudemont, L. Leclercq, B. Robyns, G. Cimuca, M. Radulescu, « Développement d'un émulateur temps réel d'un système de génération éolienne associé à un stockage d'énergie », REE, n°11, décembre 2004, pp. 49-59.
+
+277
+
+[SAU 05] C. Saudemont, G. Cimuca, B. Robyns, M. Radulescu, « Grid connected or stand-alone realtime variable speed wind generator emulator associated to a flywheel energy storage system », Proceedings of the 11th Conference EPE 2005, Dresde, 11 - 14 septembre 2005. [SEM 08] Sebastijan Seme, Gorazd Štumberger, Jože Voršiþ, "Energy storage device as a part of electric energy production system based on renewable energy sources", ICREPQ'08, Santander, 1214 mars 2008, 3-2008. [SLO 02]Slootweg, J.G.; Kling, W.L."Impacts of distributed generation on power system transient stability", Power Engineering Society Summer Meeting, 2002 IEEE, Volume 2, 25-25 July 2002 Page(s):862 - 867 vol.2 [SLO 03] J. G. Slootweg, S. W. H. de Haan, H. Polinder, W. L. Kling, "General Model for representing variable speed wind turbines in power system dynamics simulations". IEE transactions on power systems, VOL. 18, No. 1, february 2003. [STU 89] Stubbe, M.; Bihain, A.; Deuse, J.; Baader, J.C., "STAG-a new unified software program for the study of the dynamic behaviour of electrical power systems," Power Systems, IEEE Transactions
+
+on , vol.4, no.1, pp.129-138, Feb 1989
+T.
+
+[THI 06] Thi Thu Hà PHAM, « Influences de la production décentralisée sur la gestion des infrastructures critiques des réseaux de puissance »Thése soutenue le 26 octobre 2006
+
+U.
+
+[UCT 06] « Final Report System Disturbance on 4 November 2006 », 4 novembre 2006 Disponible en ligne : http://www.ucte.org/_library/otherreports/Final-Report-20070130.pdf [UCTE 03] "Final report of the investigation committee on the 28 September 2003 Blackout in Italy", UCTE, Avril 2004. [UCT 00] www.ucte.org [UKT 00] www.etso-net.org
+
+W. [WIN 05a] « Wind Force 12. A Blueprint to achieve 12% of the world's electricity from wind power
+
+by 2020 », Global Wind Energy Council (GWEC) report, Jun. 2005.
+
+278
+
+[WIN 05b] Winjnbergen, S.; de Haan, S.W.H.; Slootweg, J.G. "A System for Dispersed Generator Participation in Voltage Control and Primary Frequency Control of the grid", Power Electronics Specialists Conference, 2005. PESC '05. IEEE 36th, 2005 Page(s):2918 - 2924
+
+279
+
+Annexe 1 La Représentation Energétique Macroscopique (REM)
+La Représentation Énergétique Macroscopique (REM),([BOU 00]) est un outil graphique basé sur le principe d'action-réaction. Les éléments de base de la REM, au nombre de 3, sont : les sources d'énergie, les éléments de conversion, les éléments d'accumulations.
+
+En ce qui concerne les variables, on peut les classer suivant deux catégories utilisées dans la modélisation par Bond Graph : variables d'effort e. variables de flux f (grandeur d'état).
+
+I)
+
+Elément de modélisation de la REM
+
+Les sources d'énergie :
+
+Les sources d'énergie sont représentées en un cercle ovale de couleur verte (Figure 272). Elles peuvent être génératrices ou réceptrices.
+
+Figure 272 Source d'énergie
+
+Les éléments de conversion :
+
+Les éléments de conversion assurent la conversion de l'énergie sans accumulation d'énergie. Il existe trois éléments de conversion de natures différentes : - un élément de conversion électrique (Figure 273) qui peut être un onduleur de tension par exemple,
+
+280
+
+Figure 273 Elément de conversion électrique
+
+- un élément de conversion électromécanique (Figure 274) qui est une partie de machine électrique,
+
+Figure 274 Elément de conversion électromécanique
+
+- et un élément de conversion mécanique (Figure 275) qui peut être une boîte de vitesse par exemple.
+
+Figure 275 Elément de conversion mécanique
+
+Les éléments d'accumulation :
+
+Les éléments d'accumulation sont représentés par des rectangles bleus barrés et sont naturellement sources de flux (grandeur d'état). Il peut s'agir d'une bobine, d'un condensateur ou encore d'une masse tournante.
+
+Figure 276 Elément d'accumulation
+
+281
+
+II)
+
+Détermination de la commande
+
+En plus de proposer une modélisation basée sur le principe d'action-réaction montrant l'interaction entre les différentes variables de flux et d'effort, le REM permet, par inversion des éléments de conversion et d'accumulation, de déterminer la structure de la commande maximale.
+
+Inversion direct sans asservissement :
+
+La Figure 277 montre le principe d'inversion des éléments de conversion.
+
+Figure 277 Inversion des direct
+
+Inversion des éléments d'accumulation :
+
+La Figure 278 montre le principe d'inversion d'un élément d'accumulation permettant de contrôler la variable de flux. Ceci implique la présence d'un correcteur adapté pour une bonne régulation de la consigne en raison du caractère causal de l'élément d'accumulation.
+
+Figure 278 Inversion d'un élément d'accumulation
+
+Le Tableau 25 présente l'ensemble des éléments graphique de la REM. 282
+
+Tableau 25 Représentation graphique de la REM
+
+REPRESENTATION ENERGETIQUE MACROSCOPIQUE (REM)
+La REM est une extension du GIC, basé sur le principe d'action-réaction.
+
+variables d'action et de réaction accumulateur d'énergie convertisseur électrique convertisseur électromécanique convertisseur mécanique couplage électrique (double) couplage électromécanique (simple) couplage mécanique
+
+Source d'énergie inversion avec asservissement inversion directe (sans asservissement) inversion directe avec rejet de perturbation bloc de stratégie inversion d'un couplage amont (pondération) inversion d'un couplage aval (répartition) modèle ou estimateur (quelle que soit la forme)
+
+283
+
+Annexe 2 Le Graphe de Commande Etape - Transition : Grafcet
+Le Grafcet : Graphe de Commande Etape - Transition, élaboré en 1977 par l'AFCET, il est appliqué exclusivement aux automates.
+
+I)
+
+Représentation graphique du fonctionnement d'un automatisme
+
+Différentes représentations graphiques sont proposés pour décrire le fonctionnement d'un automatisme, on peut citer : L'organigramme : élaboré en 1948 il est appliqué essentiellement à l'informatique (logiciels) puis à l'électronique (architecture des ordinateurs et API numériques). Les langages à contact : ladder, contact, relais. Les langages booléens : logigrammes. Les réseaux de Pétri : élaborés en 1970, ils sont particulièrement bien adaptés à l'étude des fonctionnements simultanés, ou pour des circuits complexes. Le Grafcet : (Graphe de Commande Étapes - Transitions), élaboré en 1977 par l'AFCET, il est appliqué exclusivement aux automates.
+
+•
+
+• • •
+
+•
+
+II) Les éléments de base du Grafcet
+Le Grafcet s'appuie sur l'alternance étape - transition avec tel ou tel enchaînement selon la valeur de la réceptivité associée à une transition. Le Grafcet est constitué des éléments suivants : les étapes, les transitions, les actions et les réceptivités.
+
+284
+
+Liaison non fléchée Transition Etape initiale Réceptivité
+0
+
+MBAC = 10 kg
+1
+
+AV = 1
+MBAC = 8 kg
+
+Action Liaison fléchée
+Figure 279 Grafcet
+
+Etape
+
+La représentation par Grafcet répond à des normes strictes, la Figure 279 illustre ces normes. Les étapes sont représentées par des carrés, les étapes initiales sont représentées par des doubles carrés. Les liaisons orientées de haut en bas ne sont pas fléchées, les liaisons orientées de bas en haut sont fléchées. Les transitions sont représentées par des segments orthogonaux aux liaisons orientées de haut en bas. Les actions s'écrivent à droite des étapes, les réceptivités s'écrivent à droite des transitions.
+Les étapes :
+
+A un instant donné une étape peut être soit active, soit inactive. La situation d'un automatisme est définie par l'ensemble de toutes les étapes actives. Lors du déroulement de l'automatisme, les étapes sont actives les unes après les autres. A toute étape i, il est associé une variable logique notée Xi telle que Xi=1 si l'étape est active et Xi=0 si l'étape est inactive.
+Les actions :
+
+A chaque étape est associées une ou plusieurs actions. Ces actions sont réalisées à chaque fois que nous activons l'étape à laquelle elles sont associées. Ces actions peuvent être externes (sortie de automatisme pour commander le procédé) ou internes (temporisation, comptage, calcul). Une étape peut n'avoir aucune action (attente d'un événement externe ou la fin d'une temporisation).
+Les transitions :
+
+Elles expriment les possibilités d'évolution entre une ou plusieurs étapes. Une transition peut être validée lorsque toutes les étapes immédiatement reliées à cette transition sont actives ou non
+
+285
+
+validées dans le cas contraire. Enfin, elle peut être franchie lorsqu'elle est validée et que la condition logique associée à cette transition est vraie.
+Les réceptivités
+
+Nous associons à chaque transition une condition logique appelée réceptivité qui peut être soit vraie, soit fausse. Elle peut être fonction des variables externes (entrées, consignes affichées par l'opérateur) ou internes (compteurs, temporisations, étapes actives ou inactives).
+
+III) Règles de fonctionnement du Grafcet
+Mécanisme de franchissement d'une transition :
+
+La règle générale du franchissement d'une transition est que lorsqu'une transition est validée et que la réceptivité qui lui est associée est vraie la transition est franchie c'est à dire que les étapes précédant la transition sont désactivées et les étapes suivant la transition sont activées simultanément. L'initialisation précise les étapes actives au début du fonctionnement. Elles sont activées inconditionnellement et repérées sur le Grafcet par un double carré. Une transition est soit validée soit non validée. Elle est validée lorsque toutes les étapes immédiatement précédentes sont actives. Elle peut alors être franchie que lorsqu'elle est validée et que la transition est vraie. La transition est alors obligatoirement franchie. Le franchissement d'une transition entraîne l'activation de toutes les étapes immédiatement suivantes et la désactivation de toutes les étapes immédiatement précédentes. Plusieurs transitions simultanément franchissables sont simultanément franchies. Si au cours du fonctionnement une même étape doit être activée et désactivée simultanément, elle reste active.
+
+•
+
+•
+
+•
+
+• •
+
+286
+
+Annexe 3 Graphe opérationnel et algorithme floue des différents cas d'étude
+I) Association générateur éolien, source prévisible, système de stockage à court terme
+Source classique
+
+Charges
+
+Générateur éolien
+
+Stockage court terme
+
+Production décentralisée prévisible
+
+Figure 280 Association générateur éolien, stockage court terme et source décentralisée prévisible
+
+Le système multisources considéré est présenté à la Figure 280, il comprend un générateur éolien, un système de stockage à court terme et un système de production décentralisé prévisible. Les moyens d'action à notre disposition sont l'angle de calage des pales, les puissances de références de la source prévisible et du système de stockage à court terme. La Figure 281 présente le graphe opérationnel qui est la traduction du graphe fonctionnel. Le Tableau 26 présente les lois floues du superviseur qui sont ici un nombre de 22.
+
+287
+
+Nivstock_CT P
+
+Nivstock_CT G
+
+Figure 281 Graphe opérationnel du cas 2
+
+ǻP NM
+
+ǻP NG
+
+ǻP NG
+
+ǻP NM
+
+ǻP Z
+
+ǻP PM Pstock_CT_ref1
+NM
+
+ǻP PM
+
+ǻP PG
+
+Pstock_CT_ref1
+NM PSPref Z PSPref P PSPref G
+
+Pstock_CT_ref1 NG
+
+Pstock_CT_ref1 NM
+
+Pstock_CT_ref1Z
+
+Pstock_CT_ref1PM
+
+Pstock_CT_ref1PG
+
+ȕref Z
+
+ȕref P
+
+ȕref G
+
+ǻP Z ou PM ou PG ǻf N ǻf Z PSPref Z
+
+ǻP NM
+
+ǻP Z ou NL ou NG
+
+ǻP PM ǻf P ǻf Z ȕref P
+
+ǻP NM
+ǻf P ǻf Z
+
+ǻP Z
+
+ǻP PM
+
+ǻP PG
+
+ǻf N
+
+ǻf Z ȕref Z
+
+PSPref P
+N1.1 N1.3
+
+N1.2
+
+Nivstock_CT M
+
+Nivstock_CT M
+
+N1
+
+ǻ f P OU ǻfN
+
+Pstock_CT_ref1 Z
+N2
+
+ǻf N
+
+288
+
+N1.1
+
+Tableau 26 Lois floues du cas 2 Si Nivstock_CT est M et ǻf est Z et ǻP est NG alors Pstock_CT_ref1 est NG Si Nivstock_CT est M et ǻf est Z et ǻP est PG alors Pstock_CT_ref1 est PG Si Nivstock_CT est M et ǻf est Z et ǻP est NM alors Pstock_CT_ref1 est NM Si Nivstock_CT est M et ǻf est Z et ǻP est PM alors Pstock_CT_ref1 est PM Si Nivstock_CT est M et ǻf est Z et ǻP est Z alors Pstock_CT_ref1 est Z Si Nivstock_CT est G et ǻf est Z alors Pstock_CT_ref1 est NM Si Nivstock_CT est G et ǻf est Z et ǻP est Z alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est NM alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est NG alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est PM alors ȕref est P Si Nivstock_CT est G et ǻf est Z et ǻP est PG alors ȕref est G Si Nivstock_CT est G et ǻf est N alors ȕref est Z Si Nivstock_CT est G et ǻf est P alors ȕref est P Si Nivstock_CT est P et ǻf est Z alors Pstock_CT_ref1 est PM Si Nivstock_CT est P et ǻf est Z et ǻP est NG alors PSPref est G Si Nivstock_CT est P et ǻf est Z et ǻP est NM alors PSPref est P Si Nivstock_CT est P et ǻf est Z et ǻP est PG alors PSPref est Z Si Nivstock_CT est P et ǻf est Z et ǻP est PM alors PSPref est Z Si Nivstock_CT est P et ǻf est Z et ǻP est Z alors PSPref est Z Si Nivstock_CT est P et ǻf est P est alors Pstock_CT_ref1 est Z Si Nivstock_CT est P et ǻf est N est alors Pstock_CT_ref1 est P
+
+N1.2
+
+N1
+
+N1.3
+
+N2
+
+ǻf est P alors Pstock_CT_ref1 est Z
+
+II) Association générateur éolien, source prévisible
+Source classique
+
+Charges
+
+Générateur éolien
+
+Production décentralisée prévisible
+
+Figure 282 Association générateur éolien source de production décentralisé prévisible
+
+289
+
+Le système multisources considéré est présenté Figure 282, il comprend un générateur éolien et un système de production décentralisé prévisible. Les moyens d'action à notre disposition sont l'angle de calage des pales et la puissance de référence de la source prévisible. La Figure 283 présente le graphe opérationnel qui est la traduction du graphe fonctionnel. Le Tableau 27 présente les lois floues du superviseur qui sont au nombre de 14.
+
+ǻP PM
+
+ǻP PG
+
+ǻP NM
+
+ǻP NG
+
+ȕref Z
+
+ȕref P
+
+ȕref G
+
+PSPref Z
+
+PSPref P
+
+PSPref G
+
+ǻP Z ou NL ou NG
+
+ǻP PM
+
+ǻP Z ou PM ou PG
+
+ǻP NM
+
+ǻf N
+
+ȕref Z
+
+ǻf Z
+
+ǻf P
+
+ȕref P
+
+ǻf Z
+
+ǻf P
+
+P SPref Z
+
+ǻf Z ǻf N
+
+PSPref P
+
+ǻf Z
+
+N1.2
+
+N1.1
+
+N1
+
+Figure 283 Graphe opérationnel du cas 3 Tableau 27 Lois floues du cas 3 Si ǻf est Z et ǻP est Z alors ȕref est Z Si ǻf est Z et ǻP est NM alors ȕref est Z Si ǻf est Z et ǻP est NG alors ȕref est Z Si ǻf est Z et ǻP est PM alors ȕref est P Si ǻf est Z et ǻP est PG alors ȕref est G Si ǻf est N alors ȕref est Z Si ǻf est P alors ȕref est P Si ǻf est Z et ǻP est NG alors PSPref est G Si ǻf est Z et ǻP est NM alors PSPref est P Si ǻf est Z et ǻP est PG alors PSPref est Z Si ǻf est Z et ǻP est PM alors PSPref est Z Si ǻf est Z et ǻP est Z alors PSPref est Z Si ǻf est P est alors PSPref est Z Si ǻf est N est alors PSPref est P
+
+N1.1
+
+N1.2
+
+290
+
+III) Association générateur éolien et système de stockage à court terme
+Source classique
+
+Charges
+
+Générateur éolien
+
+Stockage court terme
+
+Figure 284 Association générateur éolien et systéme de stockage à court terme
+
+Le système multisources considéré est présenté à la Figure 284, elle comprend un générateur éolien et un système de stockage à court terme. Les moyens d'action à notre disposition sont l'angle de calage des pales, la puissance de référence du stockage à court terme. La Figure 285 présente le graphe opérationnel qui est la traduction du graphe fonctionnel. Le Tableau 28 présente les lois floues du superviseur qui sont au nombre de 16.
+Tableau 28 Lois floues du cas 4 Si Nivstock_CT est M et ǻf est Z et ǻP est NG alors Pstock_CT_ref1 est NG Si Nivstock_CT est M et ǻf est Z et ǻP est PG alors Pstock_CT_ref1 est PG Si Nivstock_CT est M et ǻf est Z et ǻP est NM alors Pstock_CT_ref1 est NM Si Nivstock_CT est M et ǻf est Z et ǻP est PM alors Pstock_CT_ref1 est PM Si Nivstock_crt est M et ǻf est Z et ǻP est Z alors Pstock_CT_ref1 est Z Si Nivstock_CT est G et ǻf est Z alors Pstock_CT_ref1 est NM Si Nivstock_CT est G et ǻf est Z et ǻP est Z alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est NM alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est NG alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est PM alors ȕref est P Si Nivstock_CT est G et ǻf est Z et ǻP est PG alors ȕref est G Si Nivstock_CT est G et ǻf est N alors ȕref est Z Si Nivstock_CT est G et ǻf est P alors ȕref est P Si Nivstock_CT est P et ǻf est Z alors Pstock_CT_ref1 est PM
+ǻf est N alors Pref_stock_crt1 est Z ǻf est P alors Pref_stock_crt1 est Z
+
+N1.1
+
+N1
+N1.2
+
+N1.3
+
+N2
+
+291
+
+Niv_stock_CT P
+
+Niv_stock_CT G
+
+Figure 285 Graphe fonctionnel du cas 4
+
+ǻP NG
+
+ǻP NM
+
+ǻP Z
+
+ǻP PM Pstock_CT_ref
+NM
+
+ǻP PM
+
+ǻP PG
+
+Pstock_CT_ref1 NG Pstock_CT_ref1 PM ǻP NM
+
+Pstock_CT_ref1NM
+
+Pstock_CT_ref1 Z
+
+Pstock_CT_ref1PM
+
+P stock_CT_ref1 PG
+
+ȕref Z
+
+ȕref P
+
+ȕref G
+
+ǻP Z ou NL ou NG
+
+ǻP PM ǻf P ǻf Z ȕref P
+
+ǻP Z
+
+ǻP PM
+
+ǻP PG
+
+ǻf N
+
+ǻf Z ȕref Z
+
+N1.3
+
+N1.1
+
+N1.2
+
+Niv_stock_CT M
+
+Niv_stock_CT M
+
+N1
+
+Pstock_CT_ref1 Z
+ǻf N OU ǻf P
+
+N2
+
+ǻf N
+
+292
+
+IV) Association générateur éolien, système de stockage à court et long terme
+Le système multisources considéré est présenté à la Figure 286, il comprend un générateur éolien, un système de stockage à court terme et un système de stockage à long terme. Les moyens d'action à notre disposition sont l'angle de calage des pales, les puissances de références des systèmes de stockage. La Figure 287 présente le graphe opérationnel qui est la traduction du graphe fonctionnel. Le Tableau 29 présente les lois floues du superviseur qui sont au nombre de 30.
+
+Source classique
+
+Charges
+
+Générateur éolien
+
+Stockage court terme
+
+Stockage long terme
+
+Figure 286 Association générateur éolien, système de stockage court terme et long terme
+
+293
+
+Nivstock_CT P
+
+Niv stock_CT G
+
+ǻP NG
+
+ǻP NM
+
+ǻP Z
+
+ǻP PM
+Pstock_CT_ref1
+NM
+
+ǻP PM
+
+ǻP PG
+
+Pstock_CT_ref1 PM
+
+Pstock_CT_ref1 NG
+
+Pstock_CT_ref1 NM
+
+Pstock_CT_ref1 Z
+
+Pstock_CT_ref1 PM
+
+Pstock_CT_ref1 PG
+
+ȕref Z
+
+ȕref P
+
+ȕref G
+
+ǻP Z ou NL ou NG
+
+ǻP PM ǻf P ǻf Z ȕref P
+
+ǻP NM
+
+ǻP Z
+
+ǻP PM
+
+ǻP PG
+
+ǻf N
+
+ǻf Z ȕref Z
+
+Figure 287 Graphe fonctionnel du cas 5
+
+Niv stock_CT M
+
+Nivstock_CT M
+
+Nivstock_LT P
+
+Niv stock_LT G
+
+ǻP NG
+
+ǻP NM
+
+ǻP Z
+
+ǻP M
+Pstock_LT_ref1
+NM
+
+ǻP PM
+
+ǻP PG
+
+Pstock_LT_ref1 NG Pstock_LT_ref1 PM
+
+Pstock_LT_ref1 NM
+
+Pstock_LT_ref1 Z
+
+Pstock_LT_ref1 PM
+
+Pstock_LT_ref1 PG
+
+ȕref Z
+
+ȕref P
+
+ȕref G
+
+ǻP Z ou NL ou NG
+
+ǻP PM ǻf P ǻf Z ȕref P
+
+ǻP NM
+
+ǻP Z
+
+ǻP PM
+
+ǻP PG
+
+ǻf N
+
+ǻf Z ȕref Z
+
+Niv stock_LT
+
+M
+
+Niv stock_LT M
+
+N2
+
+Pstock_CT_ref1 Z
+ǻf N OU ǻf N
+
+Pstock_LT_ref1 Z
+ǻf N
+
+294
+
+N1.11
+
+N1.1
+N1.12
+
+Tableau 29 Lois floues du cas 5 Si Nivstock_CT est M et ǻf est Z et ǻP est NG alors Pref_stock_crt1 est NG Si Nivstock_CT est M et ǻf est Z et ǻP est PG alors Pref_stock_crt1 est PG Si Nivstock_CT est M et ǻf est Z et ǻP est NM alors Pref_stock_crt1 est NM Si Nivstock_CT est M et ǻf est Z et ǻP est PM alors Pref_stock_crt1 est PM Si Nivstock_CT est M et ǻf est Z et ǻP est Z alors Pref_stock_crt1 est Z Si Nivstock_CT est G et ǻf est Z alors Pref_stock_crt1 est NM Si Nivstock_CT est G et ǻf est Z et ǻP est Z alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est NM alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est NG alors ȕref est Z Si Nivstock_CT est G et ǻf est Z et ǻP est PM alors ȕref est P Si Nivstock_CT est G et ǻf est Z et ǻP est PG alors ȕref est G Si Nivstock_CT est G et ǻf est N alors ȕref est Z Si Nivstock_CT est G et ǻf est P alors ȕref est P Si Nivstock_CT est P et ǻf est Z alors Pref_stock_crt1 est PM Si Nivstock_LT est M et ǻf est Z et ǻP est NG alors Pref_stock_lrt1 est NG Si Nivstock_LT est M et ǻf est Z et ǻP est PG alors Pref_stock_lrt1 est PG Si Nivstock_LT est M et ǻf est Z et ǻP est NM alors Pref_stock_lrt1 est NM Si Nivstock_LT est M et ǻf est Z et ǻP est PM alors Pref_stock_lrt1 est PM Si Nivstock_LT est M et ǻf est Z et ǻP est Z alors Pref_stock_lrt1 est Z Si Nivstock_LT est G et ǻf est Z alors Pref_stock_lrt1 est NM
+
+N1
+
+N1.13 N1.21
+
+N1.2
+N1.22
+
+Si Nivstock_LT est G et ǻf est Z et ǻP est NG alors ȕref est Z Si Nivstock_LT est G et ǻf est Z et ǻP est Zalors ȕref est Z Si Nivstock_LT est G et ǻf est Z et ǻP est NZ alors ȕref est Z Si Nivstock_LT est G et ǻf est Z et ǻP est PM alors ȕref est P Si Nivstock_LT est G et ǻf est Z et ǻP est PG alors ȕref est G Si Nivstock_LT est G et ǻf est N alors ȕref est Z Si Nivstock_LT est G et ǻf est P alors ȕref est P Si Nivstock_LT est P et ǻf est Z alors Pref_stock_lrt1 est PM Si ǻf est P alors Pref_stock_crt1 est Z Si ǻf est N alors Pref_stock_lrt1 est Z
+
+N1.23
+
+N2
+
+295
+
+Supervision d' centrale multisources à base d' une éoliennes et de stockage d' énergie connectée au réseau électrique.
+RESUME: Le concept de systèmes multisources (incluant du stockage de l' énergie) avec une gestion intégrée et optimisée de l' énergie est aussi connu sous le nom de centrale virtuelle. Ce type de centrale est constituée de différentes catégories de générateurs (par exemple : éolien, photovoltaïque, micro turbine hydraulique, micro turbine à gaz, pile à combustible, ...) pouvant être associés à différents systèmes de stockage (par exemple : batterie, volant d' inertie, stockage électromagnétique ou SMES, supercondensateur, pompage hydraulique, compression d' air, ....). Du point de vue des gestionnaires des réseaux de transport et de distribution, une centrale virtuelle doit pouvoir se comporter comme une centrale classique. Elle doit donc participer pleinement aux services système et le gestionnaire de la centrale doit pouvoir s' engager 24h à l' avance sur la quantité d' énergie électrique qu'pourra produire. il Des systèmes multisources associés à du stockage existent déjà dans des sites isolés (régions peu peuplées, îles, ...). Des études et des expériences ont été réalisées sur des réseaux isolés associant des générateurs diesels et éoliens avec du stockage inertiel ou par batteries. L' objectif de ces études est l' augmentation du taux de pénétration de l' éolien en vue de diminuer la consommation de fuel. Les principaux problèmes posés par ces systèmes sont le choix et le dimensionnement du système de stockage, ainsi que la détermination des stratégies de supervision afin d' optimiser la consommation énergétique tout en assurant la stabilité du réseau. Mots-clés: Production décentralisée, énergies renouvelables, centrale multisources, stockage de
+l' énergie électrique, services système, optimisation, supervision.
+
+Supervision to a multisource power plant includingwind generator and energy storage connect to network
+ABSTRACT: The concept of multisource system (with energy storage) with integrated and optimised energy control it' also knows as a virtual power plant. These types of power plants are s constituted from different class of generators which can be associated with different types of energy storage systems. From the point of view of network managing, a virtual power plant must behave as a classical power plant. It must participate to the ancillary service and also the manager has to know 24h ahead the quantity of electrical energy he can produce. The multisource systems associated with storage system exists already in isolated sites, many studies and experimentations have been developed for isolated networks using diesel generators associated with wind turbines and flywheel energy storage systems or using batteries. The objective of this project is to increase the penetration rate of the wind power plants to decrease the fuel consumption. The mains problems of this system are the choice of storage system and the determination of the supervisory control in order to optimize the energetic consumption and to assure the network stability. Keywords: Decentralised production, energy storage, ancillary services, optimisation, supervisory
+control, multisource power plant, renewable energy
+

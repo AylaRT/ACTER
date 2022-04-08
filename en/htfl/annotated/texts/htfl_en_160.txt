@@ -1,0 +1,11 @@
+Composite quality measures for common inpatient medical conditions.
+BACKGROUND:
+Public reporting on quality aims to help patients select better hospitals. However, individual quality measures are suboptimal in identifying superior and inferior hospitals based on outcome performance.
+OBJECTIVE:
+To combine structure, process, and outcome measures into an empirically derived composite quality measure for heart failure (HF), acute myocardial infarction (AMI), and pneumonia (PNA). To assess how well the composite measure predicts future high and low performers, and explains variance in future hospital mortality.
+RESEARCH DESIGN:
+Using national Medicare data, we created a cohort of older patients treated at an acute care hospital for HF (n=1,203,595), AMI (n=625,595), or PNA (n=1,234,299). We ranked hospitals on the basis of their July 2005 to June 2008 performance on the composite. We then estimated the odds of future (July to December 2009) 30-day, risk-adjusted mortality at the worst versus best quintile of hospitals. We repeated this analysis using 2005-2008 performance on existing quality indicators, including mortality.
+RESULTS:
+The composite (vs. Hospital Compare) explained 68% (vs. 39%) of variation in future AMI mortality rates. In 2009, if an AMI patient had chosen a hospital in the worst versus best quintile of performance using 2005-2008 composite (vs. Hospital Compare) rankings, he or she would have had 1.61 (vs. 1.39) times the odds of dying in 30 days (P-value for difference <0.001). Results were similar for HF and PNA.
+CONCLUSIONS:
+Composite measures of quality for HF, AMI, and PNA performed better than existing measures at explaining variation in future mortality and predicting future high and low performers.

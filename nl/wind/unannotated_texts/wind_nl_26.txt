@@ -1,0 +1,86 @@
+Filtering van de rotorsnelheidsmeting bij windturbines
+
+
+Abstract
+
+
+Dit onderzoek heeft betrekking op de eliminatie van ongewenste signaalcomponenten (met name de 3p frequentie en meetruis) uit de gemeten rotorsnelheid bij windturbines. De belangrijkste conclusie is dat het conventioneel toegepaste Chebychev type 2 filter de beste keus is voor de on-line reconstructie van het laagfrequente gedrag van de windturbinerotor, wanneer we dit filter vergelijken met een Moving Average -, een Linear Smoothing of een 'Recursive Linear Smoothed Newton prediction' filter.
+Derhalve is de behoefte om de hogere frequenties, met name 3p, efficiënter uit het rotorsnelheidssignaal te elimineren onverminderd blijven bestaan. We bevelen aan om hiervoor lerende algoritmen te onderzoeken. De (multiple) 3p componenten worden namelijk gedeeltelijk deterministisch gereproduceerd als functie van de rotorpositie, -snelheid en wellicht ook -versnelling. Voor dit voorspelbare gedrag zou middels een feed forward-achtige constructie kunnen worden gecompenseerd. Een andere optie is het adaptief volgen van de rotorsnelheid (en dus 3p) met een klassiek filter.
+
+1 INTRODUCTIE
+
+
+De hier beschreven studie is gericht op het verbeteren van de on-line reconstructie van het laagfrequente gedrag van de windturbinerotor, zoals dat wordt gebruikt in turbineregelingen. Dit onderzoek heeft plaatsgevonden binnen het NOVEM project 'Ontwerpgereedschap voor het integraal ontwerpen van windturbine regelingen', activiteit 'Vermogensregeling'.
+Uitgangspunt is een encodermeting, waaruit het in de regelaars te gebruiken gedeelte van het rotorsnelheidssignaal wordt gereconstrueerd. Het onderzoek heeft betrekking op de eliminatie van de signaalcomponenten, met name de 3p frequentie en meetruis, die de meting van het gewenste laagfrequente signaal verstoren.
+Hierbij is speciale aandacht besteed aan de prestaties van de op voorhand als veelbelovend geïdentificeerde methode 'Recursive Linear Smoothed Newton prediction' ten opzichte van de tot nu toe gebruikelijke methode gebaseerd op Chebychev type 2 filters. Daarnaast is ook gekeken naar hoe deze filters zich verhouden tot de 2 meest bekende vormen van digitale filtering: Moving Averaging en Exponential Smoothing.
+
+2 FILTERMETHODEN
+
+
+De volgende filters zijn in beschouwing genomen: Een (voor deze toepassing conventioneel) laagdoorlaat Chebychev type 2 filter van de 4e orde met 16.9 dB demping in de sperband (verder lo3p filter genoemd); Recursive Linear Smoothed Newton (RLSN) prediction filter, empirisch ingesteld conform de desbetreffende situatie (zie toelichting hieronder); Moving Average (MA) filter; Exponential Smoothing (ES) filter; Toelichting RLSN prediction filter: Op basis van A zijn de beschouwde RLSN prediction filters opgebouwd in 3 stappen. Na de successievelijke stappen wordt de filteroverdracht in het z-domein beschreven als: n-step ahead Uniformly Sampling Newton-type FIR predictor voor N e orde polynomen. Toevoeging van Linear Smoothing. Met S(z) een M e orde Moving Average filter. Na Recursive Extension met weegfactor a.
+
+3 UITGANGSSITUATIE
+
+
+De filtertechnieken zijn op pragmatische wijze onderzocht, gebaseerd op de volgende representatieve configuratie: Regelaar tijdstap Td = 0.1 [s]; De encoder is gemonteerd op de (snelle) generator-as en geeft Nenc = 4096 pulsen per omwenteling af; De transmissieverhouding van rotor naar generator is i = 76.79.
+
+Uitgaande van deze gegevens is het afgegeven encoder-signaal gesimuleerd voor een representatieve typical 3 MW windturbine, zoals deze bij aanvang van het onderzoek reeds in de Matlab simulatie-omgeving van ECN was opgenomen. In eerste instantie zijn de filtertechnieken beoordeeld op hun geschiktheid om het laagfrequente rotorgedrag te kunnen reconstrueren voor situaties zoals gesimuleerd. In algemene zin is hiervoor gekeken naar de overdrachten in het frequentiedomein. De tijddomein analyse is volledig op de gesimuleerde situatie gebaseerd. Achteraf wordt in een nabeschouwing ook aandacht besteed aan mogelijke alternatieve configuraties.
+Bij het ontwerpen van de filters voor deze situatie, is ervan uitgegaan dat optimale 3p onderdrukking mogelijk is. Dat wil zeggen: filtering op basis van het in het meetsignaal optredende 3p frequentie, zonder rekening te hoeven houden met een frequentie marge ten behoeve van (grotere) fluctuatie van de rotorsnelheid (en dus 3p frequentie). Bij de analyse in het frequentiedomein zal vergelijking van filters op basis van deze situatie ook representatief blijken te zijn voor de situatie dat er wel een marge voor de optredende 3p frequenties in acht moet worden genomen.
+
+ONDERZOEK EN BEVINDINGEN
+
+Binnen de simulatie-omgeving is een RLSN filter ingesteld, dat geschikt is voor on-line reconstructie van de laagfrequente signalen uit het rotorsnelheidssignaal. Hierbij is gebleken dat RLSN filtering voor de beschouwde situatie alleen geschikt is, wanneer N = 1 wordt gekozen (predictie van 1e orde polynomen), bij hogere waarden voor N wordt de 3p frequentie namelijk niet (voldoende) onderdrukt. Het aantal predictie stappen is gelijk gesteld aan de meetvertraging: n = 2, wat een juiste waarde is gebleken. Verder is op empirische wijze bepaald, dat M = 10 en a = 0.025 goede resultaten oplevert voor het beschouwde RLSN filter.
+Het aldus ontworpen RLSN filter is vergeleken met 3 andere filters, waarna de rangschikking naar prestatie als volgt kan worden opgesteld: Conventioneel toegepast lo3p filter; Moving Average filter dat gebruik maakt van de laatste 14 meetwaarden (i.e. met ideale 3p onderdrukking); RLSN filter met M = 10 en a = 0.025; Moving Average filter dat gebruik maakt van de laatste 10 meetwaarden; Exponential Smoothing filter (diverse smoothing factoren gebruikt).
+
+Voor figuren: zie appendix A. Opmerkingen:
+
+Het gedrag van het 10 staps MA filter benadert het gedrag van het RLSN filter.
+
+Onderdrukking van de versterking bij hogere frequenties in geval van RLSN filtering is voorgesteld. Voor het geval N = 1, blijkt dat het RLSN filter dan het gedrag zal gaan benaderen van een MA filter, dat gebruik maakt van de laatste M meetwaarden (waarvan we reeds hadden gevonden dat dit de prestaties van RLSN overtreft).
+
+Afgezien van het feit dat RLSN filtering tekort schiet in verhouding tot het conventioneel gebruikte en standaard MA filter, zou het volgende moeten worden opgelost, alvorens RLSN filters in de hier beschouwde situatie gebruikt zouden kunnen worden: De stijgende amplitude overdracht bij de hogere frequenties moeten worden onderdrukt.
+De schattingsfout (overshoot) bij plotselinge veranderingen in de eerste afgeleide van de filter input, waar de langzaam aflopende offset bij t = 20 s een voorbeeld van is, moet worden omzeild.
+
+Na de beschouwing van RLSN predictive filtering voor het filteren van het rotorsnelheidssignaal, is getracht RLSN filtering in te zetten voor (vertragingsloze) reconstructie van de laagfrequente delen uit het rotorversnellingssignaal. Hierbij is de (ongefilterde) filter-input 'de rotorversnellingsmeting' bepaald uit het verschil tussen 2 opeenvolgende snelheidsmetingen gedeeld door de bemonsteringstijd (zoals gebruikelijk).
+De aanpak voor reconstructie van het versnellingssignaal, is gelijk geweest aan de aanpak bij de beschouwing van het snelheidssignaal. Hierbij is empirisch vastgesteld dat een RLSN filter (wederom met n = 2 en N = 1) voor deze toepassing goede resultaten levert voor zeer kleine waarden voor a. Simulaties in het tijddomein suggereren M = 34 en a = 0.0025 voor een goed RLSN filter, maar bij beschouwing van de filter responsie in het frequentie domein wordt dit ontkracht. De verzwakking voor lagere frequenties blijkt dan namelijk onacceptabel groot te zijn.
+Verdere analyse leert dat de lage a waarde realiseert dat het RLSN filter nagenoeg gelijk is aan een M staps Moving Average filter: waar bij a = 0.025 het RLSN filter met M = 10 nog juist iets beter lijkt te presteren dan een MA filter dat gebruik maakt van de laatste 10 meetwaarden (bij de beschouwing van het snelheidssignaal), is er in dit geval (a = 0.0025) nog nauwelijks verschil waarneembaar.
+De analyse van filters kan dus worden beperkt tot het vergelijken van conventionele lo3p filtering met MA filtering (opmerking: Exponential Smoothing bleek ook hier al gauw geen nuttige bijdrage te kunnen leveren). Deze vergelijking valt uit in het voordeel van het lo3p filter. Het lo3p filter overstijgt het MA filter in het laagfrequente gebied, zowel voor wat betreft het amplitude gedrag (minder demping) als het fase gedrag (minder fase achterstand), doordat een MA filter (met ideale 3p onderdrukking) ook verzwakkingspieken vertoond bij 6p, 9p, 12p, ..., wat zich niet voordoet bij lo3p filtering (dan overigens nog wel een tweede verzwakkingspiek voorbij 6p). Het feit dat 'multiple 3p' frequenties worden onderdrukt, spreekt voor de afhandeling van de hoogfrequente verstoringen natuurlijk in het voordeel van het Moving Average filter (vooral betreffende de onderdrukking van de 6p frequentie).
+Andere vergelijkingen tussen lo3p en Moving Average lijken niet van belang te zijn. In eerste instantie lijkt het wellicht dat een MA filter: i) eenvoudiger is te ontwerpen; ii) beter geschikt is voor (eventuele) addaptieve filtering (de 3p- en 'multiple 3p' frequenties worden gevolgd door eenvoudigweg meer of minder meetwaarden in beschouwing te nemen). Echter: i) aangezien de generieke structuur van het lo3p filter reeds vastligt, is de complexiteit van ontwerpen geen onderwerp van discussie meer; ii) relatief trage herberekening van adaptieve lo3p filtercoëfficiënten lijkt een ongecompliceerde computerbewerking te zijn.
+
+NABESCHOUWING
+
+Belangrijkste conclusie is dat het conventioneel toegepaste Chebychev type 2 filter, de beste keus is voor de on-line reconstructie van het laagfrequente gedrag van de windturbinerotor, wanneer we dit filter vergelijken met 'Recursive Linear Smoothed Newton (RLSN) prediction', Moving Average of Linear Smoothing filtering.
+Waarschijnlijk is de RLSN techniek pas van nut bij een gebrek aan betrouwbare informatie over het bemeten signaal, gedurende het juist doorlopen bemonsteringsinterval (van de voor regeling benodigde tijdsduur). Ofwel: wanneer er tussen twee bemonsteringstijdstippen geen of nauwelijks encoderpulsen worden afgegeven. Uitgaande van commercieel verkrijgbare encoders met Nenc = 4096 pulsen per omwenteling, zal deze situatie niet van toepassing zijn voor de hier beschouwde signaalreconstructie. Zelfs niet in geval van een direct drive turbine. Immers, bij een rotortoerental van 10 rpm en bemonsteringsinterval Td = 0.1 s, worden er dan nog altijd per bemonsteringsperiode afgegeven.
+
+Wanneer encoderruis op enig moment toch een probleem gaat worden, moet er naast signaalbewerkingstechnieken (zoals RLSN) ook gedacht worden aan het registreren van het moment waarop encoderpulsen worden afgegeven. Wellicht zal daarmee voor het grensgeval (betreffende de waarde van Nenc) reeds een afdoende resultaat worden geleverd, maar bovendien zal het registreren van het pulsmoment technieken zoals RLSN beter inzetbaar maken.
+Bij afwezigheid van een serieus encoderruis-probleem, zijn dergelijke overwegingen voor de huidige situatie echter niet aan de orde. Waar wél behoefte aan is, is het wegfilteren van werkelijk aanwezige (correct geregistreerde) hoger frequente signaalwaarden (met name 3p) uit het totale signaal, onder de restrictie dat het laagfrequente signaalgedrag in tact blijft. Wanneer een filter-techniek hierin zou slagen, kan dit altijd nog worden aangevuld met een (mild) meetruisfilter.
+Het lijkt aanbevelenswaardig een dergelijke filtering na te streven, door de werking van lerende algoritmen te onderzoeken. De 3p (en ook 'multiple 3p') signaalcomponenten worden namelijk bij herhaling gereproduceerd als functie van de rotorpositie, -snelheid en wellicht ook -versnelling. Nadat dit voorspelbare gedrag is geregistreerd, zou hiervoor middels een feed forward-achtige constructie moeten kunnen worden gecompenseerd. Een andere mogelijk aantrekkelijke optie om de 3p componenten te elimineren, zou het adaptief volgen van de rotorsnelheid (en dus 3p) met een klassiek filter kunnen zijn. Hierbij kan worden gedacht aan een lo3p filter met in principe lage demping in de sperband, (zodat de laagfrequente signaalcomponenten nagenoeg ongemoeid worden gelaten) maar hoge demping van 3p, door de (eerste) verzwakkingsdip deze frequentie te laten volgen. Wel moet er dan nog een oplossing worden gezocht voor onderdrukking van 6p- (en mogelijk ook hogere 'multiple 3p') effecten.
+
+
+Figuur 1: Rotorsnelheden voor en na filtering, volgens verschillende methoden
+
+Figuur 2: Rotorsnelheden voor en na filtering, volgens verschillende methoden (zoomed in)
+
+
+Figuur 3: Bodediagrammen voor verschillende rotorsnelheidsfilters
+
+
+Figuur 4: Bodediagrammen voor verschillende rotorsnelheidsfilters (zoomed in)
+Filtering van de rotorsnelheidsmeting bij windturbines
+
+
+Figuur 5: Rotoracceleratie voor en na filtering, volgens verschillende methoden
+
+
+Figuur 6: Rotoracceleratie voor en na filtering, volgens verschillende methoden (zoomed in)
+
+
+Figuur 7: Bodediagrammen voor verschillende rotoracceleratiefilters
+
+
+Figuur 8: Bodediagrammen voor verschillende rotoracceleratiefilters (zoomed in)
+
+Dit onderzoek heeft betrekking op de eliminatie van ongewenste signaalcomponenten (met name de 3p frequentie en meetruis) uit de gemeten rotorsnelheid bij windturbines. De belangrijkste conclusie is dat het conventioneel toegepaste Chebychev type 2 filter de beste keus is voor de on-line reconstructie van het laagfrequente gedrag van de windturbinerotor, wanneer we dit filter vergelijken met een Moving Average -, een Linear Smoothing of een 'Recursive Linear Smoothed Newton prediction' filter.
+Derhalve is de behoefte om de hogere frequenties, met name 3p, efficiënter uit het rotorsnelheidssignaal te elimineren onverminderd blijven bestaan. We bevelen aan om hiervoor lerende algoritmen te onderzoeken. De (multiple) 3p componenten worden namelijk gedeeltelijk deterministisch gereproduceerd als functie van de rotorpositie,-snelheid en wellicht ook -versnelling. Voor dit voorspelbare gedrag zou middels een feed forward-achtige constructie kunnen worden gecompenseerd. Een andere optie is het adaptief volgen van de rotorsnelheid (en dus 3p) met een klassiek filter.
+
+bladhoekregeling, filter, regeltechniek, variabel toeren, vermogensregeling, voorspellend filteren, windturbine, windturbineregeling

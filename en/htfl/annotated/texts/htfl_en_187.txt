@@ -1,0 +1,15 @@
+Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen Consumption and Quality of Life in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial.
+IMPORTANCE:
+More than 80% of patients with heart failure with preserved ejection fraction (HFPEF), the most common form of heart failure among older persons, are overweight or obese. Exercise intolerance is the primary symptom of chronic HFPEF and a major determinant of reduced quality of life (QOL).
+OBJECTIVE:
+To determine whether caloric restriction (diet) or aerobic exercise training (exercise) improves exercise capacity and QOL in obese older patients with HFPEF.
+DESIGN, SETTING, AND PARTICIPANTS:
+Randomized, attention-controlled, 2 × 2 factorial trial conducted from February 2009 through November 2014 in an urban academic medical center. Of 577 initially screened participants, 100 older obese participants (mean [SD]: age, 67 years [5]; body mass index, 39.3 [5.6]) with chronic, stable HFPEF were enrolled (366 excluded by inclusion and exclusion criteria, 31 for other reasons, and 80 declined participation).
+INTERVENTIONS:
+Twenty weeks of diet, exercise, or both; attention control consisted of telephone calls every 2 weeks.
+MAIN OUTCOMES AND MEASURES:
+Exercise capacity measured as peak oxygen consumption (VO2, mL/kg/min; co-primary outcome) and QOL measured by the Minnesota Living with Heart Failure (MLHF) Questionnaire (score range: 0-105, higher scores indicate worse heart failure-related QOL; co-primary outcome).
+RESULTS:
+Of the 100 enrolled participants, 26 participants were randomized to exercise; 24 to diet; 25 to exercise + diet; 25 to control. Of these, 92 participants completed the trial. Exercise attendance was 84% (SD, 14%) and diet adherence was 99% (SD, 1%). By main effects analysis, peak VO2 was increased significantly by both interventions: exercise, 1.2 mL/kg body mass/min (95% CI, 0.7 to 1.7), P < .001; diet, 1.3 mL/kg body mass/min (95% CI, 0.8 to 1.8), P < .001. The combination of exercise + diet was additive (complementary) for peak VO2 (joint effect, 2.5 mL/kg/min). There was no statistically significant change in MLHF total score with exercise and with diet (main effect: exercise, -1 unit [95% CI, -8 to 5], P = .70; diet, -6 units [95% CI, -12 to 1], P = .08). The change in peak VO2 was positively correlated with the change in percent lean body mass (r = 0.32; P = .003) and the change in thigh muscle:intermuscular fat ratio (r = 0.27; P = .02). There were no study-related serious adverse events. Body weight decreased by 7% (7 kg [SD, 1]) in the diet group, 3% (4 kg [SD, 1]) in the exercise group, 10% (11 kg [SD, 1] in the exercise + diet group, and 1% (1 kg [SD, 1]) in the control group.
+CONCLUSIONS AND RELEVANCE:
+Among obese older patients with clinically stable HFPEF, caloric restriction or aerobic exercise training increased peak VO2, and the effects may be additive. Neither intervention had a significant effect on quality of life as measured by the MLHF Questionnaire.

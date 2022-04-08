@@ -1,0 +1,77 @@
+Offshore windenergie, onmisbaar en economisch verantwoord
+
+
+Offshore windenergie, onmisbaar en economisch verantwoord
+
+Offshore windenergie is een belangrijke pijler van het SER energie akkoord: de bouw van 3500 MW aan offshore windvermogen is gepland. De eis daartoe is dat kosten met 40% zullen dalen. In dit artikel wordt beargumenteerd en onderbouwd dat deze kostenreductie daadwerkelijk in 2023 kan worden bereikt.
+
+Inleiding
+
+Het is voor de Nederlandse samenleving noodzakelijk om op lange termijn volledig over te stappen op duurzame energiebronnen. Dit geldt enerzijds vanuit urgentie: eindigheid van de voorraad fossiele brandstoffen, veiligheid en afvalverwerking van kerncentrales, onafhankelijkheid in energievoorziening en klimatologische begrenzingen. Anderzijds geeft de verduurzaming van energiebronnen ook kansen: nationaal opgewekte energie zoals windenergie en zonne-energie stimuleren de economie en creëren hoogwaardige groene banen.
+
+De technische haalbaarheid van offshore windenergie is inmiddels wel bewezen getuige de ruim 60 offshore windparken met in totaal 9000 MW geïnstalleerd vermogen dat eind 2014 in bedrijf is. De kosteneffectiviteit is een belangrijk aandachtspunt. Om de grootschalige bouw van offshore windparken voort te zetten moeten bedrijven leren om dat efficiënter en effectiever te doen. Om kosten te verlagen en de daarvoor nodige innovaties in de praktijk te demonstreren is het noodzakelijk offshore windparken te bouwen die momenteel ondersteuning van de overheid vereisen.
+
+De windindustrie is er van overtuigd dat een 40% kostenreductie voor offshore windenergie haalbaar is in 2023 ten opzichte van 2010. Hierdoor zal de grootste stap zijn gezet dat offshore windenergie een financieel-economisch duurzaam alternatief is. Hiertoe zijn wereldwijd tientallen onderzoekprogramma's in uitvoering waarin door universiteiten, onderzoeksinstellingen en industrie wordt samengewerkt aan innovatieve oplossingen die de kosten verder verlagen.
+De Nederlandse overheid heeft in het Energie Akkoord belangrijke voorwaarden gesteld voor de verdere uitrol van offshore windenergie als onderdeel van de 16% duurzame energie in 2023 voor Nederland. Een belangrijke voorwaarde is het halen van de 40% kostenreductie doelstelling voor de kosten van offshore windenergie. Dit artikel beschrijft op welke wijze deze 40% kostenreductie gerealiseerd kan worden o.a. op basis van ECN innovaties en onderzoeksprogramma's.
+
+Kosten
+
+De kosten van offshore windenergie wordt uitgedrukt in Levelized Cost of Energy (LCoE) [€/MWh]. De LCoE wordt berekend door alle kosten die moeten worden gemaakt gedurende de hele levensduur van het wind park te delen door de netto energieproductie gedurende die periode.
+
+De kosten omvatten alle activiteiten die door alle actoren betrokken bij het realiseren van een offshore wind park worden uitgevoerd om windstroom aan het landelijke elektriciteitsnet te leveren. Dit omvat kosten van hardware (ontwerp, windturbines, fundamenten, kabels, transformatoren), kosten voor het verkrijgen van vergunningen, locatie onderzoek, milieuonderzoek, kosten van financiering, kosten van transport en installatie, kosten van beheer en onderhoud en kosten van verwijderen van een offshore windpark.
+
+In dit artikel beschrijven we de wijze waarop de kostenreductie van 40% behaald kan worden. Ter referentie beschouwen we hiertoe een windpark van 700 MW, 25 km uit de kust, bestaand uit 175 windturbines met elk een nominaal vermogen van 4 MW met een rotordiameter van 116,5 meter, aanbesteed in 2010. We hanteren de gemiddelde windcondities op 25 km voor de Nederlandse kust. Met het kostenmodel van ECN windenergie berekenen we de LCoE op basis van de referentie. Vervolgens worden innovaties en optimalisaties toegepast en de invloed op de LCoE beschreven.
+
+Kostenreductie strategieën
+
+Het op zee toepassen van grotere rotoren op turbines met gelijkblijvend maximaal vermogen heeft een tweetal belangrijke voordelen:
+
+Grotere opbrengst en een groter aantal equivalente vollasturen per jaar. Hiermee wordt de elektrische infrastructuur efficiënter gebruikt: meer kilowatturen met vrijwel gelijke investering.
+Een hogere voorspelbaarheid van de elektriciteit opbrengst wat leidt tot lagere onbalans kosten.
+
+De windturbines en de opgewekte energie worden door het opschalen niet vanzelf goedkoper. Zonder toepassen van technologische vernieuwingen, zoals innovatieve rotormaterialen en innovatieve constructies zouden de kosten zijn gestegen.
+De windenergie industrie er in is geslaagd steeds grotere turbines op de markt te zetten terwijl de opwekkosten op turbineniveau gelijke trend heeft gehouden met de afmetingen. De kostenreducties worden gerealiseerd in andere delen van het totaalsysteem. Denk bijvoorbeeld aan de fundaties, installatie, transport en onderhoud en de elektrische componenten en infrastructuur. Een windpark bestaande uit grotere turbines leidt ertoe dat turbines elkaar minder beïnvloeden.
+
+De vergroten van onderlinge afstanden tussen de windturbines leidt tot lagere verliezen door onderlinge zogwerking, terwijl de kosten van en de verliezen in de langere elektriciteit kabels in het windpark toenemen. ECN modellen tonen aan dat voor het referentiepark het vergroten van de onderlinge afstanden van 5 naar 9 maal de rotordiameter een kostenreductie in LCoE van maar liefst 6% inhoudt. Het vergroten van de kavels voor de volgende tranches in de Noordzee heeft daarmee aantoonbaar, directe invloed op de kosten.
+
+Onderhoud en beheer van offshore windparken levert veel groene banen en beslaat ongeveer 20% van de totale kosten. Innovaties op dit gebied doen ertoe. Er zijn schaalvoordelen door het delen van onderhoudsservices met naburige parken. Verbeterde monitoring en innovatief gebruik van beschikbare informatie verschuift correctief onderhoud (reageren op een storing) naar preventief onderhoud (condition-based onderhoud). Preventief onderhoud is substantieel goedkoper en zorgt ervoor dat storingen gedurende periodes met veel wind worden voorkomen. Hiermee kan tot 20% worden bespaard op deze kosten of wel 4% van de LCoE.
+
+
+Het ontwikkelen van onderdelen van een windpark kan niet los worden gezien van het hele windpark. Ondanks dat windpark ontwikkelaars een zo goed mogelijke optimalisatie uitvoeren is verdergaande integrale afstemming en optimalisatie mogelijk. De integrale ontwerp methodiek heeft ECN uitgevoerd op het referentie-windpark met de volgende aspecten: windmetingen en energie opbrengstschatting, selectie van windturbines, elektrische componenten, inter-array kabels en export kabels, logistiek en bijbehorende infrastructuur, O&M strategie en optimalisatie. Het effect van de verregaande integrale ontwerp methodiek op de kostenreductie van Offshore Windenergie bedraagt zo'n 6%.
+
+De kosten van financiering is een overkoepelend onderwerp, dat door alle aspecten van een offshore windpark wordt bepaald. De volgende verbeteringen worden verondersteld: Verbeterde track record van partijen door deelname aan andere succesvolle projecten. Verbeterde transparantie bij de aanbesteding van offshore projecten. Delen van de risico's tussen projectpartners. Financiering door overheid van demonstratie en validatie van innovaties. Reduceren van het aandeel eigen vermogen in de financiering. Grotere rol van de overheid bij vergunningen en surveys dan voorheen.
+
+De verhouding van eigen vermogen tot vreemd vermogen verschuift van 1:2 in 2010 tot 1:3 (¼ eigen, ¾ vreemd) in 2020. De interne rentevoet op het eigen vermogen vermindert van 15% tot 12,5% en de rente op vreemd vermogen van 7,5% naar 6%. Dat betekent dat kapitaalskosten dalen van 10% naar 7,6%.
+
+Voor de komende Nederlandse offshore windparken verzorgt TenneT de aansluiting van het park aan het hoogspanningsnet. TenneT realiseert hiermee een reductie van 10% op de kosten van energieopwekking door standaardisatie, inkoopvoordelen, systeem optimalisatie en leereffecten van de netaansluiting. Doordat TenneT de aansluiting realiseert reduceren de risico's van de ontwikkelaars wat de kosten van financiering positief beïnvloedt.
+
+Resultaten
+
+Met behulp van het kostenmodel van ECN windenergie zijn de beschreven innovaties en andere kosten-reducerende maatregelen doorgerekend. De procentuele reducties van de LCoE van de referentie situatie zijn weergegeven in tabel 3.
+
+Conclusies
+
+De uitgevoerde kostenanalyse door ECN toont dat een reductie van de LCoE van 40% voor offshore windparken binnen een periode van 10 jaar haalbaar is. De analyse is conservatief en er is uitzicht op verdere kostendaling na 2023. De aangetoonde kostenreductie van 40% wordt door verschillende actoren binnen de totale waardeketen gerealiseerd: de overheid, de projectontwikkelaar, de fabrikanten, de offshore bedrijven, de beheerders, de financiers en de netbeheerder.
+
+Kostenverlagende innovaties
+
+De bijdrage van innovaties aan de 41% kostenreductie zijn significant, ongeveer de helft. Innovaties aan offshore windparken dragen in totaal 21% bij aan de beschreven kostenreductie. Bij de bouw van nieuwe offshore windparken worden veel innovaties toegepast; een bijvoorbeeld is de snel ontwikkelende turbinetechnologie. Echter, in de praktijk zijn er belemmeringen om veelbelovende maatregelen toe te passen in het ontwerp van windparken.
+Niet-geverifieerde innovaties worden verondersteld extra risico's te vormen, waarmee de kosten stijgen voor het aantrekken van met name vreemd vermogen. De weg naar kostenverlagende innovaties kan wezenlijk worden verkort door het beschikken over effectieve offshore testfaciliteiten en laboratoria. Ontbrekende test- en demonstratie-faciliteiten moeten op zo kort mogelijke termijn beschikbaar komen. Realisatie van het Leeghwater offshore testpark laat feitelijk te lang op zich wachten.
+
+Bijlage 1 – diverse kostenaspecten offshore windparken
+
+Een overzicht van de verschillende categorieën kosten over de gehele levensduur van een offshore windpark.
+
+Tabel 1. Opbrengst en kosten categorieën van offshore windparken
+Energieopbrengst
+Hardware (technisch ontwerp wind park, wind turbines, draagconstructies)
+Elektrische infrastructuur (inter-array kabels, export kabels, transformator en convertor stations)
+Logistiek en Infrastructuur t.b.v. transport en bouw
+Installatie van wind turbines en infrastructuur, inclusief net aansluiting
+Projectontwikkeling tot en met financial close
+Bedrijf en Onderhoud (O&M)
+Ontmanteling en recycling
+
+Bijlage 2 – Overzicht parameters referentiepark en innovatief park
+
+De parameters van het referentiewindpark worden in tabel 2 getoond, samen met de parameters van het windpark na het toepassen van innovaties en andere kosten-reducerende maatregelen.

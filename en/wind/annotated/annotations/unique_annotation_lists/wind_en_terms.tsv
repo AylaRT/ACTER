@@ -1,0 +1,1091 @@
+active rotors	Specific_Term
+active yaw	Specific_Term
+active yaw drive	Specific_Term
+actuator disk	Specific_Term
+actuator disk model	Specific_Term
+actuator disk theory	Specific_Term
+aero-elastic	Specific_Term
+aerodynamic	Common_Term
+aerodynamic brakes	Specific_Term
+aerodynamic drag	Specific_Term
+aerodynamic force	Common_Term
+aerodynamic forces	Common_Term
+aerodynamic lift	Specific_Term
+aerodynamic loading	Specific_Term
+aerodynamic loads	Specific_Term
+aerodynamic stall	Specific_Term
+aerodynamically	Common_Term
+aerodynamics	Common_Term
+aeroelastic	Specific_Term
+aeroelastic dynamics	Specific_Term
+aerofoil	Specific_Term
+aggregate	OOD_Term
+air density	Common_Term
+air loads	Specific_Term
+air mass flow rate	Specific_Term
+air stream	Common_Term
+air turbine	Specific_Term
+airflow	Common_Term
+airfoil	Specific_Term
+airfoil drag	Specific_Term
+airfoil theory	Specific_Term
+airfoils	Specific_Term
+airscrew	Specific_Term
+anemometer	Specific_Term
+angle of attack	Specific_Term
+angles of attack	Specific_Term
+angular induction factor	Specific_Term
+angular induction factors	Specific_Term
+angular momentum	Specific_Term
+angular velocities	Specific_Term
+angular velocity	Specific_Term
+angular wind velocity	Specific_Term
+annular blade element	Specific_Term
+annular generator	Specific_Term
+annular rotor section	Specific_Term
+anthropogenic	Specific_Term
+anthropogenic emissions	Specific_Term
+anthropogenic greenhouse gas emissions	Specific_Term
+anthropogenic pollution	Specific_Term
+anthropogenic sources	Specific_Term
+arithmetic mean	OOD_Term
+aspect ratio	Specific_Term
+aspect-ratio	Specific_Term
+asynchronous machine	Specific_Term
+atmosphere	Common_Term
+automatic cable untwisting	Specific_Term
+axes	Common_Term
+axial	Specific_Term
+axial direction	Specific_Term
+axial force	Specific_Term
+axial induced velocity	Specific_Term
+axial induction factor	Specific_Term
+axial induction factors	Specific_Term
+axial momentum	Specific_Term
+axial momentum theory	Specific_Term
+axial thrust	Specific_Term
+axial velocities	Specific_Term
+axial velocity	Specific_Term
+axial vortex	Specific_Term
+axial wind velocity	Specific_Term
+axis	Common_Term
+axis-tilt	Specific_Term
+axisymmetric flow	Specific_Term
+axle	Specific_Term
+azimuth	Specific_Term
+azimuth angle	Specific_Term
+azimuth system	Specific_Term
+bade	Specific_Term
+balance-of-station	Specific_Term
+barge	Specific_Term
+basic frame	Specific_Term
+batteries	Common_Term
+bearing	Specific_Term
+bearing ring	Specific_Term
+bearings	Specific_Term
+bedplate	Specific_Term
+bem	Specific_Term
+bem theory	Specific_Term
+bernoulli function	Specific_Term
+bernoulli's constant	Specific_Term
+bernoulli's equation	Specific_Term
+betz limit	Specific_Term
+betz turbine	Specific_Term
+biomass energy	Specific_Term
+blade	Specific_Term
+blade angle	Specific_Term
+blade angles	Specific_Term
+blade articulation	Specific_Term
+blade axes	Specific_Term
+blade chord	Specific_Term
+blade chord length	Specific_Term
+blade chord-length	Specific_Term
+blade chord-length distribution	Specific_Term
+blade chordline	Specific_Term
+blade coning	Specific_Term
+blade deflection	Specific_Term
+blade design	Specific_Term
+blade element	Specific_Term
+blade element momentum	Specific_Term
+blade element momentum theory	Specific_Term
+blade element theory	Specific_Term
+blade element-momentum	Specific_Term
+blade element-momentum theory	Specific_Term
+blade elements	Specific_Term
+blade geometries	Specific_Term
+blade geometry	Specific_Term
+blade length	Specific_Term
+blade lengths	Specific_Term
+blade pitch	Specific_Term
+blade pitch angle	Specific_Term
+blade pitch systems	Specific_Term
+blade profile	Specific_Term
+blade radius	Specific_Term
+blade root	Specific_Term
+blade roots	Specific_Term
+blade rotation	Specific_Term
+blade setting angle	Specific_Term
+blade shape	Specific_Term
+blade span	Specific_Term
+blade stall	Specific_Term
+blade tip	Specific_Term
+blade tip speed	Specific_Term
+blade tips	Specific_Term
+blade twist	Specific_Term
+blade-element	Specific_Term
+blade-element momentum	Specific_Term
+blade-element momentum theory	Specific_Term
+blade-element theory	Specific_Term
+blade-tip	Specific_Term
+blades	Specific_Term
+bos	Specific_Term
+bound circulation	Specific_Term
+bound vortex	Specific_Term
+bound vortices	Specific_Term
+bound vorticitiy	Specific_Term
+bound vorticity	Specific_Term
+brake	Common_Term
+brake system	Common_Term
+brakes	Common_Term
+braking	Common_Term
+braking system	Common_Term
+braking systems	Common_Term
+breeze	Common_Term
+bull gear	Specific_Term
+cable	Common_Term
+cables	Common_Term
+camber	Specific_Term
+camberline	Specific_Term
+cantilevered	Specific_Term
+carbon	Common_Term
+carbon credits	Specific_Term
+carbon emission	Common_Term
+carbon emission factor	Specific_Term
+carbon intensive electricity	Specific_Term
+carbon-intensive generation	Specific_Term
+centrifugal air pump	Specific_Term
+centrifugal force	Specific_Term
+centrifugal forces	Specific_Term
+chord	Specific_Term
+chord length	Specific_Term
+chord length distribution	Specific_Term
+chord-length	Specific_Term
+chord-length distribution	Specific_Term
+chord-length distributions	Specific_Term
+chord-length ratio	Specific_Term
+chord-length variation	Specific_Term
+chord-lengths	Specific_Term
+chordlength	Specific_Term
+chordlength distribution	Specific_Term
+chordline	Specific_Term
+civil engineering	Common_Term
+clearance	Specific_Term
+climate	Common_Term
+climate change	Common_Term
+co2	Common_Term
+co2 emission	Common_Term
+co2 emission factor	Specific_Term
+co2 emission factors	Specific_Term
+co2 emissions	Common_Term
+co2 reductions	Common_Term
+co2e	Specific_Term
+coating	Common_Term
+coe	Common_Term
+colorado	Specific_Term
+composite fairings	Specific_Term
+concentrator	Specific_Term
+coned rotor	Specific_Term
+conservation of linear momentum	Specific_Term
+control panels	Common_Term
+converter	Specific_Term
+converters	Specific_Term
+corrosion	Common_Term
+cost of energy	Common_Term
+counter-rotating	Specific_Term
+counter-rotating blades	Specific_Term
+counter-rotation	Specific_Term
+counter-weight	Specific_Term
+coupled vibrations	Specific_Term
+coupling	Common_Term
+cp	Specific_Term
+cut- out wind speed	Specific_Term
+cut-in speed	Specific_Term
+cut-in wind speed	Specific_Term
+cut-out speed	Specific_Term
+cut-out wind speed	Specific_Term
+cyclic loads	Specific_Term
+darrieus rotor	Specific_Term
+deep earth electrodes	Specific_Term
+deep stall	Specific_Term
+differential equation	OOD_Term
+direct drive synchronous annular generator	Specific_Term
+direct drive transmission	Specific_Term
+disk brake	Specific_Term
+distribution of angle of attack	Specific_Term
+distribution system	Specific_Term
+dominant winds	Specific_Term
+downstream	Specific_Term
+downstream velocity	Specific_Term
+downstream wind speeds	Specific_Term
+downwind	Common_Term
+downwind hawt	Specific_Term
+downwind pressure	Specific_Term
+downwind rotor	Specific_Term
+downwind rotors	Specific_Term
+downwind turbines	Specific_Term
+drag	Specific_Term
+drag coefficient	Specific_Term
+drag coefficients	Specific_Term
+drag force	Specific_Term
+drag loads	Specific_Term
+drag losses	Specific_Term
+drag type	Specific_Term
+drag-to-lift ratio	Specific_Term
+drag/lift ratio	Specific_Term
+drive train	Specific_Term
+driven pile	Specific_Term
+driver	Specific_Term
+drop of pressure	Specific_Term
+dynamic	Common_Term
+dynamic loads	Specific_Term
+dynamic structural loads	Specific_Term
+dynamically	Common_Term
+dynamics	Common_Term
+earthed	Common_Term
+ecological	Common_Term
+effective radius	Specific_Term
+effective-radius	Specific_Term
+eia	Specific_Term
+electric	Common_Term
+electric capacity	Specific_Term
+electric generation	Common_Term
+electric power	Common_Term
+electric power network	Common_Term
+electric power supply	Common_Term
+electrical	Common_Term
+electrical energy	Common_Term
+electrical energy production	Common_Term
+electrical generator	Common_Term
+electrical network	Common_Term
+electrical output	Specific_Term
+electrical power	Common_Term
+electrical servo drives	Specific_Term
+electrical system	Common_Term
+electricity	Common_Term
+electricity distribution	Common_Term
+electricity distribution networks	Common_Term
+electricity generation	Common_Term
+electricity grid	Common_Term
+electricity line	Common_Term
+electricity meter	Common_Term
+electricity network	Common_Term
+electricity output	Common_Term
+electricity production	Common_Term
+electricity supply	Common_Term
+electrodes	Common_Term
+electromagnetic	Common_Term
+electromagnetic radiation	Common_Term
+electronic	Common_Term
+electronic power	Common_Term
+electronic power converters	Specific_Term
+electronic wind-direction sensor	Specific_Term
+electronics	Common_Term
+electrotechnical	Common_Term
+elemental power	Specific_Term
+elemental power coefficient	Specific_Term
+elemental thrust	Specific_Term
+elemental thrust force	Specific_Term
+elemental torque	Specific_Term
+elementary annulus	Specific_Term
+emission	Common_Term
+emission factor	Specific_Term
+emission factors	Specific_Term
+emission reduction	Common_Term
+emission reduction units	Specific_Term
+emission reductions	Common_Term
+emission reductions units	Specific_Term
+emissions	Common_Term
+emissions factor	Specific_Term
+emissions reduction	Common_Term
+emissions reduction credits	Specific_Term
+emitted	Common_Term
+empirical	OOD_Term
+enercon inverter	Specific_Term
+energy	Common_Term
+energy generation	Common_Term
+energy production	Common_Term
+energy yield	Specific_Term
+enfield-andreau turbine	Specific_Term
+enfield-andreau type of horizontal axis wind turbine	Specific_Term
+engineer	Common_Term
+engineering	Common_Term
+engineers	Common_Term
+environment	Common_Term
+environmental	Common_Term
+environmental impact	Common_Term
+environmental impact assessment	Specific_Term
+environmental impacts	Common_Term
+environmentally	Common_Term
+epoxy	Specific_Term
+equipotential bonding	Specific_Term
+equity capital	OOD_Term
+equity investors	OOD_Term
+ers	Common_Term
+eru	Specific_Term
+erus	Specific_Term
+extreme loads	Specific_Term
+far wake	Specific_Term
+far-wake	Specific_Term
+fast shaft	Specific_Term
+fatigue damage	Specific_Term
+fatigue life	Specific_Term
+fatigue loads	Specific_Term
+feed-in tariff	OOD_Term
+fixed blade pitch	Specific_Term
+fixed blade pitch angle	Specific_Term
+fixed isdn network	Specific_Term
+fixed pitch	Specific_Term
+fixed rotational speed rotor	Specific_Term
+fixed rotational three-bladed hawt	Specific_Term
+fixed-bottom technology	Specific_Term
+fixed-pitch	Specific_Term
+fixed-rotational speed turbine	Specific_Term
+flange-mounted	Specific_Term
+floating offshore wind turbine	Specific_Term
+floating offshore wind turbines	Specific_Term
+floating platform	Specific_Term
+floating platforms	Specific_Term
+floating turbine	Specific_Term
+floating turbines	Specific_Term
+floating wind turbine	Specific_Term
+floating wind turbine platforms	Specific_Term
+floating wind turbines	Specific_Term
+flow	Specific_Term
+flow angles	Specific_Term
+flow factor	Specific_Term
+flow field	Specific_Term
+flow path	Specific_Term
+flow paths	Specific_Term
+flow patterns	Specific_Term
+flow rate	Specific_Term
+flow state	Specific_Term
+flow states	Specific_Term
+flow velocity	Specific_Term
+flows	Specific_Term
+fluid drag	Specific_Term
+forced-air ventilation	Specific_Term
+fossil fuel	Common_Term
+fossil fuels	Common_Term
+foundation	Common_Term
+foundation earth electrodes	Specific_Term
+foundations	Common_Term
+four-bladed	Specific_Term
+four-point bearing	Specific_Term
+free stream	Specific_Term
+free stream velocity of wind	Specific_Term
+free stream wind speed	Specific_Term
+free vortex	Specific_Term
+free vortex sheets	Specific_Term
+free vortices	Specific_Term
+free yaw	Specific_Term
+free-stream	Specific_Term
+free-stream velocity	Specific_Term
+free-stream wind velocity	Specific_Term
+frictional drag	Specific_Term
+fuel	Common_Term
+fuels	Common_Term
+full-span pitch control	Specific_Term
+furling mechanism	Specific_Term
+gale	Common_Term
+gas	Common_Term
+gases	Common_Term
+gear	Common_Term
+gear ratio	Specific_Term
+gearbox	Common_Term
+gearing	Common_Term
+gearless	Specific_Term
+gears	Common_Term
+general momentum	Specific_Term
+general momentum theory	Specific_Term
+generator	Common_Term
+generator drive shaft	Specific_Term
+generators	Common_Term
+ghg	Common_Term
+ghg emission	Common_Term
+ghg emissions	Common_Term
+glass fibre	Common_Term
+glass fibre reinforced plastic	Specific_Term
+glass-fibre	Common_Term
+glass-fibre reinforced plastic	Specific_Term
+glauert empirical formula	Specific_Term
+glauert empirical relationship	Specific_Term
+glauert's empirical formula	Specific_Term
+glide ratio	Specific_Term
+glide ratios	Specific_Term
+global warming	Common_Term
+greenhouse gas	Common_Term
+greenhouse gas emission	Common_Term
+greenhouse gas emissions	Common_Term
+greenhouse gases	Common_Term
+grid	Common_Term
+grid connection	Common_Term
+grid failure	Common_Term
+grid-connected systems	Specific_Term
+grid-connected turbines	Specific_Term
+grid-connected wind turbine	Specific_Term
+grindstones	Common_Term
+grp	Specific_Term
+grp covering	Specific_Term
+gwh	Common_Term
+hawt	Specific_Term
+hawt airfoils	Specific_Term
+hawt blade	Specific_Term
+hawt blade design	Specific_Term
+hawt blades	Specific_Term
+hawt nacelle	Specific_Term
+hawt rotor	Specific_Term
+hawt rotor blades	Specific_Term
+hawt rotor design	Specific_Term
+hawt rotor hubs	Specific_Term
+hawt rotors	Specific_Term
+hawt tower	Specific_Term
+hawts	Specific_Term
+hco2	Specific_Term
+heat energy	Common_Term
+heat production	Common_Term
+high speed shaft	Specific_Term
+high voltage line	Common_Term
+high wind	Common_Term
+highspeed air turbine	Specific_Term
+horizontal axis wind turbine	Specific_Term
+horizontal axis wind turbines	Specific_Term
+horizontal rotor shaft	Specific_Term
+horizontal-axis european windmills	Specific_Term
+horizontal-axis wind turbine	Specific_Term
+horizontal-axis wind turbine blade	Specific_Term
+horizontal-axis wind turbine blade design	Specific_Term
+horizontal-axis wind turbine blades	Specific_Term
+horizontal-axis wind turbines	Specific_Term
+horizontal-axis windmill	Specific_Term
+horizontal-axis windmills	Specific_Term
+horizontalaxis wind turbines	Specific_Term
+housing	Specific_Term
+hub	Specific_Term
+hubs	Specific_Term
+hydraulic	Common_Term
+hydraulic brakes	Specific_Term
+hydraulic pressures	Specific_Term
+hydraulic-pressure	Specific_Term
+hydraulic-system	Specific_Term
+hydraulics	Common_Term
+hydrodynamic	Specific_Term
+hydrodynamically	Specific_Term
+hydrodynamics	Specific_Term
+hydroelastic	Specific_Term
+induced angular velocities	Specific_Term
+induced angular velocity	Specific_Term
+induced axial velocity	Specific_Term
+induced flow	Specific_Term
+induced velocities	Specific_Term
+induced velocity	Specific_Term
+induction factor	Specific_Term
+induction factors	Specific_Term
+industry	Common_Term
+inflow	Specific_Term
+installed capacities	Specific_Term
+installed capacity	Specific_Term
+installed power	Specific_Term
+intermittency transmission	Specific_Term
+internal rate of return	OOD_Term
+irr	OOD_Term
+irrotational	Specific_Term
+isometric	Specific_Term
+karman-tsien compressibility correction	Specific_Term
+kilowatt	Common_Term
+kinematic viscosity of air	Specific_Term
+kinetic	Specific_Term
+kinetic energy	Specific_Term
+ktco2	Specific_Term
+ktoe	Specific_Term
+kv	Common_Term
+kw	Common_Term
+kwh	Common_Term
+land-based wind energy	Specific_Term
+land-based wind turbine	Specific_Term
+land-based wind turbines	Specific_Term
+le	Specific_Term
+leading edge	Specific_Term
+least-square method	Specific_Term
+lift	Specific_Term
+lift coefficient	Specific_Term
+lift coefficients	Specific_Term
+lift force	Specific_Term
+lift forces	Specific_Term
+lift ratios	Specific_Term
+lightning protection	Common_Term
+lightning protection system	Common_Term
+linear momentum	Specific_Term
+linear momentum theory	Specific_Term
+load	Specific_Term
+load path	Specific_Term
+loaded	Specific_Term
+loading	Specific_Term
+loads	Specific_Term
+low-solidity rotor	Specific_Term
+mach number	Specific_Term
+machine	Common_Term
+machine bed	Specific_Term
+machine controls	Specific_Term
+machines	Common_Term
+magnetic fields	Common_Term
+magnus effect	Specific_Term
+main blade	Specific_Term
+main shaft	Specific_Term
+mains electricity supply	Common_Term
+mains power supply	Common_Term
+mains supply	Common_Term
+mass moment of inertia	Specific_Term
+mechanical	Common_Term
+mechanical brake	Specific_Term
+mechanical disk brake	Specific_Term
+mechanical power	Specific_Term
+mechanical transmission	Specific_Term
+mechanics	Common_Term
+mechanism	Common_Term
+mechanisms	Common_Term
+megawatt	Common_Term
+megawatts	Common_Term
+meteorological	Common_Term
+meteorological mast	Specific_Term
+methodology	OOD_Term
+mill	Common_Term
+millstones	Common_Term
+momentum	Common_Term
+momentum theories	Specific_Term
+momentum theory	Specific_Term
+monopile	Specific_Term
+mooring line tension	Specific_Term
+morison's equations assumption	Specific_Term
+motor	Common_Term
+motor power	Common_Term
+motors	Common_Term
+multi-bladed	Specific_Term
+mw	Common_Term
+mwh	Common_Term
+mwhe	Specific_Term
+nacelle	Specific_Term
+nacelle covering	Specific_Term
+nacelles	Specific_Term
+national grid	Common_Term
+natural gas	Common_Term
+net force	Specific_Term
+net present value	OOD_Term
+net swept area	Specific_Term
+network	Common_Term
+networks	Common_Term
+noise insulation	Common_Term
+nominal electric capacity	Specific_Term
+nominal electrical power	Specific_Term
+nominal power	Specific_Term
+nondimensionalized blade radius	Specific_Term
+nonlinear loads	Specific_Term
+nonrotating	Common_Term
+normal force	Specific_Term
+npv	OOD_Term
+nuclear energy	Common_Term
+nuclear power	Common_Term
+off-axis winds	Specific_Term
+offshore	Common_Term
+offshore development	Common_Term
+offshore floating wind turbines	Specific_Term
+offshore turbines	Specific_Term
+offshore wind	Common_Term
+offshore wind energy	Common_Term
+offshore wind energy technology	Common_Term
+offshore wind farm	Common_Term
+offshore wind farms	Common_Term
+offshore wind technologies	Specific_Term
+offshore wind technology	Common_Term
+offshore wind turbine	Common_Term
+offshore wind turbine technologies	Common_Term
+offshore wind turbine technology	Common_Term
+offshore wind turbines	Common_Term
+offshore winds	Common_Term
+offshore windturbines	Common_Term
+oil	Common_Term
+onshore	Common_Term
+onshore wind turbine	Common_Term
+operating expense	Specific_Term
+opex	Specific_Term
+orimulsion	Specific_Term
+outboard	Specific_Term
+outflow	Specific_Term
+output capacity	Specific_Term
+overvoltage	Specific_Term
+partialspan pitch control	Specific_Term
+passive yaw drive	Specific_Term
+pco2	Specific_Term
+peak performance	Common_Term
+peak power	Specific_Term
+persian mill	Specific_Term
+pinion gear	Specific_Term
+pitch	Specific_Term
+pitch angle	Specific_Term
+pitch control	Specific_Term
+pitch motors	Specific_Term
+pitch-change mechanism	Specific_Term
+pitch-change mechanisms	Specific_Term
+pitchable tips	Specific_Term
+pivoting tip vane	Specific_Term
+plane of rotation	Specific_Term
+planetary/spur gear system	Specific_Term
+plant	Common_Term
+plants	Common_Term
+pneumatically	Specific_Term
+pole-changeable	Specific_Term
+pole-changeable asynchronous generator	Specific_Term
+pole-changeable asynchronous machine	Specific_Term
+pollutants	Common_Term
+pollution	Common_Term
+power	Common_Term
+power cabinets	Common_Term
+power coefficient	Specific_Term
+power coefficients	Specific_Term
+power control	Specific_Term
+power curve	Specific_Term
+power electronic	Specific_Term
+power electronic converters	Specific_Term
+power electronics	Specific_Term
+power generation	Common_Term
+power grid	Common_Term
+power market	Common_Term
+power meter	Common_Term
+power network	Common_Term
+power output	Specific_Term
+power outputs	Specific_Term
+power performance	Specific_Term
+power performance prediction	Specific_Term
+power plant	Common_Term
+power plants	Common_Term
+power prediction	Specific_Term
+power production	Common_Term
+power purchase agreement	Specific_Term
+power station	Common_Term
+power stations	Common_Term
+power supply	Common_Term
+power train	Specific_Term
+power-train	Specific_Term
+powers	Common_Term
+ppa	Specific_Term
+prandtl model	Specific_Term
+prandtl tip loss model	Specific_Term
+prandtl's tip correction factor	Specific_Term
+pressure distribution	Common_Term
+pressure drop	Specific_Term
+pressure gradient	Specific_Term
+pressure increment	Specific_Term
+primary shaft	Specific_Term
+production capacity	Specific_Term
+propeller brake state	Specific_Term
+protection class ip 54	Specific_Term
+public private partnership	OOD_Term
+radial	Specific_Term
+radial blade element	Specific_Term
+radial centrifugal forces	Specific_Term
+radial coordinate	Specific_Term
+radial distance	Specific_Term
+radial distances	Specific_Term
+radial flow	Specific_Term
+radial thrust coefficient	Specific_Term
+radial velocity	Specific_Term
+radial wind velocity	Specific_Term
+radii	Specific_Term
+radius	Specific_Term
+rate of decrease of momentum	Specific_Term
+rated capacity	Specific_Term
+rated wind speed	Specific_Term
+rayleigh distribution	OOD_Term
+relative wind angle	Specific_Term
+relative wind angles	Specific_Term
+relative wind velocity	Specific_Term
+remote data monitoring	Specific_Term
+remote data monitoring software	Specific_Term
+remote data transmission	Specific_Term
+remote monitoring	Specific_Term
+renewable	Common_Term
+renewable electricity	Common_Term
+renewable electricity generation	Common_Term
+renewable energy	Common_Term
+renewable energy generation	Common_Term
+renewable energy resources	Common_Term
+renewable energy sources	Common_Term
+retardation factor	Specific_Term
+reynolds number	Specific_Term
+reynolds numbers	Specific_Term
+right angle gear mechanism	Specific_Term
+rigid hub	Specific_Term
+rna	Specific_Term
+roller bearings	Specific_Term
+root	Specific_Term
+roots	Specific_Term
+rotate	Common_Term
+rotates	Common_Term
+rotating	Common_Term
+rotation	Common_Term
+rotation speed	Common_Term
+rotational	Common_Term
+rotational energy	Specific_Term
+rotational momentum	Specific_Term
+rotational speed	Specific_Term
+rotational speed gearbox	Specific_Term
+rotational velocities	Specific_Term
+rotational velocity	Specific_Term
+rotor	Common_Term
+rotor axis	Common_Term
+rotor blade	Specific_Term
+rotor blades	Specific_Term
+rotor brake	Specific_Term
+rotor control	Specific_Term
+rotor design	Specific_Term
+rotor diameter	Common_Term
+rotor diameters	Common_Term
+rotor disk	Specific_Term
+rotor drive train	Specific_Term
+rotor geometry	Specific_Term
+rotor hub	Specific_Term
+rotor hubs	Specific_Term
+rotor loads	Specific_Term
+rotor lock	Specific_Term
+rotor nacelle assembly	Specific_Term
+rotor nacelle mass	Specific_Term
+rotor orientation	Specific_Term
+rotor performance	Specific_Term
+rotor plane	Specific_Term
+rotor power	Specific_Term
+rotor power coefficient	Specific_Term
+rotor radius	Specific_Term
+rotor rotation	Specific_Term
+rotor shaft	Specific_Term
+rotor speed	Common_Term
+rotor teetering	Specific_Term
+rotor thrust	Specific_Term
+rotor tips	Specific_Term
+rotor torque	Specific_Term
+rotornacelle	Specific_Term
+rotornacelle axis	Specific_Term
+rotors	Common_Term
+rpm	Common_Term
+sail	Specific_Term
+sails	Specific_Term
+savonius rotor	Specific_Term
+sawmills	Common_Term
+secondary shaft	Specific_Term
+servo drives	Specific_Term
+shadow effect	Specific_Term
+shadow flickering	Specific_Term
+shadowing effect	Specific_Term
+shaft	Specific_Term
+shafts	Specific_Term
+shell	Specific_Term
+single-bladed	Specific_Term
+single-bladed wind rotor	Specific_Term
+skin friction	Specific_Term
+slip-rings	Specific_Term
+slipstream	Specific_Term
+solidity ratio	Specific_Term
+sound-proofed grp covering	Specific_Term
+spanwise axes	Specific_Term
+spanwise flow	Specific_Term
+spar	Specific_Term
+spar-buoys	Specific_Term
+spars	Specific_Term
+stall	Specific_Term
+stall angle	Specific_Term
+stall-controlled	Specific_Term
+stall-controlled blades	Specific_Term
+stall-controlled rotors	Specific_Term
+stalled	Specific_Term
+stalls	Specific_Term
+standalone systems	Specific_Term
+start-stop cycles	Specific_Term
+starting torque	Specific_Term
+steady state	Specific_Term
+steel foils	Specific_Term
+stochastic load	Specific_Term
+stopping torque	Specific_Term
+storm	Common_Term
+storm protection shutdown	Specific_Term
+stream tube	Specific_Term
+streamline	Specific_Term
+streamtube	Specific_Term
+streamtubes	Specific_Term
+strip theory	Specific_Term
+subsonic isolated airfoils	Specific_Term
+sun power	Common_Term
+surface speed	Specific_Term
+sustainable	Common_Term
+sustainable electricity	Common_Term
+sustainable electricity generation	Common_Term
+sustainable fuel	Common_Term
+sustainable fuel source	Common_Term
+swept area	Specific_Term
+switchgear	Specific_Term
+synchronous generator	Specific_Term
+system operator	Common_Term
+t co2e	Specific_Term
+tail vane	Specific_Term
+tangential force	Specific_Term
+tangential forces	Specific_Term
+tco2	Specific_Term
+tco2e	Specific_Term
+te	Specific_Term
+technical	Common_Term
+technical wind energy potential	Specific_Term
+technically	Common_Term
+technicians	Common_Term
+techniques	Common_Term
+technological	Common_Term
+technologies	Common_Term
+technology	Common_Term
+teeter hinge	Specific_Term
+teeter motion	Specific_Term
+teetered	Specific_Term
+teetered hub	Specific_Term
+teetering	Specific_Term
+temperature sensors	Common_Term
+tension	Specific_Term
+tension leg platform	Specific_Term
+tension leg platforms	Specific_Term
+theoretical maximum power coefficient	Specific_Term
+thermal	Common_Term
+thermal power	Common_Term
+thermal power production	Common_Term
+three-bladed	Specific_Term
+three-bladed hawt	Specific_Term
+three-bladed hawt rotor	Specific_Term
+three-bladed rotor	Specific_Term
+three-bladed turbine	Specific_Term
+three-bladed wind turbine	Specific_Term
+three-bladed wind turbines	Specific_Term
+threebladed	Specific_Term
+thrust	Specific_Term
+thrust coefficient	Specific_Term
+thrust coefficients	Specific_Term
+thrust force	Specific_Term
+thrust loads	Specific_Term
+thrust per unit area	Specific_Term
+thyristors	Specific_Term
+tip	Specific_Term
+tip brake	Specific_Term
+tip cables	Specific_Term
+tip correction	Specific_Term
+tip loss	Specific_Term
+tip loss factor	Specific_Term
+tip losses	Specific_Term
+tip radius	Specific_Term
+tip speed	Specific_Term
+tip speed ratio	Specific_Term
+tip speed ratios	Specific_Term
+tip speeds	Specific_Term
+tip vane	Specific_Term
+tip-brakes	Specific_Term
+tip-controlled horizontal axis wind turbines	Specific_Term
+tip-loss	Specific_Term
+tip-loss effect	Specific_Term
+tip-loss factor	Specific_Term
+tip-losses	Specific_Term
+tip-peed	Specific_Term
+tip-peed ratio	Specific_Term
+tip-speed	Specific_Term
+tip-speed ratio	Specific_Term
+tip-speed ratios	Specific_Term
+tips	Specific_Term
+tipspeed	Specific_Term
+tipspeed ratio	Specific_Term
+tipspeed ratios	Specific_Term
+tlp	Specific_Term
+tne	Specific_Term
+toe	Specific_Term
+tonnes of co2 equivalent	Specific_Term
+tonnes of oil equivalents	Specific_Term
+torque	Specific_Term
+tower	Specific_Term
+tower base	Specific_Term
+tower clearance	Specific_Term
+tower shadow	Specific_Term
+tower shell	Specific_Term
+towers	Specific_Term
+trailing edge	Specific_Term
+trailing vortex	Specific_Term
+trailing vortex system	Specific_Term
+trailing vortices	Specific_Term
+transformer	Specific_Term
+transformers	Specific_Term
+transmission	Specific_Term
+transmission of power	Specific_Term
+transmission system operator	Specific_Term
+truss	Specific_Term
+tsr	Specific_Term
+turbine	Specific_Term
+turbine airfoils	Specific_Term
+turbine blades	Specific_Term
+turbine power	Specific_Term
+turbine power input	Specific_Term
+turbine power outputs	Specific_Term
+turbine rotor	Specific_Term
+turbine rotors	Specific_Term
+turbine shaft	Specific_Term
+turbine shaft assembly	Specific_Term
+turbines	Specific_Term
+turbulence	Common_Term
+turbulence loading	Specific_Term
+turbulent	Common_Term
+turbulent wake state	Specific_Term
+turbulent wind	Common_Term
+twist	Specific_Term
+twist angle	Specific_Term
+twist angle distribution	Specific_Term
+twist angle distributions	Specific_Term
+twist distribution	Specific_Term
+twist distributions	Specific_Term
+twisted	Specific_Term
+two-bladed	Specific_Term
+two-bladed hawt	Specific_Term
+two-bladed hawt rotor	Specific_Term
+two-bladed rotor	Specific_Term
+two-bladed turbine	Specific_Term
+two-bladed turbines	Specific_Term
+two-bladed wind turbines	Specific_Term
+two-stage, pole-changeable asynchronous machine	Specific_Term
+twobladed	Specific_Term
+twobladed rotor	Specific_Term
+unconed rotor	Specific_Term
+upstream	Specific_Term
+upwind	Common_Term
+upwind pressure	Specific_Term
+upwind rotor	Specific_Term
+upwind rotors	Specific_Term
+upwind turbines	Specific_Term
+utility grid	Common_Term
+v	Common_Term
+vane	Common_Term
+variable single blade pitch control	Specific_Term
+vawt	Specific_Term
+velocities	Common_Term
+velocity	Common_Term
+velocity of wind	Specific_Term
+vertical-axis persian windmills	Specific_Term
+vertical-axis turbine	Specific_Term
+vertical-axis wind turbine	Specific_Term
+vertical-axis wind turbines	Specific_Term
+vertical-axis windmill	Specific_Term
+vertical-axis windmills	Specific_Term
+vibration dampers	Specific_Term
+vibration-decoupling	Specific_Term
+viscosity	Common_Term
+voltage	Common_Term
+volts	Common_Term
+vortex	Specific_Term
+vortex line	Specific_Term
+vortex line of strength	Specific_Term
+vortex lines	Specific_Term
+vortex ring state	Specific_Term
+vortex rings	Specific_Term
+vortex sheet	Specific_Term
+vortex sheets	Specific_Term
+vortex system	Specific_Term
+vortex systems	Specific_Term
+vortex theory	Specific_Term
+vortex wake method	Specific_Term
+vortices	Specific_Term
+vorticitiy	Specific_Term
+vorticity	Specific_Term
+wake	Specific_Term
+wake rotation	Specific_Term
+wake velocities	Specific_Term
+watt	Common_Term
+wave loading	Specific_Term
+wave loads	Specific_Term
+weldments	Specific_Term
+wind	Common_Term
+wind angle	Specific_Term
+wind angles	Specific_Term
+wind direction	Common_Term
+wind direction sensor	Specific_Term
+wind energy	Common_Term
+wind energy conversion	Specific_Term
+wind energy converters	Specific_Term
+wind energy parks	Common_Term
+wind energy potential	Specific_Term
+wind engineering	Specific_Term
+wind farm	Common_Term
+wind farms	Common_Term
+wind field	Specific_Term
+wind flow	Specific_Term
+wind force	Common_Term
+wind forces	Common_Term
+wind generation	Specific_Term
+wind generators	Specific_Term
+wind industry	Common_Term
+wind loading	Specific_Term
+wind machine	Common_Term
+wind park	Common_Term
+wind parks	Common_Term
+wind power	Common_Term
+wind power electricity	Common_Term
+wind power generation	Common_Term
+wind power parks	Common_Term
+wind power plant	Common_Term
+wind power plants	Common_Term
+wind power station	Common_Term
+wind power station park	Common_Term
+wind power stations	Common_Term
+wind power stations park	Common_Term
+wind power technology	Common_Term
+wind power-plant	Common_Term
+wind power-plant park	Common_Term
+wind power-plants	Common_Term
+wind rotor	Specific_Term
+wind shear	Specific_Term
+wind speed	Common_Term
+wind speeds	Common_Term
+wind stream	Specific_Term
+wind thrust loads	Specific_Term
+wind tunnels	Common_Term
+wind turbine	Common_Term
+wind turbine airfoil	Specific_Term
+wind turbine blade	Specific_Term
+wind turbine blades	Specific_Term
+wind turbine generator	Common_Term
+wind turbine generators	Common_Term
+wind turbine housing	Specific_Term
+wind turbine power production	Specific_Term
+wind turbine rotor	Common_Term
+wind turbine rotors	Common_Term
+wind turbine technology	Common_Term
+wind turbine tower	Specific_Term
+wind turbines	Common_Term
+wind vane	Common_Term
+wind velocities	Specific_Term
+wind velocity	Specific_Term
+wind-direction	Common_Term
+wind-direction sensor	Specific_Term
+wind-tunnel	Specific_Term
+windfarm	Common_Term
+windings	Specific_Term
+windmill	Common_Term
+windmill state	Specific_Term
+windmills	Common_Term
+winds	Common_Term
+windturbines	Common_Term
+working range	Specific_Term
+wps	Common_Term
+yaw	Specific_Term
+yaw drive	Specific_Term
+yaw orientation	Specific_Term
+yaw rotors	Specific_Term
+yaw system	Specific_Term
+yawed	Specific_Term
+yawed flow	Specific_Term
+yawing	Specific_Term
+yaws	Specific_Term

@@ -1,0 +1,9 @@
+Comparative effects of ventricular assist device and extracorporeal membrane oxygenation on renal function in pediatric heart failure.
+BACKGROUND:
+Effects of mechanical cardiac support on renal function in children with end-stage heart failure are unknown. The objective of this study was to investigate the impact of ventricular assist device (VAD) and extracorporeal membrane oxygenation (ECMO) on renal function in children.
+METHODS:
+We performed a single center retrospective observational study in children with end-stage heart failure supported on pediatric mechanical cardiac support. The patient population was divided into three groups: the VAD group included patients receiving ventricular assist device support; the ECMO group included patients receiving extracorporeal membrane oxygenation membrane support for more than 14 days; and the ECMO+VAD group included patients receiving ECMO followed by VAD support. Comparison of baseline characteristics, duration of mechanical cardiac support, and renal function was made between the three groups.
+RESULTS:
+During the study period, there were 23 patients in the VAD group, 16 patients in the ECMO+VAD group, and 37 patients in the ECMO group. The patients in the ECMO group were significantly younger and smaller than the patients in the VAD and ECMO+VAD groups. There was a steady improvement in eGFR in the VAD group and the ECMO+VAD group until day 7 after which there was a decline in renal function. In the ECMO group, the improvement in eGFR continued until day 28 after which there was a steady decline in eGFR. Improvement in eGFR in the VAD group and the ECMO+VAD group was much higher than in the ECMO group in the first 7 days.
+CONCLUSIONS:
+On the basis of these data, we demonstrate that renal dysfunction improves early after mechanical cardiac support.

@@ -1,0 +1,9 @@
+Left ventricular ejection time in acute heart failure complicating precapillary pulmonary hypertension.
+BACKGROUND:
+Novel noninvasive tools may improve the management of patients with pulmonary hypertension (PH) experiencing heart failure. Major right ventricle overload leads to decreased stroke volume, which shortens left ventricular ejection time (LVET). Our arterial tonometry study tested the hypothesis that LVET carries prognostic value in patients with precapillary PH with heart failure.
+METHODS:
+Clinical, biologic, and radial artery tonometry variables were prospectively obtained at admission and at day 3 to 5 in 53 consecutive patients with PH admitted to our ICU for clinical deterioration. LVET was measured from the reconstructed aortic pressure curve.
+RESULTS:
+Overall ICU mortality (median stay, 5 days) was 17%. At admission, the LVET was shorter in patients with unfavorable outcome (median, 228 milliseconds [25th-75th percentiles, 212-278 milliseconds] vs 257 milliseconds [237-277 milliseconds], P = .032), whereas other tonometric indices were similar. The LVET at entry (237 milliseconds) had 73% sensitivity and 89% specificity for identifying death in the ICU. Other prognostic factors at admission were higher serum levels of brain natriuretic peptide (BNP) and creatinine and lower natremia. Dobutamine requirement, higher furosemide dose, and higher oxygen flow were associated with unfavorable outcome. At the second evaluation, higher serum levels of creatinine and BNP, higher furosemide dose and oxygen flow, and dobutamine or norepinephrine requirement were associated with poor outcome. The change in LVET between admission and follow-up measurement was not associated with outcome. The 90-day mortality was 28%.
+CONCLUSIONS:
+Shortened LVET at ICU admission was a prognostic factor in patients with precapillary PH with heart failure. Previously documented prognostic factors were also confirmed in this cohort.

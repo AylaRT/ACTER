@@ -1,0 +1,18 @@
+Behandeling van hartfalen op geleide van (NT-pro)BNP
+
+Waarom dit onderzoek?
+De meerwaarde van behandeling van hartfalen op geleide van B-type natriuretische peptiden (BNP of NT-proBNP) is onzeker en lijkt afhankelijk van de linkerventrikelfunctie, leeftijd en comorbiditeit.
+
+Onderzoeksvraag
+Bij welke patiënten met chronisch hartfalen leidt behandeling op geleide van (NT-pro)BNP tot betere resultaten dan behandeling op geleide van symptomen?
+
+Hoe werd dit onderzocht?
+De onderzoekers poolden de individuele data van 2137 patiënten uit 8 gerandomiseerde studies waarin het effect van behandeling van hartfalen op geleide van (NT-pro)BNP was onderzocht. De uitkomstmaten waren mortaliteit en ziekenhuisopname voor hartfalen. De follow-upduur bedroeg 2 jaar. Met behulp van Cox' regressieanalyse werd de invloed van de linkerventrikelfunctie, leeftijd en comorbiditeit (hypertensie, nierinsufficiëntie, COPD, diabetes, CVA, perifeer vaatlijden) bepaald.
+
+Belangrijkste resultaten
+Bij patiënten met hartfalen met verminderde (< 45%) ejectiefractie resulteerde behandeling op geleide van (NT-pro)BNP, vergeleken met behandeling op geleide van symptomen, in een lagere sterfte (hazardratio (HR): 0,78; 95%-BI: 0,62-0,97) en minder ziekenhuisopnames voor hartfalen (HR: 0,80; 95%-BI: 0,67-0,97). Het effect op sterfte werd overigens alleen gezien bij patiënten jonger dan 75 jaar. Dit wordt toegeschreven aan het feit dat ouderen meer comorbiditeit hebben en dat deze comorbiditeit vooral de prognose bepaalt en een eventueel effect van (NT-pro)BNP-geleide behandeling overschaduwt.
+
+Bij patiënten met hartfalen bij een behouden ejectiefractie had behandeling op geleide van (NT-pro)BNP echter geen effect op sterfte (HR: 1,22; 0,76-1,96) of ziekenhuisopname (HR: 1,01; 0,67-1,53).
+
+Consequenties voor de praktijk
+Relatief jonge patiënten met hartfalen en een verminderde ejectiefractie hebben baat bij behandeling van hun hartfalen op geleide van (NT-pro)BNP, vooral als zij weinig comorbiditeit hebben. Deze aanpak heeft echter geen meerwaarde bij een behandeling voor hartfalen met behouden ejectiefractie. Dat is overigens niet verrassend, omdat voor deze vorm van hartfalen weinig bewezen therapieën beschikbaar zijn.

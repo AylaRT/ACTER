@@ -1,0 +1,15 @@
+Does reducing length of stay increase rehospitalization of medicare fee-for-service beneficiaries discharged to skilled nursing facilities?
+OBJECTIVES:
+To analyze the relationship between length of stay and rehospitalization.
+DESIGN:
+Retrospective cohort study.
+SETTING:
+Six thousand five hundred thirty-seven hospitals nationwide from January 1999 through September 2005.
+PARTICIPANTS:
+Medicare fee-for-service beneficiaries associated with 2,101,481 hospitalizations.
+MEASUREMENTS:
+Thirty-day rehospitalization derived from Medicare hospital claims using the implementation of Medicare's post-acute care transfer policy as a quasi-experiment.
+RESULTS:
+Medicare's post-acute care transfer policy led to immediate declines in length of stay. A 1-day decrease in length of stay was associated with an absolute increase in 30-day rehospitalization of 1.56 percentage points (95% confidence interval (CI) = 0.30-2.82) for acute myocardial infarction (AMI) with major complications and 0.81 percentage points (95% CI = 0.03-1.60) for kidney infection or urinary tract infection (UTI) without major complications. Individuals hospitalized for AMI without major complications, heart failure, or kidney infection or UTI with major complications had no increase in 30-day rehospitalization.
+CONCLUSION:
+A 1-day reduction in hospital length of stay was not consistently associated with a higher rate of rehospitalization.

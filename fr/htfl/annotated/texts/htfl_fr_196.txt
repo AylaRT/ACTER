@@ -1,0 +1,15 @@
+Introduction
+
+La mort subite (MS) et la mort cardiaque non subite sont responsables de la majorité des décès chez les patients ayant une insuffisance cardiaque. Nous avons cherché à déterminer l'influence de la comorbidité de la maladie (indice de comorbidité de Charlson [ICC]) sur les causes concurrentes de mortalité dans l'insuffisance cardiaque.
+
+Méthodes
+
+Une analyse rétrospective a été réalisée auprès de 824 patients suivis dans une clinique de soins tertiaires pour une insuffisance cardiaque. Nous avons analysé l'incidence cumulative de la mort subite et non subite. La régression des risques concurrents a été utilisée pour examiner le lien entre les comorbidités médicales et les causes de décès. Les résultats recherchés étaient la mortalité globale, la MS, la MS et/ou le traitement par défibrillateur automatique implantable approprié (DAI), et la mort non subite.
+
+Résultats
+
+L'âge moyen de la population étudiée était de 64,1 ± 14,7 ans, dont 68,6 % était des hommes, et la fraction d'éjection moyenne était de 32,8 % ± 13,5 %. Sur un suivi moyen de 4,4 ans, 229 patients (27,8 %) sont morts. La MS a représenté 33 décès (14,4 %), alors que la MS et le traitement avec un DAI approprié sont survenus chez 56 patients (24,5 %). Le risque de mort non subite et la mortalité totale a augmenté (P < 0,0001) comme le ICC augmentait, alors que le risque de mort subite a diminué (P = 0,03). L'incidence cumulative de la mort subite, la mort subite et/ou la tachycardie/fibrillation ventriculaire, et la mort non subite après 5 ans, était de 5,6 %, 9,1 %, et 27,8 %, respectivement. Dans l'analyse du risque concurrent multifactorielle, l'âge avancé, la classification selon la New York Heart Association et un ICC > 4 étaient significativement associés à la mort non subite.
+
+Conclusion
+
+Les patients ayant une insuffisance cardiaque avec des comorbidités importantes sont probablement plus à risque d'une mort non subite. Ces découvertes peuvent avoir des implications dans la sélection optimale des patients ayant une insuffisance cardiaque pour des interventions comme le traitement par DAI prophylactique.

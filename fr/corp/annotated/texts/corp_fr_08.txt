@@ -1,0 +1,155 @@
+DÉCISION (UE) 2016/456 DE LA BANQUE CENTRALE EUROPÉENNE
+
+du 4 mars 2016
+
+relative aux conditions et modalités des enquêtes effectuées par l'Office européen de lutte antifraude au sein de la Banque centrale européenne en matière de lutte contre la fraude, la corruption et toute autre activité illégale portant atteinte aux intérêts financiers de l'Union (BCE/2016/3)
+
+(refonte)
+
+LE CONSEIL DES GOUVERNEURS DE LA BANQUE CENTRALE EUROPÉENNE, vu le traité sur le fonctionnement de l'Union européenne, vu les statuts du Système européen de banques centrales et de la Banque centrale européenne, et notamment leur article 12.3, vu le règlement (UE, Euratom) no 883/2013 du Parlement européen et du Conseil du 11 septembre 2013 relatif aux enquêtes effectuées par l'Office européen de lutte antifraude (OLAF) et abrogeant le règlement (CE) no 1073/1999 du Parlement européen et du Conseil ainsi que le règlement (Euratom) no 1074/1999 du Conseil (1), et notamment son article 4, paragraphes 1 et 7, considérant ce qui suit:
+
+(1)
+Le règlement (UE, Euratom) no 883/2013 prévoit que l'Office européen de lutte antifraude (ci-après l'«Office») ouvre et conduit des enquêtes administratives antifraude (ci-après les «enquêtes internes») au sein des institutions, des organes et des organismes institués par les traités ou sur la base de ceux-ci, en vue de lutter contre la fraude, la corruption et toute autre activité illégale portant atteinte aux intérêts financiers de l'Union. À cet effet, il enquête sur les faits graves, liés à l'exercice d'activités professionnelles, constituant un manquement aux obligations des fonctionnaires et agents de l'Union susceptible de poursuites disciplinaires, et, le cas échéant, de poursuites pénales, ou un manquement analogue aux obligations des membres des institutions et organes, des dirigeants des organismes ou des membres du personnel des institutions, organes et organismes non soumis au statut des fonctionnaires de l'Union ni au régime applicable aux autres agents de l'Union (ci-après le «statut
+
+(2)
+Pour la Banque centrale européenne (BCE), ces devoirs et obligations professionnels, notamment les obligations relatives à la conduite professionnelle et au secret professionnel, sont énoncés dans: a) les conditions d'emploi du personnel de la BCE; b) les règles applicables au personnel de la BCE; c) l'annexe IIb des conditions d'emploi concernant les conditions d'emploi des titulaires de contrats de travail de courte durée; et d) les règles de la BCE applicables aux titulaires de contrats de travail de courte durée, et des précisions complémentaires sont données dans: e) le code de conduite des membres du conseil des gouverneurs (2); f) le code complémentaire d'éthique professionnelle applicable aux membres du directoire de la BCE (3); et g) le code de conduite des membres du conseil de surveillance prudentielle de la BCE (4) (dénommés ci-après ensemble les «conditions d'emploi de la BCE»).
+
+(3)
+L'article 4, paragraphe 1, du règlement (UE, Euratom) no 883/2013 prévoit que, dans le cadre de la protection des intérêts financiers de l'Union et de la lutte contre la fraude et contre toute autre activité illégale portant atteinte aux intérêts financiers de l'Union, l'Office «effectue les enquêtes administratives au sein des institutions, des organes et des organismes» conformément aux conditions prévues par le règlement (UE, Euratom) no 883/2013 et par les décisions que chaque institution, organe ou organisme adopte. L'article 4, paragraphe 7, du règlement (UE, Euratom) no 883/2013 prévoit que chaque institution, organe et organisme doit adopter une décision qui «comprend notamment une règle relative à l'obligation, pour les fonctionnaires, les autres agents, les membres des institutions ou des organes, les dirigeants d'organismes ou les membres du personnel de coopérer avec l'Office et d'informer ce dernier, tout en garantissant la confidentialité de l'enquête interne». Conformément à la jurisprudence de l'Union, l'Office ne peut ouvrir une enquête que sur la base de soupçons suffisamment sérieux (5).
+
+(4)
+Selon le considérant 12 du règlement (UE, Euratom) no 883/2013, les enquêtes devraient être conduites conformément aux traités, et notamment au protocole no 7 sur les privilèges et immunités de l'Union européenne, et devraient respecter à la fois le statut, les droits de l'homme et les libertés fondamentales, notamment le principe d'équité, le droit pour les personnes impliquées de s'exprimer sur les faits qui les concernent et le principe selon lequel seuls les éléments ayant une valeur probante peuvent fonder les conclusions d'une enquête, ainsi que les principes généraux communs aux États membres et reconnus par la Cour de justice de l'Union européenne, tels que, par exemple, la confidentialité de la consultation juridique («secret professionnel»). À cet effet, les institutions, organes et organismes devraient prévoir les conditions et modalités selon lesquelles les enquêtes internes doivent être exécutées.
+
+(5)
+La décision BCE/2004/11 (6) a été adoptée pour fixer les conditions auxquelles les enquêtes internes effectuées conformément au règlement (CE) no 1073/1999 du Parlement européen et du Conseil (7) devaient être conduites au sein de la BCE. Il est nécessaire de réviser le cadre juridique actuel afin de tenir compte de l'abrogation du règlement (CE) no 1073/1999 et de son remplacement par le règlement (UE, Euratom) no 883/2013, ainsi que de la création de nouveaux organes au sein de la BCE depuis l'adoption de la décision BCE/2004/11.
+
+(6)
+Le règlement (UE) no 1024/2013 du Conseil (8) a créé le conseil de surveillance prudentielle en tant qu'organe interne de la BCE destiné à prévoir età exécuter les missions spécifiques, ayant trait aux politiques en matière de surveillance prudentielle des établissements de crédit, confiées à la BCE. Conformément à l'article 24, paragraphe 1, et à l'article 25, paragraphe 5, du règlement (UE) no 1024/2013, la BCE a mis en place une commission administrative de réexamen (9) et un comité de médiation (10). En outre, conformément à l'article 3, paragraphe 1, et à l'article 143, paragraphe 1, du règlement (UE) no 468/2014 de la Banque centrale européenne (BCE/2014/17) (11), la BCE a mis en place des équipes de surveillance prudentielle conjointe destinées à la surveillance prudentielle de chaque entité importante soumise à la surveillance prudentielle ou groupe soumis à la surveillance prudentielle, ainsi que des équipes d'inspection sur place. Par la suite, conformément, respectivement, aux articles 9 bis et 9 ter du règlement intérieur de la BCE (12), la BCE a constitué un comité d'éthique professionnelle (13) et un comité d'audit.
+
+(7)
+Il convient d'appliquer la présente décision aux membres des équipes de surveillance prudentielle conjointe et aux membres des équipes d'inspection sur place non régis par les conditions d'emploi de la BCE. Les membres du personnel des autorités compétentes nationales qui font partie d'équipes de surveillance prudentielle conjointe et d'équipes d'inspection sur place entrent dans la sphère de contrôle de la BCE pour les questions liées à leur travail effectué lors de missions confiées à la BCE par le règlement (UE) no 1024/2013. L'article 6, paragraphe 1, du règlement (UE) no 1024/2013 dispose que la BCE est chargée de veiller au fonctionnement efficace et cohérent du mécanisme de surveillance unique (MSU). Selon l'article 6, paragraphe 1, et l'article 146, paragraphe 1, du règlement (UE) no 468/2014 (BCE/2014/17), les membres des équipes de surveillance prudentielle conjointe et des équipes d'inspection sur place sont soumis aux instructions du coordinateur de leur équipe respective. Ces dispositions s'appuient sur l'article 6, paragraphe 7, du règlement (UE) no 1024/2013, qui fait obligation à la BCE d'adopter un cadre visant à organiser les modalités pratiques de la mise en œuvre de la coopération au sein du MSU.
+
+(8)
+En adoptant la présente décision, il appartient à la BCE de justifier toute restriction aux enquêtes internes portant atteinte aux missions et devoirs spécifiques confiés à la BCE par les articles 127 et 128 du traité et par le règlement (UE) no 1024/2013. De telles restrictions devraient garantir la confidentialité requise pour certaines informations de la BCE et assurer la mise en œuvre de la volonté du législateur de renforcer la lutte contre la fraude. En dehors du cadre de ces missions et devoirs spécifiques, la BCE devrait être traitée, également aux fins de la présente décision, comme une entité publique semblable aux autres institutions et organes de l'Union.
+
+(9)
+Dans des cas exceptionnels, la diffusion, en dehors de la BCE, de certaines informations confidentielles détenues par celle-ci pour l'exécution de ses missions pourrait porter gravement atteinte au fonctionnement de la BCE. Dans de tels cas, il convient que la décision d'accorder à l'Office l'accès à certaines informations ou de lui transmettre certaines informations soit prise par le directoire. Il devrait être donné accès aux informations de plus d'un an dans les domaines tels que les décisions de politique monétaire ou les opérations liées à la gestion des réserves de change et aux interventions sur les marchés des changes. Les restrictions apportées dans d'autres domaines, par exemple en lien avec des informations concernant les missions confiées à la BCE par le règlement (UE) no 1024/2013, les données relatives à la stabilité du système financier ou des établissements de crédit transmises à la BCE par les autorités compétentes nationales et les informations relatives aux signes de sécurité et aux spécifications techniques des billets en euros, actuels et futurs, ne devraient pas porter sur des périodes particulières. Bien qu'il convienne que la présente décision restreigne l'étendue des informations, dont la diffusion hors de la BCE pourrait porter gravement atteinte au fonctionnement de cette dernière, à certains domaines d'activité particuliers, il y a lieu de prévoir la possibilité d'adapter la décision à toute évolution imprévue, afin de garantir que la BCE continue de remplir les missions que le traité lui confie.
+
+(10)
+Il convient, dans la présente décision, de tenir compte du fait que les membres du conseil des gouverneurs et du conseil général de la BCE qui ne sont pas aussi membres du directoire de la BCE exercent des fonctions nationales en plus de leurs fonctions au sein du Système européen de banques centrales (SEBC), et que les membres du conseil de surveillance prudentielle, du comité de médiation, des équipes de surveillance prudentielle conjointe et des équipes d'inspection sur place de la BCE qui représentent les autorités compétentes nationales des États membres participants exercent aussi des fonctions nationales en plus de leurs missions au titre du règlement (UE) no 1024/2013. L'exercice de ces fonctions nationales relève du droit national et se trouve en dehors du champ d'application des enquêtes internes de l'Office. Par conséquent, il convient d'appliquer uniquement la présente décision aux activités professionnelles que ces personnes exercent en leur qualité de membres du conseil des gouverneurs, du conseil général, du conseil de surveillance prudentielle, du comité de médiation, des équipes de surveillance prudentielle conjointe et des équipes d'inspection sur place de la BCE.
+
+(11)
+Il convient, dans la présente décision, de tenir aussi compte de la possibilité que les membres externes de la commission administrative de réexamen, du comité d'audit et du comité d'éthique professionnelle de la BCE exercent d'autres fonctions en plus des mandats qui leur sont confiés. Or, l'exercice de telles fonctions se trouve en dehors du champ d'application des enquêtes internes de l'Office. Par conséquent, il convient d'appliquer uniquement la présente décision aux activités professionnelles que ces personnes exercent en leur qualité de membres de la commission administrative de réexamen, du comité d'audit ou du comité d'éthique professionnelle de la BCE.
+
+(12)
+L'article 37.1 des statuts du Système européen de banques centrales et de la Banque centrale européenne (ci-après les «statuts du SEBC») dispose que les membres des organes de décision et du personnel de la BCE sont tenus, même après la cessation de leurs fonctions, de ne pas divulguer les informations qui, par leur nature, sont couvertes par le secret professionnel. L'article 27, paragraphe 1, du règlement (UE) no 1024/2013 dispose que les membres du conseil de surveillance, le personnel de la BCE et le personnel détaché par les États membres participants exerçant des fonctions de surveillance sont soumis, même après la cessation de leurs fonctions, aux mêmes exigences de secret professionnel. La même disposition figure, pour les membres de la commission administrative de réexamen de la BCE et leurs suppléants ainsi que pour les membres du comité d'éthique professionnelle de la BCE, respectivement à l'article 22, paragraphe 1, de la décision BCE/2014/16 et à l'article 2, paragraphe 4, de la décision (UE) 2015/433 (BCE/2014/59). Conformément au paragraphe 6 du mandat du comité d'audit (14), les membres du comité d'audit ne doivent divulguer aucune information à caractère confidentiel, dont ils prennent connaissance dans l'exercice de leurs fonctions, à des personnes ou à des organes extérieurs à la BCE et à l'Eurosystème. En vertu de l'article 10 du règlement (UE, Euratom) no 883/2013, l'Office et ses agents sont soumis aux mêmes règles de confidentialité et de secret professionnel que celles qui s'appliquent au personnel de la BCE en vertu des statuts du SEBC et des conditions d'emploi de la BCE.
+
+(13)
+Conformément à l'article 7, paragraphe 3, du règlement (UE, Euratom) no 883/2013, les autorités compétentes nationales, en conformité avec la réglementation nationale, apportent le concours nécessaire au personnel de l'Office pour lui permettre d'accomplir efficacement sa mission. Le gouvernement de la République fédérale d'Allemagne et la BCE sont signataires d'un accord de siège en date du 18 septembre 1998 (15), qui porte application du protocole no 7 sur les privilèges et immunités de l'Union européenne en ce qui concerne la BCE et renferme des dispositions relatives à l'inviolabilité des locaux de la BCE, de ses archives et de ses communications, et concernant les privilèges et immunités diplomatiques des membres du directoire de la BCE.
+
+(14)
+Étant donné le remplacement du règlement (CE) no 1073/1999 par le règlement (UE, Euratom) no 883/2013 et le nombre important de modifications nécessaires, il convient d'abroger la décision BCE/2004/11 et de la remplacer par la présente décision,
+
+A ADOPTÉ LA PRÉSENTE DÉCISION:
+Article premier
+
+Champ d'application
+
+La présente décision s'applique: aux membres du conseil des gouverneurs et du conseil général de la BCE, pour les questions liées à l'exercice de leurs fonctions de membres de ces organes de décision de la BCE, aux membres du directoire de la BCE, aux membres du conseil de surveillance prudentielle de la BCE, pour les questions liées à l'exercice de leurs fonctions de membres de cet organe, aux membres de la commission administrative de réexamen de la BCE, pour les questions liées à l'exercice de leurs fonctions de membres de cet organe, aux membres du comité de médiation de la BCE, pour les questions liées à l'exercice de leurs fonctions de membres de cet organe, aux membres du comité d'audit de la BCE, pour les questions liées à l'exercice de leurs fonctions de membres de cet organe, aux membres du comité d'éthique professionnelle de la BCE, pour les questions liées à l'exercice de leurs fonctions de membres de cet organe, aux membres des organes de direction et à tout membre du personnel des banques centrales nationales ou des autorités nationales compétentes qui participent aux réunions du conseil des gouverneurs, du conseil général et du conseil de surveillance prudentielle de la BCE en tant que suppléants et/ou en tant qu'accompagnateurs, pour les questions liées à l'exercice de cette fonction, (ci-après conjointement dénommés les «participants aux organes de décision ou aux autres organes»), et  aux membres permanents ou temporaires du personnel de la BCE, qui sont soumis aux conditions d'emploi de la BCE, aux personnes travaillant pour la BCE dont la relation avec celle-ci ne repose pas sur un contrat de travail, y compris les membres du personnel des autorités compétentes nationales qui font partie d'équipes de surveillance prudentielle conjointe et d'équipes d'inspection sur place, pour les questions liées au travail qu'elles accomplissent pour la BCE (ci-après conjointement dénommés les «personnes concernées»).
+
+Article 2
+
+Obligation de coopérer avec l'Office
+
+Sans préjudice des dispositions pertinentes des traités, du protocole no 7 sur les privilèges et immunités de l'Union européenne, des statuts du SEBC et du statut, dans le plein respect des droits de l'homme et des libertés fondamentales ainsi que des principes généraux communs aux États membres, et sous réserve des procédures prévues par le règlement (UE, Euratom) no 883/2013 et des règles énoncées dans la présente décision, les participants aux organes de décision ou aux autres organes de décision ainsi que les personnes concernées coopèrent avec l'Office et informent ce dernier, tout en garantissant la confidentialité de l'enquête interne.
+Article 3
+
+Obligation d'information concernant une activité illégale
+
+1.   Lorsque des personnes concernées prennent connaissance d'informations laissant soupçonner l'existence d'éventuels cas de fraude ou de corruption ou de toute autre activité illégale portant atteinte aux intérêts financiers de l'Union, elles les communiquent sans délai au directeur de l'audit interne, au membre de la direction encadrant leur service ou au membre du directoire principalement responsable de leur service. Ces derniers transmettent sans délai les informations au directeur général du secrétariat. Les personnes concernées ne doivent en aucun cas subir un traitement inéquitable ou discriminatoire du fait d'une communication visée au présent article.
+
+2.   Les participants aux organes de décision ou autres organes prenant connaissance d'informations visées au paragraphe 1 en informent le directeur général du secrétariat ou le président.
+
+3.   Lorsque le directeur général du secrétariat ou, le cas échéant, le président reçoit des informations conformément au paragraphe 1 ou 2, il les transmet sans délai à l'Office et en informe la direction de l'audit interne et, le cas échéant, le président, sous réserve des dispositions de l'article 4 de la présente décision.
+
+4.   Si un participant aux organes de décision ou aux autres organes ou bien une personne concernée dispose d'informations concrètes permettant d'étayer l'existence d'un cas de fraude ou de corruption ou de toute autre activité illégale au sens du paragraphe 1, et, dans le même temps, est fondé à considérer que la procédure prévue aux paragraphes ci-dessus empêcherait, dans le cas d'espèce, de faire efficacement rapport de ces informations à l'Office, il peut faire directement rapport à l'Office sans se conformer à l'article 4.
+
+Article 4
+
+Coopération avec l'Office pour ce qui concerne les informations sensibles
+
+1.   Dans des cas exceptionnels où la diffusion de certaines informations en dehors de la BCE pourrait porter gravement atteinte au fonctionnement de la BCE, la décision d'accorder ou non à l'Office l'accès à ces informations ou de lui transmettre ces informations est prise par le directoire. Cela s'applique: aux informations relatives aux décisions de politique monétaire ou aux opérations liées à la gestion des réserves de change et aux interventions sur les marchés des changes, à condition que ces informations aient moins d'un an; aux informations relatives aux missions confiées à la BCE par le règlement (UE) no 1024/2013; aux données relatives à la stabilité du système financier ou des établissements de crédit transmises à la BCE par les autorités compétentes nationales, et aux informations relatives aux signes de sécurité et spécifications techniques des billets en euros.
+
+2.   Une telle décision du directoire prend en compte tous les facteurs pertinents, tels que le degré de sensibilité des informations requises par l'Office pour l'enquête, leur importance pour l'enquête et la gravité du soupçon tel que l'Office, le participant aux organes de décision ou aux autres organes ou bien la personne concernée l'a présenté au président, et le degré du risque pour le fonctionnement ultérieur de la BCE. Si l'accès n'est pas accordé, la décision en précise les motifs. Pour ce qui concerne les données reçues par la BCE à propos de la stabilité du système financier ou des établissements de crédit, le directoire peut décider de ne pas accorder à l'Office l'accès à ces données, s'il considère ou si l'autorité compétente nationale concernée considère que la divulgation des informations en question compromettrait la stabilité du système financier ou de l'établissement de crédit concerné.
+
+3.   Dans des cas très exceptionnels ayant trait à des informations relatives à un domaine d'activité particulier de la BCE, de sensibilité équivalente aux catégories d'information visées au paragraphe 1, le directoire peut décider provisoirement de ne pas accorder à l'Office l'accès à de telles informations. Le paragraphe 2 s'applique à ces décisions, qui sont valables six mois au plus. Par la suite, l'Office se voit accorder l'accès aux informations concernées, à moins que le conseil des gouverneurs ait modifié la présente décision dans l'intervalle, en ajoutant la catégorie d'information concernée aux catégories visées au paragraphe 1.
+Article 5
+
+Assistance de la BCE dans le cadre des enquêtes internes
+
+1.   Lorsqu'ils engagent une enquête interne au sein de la BCE, les agents de l'Office se voient consentir l'accès aux locaux de la BCE par le responsable de la sécurité de la BCE sur production d'une autorisation écrite émise par le directeur général de l'Office, sur laquelle sont indiqués:
+
+a)
+l'identité des agents et la désignation de leur fonction au sein de l'Office;
+
+b)
+l'objet et le but de l'enquête;
+
+c)
+les bases juridiques pour effectuer cette enquête et les pouvoirs d'enquête en découlant.
+
+Le président, le vice-président et le directeur de l'audit interne sont informés immédiatement.
+
+2.   La direction de l'audit interne assiste les agents de l'Office dans l'organisation matérielle des enquêtes.
+
+3.   Les participants aux organes de décision ou aux autres organes ainsi que les personnes concernées fournissent toutes les informations requises aux agents de l'Office qui effectuent une enquête, à moins que les informations requises soient susceptibles de constituer des informations sensibles au sens de l'article 4, auquel cas le directoire décide s'il convient ou non de fournir ces informations. La direction de l'audit interne consigne toutes les informations fournies.
+
+Article 6
+
+Information des intéressés
+
+1.   Dans le cas où apparaît la possibilité d'une implication personnelle d'un participant aux organes de décision ou aux autres organes ou bien d'une personne concernée à une fraude, un acte de corruption ou toute autre activité illégale au sens de l'article 3, paragraphe 1, il convient d'en informer rapidement l'intéressé, à condition que cela ne risque pas de nuire à l'enquête (16). En tout état de cause, des conclusions visant nominativement un participant aux organes de décision ou aux autres organes ou bien une personne concernée ne peuvent être tirées sans que l'intéressé ait été à même de s'exprimer sur tous les faits qui le concernent, y compris sur toutes les preuves à son encontre. Les intéressés ont le droit de conserver le silence, de ne pas s'incriminer et de demander l'assistance d'un avocat.
+
+2.   Dans les cas nécessitant le maintien d'un secret absolu aux fins de l'enquête ou exigeant le recours à des moyens d'investigation relevant de la compétence d'une autorité judiciaire nationale, l'obligation d'inviter un participant aux organes de décision ou aux autres organes ou bien une personne concernée à s'exprimer peut être différée pendant une durée limitée en accord avec le président ou le vice-président.
+
+Article 7
+
+Information sur le classement sans suite de l'enquête
+
+Si, à l'issue d'une enquête interne, aucun élément à charge ne peut être retenu à l'encontre d'un participant aux organes de décision ou aux autres organes ou d'une personne concernée mis en cause, l'enquête interne est classée sans suite sur décision du directeur général de l'Office, qui en avise par écrit le participant aux organes de décision ou aux autres organes ou bien la personne concernée.
+
+Article 8
+
+Levée d'immunité
+
+Toute demande, émanant d'une autorité policière ou judiciaire nationale, de levée de l'immunité de juridiction applicable à un participant aux organes de décision ou aux autres organes ou à une personne concernée, lors d'éventuels cas de fraude, de corruption et de toute autre activité illégale portant atteinte aux intérêts financiers de l'Union, est transmise au directeur général de l'Office pour avis. Le conseil des gouverneurs prend la décision relative à toute levée d'immunité demandée dans la mesure où elle est requise à l'encontre de participants aux organes de décision ou aux autres organes, et le directoire prend la décision relative à toute levée d'immunité demandée dans la mesure où elle est requise à l'encontre de personnes concernées.
+
+Article 9
+
+Entrée en vigueur et abrogation
+
+1.   La présente décision entre en vigueur le vingtième jour qui suit sa publication au Journal officiel de l'Union européenne.
+
+2.   La décision BCE/2004/11 est abrogée avec effet à partir du vingtième jour suivant la publication de la présente décision au Journal officiel de l'Union européenne.
+
+3.   Les références à la décision BCE/2004/11 s'entendent comme faites à la présente décision.
+
+Fait à Francfort-sur-le-Main, le 4 mars 2016.
+Le président de la BCE
+Mario DRAGHI
+(1)  JO L 248 du 18.9.2013, p. 1.
+(2)  Code de conduite des membres du conseil des gouverneurs (JO C 123 du 24.5.2002, p. 9).
+(3)  Code complémentaire d'éthique professionnelle applicable aux membres du directoire de la banque centrale européenne (édicté conformément à l'article 11.3 du règlement intérieur de la Banque centrale européenne) (JO C 104 du 23.4.2010, p. 8).
+(4)  Code de conduite applicable aux membres du conseil de surveillance prudentielle de la Banque centrale européenne (JO C 93 du 20.3.2015, p. 2).
+(5)  Commission contre Banque centrale européenne, C-11/00, ECLI:EU:C:2003:395.
+(6)  Décision BCE/2004/11 du 3 juin 2004 relative aux conditions et modalités des enquêtes effectuées par l'Office européen de lutte antifraude au sein de la Banque centrale européenne en matière de lutte contre la fraude, la corruption et toute autre activité illégale préjudiciable aux intérêts financiers des Communautés européennes et portant modification des conditions d'emploi du personnel de la Banque centrale européenne (JO L 230 du 30.6.2004, p. 56).
+(7)  Règlement (CE) no 1073/1999 du Parlement européen et du Conseil du 25 mai 1999 relatif aux enquêtes effectuées par l'Office européen de lutte antifraude (OLAF) (JO L 136 du 31.5.1999, p. 1).
+(8)  Règlement (UE) no 1024/2013 du Conseil du 15 octobre 2013 confiant à la Banque centrale européenne des missions spécifiques ayant trait aux politiques en matière de surveillance prudentielle des établissements de crédit (JO L 287 du 29.10.2013, p. 63).
+(9)  Décision BCE/2014/16 du 14 avril 2014 concernant la mise en place d'une commission administrative de réexamen et ses règles de fonctionnement (JO L 175 du 14.6.2014, p. 47).
+(10)  Règlement (UE) no 673/2014 de la Banque centrale européenne du 2 juin 2014 concernant la mise en place d'un comité de médiation et son règlement intérieur (BCE/2014/26) (JO L 179 du 19.6.2014, p. 72).
+(11)  Règlement (UE) no 468/2014 de la Banque centrale européenne du 16 avril 2014 établissant le cadre de la coopération au sein du mécanisme de surveillance unique entre la Banque centrale européenne, les autorités compétentes nationales et les autorités désignées nationales (le «règlement-cadre MSU») (BCE/2014/17) (JO L 141 du 14.5.2014, p. 1).
+(12)  Décision BCE/2004/2 du 19 février 2004 portant adoption du règlement intérieur de la Banque centrale européenne (JO L 80 du 18.3.2004, p. 33).
+(13)  Décision (UE) 2015/433 de la Banque centrale européenne du 17 décembre 2014 concernant l'établissement d'un comité d'éthique professionnelle et son règlement intérieur (BCE/2014/59) (JO L 70 du 14.3.2015, p. 58).
+(14)  Disponible sur le site internet de la BCE à l'adresse suivante: www.ecb.europa.eu.
+(15)  Bulletin officiel fédéral (Bundesgesetzblatt) no 45, 1998 du 27.10.1998 et no 12, 1999 du 6.5.1999.
+(16)  L'article 20 du règlement (CE) no 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données (JO L 8 du 12.1.2001, p. 1) s'applique à toute limitation des informations à imposer, en cas de traitement des données, aux personnes concernées par celles-ci.

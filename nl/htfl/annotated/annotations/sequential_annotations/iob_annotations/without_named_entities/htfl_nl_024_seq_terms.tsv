@@ -1,0 +1,56 @@
+Hartfalen	B
+:	O
+van	O
+acuut	B
+naar	O
+chronisch	B
+
+Verpleegkundigen	B
+op	O
+criticalcare-afdelingen	B
+verplegen	B
+regelmatig	O
+patiënten	B
+met	O
+een	O
+acuut	B
+hartfalen	I
+.	O
+
+In	O
+dit	O
+artikel	O
+gaan	O
+we	O
+in	O
+op	O
+de	O
+periode	O
+die	O
+ontstaat	O
+ná	O
+deze	O
+acute	B
+fase	O
+.	O
+
+Want	O
+ook	O
+wanneer	O
+acuut	B
+hartfalen	I
+overgaat	O
+in	O
+chronisch	B
+hartfalen	I
+blijven	O
+goede	O
+informatievoorziening	O
+en	O
+begeleiding	O
+van	O
+deze	O
+patiëntengroep	B
+belangrijk	O
+.	O
+

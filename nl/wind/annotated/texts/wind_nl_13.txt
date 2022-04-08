@@ -1,0 +1,118 @@
+Microwindturbine
+
+ 
+Innovatieve concepten
+
+Verticale-as windturbines
+
+
+
+Verticale-as windturbines (VAWT) hebben in vergelijking met horizontale-as windturbines vele nadelen. De vermogenscoëfficient van een VAWT is zo'n 20% lager dan die van een windturbine met horizontale as (Jamieson, 2011). Andere nadelen zijn de fluctuerende belasting, het doorgaans niet-zelfstartend karakter en het storend effect van de verbindingsstukken die nodig zijn om wieken aan de as te bevestigen. Het is dan ook niet verwonderlijk dat verticale-as windturbines weinig commercieel succes gekend hebben. Er is op dit moment geen enkele VAWT op de markt die qua rendement kan wedijveren met horizontale-as windturbines (HAWT).
+
+De nadelen van een VAWT betekenen niet dat dit type geen plaats kan hebben in de productie van duurzame elektriciteit, maar dat de toepassing van VAWT voordelen moet hebben die opwegen tegen de inherente nadelen. De potentiële voordelen van een VAWT zijn de onafhankelijkheid van de windrichting, het zelfs beter presteren bij opstroming en de lagere omwentelingsnelheid met als gevolg een lagere geluidsproductie. Voor helixvormige VAWT resulteert een evenrediger verdeling van de massa en van de aerodynamische krachten bovendien in minder trillingen. In het bijzonder in de nabijheid van bebouwing zijn de opgesomde voordelen substantieel.
+
+
+
+Verticale-as windturbines met tegengestelde draairichting
+
+
+
+In een aantal artikels van de groep van prof. Dabiri aan de California Institute of Technology (Whittlesey et al., 2010; Dabiri, 2011) werd aangetoond dat door een zorgvuldige opstelling van verticale-as windturbines, met tegengestelde draairichtingen, spectaculaire rendementsverbetering bereikt kunnen worden. De essentie van de zaak is dat windturbines met horizontale as in een windpark ver van elkaar geplaatst moeten worden om de hinder die de turbines van elkaar ondervinden tot een aanvaardbaar niveau te beperken. Windturbines met verticale as kunnen dichter op elkaar geplaatst worden. Hoewel de vermogenscoëfficient van een individuele windturbine met verticale as in een dergelijk park nog steeds lager ligt, is de totale opbrengst per vierkante meter grondoppervlak tot een factor tien groter dan voor een klassiek windpark. Dit principe is ondertussen experimenteel bevestigd. Het lijkt ons zeer waarschijnlijk dat het uitbuiten van dit principe een van de beste innovatiemogelijkheden biedt op het vlak van kleine windturbines. Op dit principe is een octrooiaanvraag neergelegd in de Verenigde Staten en bij het World patent office (Dabiri and Whittlesey, 2010a,b).
+
+
+
+Nieuwe materialen en fabricagetechnieken
+
+
+
+De economische haalbaarheid van de bovenvermelde ideeëen staat of valt bij de mogelijkheid om goedkoop windturbines met verticale as te kunnen produceren. Om dit te kunnen bereiken moet men in de eerste plaats naar de turbinebladen kijken. Deze maken het grootste deel van de kost uit en worden doorgaans vervaardigd in composietmateriaal, via een nog steeds arbeidsintensief proces. Het gebruik van metaal zou een serieproduductie toelaten van verticale-as windturbines die ingezet kunnen worden in windparken. Metaal biedt het bijkomend voordeel van robuustheid en duurzame recyclage. Om die reden hebben de projectuitvoerders samen met het Fraunhofer-instituut in Chemnitz (D) een Cornet proposal ingediend om turbinebladen voor VAWT te fabriceren uit metaal via moderne hydroforming technieken.
+
+
+
+Windturbines op of tussen gebouwen
+
+
+
+Rooftop-mounted wind turbines
+
+
+
+De windcondities op hoogbouw zijn veelal goed genoeg om een redelijke terugverdientijd te bekomen voor microwindturbines. Voor het Manhattangebouw in Brussel bijvoorbeeld is de gemiddelde windsnelheid gemeten tussen juli 2010 en juli 2011 4.9 m/s (Nicolaz Guidon [3E], persoonlijke mededeling), vergelijkbaar met de windcondities in Middelkerke (bijlage A.1).
+
+Ondanks dit potentieel is verder onderzoek nodig om de haalbaarheid van rooftop-mounted turbines na te gaan. In de eerste plaats is er nood aan een grondige studie van de structurele effecten van de trillingen veroorzaakt door een windturbine op verschillende soorten gebouwen, en naar montagesystemen die de effecten van deze trillingen beperken.
+
+
+
+Verhoging van de windsnelheid door bebouwing
+
+
+
+Venturi-effect
+
+
+
+Het Venturi-effect of concentrator effect tussen gebouwen biedt de mogelijkheid om zelfs in een bebouwde omgeving hoge windsnelheden te halen.
+
+Er bestaan reeds een aantal gebouwen waarvan de vormgeving is aangepast aan het verbeteren van het rendement van windturbines door het verhogen van de lokale windsnelheid (Mertens, 2006). Veelal wordt hierbij gebruik gemaakt van aerodynamische kanalisatie van de wind zoals bvb. in straalpijpen gebeurt. De lokale verhoging van de windsnelheid die hiermee gepaard gaat noemt men het Venturi-effect. Deze locale verhoging van de windsnelheid kan een beduidende verhoging opleveren van de energieopbrengst van een kleine of middelgrote windturbine.
+
+Als proof-of-principle schatten we in de volgende paragraaf de energiewinst door het Venturi-effect voor een eenvoudig ontwerp en leggen het verband met het elektriciteitsverbruik van een gemiddeld Vlaams gezin. De praktische problemen met een dergelijk ontwerp zijn uiteraard legio. We gaan op deze problemen hier niet verder in, maar illustreren de innovatiemogelijkheden door een geïdealiseerd voorbeeld.
+
+
+
+Toepassing op een appartementsgebouw voor 50 gezinnen
+
+
+
+Een appartementsgebouw met een grondoppervlakte van 800 m2 en een hoogte van 25 m, zou ongeveer 50 gezinnen huisvesten (appartementen van 80 tot 115 m2). Dezelfde grondoppervlakte van de bebouwing kan bijvoorbeeld worden gesplitst in 8 elementen van 100 m2, met een straalpijp tussen de verschillende elementen. Een bovenaanzicht van een mogelijke configuratie wordt getoond in onderstaande figuur. Door deze opstelling wordt de opbrengst geoptimaliseerd. Op de plaats van ieder windturbine-icoon staan 4 verticaal gestapelde windturbines van 2,7 m diameter. Er werd uitgegaan van een hoogte van 25 m voor de gebouwen.
+
+
+
+
+
+
+Deze configuratie is opgebouwd uit blokken waartussen openingen zijn om de wind met een lokaal verhoogde snelheid door te laten.
+
+
+
+Verhoging van de windsnelheid
+
+
+
+Een schatting van de verhoging van de windsnelheid tussen de blokken werd bekomen aan de hand van een CFD-simulatie (Computational Fluid Dynamics) met het programma OpenFOAM. Volgende figuur toont de windsnelheid op 4 m hoogte. 
+
+
+Hierop is te zien hoe de wind in het centrum van de vernauwing versnelt tot 1,69 maal de instroomsnelheid. Gezien het vermogen evenredig is met de derde macht van de windsnelheid, vergroot het vermogen met een factor 4,8.
+
+
+
+Invloed van variabele windrichting
+
+
+
+De voorgestelde configuratie in deze schatting werkt enkel wanneer de wind invalt op de opening voor de vernauwing. Wanneer de wind t.o.v. de optimale invalshoek 90 graden gedraaid is, leveren de turbines in de vernauwing nagenoeg geen energie. Er dient dus nagegaan te worden hoe de windsnelheid op jaarbasis verdeeld is over de verschillende windrichtingen.
+
+Als voorbeeld beschouwen we Zelzate en gebruiken we meetgegevens van het nabijgelegen KNMI meetstation Westdorpe. De belangrijkste bijdrage tot de energie wordt geleverd door de zuidwestelijke windrichting, met 27% van de totale beschikbare windenergie. Wanneer de opening van de straalpijp gericht wordt naar het zuidwesten, levert de noordoostelijke windrichting eveneens een bijdrage van 17%. Dit betekent dat een zuidwest-noordoost gerichte straalpijp 44% van de totale beschikbare energie opvangt.
+
+
+
+Opbrengst
+
+
+
+Indien het gebouw 25 m hoog is, kan iedere straalpijp 4 boven elkaar geplaatste windturbines bevatten van 2,7 diameter. (Er wordt verticaal 1 rotordiameter tussen de turbines gelaten). Dit laat toe om 8 x 4 = 32 turbines te plaatsen. We nemen als voorbeeld een 2,7 m windturbine van EC Industries, omdat deze een vermogenscurve heeft die snel stijgt bij bescheiden windsnelheden.
+
+Een windturbine van dit type levert jaarlijks ongeveer 2500 kWh in de windcondities van Zelzate. Wanneer deze configuratie geplaatst zou worden in Zelzate zou de jaarop- brengst 32 x 2500 x 4.8 x 0.44 = 169 MWh/jaar bedragen. Aannemende dat een doorsnee gezin met één meter een gemiddeld jaarverbruik heeft van 3500 kWh, kan het elektriciteitsverbruik van 48 van de 50 gezinnen volledig gedekt worden door de geproduceerde windenergie in de voorgestelde configuratie.
+
+Om redenen van eenvoud zijn een aantal effecten niet in deze opbrengstschatting opgenomen. Sommige effecten, zoals de toename van de vermogenscoëffcient bij toenemende snelheid, verhogen de opbrengst. Andere, zoals het verticale profiel van de snelheid, verminderen de opbrengst. Een afweging van deze effecten suggereert dat de hier gepresenteerde schatting juist is tot op een factor twee.
+
+
+
+Verdere innovatie
+
+
+
+De grote variatie in kwaliteit van kleine windturbines is typisch voor een jonge markt. In een dergelijke markt is er zeker nog ruimte voor technologische innovatie, zowel op het vlak van aerodynamica als op het vlak van de generatoren en de controle. Regelmatig verschijnen innovatieve windturbines op de markt die potentieel een verbetering kunnen betekenen ten opzichte van bestaande ontwerpen (zie onderstaande figuur). 
+
+
+
+Er is nood aan testvelden om snel duidelijkheid te verschaffen over de reeële kwaliteit van deze ontwerpen. Resultaten van SEPEN (Site Expérimental pour le Petit Eolien National) geven eerder tegenvallende resultaten voor de Nheowind, maar zeer goede resultaten voor de Windspot van het Spaanse Sonkyo Energy. Deze laatste turbine heeft een inventief passief pitchmechanisme, waarvoor een patent is aangevraagd (Berbegal Pastor and Bornay Rico, 2010). Het recent gelanceerde Small Wind Turbine Field Lab in Oostende biedt het potentieel om Vlaamse bedrijven en overheden duidelijkheid te verschaffen over de kwaliteit en geluidsproductie van verschillende kleine windturbines, en zal op deze manier innovatie kunnen aandrijven. Ook het demonstratieproject in Puyenbroeck zal van onschatbare waarde zijn, zeker gezien de strenge eisen die aan de turbines gesteld worden.

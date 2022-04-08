@@ -1,0 +1,15 @@
+Low-dose dopamine or low-dose nesiritide in acute heart failure with renal dysfunction: the ROSE acute heart failure randomized trial.
+IMPORTANCE:
+Small studies suggest that low-dose dopamine or low-dose nesiritide may enhance decongestion and preserve renal function in patients with acute heart failure and renal dysfunction; however, neither strategy has been rigorously tested.
+OBJECTIVE:
+To test the 2 independent hypotheses that, compared with placebo, addition of low-dose dopamine (2 μg/kg/min) or low-dose nesiritide (0.005 μg/kg/min without bolus) to diuretic therapy will enhance decongestion and preserve renal function in patients with acute heart failure and renal dysfunction.
+DESIGN, SETTING, AND PARTICIPANTS:
+Multicenter, double-blind, placebo-controlled clinical trial (Renal Optimization Strategies Evaluation [ROSE]) of 360 hospitalized patients with acute heart failure and renal dysfunction (estimated glomerular filtration rate of 15-60 mL/min/1.73 m2), randomized within 24 hours of admission. Enrollment occurred from September 2010 to March 2013 across 26 sites in North America.
+INTERVENTIONS:
+Participants were randomized in an open, 1:1 allocation ratio to the dopamine or nesiritide strategy. Within each strategy, participants were randomized in a double-blind, 2:1 ratio to active treatment or placebo. The dopamine (n = 122) and nesiritide (n = 119) groups were independently compared with the pooled placebo group (n = 119).
+MAIN OUTCOMES AND MEASURES:
+Coprimary end points included 72-hour cumulative urine volume (decongestion end point) and the change in serum cystatin C from enrollment to 72 hours (renal function end point).
+RESULTS:
+Compared with placebo, low-dose dopamine had no significant effect on 72-hour cumulative urine volume (dopamine, 8524 mL; 95% CI, 7917-9131 vs placebo, 8296 mL; 95% CI, 7762-8830 ; difference, 229 mL; 95% CI, -714 to 1171 mL; P = .59) or on the change in cystatin C level (dopamine, 0.12 mg/L; 95% CI, 0.06-0.18 vs placebo, 0.11 mg/L; 95% CI, 0.06-0.16; difference, 0.01; 95% CI, -0.08 to 0.10; P = .72). Similarly, low-dose nesiritide had no significant effect on 72-hour cumulative urine volume (nesiritide, 8574 mL; 95% CI, 8014-9134 vs placebo, 8296 mL; 95% CI, 7762-8830; difference, 279 mL; 95% CI, -618 to 1176 mL; P = .49) or on the change in cystatin C level (nesiritide, 0.07 mg/L; 95% CI, 0.01-0.13 vs placebo, 0.11 mg/L; 95% CI, 0.06-0.16; difference, -0.04; 95% CI, -0.13 to 0.05; P = .36). Compared with placebo, there was no effect of low-dose dopamine or nesiritide on secondary end points reflective of decongestion, renal function, or clinical outcomes.
+CONCLUSION AND RELEVANCE:
+In participants with acute heart failure and renal dysfunction, neither low-dose dopamine nor low-dose nesiritide enhanced decongestion or improved renal function when added to diuretic therapy.

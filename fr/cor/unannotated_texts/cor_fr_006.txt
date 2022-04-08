@@ -1,0 +1,306 @@
+En France, l'abus de biens sociaux est un délit qui consiste, pour un dirigeant de société commerciale, à utiliser en connaissance de cause les biens, le crédit, les pouvoirs ou les voix de la société à des fins personnelles, directes ou indirectes.
+
+L'infraction d'abus de biens sociaux est décrite dans le code de commerce français, dans les articles L241-3 (4e point) et L242-6 (3e point), elle incrimine l'infraction, dans le cadre des SARL et des SA, de « faire, de mauvaise foi, des biens ou du crédit de la société, un usage qu'ils savent contraire à l'intérêt de celle-ci, à des fins personnelles ou pour favoriser une autre société ou entreprise dans laquelle ils sont intéressés directement ou indirectement ».
+
+La peine maximale encourue est de 5 ans d'emprisonnement et de 375 000 euros d'amende, éventuellement assortie d'une interdiction temporaire pour le dirigeant condamné d'exercer des fonctions professionnelles ou sociales au sein de la société à titre de mesure de sûreté.
+
+C'est l'une des formes possibles du détournement de biens.
+Une infraction en question
+Historique de l'infraction
+L'abus de biens sociaux se présente comme une infraction qui complète l'abus de confiance. Sa création résulte d'un décret-loi du 8 août 1935, réponse législative à l'affaire Stavisky. Depuis la re-codification du code de commerce, on trouve les textes aux articles L. 241-3 et suivants.
+
+Les affaires politico-financières ont donné un nouveau lustre à cette infraction et braqué les projecteurs sur une incrimination particulièrement technique. Les inculpations et les condamnations successives ont permis de mettre au jour les systèmes de financement occulte des partis politiques via commissions versées à des sociétés offshore.
+
+Habituellement, les arrêts apportant de véritables avancées jurisprudentielles sont rendus dans l'indifférence générale des médias. Ces affaires extrêmement médiatisées ont cependant contribué à faire évoluer la jurisprudence de manière considérable. Ainsi l'affaire Carignon, qui a entraîné la mise en examen puis la condamnation de l'ancien maire de Grenoble, a abouti à ce que la jurisprudence dégage l'interprétation selon laquelle « quel que soit l'avantage à court terme qu'elle peut procurer l'utilisation des fonds sociaux ayant pour seul objet de commettre un délit tel que la corruption est contraire à l'intérêt social en ce qu'elle expose la personne morale au risque anormal de sanctions pénales ou fiscales contre elle-même et ses dirigeants et porte atteinte à son crédit et à sa réputation » (Cass. crim., 27 octobre 1997: Bull. crim. no 352).
+
+Critiques
+Certains observateurs ont pu considérer qu'il s'agissait d'une infraction "attrape-tout", ce qui est contraire aux principes fondamentaux de légalité et d'interprétation stricte du droit pénal.
+
+Les éléments constitutifs de l'abus de biens sociaux
+L'abus de biens sociaux se caractérise par un élément matériel, l'usage par le dirigeant social des biens, du crédit, des pouvoirs ou des voix de la société et par un élément moral, la mauvaise foi de l'auteur qui agit à des fins personnelles directes ou indirectes.
+
+Les conditions préalables
+C'est l'ensemble des sociétés à risque limité qui sont concernées par cette infraction. Au contraire, les sociétés en nom collectif, mais aussi les sociétés en commandite simple, sociétés civiles autres que les sociétés civiles de placement immobilier, les associations, les groupements agricoles ou les groupements d'intérêt économique, ne sont pas concernées par cette infraction.
+
+La société victime doit donc relever d'une des formes suivantes : Société anonyme, Société par action simplifiée, SARL, société en commandite par actions, société coopérative, société d'assurance, société civile de placement immobilier, société dont l'objet est la construction
+caisse d'épargne.
+
+La jurisprudence a exclu d'appliquer l'infraction alors que la victime était une société ayant son siège dans un pays étranger (Cass. crim. 3 juin 2004 ; en l'espèce il s'agissait d'une société dont le siège était situé à Jersey). Une société de droit étranger ne peut être victime que d'un abus de confiance.
+
+L'élément matériel
+Article détaillé : Élément matériel en droit pénal français.
+L'élément matériel de l'abus de biens sociaux est double.
+
+Pour être constitué le délit:
+
+doit être le fait d'un dirigeant social;
+porter sur les biens, le crédit, les pouvoirs ou les voix de la société au sein de laquelle il exerce ses fonctions.
+La qualité de dirigeant
+L'abus de biens sociaux est un délit de fonction, seuls les dirigeants sociaux de sociétés commerciales peuvent le commettre.
+
+Les tribunaux doivent ainsi commencer par motiver leur condamnation en relevant l'exercice effectif des pouvoirs de direction par les personnes poursuivies et vérifier qu'elles possédaient déjà cette qualité ou l'avait encore lors des faits délictueux.
+
+Les textes précisent ainsi que sont punissables :
+
+Dans les sociétés anonymes: les présidents de Conseil d'administration, les administrateurs, le directeur général, le directeur général délégué, le président du directoire, les membres du directoire, les membres du conseil de surveillance;
+Dans les sociétés à responsabilité limitée (SARL et EURL): les gérants (personnes physiques);
+Dans les sociétés par actions simplifiées: les dirigeants et les présidents (personnes physiques ou morales);
+Les dirigeants de fait : Ceux qui dirigent une société sans avoir été régulièrement investis par les organes sociaux du pouvoir de représenter la société;
+Le liquidateur amiable (le liquidateur judiciaire qui commet des malversations sera poursuivi sur le fondement des infractions spécifiques le concernant prévues aux articles L 620-1 et suivants du code de commerce).
+Un usage abusif des biens, du crédit, des pouvoirs ou des voix de la société
+Les articles L. 241-3 et L. 242-6 prévoient que l'abus de biens sociaux est caractérisé dès lors que le dirigeant social a fait, de mauvaise foi, un usage abusif des biens, du crédit, des pouvoirs ou des voix de la société.
+
+L'usage abusif
+L'usage abusif est l'usage contraire à l'intérêt social. Il peut résulter d'actes positifs, tels l'appropriation ou la dissipation de biens sociaux mais également, comme l'a admis la Cour de cassation, d'une omission d'agir.
+
+C'est le cas dans lequel un dirigeant social s'abstient intentionnellement de réclamer à une autre société, dans laquelle il a des intérêts, le paiement des livraisons effectuées.
+
+De manière générale les actes contraires à l'intérêt social se divisent en deux catégories :
+
+Les actes sans aucune contrepartie
+Dès cette hypothèse le dirigeant social fait réaliser par la société des actes dont la nature peut être très variée (cautionnement, cession, dons, acquisition, prêt etc.) mais qui ne peuvent trouver aucune justification économique.
+
+Les actes faisant courir à la société un risque disproportionné
+Ces actes ont une contrepartie prévisible mais font courir à la société un risque disproportionné. Un dirigeant qui conclut pour sa société une affaire excédant ses capacités ou pouvant de manière prévisible remettre en cause son existence commet le délit.
+L'abus des biens ou du crédit de la société
+Un acte de disposition n'est nullement nécessaire pas plus qu'un acte de détournement, un simple acte d'administration peut suffire, comme donner à bail un immeuble social pour un montant dérisoire par exemple.
+
+La loi protège ainsi expressément les biens sociaux entendus de manière large comme tous ses actifs (fonds, créances, meubles et immeubles) mais également son crédit entendu comme sa capacité d'emprunter.
+
+Une signature donnée au nom de la société par le dirigeant peut constituer l'infraction lorsqu'elle est apposée sur un effet de commerce étranger à l'activité sociale, un cautionnement injustifié ou, de manière générale, sur tout acte de nature à faire peser sur la société le risque d'une perte ou d'un appauvrissement sans contrepartie.
+
+L'abus des pouvoirs ou des voix
+Par « pouvoirs » on doit entendre tous les droits accordés par la loi ou les statuts aux dirigeants sociaux. Cet abus est rarement sanctionné de manière autonome et est le plus souvent absorbé par l'abus de biens sociaux car il s'accompagne presque toujours d'un détournement des fonctions de dirigeant social pour l'obtention d'un avantage matériel.
+
+L'abus de voix puni par la loi permet de réprimer une autre forme d'abus, tout en protégeant directement les intérêts des actionnaires : Il s'agit en effet d'empêcher que, par la méthode des procurations remises en blanc par des actionnaires aux mandataires sociaux, ceux-ci ne transforment les assemblées en chambre d'enregistrement.
+
+Le délit n'existe ici encore que si le dirigeant a usé des voix dont il disposait de manière contraire à l'intérêt social pour obtenir, de mauvaise foi, un avantage personnel. Cependant, même en cas d'échec, dans le cas où le dirigeant serait mis en minorité, l'infraction n'en serait pas moins constituée et punissable.
+
+L'élément moral
+Article détaillé : Élément moral en droit pénal français.
+Deux éléments :
+
+Un usage abusif à des fins personnelles directes ou indirectes
+La mauvaise foi
+Un usage abusif à des fins personnelles directes ou indirectes
+La loi a voulu réprimer le dirigeant agissant par cupidité en mettant pour condition de sa culpabilité le fait qu'il ait agi « à des fins personnelles ou pour favoriser une autre personne morale ou entreprise dans laquelle il était intéressé directement ou indirectement ».
+
+C'est par exemple le cas d'école du dirigeant d'une société de construction qui est également propriétaire d'une usine de brique et qui fournit celles-ci au prix fort à sa société.
+
+De plus la jurisprudence a élargi la notion d'intérêt personnel qui ne doit pas être entendu dans un sens purement patrimonial : les ambitions politiques du dirigeant candidat à une élection qui utilise la structure sociale pour soutenir sa candidature, ou la simple volonté d'être agréable à une (ou un) ami(e) peut suffire à mettre au jour l'intérêt personnel visé par le texte.
+
+Cette jurisprudence a reçu de nombreuses applications à l'occasion des affaires politico-financières lancées contre les industriels qui ont financé des partis politiques avec des fonds sociaux.
+
+La mauvaise foi
+La loi subordonne la culpabilité du prévenu à sa « mauvaise foi ».
+
+Le dirigeant de mauvaise foi est celui qui a conscience du caractère abusif de l'acte qu'il commet, à savoir un usage à des fins personnelles et contraires à l'intérêt social d'un bien de la société.
+
+Cependant, cet élément est apprécié de manière sévère par les tribunaux.
+
+En effet, pour les juges, le dirigeant social est supposé apprécier la portée de ses décisions et le fait d'alléguer son inaptitude, attestée par les actes délictueux commis, est un moyen de défense le plus souvent voué à l'échec.
+
+La mauvaise foi est souvent établie à partir des actes réalisés pour masquer les abus : tenue irrégulière de comptabilité, non convocation des assemblées etc.
+
+Illustrations jurisprudentielles
+L'une des hypothèses les plus fréquentes est sans conteste celle où le dirigeant se fait octroyer par la société des rémunérations excessives au regard des capacités de trésorerie de cette société.
+
+C'est le cas lorsque le dirigeant, malgré une démission purement apparente, perçoit de sa seule autorité une rémunération non prévue par les statuts (Cass. crim., 7 mars 1968 : Bull. crim., no 80) ou, profitant de sa situation très fortement majoritaire dans la répartition du capital social, fait prendre par l'assemblée une délibération lui attribuant des appointements excessifs eu égard aux ressources et à la situation financière de la société et perçoit par la suite ces appointements (Cass. crim., 19 octobre 1971 : Bull. crim., no 272).
+
+On citera encore deux arrêts plus récents. Le premier a été rendu à propos du président d'une société qui s'était attribué, avec une autorisation partielle du conseil, des rémunérations élevées, alors que, la société n'ayant qu'une activité réduite, il avait été nécessaire, pour assurer leur versement, de faire appel à des emprunts générateurs de frais financiers importants et que ces rémunérations fixées en fonction d'un train de vie qu'il s'agissait de maintenir étaient hors de proportion avec le travail réellement fourni (Cass. crim., 6 octobre 1980 : Rev. sociétés 1981, p. 133, note B. Bouloc).
+
+Le second est relatif au gérant de fait d'une SARL qui, pour compenser le solde de son compte courant devenu débiteur du fait du paiement par la société de dettes qui lui étaient personnelles, a fait porter à son crédit à titre de salaire des sommes démesurées par rapport aux possibilités de la société et absolument injustifiées par les services rendus à celle-ci (Cass. crim., 20 juillet 1982 : BRDA no 23, 15 décembre 1982).
+
+Dans certains cas en revanche l'abus de biens sociaux est écarté au motif que l'un des éléments constitutifs de l'infraction est manquant. Cet élément est souvent le bénéfice personnel de celui qui, à défaut de profiter des détournements, les facilite ou s'abstient de les dénoncer. Dans ce cas de figure le dirigeant est le plus souvent condamné pour complicité d'abus de biens sociaux.
+
+Est ainsi seulement coupable de complicité d'abus de biens sociaux, le président du directoire d'une société qui a préparé et facilité les agissements illicites d'un associé majoritaire, par ailleurs membre du directoire, en lui accordant notamment des signatures complaisantes de chèques et en lui donnant une procuration sur le compte bancaire de la société, ce qui a eu pour effet de favoriser une opération litigieuse et des détournements au profit de cet associé.(Cass. crim., 5 septembre 1988).
+
+Est pareillement seulement complice, l'administrateur qui a organisé et fait fonctionner une caisse noire au profit d'autres administrateurs sans toutefois en avoir personnellement profité (Cass. crim., 15 mai 1974).
+
+La répression de l'abus de biens sociaux
+Les peines encourues
+Les articles L 241-3 et L242-6 du code de commerce prévoient à l'encontre des auteurs d'abus de biens sociaux les peine et amende maximales suivantes :
+
+5 ans d'emprisonnement
+375 000 €
+Ces peines, en apparence lourdes, n'ont pourtant pas permis d'enrayer l'augmentation constante du nombre de condamnations pour abus de biens sociaux ces dernières années.
+
+En effet, les peines de prison fermes sont rares et l'amende ne prend pas en compte les profits réalisés comme c'est pourtant fréquent en droit des affaires, notamment en matière boursière. Il arrive ainsi que, dans les cas les plus extrêmes, certains dirigeants provisionnent par avance le montant de l'amende sur leurs fonds personnels.
+
+De plus, une interdiction de gérer ne peut être prononcée à titre complémentaire comme c'est pourtant le cas pour des infractions de droit commun telles que le vol, l'escroquerie ou l'abus de confiance.
+
+Ce n'est que si la société se retrouve en cessation des paiements que les détournements d'actifs peuvent alors être qualifiés de banqueroute, qualification entraînant l'application du régime particulièrement répressif accompagnant cette infraction, qui comprend notamment les peines complémentaires classiques que sont :
+
+la faillite personnelle
+l'interdiction de gérer
+Les moyens de défense inopérants
+Le quitus
+En droit pénal le consentement de la victime est, sauf exceptions, inopérant sur la constitution de l'infraction. De plus, l'article L225-253 du code de commerce prévoit que :
+
+« Aucune décision de l'assemblée générale ne peut avoir pour effet d'éteindre une action en responsabilité contre les administrateurs ou contre le directeur général pour faute commise dans l'accomplissement de leur mandat. »
+
+Par conséquent, le quitus donné par l'assemblée des actionnaires est inopérant sur la responsabilité des administrateurs.
+
+Le remboursement
+La restitution ou la compensation n'effacent pas le délit d'abus de biens sociaux.
+
+La jurisprudence n'a pas accepté le moyen de défense tiré de la compensation du préjudice subi avec quelques opérations avantageuses réalisées par la société grâce à sa gestion pas plus qu'avec de prétendues heures supplémentaires non payées.
+
+Le remboursement des sommes détournées n'efface pas le délit ainsi que l'a rappelé la Cour de cassation à plusieurs reprises. Toutefois, si le remboursement des fonds détournés n'est en principe pas pris en compte pour apprécier la seule constitution de l'infraction, l'absence de préjudice permettra souvent d'obtenir, compte tenu de l'encombrement des tribunaux, soit un non-lieu d'opportunité, soit une dispense de peine.
+
+L'ignorance
+La Chambre Criminelle de la Cour de cassation a déjà jugé que l'incompétence du dirigeant en matière comptable ou son éloignement des tâches comptables ou administratives de la société ne sont pas de nature à l'exonérer de sa responsabilité.
+
+Le dirigeant ne peut pas plus se retrancher derrière la validation juridique de l'acte par un conseil.
+
+En clair, étant présumé diligent et apte à l'exercice de ses fonctions, le dirigeant ne peut s'exonérer de sa responsabilité en arguant du fait qu'il ignorait le caractère abusif des prestations dont il a bénéficié.
+
+La transparence
+Si le fait d'avoir agi clandestinement crée une présomption d'intérêt personnel et de mauvaise foi, le contraire, n'est pas vrai : le fait d'avoir agi de manière transparente n'exclut pas, de facto, que le délit d'abus de biens sociaux soit constitué.
+
+Le dirigeant ne peut uniquement faire valoir qu'il a respecté la procédure relative aux conventions réglementées ou qu'il a inscrit en comptabilité le détournement qui lui est reproché.
+
+La transparence a cependant d'important effets et marque en général le point de départ de la prescription.
+
+La contrainte
+Les prévenus invoquent parfois des contraintes extérieures pour justifier les actes commis.
+
+C'est par exemple le cas des « dirigeants de papier », qui, dans le seul but de conserver leur emploi dans des sociétés où ils sont soumis à la volonté d'actionnaires tout puissants acceptent à leur demande de leur octroyer des avantages indus.
+
+Ces éléments de contrainte extérieurs, parfois bien réels, s'ils peuvent influencer le quantum de la peine, n'ont en revanche aucun effet sur la constitution de l'infraction.
+
+La délégation de pouvoir
+Dans plusieurs arrêt du 11 mars 1993, concernant des infractions autres que l'abus de biens sociaux, la Chambre criminelle de la Cour de cassation a affirmé que :
+
+« Hors les cas où la loi en dispose autrement, le chef d'entreprise, qui n'a pas pris part personnellement à l'infraction, peut s'exonérer de sa responsabilité pénale s'il rapporte la preuve qu'il a délégué ses pouvoirs à une personne pourvue de la compétence, de l'autorité et des moyens nécessaires. »
+
+Dès lors que le dirigeant participe personnellement à l'infraction, en profitant pas exemple des biens mis à sa disposition de manière injustifié par le détenteur de la délégation de pouvoir, l'infraction est constituée.
+La délégation de pouvoir peut cependant être utilisée pour démontrer la qualité de dirigeant de fait de son détenteur lorsque celui-ci ne fait pas partie des personnes visées par la loi.
+
+La pratique courante
+La Cour de cassation a eu l'occasion de rappeler à plusieurs reprises que la pratique courante ne peut constituer un fait justificatif.
+
+À titre exceptionnel cependant l'existence d'une pratique courante peut contribuer a écarter la mauvaise foi.
+
+Tel a été le cas dans une espèce où les juges ont admis le remboursement de certains frais de déplacement, non excessifs, inscrits en comptabilité et entrant dans la pratique courante qui autorisait les administrateurs à faire prendre en charge par la société certains frais de représentation.
+
+Tel a également été le cas de versements de primes à un dirigeant et à des membres de sa famille, dès lors que ces rémunérations étaient d'usage dans l'entreprise pour tout le personnel.
+
+Hors ces cas spécifiques, la défense basée sur la pratique courante est presque toujours vouée à l'échec.
+
+Faits justificatifs et moyens de défense efficaces
+Ainsi que nous le voyons, il existe peu de moyens de défense efficaces dès lors qu'un acte contraire à l'intérêt social a été commis en toute connaissance de cause par un dirigeant.
+
+Toutefois, l'apparition des groupes de sociétés a eu un impact sur l'appréciation classique de la notion d'intérêt social en droit pénal des affaires.
+
+Cette adaptation a été rendue nécessaire par le fait qu'au sein des groupes de sociétés, certains comportements, malgré l'existence de finalités économiques tout à fait pertinentes, risquaient eux aussi de tomber dans le champ de l'abus de biens sociaux.
+
+Ainsi, un don d'argent réalisé sans contrepartie entre deux sociétés membres d'un groupe peut certes, dans un premier temps, être nuisible à la première mais à plus long terme lui profiter en améliorant la situation générale du groupe.
+
+Cette réalité a été prise en compte par la jurisprudence et la Cour de cassation à travers la notion de gestion de groupe.
+
+La gestion de groupe
+C'est en 1985 dans son célèbre arrêt « Rozemblum » du 4 février 1985 que la Chambre Criminelle de la Cour de cassation consacre les règles permettant d'utiliser l'existence d'un groupe de société comme moyen de défense contre une accusation d'abus de biens sociaux.
+
+Toutefois, ce moyen de défense est très strictement encadré par la Cour qui formule les conditions très précises dans lesquelles elle l'admet :
+
+« Pour échapper aux prévisions des articles L. 241-3 et L. 242-6 du code de Commerce, le concours financier apporté par les dirigeants d'une société, à une autre entreprise du même groupe dans laquelle ils sont intéressés directement ou indirectement, doit être dicté par un intérêt économique, social ou financier commun, apprécié au regard d'une politique élaborée pour l'ensemble de ce groupe et ne doit ni être démuni de contrepartie ou rompre l'équilibre entre les engagements respectifs des diverses sociétés concernées, ni excéder les possibilités financières de celle qui en supporte la charge. »
+
+Dans cet arrêt, la Cour de cassation dégage trois critères permettant de mettre en avant le fait justificatif de groupe dès lors que le dirigeant fait effectuer par la société un acte pouvant paraître contraire à son intérêt.
+
+Que l'on se trouve en présence d'un groupement économique fortement structuré ne reposant pas sur des bases artificielles
+Que les sacrifices demandés à l'une des sociétés aient bien été réalisés dans l'intérêt du groupe et aient une contrepartie. Cette condition est essentielle et la contrepartie doit toujours exister même si elle est à long terme. L'absence de contrepartie ne peut se justifier même s'il s'agit de sauver la société mère de la défaillance.
+Que les sacrifices ne fassent pas courir à la société concernée des risques trop importants pouvant grever son avenir.
+Ainsi, une politique de groupe consistant à acculer à la faillite une filiale dans le seul but d'aider sa mère ne saurait faire obstacle au délit d'abus de biens sociaux.
+
+En effet, le fait justificatif de groupe permet seulement d'assouplir l'appréciation de l'intérêt social de la société qui consent le sacrifice, en admettant qu'elle puisse à long terme bénéficier de la bonne santé générale du groupe, mais en aucun cas d'ignorer ses intérêts ou, pire, de les minorer en les faisant passer derrière ceux de la société mère ou d'autres filiales.
+
+Les infractions voisines à ne pas confondre
+L'abus de confiance
+Article détaillé : Abus de confiance.
+L'abus de confiance, puni par l'article 314-1 du code pénal, suppose que le délinquant, qui a légitimement obtenu la chose entre sa main, abuse la confiance de celui qui la lui avait remise en ne faisant pas ce qui était convenu.
+
+L'infraction suppose
+
+un détournement de la chose
+un préjudice
+la mauvaise foi
+L'abus de confiance est puni au maximum de
+
+3 ans de prison
+375 000 € d'amende
+Le juge peut en outre prononcer une ou plusieurs des peines complémentaires prévues par le code pénal
+
+Le champ d'application de l'abus de confiance est ainsi beaucoup plus large que celui de l'abus de biens sociaux, qui ne peut être que le fait de dirigeants en activité au sein de sociétés commerciales.
+
+Un ancien dirigeant qui commettrait un détournement après la fin de son mandat social ne pourrait ainsi être poursuivi pour abus de biens sociaux, mais pourrait en revanche l'être pour abus de confiance.
+
+C'est par exemple le cas d'un ancien administrateur qui se fait prêter une voiture de la société et qui ne la restitue pas.
+
+L'abus de confiance est l'infraction alternative qui pourra s'appliquer lorsque les conditions essentielles de l'abus de biens sociaux ne sont pas réunies.
+
+Ainsi le même détournement des biens de la société sera qualifié d'abus de biens sociaux s'il est le fait d'un dirigeant et d'abus de confiance s'il est le fait d'un salarié, d'un fournisseur ou de toute autre personne.
+
+La banqueroute par détournement d'actif
+Article détaillé : Banqueroute.
+Infraction prévue par l'article L. 654-1 du code de commerce, la banqueroute par détournement d'actif se caractérise par le fait, dans une société en redressement ou liquidation judiciaire, d'avoir « détourné ou dissimulé tout ou partie de l'actif du débiteur ».
+
+Le délit de banqueroute s'applique exclusivement dans les sociétés en difficultés, il ne peut être poursuivi qu'après l'ouverture d'une procédure collective.
+
+Bien que la jurisprudence ne soit pas fixée en la matière, de nombreux auteurs appliquent le critère chronologique pour déterminer la qualification à apporter aux faits :
+
+avant la cessation des paiements : La jurisprudence majoritaire considère qu'avant la cessation des paiements seul l'abus de biens sociaux peut réprimer les détournements effectués par les dirigeants. Quelques arrêts isolés ont cependant admis que des détournements étant directement à l'origine de la cessation des paiements pouvaient être constitutifs du délit de banqueroute.
+après la cessation des paiements : pour tout détournement de mauvaise foi des actifs de la société par ses dirigeants, l'infraction spéciale de banqueroute est la qualification qui doit être retenue.
+L'article L 654-3 du code de commerce punit le délit de banqueroute au maximum de
+
+5 ans d'emprisonnement
+75 000 € d'amende
+Peines complémentaires telles que la faillite personnelle ou l'interdiction de gérer peuvent être prononcées à l'encontre du délinquant.
+L'actualité de l'abus de biens sociaux
+L'abus de biens sociaux est une infraction qui se porte bien.
+
+En 1999 les dernières statistiques du ministère de la justice en matière de délinquance économique et financière que nous possédons révèlent ainsi une augmentation constante du nombre de condamnations pour abus de biens sociaux qui passe de 355 en 1995 à 429 en 1999.
+
+Dans 59 % des cas l'infraction est commise par un dirigeant de SARL et dans 40 % par un dirigeant de société par action.
+
+Au cours de la même période 53 % des dirigeants reconnus coupables ont été condamnés à de la prison avec sursis, 26 % à une amende et seulement 15 % à de la prison ferme, ce qui mis en perspective avec le nombre croissant d'infractions fait dire à certains que l'abus de biens sociaux n'est pas puni de manière suffisamment dissuasive.
+
+L'abus de biens sociaux est une infraction vivante mais qui n'a pas connu ces dernières années d'évolutions majeures.
+
+L'actualité du délit est donc principalement jurisprudentielle et la Cour de cassation a été amenée à apporter, ces derniers mois, toute une série de précisions essentielles sur son régime.
+
+La prescription de l'abus de biens sociaux
+Le débat sur le point de départ de la prescription de l'abus de biens sociaux est l'objet d'un véritable feuilleton qui dure depuis plus de quinze ans et a fait l'objet de rebondissements importants au cours des dernières années.
+
+Quels sont les termes du problème ?
+
+L'abus de biens sociaux est, par nature, une infraction instantanée qui est constituée à chaque fois qu'un dirigeant utilise à des fins personnelles les moyens de la société de manière contraire à son intérêt social.
+
+Pour ce délit c'est la prescription triennale de droit commun qui s'applique. En principe, celle-ci commence à courir au jour de la réalisation matérielle du délit, c'est-à-dire jour au jour de l'accomplissement de l'acte délictueux.
+
+Toutefois, parce que l'abus de biens sociaux s'accompagne le plus souvent de manœuvres visant à masquer les détournements, la Chambre criminelle dans son célèbre arrêt du 10 août 1981, s'appuyant sur les solutions adoptées en matière d'abus de confiance, a repoussé, de manière contra legem, le point de départ de la prescription, « au jour où le délit est apparu et a pu être constaté dans des conditions permettant l'exercice de l'action publique »
+
+Depuis, un arrêt de la Chambre criminelle du 5 mai 1997 est venu préciser que « la prescription de l'action publique du chef d'abus de biens sociaux court, sauf dissimulation, à compter de la présentation des comptes annuels par lesquels les dépenses litigieuses sont mises à la charge de la société ».
+
+Pendant longtemps, la Cour de cassation a laissé aux juges du fond le soin d'apprécier l'existence ou non d'une dissimulation, leur donnant ainsi la possibilité de fixer, à leur guise, le point de départ concret de la prescription.
+
+En raison de l'insécurité juridique produite par cette faculté, rendant impossible la fixation objective du point de départ de la prescription, la Cour de cassation a décidé de contrôler les éléments permettant d'apprécier l'existence d'une dissimulation.
+
+Dans deux arrêts en date du 14 juin 2006, la Chambre criminelle de la Cour de cassation a censuré ainsi deux arrêts de cours d'appel en leur reprochant d'avoir mal apprécié les éléments permettant d'exclure ou, au contraire, de révéler l'existence d'une dissimulation.
+
+La chambre criminelle précise ainsi que la dissimulation existe, et persiste, aussi longtemps que les actionnaires ne reçoivent pas une information complète, ou du moins suffisante, pour pouvoir découvrir par eux-mêmes les actes ayant porté atteinte à l'intérêt social.
+
+En exigeant des juges d'appel qu'ils motivent leurs arrêts en précisant les éléments objectifs leur permettant de retenir ou d'écarter l'existence d'une dissimulation, la Cour de cassation reprend le contrôle de cette notion essentielle qui permet de marquer le point de départ de la prescription de l'action publique.
+
+La responsabilité pénale de la personne morale pour abus de biens sociaux
+La loi du 9 mars 2004 consacrée à l'adaptation de la justice aux évolutions de la criminalité (L. no 2004-204, 9 mars 2004 : Journal Officiel 10 mars 2004) a mis fin au caractère spécial de la responsabilité pénale des personnes morales. À compter du 31 décembre 2005, la responsabilité pénale de celles-ci, à l'exception de celle de l'État, des collectivités territoriales et de leurs groupements dans l'exercice d'activités susceptibles de faire l'objet de délégations de service public, peut être engagée pour toutes les infractions prévues par les différents textes répressifs.
+
+Il est donc désormais toujours possible d'agir contre la personne morale lorsqu'un individu s'estime victime d'une infraction. Cependant, conformément à l'article 121-2 du code pénal, il faut toujours démontrer que l'infraction a été commise pour le compte, par les organes ou représentants de ladite personne morale. La responsabilité continuera de nécessiter préalablement la démonstration d'une faute pénale commise par une personne physique. La réforme n'atténue donc nullement la responsabilité pénale des personnes physiques.
+
+Une personne morale ne pourra cependant pas être condamnée pour un abus de biens sociaux commis à ses dépens, puisqu'elle en est victime.
+
+En revanche, il est possible d'imaginer qu'une personne morale soit elle-même mandataire social d'une autre société (avec un représentant permanent), ce qui est possible par exemple pour les présidents de SAS, et que son représentant permanent se rende coupable d'ABS au profit de la société qui est le mandataire social.
+
+Dans ce cas l'auteur de l'ABS est la personne morale/mandataire social agissant par son représentant permanent.
+
+Qui plus est, on peut toujours envisager qu'une société soit coupable de recel d'abus de biens sociaux (par exemple le dirigeant d'une société fait transférer au profit d'une autre dont il est actionnaire des biens en les vendant à vil prix. La société acheteuse serait alors receleuse d'ABS).

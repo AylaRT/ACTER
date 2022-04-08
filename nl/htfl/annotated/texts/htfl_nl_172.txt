@@ -1,0 +1,16 @@
+Hartschade voorkómen bij patiënten met chemotherapie
+
+Waarom dit onderzoek?
+De overleving van patiënten met borstkanker is sterk verbeterd in de afgelopen decennia. Dit gaat echter gepaard met een toename van cardiale schade. Behandeling met chemotherapie met of zonder adjuvante systeemtherapie – met name trastuzumab – kan leiden tot vroege subklinische linker-ventrikel(LV)-schade, die pas na jaren aanleiding geeft tot klinisch manifest hartfalen. Een effectieve behandeling is dan vaak te laat. Het nut van preventieve behandeling met hartfalenmedicatie, zoals angiotensine-II-receptorblokkers of bètablokkers, tijdens de behandeling voor borstkanker is nog niet goed onderzocht.
+
+Onderzoeksvraag
+Is gelijktijdige behandeling met een angiotensine-II-receptorblokker of bètablokker tijdens chemotherapie met of zonder aanvullende behandeling met trastuzumab van invloed op de verandering in de LV-ejectiefractie (LVEF) bij vrouwen die behandeld worden voor borstkanker?
+
+Hoe werd dit onderzocht?
+De onderzoekers voerden een gerandomiseerde geblindeerde placebogecontroleerde studie met een 2x2-opzet uit bij 120 patiënten met borstkanker. De patiënten werden gerandomiseerd in 4 groepen van 30 vóór aanvang van de chemotherapie. De eerste groep werd behandeld met de angiotensine-II-receptorblokker candesartan 32 mg of metoprololsuccinaat retard 100 mg, de tweede groep met candesartan 32 mg of placebo, de derde met metoprololsuccinaat retard 100 mg of placebo, en de vierde met placebo of placebo. De onderzoekers verrichtten aan het begin van de studie en aan het einde van de chemo- of trastuzumabtherapie beeldvormend onderzoek van de LVEF met MRI en echografie. Zij beschouwden een verandering in de LVEF van 5% als statistisch significant.
+
+Belangrijkste resultaten
+In de placebogroep werd een gemiddelde afname in de LVEF gevonden van 2,6% (95%-BI: 1,5-3,8), vergeleken met 0,8% (95%-BI: -0,4-1,9) in de candesartangroep. In de metoprololgroep was geen significante reductie van de LVEF-daling waarneembaar. Het gelijktijdig toedienen van candesartan zwakte de vroege LVEF-daling af tijdens de chemotherapie. Dit stond los van de hoogte van de bloeddruk of het geven van adjuvante therapie.
+
+Consequenties voor de praktijk
+Er zijn geen officiële richtlijnen voor de preventie van cardiale schade bij de behandeling van patiënten met borstkanker. Deze studie toont aan dat het geven van candesartan preventief werkt tegen het ontstaan van cardiotoxiciteit bij de behandeling voor borstkanker. Het voorschrijven hiervan is sterk aan te bevelen bij patiënten met een verhoogd risico op cardiale schade (> 65 jaar, verlaagde LVEF, hypertensie, diabetes mellitus, coronarialijden, atriumfibrilleren, al dan niet herhaalde chemotherapie of adjuvante systeemtherapie met trastuzumab). De vraag rijst of en hoe lang dit gecontinueerd moet worden om ook de vaker voorkomende late hartschade te voorkómen.
