@@ -54,7 +54,7 @@ ACTER is a manually annotated dataset for term extraction, covering 3 languages 
 * "wind" = wind energy
 * "cor" = parallel part of corruption corpus; completely unannotated
 
-**Types of terms/annotations**:
+**Annotation labels**:
 * "Spec" or "Specific": Specific Terms
 * "Com" or "Common": Common Terms
 * "OOD": Out-of-Domain Terms
